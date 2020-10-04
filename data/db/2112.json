@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Фаршировани яйца с босилеково песто",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/farshirovani-iaica-s-bosilekovo-pesto-1-[2112].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/farshirovani-iaica-s-bosilekovo-pesto-1-[2112].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/farshirovani-iaica-s-bosilekovo-pesto-1-[2112].jpg"
+    ],
+    "datePublished": "2012-10-08",
+    "cookTime": "PT0H30M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "166 calories",
+      "carbohydrateContent": "2 g",
+      "fatContent": "13 g",
+      "proteinContent": "8 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "8.547225 g",
+      "cholesterolContent": "280 mg"
+    },
+    "recipeIngredient": [
+      "3  яйца",
+      "2 стръка босилек",
+      "1 скилидка чесън",
+      "2 с.л. зехтин",
+      "1 с.л. лимонов сок",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Яйцата (3 бр) се сваряват до пълната им готовност. Обелват се и се разполовяват. Жълтъците им се поставят в блендер, заедно с босилека (2 стръка), чесъна (1 скилидка), зехтина (2 с.л.), лимоновия сок (1 с.л.) и солта. Всичко се пасира и получената смес се поставя в шприц.  С помощта на шприца сместа се поставя обратно в белтъците и предястието се сервира веднага. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "яйца",
+      "qty": "3",
+      "id": 5
+    },
+    {
+      "name": "босилек",
+      "qty": "2 стръка",
+      "id": 25
+    },
+    {
+      "name": "чесън",
+      "qty": "1 скилидка",
+      "id": 6
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

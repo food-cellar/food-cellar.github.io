@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата с ягоди, синьо сирене и орехи",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-s-iagodi-sinioo-sirene-i-orehi-2-[2016].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-s-iagodi-sinioo-sirene-i-orehi-2-[2016].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-s-iagodi-sinioo-sirene-i-orehi-2-[2016].jpg"
+    ],
+    "datePublished": "2012-06-29",
+    "cookTime": "PT0H10M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "234 calories",
+      "carbohydrateContent": "7 g",
+      "fatContent": "19 g",
+      "proteinContent": "10 g",
+      "saturatedFatContent": "6 g",
+      "unsaturatedFatContent": "11.927853333333 g",
+      "cholesterolContent": "19 mg"
+    },
+    "recipeIngredient": [
+      "1 връзка зелена салата",
+      "1 връзка салата Лоло Росо",
+      "150 г синьо сирене",
+      "50 г ягоди",
+      "50 г орехи",
+      "1 с.л. лимонов сок",
+      "6 с.л. зехтин",
+      "сол",
+      "1 връхче босилек"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Двата вида салата се измиват, отцеждат и накъсват на парченца. Овкусяват се в дълбока купа с лимонов сок (1 с.л.), зехтин (6 с.л.) и сол. Салатата се поднася, като върху нея се разпределят измитите и разполовени ягоди (50 г), нарязаното на дребни кубчета синьо сирене (150 г) и натрошените орехи (50 г). Салатата се декорира с връхче пресен босилек."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "зелена салата",
+      "qty": "1 връзка",
+      "id": 87
+    },
+    {
+      "name": "салата Лоло Росо",
+      "qty": "1 връзка",
+      "id": 87
+    },
+    {
+      "name": "синьо сирене",
+      "qty": "150 г",
+      "id": 108
+    },
+    {
+      "name": "ягоди",
+      "qty": "50 г",
+      "id": 109
+    },
+    {
+      "name": "орехи",
+      "qty": "50 г",
+      "id": 31
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    },
+    {
+      "name": "зехтин",
+      "qty": "6 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "босилек",
+      "qty": "1 връхче",
+      "id": 25
+    }
+  ]
+}

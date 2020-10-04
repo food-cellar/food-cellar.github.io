@@ -1,0 +1,74 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Панирано сирене Бри в галета ",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/panirano-sirene-bri-v-galeta-1-[3172].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/panirano-sirene-bri-v-galeta-1-[3172].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/panirano-sirene-bri-v-galeta-1-[3172].jpg"
+    ],
+    "datePublished": "2017-03-11",
+    "cookTime": "PT0H40M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "1041 calories",
+      "carbohydrateContent": "18 g",
+      "fatContent": "93 g",
+      "proteinContent": "32 g",
+      "saturatedFatContent": "28 g",
+      "unsaturatedFatContent": "60.15383 g",
+      "cholesterolContent": "219 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг сирене бри",
+      "2  белтъка",
+      "100 г галета",
+      "сол",
+      "250 мл. олио за пържене"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Белтъците (2 бр) се разбиват с вилица докато се разпенят и в тях се овалват малките пити Бри (1/2 кг). След това се овалва в галета (100 г), увива се във фолио и се слага във фризера за да стегне (може да остане така и по-дълго, докато решите да го сготвите)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Олиото се загрява до 180-200 градуса в подходящ съд, така че питите сирене да са покрити над половината. Запържва се от двете страни, като се внимава панировката да не загори. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Сервира се със сладко от боровинки или кайсии."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "сирене бри",
+      "qty": "1/2 кг",
+      "id": 228
+    },
+    {
+      "name": "белтъка",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "галета",
+      "qty": "100 г",
+      "id": 58
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "олио за пържене",
+      "qty": "250 мл.",
+      "id": 4
+    }
+  ]
+}

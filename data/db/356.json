@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Зелена салата с портокал и соеви кълнове",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-s-portokal-i-soevi-kulnove-4-[356].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-s-portokal-i-soevi-kulnove-4-[356].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-s-portokal-i-soevi-kulnove-4-[356].jpg"
+    ],
+    "datePublished": "2010-11-26",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "148 calories",
+      "carbohydrateContent": "12 g",
+      "fatContent": "10 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "7.65734 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "6 листа зелена салата",
+      "1 стрък пресен лук",
+      "1/4  портокал",
+      "20 г соеви кълнове",
+      "6  маслини",
+      "сол",
+      "1 с.л. зехтин",
+      "1 с.л. лимонов сок"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Салата (6 листа) се накъсва на едри “парцали”, лукът (1 стрък) се нарязва на ситно. Добавят се соевите кълнове (20 г) и парченца от нарязан портокал (1/4 бр). Овкусява се със сол, зехтин и лимонов сок и се разбърква. Украсява се отгоре с маслини (6 бр), а отстрани - с тънки портокалови резенчета."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "зелена салата",
+      "qty": "6 листа",
+      "id": 87
+    },
+    {
+      "name": "пресен лук",
+      "qty": "1 стрък",
+      "id": 24
+    },
+    {
+      "name": "портокал",
+      "qty": "1/4",
+      "id": 122
+    },
+    {
+      "name": "соеви кълнове",
+      "qty": "20 г",
+      "id": 225
+    },
+    {
+      "name": "маслини",
+      "qty": "6",
+      "id": 50
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "зехтин",
+      "qty": "1 с.л.",
+      "id": 10
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    }
+  ]
+}

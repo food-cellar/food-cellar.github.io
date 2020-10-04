@@ -1,0 +1,54 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Смуути от портокал и пъпеш",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/smuti-ot-portokal-i-pupesh-1-[914].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/smuti-ot-portokal-i-pupesh-1-[914].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/smuti-ot-portokal-i-pupesh-1-[914].jpg"
+    ],
+    "datePublished": "2012-08-16",
+    "cookTime": "PT0H5M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Напитки",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "105 calories",
+      "carbohydrateContent": "26 g",
+      "fatContent": "0 g",
+      "proteinContent": "1 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.0815 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1/4  пъпеш",
+      "2  портокала",
+      "8 кубчета лед"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Обеленият и почистен от семките пъпеш (1/4 бр) се поставя в блендер, заедно с кубчетата лед (8 кубчета) и обелените и нарязани на парченца портокали (2 бр). Всички продукти сме пасират и сместа се разпределя в чаши. Смуутито се сервира веднага. По желание се декорира с парченце диня."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пъпеш",
+      "qty": "1/4",
+      "id": 252
+    },
+    {
+      "name": "портокала",
+      "qty": "2",
+      "id": 122
+    },
+    {
+      "name": "лед",
+      "qty": "8 кубчета",
+      "id": 11
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Африканска доматена супа с грис и кимион",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/su-ot-oazisite-na-tunis-2-[1271].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/su-ot-oazisite-na-tunis-2-[1271].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/su-ot-oazisite-na-tunis-2-[1271].jpg"
+    ],
+    "datePublished": "2011-04-22",
+    "cookTime": "PT0H55M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "286 calories",
+      "carbohydrateContent": "18 g",
+      "fatContent": "23 g",
+      "proteinContent": "3 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "18.133135 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "70 г грис",
+      "2 с.л. доматено пюре",
+      "100 мл. зехтин",
+      "1 глава лук",
+      "4 скилидки чесън",
+      "1 с.л. червен пипер",
+      "1 ч.л. кимион",
+      "3 с.л. лимонов сок",
+      "черен пипер",
+      "сол",
+      "4 ч.ч. вода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Ситно нарязаният лук (1 глава) се запържва в зехтина (100 мл.) до омекване. Добавят се доматеното пюре (2 с.л.), счуканият чесън (4 скилидки), червеният пипер (1 с.л.), кимионът (1 ч.л.), солта и черният пипер. Всичко се разбърква много добре. Добавя се водата (4 ч.ч.) и готвенето продължава около 20 минути. След това се добавя грисът (70 г) и супата се вари 10 минути. Накрая се добавя лимоновият сок (3 с.л.) и всичко се разбърква. Супата се сервира гореща. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Забележка:Су се наричат пикантните супи с грис и каперси."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "грис",
+      "qty": "70 г",
+      "id": 140
+    },
+    {
+      "name": "доматено пюре",
+      "qty": "2 с.л.",
+      "id": 35
+    },
+    {
+      "name": "зехтин",
+      "qty": "100 мл.",
+      "id": 10
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "червен пипер",
+      "qty": "1 с.л.",
+      "id": 20
+    },
+    {
+      "name": "кимион",
+      "qty": "1 ч.л.",
+      "id": 42
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "3 с.л.",
+      "id": 17
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "вода",
+      "qty": "4 ч.ч.",
+      "id": 11
+    }
+  ]
+}

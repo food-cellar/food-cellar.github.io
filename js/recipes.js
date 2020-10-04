@@ -1,3 +1,4 @@
+import { getRecipe } from './data.js';
 import e, { div, span } from './dom.js';
 import { isStaple, isBanned, isAvailable, hasMandatory } from './storage.js';
 
@@ -7,39 +8,41 @@ export default async function recipesPage(category, ingredientsIndex, showDetail
     const recipes = Object.values((await category.getData()));
 
     const filtered = recipes
-        .filter(r => hasMandatory(r.ingredients))
-        .filter(r => r.ingredients.reduce((p, c) => p || isBanned(c.id), false) == false)
+        .filter(r => hasMandatory(r.ingredientIds))
+        .filter(r => r.ingredientIds.reduce((p, c) => p || isBanned(c), false) == false)
         .map(r => {
             const recipe = JSON.parse(JSON.stringify(r)); //Easiest deep-copy
-            recipe.recipe.missingList = [];
+            recipe.missingList = [];
             let missing = 0;
             let popularity = 1;
-            for (let i of recipe.ingredients) {
-                if ((isAvailable(i.id) || isStaple(i.id)) == false) {
+            for (let id of recipe.ingredientIds) {
+                if ((isAvailable(id) || isStaple(id)) == false) {
                     missing++;
-                    recipe.recipe.missingList.push(i.id);
+                    recipe.missingList.push(id);
                 }
-                popularity = Math.sqrt(popularity * ingredientsIndex[i.id].popularity);
+                popularity = Math.sqrt(popularity * ingredientsIndex[id].popularity);
             }
-            recipe.recipe.missing = missing;
-            recipe.recipe.missingLabel = `${recipe.ingredients.length - missing} / ${recipe.ingredients.length}`;
-            recipe.recipe.popularity = popularity;
+            recipe.missing = missing;
+            recipe.missingLabel = `${recipe.ingredientIds.length - missing} / ${recipe.ingredientIds.length}`;
+            recipe.popularity = popularity;
 
             return recipe;
-        }).sort((a, b) => (a.recipe.missing - b.recipe.missing) || (b.recipe.popularity - a.recipe.popularity));
+        }).sort((a, b) => (a.missing - b.missing) || (b.popularity - a.popularity));
 
-    const element = e('section', filtered.map(r => recipeCard(r, showDetails)));
+    const element = e('section', await Promise.all(filtered.slice(0, 100).map(r => recipeCard(r, showDetails))));
 
     return element;
 }
 
-function recipeCard(record, showDetails) {
+async function recipeCard(record, showDetails) {
+    record = Object.assign(record, await getRecipe(record.id));
+
     const element = e('article', [
         div(record.recipe.name, { className: 'cardLabel' }),
         div([
-            span(record.recipe.popularity),
+            span(record.popularity),
             e('ul', record.ingredients.map(ingredientItem), { className: 'ingredientList' }),
-            span(record.recipe.missingLabel, { className: 'cardCount' })
+            span(record.missingLabel, { className: 'cardCount' })
         ], { className: 'cardContent' })
     ]);
 
@@ -49,7 +52,7 @@ function recipeCard(record, showDetails) {
 
     function ingredientItem(ingredient) {
         const element = e('li', e('abbr', `${ingredient.qty} ${ingredient.name}`, { title: ingredient.id }));
-        if (record.recipe.missingList.includes(ingredient.id)) {
+        if (record.missingList.includes(ingredient.id)) {
             element.classList.add('missing');
         }
         return element;

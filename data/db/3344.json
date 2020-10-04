@@ -1,0 +1,94 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Домашни гевреци с прясно мляко и мая",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/domashni-gevreci-s-priasno-mliako-i-maia-1-[3344].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/domashni-gevreci-s-priasno-mliako-i-maia-1-[3344].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/domashni-gevreci-s-priasno-mliako-i-maia-1-[3344].jpg"
+    ],
+    "datePublished": "2019-02-08",
+    "cookTime": "PT1H0M",
+    "recipeYield": "12 servings",
+    "recipeCategory": "Хлебни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "297 calories",
+      "carbohydrateContent": "52 g",
+      "fatContent": "6 g",
+      "proteinContent": "6 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "4.4727766666667 g",
+      "cholesterolContent": "2 mg"
+    },
+    "recipeIngredient": [
+      "600 г брашно",
+      "100 мл. вода",
+      "150 мл. прясно мляко",
+      "70 мл. олио",
+      "150 г захар",
+      "20 г мая",
+      "2 с.л. мед",
+      "1 с.л. сусам",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Маята (20 г) се разтваря в топла вода, заедно с лъжичка захар. Ако се използва суха мая, количеството трябва да е два пъти по-малко. Захарта (150 г) се разтваря в топлото прясно мляко (150 мл.). Брашното (600 г) се изсипва в купа, като се пресява. Прави се кладенче по средата и в него се сипват млякото, олиото и готовата мая. Омесва се еластично тесто, което се покрива с фолио и се оставя да втаса за половин час, на топло. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Готовото тесто се разрязва на късове под формата на топки. От всеки къс се оформят фитили, чийто краища се слепват, подобно на снимката. Поставят се в тава и се оставят отново да втасат. Когато увеличат обема си се намазват с меда (2 с.л.), предварително смесен в една лъжица вода. Накрая се поръсват обилно със сусам (1 с.л.). Пекат се в предварително загрята фурна на 220 градуса, докато придобият апетитен цвят."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "брашно",
+      "qty": "600 г",
+      "id": 7
+    },
+    {
+      "name": "вода",
+      "qty": "100 мл.",
+      "id": 11
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "150 мл.",
+      "id": 14
+    },
+    {
+      "name": "олио",
+      "qty": "70 мл.",
+      "id": 4
+    },
+    {
+      "name": "захар",
+      "qty": "150 г",
+      "id": 9
+    },
+    {
+      "name": "мая",
+      "qty": "20 г",
+      "id": 52
+    },
+    {
+      "name": "мед",
+      "qty": "2 с.л.",
+      "id": 38
+    },
+    {
+      "name": "сусам",
+      "qty": "1 с.л.",
+      "id": 113
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

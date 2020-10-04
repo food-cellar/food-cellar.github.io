@@ -1,0 +1,60 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Зеленчуково зелено смути с броколи, лимон и черен пипер",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zelenchukovo-smuti-s-brokoli-limon-i-cheren-piper-2-[3015].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zelenchukovo-smuti-s-brokoli-limon-i-cheren-piper-2-[3015].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zelenchukovo-smuti-s-brokoli-limon-i-cheren-piper-2-[3015].jpg"
+    ],
+    "datePublished": "2015-01-08",
+    "cookTime": "PT0H5M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Напитки",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "84 calories",
+      "carbohydrateContent": "13 g",
+      "fatContent": "2 g",
+      "proteinContent": "6 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "0.35357 g",
+      "cholesterolContent": "7 mg"
+    },
+    "recipeIngredient": [
+      "1/2 глава броколи",
+      "1  лимон",
+      "100 мл. прясно мляко",
+      "1 щип. черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Мистър Брокол е известен като един от най-полезните зеленчуци изобщо. Освен че е пълен с витамини, е и силно антиканцерогенен. Това смути ще ви зареди с енергия и концентрация, особено в зимните месеци, когато често се чувстваме отпаднали. Приготвихме го със сокоизстисквачката <a href=http://www.tefal.bg/All+Products/Food+preparation/Juicers/Products/Infiny+Press+Revolution/Infiny+Press+Revolution.htm?utm_source=1001recepti&utm_medium=blogpost&utm_campaign=1001recepti_InfinyPress>Tefal Infiny Press Revolution</a>, с която всяко смути се прави с лекота за нула време.Това свежо смути се прави, като бланшираните за минута във вряла вода броколи се залеят с ледена вода, за да се запази яркият им зелен цвят, след което се пускат в уреда и сокът се смесва с малко лимонов сок на вкус, прясно мляко и черен пипер.Тази напитка ще ви зареди не само с енергично настроение, но и със сили да взимате максимума от живота."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "броколи",
+      "qty": "1/2 глава",
+      "id": 57
+    },
+    {
+      "name": "лимон",
+      "qty": "1",
+      "id": 43
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "100 мл.",
+      "id": 14
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 щип.",
+      "id": 2
+    }
+  ]
+}

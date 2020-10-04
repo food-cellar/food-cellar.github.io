@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Телешки бульон с яйце",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/teleshki-bulioon-s-iaice-1-[753].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/teleshki-bulioon-s-iaice-1-[753].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/teleshki-bulioon-s-iaice-1-[753].jpg"
+    ],
+    "datePublished": "2011-01-01",
+    "cookTime": "PT0H15M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "92 calories",
+      "carbohydrateContent": "1 g",
+      "fatContent": "4 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "1.6145725 g",
+      "cholesterolContent": "187 mg"
+    },
+    "recipeIngredient": [
+      "2 винен оцет",
+      "3 ч.ч. вода",
+      "1/2 ч.ч. червено вино",
+      "4  яйца",
+      "3 кубчета телешки бульон",
+      "1 стръкче розмарин",
+      "1 стръкче див лук",
+      "1 щип. сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Водата (3 ч.ч.) се кипва заедно със солта (1 щип.) и оцета (2 винен). След това се добавят кубчетата телешки бульон (3 кубчета), червеното вино (1/2 ч.ч.) и стръкчето розмарин. Бульонът ври 5 минути. След това тенджерата се маха от котлона и яйцата (4 бр), предварително чукнати в отделна купа, се добавят в него. Тенджерата се връща на котлона и бульонът се вари, докато жълтъците се покрият с белтък. Поднася се топъл - във всяка порция по 1 яйце, и поръсен със ситно нарязан див или зелен лук (1 стръкче)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "оцет",
+      "qty": "2 винен",
+      "id": 61
+    },
+    {
+      "name": "вода",
+      "qty": "3 ч.ч.",
+      "id": 11
+    },
+    {
+      "name": "червено вино",
+      "qty": "1/2 ч.ч.",
+      "id": 98
+    },
+    {
+      "name": "яйца",
+      "qty": "4",
+      "id": 5
+    },
+    {
+      "name": "телешки бульон",
+      "qty": "3 кубчета",
+      "id": 26
+    },
+    {
+      "name": "розмарин",
+      "qty": "1 стръкче",
+      "id": 77
+    },
+    {
+      "name": "див лук",
+      "qty": "1 стръкче",
+      "id": 24
+    },
+    {
+      "name": "сол",
+      "qty": "1 щип.",
+      "id": 1
+    }
+  ]
+}

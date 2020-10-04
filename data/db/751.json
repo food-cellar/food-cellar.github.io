@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Топла салата от елда, гъби печурки и сметана",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/topla-salata-ot-elda-3-[751].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/topla-salata-ot-elda-3-[751].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/topla-salata-ot-elda-3-[751].jpg"
+    ],
+    "datePublished": "2010-12-13",
+    "cookTime": "PT0H40M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "442 calories",
+      "carbohydrateContent": "63 g",
+      "fatContent": "18 g",
+      "proteinContent": "12 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "13.08649 g",
+      "cholesterolContent": "8 mg"
+    },
+    "recipeIngredient": [
+      "150 светла елда",
+      "1 глава лук",
+      "1 малък морков",
+      "4  печурки",
+      "1 скилидка чесън",
+      "сол",
+      "черен пипер",
+      "30 мл. зехтин",
+      "2 течна готварска сметана"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Лукът (1 глава) се нарязва на ситно, морковът (1 малък) се настъргва на ситното ренде, а печурките (4 бр) се нарязват на дребни кубчета. Зехтинът (30 мл.) се загрява и в него се задушава тази зеленчукова смес. Щом стане готова, се смесва със сварената елда (150 светла), счукания чесън (1 скилидка), подправките и сметаната (2 течна готварска). Всичко се разбърква. Слага се в купа и се натъпква, след което се обръща в салатена чиния. Украсява се с листенца пресен босилек."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "елда",
+      "qty": "150 светла",
+      "id": 230
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "морков",
+      "qty": "1 малък",
+      "id": 13
+    },
+    {
+      "name": "печурки",
+      "qty": "4",
+      "id": 62
+    },
+    {
+      "name": "чесън",
+      "qty": "1 скилидка",
+      "id": 6
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "зехтин",
+      "qty": "30 мл.",
+      "id": 10
+    },
+    {
+      "name": "сметана",
+      "qty": "2 течна готварска",
+      "id": 19
+    }
+  ]
+}

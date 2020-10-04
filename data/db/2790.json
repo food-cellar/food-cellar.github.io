@@ -1,0 +1,116 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пухкав кекс с какао, канела и орехи",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/puhkav-keks-s-kakao-kanela-i-orehi-2-[2790].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/puhkav-keks-s-kakao-kanela-i-orehi-2-[2790].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/puhkav-keks-s-kakao-kanela-i-orehi-2-[2790].jpg"
+    ],
+    "datePublished": "2014-02-18",
+    "cookTime": "PT1H0M",
+    "recipeYield": "12 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "532 calories",
+      "carbohydrateContent": "77 g",
+      "fatContent": "20 g",
+      "proteinContent": "11 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "16.9719925 g",
+      "cholesterolContent": "50 mg"
+    },
+    "recipeIngredient": [
+      "3 ч.ч. брашно",
+      "3  яйца",
+      "1 1/2 ч.ч. захар",
+      "1 к.ч. олио",
+      "1 ч.ч. прясно мляко",
+      "1 ч.ч. орехи",
+      "1/2 к.ч. какао",
+      "1 с.л. канела",
+      "1 ч.л. бакпулвер",
+      "2 с.л. пудра захар"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Яйцата (3 бр) и захарта (1 1/2 ч.ч.) се разбиват до побеляване."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "След това се добавят олиото (1 к.ч.), брашното (3 ч.ч.), прясното мляко (1 ч.ч.), канелата (1 с.л.) и бакпулверът (1 ч.л.)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Сместа се разбива много добре. Накрая се добавят смлените орехи (1 ч.ч.) и отново се разбърква."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Тестото се разделя на две. В едната част се изсипва какаото (1/2 к.ч.) и се разбърква. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Форма за торта с подвижен ринг се намазва с олио и се поръсва с брашно. В нея се изсипва бялото кексово тесто. Върху него се изсипва кафявото тесто."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Кексът се пече при 180 градуса за 45-60 минути. Разрязва се след като изстине и по желание се поръсва с пудра захар."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "брашно",
+      "qty": "3 ч.ч.",
+      "id": 7
+    },
+    {
+      "name": "яйца",
+      "qty": "3",
+      "id": 5
+    },
+    {
+      "name": "захар",
+      "qty": "1 1/2 ч.ч.",
+      "id": 9
+    },
+    {
+      "name": "олио",
+      "qty": "1 к.ч.",
+      "id": 4
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "1 ч.ч.",
+      "id": 14
+    },
+    {
+      "name": "орехи",
+      "qty": "1 ч.ч.",
+      "id": 31
+    },
+    {
+      "name": "какао",
+      "qty": "1/2 к.ч.",
+      "id": 45
+    },
+    {
+      "name": "канела",
+      "qty": "1 с.л.",
+      "id": 46
+    },
+    {
+      "name": "бакпулвер",
+      "qty": "1 ч.л.",
+      "id": 29
+    },
+    {
+      "name": "пудра захар",
+      "qty": "2 с.л.",
+      "id": 34
+    }
+  ]
+}

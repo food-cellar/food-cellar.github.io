@@ -1,0 +1,94 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Задушено заешко с чесън, гъби и сос от бяло вино на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zadusheno-zaeshko-s-chesun-i-gubi-1-[1990].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zadusheno-zaeshko-s-chesun-i-gubi-1-[1990].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zadusheno-zaeshko-s-chesun-i-gubi-1-[1990].jpg"
+    ],
+    "datePublished": "2012-06-24",
+    "cookTime": "PT2H25M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "483 calories",
+      "carbohydrateContent": "11 g",
+      "fatContent": "21 g",
+      "proteinContent": "42 g",
+      "saturatedFatContent": "9 g",
+      "unsaturatedFatContent": "7.61446 g",
+      "cholesterolContent": "134 mg"
+    },
+    "recipeIngredient": [
+      "1  заек",
+      "1 глава чесън",
+      "1/2 кг гъби",
+      "1 глава лук",
+      "магданоз",
+      "сол",
+      "пипер",
+      "1/2 л. бяло вино",
+      "50 г масло"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Заешкото (1 бр) се нарязва на парчета и се оставя на стайна температура за 30 минути.Отрязва се долната част на главата чесън (1 глава), увива се във фолио и се пече в загрята фурна за 45 минути. Щом омекне, фолиото се отстранява и чесънът се изстисква от люспите. Така получената паста се използва по-късно за соса."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Гъбите (1/2 кг) се нарязват на половинки или четвъртинки и се задушават в малко масло (50 г). Щом гъбите придобият златист цвят, се добавя нарязан на ситно лук (1 глава) и се готви още 2-3 минути. Добавя се чесновата паста и се разбърква. Залива се с бяло вино (1/2 л.) и щом заври, се добавят заешките късове. Овкусява се със сол и пипер. Котлонът се намалява и ястието се оставя да къкри 90 минути. Сервира се поръсено със ситно нарязан магданоз."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "заек",
+      "qty": "1",
+      "id": 223
+    },
+    {
+      "name": "чесън",
+      "qty": "1 глава",
+      "id": 6
+    },
+    {
+      "name": "гъби",
+      "qty": "1/2 кг",
+      "id": 37
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "магданоз",
+      "qty": "Parsing error",
+      "id": 12
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "бяло вино",
+      "qty": "1/2 л.",
+      "id": 41
+    },
+    {
+      "name": "масло",
+      "qty": "50 г",
+      "id": 8
+    }
+  ]
+}

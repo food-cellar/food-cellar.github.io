@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Задушено свинско месо с пържен ориз и моркови приготвено на котлон в тиган",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/svinsko-s-oriz-i-morkovi-1-[2781].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/svinsko-s-oriz-i-morkovi-1-[2781].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/svinsko-s-oriz-i-morkovi-1-[2781].jpg"
+    ],
+    "datePublished": "2014-02-17",
+    "cookTime": "PT2H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "638 calories",
+      "carbohydrateContent": "43 g",
+      "fatContent": "36 g",
+      "proteinContent": "31 g",
+      "saturatedFatContent": "12 g",
+      "unsaturatedFatContent": "19.99629 g",
+      "cholesterolContent": "108 mg"
+    },
+    "recipeIngredient": [
+      "600 г свинско месо",
+      "1 ч.ч. ориз",
+      "1  морков",
+      "1 глава лук",
+      "3 ч.ч. бульон",
+      "1 ч.л. черен пипер",
+      "1 ч.л. джоджен",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Свинското месо (600 г) се нарязва на хапки и се залива с вода. Поставя се на котлона и щом заври, се отстранява пяната. Вари около част и половина до пълна готовност. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "След това месото се отстранява с решетъчна лъжица, а бульонът, получен от неговото варене се запазва."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Морковът (1 бр) се настъргва или нарязва на много ситни кубчета. Заедно със ситно нарязания лук (1 глава) се поставя в дълбок тиган и се задушава в мазнина, докато зеленчуците омекнат. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "След това се добавя оризът (1 ч.ч.) и се пържи, докато стане прозрачен. После се добавя бульон от варенето на месото (3 ч.ч.) и се прибавят подправките - черен пипер (1 ч.л.), сол и джоджен (1 ч.л.). Ястието се оставя на котлона, докато оризът напълно поеме течността. Щом е готово, се добавя свинското месо и се разбърква. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "свинско месо",
+      "qty": "600 г",
+      "id": 67
+    },
+    {
+      "name": "ориз",
+      "qty": "1 ч.ч.",
+      "id": 22
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "бульон",
+      "qty": "3 ч.ч.",
+      "id": 26
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "джоджен",
+      "qty": "1 ч.л.",
+      "id": 60
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

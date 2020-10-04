@@ -1,0 +1,98 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пасирана крем супа от спанак и картофи с бекон, сметана и прясно мляко",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/krem-supa-ot-spanak-s-bekon-1-[2505].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/krem-supa-ot-spanak-s-bekon-1-[2505].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/krem-supa-ot-spanak-s-bekon-1-[2505].jpg"
+    ],
+    "datePublished": "2013-05-10",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "778 calories",
+      "carbohydrateContent": "71 g",
+      "fatContent": "43 g",
+      "proteinContent": "46 g",
+      "saturatedFatContent": "19 g",
+      "unsaturatedFatContent": "20.013615 g",
+      "cholesterolContent": "86 mg"
+    },
+    "recipeIngredient": [
+      "2  картофа",
+      "500  спанак",
+      "1 глава лук",
+      "1/2 л. прясно мляко",
+      "100 мл. сметана",
+      "2 с.л. масло",
+      "150 г бекон",
+      "1 щип. черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Картофите (2 бр) се измиват, обелват и нарязват на едри кубчета. Заедно с обеления кромид лук (1 глава) се поставят да се варят в дълбока тенджера. Добавя се сол и варенето продължава, докато зеленчуците омекнат. Важно е водата, в която се варят, да е в количество, колкото да покрие зеленчуците."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Докато картофите и лукът се варят, спанакът (500 бр) се измива старателно, отцежда се и се добавя към сварените зеленчуци. Вари се няколко минути, след което всичко се пасира с кухненски робот. След като се получи еднородна смес, се добавят прясното мляко (1/2 л.), маслото (2 с.л.) и сметаната (100 мл.). Пасира се отново."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Супата се поднася с изпечени, хрупкави резени бекон. По желание може да се сервира с кисело мляко."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "картофа",
+      "qty": "2",
+      "id": 16
+    },
+    {
+      "name": "спанак",
+      "qty": "500",
+      "id": 40
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "1/2 л.",
+      "id": 14
+    },
+    {
+      "name": "сметана",
+      "qty": "100 мл.",
+      "id": 19
+    },
+    {
+      "name": "масло",
+      "qty": "2 с.л.",
+      "id": 8
+    },
+    {
+      "name": "бекон",
+      "qty": "150 г",
+      "id": 88
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 щип.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

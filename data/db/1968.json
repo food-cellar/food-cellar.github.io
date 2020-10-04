@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Песто с мариновани сушени домати",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pesto-s-marinovani-susheni-domati-2-[1968].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pesto-s-marinovani-susheni-domati-2-[1968].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pesto-s-marinovani-susheni-domati-2-[1968].jpg"
+    ],
+    "datePublished": "2012-05-23",
+    "cookTime": "PT0H5M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "200 calories",
+      "carbohydrateContent": "24 g",
+      "fatContent": "10 g",
+      "proteinContent": "7 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "7.68116 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "150 г сушени домати",
+      "40 г кашу",
+      "2 скилидки чесън",
+      "3 с.л. зехтин",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Маринованите сушени домати (150 г) се поставят в блендер заедно със суровото кашу (40 г), обелените скилидки чесън (2 скилидки), зехтина (3 с.л.) и солта. Всичко се пасира до получаването на гладка и гъста смес. Пестото е идеална закуска, поднесена с препечени филийки. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "сушени домати",
+      "qty": "150 г",
+      "id": 121
+    },
+    {
+      "name": "кашу",
+      "qty": "40 г",
+      "id": 200
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "зехтин",
+      "qty": "3 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

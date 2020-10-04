@@ -1,0 +1,120 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Бързо ризото с моркови, пилешко месо, гъби, бяло вино и сирене пармезан",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/rizoto-s-morkovi-pileshko-meso-i-gubi-1-[2798].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/rizoto-s-morkovi-pileshko-meso-i-gubi-1-[2798].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/rizoto-s-morkovi-pileshko-meso-i-gubi-1-[2798].jpg"
+    ],
+    "datePublished": "2014-02-21",
+    "cookTime": "PT0H45M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "464 calories",
+      "carbohydrateContent": "47 g",
+      "fatContent": "12 g",
+      "proteinContent": "34 g",
+      "saturatedFatContent": "6 g",
+      "unsaturatedFatContent": "4.1696075 g",
+      "cholesterolContent": "89 mg"
+    },
+    "recipeIngredient": [
+      "1 ч.ч. ориз",
+      "400 г пилешко месо",
+      "250 г гъби",
+      "1  морков",
+      "1 глава лук",
+      "3 скилидки чесън",
+      "3 ч.ч. месен бульон",
+      "150 мл. бяло вино",
+      "50 г пармезан",
+      "1 ч.л. черен пипер",
+      "сол",
+      "2 с.л. масло"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Лукът (1 глава) се нарязва на ситно, морковът (1 бр) се настъргва и заедно със счукания чесън (3 скилидки) се задушават в маслото (2 с.л.) до омекване. Добавят се нарязаните на полумесеци гъби (250 г) и се задушават за няколко минути. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Към тях се добавя оризът (1 ч.ч.) и леко се запържва. Долива се виното (150 мл.) и оризът къкри, докато го поеме. След това се долива бульонът (3 ч.ч.) на порции. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Малко преди оризът да поеме цялата течност, се добавя изпърженото в отделен тиган и нарязано на хапки бяло пилешко месо (400 г)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Ризотото се бърка непрекъснато и преди поднасяне се подправя със сол, черен пипер (1 ч.л.) и настърган пармезан (50 г). Разбърква се добре и се поднася горещо."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "ориз",
+      "qty": "1 ч.ч.",
+      "id": 22
+    },
+    {
+      "name": "пилешко месо",
+      "qty": "400 г",
+      "id": 49
+    },
+    {
+      "name": "гъби",
+      "qty": "250 г",
+      "id": 37
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "чесън",
+      "qty": "3 скилидки",
+      "id": 6
+    },
+    {
+      "name": "месен бульон",
+      "qty": "3 ч.ч.",
+      "id": 26
+    },
+    {
+      "name": "бяло вино",
+      "qty": "150 мл.",
+      "id": 41
+    },
+    {
+      "name": "пармезан",
+      "qty": "50 г",
+      "id": 59
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "масло",
+      "qty": "2 с.л.",
+      "id": 8
+    }
+  ]
+}

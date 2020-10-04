@@ -1,0 +1,54 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Препечени хлебчета с фъстъчено масло и сладко",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/prepecheni-hlebcheta-s-fustucheno-maslo-i-sladko-1-[2175].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/prepecheni-hlebcheta-s-fustucheno-maslo-i-sladko-1-[2175].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/prepecheni-hlebcheta-s-fustucheno-maslo-i-sladko-1-[2175].jpg"
+    ],
+    "datePublished": "2012-11-24",
+    "cookTime": "PT0H10M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "324 calories",
+      "carbohydrateContent": "35 g",
+      "fatContent": "17 g",
+      "proteinContent": "11 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "12.7563525 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "4 филии хляб",
+      "8 с.л. фъстъчено масло",
+      "8 с.л. сладко от боровинки"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Филийките се нарязват на хапки или се оформят с помощта на ринг. Изпичат се в гореща фурна от двете страни, докато станат златисти и хрупкави. Намазват се с фъстъчено масло и се поливат със сладко от боровинки с цели плодове. Това предястие е великолепно и с него със сигурност ще впечатлите гостите си. Можете да го сервирате с вино или пък да го поднесете като десерт. Изборът е ваш!"
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "хляб",
+      "qty": "4 филии",
+      "id": 66
+    },
+    {
+      "name": "фъстъчено масло",
+      "qty": "8 с.л.",
+      "id": 278
+    },
+    {
+      "name": "сладко от боровинки",
+      "qty": "8 с.л.",
+      "id": 89
+    }
+  ]
+}

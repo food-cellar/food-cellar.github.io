@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Винени нектарини в яйчен крем сабайон",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/vineni-nektarini-v-sabaion-1-[684].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/vineni-nektarini-v-sabaion-1-[684].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/vineni-nektarini-v-sabaion-1-[684].jpg"
+    ],
+    "datePublished": "2010-11-28",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "377 calories",
+      "carbohydrateContent": "47 g",
+      "fatContent": "11 g",
+      "proteinContent": "4 g",
+      "saturatedFatContent": "5 g",
+      "unsaturatedFatContent": "3.994615 g",
+      "cholesterolContent": "233 mg"
+    },
+    "recipeIngredient": [
+      "4  нектарини",
+      "100 г захар",
+      "1/2 л. червено вино",
+      "4  жълтъка",
+      "2 с.л. пудра захар",
+      "2 с.л. масло",
+      "1 опак. ванилия"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Нектарините (4 бр) се нарязват на половинки. Заливат се с виното (1/2 л.) и заедно със захарта (100 г) се варят на слаб огън, докато се получи гъст сос. Кремът се приготвя, като жълтъците (4 бр), пудрата захар (2 с.л.) и ванилията (1 опак.) се разбиват с миксер на водна баня. Важно е водата да не се допуска да заври, както и съдът, в който е сместа за крема, да не опира в нея. Когато се получи гъста кремообразна смес, се прибавя на струйка разтопеното масло (2 с.л.) при непрекъснато разбиване. Във високи чаши се налива малко крем, слагат се парченца нектарини с винен сос и пак крем, и пак нектарини."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "нектарини",
+      "qty": "4",
+      "id": 156
+    },
+    {
+      "name": "захар",
+      "qty": "100 г",
+      "id": 9
+    },
+    {
+      "name": "червено вино",
+      "qty": "1/2 л.",
+      "id": 98
+    },
+    {
+      "name": "жълтъка",
+      "qty": "4",
+      "id": 33
+    },
+    {
+      "name": "пудра захар",
+      "qty": "2 с.л.",
+      "id": 34
+    },
+    {
+      "name": "масло",
+      "qty": "2 с.л.",
+      "id": 8
+    },
+    {
+      "name": "ванилия",
+      "qty": "1 опак.",
+      "id": 23
+    }
+  ]
+}

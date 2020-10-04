@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Паеля с бял ориз, пилешко месо, скариди, зелен фасул и шафран",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/paelia-2-[272].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/paelia-2-[272].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/paelia-2-[272].jpg"
+    ],
+    "datePublished": "2010-11-07",
+    "cookTime": "PT0H40M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "479 calories",
+      "carbohydrateContent": "43 g",
+      "fatContent": "20 g",
+      "proteinContent": "29 g",
+      "saturatedFatContent": "5 g",
+      "unsaturatedFatContent": "12.9347075 g",
+      "cholesterolContent": "102 mg"
+    },
+    "recipeIngredient": [
+      "1/2  пиле",
+      "10  скариди",
+      "1/4 ч.ч. доматено пюре",
+      "2 скилидки чесън",
+      "щип. шафран",
+      "1 ч.ч. ориз",
+      "1 3/4 ч.ч. пилешки бульон",
+      "200 г зелен фасул",
+      "2 с.л. зехтин",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Зеленият фасул (200 г) се сварява, скаридите (10 бр) - също, пилешкото месо (1/2 бр) се запържва с чесъна (2 скилидки) в зехтина (2 с.л.). Доматеното пюре (1/4 ч.ч.) се вари на силен огън до сгъстяване. Оризът (1 ч.ч.) се вари в пилешкия бульон (1 3/4 ч.ч.) (1:2). Малко преди да стане готов, се смесва със зеления фасул (200 г), шафрана  и скаридите (10 бр). Разбърква се и се добавя още бульон. Готвенето продължава още 3 минути на среден огън. Добавя се доматеното пюре и ястието ври още 3 минути. Поднася се с червено вино."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пиле",
+      "qty": "1/2",
+      "id": 111
+    },
+    {
+      "name": "скариди",
+      "qty": "10",
+      "id": 104
+    },
+    {
+      "name": "доматено пюре",
+      "qty": "1/4 ч.ч.",
+      "id": 35
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "шафран",
+      "qty": "щип.",
+      "id": 203
+    },
+    {
+      "name": "ориз",
+      "qty": "1 ч.ч.",
+      "id": 22
+    },
+    {
+      "name": "пилешки бульон",
+      "qty": "1 3/4 ч.ч.",
+      "id": 26
+    },
+    {
+      "name": "зелен фасул",
+      "qty": "200 г",
+      "id": 99
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

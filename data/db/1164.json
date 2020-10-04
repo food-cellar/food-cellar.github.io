@@ -1,0 +1,120 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Тунизийска салата с краставици и риба тон",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/tuniziiska-salata-s-krastavici-i-riba-ton-5-[1164].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/tuniziiska-salata-s-krastavici-i-riba-ton-5-[1164].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/tuniziiska-salata-s-krastavici-i-riba-ton-5-[1164].jpg"
+    ],
+    "datePublished": "2010-11-30",
+    "cookTime": "PT0H20M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "285 calories",
+      "carbohydrateContent": "20 g",
+      "fatContent": "15 g",
+      "proteinContent": "18 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "10.5402525 g",
+      "cholesterolContent": "194 mg"
+    },
+    "recipeIngredient": [
+      "1  краставица",
+      "2  домата",
+      "1  червена чушка",
+      "1  зелена чушка",
+      "1  ябълка",
+      "1 глава лук",
+      "150 г риба тон",
+      "4  яйца",
+      "3 с.л. зехтин",
+      "1 щип. босилек",
+      "1 щип. черен пипер",
+      "сол",
+      "2 с.л. лимонов сок",
+      "20  маслини"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Всички зеленчуци, заедно с ябълката, се почистват и нарязват на малки кубчета. Смесват се в голяма купа и се овкусяват със сол, черен пипер (1 щип.), босилек (1 щип.), зехтин (3 с.л.) и лимонов сок (2 с.л.). Салатата се разпределя в порционни чинии и всяка порция се декорира с четвъртинки от твърдо сварено яйце, парченца риба тон, черни маслини и листенца свежа мента по желание."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "краставица",
+      "qty": "1",
+      "id": 44
+    },
+    {
+      "name": "домата",
+      "qty": "2",
+      "id": 15
+    },
+    {
+      "name": "червена чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "зелена чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "ябълка",
+      "qty": "1",
+      "id": 85
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "риба тон",
+      "qty": "150 г",
+      "id": 127
+    },
+    {
+      "name": "яйца",
+      "qty": "4",
+      "id": 5
+    },
+    {
+      "name": "зехтин",
+      "qty": "3 с.л.",
+      "id": 10
+    },
+    {
+      "name": "босилек",
+      "qty": "1 щип.",
+      "id": 25
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 щип.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "2 с.л.",
+      "id": 17
+    },
+    {
+      "name": "маслини",
+      "qty": "20",
+      "id": 50
+    }
+  ]
+}

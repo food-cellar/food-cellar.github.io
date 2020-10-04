@@ -1,0 +1,92 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Козуначен хляб за хлебопекарна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kozunachen-hliab-za-hlebopekarna-2-[1224].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kozunachen-hliab-za-hlebopekarna-2-[1224].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kozunachen-hliab-za-hlebopekarna-2-[1224].jpg"
+    ],
+    "datePublished": "2013-02-01",
+    "cookTime": "PT3H20M",
+    "recipeYield": "16 servings",
+    "recipeCategory": "Хлебни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "280 calories",
+      "carbohydrateContent": "36 g",
+      "fatContent": "12 g",
+      "proteinContent": "6 g",
+      "saturatedFatContent": "6 g",
+      "unsaturatedFatContent": "3.729786875 g",
+      "cholesterolContent": "87 mg"
+    },
+    "recipeIngredient": [
+      "575 г пшенично брашно",
+      "70 г захар",
+      "2 ч.л. сол",
+      "200 г масло",
+      "5  яйца",
+      "80 мл. мляко",
+      "1 1/2 ч.л. суха мая",
+      "100 г стафиди"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Изсипват се продуктите в тавичката на хлебопекарната в реда, указан от производителя - млякото (80 мл.), яйцата (5 бр), маслото (200 г), солта (2 ч.л.) и захарта (70 г). После се добавя брашното (575 г), като преди това се пресява. Накрая се оформя кладенче в средата на брашното и сухата мая (1 1/2 ч.л.) се сипва  в него."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Хлебопекарната се пуска в режим на сладък хляб или в режим на бял хляб, ако няма такъв. След звуковия сигнал за добавяне на допълнителни съставки се прибавят стафидите (100 г). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "След около 3 часа козуначеният хляб е готов. Яйцата му придават апетитен жълт цвят, а стафидите - аромат и сладост. Идеален е за приготвяне по празниците в забързаното ежедневие, в което жената няма време да меси на ръка."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пшенично брашно",
+      "qty": "575 г",
+      "id": 7
+    },
+    {
+      "name": "захар",
+      "qty": "70 г",
+      "id": 9
+    },
+    {
+      "name": "сол",
+      "qty": "2 ч.л.",
+      "id": 1
+    },
+    {
+      "name": "масло",
+      "qty": "200 г",
+      "id": 8
+    },
+    {
+      "name": "яйца",
+      "qty": "5",
+      "id": 5
+    },
+    {
+      "name": "мляко",
+      "qty": "80 мл.",
+      "id": 14
+    },
+    {
+      "name": "суха мая",
+      "qty": "1 1/2 ч.л.",
+      "id": 52
+    },
+    {
+      "name": "стафиди",
+      "qty": "100 г",
+      "id": 69
+    }
+  ]
+}

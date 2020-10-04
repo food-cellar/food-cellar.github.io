@@ -1,0 +1,102 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пуешки руладини",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pueshki-ruladini-1-[1813].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pueshki-ruladini-1-[1813].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pueshki-ruladini-1-[1813].jpg"
+    ],
+    "datePublished": "2011-11-28",
+    "cookTime": "PT1H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "448 calories",
+      "carbohydrateContent": "21 g",
+      "fatContent": "15 g",
+      "proteinContent": "52 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "11.27208 g",
+      "cholesterolContent": "120 mg"
+    },
+    "recipeIngredient": [
+      "800 г пуешко месо",
+      "150 г хляб",
+      "1 връзка целина",
+      "1 ч.л. лимонена кора",
+      "2 с.л. зехтин",
+      "1 с.л. лимонов сок",
+      "50 г орехи",
+      "4 скилидки чесън",
+      "1/2 к.ч. червено вино"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пуешкото месо (800 г) се нарязва на филета с дебелина около сантиметър и се начуква, докато стане тънко и широко, но без опасност да се разкъса."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "В пасатор се поставят хлябът (150 г), листата от целина (1 връзка), чесънът (4 скилидки), орехите (50 г), лимоновата кора (1 ч.л.), малко зехтин, лимоновият сок (1 с.л.), сол и пипер. Пасира се до получаване на ситни трохи."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Върху филетата се слага от сместа и те се завиват на ролца. Добре е да се сложи повече смес. При завиването излишното количество ще се отстрани."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Пекат се в йенско стъкло, в което има малко зехтин, червено вино и вода, за около 35-40 минути."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пуешко месо",
+      "qty": "800 г",
+      "id": 195
+    },
+    {
+      "name": "хляб",
+      "qty": "150 г",
+      "id": 66
+    },
+    {
+      "name": "целина",
+      "qty": "1 връзка",
+      "id": 30
+    },
+    {
+      "name": "лимонена кора",
+      "qty": "1 ч.л.",
+      "id": 107
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    },
+    {
+      "name": "орехи",
+      "qty": "50 г",
+      "id": 31
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "червено вино",
+      "qty": "1/2 к.ч.",
+      "id": 98
+    }
+  ]
+}

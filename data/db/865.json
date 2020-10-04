@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата с праз, бейби краставички и сирене",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/prazena-salata-s-beibi-krastavichki-i-sirene-3-[865].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/prazena-salata-s-beibi-krastavichki-i-sirene-3-[865].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/prazena-salata-s-beibi-krastavichki-i-sirene-3-[865].jpg"
+    ],
+    "datePublished": "2011-05-23",
+    "cookTime": "PT0H15M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "224 calories",
+      "carbohydrateContent": "29 g",
+      "fatContent": "9 g",
+      "proteinContent": "7 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "4.10653 g",
+      "cholesterolContent": "22 mg"
+    },
+    "recipeIngredient": [
+      "4 стръка праз",
+      "200 г мариновани краставички",
+      "50 г сирене",
+      "20 г лучени кълнове",
+      "1 с.л. олио",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Празът (4 стръка) се почиства и нарязва косо на парчета с дължина 3 см. Бланшира се 5 минути във вряща подсолена вода. След това се изважда с решетъчна лъжица и се отцежда. В салатена чиния се нареждат в кръг парчета праз и мариновани бейби краставички (200 г). Оформя се втори кръг отгоре само от праз. Настъргва се сиренето (50 г) и се поръсва с лучени кълнове (20 г). Овкусява се със зехтин и сол. Салатата може да се подправи и с маринатата от краставичките. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "праз",
+      "qty": "4 стръка",
+      "id": 51
+    },
+    {
+      "name": "мариновани краставички",
+      "qty": "200 г",
+      "id": 289
+    },
+    {
+      "name": "сирене",
+      "qty": "50 г",
+      "id": 32
+    },
+    {
+      "name": "лучени кълнове",
+      "qty": "20 г",
+      "id": 181
+    },
+    {
+      "name": "олио",
+      "qty": "1 с.л.",
+      "id": 4
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

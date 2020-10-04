@@ -1,0 +1,80 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Сос с рулца от раци и майонеза",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/sos-s-rulca-ot-raci-i-maioneza-1-[1862].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/sos-s-rulca-ot-raci-i-maioneza-1-[1862].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/sos-s-rulca-ot-raci-i-maioneza-1-[1862].jpg"
+    ],
+    "datePublished": "2011-12-28",
+    "cookTime": "PT0H10M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Сосове",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "43 calories",
+      "carbohydrateContent": "1 g",
+      "fatContent": "3 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "2.12094 g",
+      "cholesterolContent": "2 mg"
+    },
+    "recipeIngredient": [
+      "3 с.л. майонеза",
+      "15 г рулца от раци",
+      "1 с.л. лимонов сок",
+      "3 с.л. прясно мляко",
+      "1 щип. магданоз",
+      "1 щип. сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Майонезата (3 с.л.), рулцата от раци (15 г), лимоновият сок (1 с.л.) и прясното мляко (3 с.л.) се разбиват с блендер. Добавят се сол (1 щип.) и свеж магданоз (1 щип.) и се разбива отново."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Рулцата от раци са много ароматни, затова и съвсем малко от тях в соса ще го овкусят добре."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Сосът е подходящ за салати с морски дарове."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "майонеза",
+      "qty": "3 с.л.",
+      "id": 80
+    },
+    {
+      "name": "рулца от раци",
+      "qty": "15 г",
+      "id": 198
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "3 с.л.",
+      "id": 14
+    },
+    {
+      "name": "магданоз",
+      "qty": "1 щип.",
+      "id": 12
+    },
+    {
+      "name": "сол",
+      "qty": "1 щип.",
+      "id": 1
+    }
+  ]
+}

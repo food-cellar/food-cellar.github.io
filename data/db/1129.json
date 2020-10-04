@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Италиански банички с бутер тесто, домати, сирене моцарела и маслини за закуска",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/italianski-banichki-3-[1129].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/italianski-banichki-3-[1129].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/italianski-banichki-3-[1129].jpg"
+    ],
+    "datePublished": "2011-04-22",
+    "cookTime": "PT0H25M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "338 calories",
+      "carbohydrateContent": "24 g",
+      "fatContent": "23 g",
+      "proteinContent": "6 g",
+      "saturatedFatContent": "6 g",
+      "unsaturatedFatContent": "15.402896666667 g",
+      "cholesterolContent": "43 mg"
+    },
+    "recipeIngredient": [
+      "300 г бутер тесто",
+      "1  домат",
+      "50 г моцарела",
+      "8  зелени маслини",
+      "1 ч.л. босилек",
+      "20 г тиквени семки",
+      "1  жълтък"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "От бутер тестото (300 г) се отрязват квадратчета със старна около 10 см. Във всяко квадратче по диагонал се подреждат кубчета домат, парченца моцарела (50 г), парченца маслина и малко сух или пресен босилек. Баничките се завиват като свободните ъгли на квадратчетата се прехлупват. Намазват се с разбит жълтък и се поръсват с тиквени семки (20 г). Пекат се в предварително загрята фурна до златисто. Сервират се топли."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "бутер тесто",
+      "qty": "300 г",
+      "id": 117
+    },
+    {
+      "name": "домат",
+      "qty": "1",
+      "id": 15
+    },
+    {
+      "name": "моцарела",
+      "qty": "50 г",
+      "id": 93
+    },
+    {
+      "name": "зелени маслини",
+      "qty": "8",
+      "id": 50
+    },
+    {
+      "name": "босилек",
+      "qty": "1 ч.л.",
+      "id": 25
+    },
+    {
+      "name": "тиквени семки",
+      "qty": "20 г",
+      "id": 189
+    },
+    {
+      "name": "жълтък",
+      "qty": "1",
+      "id": 33
+    }
+  ]
+}

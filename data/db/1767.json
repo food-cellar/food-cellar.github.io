@@ -1,0 +1,76 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Песто сос със спанак за пиле или спагети",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pesto-sus-spanak-1-[1767].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pesto-sus-spanak-1-[1767].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pesto-sus-spanak-1-[1767].jpg"
+    ],
+    "datePublished": "2012-12-04",
+    "cookTime": "PT0H5M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Сосове",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "188 calories",
+      "carbohydrateContent": "2 g",
+      "fatContent": "18 g",
+      "proteinContent": "3 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "14.336206666667 g",
+      "cholesterolContent": "3 mg"
+    },
+    "recipeIngredient": [
+      "200 г спанак",
+      "4 скилидки чесън",
+      "2 с.л. кедрови ядки",
+      "2 с.л. пармезан",
+      "100 мл. зехтин",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Листата на спанака (200 г) се нарязват на много ситно. Добавят се счуканият чесън (4 скилидки) и кедровите ядки (2 с.л.). Всичко се накълцва и посолява. Може да се използва кухненски робот, но трябва да се внимава сосът да не стане на пяна. На тънка струйка се добавя зехтинът (100 мл.), а накрая и ситно рендосаният пaрмезан (2 с.л.). Всичко старателно се разбърква. Пестото се изсипва в стъклена или емайлирана тенджерка, захлупва се и се съхранява на студено място. Сосът е подходящ за спагети и други видове паста."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Забележка: В този сос могат да се добавят няколко листа босилек за аромат или да се направи същият сос, но изцяло от босилек."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "спанак",
+      "qty": "200 г",
+      "id": 40
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "кедрови ядки",
+      "qty": "2 с.л.",
+      "id": 125
+    },
+    {
+      "name": "пармезан",
+      "qty": "2 с.л.",
+      "id": 59
+    },
+    {
+      "name": "зехтин",
+      "qty": "100 мл.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печен патладжани в бутер тесто с яйца, сметана, сирене бри и мляко",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/patladjani-v-buter-testo-2-[589].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/patladjani-v-buter-testo-2-[589].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/patladjani-v-buter-testo-2-[589].jpg"
+    ],
+    "datePublished": "2010-12-11",
+    "cookTime": "PT0H50M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "593 calories",
+      "carbohydrateContent": "40 g",
+      "fatContent": "42 g",
+      "proteinContent": "14 g",
+      "saturatedFatContent": "16 g",
+      "unsaturatedFatContent": "22.9455 g",
+      "cholesterolContent": "151 mg"
+    },
+    "recipeIngredient": [
+      "1 кг патладжани",
+      "1/2 кг бутер тесто",
+      "1 връзка магданоз",
+      "1 връзка копър",
+      "1 глава чесън",
+      "150 г сирене бри",
+      "4  яйца",
+      "250 мл. сметана",
+      "250 мл. прясно мляко",
+      "черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Патладжаните (1 кг) се нарязват на колелца, осоляват се и след 15 минути се измиват и подсушават. Изпичат се в тиган с незалепващо покритие, колкото да омекнат. Зелените подправки се измиват, нарязват на ситно и заедно с почистения чесън се пускат в блендера. Към тази смес се прибавят яйцата (4 бр), сиренето (150 г), сметаната (250 мл.), солта и черния пипер. И пак се разбива. Дъното и стените на тава с незалепващо покритие се облепват с бутер тесто (1/2 кг). Върху него се нареждат патладжаните и се заливат с микса. Ястието се пече на фурна до пълна готовност. Вкусно е както топло, така и студено."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "патладжани",
+      "qty": "1 кг",
+      "id": 71
+    },
+    {
+      "name": "бутер тесто",
+      "qty": "1/2 кг",
+      "id": 117
+    },
+    {
+      "name": "магданоз",
+      "qty": "1 връзка",
+      "id": 12
+    },
+    {
+      "name": "копър",
+      "qty": "1 връзка",
+      "id": 28
+    },
+    {
+      "name": "чесън",
+      "qty": "1 глава",
+      "id": 6
+    },
+    {
+      "name": "сирене бри",
+      "qty": "150 г",
+      "id": 228
+    },
+    {
+      "name": "яйца",
+      "qty": "4",
+      "id": 5
+    },
+    {
+      "name": "сметана",
+      "qty": "250 мл.",
+      "id": 19
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "250 мл.",
+      "id": 14
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

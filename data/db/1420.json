@@ -1,0 +1,60 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Смути от манго",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/smuti-ot-mango-1-[1420].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/smuti-ot-mango-1-[1420].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/smuti-ot-mango-1-[1420].jpg"
+    ],
+    "datePublished": "2011-04-08",
+    "cookTime": "PT0H3M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Напитки",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "181 calories",
+      "carbohydrateContent": "47 g",
+      "fatContent": "0 g",
+      "proteinContent": "1 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.10557 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1  манго",
+      "200 г лед",
+      "100 мл. вода",
+      "1 с.л. захар"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Мангото (1 бр) се обелва и нарязва на малки парченца. Продуктите сe слагат в блендер и се пасират за минута, минута и половина."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "манго",
+      "qty": "1",
+      "id": 336
+    },
+    {
+      "name": "лед",
+      "qty": "200 г",
+      "id": 11
+    },
+    {
+      "name": "вода",
+      "qty": "100 мл.",
+      "id": 11
+    },
+    {
+      "name": "захар",
+      "qty": "1 с.л.",
+      "id": 9
+    }
+  ]
+}

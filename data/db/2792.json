@@ -1,0 +1,88 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Крем супа от спанак с лук и моркови",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/krem-supa-ot-spanak-s-luk-i-morkovi-1-[2792].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/krem-supa-ot-spanak-s-luk-i-morkovi-1-[2792].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/krem-supa-ot-spanak-s-luk-i-morkovi-1-[2792].jpg"
+    ],
+    "datePublished": "2014-02-18",
+    "cookTime": "PT0H40M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "111 calories",
+      "carbohydrateContent": "11 g",
+      "fatContent": "6 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "4.5579066666667 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1 кг спанак",
+      "2 глави лук",
+      "2  моркова",
+      "1/2 к.ч. олио",
+      "1 ч.л. черен пипер",
+      "сол",
+      "3 л. вода",
+      "1 кубче зеленчуков бульон"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Слага се на котлона да ври вода и в нея се пуска кубче зеленчуков бульон (1 кубче). Когато заври, в нея се слагат ситно нарязаните лук (2 глави) и моркови (2 бр). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Като поврят 5 минути, се добавя спанакът. Супата ври още 15 минути. Накрая се добавят олиото (1/2 к.ч.) и подправките. Супата се пасира и сервира гореща, поднесена с хрупкави крутони."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "спанак",
+      "qty": "1 кг",
+      "id": 40
+    },
+    {
+      "name": "лук",
+      "qty": "2 глави",
+      "id": 3
+    },
+    {
+      "name": "моркова",
+      "qty": "2",
+      "id": 13
+    },
+    {
+      "name": "олио",
+      "qty": "1/2 к.ч.",
+      "id": 4
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "вода",
+      "qty": "3 л.",
+      "id": 11
+    },
+    {
+      "name": "зеленчуков бульон",
+      "qty": "1 кубче",
+      "id": 26
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Съветска класическа салата с картофи, грах, шунка, ябълки, мариновани краставички и майонеза",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/suvetska-klasicheska-salata-1-[112].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/suvetska-klasicheska-salata-1-[112].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/suvetska-klasicheska-salata-1-[112].jpg"
+    ],
+    "datePublished": "2010-11-22",
+    "cookTime": "PT0H15M",
+    "recipeYield": "10 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "380 calories",
+      "carbohydrateContent": "31 g",
+      "fatContent": "23 g",
+      "proteinContent": "12 g",
+      "saturatedFatContent": "5 g",
+      "unsaturatedFatContent": "15.951848 g",
+      "cholesterolContent": "37 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг шунка",
+      "1 кг картофи",
+      "4  моркова",
+      "1 глава лук",
+      "4  мариновани краставички",
+      "2  ябълки",
+      "100 г зелен грах",
+      "2 опак. майонеза"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Морковите (4 бр) и картофите (1 кг) се сваряват. Ябълките (2 бр) се обелват."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Всичко се нарязва не много на едро, но не и на много ситно, а на еднакви парчета. Посоляват се, подправят се с майонезата (2 опак.) и се разбъркват."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "шунка",
+      "qty": "1/2 кг",
+      "id": 76
+    },
+    {
+      "name": "картофи",
+      "qty": "1 кг",
+      "id": 16
+    },
+    {
+      "name": "моркова",
+      "qty": "4",
+      "id": 13
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "мариновани краставички",
+      "qty": "4",
+      "id": 289
+    },
+    {
+      "name": "ябълки",
+      "qty": "2",
+      "id": 85
+    },
+    {
+      "name": "зелен грах",
+      "qty": "100 г",
+      "id": 68
+    },
+    {
+      "name": "майонеза",
+      "qty": "2 опак.",
+      "id": 80
+    }
+  ]
+}

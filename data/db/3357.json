@@ -1,0 +1,64 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Ябълкова лимонада с лимонов сок",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/iabulkova-limonada-s-limonov-sok-1-[3357].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/iabulkova-limonada-s-limonov-sok-1-[3357].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/iabulkova-limonada-s-limonov-sok-1-[3357].jpg"
+    ],
+    "datePublished": "2019-02-28",
+    "cookTime": "PT0H5M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Напитки",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "103 calories",
+      "carbohydrateContent": "26 g",
+      "fatContent": "0 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.09555 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1  ябълка",
+      "1 с.л. лимонов сок",
+      "2 с.л. захар",
+      "1/2 л. газирана вода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Ябълката (1 бр) се обелва и пасира, заедно с лимоновия сок (1 с.л.), захарта (2 с.л.) и малко лед."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Сместа се прехвърля в кана, добавя се още малко лед и се долива с газирана вода (1/2 л.)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "ябълка",
+      "qty": "1",
+      "id": 85
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    },
+    {
+      "name": "захар",
+      "qty": "2 с.л.",
+      "id": 9
+    },
+    {
+      "name": "газирана вода",
+      "qty": "1/2 л.",
+      "id": 199
+    }
+  ]
+}

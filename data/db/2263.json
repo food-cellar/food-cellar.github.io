@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Зелена салата айсберг с орехи и печено филе от сьомга на кубчета",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-aisberg-s-orehi-i-sioomga-2-[2263].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-aisberg-s-orehi-i-sioomga-2-[2263].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-aisberg-s-orehi-i-sioomga-2-[2263].jpg"
+    ],
+    "datePublished": "2013-02-01",
+    "cookTime": "PT0H20M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "169 calories",
+      "carbohydrateContent": "4 g",
+      "fatContent": "11 g",
+      "proteinContent": "12 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "8.8044 g",
+      "cholesterolContent": "26 mg"
+    },
+    "recipeIngredient": [
+      "1 глава айсберг",
+      "200 г сьомга",
+      "40 г орехи",
+      "2 с.л. зехтин",
+      "1 с.л. лимонов сок",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Салатата айсберг (1 глава) се измива, отцежда се и се накъсва на средни по големина парченца. Сьомгата (200 г) се нарязва на кубчета и се запича на тиган без мазнина. Щом рибата е готова, се премества от котлона. Разпределя се върху салатата, която е предварително овкусена с лимонов сок (1 с.л.), зехтин (2 с.л.) и сол. Поръсва се с нарязани орехи (40 г). Сервира се веднага. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "айсберг",
+      "qty": "1 глава",
+      "id": 101
+    },
+    {
+      "name": "сьомга",
+      "qty": "200 г",
+      "id": 114
+    },
+    {
+      "name": "орехи",
+      "qty": "40 г",
+      "id": 31
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

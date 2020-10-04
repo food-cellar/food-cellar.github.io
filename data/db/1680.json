@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Коктейл Кайсиева прохлада (Apricot Cooler)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kokteil-kaisieva-prohlada--1-[1680].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kokteil-kaisieva-prohlada--1-[1680].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kokteil-kaisieva-prohlada--1-[1680].jpg"
+    ],
+    "datePublished": "2013-03-06",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Коктейли",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "250 calories",
+      "carbohydrateContent": "25 g",
+      "fatContent": "0 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.02405 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "60 мл. кайсиево бренди",
+      "30 мл. сок от лайм",
+      "1/2 ч.л. битер",
+      "15 мл. захарен сироп",
+      "10 мл. гренадин",
+      "150 мл. сода",
+      "1/2  лайм"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Кайсиевото бренди (60 мл.), сокът от лайм (30 мл.) и захарният сироп (15 мл.) се разбъркват в шейкър с лед. Изсипват се във висока чаша и се долива до горе със изстудена сода (150 мл.). Сипва се гренадин (10 мл.) и битер (1/2 ч.л.) и се украсява с резенчета лайм."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "кайсиево бренди",
+      "qty": "60 мл.",
+      "id": 321
+    },
+    {
+      "name": "сок от лайм",
+      "qty": "30 мл.",
+      "id": 212
+    },
+    {
+      "name": "битер",
+      "qty": "1/2 ч.л.",
+      "id": 27
+    },
+    {
+      "name": "захарен сироп",
+      "qty": "15 мл.",
+      "id": 282
+    },
+    {
+      "name": "гренадин",
+      "qty": "10 мл.",
+      "id": 222
+    },
+    {
+      "name": "сода",
+      "qty": "150 мл.",
+      "id": 56
+    },
+    {
+      "name": "лайм",
+      "qty": "1/2",
+      "id": 204
+    }
+  ]
+}

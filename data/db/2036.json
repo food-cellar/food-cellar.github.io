@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Фондю с три вида сирена",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/fondu-s-tri-vida-sirena-2-[2036].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/fondu-s-tri-vida-sirena-2-[2036].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/fondu-s-tri-vida-sirena-2-[2036].jpg"
+    ],
+    "datePublished": "2012-07-26",
+    "cookTime": "PT0H25M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "280 calories",
+      "carbohydrateContent": "14 g",
+      "fatContent": "15 g",
+      "proteinContent": "16 g",
+      "saturatedFatContent": "9 g",
+      "unsaturatedFatContent": "4.66647 g",
+      "cholesterolContent": "47 mg"
+    },
+    "recipeIngredient": [
+      "125 г ементал",
+      "75 г топено сирене",
+      "50 г синьо сирене",
+      "50 мл. бяло вино",
+      "1 щип. черен пипер",
+      "1  франзела"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Франзелата (1 бр) се нарязва на тънки филийки, които се изпичат от двете страни до златисто. Натрошеното синьо сирене (50 г), настърганото сирене ементал (125 г), топеното сирене (75 г), бялото вино (50 мл.) и черният пипер (1 щип.) се изсипват в подходящ съд и се загряват на среден огън, докато започнат да се топят. По време на разтопяването им, сирената се бъркат непрекъснато с дървена лъжица и с кръгообразни движения. Щом консистенцията стане гладка, съдът се премества върху поставката си и се оставя газта да го подгрява непрекъснато, за да не се втвърдят сирената. С фондю вилици се набождат препечените хлебчета и потапят в сирената. За най-добри резултати екипът на 1001 рецепти препоръчва да използвате съд за фондю <a href=http://shop.gamaelit.bg/?module=viewProduct&id=768>Apollo</a>, който можете да закупите от един от любимите магазини на екипа ни - <a href=http://shop.gamaelit.bg/index.php>Гама Елит</a>."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "ементал",
+      "qty": "125 г",
+      "id": 179
+    },
+    {
+      "name": "топено сирене",
+      "qty": "75 г",
+      "id": 112
+    },
+    {
+      "name": "синьо сирене",
+      "qty": "50 г",
+      "id": 108
+    },
+    {
+      "name": "бяло вино",
+      "qty": "50 мл.",
+      "id": 41
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 щип.",
+      "id": 2
+    },
+    {
+      "name": "франзела",
+      "qty": "1",
+      "id": 249
+    }
+  ]
+}

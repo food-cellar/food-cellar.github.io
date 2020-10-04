@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Спаначена запеканка с извара и яйца на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/spanachena_zapekanka_2-[415].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/spanachena_zapekanka_2-[415].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/spanachena_zapekanka_2-[415].jpg"
+    ],
+    "datePublished": "2010-12-08",
+    "cookTime": "PT0H40M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "232 calories",
+      "carbohydrateContent": "9 g",
+      "fatContent": "17 g",
+      "proteinContent": "11 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "13.09934875 g",
+      "cholesterolContent": "96 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг спанак",
+      "400 г извара",
+      "4  яйца",
+      "1/2 ч.ч. олио",
+      "4 с.л. брашно",
+      "сол",
+      "черен пипер",
+      "дивесил"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Спаначените листа (1/2 кг) се разделят на две части. Едната част се нарязва, а другата - не. Яйцата (4 бр) се разбиват на пяна заедно със солта. Прибавят се брашното (4 с.л.), черният пипер, дивесилът, олиото (1/2 ч.ч.) и пак се разбива. Слага се изварата (400 г) и сместа пак се разбива. Добавя се нарязаният спанак и отново се разбърква. Правоъгълна тава се намазва с олио. Дъното и стените й се облепват с цели спаначени листа. Върху тях се изсипва сместа и се покрива отгоре също с цели спаначени листа. Върху тавата се слага готварско фолио и ястието се пече на фурна до пълна готовност. Накрая фолиото се маха и запеканката се оставя във фурната да порозовее. Ястието може да се оформи и като руло, но за целта трябва да бъде по-гъсто. Сгъстяването може да се постигне с овесени ядки."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "спанак",
+      "qty": "1/2 кг",
+      "id": 40
+    },
+    {
+      "name": "извара",
+      "qty": "400 г",
+      "id": 92
+    },
+    {
+      "name": "яйца",
+      "qty": "4",
+      "id": 5
+    },
+    {
+      "name": "олио",
+      "qty": "1/2 ч.ч.",
+      "id": 4
+    },
+    {
+      "name": "брашно",
+      "qty": "4 с.л.",
+      "id": 7
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "дивесил",
+      "qty": "Parsing error",
+      "id": 167
+    }
+  ]
+}

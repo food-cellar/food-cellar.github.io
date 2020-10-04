@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Лек ябълков пай с готово бутер тесто и шоколадов топинг",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/lek-iabulkov-pai-1-[213].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/lek-iabulkov-pai-1-[213].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/lek-iabulkov-pai-1-[213].jpg"
+    ],
+    "datePublished": "2010-11-29",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "340 calories",
+      "carbohydrateContent": "35 g",
+      "fatContent": "20 g",
+      "proteinContent": "4 g",
+      "saturatedFatContent": "5 g",
+      "unsaturatedFatContent": "13.6736525 g",
+      "cholesterolContent": "54 mg"
+    },
+    "recipeIngredient": [
+      "200 г бутер тесто",
+      "4 с.л. мед",
+      "1  ябълка",
+      "1  жълтък",
+      "1 ч.л. пудра захар",
+      "шоколадов топинг",
+      "сметана"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "С помощта на форма за торта или купа отрежете кръг от тестото и го поставете в тавичка. Намажете тестото с мед (4 с.л.) и върху меда подредете ябълката, нарязана на тънки полумесеци. Поръсете с пудра захар (1 ч.л.). По желание украсете краищата на ябълковия пай със звездички, направени с малки формички за сладки. Намажете звездичките с разбит жълтък, за да придобият апетитен златист цвят. Печете до пълна готовност, а след като извадите пая от фурната и ябълките са още горещи, намажете ги с шоколадов топинг, за да се разтвори. Поднесете пая охладен и декорирайте центъра на десерта със сметана."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "бутер тесто",
+      "qty": "200 г",
+      "id": 117
+    },
+    {
+      "name": "мед",
+      "qty": "4 с.л.",
+      "id": 38
+    },
+    {
+      "name": "ябълка",
+      "qty": "1",
+      "id": 85
+    },
+    {
+      "name": "жълтък",
+      "qty": "1",
+      "id": 33
+    },
+    {
+      "name": "пудра захар",
+      "qty": "1 ч.л.",
+      "id": 34
+    },
+    {
+      "name": "шоколадов топинг",
+      "qty": "Parsing error",
+      "id": 152
+    },
+    {
+      "name": "сметана",
+      "qty": "Parsing error",
+      "id": 19
+    }
+  ]
+}

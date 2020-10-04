@@ -1,0 +1,108 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Зеленчукова крем супа с картофи, моркови, спанак и тиква поднесена с крутони и настъргано сирене",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zelenchukova-krem-supa-4-[399].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zelenchukova-krem-supa-4-[399].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zelenchukova-krem-supa-4-[399].jpg"
+    ],
+    "datePublished": "2010-12-05",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "400 calories",
+      "carbohydrateContent": "41 g",
+      "fatContent": "20 g",
+      "proteinContent": "14 g",
+      "saturatedFatContent": "7 g",
+      "unsaturatedFatContent": "11.354905 g",
+      "cholesterolContent": "40 mg"
+    },
+    "recipeIngredient": [
+      "2  моркова",
+      "1  картоф",
+      "100 г спанак",
+      "100 г тиква",
+      "сол",
+      "4 с.л. олио",
+      "1/2 л. прясно мляко",
+      "черен пипер",
+      "50 г магданоз",
+      "2 с.л. сусам",
+      "100 г сирене",
+      "100 г крутони"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Морковите (2 бр) и картофите (1 бр), както и тиквата (100 г) се обелват и нарязват на парчета. Сваряват се заедно със спанака (100 г) и се пюрират. В пюрето се налива горещото прясно мляко (1/2 л.). При необходимост може да се налее вода, за да не се получи прекалено гъста супата. Посолява се, подправя се с черен пипер. Добавя се олио и се оставя на котлона да поври още 2-3 минути. Поднася се гарнирана със ситно нарязан пресен магданоз, обилно поръсена със сусам и настъргано сирене. И, естествено, с крутони. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "моркова",
+      "qty": "2",
+      "id": 13
+    },
+    {
+      "name": "картоф",
+      "qty": "1",
+      "id": 16
+    },
+    {
+      "name": "спанак",
+      "qty": "100 г",
+      "id": 40
+    },
+    {
+      "name": "тиква",
+      "qty": "100 г",
+      "id": 116
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "олио",
+      "qty": "4 с.л.",
+      "id": 4
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "1/2 л.",
+      "id": 14
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "магданоз",
+      "qty": "50 г",
+      "id": 12
+    },
+    {
+      "name": "сусам",
+      "qty": "2 с.л.",
+      "id": 113
+    },
+    {
+      "name": "сирене",
+      "qty": "100 г",
+      "id": 32
+    },
+    {
+      "name": "крутони",
+      "qty": "100 г",
+      "id": 139
+    }
+  ]
+}

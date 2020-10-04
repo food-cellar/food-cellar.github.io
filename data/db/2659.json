@@ -1,0 +1,106 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Коледно пълнено пиле с ориз и гъби",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/koledno-pulneno-pile-s-oriz-i-gubi-1-[2659].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/koledno-pulneno-pile-s-oriz-i-gubi-1-[2659].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/koledno-pulneno-pile-s-oriz-i-gubi-1-[2659].jpg"
+    ],
+    "datePublished": "2013-11-21",
+    "cookTime": "PT2H0M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "325 calories",
+      "carbohydrateContent": "20 g",
+      "fatContent": "16 g",
+      "proteinContent": "22 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "9.590555 g",
+      "cholesterolContent": "80 mg"
+    },
+    "recipeIngredient": [
+      "1  пиле",
+      "150 г ориз",
+      "1 глава лук",
+      "200 г гъби",
+      "4  сушени чушки",
+      "2 скилидки чесън",
+      "черен пипер",
+      "червен пипер",
+      "чубрица",
+      "сол",
+      "олио"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Нарязаните на ситно лук (1 глава) и чесън (2 скилидки) се запържват в малко олио и след като са почти готови, се прибавят и нарязаните гъби (200 г), за да се задушат. След това се прибавят оризът (150 г), малко червен и черен пипер и запържването продължава, докато оризът стане прозрачен. Прибавят се 1/2 ч.ч. вода и предварително попарените във вряла вода сухи червени чушки (4 бр), нарязани на ситно. Задушава се, докато оризът омекне. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "С приготвената оризова смес се пълни отвора на пилето и се зашива. След като всичко е готово, пилето се слага в средата на тава, покрива се с фолио и се пече в умерена фурна за около 2 часа или до готовност. По желание се намазва с масло и се поръсва с подправки."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пиле",
+      "qty": "1",
+      "id": 111
+    },
+    {
+      "name": "ориз",
+      "qty": "150 г",
+      "id": 22
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "гъби",
+      "qty": "200 г",
+      "id": 37
+    },
+    {
+      "name": "сушени чушки",
+      "qty": "4",
+      "id": 238
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "червен пипер",
+      "qty": "Parsing error",
+      "id": 20
+    },
+    {
+      "name": "чубрица",
+      "qty": "Parsing error",
+      "id": 36
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "олио",
+      "qty": "Parsing error",
+      "id": 4
+    }
+  ]
+}

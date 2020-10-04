@@ -1,0 +1,122 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Гръцка мусака с патладжан, ориз и кайма на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/3270-grucka-musaka-s-tikvichki-2-[595].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/3270-grucka-musaka-s-tikvichki-2-[595].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/3270-grucka-musaka-s-tikvichki-2-[595].jpg"
+    ],
+    "datePublished": "2017-11-05",
+    "cookTime": "PT1H0M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "417 calories",
+      "carbohydrateContent": "36 g",
+      "fatContent": "21 g",
+      "proteinContent": "19 g",
+      "saturatedFatContent": "7 g",
+      "unsaturatedFatContent": "12.12048 g",
+      "cholesterolContent": "147 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг кайма",
+      "3 глави лук",
+      "1 ч.ч. ориз",
+      "1 връзка магданоз",
+      "1 връзка копър",
+      "сол",
+      "черен пипер",
+      "4  яйца",
+      "1/2 л. прясно мляко",
+      "2 с.л. брашно",
+      "4 с.л. олио",
+      "2  патладжана",
+      "1 ч.ч. вода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Лукът (3 глави) се нарязва на ситно и се задушава в горещото олио. Прибавя се каймата (1/2 кг) и се разбърква. Щом тя се разпадне, се прибавя оризът (1 ч.ч.) и пак се разбърква. Налива се вода (1 ч.ч.) и се бърка, докато течността изври. Прибавят се подправките и се разбърква. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Мусаката се изсипва в правоъгълна тава, върху нея се нареждат патладжаните (2 бр), нарязани на колелца, а отгоре се изливат яйцата (4 бр), разбити с млякото (1/2 л.) и брашното (2 с.л.). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Пече се на фурна до готовност. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "кайма",
+      "qty": "1/2 кг",
+      "id": 54
+    },
+    {
+      "name": "лук",
+      "qty": "3 глави",
+      "id": 3
+    },
+    {
+      "name": "ориз",
+      "qty": "1 ч.ч.",
+      "id": 22
+    },
+    {
+      "name": "магданоз",
+      "qty": "1 връзка",
+      "id": 12
+    },
+    {
+      "name": "копър",
+      "qty": "1 връзка",
+      "id": 28
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "яйца",
+      "qty": "4",
+      "id": 5
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "1/2 л.",
+      "id": 14
+    },
+    {
+      "name": "брашно",
+      "qty": "2 с.л.",
+      "id": 7
+    },
+    {
+      "name": "олио",
+      "qty": "4 с.л.",
+      "id": 4
+    },
+    {
+      "name": "патладжана",
+      "qty": "2",
+      "id": 71
+    },
+    {
+      "name": "вода",
+      "qty": "1 ч.ч.",
+      "id": 11
+    }
+  ]
+}

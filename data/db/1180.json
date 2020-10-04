@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Бърз пухкав кекс с орехи и стафиди (със сода)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/burz-keks-s-orehi-i-stafidi-1-[1180].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/burz-keks-s-orehi-i-stafidi-1-[1180].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/burz-keks-s-orehi-i-stafidi-1-[1180].jpg"
+    ],
+    "datePublished": "2010-12-08",
+    "cookTime": "PT0H40M",
+    "recipeYield": "12 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "347 calories",
+      "carbohydrateContent": "42 g",
+      "fatContent": "18 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "6 g",
+      "unsaturatedFatContent": "10.486678333333 g",
+      "cholesterolContent": "85 mg"
+    },
+    "recipeIngredient": [
+      "200 г брашно",
+      "300 г захар",
+      "125 г масло",
+      "4  яйца",
+      "150 г орехи",
+      "50 г стафиди",
+      "1 ч.л. сода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Брашното (200 г), захарта (300 г), маслото (125 г), яйцата (4 бр) и содата (1 ч.л.) се разбиват с миксер до получаването на пухкава смес. Орехите (150 г) се натрошават и се прибавят към сместа, заедно със стафидите (50 г). Полученото кексово тесто се изсипва в кръгла тавичка с незалепващо покритие или в такичка, която е предварително намаслена и поръсена с брашно. Кексът се пече на 190 градуса в продължение на половин час. Когато изстине, може да се поръси с пудра захар. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "брашно",
+      "qty": "200 г",
+      "id": 7
+    },
+    {
+      "name": "захар",
+      "qty": "300 г",
+      "id": 9
+    },
+    {
+      "name": "масло",
+      "qty": "125 г",
+      "id": 8
+    },
+    {
+      "name": "яйца",
+      "qty": "4",
+      "id": 5
+    },
+    {
+      "name": "орехи",
+      "qty": "150 г",
+      "id": 31
+    },
+    {
+      "name": "стафиди",
+      "qty": "50 г",
+      "id": 69
+    },
+    {
+      "name": "сода",
+      "qty": "1 ч.л.",
+      "id": 56
+    }
+  ]
+}

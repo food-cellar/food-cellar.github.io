@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Крем супа от картофи, моркови и киселец  с козе сирене",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/krem-supa-ot-kiselec-3-[233].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/krem-supa-ot-kiselec-3-[233].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/krem-supa-ot-kiselec-3-[233].jpg"
+    ],
+    "datePublished": "2010-12-19",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "305 calories",
+      "carbohydrateContent": "30 g",
+      "fatContent": "15 g",
+      "proteinContent": "13 g",
+      "saturatedFatContent": "9 g",
+      "unsaturatedFatContent": "4.6602760483871 g",
+      "cholesterolContent": "47 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг киселец",
+      "2  картофа",
+      "1/2 л. мляко",
+      "1  морков",
+      "50 г козе сирене",
+      "зелен лук",
+      "30 г масло",
+      "сол",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Киселецът (1/2 кг) се нарязва на ситно и се задушава в маслото (30 г) под капак. Картофите (2 бр) се сваряват цели, обелват се и се намачкват с вилица. В голяма купа се слагат задушеният киселец, картофеното пюре и топлото прясно мляко (1/2 л.). Добавят се сол и черен пипер. Всичко се разбива с пасатора. Получената супа се излива в тенджера. Наливат се 1-2 чаши вода (според желаната гъстота) и супата се оставя да поври 2-3 минути. Поднася се гореща, поръсена със ситно настъргани морков и козе сирене, както и със ситно нарязани перца зелен лук."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "киселец",
+      "qty": "1/2 кг",
+      "id": 165
+    },
+    {
+      "name": "картофа",
+      "qty": "2",
+      "id": 16
+    },
+    {
+      "name": "мляко",
+      "qty": "1/2 л.",
+      "id": 14
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "козе сирене",
+      "qty": "50 г",
+      "id": 227
+    },
+    {
+      "name": "зелен лук",
+      "qty": "Parsing error",
+      "id": 24
+    },
+    {
+      "name": "масло",
+      "qty": "30 г",
+      "id": 8
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

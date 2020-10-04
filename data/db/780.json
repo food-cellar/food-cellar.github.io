@@ -1,0 +1,52 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Коктейл Калипсо (Calypso)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kokteil-kalipso-2-[780].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kokteil-kalipso-2-[780].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kokteil-kalipso-2-[780].jpg"
+    ],
+    "datePublished": "2013-02-17",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Коктейли",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "177 calories",
+      "carbohydrateContent": "15 g",
+      "fatContent": "0 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.0357 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "30 мл. тъмен ром",
+      "30 мл. ликьор шоколад"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "В чаша за шот се изсипва първо шоколадовият ликьор (30 мл.), а после внимателно с помощта на лъжичка се изсипва ромът (30 мл.) като се внимава той да остане отгоре. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Коктейлът е привлекателен с двата си слоя различни напитки."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "тъмен ром",
+      "qty": "30 мл.",
+      "id": 74
+    },
+    {
+      "name": "ликьор шоколад",
+      "qty": "30 мл.",
+      "id": 334
+    }
+  ]
+}

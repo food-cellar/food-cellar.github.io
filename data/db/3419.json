@@ -1,0 +1,120 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Крехко бавно печено агнешко бутче за Великден или Гергьовден с картофи на фурна, хрупкава коричка и паста от билки  ",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/krehko-bavno-pecheno-agneshko-butche-za-velikden-ili-gergioovden-s-kartofi-na-furna-hrupkava-korichka-i-pasta-ot-bilki--2-[3419].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/krehko-bavno-pecheno-agneshko-butche-za-velikden-ili-gergioovden-s-kartofi-na-furna-hrupkava-korichka-i-pasta-ot-bilki--2-[3419].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/krehko-bavno-pecheno-agneshko-butche-za-velikden-ili-gergioovden-s-kartofi-na-furna-hrupkava-korichka-i-pasta-ot-bilki--2-[3419].jpg"
+    ],
+    "datePublished": "2020-04-18",
+    "cookTime": "PT5H0M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "421 calories",
+      "carbohydrateContent": "31 g",
+      "fatContent": "25 g",
+      "proteinContent": "17 g",
+      "saturatedFatContent": "6 g",
+      "unsaturatedFatContent": "16.083031666667 g",
+      "cholesterolContent": "52 mg"
+    },
+    "recipeIngredient": [
+      "1  агнешко бутче",
+      "1 кг картофи",
+      "1 връзка джоджен",
+      "5 стръка мащерка",
+      "5 стръка босилек",
+      "4 скилидки  чесън",
+      "80 мл. олио",
+      "1 с.л. червен пипер",
+      "1/2 ч.л. черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Най-напред агнешкото бутче (1 бр) се намазва от всички страни със сухите подправки - червен пипер (1 с.л.), черен пипер (1/2 ч.л.) и сол. Поставя се в тава, на дъното на която се излива толкова вода, че да покрие дъното на съда с един сантиметър. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Агнешкото се покрива плътно с алуминиево фолио и се поставя във фурна при 160 гардуса за 3 часа. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "През това време картофите (1 кг) се измиват, обелват и нарязват на полумесеци или спрямо предпочитанията. Оставят се в студена вода, за да не променят цвета си. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Пресните подправки - джоджен (1 връзка), мащерка (5 стръка) и босилек (5 стръка) се накълцват на ситно и заедно с пресования чесън (4 скилидки) се смесват със сол на вкус и с олиото (80 мл.). Получната паста се оставя настрани в купичка."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Щом месото е омекнало напълно, се изважда от фурната, фолиото се отстранява, по бутчето се правят разрези с остър нож и в тях с помощта на лъжичка се разпределя билковата паста. Под и около месото се поставят отцедените от водата картофи и се посоляват. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Ястието се връща за още час до час и половина във фурната без фолио при 160 градуса и се сервира горещо. По желание се поднася с пресен чесън. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Агнешкото е чудесно предложение за Великден и Гергьовден.  "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "агнешко бутче",
+      "qty": "1",
+      "id": 260
+    },
+    {
+      "name": "картофи",
+      "qty": "1 кг",
+      "id": 16
+    },
+    {
+      "name": "джоджен",
+      "qty": "1 връзка",
+      "id": 60
+    },
+    {
+      "name": "мащерка",
+      "qty": "5 стръка",
+      "id": 75
+    },
+    {
+      "name": "босилек",
+      "qty": "5 стръка",
+      "id": 25
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "олио",
+      "qty": "80 мл.",
+      "id": 4
+    },
+    {
+      "name": "червен пипер",
+      "qty": "1 с.л.",
+      "id": 20
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1/2 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

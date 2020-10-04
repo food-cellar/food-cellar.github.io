@@ -1,0 +1,48 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Шот Кафе с пъпеш",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/shot-kafe-s-pupesh-2-[927].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/shot-kafe-s-pupesh-2-[927].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/shot-kafe-s-pupesh-2-[927].jpg"
+    ],
+    "datePublished": "2012-08-16",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Коктейли",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "49 calories",
+      "carbohydrateContent": "3 g",
+      "fatContent": "2 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "0.10035 g",
+      "cholesterolContent": "2 mg"
+    },
+    "recipeIngredient": [
+      "15 мл. калуа",
+      "15 мл. ликьор от пъпеш"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "В чаша за шот се сипва кафееният ликьор (15 мл.) (калуа). Потапя се лъжица, с изпъкналата част нагоре, която леко да докосва течността. На малка струйка се изсипва зеленият ликьор от пъпеш (15 мл.) върху лъжицата, така че да не се смеси с кафевият ликьор. Както всеки друг шот се пие на екс."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "калуа",
+      "qty": "15 мл.",
+      "id": 172
+    },
+    {
+      "name": "ликьор от пъпеш",
+      "qty": "15 мл.",
+      "id": 27
+    }
+  ]
+}

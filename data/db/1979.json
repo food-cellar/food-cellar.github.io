@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Сандвич с луканка и ементал",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/sandvich-s-lukanka-i-emental-1-[1979].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/sandvich-s-lukanka-i-emental-1-[1979].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/sandvich-s-lukanka-i-emental-1-[1979].jpg"
+    ],
+    "datePublished": "2012-06-07",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Сандвичи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "4527 calories",
+      "carbohydrateContent": "52 g",
+      "fatContent": "363 g",
+      "proteinContent": "246 g",
+      "saturatedFatContent": "125 g",
+      "unsaturatedFatContent": "200.5589 g",
+      "cholesterolContent": "1080 mg"
+    },
+    "recipeIngredient": [
+      "1  чабата с маслини",
+      "6 резена луканка",
+      "3 резена домат",
+      "1/4  краставица",
+      "2 резена ементал"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Чабатата (1 бр) се разполовява и в нея се поставят тънки резени луканка (6 резена), ементал (2 резена), домат (3 резена) и краставица (1/4 бр). Това е един от най-популярните пълнежи за сандвичи, а вкусът зависи както от продуктите, така и от свежестта на хлебчето. Стремете се винаги да осигурявате пресни питки за вашите сандвичи."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "чабата с маслини",
+      "qty": "1",
+      "id": 175
+    },
+    {
+      "name": "луканка",
+      "qty": "6 резена",
+      "id": 67
+    },
+    {
+      "name": "домат",
+      "qty": "3 резена",
+      "id": 15
+    },
+    {
+      "name": "краставица",
+      "qty": "1/4",
+      "id": 44
+    },
+    {
+      "name": "ементал",
+      "qty": "2 резена",
+      "id": 179
+    }
+  ]
+}

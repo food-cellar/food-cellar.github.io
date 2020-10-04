@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Средиземноморска салата със зелен фасул, броколи и миди",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/sredizemnomorska-salata-2-[346].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/sredizemnomorska-salata-2-[346].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/sredizemnomorska-salata-2-[346].jpg"
+    ],
+    "datePublished": "2010-12-19",
+    "cookTime": "PT0H15M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "436 calories",
+      "carbohydrateContent": "66 g",
+      "fatContent": "9 g",
+      "proteinContent": "36 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "6.0428 g",
+      "cholesterolContent": "34 mg"
+    },
+    "recipeIngredient": [
+      "150 г зелен фасул",
+      "3  кайсии",
+      "1 глава лук",
+      "100 г миди ядки",
+      "1 глава броколи",
+      "1 с.л. зехтин",
+      "лимонов сок",
+      "2 с.л. сол",
+      "3 листенца босилек"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Зеленият фасул (150 г) се сварява, отцежда и измива със студена вода. Мидите (100 г) се бланшират във вряща подсолена вода, отцеждат и измиват със студена вода. Лукът (1 глава) се нарязва на ситно, претрива се със сол и се измива. Кайсиите (3 бр) се нарязват на ивички, а босилекът (3 листенца)- на ситно. Продуктите се смесват и овкусяват със сол, зехтин и лимонов сок . В порционна чиния се нареждат в кръг розички от варени броколи (1 глава). В средата се слага самата салата."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "зелен фасул",
+      "qty": "150 г",
+      "id": 99
+    },
+    {
+      "name": "кайсии",
+      "qty": "3",
+      "id": 185
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "миди ядки",
+      "qty": "100 г",
+      "id": 168
+    },
+    {
+      "name": "броколи",
+      "qty": "1 глава",
+      "id": 57
+    },
+    {
+      "name": "зехтин",
+      "qty": "1 с.л.",
+      "id": 10
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "Parsing error",
+      "id": 17
+    },
+    {
+      "name": "сол",
+      "qty": "2 с.л.",
+      "id": 1
+    },
+    {
+      "name": "босилек",
+      "qty": "3 листенца",
+      "id": 25
+    }
+  ]
+}

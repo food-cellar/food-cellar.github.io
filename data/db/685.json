@@ -1,0 +1,102 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пълнени тиквички по ориенталски с ориз и шам фъстък на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pulneni_tikvichki_po_orientalski_3-[685].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pulneni_tikvichki_po_orientalski_3-[685].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pulneni_tikvichki_po_orientalski_3-[685].jpg"
+    ],
+    "datePublished": "2010-12-12",
+    "cookTime": "PT0H40M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "298 calories",
+      "carbohydrateContent": "17 g",
+      "fatContent": "24 g",
+      "proteinContent": "4 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "19.615545 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "6  тиквички",
+      "150 мл. зехтин",
+      "50 г ориз",
+      "1 глава червен лук",
+      "1 глава лук",
+      "25 г шам фъстък",
+      "1 ч.л. бахар",
+      "1 ч.л. захар",
+      "2 ч.л. джоджен",
+      "сол",
+      "1 1/2 ч.ч. вода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "На измитите тиквички (6 бр) им се отрязват капачетата откъм дръжките и с тънък и остър нож се издълбава вътрешността им. В зехтина (150 мл.) се запържват нарязаните глави лук, шам фъстъкът (25 г), бахарът (1 ч.л.), лъжичка захар, джодженът (2 ч.л.) и измитият ориз (50 г). Разбърква се на умерен огън, докато оризът стане прозрачен. Добавят се солта и вътрешността от издълбаните тиквички. С получената смес се напълват тиквичките и се нареждат в тавичка. Добавя се малко мазнина, сол на вкус и вода (1 1/2 ч.ч.). Ястието се пече на фурна около 30 минути при 200 градуса."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "тиквички",
+      "qty": "6",
+      "id": 39
+    },
+    {
+      "name": "зехтин",
+      "qty": "150 мл.",
+      "id": 10
+    },
+    {
+      "name": "ориз",
+      "qty": "50 г",
+      "id": 22
+    },
+    {
+      "name": "червен лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "шам фъстък",
+      "qty": "25 г",
+      "id": 296
+    },
+    {
+      "name": "бахар",
+      "qty": "1 ч.л.",
+      "id": 158
+    },
+    {
+      "name": "захар",
+      "qty": "1 ч.л.",
+      "id": 9
+    },
+    {
+      "name": "джоджен",
+      "qty": "2 ч.л.",
+      "id": 60
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "вода",
+      "qty": "1 1/2 ч.ч.",
+      "id": 11
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Чили с пуешко месо",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/chili-s-pueshko-meso-1-[1994].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/chili-s-pueshko-meso-1-[1994].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/chili-s-pueshko-meso-1-[1994].jpg"
+    ],
+    "datePublished": "2012-06-24",
+    "cookTime": "PT2H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "318 calories",
+      "carbohydrateContent": "46 g",
+      "fatContent": "1 g",
+      "proteinContent": "30 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.56774 g",
+      "cholesterolContent": "38 mg"
+    },
+    "recipeIngredient": [
+      "250 г пуешко месо",
+      "250 г боб от консерва",
+      "2  чушки",
+      "1 глава лук",
+      "сол",
+      "пипер",
+      "лют пипер",
+      "1 с.л. захар"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пуешкото месо (250 г) се сварява в обикновена или в тенджера под налягане, обезкостява се и се нарязва на ситно. Ако се използва пресен боб, той също се сварява."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Лукът (1 глава) се нарязва и се запържва. Добавят се чушките (2 бр) и се готви още няколко минути. Овкусява се със сол, пипер, лют пипер и захар (1 с.л.). Залива се със домати от консерва и сварен боб. Щом закъкри, се добавя пуешкото месо, бърка се и след 10-15 минути се сваля от огъня."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пуешко месо",
+      "qty": "250 г",
+      "id": 195
+    },
+    {
+      "name": "боб от консерва",
+      "qty": "250 г",
+      "id": 63
+    },
+    {
+      "name": "чушки",
+      "qty": "2",
+      "id": 18
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "лют пипер",
+      "qty": "Parsing error",
+      "id": 132
+    },
+    {
+      "name": "захар",
+      "qty": "1 с.л.",
+      "id": 9
+    }
+  ]
+}

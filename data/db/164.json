@@ -1,0 +1,110 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Желирано пилешко месо с яйца и зеленчуци",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/jelirano-pile-1-[164].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/jelirano-pile-1-[164].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/jelirano-pile-1-[164].jpg"
+    ],
+    "datePublished": "2010-12-04",
+    "cookTime": "PT1H0M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "339 calories",
+      "carbohydrateContent": "1 g",
+      "fatContent": "22 g",
+      "proteinContent": "31 g",
+      "saturatedFatContent": "6 g",
+      "unsaturatedFatContent": "13.691548333333 g",
+      "cholesterolContent": "137 mg"
+    },
+    "recipeIngredient": [
+      "1  пиле",
+      "1  морков",
+      "1  яйце",
+      "1  корен целина",
+      "магданоз",
+      "сол",
+      "черен пипер",
+      "2 с.л. лимонов сок",
+      "3 опак. желатин"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилето се сварява в подсолена вода заедно с нарязаните на шайби морков и целина. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Изважда се от бульона и след като изстине, се обезкостява, накъсва на парчета, които след това се нарязват на ситно. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Връща се в бульона, който пак се кипва и се подправя с черен пипер, едро нарязан магданоз и лимонов сок. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Желатинът (3 опак.) се залива със студена вода и се оставя да набъбне. След това се разтопява на водна баня и щом се охлади се смесва с пилешкия бульон. Разбърква се. Съотношението твърди съставки - течност трябва да бъде 1:1. Добавя се твърдо свареното яйце, нарязано на ситно и пак се разбърква. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Изчаква се да се желира. Ястието се изсипва в продълговата форма и се оставя в хладилника най-малко за 12 часа, за да се втвърди желето. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Преди да се поднесе, формата се натопява в гореща вода за секунда и желираното месо се обръща в плато. Украсява се със стръкчета къдрав магданоз."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пиле",
+      "qty": "1",
+      "id": 111
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    },
+    {
+      "name": "корен целина",
+      "qty": "1",
+      "id": 30
+    },
+    {
+      "name": "магданоз",
+      "qty": "Parsing error",
+      "id": 12
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "2 с.л.",
+      "id": 17
+    },
+    {
+      "name": "желатин",
+      "qty": "3 опак.",
+      "id": 124
+    }
+  ]
+}

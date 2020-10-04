@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пълнена целина с леща",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pulnena-celina-s-leshta-1-[726].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pulnena-celina-s-leshta-1-[726].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pulnena-celina-s-leshta-1-[726].jpg"
+    ],
+    "datePublished": "2010-12-12",
+    "cookTime": "PT1H10M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "774 calories",
+      "carbohydrateContent": "85 g",
+      "fatContent": "36 g",
+      "proteinContent": "35 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "29.72415 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1 глава целина",
+      "1 ч.ч. леща",
+      "1 глава лук",
+      "2 скилидки чесън",
+      "6  сушени смокини",
+      "50 г слънчогледови семки",
+      "сол",
+      "черен пипер",
+      "50 мл. зехтин"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Главата целина (1 глава) се обелва и разрязва през средата на две части, които се издълбават. Лещата (1 ч.ч.) се сварява до полуготовност. Лукът (1 глава), нарязан на ситно, се задушава в сгорещения зехтин (50 мл.). Към него се прибавят отцедената леща, счуканият чесън (2 скилидки), сушени смокини (6 бр), нарязани на ситно, подправките и слънчогледовите семки (50 г). С тази смес се напълват половинките целина. Отгоре се украсяват с резени сушени смокини, увиват се в готварско фолио и се пекат на умерена фурна 45 минути. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "целина",
+      "qty": "1 глава",
+      "id": 30
+    },
+    {
+      "name": "леща",
+      "qty": "1 ч.ч.",
+      "id": 106
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "сушени смокини",
+      "qty": "6",
+      "id": 258
+    },
+    {
+      "name": "слънчогледови семки",
+      "qty": "50 г",
+      "id": 147
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "зехтин",
+      "qty": "50 мл.",
+      "id": 10
+    }
+  ]
+}

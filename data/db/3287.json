@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Вегетариански пастет (пюре, паста) от леща с авокадо, чесън и билки",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pastet-ot-leshta-s-avokado-i-bilki-1-[3287].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pastet-ot-leshta-s-avokado-i-bilki-1-[3287].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pastet-ot-leshta-s-avokado-i-bilki-1-[3287].jpg"
+    ],
+    "datePublished": "2018-03-24",
+    "cookTime": "PT0H30M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "202 calories",
+      "carbohydrateContent": "17 g",
+      "fatContent": "12 g",
+      "proteinContent": "7 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "9.3427933333333 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "150 г леща",
+      "1  авокадо",
+      "1 скилидка чесън",
+      "4 стръка мащерка",
+      "1 щип. суха мащерка",
+      "1 щип. морска сол",
+      "1 щип. куркума",
+      "1 щип. кориандър",
+      "6 с.л. зехтин",
+      "3 с.л. лимонов сок"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Био лещата (150 г) се сварява до пълна готовност, след което се охлажда и отцежда от водата. Пасира се заедно с авокадото (1 бр) и скилидките чесън (1 скилидка). Добавят се подправките на вкус, разбърква се добре и се прибавят зехтинът (6 с.л.) и лимоновият сок (3 с.л.). Поръсва се с прясната мащерка и се поднася с препечени хлебчета или био крекери."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "леща",
+      "qty": "150 г",
+      "id": 106
+    },
+    {
+      "name": "авокадо",
+      "qty": "1",
+      "id": 83
+    },
+    {
+      "name": "чесън",
+      "qty": "1 скилидка",
+      "id": 6
+    },
+    {
+      "name": "мащерка",
+      "qty": "4 стръка",
+      "id": 75
+    },
+    {
+      "name": "суха мащерка",
+      "qty": "1 щип.",
+      "id": 75
+    },
+    {
+      "name": "морска сол",
+      "qty": "1 щип.",
+      "id": 1
+    },
+    {
+      "name": "куркума",
+      "qty": "1 щип.",
+      "id": 118
+    },
+    {
+      "name": "кориандър",
+      "qty": "1 щип.",
+      "id": 97
+    },
+    {
+      "name": "зехтин",
+      "qty": "6 с.л.",
+      "id": 10
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "3 с.л.",
+      "id": 17
+    }
+  ]
+}

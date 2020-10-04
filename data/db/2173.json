@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Мариновани свински пържоли / котлети с мед, чесън и соев сос печени на тиган",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/marinovani-svinski-purjoli-1-[2173].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/marinovani-svinski-purjoli-1-[2173].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/marinovani-svinski-purjoli-1-[2173].jpg"
+    ],
+    "datePublished": "2012-11-24",
+    "cookTime": "PT0H30M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "768 calories",
+      "carbohydrateContent": "6 g",
+      "fatContent": "63 g",
+      "proteinContent": "40 g",
+      "saturatedFatContent": "21 g",
+      "unsaturatedFatContent": "35.74838 g",
+      "cholesterolContent": "180 mg"
+    },
+    "recipeIngredient": [
+      "2  свински пържоли",
+      "4 с.л. соев сос",
+      "1/2 ч.л. горчица",
+      "1 с.л. мед",
+      "2 скилидки чесън",
+      "1/2 ч.л. червен пипер",
+      "1 щип. черен пипер",
+      "1 щип. бахар",
+      "1 с.л. олио",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Свинските пържоли (2 бр) се начукват старателно и се поставят в малка и плитка тавичка. Заливат се с маринатата, получената от пасираните в блендер соев сос (4 с.л.), горчица (1/2 ч.л.), мед (1 с.л.), чесън (2 скилидки), червен пипер (1/2 ч.л.), черен пипер (1 щип.), бахар (1 щип.), олио (1 с.л.) и малко сол. Пържолите се завива в фолио и се оставят най-малко два часа в хладилник. След това се изваждат, леко се отцеждат от маринатата и се изпичат в нагорещен тиган от двете страни до пълна готовност на месото. След това се сервират горещи с гарнитура от свежа салата или пържени картофи. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "свински пържоли",
+      "qty": "2",
+      "id": 67
+    },
+    {
+      "name": "соев сос",
+      "qty": "4 с.л.",
+      "id": 53
+    },
+    {
+      "name": "горчица",
+      "qty": "1/2 ч.л.",
+      "id": 64
+    },
+    {
+      "name": "мед",
+      "qty": "1 с.л.",
+      "id": 38
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "червен пипер",
+      "qty": "1/2 ч.л.",
+      "id": 20
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 щип.",
+      "id": 2
+    },
+    {
+      "name": "бахар",
+      "qty": "1 щип.",
+      "id": 158
+    },
+    {
+      "name": "олио",
+      "qty": "1 с.л.",
+      "id": 4
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

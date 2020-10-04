@@ -1,0 +1,110 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Паста с пиле, гъби, сметана и мащерка",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pasta-s-pile-gubi-smetana-i-mashterka-1-[2756].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pasta-s-pile-gubi-smetana-i-mashterka-1-[2756].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pasta-s-pile-gubi-smetana-i-mashterka-1-[2756].jpg"
+    ],
+    "datePublished": "2014-02-13",
+    "cookTime": "PT0H45M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "931 calories",
+      "carbohydrateContent": "80 g",
+      "fatContent": "49 g",
+      "proteinContent": "40 g",
+      "saturatedFatContent": "22 g",
+      "unsaturatedFatContent": "22.321175 g",
+      "cholesterolContent": "276 mg"
+    },
+    "recipeIngredient": [
+      "400 г паста",
+      "400 г пиле",
+      "200 г гъби",
+      "300 мл. сметана",
+      "2  жълтъка",
+      "4 скилидки чесън",
+      "4 стръка мащерка",
+      "1/2 ч.л. черен пипер",
+      "сол",
+      "2 с.л. зехтин",
+      "50 г пармезан"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пастата (400 г) се сварява във вряща подсолена вода според указанията на опаковката. Изплаква се и се отцежда. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Гъбите (200 г) се нарязват на ситно и заедно със ситно нарязания чесън (4 скилидки) се задушават в зехтина (2 с.л.), докато омекнат. След това към тях се добавя измитото и нарязано на дребни хапки пилешко месо (400 г) и задушаването продължава до пълната готовност на месото. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "След това се добавят жълтъците (2 бр) и сметаната (300 мл.) и се бърка, докато сосът леко се сгъсти. Накрая се прибавя отцедената паста с подправките и продуктите се разбъркват, докато ароматите им се смесят. Пастата се сервира гореща, поръсена с настърган пармезан (50 г) и стръкове свежа мащерка."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "паста",
+      "qty": "400 г",
+      "id": 55
+    },
+    {
+      "name": "пиле",
+      "qty": "400 г",
+      "id": 111
+    },
+    {
+      "name": "гъби",
+      "qty": "200 г",
+      "id": 37
+    },
+    {
+      "name": "сметана",
+      "qty": "300 мл.",
+      "id": 19
+    },
+    {
+      "name": "жълтъка",
+      "qty": "2",
+      "id": 33
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "мащерка",
+      "qty": "4 стръка",
+      "id": 75
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1/2 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "пармезан",
+      "qty": "50 г",
+      "id": 59
+    }
+  ]
+}

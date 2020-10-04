@@ -1,0 +1,110 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Вита баница с кайма, праз и пресен зелен лук",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/vita-banica-s-kaima-i-praz-1-[2637].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/vita-banica-s-kaima-i-praz-1-[2637].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/vita-banica-s-kaima-i-praz-1-[2637].jpg"
+    ],
+    "datePublished": "2013-09-23",
+    "cookTime": "PT1H0M",
+    "recipeYield": "12 servings",
+    "recipeCategory": "Хлебни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "358 calories",
+      "carbohydrateContent": "37 g",
+      "fatContent": "16 g",
+      "proteinContent": "13 g",
+      "saturatedFatContent": "5 g",
+      "unsaturatedFatContent": "9.2714583333333 g",
+      "cholesterolContent": "36 mg"
+    },
+    "recipeIngredient": [
+      "800 г кори за баница",
+      "600 г кайма",
+      "2 стръка праз",
+      "2 стръка зелен лук",
+      "1/2 връзка магданоз",
+      "6 скилидки чесън",
+      "кимион",
+      "черен пипер",
+      "чубрица",
+      "сол",
+      "3 с.л. олио"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Първо се приготвя плънката. За целта в дълбок тиган се задушават ситно нарязаните праз лук (2 стръка), чесън (6 скилидки), зелен лук (2 стръка) и магданоз (1/2 връзка). Щом те омекнат, се добавя каймата (600 г) и се бърка, докато тя стане на трохи и напълно готова. Сместа се подправя на вкус със сол, черен пипер, чубрица и кимион. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Поръсените с получената плънка готови кори (800 г) се навиват на рула и се подреждат в намаслена тавичка. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Витата баница с кайма и праз се пече 40 минути във фурната на 200 градуса."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "кори за баница",
+      "qty": "800 г",
+      "id": 138
+    },
+    {
+      "name": "кайма",
+      "qty": "600 г",
+      "id": 54
+    },
+    {
+      "name": "праз",
+      "qty": "2 стръка",
+      "id": 51
+    },
+    {
+      "name": "зелен лук",
+      "qty": "2 стръка",
+      "id": 24
+    },
+    {
+      "name": "магданоз",
+      "qty": "1/2 връзка",
+      "id": 12
+    },
+    {
+      "name": "чесън",
+      "qty": "6 скилидки",
+      "id": 6
+    },
+    {
+      "name": "кимион",
+      "qty": "Parsing error",
+      "id": 42
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "чубрица",
+      "qty": "Parsing error",
+      "id": 36
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "олио",
+      "qty": "3 с.л.",
+      "id": 4
+    }
+  ]
+}

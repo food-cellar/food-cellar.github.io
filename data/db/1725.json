@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Домашна юфка със сирене на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/ufka-sus-sirene-na-furna-2-[1725].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/ufka-sus-sirene-na-furna-2-[1725].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/ufka-sus-sirene-na-furna-2-[1725].jpg"
+    ],
+    "datePublished": "2011-10-03",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "463 calories",
+      "carbohydrateContent": "45 g",
+      "fatContent": "21 g",
+      "proteinContent": "21 g",
+      "saturatedFatContent": "12 g",
+      "unsaturatedFatContent": "6.452955 g",
+      "cholesterolContent": "249 mg"
+    },
+    "recipeIngredient": [
+      "200 г юфка",
+      "150 г сирене",
+      "1/2 л. мляко",
+      "4  яйца",
+      "20 г масло",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "В намаслена тавичка се разстила юфката (200 г) и се поръсва с натрошено сирене (150 г).Млякото (1/2 л.) и яйцата (4 бр) се разбиват, овкусяват се със сол и се изливат върху юфката.Ястието се пече около 20-25 минути в предварително загрята фурна. При необходимост се разбърква, така че цялата юфка да попие от млякото."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "юфка",
+      "qty": "200 г",
+      "id": 55
+    },
+    {
+      "name": "сирене",
+      "qty": "150 г",
+      "id": 32
+    },
+    {
+      "name": "мляко",
+      "qty": "1/2 л.",
+      "id": 14
+    },
+    {
+      "name": "яйца",
+      "qty": "4",
+      "id": 5
+    },
+    {
+      "name": "масло",
+      "qty": "20 г",
+      "id": 8
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

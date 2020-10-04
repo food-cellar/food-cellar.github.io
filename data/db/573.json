@@ -1,0 +1,110 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Фермерски омлет с картофи и бекон",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/fermerski-omlet-s-kartofi-2-[573].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/fermerski-omlet-s-kartofi-2-[573].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/fermerski-omlet-s-kartofi-2-[573].jpg"
+    ],
+    "datePublished": "2010-11-05",
+    "cookTime": "PT1H0M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "488 calories",
+      "carbohydrateContent": "45 g",
+      "fatContent": "28 g",
+      "proteinContent": "13 g",
+      "saturatedFatContent": "8 g",
+      "unsaturatedFatContent": "17.393735 g",
+      "cholesterolContent": "205 mg"
+    },
+    "recipeIngredient": [
+      "50 г бекон",
+      "2 с.л. маргарин",
+      "2  яйца",
+      "2 с.л. прясно мляко",
+      "1/2 кг картофа",
+      "черен пипер",
+      "червен пипер",
+      "сол",
+      "индийско орехче",
+      "1 връзка пресен лук",
+      "1 с.л. зехтин"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Картофите (1/2 кг) се сваряват в подсолена вода. След като изстинат, се подсушават, обелват и нарязватна колелца. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Лукът (1 връзка) се нарязва и запържва заедно с нарязания бекон (50 г). Когато беконът се запържи, се добавят картофите и се готви, докато те получат златиста коричка и от двете страни. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Яйцата (2 бр) се разбиват с прясното мляко (2 с.л.) и подправките и с тази смес се заливат картофите. Готви се до пълна готовност. Ястието се декорира с пресен лук. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "бекон",
+      "qty": "50 г",
+      "id": 88
+    },
+    {
+      "name": "маргарин",
+      "qty": "2 с.л.",
+      "id": 202
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "2 с.л.",
+      "id": 14
+    },
+    {
+      "name": "картофа",
+      "qty": "1/2 кг",
+      "id": 16
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "червен пипер",
+      "qty": "Parsing error",
+      "id": 20
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "индийско орехче",
+      "qty": "Parsing error",
+      "id": 120
+    },
+    {
+      "name": "пресен лук",
+      "qty": "1 връзка",
+      "id": 24
+    },
+    {
+      "name": "зехтин",
+      "qty": "1 с.л.",
+      "id": 10
+    }
+  ]
+}

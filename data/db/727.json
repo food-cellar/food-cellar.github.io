@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Копъров чеснов сос за риба и бяло месо със сметана (без майонеза)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kopurov-sos-za-riba-i-bialo-meso-1-[727].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kopurov-sos-za-riba-i-bialo-meso-1-[727].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kopurov-sos-za-riba-i-bialo-meso-1-[727].jpg"
+    ],
+    "datePublished": "2011-05-16",
+    "cookTime": "PT0H10M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Сосове",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "81 calories",
+      "carbohydrateContent": "3 g",
+      "fatContent": "7 g",
+      "proteinContent": "1 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "3.41472 g",
+      "cholesterolContent": "14 mg"
+    },
+    "recipeIngredient": [
+      "100 връзка копър",
+      "4 скилидки чесън",
+      "2 с.л. зехтин",
+      "2 с.л. лимонов сок",
+      "50 мл. сметана",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Чесънът и зехтинат се пасират в бленер. Добавя се сол копърът и лимоновият сок и се пасира още. Добавя се и сметаната, овкусява се със сол и продължава да се пасира до получаване на гладка смес. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "копър",
+      "qty": "100 връзка",
+      "id": 28
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "2 с.л.",
+      "id": 17
+    },
+    {
+      "name": "сметана",
+      "qty": "50 мл.",
+      "id": 19
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

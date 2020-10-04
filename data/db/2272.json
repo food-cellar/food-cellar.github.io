@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Солени мъфини с грах, кашкавал и шарена сол ",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/soleni-mufini-s-grah-kashkaval-i-sharena-sol-2-[2272].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/soleni-mufini-s-grah-kashkaval-i-sharena-sol-2-[2272].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/soleni-mufini-s-grah-kashkaval-i-sharena-sol-2-[2272].jpg"
+    ],
+    "datePublished": "2013-01-24",
+    "cookTime": "PT0H45M",
+    "recipeYield": "12 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "205 calories",
+      "carbohydrateContent": "19 g",
+      "fatContent": "11 g",
+      "proteinContent": "6 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "7.2592216666667 g",
+      "cholesterolContent": "26 mg"
+    },
+    "recipeIngredient": [
+      "250 г брашно",
+      "250 г кисело мляко",
+      "100 мл. олио",
+      "1  яйце",
+      "1/2 опак. бакпулвер",
+      "200 г грах",
+      "100 г кашкавал",
+      "1 ч.л. шарена сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Киселото мляко (250 г), яйцето (1 бр) и олиото (100 мл.) се изсипват в дълбока купа и се разбиват. Към тях се добавят смесените и пресети брашно (250 г), бакпулвер (1/2 опак.) и шарена сол (1 ч.л.) и всичко се разбива с миксер до получаването на хомогенна смес. Накрая към нея се добавят нарязаният на кубчета кашкавал (100 г) и отцеденият от консервата грах (200 г). Всичко се разбърква с лъжица и се разпределя във форми за мъфини. Формата трябва да е метална и в нея да се поставят хартиени кошнички.Мъфините се пекат в предварително загрята до 180 градуса фурна за около 35 минути. Изваждат се и се поднасят топли или охладени.  "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "брашно",
+      "qty": "250 г",
+      "id": 7
+    },
+    {
+      "name": "кисело мляко",
+      "qty": "250 г",
+      "id": 21
+    },
+    {
+      "name": "олио",
+      "qty": "100 мл.",
+      "id": 4
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    },
+    {
+      "name": "бакпулвер",
+      "qty": "1/2 опак.",
+      "id": 29
+    },
+    {
+      "name": "грах",
+      "qty": "200 г",
+      "id": 68
+    },
+    {
+      "name": "кашкавал",
+      "qty": "100 г",
+      "id": 47
+    },
+    {
+      "name": "шарена сол",
+      "qty": "1 ч.л.",
+      "id": 1
+    }
+  ]
+}

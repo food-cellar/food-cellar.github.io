@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Сусамови топки с извара",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/susamovi-topki-2-[624].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/susamovi-topki-2-[624].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/susamovi-topki-2-[624].jpg"
+    ],
+    "datePublished": "2011-01-06",
+    "cookTime": "PT0H25M",
+    "recipeYield": "12 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "319 calories",
+      "carbohydrateContent": "10 g",
+      "fatContent": "22 g",
+      "proteinContent": "20 g",
+      "saturatedFatContent": "6 g",
+      "unsaturatedFatContent": "15.474954166667 g",
+      "cholesterolContent": "37 mg"
+    },
+    "recipeIngredient": [
+      "1 кг извара",
+      "1  жълтък",
+      "200 г кашкавал",
+      "400 г сусам",
+      "2 скилидки чесън",
+      "черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Кашкавалът (200 г) се настъргва на ситното ренде или по-добре да се нареже в пасатора. Чесънът (2 скилидки) се счуква със сол. Тези продукти се смесват с изварата (1 кг), суровия жълтък (1 бр), черния пипер и лимоновия сок. Всичко се омесва добре и се оформят топки - малко по-големи от орех. Всяка топка се овалва в сусамови семена (400 г). "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "извара",
+      "qty": "1 кг",
+      "id": 92
+    },
+    {
+      "name": "жълтък",
+      "qty": "1",
+      "id": 33
+    },
+    {
+      "name": "кашкавал",
+      "qty": "200 г",
+      "id": 47
+    },
+    {
+      "name": "сусам",
+      "qty": "400 г",
+      "id": 113
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Плодов мус от банан, коняк и ром в авокадо (десерт)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/plodov-mus-ot-banan-koniak-i-rom-v-avokado-2-[460].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/plodov-mus-ot-banan-koniak-i-rom-v-avokado-2-[460].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/plodov-mus-ot-banan-koniak-i-rom-v-avokado-2-[460].jpg"
+    ],
+    "datePublished": "2010-12-08",
+    "cookTime": "PT0H10M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "274 calories",
+      "carbohydrateContent": "44 g",
+      "fatContent": "10 g",
+      "proteinContent": "2 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "6.231295 g",
+      "cholesterolContent": "8 mg"
+    },
+    "recipeIngredient": [
+      "1/2  авокадо",
+      "2  банана",
+      "1  киви",
+      "1 с.л. ром",
+      "1 с.л. коняк",
+      "2 с.л. пудра захар",
+      "2 с.л. сметана"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Авокадото (1/2 бр) се разрязва на две равни половинки. Семката му се изважда, а вътрешността внимателно се отделя с помощта на лъжичка. Двете половинки от кожица, които приличат на обувчици, се запазват, за да се използват вместо чашки. Бананите и кивито се обелват. Плодовете се пюрират заедно със захарта (2 с.л.), рома (1 с.л.), коняка (1 с.л.) и растителната сметана (2 с.л.). Мусът се разпределя в двете зелени “обувчици”. Поднася се веднага след приготвянето, защото ако престои, цветът му бързо ще се промени. По желание може да се украси със сушени ягоди. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "авокадо",
+      "qty": "1/2",
+      "id": 83
+    },
+    {
+      "name": "банана",
+      "qty": "2",
+      "id": 123
+    },
+    {
+      "name": "киви",
+      "qty": "1",
+      "id": 186
+    },
+    {
+      "name": "ром",
+      "qty": "1 с.л.",
+      "id": 74
+    },
+    {
+      "name": "коняк",
+      "qty": "1 с.л.",
+      "id": 166
+    },
+    {
+      "name": "пудра захар",
+      "qty": "2 с.л.",
+      "id": 34
+    },
+    {
+      "name": "сметана",
+      "qty": "2 с.л.",
+      "id": 19
+    }
+  ]
+}

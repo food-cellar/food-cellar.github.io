@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Запечени картофи с маслини и моцарела",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zapecheni-kartofi-s-maslini-i-mocarela-1-[1275].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zapecheni-kartofi-s-maslini-i-mocarela-1-[1275].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zapecheni-kartofi-s-maslini-i-mocarela-1-[1275].jpg"
+    ],
+    "datePublished": "2011-04-22",
+    "cookTime": "PT0H50M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "377 calories",
+      "carbohydrateContent": "56 g",
+      "fatContent": "13 g",
+      "proteinContent": "11 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "7.952455 g",
+      "cholesterolContent": "20 mg"
+    },
+    "recipeIngredient": [
+      "600 г картофи",
+      "80 г маслини",
+      "50 г моцарела",
+      "1 с.л. розмарин",
+      "1 щип. черен пипер",
+      "сол",
+      "1 с.л. зехтин"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Картофите (600 г) се обелват и нарязват на продълговати резени. Сваряват се до готовност в подсолена вода. След това се изваждат, изцеждат и подправят с розмарин (1 с.л.), черен пипер (1 щип.) и зехтин (1 с.л.). Към тях се прибавят накълцаните маслини (80 г) и се разбъркват. Поставят се в малка тавичка и се поръсват обилно с настъргана моцарела (50 г). Запичат се за 15 минути при 200 градуса, докато моцарелата се разтопи."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "картофи",
+      "qty": "600 г",
+      "id": 16
+    },
+    {
+      "name": "маслини",
+      "qty": "80 г",
+      "id": 50
+    },
+    {
+      "name": "моцарела",
+      "qty": "50 г",
+      "id": 93
+    },
+    {
+      "name": "розмарин",
+      "qty": "1 с.л.",
+      "id": 77
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 щип.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "зехтин",
+      "qty": "1 с.л.",
+      "id": 10
+    }
+  ]
+}

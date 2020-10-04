@@ -1,0 +1,88 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Запечени солени палачинки с шунка и кашкавал на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zapecheni-palachinki-s-shunka-i-kashkaval-1-[2963].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zapecheni-palachinki-s-shunka-i-kashkaval-1-[2963].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zapecheni-palachinki-s-shunka-i-kashkaval-1-[2963].jpg"
+    ],
+    "datePublished": "2014-10-24",
+    "cookTime": "PT0H35M",
+    "recipeYield": "12 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "212 calories",
+      "carbohydrateContent": "18 g",
+      "fatContent": "10 g",
+      "proteinContent": "10 g",
+      "saturatedFatContent": "5 g",
+      "unsaturatedFatContent": "3.707955 g",
+      "cholesterolContent": "79 mg"
+    },
+    "recipeIngredient": [
+      "1/2 л. прясно мляко",
+      "250 г брашно",
+      "3  яйца",
+      "1 щип. сода",
+      "1 щип. сол",
+      "2 с.л. масло",
+      "150 г шунка",
+      "150 г кашкавал"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Прясното мляко (1/2 л.), яйцата (3 бр) и предварително смесените и пресяти брашно (250 г), сода (1 щип.) и сол (1 щип.) се смесват в дълбока купа и се разбиват, заедно с разтопеното масло (2 с.л.), до получаването на гладка смес. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "От нея в равен тиган с незалепващо покритие се опичат палачинки. От посоченото количество обикновено се получават 12 броя. Още докато са топли, палачинките се поръсват с настърган кашкавал (150 г) и ситно нарязана шунка (150 г) и се завиват на рула. По желание се намазват с масло отвън и се запичат за десетина минути във фурната."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "прясно мляко",
+      "qty": "1/2 л.",
+      "id": 14
+    },
+    {
+      "name": "брашно",
+      "qty": "250 г",
+      "id": 7
+    },
+    {
+      "name": "яйца",
+      "qty": "3",
+      "id": 5
+    },
+    {
+      "name": "сода",
+      "qty": "1 щип.",
+      "id": 56
+    },
+    {
+      "name": "сол",
+      "qty": "1 щип.",
+      "id": 1
+    },
+    {
+      "name": "масло",
+      "qty": "2 с.л.",
+      "id": 8
+    },
+    {
+      "name": "шунка",
+      "qty": "150 г",
+      "id": 76
+    },
+    {
+      "name": "кашкавал",
+      "qty": "150 г",
+      "id": 47
+    }
+  ]
+}

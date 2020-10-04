@@ -1,0 +1,102 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Романтичен кейк със стафиди и шоколад",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/romantichen-keik-sus-stafidi-i-shokolad-1-[660].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/romantichen-keik-sus-stafidi-i-shokolad-1-[660].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/romantichen-keik-sus-stafidi-i-shokolad-1-[660].jpg"
+    ],
+    "datePublished": "2010-11-28",
+    "cookTime": "PT0H30M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "221 calories",
+      "carbohydrateContent": "30 g",
+      "fatContent": "10 g",
+      "proteinContent": "3 g",
+      "saturatedFatContent": "5 g",
+      "unsaturatedFatContent": "3.5157433333333 g",
+      "cholesterolContent": "53 mg"
+    },
+    "recipeIngredient": [
+      "60 г масло",
+      "60 г захар",
+      "1 опак. ванилова захар",
+      "1  яйце",
+      "1 щип. сол",
+      "1/2 ч.л. сода за хляб",
+      "110 г брашно",
+      "20 г стафиди",
+      "20 г шоколад",
+      "шоколадов топинг",
+      "крокан"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Маслото (60 г), зaхарта (60 г) и ваниловата захар (1 опак.) се разбиват с миксер. Добавят се яйцето (1 бр) и солта (1 щип.) и отново се разбива. Брашното (110 г) и содата за хляб (1/2 ч.л.) се смесват и се добавят. Разбива се до получаването на хомогенна смес. В нея се прибавят и стафидите (20 г) и натрошения шоколад (20 г) и се разбърква. Изсипва се във форма за кейк и се пече на 170 градуса за 25 минути. Кейкът се изважда от формата, намазва се с шоколадов топинг и се поръсва с крокан. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "масло",
+      "qty": "60 г",
+      "id": 8
+    },
+    {
+      "name": "захар",
+      "qty": "60 г",
+      "id": 9
+    },
+    {
+      "name": "ванилова захар",
+      "qty": "1 опак.",
+      "id": 9
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    },
+    {
+      "name": "сол",
+      "qty": "1 щип.",
+      "id": 1
+    },
+    {
+      "name": "сода за хляб",
+      "qty": "1/2 ч.л.",
+      "id": 56
+    },
+    {
+      "name": "брашно",
+      "qty": "110 г",
+      "id": 7
+    },
+    {
+      "name": "стафиди",
+      "qty": "20 г",
+      "id": 69
+    },
+    {
+      "name": "шоколад",
+      "qty": "20 г",
+      "id": 48
+    },
+    {
+      "name": "шоколадов топинг",
+      "qty": "Parsing error",
+      "id": 152
+    },
+    {
+      "name": "крокан",
+      "qty": "Parsing error",
+      "id": 292
+    }
+  ]
+}

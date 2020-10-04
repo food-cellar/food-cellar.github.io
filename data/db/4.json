@@ -1,0 +1,86 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Зелена салата с пресен лук и ориз",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-bombai-4-[4].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-bombai-4-[4].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-bombai-4-[4].jpg"
+    ],
+    "datePublished": "2010-11-06",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "138 calories",
+      "carbohydrateContent": "18 g",
+      "fatContent": "6 g",
+      "proteinContent": "2 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "4.4949 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "40 г зелена салата",
+      "1 стрък пресен лук",
+      "20 г ориз",
+      "1 с.л. олио",
+      "черен пипер",
+      "1 с.л. оцет",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Смесват се нарязаната на тънки ивици салата (40 г), нарязаният лук (1 стрък) и оризът (20 г), предварително сварен в подсолена вода."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Салата обилно се поръсва с черен пипер и се подправя с оцет, олио и сол."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "За по-добър вкус може да замените олиото със зехтин. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "зелена салата",
+      "qty": "40 г",
+      "id": 87
+    },
+    {
+      "name": "пресен лук",
+      "qty": "1 стрък",
+      "id": 24
+    },
+    {
+      "name": "ориз",
+      "qty": "20 г",
+      "id": 22
+    },
+    {
+      "name": "олио",
+      "qty": "1 с.л.",
+      "id": 4
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "оцет",
+      "qty": "1 с.л.",
+      "id": 61
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

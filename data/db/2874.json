@@ -1,0 +1,98 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Лесен шоколадов сладкиш със сметана и малини",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/lesen-shokoladov-sladkish-sus-smetana-i-malini-1-[2874].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/lesen-shokoladov-sladkish-sus-smetana-i-malini-1-[2874].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/lesen-shokoladov-sladkish-sus-smetana-i-malini-1-[2874].jpg"
+    ],
+    "datePublished": "2014-03-10",
+    "cookTime": "PT1H0M",
+    "recipeYield": "12 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "270 calories",
+      "carbohydrateContent": "39 g",
+      "fatContent": "11 g",
+      "proteinContent": "3 g",
+      "saturatedFatContent": "6 g",
+      "unsaturatedFatContent": "3.5008666666667 g",
+      "cholesterolContent": "32 mg"
+    },
+    "recipeIngredient": [
+      "200 г брашно",
+      "200 г захар",
+      "1  яйце",
+      "50 г масло",
+      "200 г заквасена сметана",
+      "150 г шоколад",
+      "6 с.л. какао",
+      "1 ч.л. ванилия",
+      "1 ч.л. бакпулвер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "В дълбока купа се разбиват маслото (50 г), захарта (200 г) и яйцето (1 бр) с помощта на миксер. Към тях се добавя настърганият шоколад (150 г), а също и заквасената сметана (200 г). Сместа се разбива много добре. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Накрая се добавят предварително смесените и пресяти брашно (200 г), какао (6 с.л.), ванилия (1 ч.л.) и бакпулвер (1 ч.л.). Всичко се разбива с миксер до получаването на кексово тесто. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Изсипва се в предварително намаслена и поръсена с брашно правоъгълна тавичка. Сладкишът се изпича за 40-50 минути при 180 градуса. Щом стане готов, се оставя да се охлади и след това се разрязва. По желание се поднася с пресни малини. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "брашно",
+      "qty": "200 г",
+      "id": 7
+    },
+    {
+      "name": "захар",
+      "qty": "200 г",
+      "id": 9
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    },
+    {
+      "name": "масло",
+      "qty": "50 г",
+      "id": 8
+    },
+    {
+      "name": "заквасена сметана",
+      "qty": "200 г",
+      "id": 73
+    },
+    {
+      "name": "шоколад",
+      "qty": "150 г",
+      "id": 48
+    },
+    {
+      "name": "какао",
+      "qty": "6 с.л.",
+      "id": 45
+    },
+    {
+      "name": "ванилия",
+      "qty": "1 ч.л.",
+      "id": 23
+    },
+    {
+      "name": "бакпулвер",
+      "qty": "1 ч.л.",
+      "id": 29
+    }
+  ]
+}

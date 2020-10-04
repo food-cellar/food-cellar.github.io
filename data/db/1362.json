@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печени пилешки бутчета на грил",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pileshki-butcheta-na-gril-1-[1362].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pileshki-butcheta-na-gril-1-[1362].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pileshki-butcheta-na-gril-1-[1362].jpg"
+    ],
+    "datePublished": "2011-02-17",
+    "cookTime": "PT0H40M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "218 calories",
+      "carbohydrateContent": "14 g",
+      "fatContent": "4 g",
+      "proteinContent": "30 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "2.400335 g",
+      "cholesterolContent": "95 mg"
+    },
+    "recipeIngredient": [
+      "8  пилешки бутчета",
+      "3 с.л. балсамов оцет",
+      "3 с.л. соев сос",
+      "3 с.л. мед",
+      "1 с.л. червен пипер",
+      "1/2 ч.л. черен пипер",
+      "сол",
+      "1 глава броколи"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилешките бутчета (8 бр) се сваряват до готовност. Отцеждат се и се подреждат в тавичка. Заливат се с разбитите соев сос (3 с.л.), балсамов оцет (3 с.л.), мед (3 с.л.) и подправки. Пекат се в предварително загрята фурна на грил за 10 минути - по 5 от всяка страна. Бутчетата се сервират горещи с гарнитура от сварени в подсолена вода розички броколи (1 глава)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешки бутчета",
+      "qty": "8",
+      "id": 119
+    },
+    {
+      "name": "балсамов оцет",
+      "qty": "3 с.л.",
+      "id": 142
+    },
+    {
+      "name": "соев сос",
+      "qty": "3 с.л.",
+      "id": 53
+    },
+    {
+      "name": "мед",
+      "qty": "3 с.л.",
+      "id": 38
+    },
+    {
+      "name": "червен пипер",
+      "qty": "1 с.л.",
+      "id": 20
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1/2 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "броколи",
+      "qty": "1 глава",
+      "id": 57
+    }
+  ]
+}

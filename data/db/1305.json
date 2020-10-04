@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Телешка супа с картофи, моркови и фиде, застроена с яйце и кисело мляко",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/teleshka-supa-2-[1305].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/teleshka-supa-2-[1305].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/teleshka-supa-2-[1305].jpg"
+    ],
+    "datePublished": "2011-01-30",
+    "cookTime": "PT3H0M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "260 calories",
+      "carbohydrateContent": "34 g",
+      "fatContent": "4 g",
+      "proteinContent": "20 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "1.5272783333333 g",
+      "cholesterolContent": "88 mg"
+    },
+    "recipeIngredient": [
+      "400 г телешко месо",
+      "600 г картофи",
+      "2  моркова",
+      "1 глава лук",
+      "400 г домати",
+      "1 к.ч. фиде",
+      "1  яйце",
+      "200 г кисело мляко",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Телешкото месо (400 г) се нарязва на хапки и се сварява до пълно омекване. Картофите (600 г) се обелват и нарязват на кубчета, както и морковите (2 бр) и лукът (1 глава). Доматите (400 г) се рендосват. След като телешкото месо се свари, се изважда, а бульонът от него се прецежда. В прецедения бульон се слагат нарязаните на кубчета зеленчуци и фидето (1 к.ч.). Щом картофите омекнат, се добавят настърганите домати (400 г) и месото. Супата се оставя да ври за още 15 минути. Накрая се застройва с разбитото в киселото мляко (200 г) яйце (1 бр) и се посолява на вкус. По желание се поръсва със ситно нарязан пресен магданоз."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "телешко месо",
+      "qty": "400 г",
+      "id": 110
+    },
+    {
+      "name": "картофи",
+      "qty": "600 г",
+      "id": 16
+    },
+    {
+      "name": "моркова",
+      "qty": "2",
+      "id": 13
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "домати",
+      "qty": "400 г",
+      "id": 15
+    },
+    {
+      "name": "фиде",
+      "qty": "1 к.ч.",
+      "id": 72
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    },
+    {
+      "name": "кисело мляко",
+      "qty": "200 г",
+      "id": 21
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

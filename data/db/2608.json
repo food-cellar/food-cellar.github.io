@@ -1,0 +1,118 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Спагети Карбонара - класическа рецепта с яйца Багрянка, бекон, сметана и пармезан",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/spageti-karbonara-klasicheska-recepta-s-iaica-bagrianka-5-[2608].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/spageti-karbonara-klasicheska-recepta-s-iaica-bagrianka-5-[2608].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/spageti-karbonara-klasicheska-recepta-s-iaica-bagrianka-5-[2608].jpg"
+    ],
+    "datePublished": "2013-06-24",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "968 calories",
+      "carbohydrateContent": "60 g",
+      "fatContent": "67 g",
+      "proteinContent": "28 g",
+      "saturatedFatContent": "23 g",
+      "unsaturatedFatContent": "39.37403 g",
+      "cholesterolContent": "285 mg"
+    },
+    "recipeIngredient": [
+      "300 г спагети",
+      "300 г бекон",
+      "4 скилидки чесън",
+      "1 глава лук",
+      "50 мл. зехтин",
+      "4  течна сметана",
+      "4  жълтъка Багрянка",
+      "100 г пармезан",
+      "черен пипер",
+      "сол",
+      "босилек"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Една от тънкостите при приготвянето на тази италианска рецепта е изборът на пресни яйца. За най-добри резултати екипът на 1001 рецепти препоръчва <a href=https://www.facebook.com/bagrianka/>яйца Багрянка</a>, защото жълтъкът е с ярко оранжев цвят и ще направи соса за Карбонара плътен. Освен това яйцата са с натурално добавен ограничен селен, което ги прави не само вкусни, но и полезни."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Първа стъпка при приготвянето е спагетите (300 г) да се сварят във вряща подсолена вода според инструкциите на опаковката, след което да се отцедят."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "През това време лукът (1 глава), чесънът (4 скилидки) и беконът (300 г) се нарязват на дребно и се задушават в зехтин (50 мл.) до омекване в дълбок тиган, а това отнема около 5 минути. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "След това се добавя пастата и се готви за още 5 минути. Прибавят се течната готварска сметана (4 бр), разбитите с вилица пресни жълтъци (4 бр), а също и подправките - сол и черен пипер на вкус. Спагетите се бъркат за още 5 минути на котлона, докато сосът се сгъсти. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Спагетите се сервират топли, като се поръсват в настърган пармезан (100 г) и се декорират с връхчета свеж босилек. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "спагети",
+      "qty": "300 г",
+      "id": 72
+    },
+    {
+      "name": "бекон",
+      "qty": "300 г",
+      "id": 88
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "зехтин",
+      "qty": "50 мл.",
+      "id": 10
+    },
+    {
+      "name": "течна сметана",
+      "qty": "4",
+      "id": 19
+    },
+    {
+      "name": "жълтъка Багрянка",
+      "qty": "4",
+      "id": 33
+    },
+    {
+      "name": "пармезан",
+      "qty": "100 г",
+      "id": 59
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "босилек",
+      "qty": "Parsing error",
+      "id": 25
+    }
+  ]
+}

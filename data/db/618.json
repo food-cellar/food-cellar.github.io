@@ -1,0 +1,94 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печено агнешко месо със спанак и пресен лук под фолио на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/agneshko-sus-spanak-3-[618].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/agneshko-sus-spanak-3-[618].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/agneshko-sus-spanak-3-[618].jpg"
+    ],
+    "datePublished": "2011-04-04",
+    "cookTime": "PT1H30M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "741 calories",
+      "carbohydrateContent": "11 g",
+      "fatContent": "54 g",
+      "proteinContent": "47 g",
+      "saturatedFatContent": "23 g",
+      "unsaturatedFatContent": "26.531823333333 g",
+      "cholesterolContent": "180 mg"
+    },
+    "recipeIngredient": [
+      "1 1/2 кг агнешко месо",
+      "1 кг спанак",
+      "1 връзка пресен лук",
+      "1 връзка пресен чесън",
+      "1 глава лук",
+      "1 връзка магданоз",
+      "сол",
+      "черен пипер",
+      "1 ч.ч. бира"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Месото (1 1/2 кг) се нарязва на големи парчета. Солта и черният пипер се разбиват с бирата (1 ч.ч.). В тази смес се топят парчета агнешко месо. Нареждат се в тава и се покриват с фолио Fino. Пекат се в предварително загрята до 180 градуса фурна до пълна готовност (1 час). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Спанакът (1 кг), лукът (1 глава), пресният лук (1 връзка), чесънът (1 връзка), магданозът (1 връзка) се нарязват на ситно. Посоляват се и се подправят с черен пипер. Месото се изважда от тавата, а спаначено-лучената смес се нарежда в нея върху соса, получен от печенето. Отгоре се нареждат парчетата месо и тавата се връща във фурната. Ястието се пече до пълното омекване на зеленчуците и получаването на златиста хрупкава коричка на месото."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "агнешко месо",
+      "qty": "1 1/2 кг",
+      "id": 81
+    },
+    {
+      "name": "спанак",
+      "qty": "1 кг",
+      "id": 40
+    },
+    {
+      "name": "пресен лук",
+      "qty": "1 връзка",
+      "id": 24
+    },
+    {
+      "name": "пресен чесън",
+      "qty": "1 връзка",
+      "id": 6
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "магданоз",
+      "qty": "1 връзка",
+      "id": 12
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "бира",
+      "qty": "1 ч.ч.",
+      "id": 137
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печен бял амур на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pechen-bial-amur-1-[204].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pechen-bial-amur-1-[204].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pechen-bial-amur-1-[204].jpg"
+    ],
+    "datePublished": "2010-11-29",
+    "cookTime": "PT1H0M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "426 calories",
+      "carbohydrateContent": "0 g",
+      "fatContent": "20 g",
+      "proteinContent": "47 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "14.628125 g",
+      "cholesterolContent": "150 mg"
+    },
+    "recipeIngredient": [
+      "2 кг бял амур",
+      "сол",
+      "черен пипер",
+      "50 мл. олио",
+      "2 ч.ч. бяло вино"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Рибата се почиства от люспите и вътрешностите. Ако ви е трудно отстраняването на люспите, можете да си помогнете, като напълните мивката с вода и сипете в нея оцет и оставите амура за 20 минути в нея. Има друг начин - да се попари рибата с вряла вода. След тези манипулации амурът се подсушава, осолява и овкусява с черен пипер. Слага се в голяма тава, полива се отгоре с олио и се пече в гореща фурна. Периодично се полива с вино (2 ч.ч.) и се ръси с олио по време на печенето, което трае 40-50 минути. Амурът е готов, когато придобие отвсякъде атрактивна златиста коричка. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "бял амур",
+      "qty": "2 кг",
+      "id": 102
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "олио",
+      "qty": "50 мл.",
+      "id": 4
+    },
+    {
+      "name": "бяло вино",
+      "qty": "2 ч.ч.",
+      "id": 41
+    }
+  ]
+}

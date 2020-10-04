@@ -1,0 +1,108 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Панирано филе от бяла риба",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/panirano-file-ot-biala-riba-1-[311].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/panirano-file-ot-biala-riba-1-[311].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/panirano-file-ot-biala-riba-1-[311].jpg"
+    ],
+    "datePublished": "2011-02-07",
+    "cookTime": "PT0H15M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "3254 calories",
+      "carbohydrateContent": "391 g",
+      "fatContent": "65 g",
+      "proteinContent": "259 g",
+      "saturatedFatContent": "10 g",
+      "unsaturatedFatContent": "44.91364 g",
+      "cholesterolContent": "601 mg"
+    },
+    "recipeIngredient": [
+      "1 кг бяла риба",
+      "4  белтък",
+      "8 с.л. галета",
+      "8 с.л. брашно",
+      "сол",
+      "1  краставица",
+      "4  морков",
+      "200 г червено зеле",
+      "150 г червено цвекло",
+      "50 г целина",
+      "200 г ориз",
+      "100 г печурки"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Белтъкът се разбива на пяна. Подсушеното и посолено филе (1 кг) се топи в него, след това - в смесените брашно (8 с.л.) и галета (8 с.л.) и отново в разбития белтък. Пържи се в сгорещен тиган грил без мазнина от двете страни до златисто. Поднася се гарнирано с нарязана на кръгчета краставица (1 бр), салата от ситно настъргани морков, червено зеле (200 г), червено цвекло (150 г) и целина (50 г), с варен ориз (200 г), смесен с нарязаните на ситно бланширани печурки (100 г) и стръкче магданоз."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "бяла риба",
+      "qty": "1 кг",
+      "id": 102
+    },
+    {
+      "name": "белтък",
+      "qty": "4",
+      "id": 157
+    },
+    {
+      "name": "галета",
+      "qty": "8 с.л.",
+      "id": 58
+    },
+    {
+      "name": "брашно",
+      "qty": "8 с.л.",
+      "id": 7
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "краставица",
+      "qty": "1",
+      "id": 44
+    },
+    {
+      "name": "морков",
+      "qty": "4",
+      "id": 13
+    },
+    {
+      "name": "червено зеле",
+      "qty": "200 г",
+      "id": 288
+    },
+    {
+      "name": "червено цвекло",
+      "qty": "150 г",
+      "id": 131
+    },
+    {
+      "name": "целина",
+      "qty": "50 г",
+      "id": 30
+    },
+    {
+      "name": "ориз",
+      "qty": "200 г",
+      "id": 22
+    },
+    {
+      "name": "печурки",
+      "qty": "100 г",
+      "id": 62
+    }
+  ]
+}

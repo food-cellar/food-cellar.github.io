@@ -1,0 +1,74 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата от пълнени домати с козе сирене",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-domati-s-koze-sirene-3-[1802].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-domati-s-koze-sirene-3-[1802].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-domati-s-koze-sirene-3-[1802].jpg"
+    ],
+    "datePublished": "2011-11-08",
+    "cookTime": "PT0H15M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "220 calories",
+      "carbohydrateContent": "17 g",
+      "fatContent": "13 g",
+      "proteinContent": "10 g",
+      "saturatedFatContent": "6 g",
+      "unsaturatedFatContent": "4.865255 g",
+      "cholesterolContent": "26 mg"
+    },
+    "recipeIngredient": [
+      "8  домата",
+      "100 г козе сирене",
+      "2 с.л. галета",
+      "2 с.л. зехтин",
+      "1  пресен лук"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Доматите (8 бр) се разделят по два броя на порция. Отрязват им се дъното и върхът, и се поставят в порционни чинии."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Козето сирене (100 г) се нарязва на кръгчета с дебелина 1 см - на брой, колкото са доматите. Овалват се в галета и се пържат за кратко в нагорещена мазнина. Поставят се отгоре на доматите."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Салатата се сервира с пресен лук или рукола."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "домата",
+      "qty": "8",
+      "id": 15
+    },
+    {
+      "name": "козе сирене",
+      "qty": "100 г",
+      "id": 227
+    },
+    {
+      "name": "галета",
+      "qty": "2 с.л.",
+      "id": 58
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "пресен лук",
+      "qty": "1",
+      "id": 24
+    }
+  ]
+}

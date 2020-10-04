@@ -1,0 +1,104 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Зелена салата с варени яйца и крехко пилешко месо от бут на хапки",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zelena-salata-s-iaica-i-krehko-pileshko-3-[1944].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zelena-salata-s-iaica-i-krehko-pileshko-3-[1944].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zelena-salata-s-iaica-i-krehko-pileshko-3-[1944].jpg"
+    ],
+    "datePublished": "2012-03-15",
+    "cookTime": "PT0H40M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "326 calories",
+      "carbohydrateContent": "10 g",
+      "fatContent": "13 g",
+      "proteinContent": "41 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "7.546215 g",
+      "cholesterolContent": "303 mg"
+    },
+    "recipeIngredient": [
+      "300 г пилешки бутчета",
+      "1 връзка зелена салата",
+      "2  яйца",
+      "6  репички",
+      "1 стрък зелен лук",
+      "1 с.л. зехтин",
+      "1 ч.л. риган",
+      "1 ч.л. червен пипер",
+      "1 щип. черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилешкото месо от бут без кожа (300 г) се нарязва на дребни парченца, посолява се и се овкусява с риган (1 ч.л.), черен (1 щип.) и червен пипер (1 ч.л.). Поставя се в плик за печене Fino и се пече до пълна готовност на месото. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "През това време зелената салата (1 връзка) се измива старателно и се отцежда. Накъсва се на парчета и се поставя в купа. Към нея се добавят ситно нарязаният зелен лук (1 стрък) и репичките (6 бр), нарязани на полумесеци. Салатата се посолява и се подправя със зехтин (1 с.л.). Разбърква се."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Яйцата (2 бр) се сваряват, като целта е да останат леко рохки. След като се обелят, се разполовяват и се поставят върху салатата.Месото се изважда от плика за печене и се оставя да се поохлади. Подрежда се върху салатата. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешки бутчета",
+      "qty": "300 г",
+      "id": 119
+    },
+    {
+      "name": "зелена салата",
+      "qty": "1 връзка",
+      "id": 87
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "репички",
+      "qty": "6",
+      "id": 218
+    },
+    {
+      "name": "зелен лук",
+      "qty": "1 стрък",
+      "id": 24
+    },
+    {
+      "name": "зехтин",
+      "qty": "1 с.л.",
+      "id": 10
+    },
+    {
+      "name": "риган",
+      "qty": "1 ч.л.",
+      "id": 65
+    },
+    {
+      "name": "червен пипер",
+      "qty": "1 ч.л.",
+      "id": 20
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 щип.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

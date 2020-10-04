@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Мексиканска салата",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/meksikanska-salata-2-[843].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/meksikanska-salata-2-[843].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/meksikanska-salata-2-[843].jpg"
+    ],
+    "datePublished": "2010-12-19",
+    "cookTime": "PT0H10M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "188 calories",
+      "carbohydrateContent": "29 g",
+      "fatContent": "7 g",
+      "proteinContent": "4 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "5.07923 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "4  домата",
+      "2  зелени чушки",
+      "2 глави червен лук",
+      "сол",
+      "1 ч.л. лимонов сок",
+      "2 с.л. зехтин",
+      "15 г джинджифил"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Доматите (4 бр) се попарват и обелват, след което се нарязват на полумесеци. Зелените чушки (2 бр) се нарязват на тънки ивици. Лукът (2 глави) се нарязва на тънки полумесеци. Зеленчуците се смесват в купа. Овкусяват се със сол, лимонов сок (1 ч.л.) и зехтин (2 с.л.). Салатата се разбърква и разпределя в порционни чинии. Всяка порция се поръсва с настърган пресен джинджифил (15 г)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "домата",
+      "qty": "4",
+      "id": 15
+    },
+    {
+      "name": "зелени чушки",
+      "qty": "2",
+      "id": 18
+    },
+    {
+      "name": "червен лук",
+      "qty": "2 глави",
+      "id": 3
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 ч.л.",
+      "id": 17
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "джинджифил",
+      "qty": "15 г",
+      "id": 84
+    }
+  ]
+}

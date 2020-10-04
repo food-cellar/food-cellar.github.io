@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Варен булгур със спанак и орехи",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/bulgur-sus-spanak-2-[480].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/bulgur-sus-spanak-2-[480].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/bulgur-sus-spanak-2-[480].jpg"
+    ],
+    "datePublished": "2010-12-08",
+    "cookTime": "PT0H30M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "483 calories",
+      "carbohydrateContent": "73 g",
+      "fatContent": "16 g",
+      "proteinContent": "22 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "13.38972 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1 ч.ч. булгур",
+      "2 връзки спанак",
+      "1 глава лук",
+      "2 скилидки чесън",
+      "1 с.л. олио",
+      "сол",
+      "черен пипер",
+      "1/2 к.ч. орехи"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Лукът (1 глава) се нарязва на ситно, чесънът (2 скилидки) – също, и се задушават в горещото олио. Прибавя се нарязаният на едро спанак (2 връзки) и задушаването продължава още няколко минути. Слага се булгурът (1 ч.ч.) и се разбърква. Посолява се и се подправя с черен пипер. Налива се 1 ч. ч. вода и ястието ври, докато булгурът поеме цялата течност. Прибавят се счуканите орехи (1/2 к.ч.) и се разбърква. Поднася се топло."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "булгур",
+      "qty": "1 ч.ч.",
+      "id": 128
+    },
+    {
+      "name": "спанак",
+      "qty": "2 връзки",
+      "id": 40
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "олио",
+      "qty": "1 с.л.",
+      "id": 4
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "орехи",
+      "qty": "1/2 к.ч.",
+      "id": 31
+    }
+  ]
+}

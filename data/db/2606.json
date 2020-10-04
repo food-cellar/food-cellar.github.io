@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Какаови мъфини със сушени боровинки, шоколад и мляко",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kakaovi-mufini-sus-susheni-borovinki-i-shokolad-2-[2606].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kakaovi-mufini-sus-susheni-borovinki-i-shokolad-2-[2606].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kakaovi-mufini-sus-susheni-borovinki-i-shokolad-2-[2606].jpg"
+    ],
+    "datePublished": "2013-06-21",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "595 calories",
+      "carbohydrateContent": "125 g",
+      "fatContent": "3 g",
+      "proteinContent": "14 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "0.5867175 g",
+      "cholesterolContent": "9 mg"
+    },
+    "recipeIngredient": [
+      "2 ч.ч. брашно",
+      "1 ч.ч. прясно мляко",
+      "8 с.л. захар",
+      "2 щип. сода за хляб",
+      "4 с.л. какао",
+      "4 с.л. разтворимо кафе",
+      "10 мл. шоколадов топинг",
+      "50 г сушени боровинки"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "От брашното (2 ч.ч.), прясното мляко (1 ч.ч.), захарта (8 с.л.), содата за хляб (2 щип.), какаото (4 с.л.) и сушените боровинки (4 с.л.) се омесва гладко тесто. С него се оформят топчета, които се поставят в предварително намазнени огнеупорни купички. Важно е топчетата да запълват 2/3 от купичките, защото при печене тестото удвоява обема си. Мъфините се пекат до пълна готовност на 200 градуса. Преди сервиране се поливат с шоколадов топинг. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "брашно",
+      "qty": "2 ч.ч.",
+      "id": 7
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "1 ч.ч.",
+      "id": 14
+    },
+    {
+      "name": "захар",
+      "qty": "8 с.л.",
+      "id": 9
+    },
+    {
+      "name": "сода за хляб",
+      "qty": "2 щип.",
+      "id": 56
+    },
+    {
+      "name": "какао",
+      "qty": "4 с.л.",
+      "id": 45
+    },
+    {
+      "name": "разтворимо кафе",
+      "qty": "4 с.л.",
+      "id": 272
+    },
+    {
+      "name": "шоколадов топинг",
+      "qty": "10 мл.",
+      "id": 152
+    },
+    {
+      "name": "сушени боровинки",
+      "qty": "50 г",
+      "id": 184
+    }
+  ]
+}

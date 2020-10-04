@@ -1,0 +1,54 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Коктейл Sidecar",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kokteil--1-[1712].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kokteil--1-[1712].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kokteil--1-[1712].jpg"
+    ],
+    "datePublished": "2012-07-26",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Коктейли",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "187 calories",
+      "carbohydrateContent": "18 g",
+      "fatContent": "0 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.0020705882352941 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "75 мл. бренди",
+      "50 мл. трипъл сек",
+      "50 мл. лимонов сок"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Брендито (75 мл.), ликьорът (50 мл.) и прясно изцеденият лимонов сок (50 мл.) се разбиват в шейкър, пълен с лед. Изсипват се в чаша за уиски и се украсяват с лимонова изрезка."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "бренди",
+      "qty": "75 мл.",
+      "id": 27
+    },
+    {
+      "name": "трипъл сек",
+      "qty": "50 мл.",
+      "id": 209
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "50 мл.",
+      "id": 17
+    }
+  ]
+}

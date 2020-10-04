@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пържени магданозени кюфтенца с млечен сос",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/magdanozeni-kuftenca-s-mlechen-sos-3-[1259].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/magdanozeni-kuftenca-s-mlechen-sos-3-[1259].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/magdanozeni-kuftenca-s-mlechen-sos-3-[1259].jpg"
+    ],
+    "datePublished": "2011-04-22",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "478 calories",
+      "carbohydrateContent": "27 g",
+      "fatContent": "32 g",
+      "proteinContent": "20 g",
+      "saturatedFatContent": "15 g",
+      "unsaturatedFatContent": "14.008765 g",
+      "cholesterolContent": "173 mg"
+    },
+    "recipeIngredient": [
+      "5 връзки магданоз",
+      "2  яйца",
+      "300 г сирене",
+      "6 с.л. брашно",
+      "6 с.л. олио",
+      "400 г кисело мляко",
+      "6 стръка копър"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Магданозът (5 връзки) се нарязва наситно, заедно с дръжките. Прибавя се към яйцата (2 бр) и натрошеното сирене (300 г). От получената смес се оформят кюфтенца, които се овалват в брашно и се пържат от двете страни до златисто. Магданозените кюфтенца се сервират топли, поляти с разбито подсолено кисело мляко (400 г) и пресен копър (6 стръка). "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "магданоз",
+      "qty": "5 връзки",
+      "id": 12
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "сирене",
+      "qty": "300 г",
+      "id": 32
+    },
+    {
+      "name": "брашно",
+      "qty": "6 с.л.",
+      "id": 7
+    },
+    {
+      "name": "олио",
+      "qty": "6 с.л.",
+      "id": 4
+    },
+    {
+      "name": "кисело мляко",
+      "qty": "400 г",
+      "id": 21
+    },
+    {
+      "name": "копър",
+      "qty": "6 стръка",
+      "id": 28
+    }
+  ]
+}

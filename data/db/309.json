@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Панирана маслена риба със сусам и бяло вино",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/susamena_maslenka_1-[309].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/susamena_maslenka_1-[309].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/susamena_maslenka_1-[309].jpg"
+    ],
+    "datePublished": "2010-11-04",
+    "cookTime": "PT0H15M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "448 calories",
+      "carbohydrateContent": "13 g",
+      "fatContent": "22 g",
+      "proteinContent": "40 g",
+      "saturatedFatContent": "8 g",
+      "unsaturatedFatContent": "12.21644 g",
+      "cholesterolContent": "224 mg"
+    },
+    "recipeIngredient": [
+      "400 г маслена риба",
+      "1  яйце",
+      "15 г сусам",
+      "2 с.л. галета",
+      "75 мл. бяло вино",
+      "2 с.л. лимон",
+      "сол",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Главата и вътрешностите на рибата се отстраняват, след което тя се разцепва по дължина на две части. Смесват се виното (75 мл.), лимоновият сок, солта и черният пипер и всичко това се разбърква. В така получената марината се поставя рибата и се охлажда в продължение на 2 часа в хладилника. Яйцето се разбива. Парчетата риба се топят първо в него, после в галетата (2 с.л.), смесена със сусаменото семе (15 г), и пак в яйцето. Пържат се от двете страни в силно сгорещен тиган грил без мазнина. Рибата се поднася топла, гарнирана с лист от салата, картофено пюре, поръсено с настърган морков и варен ориз, поръсен с настъргано червено цвекло, магданоз и царевица."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "маслена риба",
+      "qty": "400 г",
+      "id": 102
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    },
+    {
+      "name": "сусам",
+      "qty": "15 г",
+      "id": 113
+    },
+    {
+      "name": "галета",
+      "qty": "2 с.л.",
+      "id": 58
+    },
+    {
+      "name": "бяло вино",
+      "qty": "75 мл.",
+      "id": 41
+    },
+    {
+      "name": "лимон",
+      "qty": "2 с.л.",
+      "id": 43
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

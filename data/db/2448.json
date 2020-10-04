@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата от карфиол, пащърнак и джинджифил",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-ot-karfiol-pashturnak-i-djindjifil-4-[2448].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-ot-karfiol-pashturnak-i-djindjifil-4-[2448].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-ot-karfiol-pashturnak-i-djindjifil-4-[2448].jpg"
+    ],
+    "datePublished": "2013-04-15",
+    "cookTime": "PT0H20M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "168 calories",
+      "carbohydrateContent": "31 g",
+      "fatContent": "4 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "2.526305 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1  карфиол",
+      "1/2 кг пащърнак",
+      "1 с.л. джинджифил",
+      "1 връзка магданоз",
+      "1 ч.л. сол",
+      "2 с.л. соев сос",
+      "1 с.л. балсамов оцет",
+      "2 с.л. олио"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Карфиолът (1 бр) и пащърнакът (1/2 кг) се нарязват на средно големи парчета. Към тях се добавя настърган пресен корен от джинджифил (1 с.л.), накълцан магданоз (1 връзка), сол (1 ч.л.), соев сос (2 с.л.), балсамов оцет (1 с.л.) и олио (2 с.л.). Салатата се разбърква добре и се поднася прясна."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "карфиол",
+      "qty": "1",
+      "id": 91
+    },
+    {
+      "name": "пащърнак",
+      "qty": "1/2 кг",
+      "id": 170
+    },
+    {
+      "name": "джинджифил",
+      "qty": "1 с.л.",
+      "id": 84
+    },
+    {
+      "name": "магданоз",
+      "qty": "1 връзка",
+      "id": 12
+    },
+    {
+      "name": "сол",
+      "qty": "1 ч.л.",
+      "id": 1
+    },
+    {
+      "name": "соев сос",
+      "qty": "2 с.л.",
+      "id": 53
+    },
+    {
+      "name": "балсамов оцет",
+      "qty": "1 с.л.",
+      "id": 142
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    }
+  ]
+}

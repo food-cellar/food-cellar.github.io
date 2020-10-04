@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Кексчета с тиква и орехи",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/mufini-s-tikva-i-orehi-2-[1219].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/mufini-s-tikva-i-orehi-2-[1219].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/mufini-s-tikva-i-orehi-2-[1219].jpg"
+    ],
+    "datePublished": "2010-12-07",
+    "cookTime": "PT0H40M",
+    "recipeYield": "12 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "333 calories",
+      "carbohydrateContent": "50 g",
+      "fatContent": "12 g",
+      "proteinContent": "6 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "7.0752516666667 g",
+      "cholesterolContent": "44 mg"
+    },
+    "recipeIngredient": [
+      "1 ч.ч. тиква",
+      "2 ч.ч. брашно",
+      "1/2 ч.ч. орехи",
+      "1 ч.ч. захар",
+      "2  яйца",
+      "70 г масло",
+      "2 ч.л. бакпулвер",
+      "1 с.л. пудра захар"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Сварената тиква (1 ч.ч.), яйцата (2 бр), захарта (1 ч.ч.) и маслото (70 г) се пасират до получаването на гладка смес. Към нея се добавят предварително смесените и пресяти брашно (2 ч.ч.) и бакпулвер (2 ч.л.). Добавят се и натрошените орехи (1/2 ч.ч.) и от продуктите се омесва меко кексово тесто. Намаслени огнеупорни купички се пълнят с тестото. Важно е да се запълнят не повече от 2/3 от обема на купичките. Кексчетата се пекат при 180 градуса за 35 минути. Преди сервиране се поръсват с пудра захар (1 с.л.)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "тиква",
+      "qty": "1 ч.ч.",
+      "id": 116
+    },
+    {
+      "name": "брашно",
+      "qty": "2 ч.ч.",
+      "id": 7
+    },
+    {
+      "name": "орехи",
+      "qty": "1/2 ч.ч.",
+      "id": 31
+    },
+    {
+      "name": "захар",
+      "qty": "1 ч.ч.",
+      "id": 9
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "масло",
+      "qty": "70 г",
+      "id": 8
+    },
+    {
+      "name": "бакпулвер",
+      "qty": "2 ч.л.",
+      "id": 29
+    },
+    {
+      "name": "пудра захар",
+      "qty": "1 с.л.",
+      "id": 9
+    }
+  ]
+}

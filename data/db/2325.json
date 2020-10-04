@@ -1,0 +1,60 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печени патешки сърца в соев сос",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pateshki-surca-v-soev-sos-2-[2325].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pateshki-surca-v-soev-sos-2-[2325].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pateshki-surca-v-soev-sos-2-[2325].jpg"
+    ],
+    "datePublished": "2013-02-17",
+    "cookTime": "PT1H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "541 calories",
+      "carbohydrateContent": "1 g",
+      "fatContent": "52 g",
+      "proteinContent": "14 g",
+      "saturatedFatContent": "16 g",
+      "unsaturatedFatContent": "31.643775 g",
+      "cholesterolContent": "95 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг патешки сърца",
+      "1/2 к.ч. соев сос",
+      "2 с.л. зехтин",
+      "1  дафинов лист"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Патешките сърца (1/2 кг) се сваряват за 25-30 минути, след което се изваждат и се оставят  да изстинат. Нарязват се на половинки и се прехвърлят в намазнена тавичка. Поливат се с няколко супени лъжици от течността, соев сос (1/2 к.ч.) и малко зехтин (2 с.л.). Овкусяват се с черен пипер и дафинов лист и се пекат за 15-20 минути."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "патешки сърца",
+      "qty": "1/2 кг",
+      "id": 210
+    },
+    {
+      "name": "соев сос",
+      "qty": "1/2 к.ч.",
+      "id": 53
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "дафинов лист",
+      "qty": "1",
+      "id": 70
+    }
+  ]
+}

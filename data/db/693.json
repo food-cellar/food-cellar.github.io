@@ -1,0 +1,102 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Кекс с портокали и корнфлейкс",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/keks-s-portokali-i-kornfleiks-1-[693].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/keks-s-portokali-i-kornfleiks-1-[693].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/keks-s-portokali-i-kornfleiks-1-[693].jpg"
+    ],
+    "datePublished": "2017-03-20",
+    "cookTime": "PT0H50M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "423 calories",
+      "carbohydrateContent": "74 g",
+      "fatContent": "10 g",
+      "proteinContent": "8 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "7.86135 g",
+      "cholesterolContent": "47 mg"
+    },
+    "recipeIngredient": [
+      "2 ч.ч. брашно",
+      "2  яйца",
+      "100 г захар",
+      "1 к.ч. олио",
+      "1  портокал",
+      "4 с.л. портокалови кори",
+      "1 с.л. лимонови кори",
+      "2 ч.ч. корнфлейкс",
+      "1 ч.л. сода за хляб",
+      "1 с.л. пудра захар",
+      "2 с.л. шоколадов топинг"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Обеленият портокал се пасира с помощта на блендер. В дълбока купа се изсипват брашното (2 ч.ч.), олиото (1 к.ч.), содата за хляб (1 ч.л.), яйцата (2 бр), захарта (100 г) и смленият плод. От посочените продукти се омесва тесто. Към него се прибавят настърганите кори от портокали (4 с.л.) и лимони (1 с.л.) и накрая се добавя корнфлейкс (2 ч.ч.). Всичко се омесва добре и се изсипва във форма за кекс. Пече се на 200 градуса до пълна готовност. Десертът се поднася охладен и поръсен с пудра захар (1 с.л.) и шоколадов топинг (2 с.л.)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "брашно",
+      "qty": "2 ч.ч.",
+      "id": 7
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "захар",
+      "qty": "100 г",
+      "id": 9
+    },
+    {
+      "name": "олио",
+      "qty": "1 к.ч.",
+      "id": 4
+    },
+    {
+      "name": "портокал",
+      "qty": "1",
+      "id": 122
+    },
+    {
+      "name": "портокалови кори",
+      "qty": "4 с.л.",
+      "id": 159
+    },
+    {
+      "name": "лимонови кори",
+      "qty": "1 с.л.",
+      "id": 107
+    },
+    {
+      "name": "корнфлейкс",
+      "qty": "2 ч.ч.",
+      "id": 273
+    },
+    {
+      "name": "сода за хляб",
+      "qty": "1 ч.л.",
+      "id": 56
+    },
+    {
+      "name": "пудра захар",
+      "qty": "1 с.л.",
+      "id": 34
+    },
+    {
+      "name": "шоколадов топинг",
+      "qty": "2 с.л.",
+      "id": 152
+    }
+  ]
+}

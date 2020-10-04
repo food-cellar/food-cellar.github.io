@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Марината за телешки стекове",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/marinata-za-teleshki-stekove-3-[1718].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/marinata-za-teleshki-stekove-3-[1718].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/marinata-za-teleshki-stekove-3-[1718].jpg"
+    ],
+    "datePublished": "2012-04-18",
+    "cookTime": "PT0H5M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Сосове",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "215 calories",
+      "carbohydrateContent": "2 g",
+      "fatContent": "18 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "14.616126666667 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1 1/2 ч.ч. червено вино",
+      "1/2 ч.ч. зехтин",
+      "1 1/2 с.л. горчица",
+      "1 1/2 с.л. лимонов сок",
+      "1 с.л. винен оцет",
+      "1 с.л. сол",
+      "1 ч.л. лют пипер",
+      "1 ч.л. чесън на прах"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Всички продукти се смесват добре и с тях се мариноват за 24 часа телешки стекове, агнешки котлети, свинско месо и други."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "червено вино",
+      "qty": "1 1/2 ч.ч.",
+      "id": 98
+    },
+    {
+      "name": "зехтин",
+      "qty": "1/2 ч.ч.",
+      "id": 10
+    },
+    {
+      "name": "горчица",
+      "qty": "1 1/2 с.л.",
+      "id": 64
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 1/2 с.л.",
+      "id": 17
+    },
+    {
+      "name": "винен оцет",
+      "qty": "1 с.л.",
+      "id": 61
+    },
+    {
+      "name": "сол",
+      "qty": "1 с.л.",
+      "id": 1
+    },
+    {
+      "name": "лют пипер",
+      "qty": "1 ч.л.",
+      "id": 132
+    },
+    {
+      "name": "чесън на прах",
+      "qty": "1 ч.л.",
+      "id": 6
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Здравословно лимоново пиле с мащерка и пармезанова коричка в AirFryer",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zdravoslovno-limonovo-pile-s-mashterka-i-parmezanova-korichka-1-[3247].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zdravoslovno-limonovo-pile-s-mashterka-i-parmezanova-korichka-1-[3247].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zdravoslovno-limonovo-pile-s-mashterka-i-parmezanova-korichka-1-[3247].jpg"
+    ],
+    "datePublished": "2017-11-13",
+    "cookTime": "PT0H30M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "426 calories",
+      "carbohydrateContent": "4 g",
+      "fatContent": "18 g",
+      "proteinContent": "58 g",
+      "saturatedFatContent": "9 g",
+      "unsaturatedFatContent": "6.65031 g",
+      "cholesterolContent": "164 mg"
+    },
+    "recipeIngredient": [
+      "400 г пилешко филе",
+      "100 г пармезан",
+      "1  лимон",
+      "6 стръка мащерка",
+      "черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилешкото филе (400 г) се разрязва с нож, така че в него да се образува джобче. И вътрешността на джобчето и цялото филе се мокрят с прясно изцеден лимонов сок и се овкусяват с подправките сол, черен пипер и прясна мащерка (6 стръка). Месото се овалва в настъргания на ситно ренде пармезан. Поставя се в <a href=http://www.philips.bg/c-m-ho/cooking/fritiurnik-airfryer.html?origin=5_bg_bg_airfryer_1001recipes____recipe3>AirFryer</a> на Philips и уредът се включва на 200 градуса за 25 минути. Хрупкавото пилешко месо се готви без никаква мазнина и се сервира със свежа салата според сезона.  По желание се сервира с резени пресен лимон."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешко филе",
+      "qty": "400 г",
+      "id": 49
+    },
+    {
+      "name": "пармезан",
+      "qty": "100 г",
+      "id": 59
+    },
+    {
+      "name": "лимон",
+      "qty": "1",
+      "id": 43
+    },
+    {
+      "name": "мащерка",
+      "qty": "6 стръка",
+      "id": 75
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

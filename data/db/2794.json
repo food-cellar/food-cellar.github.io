@@ -1,0 +1,88 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Крем супа от тиквички с моркови и лук",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/krem-supa-ot-tikvichki-1-[2794].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/krem-supa-ot-tikvichki-1-[2794].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/krem-supa-ot-tikvichki-1-[2794].jpg"
+    ],
+    "datePublished": "2014-02-18",
+    "cookTime": "PT0H45M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "73 calories",
+      "carbohydrateContent": "7 g",
+      "fatContent": "4 g",
+      "proteinContent": "1 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "2.81093 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1 кг тиквички",
+      "2 глави лук",
+      "2  моркова",
+      "1/2 к.ч. олио",
+      "1 ч.л. черен пипер",
+      "сол",
+      "3 л. вода",
+      "1 кубче зеленчуков бульон"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Слага се на котлона да ври вода (3 л.) и в нея се пуска кубче зеленчуков бульон (1 кубче). Когато заври, в нея се слагат ситно нарязаните лук (2 глави), моркови (2 бр) и тиквички (1 кг)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Супата ври около 20 минути или докато зеленчуците не омекнат напълно. Накрая се добавят олиото (1/2 к.ч.) и подправките. Супата се пасира и се сервира гореща."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "тиквички",
+      "qty": "1 кг",
+      "id": 39
+    },
+    {
+      "name": "лук",
+      "qty": "2 глави",
+      "id": 3
+    },
+    {
+      "name": "моркова",
+      "qty": "2",
+      "id": 13
+    },
+    {
+      "name": "олио",
+      "qty": "1/2 к.ч.",
+      "id": 4
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "вода",
+      "qty": "3 л.",
+      "id": 11
+    },
+    {
+      "name": "зеленчуков бульон",
+      "qty": "1 кубче",
+      "id": 26
+    }
+  ]
+}

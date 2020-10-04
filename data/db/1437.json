@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата от варени картофи, кисели краставички и течна готварска сметана",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-ot-kartofi-kiseli-krastavichki-i-smetanov-sos-1-[1437].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-ot-kartofi-kiseli-krastavichki-i-smetanov-sos-1-[1437].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-ot-kartofi-kiseli-krastavichki-i-smetanov-sos-1-[1437].jpg"
+    ],
+    "datePublished": "2011-08-25",
+    "cookTime": "PT0H30M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "201 calories",
+      "carbohydrateContent": "23 g",
+      "fatContent": "10 g",
+      "proteinContent": "4 g",
+      "saturatedFatContent": "6 g",
+      "unsaturatedFatContent": "3.4913533333333 g",
+      "cholesterolContent": "37 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг картофи",
+      "6  кисели краставички",
+      "200 мл. сметана",
+      "1 кубче пилешки бульон",
+      "6 стръка магданоз"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Картофите (1/2 кг) се сваряват в подсолена вода, обелват се и се нарязват на четвъртинки. Към тях се добавят киселите краставички (6 бр), нарязани на дебели колелца, и ситно нарязаният пресен магданоз (6 стръка). В малка тенджерка на котлона се загрява течната готварска сметана (200 мл.)и в нея се разтваря кубчето пилешки бульон (1 кубче). Сосът се разбърква много добре и щом се сгъсти, с него се полива картофената салата. По желание се добавят черен пипер и сол, като се внимава да не се пресоли, поради наличието на сол в пилешкия бульон."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "картофи",
+      "qty": "1/2 кг",
+      "id": 16
+    },
+    {
+      "name": "кисели краставички",
+      "qty": "6",
+      "id": 44
+    },
+    {
+      "name": "сметана",
+      "qty": "200 мл.",
+      "id": 19
+    },
+    {
+      "name": "пилешки бульон",
+      "qty": "1 кубче",
+      "id": 26
+    },
+    {
+      "name": "магданоз",
+      "qty": "6 стръка",
+      "id": 12
+    }
+  ]
+}

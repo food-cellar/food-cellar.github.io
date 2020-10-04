@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Бадемови бисквити с канела",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/bademovi-biskviti-s-kanela-1-[3150].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/bademovi-biskviti-s-kanela-1-[3150].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/bademovi-biskviti-s-kanela-1-[3150].jpg"
+    ],
+    "datePublished": "2017-01-03",
+    "cookTime": "PT0H30M",
+    "recipeYield": "16 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "194 calories",
+      "carbohydrateContent": "20 g",
+      "fatContent": "11 g",
+      "proteinContent": "3 g",
+      "saturatedFatContent": "5 g",
+      "unsaturatedFatContent": "5.14826625 g",
+      "cholesterolContent": "32 mg"
+    },
+    "recipeIngredient": [
+      "250 г брашно",
+      "100 г бадеми",
+      "50 г захар",
+      "70 г кафява захар",
+      "150 г масло",
+      "1  яйце",
+      "1 ч.л. канела"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Бадемовите ядки (100 г) се натрошават на много ситно и се смесват със размекнатото масло (150 г) и захарта. Разбърква се и се добавя яйцето и канелата. След това на проции се добавя пресятото брашно при непрекъснато бъркане. Трябва да се получи лепкаво, но сравнително твърдо тесто. От него се откъсват топки, които се сплескват като малки питки. Поставят се в тава, покрита с хартия за печене или силикон и се пекат на 180 градуса за 10-12 минути."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "брашно",
+      "qty": "250 г",
+      "id": 7
+    },
+    {
+      "name": "бадеми",
+      "qty": "100 г",
+      "id": 82
+    },
+    {
+      "name": "захар",
+      "qty": "50 г",
+      "id": 9
+    },
+    {
+      "name": "кафява захар",
+      "qty": "70 г",
+      "id": 9
+    },
+    {
+      "name": "масло",
+      "qty": "150 г",
+      "id": 8
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    },
+    {
+      "name": "канела",
+      "qty": "1 ч.л.",
+      "id": 46
+    }
+  ]
+}

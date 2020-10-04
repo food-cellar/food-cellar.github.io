@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Протеинов шейк / смути с авокадо, извара, какао и мед",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/proteinov-sheik-smuti-s-avokado-izvara-kakao-i-med-3-[3454].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/proteinov-sheik-smuti-s-avokado-izvara-kakao-i-med-3-[3454].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/proteinov-sheik-smuti-s-avokado-izvara-kakao-i-med-3-[3454].jpg"
+    ],
+    "datePublished": "2020-06-01",
+    "cookTime": "PT0H10M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "336 calories",
+      "carbohydrateContent": "22 g",
+      "fatContent": "18 g",
+      "proteinContent": "22 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "12.06945 g",
+      "cholesterolContent": "13 mg"
+    },
+    "recipeIngredient": [
+      "1/2  авокадо",
+      "150 г извара",
+      "50 мл. прясно мляко",
+      "1 с.л. какао",
+      "1 с.л. мед"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Авокадото (1/2 бр) се обелва, нарязва се и се поставя в блендер, заедно с изварата (150 г), прясното мляко (50 мл.), какаото (1 с.л.) и меда (1 с.л.). Пасира се до получаване на еднородна напитка. По желание, може да се направи и с повече течност."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "авокадо",
+      "qty": "1/2",
+      "id": 83
+    },
+    {
+      "name": "извара",
+      "qty": "150 г",
+      "id": 92
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "50 мл.",
+      "id": 14
+    },
+    {
+      "name": "какао",
+      "qty": "1 с.л.",
+      "id": 45
+    },
+    {
+      "name": "мед",
+      "qty": "1 с.л.",
+      "id": 38
+    }
+  ]
+}

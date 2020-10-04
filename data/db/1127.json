@@ -1,0 +1,102 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Варено телешко месо със зеленчуци (картофи, моркови, лук), ябълки и сини сливи в тенджера под налягане",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/teleshko-sus-zelenchuci-v-tendjera-pod-naliagane-2-[1127].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/teleshko-sus-zelenchuci-v-tendjera-pod-naliagane-2-[1127].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/teleshko-sus-zelenchuci-v-tendjera-pod-naliagane-2-[1127].jpg"
+    ],
+    "datePublished": "2011-04-22",
+    "cookTime": "PT1H10M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "412 calories",
+      "carbohydrateContent": "54 g",
+      "fatContent": "10 g",
+      "proteinContent": "23 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "7.4292066666667 g",
+      "cholesterolContent": "65 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг телешко месо",
+      "6  картофа",
+      "4  моркова",
+      "2 глави червен лук",
+      "1  ябълка",
+      "3  сини сливи",
+      "1 ч.ч. бира",
+      "50 мл. олио",
+      "магданоз",
+      "черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Телешкото месо (1/2 кг) се нарязва на хапки и се слага с подсолена вода в тенджера под налягане за 30 минути. Картофите (6 бр), ябълката и сливите (3 бр) се нарязват на едри кубчета. Морковите (4 бр) се режат на по-дебели колелца. Червеният лук (2 глави) се нарязва на едри полумесеци. Зеленчуците и плодовете се прибавят към месото, заедно със ситно нарязания магданоз, олиото (50 мл.), бирата (1 ч.ч.) и подправките. Долива се още вода. Ястието ври още 30 минути в тенджерата под налягане. Сервира се топло."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "телешко месо",
+      "qty": "1/2 кг",
+      "id": 110
+    },
+    {
+      "name": "картофа",
+      "qty": "6",
+      "id": 16
+    },
+    {
+      "name": "моркова",
+      "qty": "4",
+      "id": 13
+    },
+    {
+      "name": "червен лук",
+      "qty": "2 глави",
+      "id": 3
+    },
+    {
+      "name": "ябълка",
+      "qty": "1",
+      "id": 85
+    },
+    {
+      "name": "сини сливи",
+      "qty": "3",
+      "id": 188
+    },
+    {
+      "name": "бира",
+      "qty": "1 ч.ч.",
+      "id": 137
+    },
+    {
+      "name": "олио",
+      "qty": "50 мл.",
+      "id": 4
+    },
+    {
+      "name": "магданоз",
+      "qty": "Parsing error",
+      "id": 12
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

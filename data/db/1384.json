@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Италианска салата с паста, майонеза, чушки и колбас (шунка, бекон)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-s-makaroni-chushki-i-kolbas-3-[1384].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-s-makaroni-chushki-i-kolbas-3-[1384].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-s-makaroni-chushki-i-kolbas-3-[1384].jpg"
+    ],
+    "datePublished": "2011-04-04",
+    "cookTime": "PT0H25M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "342 calories",
+      "carbohydrateContent": "36 g",
+      "fatContent": "16 g",
+      "proteinContent": "12 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "11.012435 g",
+      "cholesterolContent": "27 mg"
+    },
+    "recipeIngredient": [
+      "150 г макарони",
+      "3  червени чушки",
+      "150 г колбас",
+      "1 връзка пресен лук",
+      "100 г майонеза",
+      "1 ч.л. червен пипер",
+      "1 щип. черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Макароните (150 г) се сваряват във вряща подсолена вода до омекване. След това се измиват със студена вода и се отцеждат. Чушките (3 бр) се нарязват на дребни кубчета, а колбасът (150 г) и пресният лук (1 връзка) - на колелца. Смесват се с макароните в дълбока купа и се заливат с разбитата с подправките майонеза (100 г). Салатата се разбърква добре. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "макарони",
+      "qty": "150 г",
+      "id": 129
+    },
+    {
+      "name": "червени чушки",
+      "qty": "3",
+      "id": 18
+    },
+    {
+      "name": "колбас",
+      "qty": "150 г",
+      "id": 76
+    },
+    {
+      "name": "пресен лук",
+      "qty": "1 връзка",
+      "id": 24
+    },
+    {
+      "name": "майонеза",
+      "qty": "100 г",
+      "id": 80
+    },
+    {
+      "name": "червен пипер",
+      "qty": "1 ч.л.",
+      "id": 20
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 щип.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

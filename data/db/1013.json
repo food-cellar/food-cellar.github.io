@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печени тиквички пълнени със сирене, яйца и магданоз",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pecheni-tikvichki-sus-sirene-1-[1013].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pecheni-tikvichki-sus-sirene-1-[1013].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pecheni-tikvichki-sus-sirene-1-[1013].jpg"
+    ],
+    "datePublished": "2010-12-14",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "277 calories",
+      "carbohydrateContent": "9 g",
+      "fatContent": "21 g",
+      "proteinContent": "12 g",
+      "saturatedFatContent": "13 g",
+      "unsaturatedFatContent": "6.213495 g",
+      "cholesterolContent": "201 mg"
+    },
+    "recipeIngredient": [
+      "1 кг тиквички",
+      "150 г сирене",
+      "50 г масло",
+      "3  яйца",
+      "1 връзка магданоз",
+      "черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Тиквичките (1 кг) се разрязват по дължина и се сваряват в леко подсолена вода да поомекнат. Изваждат се, подсушават се и вътрешността им се издълбава. Сиренето (150 г) се настъргва на едро, прибавят се яйцата (3 бр), ситно нарязаният магданоз (1 връзка), солта и черният пипер. С тази смес се запълват издълбаните тиквички. Подреждат се в намазнена тавичка и се запичат до порозовяване. Поднасят се с кисело мляко, счукан чесън и копър."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "тиквички",
+      "qty": "1 кг",
+      "id": 39
+    },
+    {
+      "name": "сирене",
+      "qty": "150 г",
+      "id": 32
+    },
+    {
+      "name": "масло",
+      "qty": "50 г",
+      "id": 8
+    },
+    {
+      "name": "яйца",
+      "qty": "3",
+      "id": 5
+    },
+    {
+      "name": "магданоз",
+      "qty": "1 връзка",
+      "id": 12
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

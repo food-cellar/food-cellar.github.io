@@ -1,0 +1,94 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Миш маш с кайма",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/mish-mash-s-kaima-2-[1671].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/mish-mash-s-kaima-2-[1671].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/mish-mash-s-kaima-2-[1671].jpg"
+    ],
+    "datePublished": "2011-08-25",
+    "cookTime": "PT0H40M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "271 calories",
+      "carbohydrateContent": "24 g",
+      "fatContent": "12 g",
+      "proteinContent": "18 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "5.67333 g",
+      "cholesterolContent": "226 mg"
+    },
+    "recipeIngredient": [
+      "100 г свинска кайма",
+      "100 г телешка кайма",
+      "400 г червени чушки",
+      "8  домата",
+      "2 глави лук",
+      "4 скилидки чесън",
+      "4  яйца",
+      "чубрица",
+      "босилек"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Чушките (400 г) се изпичат, обелват и нарязват на парчета."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Свинската (100 г) и телешката (100 г) кайма се раздробяват на парчета и се запържват в малко зехтин. Щом променят цвета си се добавя нарязан на кубчета лук (2 глави) и чушките и се посолява. Щом лукът омекне се добавят доматите (8 бр), нарязани на кубчета и се задушава на тих огън 10-15 минути. Чесънът (4 скилидки) се счуква и се добавя към сместа заедно с чубрица и босилек. Накрая се добавят яйцата (4 бр), разбърква се добре и се готви още 5-6 минути."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "свинска кайма",
+      "qty": "100 г",
+      "id": 54
+    },
+    {
+      "name": "телешка кайма",
+      "qty": "100 г",
+      "id": 134
+    },
+    {
+      "name": "червени чушки",
+      "qty": "400 г",
+      "id": 18
+    },
+    {
+      "name": "домата",
+      "qty": "8",
+      "id": 15
+    },
+    {
+      "name": "лук",
+      "qty": "2 глави",
+      "id": 3
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "яйца",
+      "qty": "4",
+      "id": 5
+    },
+    {
+      "name": "чубрица",
+      "qty": "Parsing error",
+      "id": 36
+    },
+    {
+      "name": "босилек",
+      "qty": "Parsing error",
+      "id": 25
+    }
+  ]
+}

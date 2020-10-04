@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Коктейл дива череша (Wild Cherry)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kokteil-diva-cheresha--1-[1082].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kokteil-diva-cheresha--1-[1082].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kokteil-diva-cheresha--1-[1082].jpg"
+    ],
+    "datePublished": "2012-07-14",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Коктейли",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "80 calories",
+      "carbohydrateContent": "0 g",
+      "fatContent": "0 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "20 мл. черешово бренди",
+      "10 мл. creme de cacao",
+      "35 мл. уиски",
+      "100 мл. сок от череши",
+      "лед"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Брендито (20 мл.), ликьорът от какао (10 мл.) (creme de cacao), уискито (35 мл.) и сокът от череши (100 мл.) се разбиват в шейкър заедно с обилно количество лед. Във висока чаша се слагат ледени кубчета, докато се запълни на 3/4 и се изсипва разбитият коктейл."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "черешово бренди",
+      "qty": "20 мл.",
+      "id": 27
+    },
+    {
+      "name": "creme de cacao",
+      "qty": "10 мл.",
+      "id": 27
+    },
+    {
+      "name": "уиски",
+      "qty": "35 мл.",
+      "id": 206
+    },
+    {
+      "name": "сок от череши",
+      "qty": "100 мл.",
+      "id": 27
+    },
+    {
+      "name": "лед",
+      "qty": "Parsing error",
+      "id": 11
+    }
+  ]
+}

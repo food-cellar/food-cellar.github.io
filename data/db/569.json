@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Крем супа от царевица със заквасена сметана",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/krem-supa-ot-carevica-1-[569].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/krem-supa-ot-carevica-1-[569].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/krem-supa-ot-carevica-1-[569].jpg"
+    ],
+    "datePublished": "2010-11-05",
+    "cookTime": "PT0H20M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "249 calories",
+      "carbohydrateContent": "36 g",
+      "fatContent": "9 g",
+      "proteinContent": "9 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "5.28107 g",
+      "cholesterolContent": "10 mg"
+    },
+    "recipeIngredient": [
+      "1 с.л. олио",
+      "1/2 глава лук",
+      "400 мл. зеленчуков бульон",
+      "300 г царевица",
+      "4 с.л. заквасена сметана",
+      "босилек",
+      "сол",
+      "черен пипер",
+      "1/2  червена чушка"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Ситно нарязаният лук (1/2 глава) се запържва до омекване, след което се налива бульонът (400 мл.). Щом той заври, се прибавят царевичните зрънца (300 г). Супата се овкусява с подправките и заквасената сметана (4 с.л.) и се готви още няколко минути. След това се пасира в блендер и се поднася топла, гарнирана със ситно нарязана червена чушка (1/2 бр). "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "олио",
+      "qty": "1 с.л.",
+      "id": 4
+    },
+    {
+      "name": "лук",
+      "qty": "1/2 глава",
+      "id": 3
+    },
+    {
+      "name": "зеленчуков бульон",
+      "qty": "400 мл.",
+      "id": 26
+    },
+    {
+      "name": "царевица",
+      "qty": "300 г",
+      "id": 78
+    },
+    {
+      "name": "заквасена сметана",
+      "qty": "4 с.л.",
+      "id": 73
+    },
+    {
+      "name": "босилек",
+      "qty": "Parsing error",
+      "id": 25
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "червена чушка",
+      "qty": "1/2",
+      "id": 18
+    }
+  ]
+}

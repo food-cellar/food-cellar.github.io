@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пържени чушки с бамя в доматен сос",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/purjeni-chushki-s-bamia-v-domaten-sos-4-[2372].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/purjeni-chushki-s-bamia-v-domaten-sos-4-[2372].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/purjeni-chushki-s-bamia-v-domaten-sos-4-[2372].jpg"
+    ],
+    "datePublished": "2013-04-15",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "201 calories",
+      "carbohydrateContent": "31 g",
+      "fatContent": "7 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "6.1318925 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг зелени чушки",
+      "1 кг домати от консерва",
+      "100 г бамя",
+      "4  чесън",
+      "4 с.л. олио",
+      "1 ч.л. сол",
+      "1 ч.л. чубрица",
+      "1 с.л. брашно"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Чушките (1/2 кг) се нарязват на едри кубчета и се запържват в олио (4 с.л.) за около 10 минути, докато омекнат, като се бъркат. След това се добавя накълцан чесън (4 бр) и се готви още 5 минути. Добавят се доматите от консерва (1 кг), солта (1 ч.л.) и чубрицата (1 ч.л.) и  котлонът се намалява. Ястието къкри на слаб огън още 15 минути. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Бамята (100 г) се добавя последна - нарязва се на едри парчета и се пуска за около 5 минути при чушките и доматения сос. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Брашното (1 с.л.) се смесва с малко вода и се долива в ястието. Готви се още 2-3 минути, докато доматеният сос се сгъсти."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Тази гозба е идеалната бърза вечеря. Освен това е и нискокалорична."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "зелени чушки",
+      "qty": "1/2 кг",
+      "id": 18
+    },
+    {
+      "name": "домати от консерва",
+      "qty": "1 кг",
+      "id": 86
+    },
+    {
+      "name": "бамя",
+      "qty": "100 г",
+      "id": 255
+    },
+    {
+      "name": "чесън",
+      "qty": "4",
+      "id": 6
+    },
+    {
+      "name": "олио",
+      "qty": "4 с.л.",
+      "id": 4
+    },
+    {
+      "name": "сол",
+      "qty": "1 ч.л.",
+      "id": 1
+    },
+    {
+      "name": "чубрица",
+      "qty": "1 ч.л.",
+      "id": 36
+    },
+    {
+      "name": "брашно",
+      "qty": "1 с.л.",
+      "id": 7
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Бисквити с боровинков сос и къпини",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/biskviti-s-borovinkov-sos-i-kupini-2-[96].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/biskviti-s-borovinkov-sos-i-kupini-2-[96].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/biskviti-s-borovinkov-sos-i-kupini-2-[96].jpg"
+    ],
+    "datePublished": "2010-12-10",
+    "cookTime": "PT0H5M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "220 calories",
+      "carbohydrateContent": "33 g",
+      "fatContent": "9 g",
+      "proteinContent": "2 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "2.79531 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "8  обикновени бисквити",
+      "2 с.л. сладко от боровинки",
+      "6 с.л. цедено кисело мляко",
+      "50 г къпини",
+      "2 с.л. малинов топинг"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Киселото мляко (6 с.л.) и сладкото от боровинки (2 с.л.) се пасират в блендер до получаването на гъст сос. В порционна чиния се редуват бисквита, лъжица боровинков сос, отново бисквита. За една порция са достатъчни 4 бисквити, подредени една върху друга. Отгоре се изсипват поне 2 лъжици сос и десертът се декорира с пресни къпини и малинов топинг. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "обикновени бисквити",
+      "qty": "8",
+      "id": 95
+    },
+    {
+      "name": "сладко от боровинки",
+      "qty": "2 с.л.",
+      "id": 89
+    },
+    {
+      "name": "цедено кисело мляко",
+      "qty": "6 с.л.",
+      "id": 163
+    },
+    {
+      "name": "къпини",
+      "qty": "50 г",
+      "id": 254
+    },
+    {
+      "name": "малинов топинг",
+      "qty": "2 с.л.",
+      "id": 152
+    }
+  ]
+}

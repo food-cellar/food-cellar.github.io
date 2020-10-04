@@ -1,0 +1,92 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пилешки рулца от филе пълнени с мариновани сушени домати и гъби печурки",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pileshki-rulca-s-marinovani-susheni-domati-i-sveja-salata-1-[3078].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pileshki-rulca-s-marinovani-susheni-domati-i-sveja-salata-1-[3078].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pileshki-rulca-s-marinovani-susheni-domati-i-sveja-salata-1-[3078].jpg"
+    ],
+    "datePublished": "2016-01-25",
+    "cookTime": "PT0H30M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "489 calories",
+      "carbohydrateContent": "36 g",
+      "fatContent": "15 g",
+      "proteinContent": "56 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "10.4095 g",
+      "cholesterolContent": "116 mg"
+    },
+    "recipeIngredient": [
+      "400 г пилешки гърди",
+      "100 г мариновани сушени домати",
+      "100 г печурки",
+      "черен пипер",
+      "сол",
+      "3 с.л. зехтин",
+      "сол",
+      "300 г чери домати"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилешкото филе се начуква с кухненски чук, докато стане тънко. Овкусява се с черен пипер и сол на вкус. В него се поставят нарязаните измити гъби и маринованите сушени домати. Навива се на рула, които се фиксират с клечки за зъби, за да не се разтворят при печене. Пекат се, намазани със зехтин, върху хартия за печене при 180 градуса до готовност. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Сервират се топли с гарнитура от пресни чери домати.  "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Тази рецепта е част от <a href=http://www.1001recepti.com/articles/show/?list_id=212-dieti>РЕЖИМЪТ НА САНДРА</a>."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешки гърди",
+      "qty": "400 г",
+      "id": 79
+    },
+    {
+      "name": "мариновани сушени домати",
+      "qty": "100 г",
+      "id": 121
+    },
+    {
+      "name": "печурки",
+      "qty": "100 г",
+      "id": 62
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "зехтин",
+      "qty": "3 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "чери домати",
+      "qty": "300 г",
+      "id": 15
+    }
+  ]
+}

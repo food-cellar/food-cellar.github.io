@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Боб по венециански с моркови, целина, царевица и червен лук",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/bob-po-venecianski-1-[606].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/bob-po-venecianski-1-[606].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/bob-po-venecianski-1-[606].jpg"
+    ],
+    "datePublished": "2010-12-10",
+    "cookTime": "PT0H15M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "355 calories",
+      "carbohydrateContent": "63 g",
+      "fatContent": "4 g",
+      "proteinContent": "19 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "2.71284 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "150 г боб",
+      "2  моркова",
+      "3 с.л. царевица",
+      "1 глава лук",
+      "1 глава червен лук",
+      "1 с.л. зехтин",
+      "червен пипер",
+      "магданоз",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Зехтинът (1 с.л.) се загрява в тиган и към него се добавят нарязаният на кубчета морков (2 бр), нарязаният на кубчета лук (1 глава) и нарязаният на колелца червен лук (1 глава). Когато морковът омекне, се добавя свареният боб (150 г),сладката царевица от консерва (3 с.л.), разбърква се и се поръсва с подправките и пресния магданоз."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "боб",
+      "qty": "150 г",
+      "id": 63
+    },
+    {
+      "name": "моркова",
+      "qty": "2",
+      "id": 13
+    },
+    {
+      "name": "царевица",
+      "qty": "3 с.л.",
+      "id": 78
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "червен лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "зехтин",
+      "qty": "1 с.л.",
+      "id": 10
+    },
+    {
+      "name": "червен пипер",
+      "qty": "Parsing error",
+      "id": 20
+    },
+    {
+      "name": "магданоз",
+      "qty": "Parsing error",
+      "id": 12
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

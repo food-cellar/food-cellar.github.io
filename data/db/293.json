@@ -1,0 +1,102 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Гъбена чорба с печурки, картофи, моркови и течна готварска сметана",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/gubena-supa-2-[293].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/gubena-supa-2-[293].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/gubena-supa-2-[293].jpg"
+    ],
+    "datePublished": "2010-12-09",
+    "cookTime": "PT0H20M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "157 calories",
+      "carbohydrateContent": "16 g",
+      "fatContent": "9 g",
+      "proteinContent": "3 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "4.5655425 g",
+      "cholesterolContent": "21 mg"
+    },
+    "recipeIngredient": [
+      "200 г гъби печурки",
+      "1 глава лук",
+      "1 к.ч. сметана",
+      "2 с.л. зехтин",
+      "1  морков",
+      "1  картоф",
+      "3 скилидки чесън",
+      "куркума",
+      "магданоз",
+      "копър",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Гъбите (200 г) се почистват и нарязват на средни по големина парчета. Лукът (1 глава) се нарязва на ситно. В предварително загретия зехтин (2 с.л.) се задушава първо лукът, а след това се добавят и гъбите. Щом полуомекнат, се налива вода. Добавят се морковът и картофът - цели, посолява се и се оставя супата до поври до пълната готовност на зеленчуците. Морковът и картофът се изваждат, пасират и връщат обратно в супата. Прибавят се куркумата и сметаната, след което супата отново ври 3-4 минути. Поднася се топла, поръсена със ситно нарязан копър и магданоз. По желание може да се сервират и крутони в отделна чинийка."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "гъби печурки",
+      "qty": "200 г",
+      "id": 62
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "сметана",
+      "qty": "1 к.ч.",
+      "id": 19
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "картоф",
+      "qty": "1",
+      "id": 16
+    },
+    {
+      "name": "чесън",
+      "qty": "3 скилидки",
+      "id": 6
+    },
+    {
+      "name": "куркума",
+      "qty": "Parsing error",
+      "id": 118
+    },
+    {
+      "name": "магданоз",
+      "qty": "Parsing error",
+      "id": 12
+    },
+    {
+      "name": "копър",
+      "qty": "Parsing error",
+      "id": 28
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

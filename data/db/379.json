@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Запеканка от пиле с карфиол и топено сирене на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pile-s-karfiol-2-[379].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pile-s-karfiol-2-[379].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pile-s-karfiol-2-[379].jpg"
+    ],
+    "datePublished": "2010-12-08",
+    "cookTime": "PT1H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "536 calories",
+      "carbohydrateContent": "11 g",
+      "fatContent": "34 g",
+      "proteinContent": "44 g",
+      "saturatedFatContent": "10 g",
+      "unsaturatedFatContent": "20.106715 g",
+      "cholesterolContent": "165 mg"
+    },
+    "recipeIngredient": [
+      "1  пиле",
+      "1 глава карфиол",
+      "1 стрък праз",
+      "черен пипер",
+      "чесън на прах",
+      "50 г пушено топено сирене",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилето се нарязва на порции и се сварява в подсолена вода, след което се изважда от бульона. Карфиолът (1 глава) се накъсва на розички и се бланшира във врящия бульон, подправен с черен пипер и чесън на прах. Месото и розичките се нареждат в тава. Празът (1 стрък) се нарязва и с него се поръсва ястието. Залива се с бульона, в който е разтопено сиренето (50 г). Пече се до пълна готовност."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пиле",
+      "qty": "1",
+      "id": 111
+    },
+    {
+      "name": "карфиол",
+      "qty": "1 глава",
+      "id": 91
+    },
+    {
+      "name": "праз",
+      "qty": "1 стрък",
+      "id": 51
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "чесън на прах",
+      "qty": "Parsing error",
+      "id": 6
+    },
+    {
+      "name": "пушено топено сирене",
+      "qty": "50 г",
+      "id": 112
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

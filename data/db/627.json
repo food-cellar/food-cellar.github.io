@@ -1,0 +1,102 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Студена млечна супа от кисело мляко с краставици и репички",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/studena-mlechna-supa-2-[627].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/studena-mlechna-supa-2-[627].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/studena-mlechna-supa-2-[627].jpg"
+    ],
+    "datePublished": "2011-04-04",
+    "cookTime": "PT0H15M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "539 calories",
+      "carbohydrateContent": "27 g",
+      "fatContent": "40 g",
+      "proteinContent": "22 g",
+      "saturatedFatContent": "8 g",
+      "unsaturatedFatContent": "30.081705 g",
+      "cholesterolContent": "39 mg"
+    },
+    "recipeIngredient": [
+      "300 мл. зеленчуков бульон",
+      "1 кофичка кисело мляко",
+      "200 г краставици",
+      "100 г репички",
+      "1 щип. бял пипер",
+      "15 г чесън",
+      "1 с.л. див лук",
+      "магданоз",
+      "сол",
+      "50 г хайвер",
+      "100 г орехи"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Краставиците (200 г) и репичките (100 г) се нарязват на тънки полукръгчета. Мазнината от бульона се отделя и разбива заедно с киселото мляко (за препоръчване не повече от 1,5 % масленост) (1 кофичка), след което то се смесва с бульона (300 мл.). Прибавят се зеленчуците и подправките. Супата се слага в хладилника за 1 час. Посолява се и се овкусява с черен пипер преди поднасяне. Всяка порция се декорира с по 1 с. л. хайвер от пъстърва или 2 с. л. счукани орехи, накъсан див лук и листа от мента."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "зеленчуков бульон",
+      "qty": "300 мл.",
+      "id": 26
+    },
+    {
+      "name": "кисело мляко",
+      "qty": "1 кофичка",
+      "id": 21
+    },
+    {
+      "name": "краставици",
+      "qty": "200 г",
+      "id": 44
+    },
+    {
+      "name": "репички",
+      "qty": "100 г",
+      "id": 218
+    },
+    {
+      "name": "бял пипер",
+      "qty": "1 щип.",
+      "id": 171
+    },
+    {
+      "name": "чесън",
+      "qty": "15 г",
+      "id": 6
+    },
+    {
+      "name": "див лук",
+      "qty": "1 с.л.",
+      "id": 352
+    },
+    {
+      "name": "магданоз",
+      "qty": "Parsing error",
+      "id": 12
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "хайвер",
+      "qty": "50 г",
+      "id": 280
+    },
+    {
+      "name": "орехи",
+      "qty": "100 г",
+      "id": 31
+    }
+  ]
+}

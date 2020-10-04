@@ -1,0 +1,108 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Киш с риба тон и кисели краставички",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kish-s-riba-ton-i-kiseli-krastavichki-1-[1480].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kish-s-riba-ton-i-kiseli-krastavichki-1-[1480].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kish-s-riba-ton-i-kiseli-krastavichki-1-[1480].jpg"
+    ],
+    "datePublished": "2011-06-27",
+    "cookTime": "PT1H20M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "341 calories",
+      "carbohydrateContent": "21 g",
+      "fatContent": "23 g",
+      "proteinContent": "11 g",
+      "saturatedFatContent": "12 g",
+      "unsaturatedFatContent": "7.56073375 g",
+      "cholesterolContent": "182 mg"
+    },
+    "recipeIngredient": [
+      "200 г брашно",
+      "100 г масло",
+      "1  жълтък",
+      "1 щип. сол",
+      "3 с.л. вода",
+      "120 г риба тон",
+      "100 г кисели краставички",
+      "4  яйца",
+      "200 мл. сметана",
+      "200 мл. прясно мляко",
+      "черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Брашното (200 г) се пресява, а маслото (100 г) се нарязва на парченца. Двете се смесват с жълтъка (1 бр), солта (1 щип.) и водата (3 с.л.). Омесва се средно твърдо тесто, което се увива във фолио и се оставя в хладилник за 30 минути. Дъното на формата се покрива с хартия за печене. Тестото се разточва върху набрашнена повърхност и се слага във формата, като отстрани се оставя ръб около 4 см. Киселите краставички (100 г), нарязани на кубчета, и отцедената от консервата риба тон (120 г) се изсипват върху тестото. Яйцата (4 бр) се разбиват с млякото (200 мл.) и сметаната (200 мл.). Подправят се със сол и черен пипер  и се изливат върху плънката. Пирогът се пече около 50 минути при 180 градуса. Преди да се разреже, се оставя леко да се охлади.  "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "брашно",
+      "qty": "200 г",
+      "id": 7
+    },
+    {
+      "name": "масло",
+      "qty": "100 г",
+      "id": 8
+    },
+    {
+      "name": "жълтък",
+      "qty": "1",
+      "id": 33
+    },
+    {
+      "name": "сол",
+      "qty": "1 щип.",
+      "id": 1
+    },
+    {
+      "name": "вода",
+      "qty": "3 с.л.",
+      "id": 11
+    },
+    {
+      "name": "риба тон",
+      "qty": "120 г",
+      "id": 127
+    },
+    {
+      "name": "кисели краставички",
+      "qty": "100 г",
+      "id": 44
+    },
+    {
+      "name": "яйца",
+      "qty": "4",
+      "id": 5
+    },
+    {
+      "name": "сметана",
+      "qty": "200 мл.",
+      "id": 19
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "200 мл.",
+      "id": 14
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Зелена салата с рукола и аншоа",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-s-anshoa-2-[1523].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-s-anshoa-2-[1523].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-s-anshoa-2-[1523].jpg"
+    ],
+    "datePublished": "2011-08-29",
+    "cookTime": "PT0H10M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "229 calories",
+      "carbohydrateContent": "15 g",
+      "fatContent": "16 g",
+      "proteinContent": "7 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "11.09725 g",
+      "cholesterolContent": "13 mg"
+    },
+    "recipeIngredient": [
+      "1 връзка зелена салата",
+      "100 г рукола",
+      "50 г аншоа",
+      "50 г крутони",
+      "4 с.л. майонеза",
+      "4 с.л. заквасена сметана",
+      "сол",
+      "4 с.л. зехтин"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Зелената салата (1 връзка) се измива и нарязва на средни по дебелина ивици. Руколата (100 г) се измива и се прибавя към зелената салата. Листните зеленчуци се овкусяват със сол и зехтин (4 с.л.), и върху тях се поставят филетата маринована аншоа (50 г) и крутоните (50 г). По желание салатата се полива с дресинг от разбити майонеза (4 с.л.), заквасена сметана (4 с.л.) и малко сол."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "зелена салата",
+      "qty": "1 връзка",
+      "id": 87
+    },
+    {
+      "name": "рукола",
+      "qty": "100 г",
+      "id": 155
+    },
+    {
+      "name": "аншоа",
+      "qty": "50 г",
+      "id": 253
+    },
+    {
+      "name": "крутони",
+      "qty": "50 г",
+      "id": 139
+    },
+    {
+      "name": "майонеза",
+      "qty": "4 с.л.",
+      "id": 80
+    },
+    {
+      "name": "заквасена сметана",
+      "qty": "4 с.л.",
+      "id": 73
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    }
+  ]
+}

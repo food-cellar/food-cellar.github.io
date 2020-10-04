@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Бяло фрапе",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/bialo-frape-1-[1689].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/bialo-frape-1-[1689].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/bialo-frape-1-[1689].jpg"
+    ],
+    "datePublished": "2011-08-21",
+    "cookTime": "PT0H3M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Напитки",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "93 calories",
+      "carbohydrateContent": "7 g",
+      "fatContent": "5 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "1.18852 g",
+      "cholesterolContent": "21 mg"
+    },
+    "recipeIngredient": [
+      "6 с.л. вода",
+      "1 ч.л. инстантно кафе",
+      "1/2 ч.л. течен подсладител",
+      "150 мл. прясно мляко",
+      "4 бучки лед"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Водата, инстантното кафе и течният подсладител се изсипват в стъклена чаша за фрапе. Разбиват се с миксер или със специален уред за фрапе до получаването на пяна. Добавят се прясното мляко и кубчетата лед. В бялото фрапе се поставя сламка и напитката се сервира веднага."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "вода",
+      "qty": "6 с.л.",
+      "id": 11
+    },
+    {
+      "name": "инстантно кафе",
+      "qty": "1 ч.л.",
+      "id": 272
+    },
+    {
+      "name": "течен подсладител",
+      "qty": "1/2 ч.л.",
+      "id": 173
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "150 мл.",
+      "id": 14
+    },
+    {
+      "name": "лед",
+      "qty": "4 бучки",
+      "id": 11
+    }
+  ]
+}

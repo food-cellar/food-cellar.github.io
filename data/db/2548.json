@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Свински ребра на скара в медена марината",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/svinski-rebra-na-skara-v-medena-marinata-1-[2548].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/svinski-rebra-na-skara-v-medena-marinata-1-[2548].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/svinski-rebra-na-skara-v-medena-marinata-1-[2548].jpg"
+    ],
+    "datePublished": "2013-06-05",
+    "cookTime": "PT2H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "557 calories",
+      "carbohydrateContent": "8 g",
+      "fatContent": "34 g",
+      "proteinContent": "51 g",
+      "saturatedFatContent": "11 g",
+      "unsaturatedFatContent": "18.6426875 g",
+      "cholesterolContent": "150 mg"
+    },
+    "recipeIngredient": [
+      "1 кг свински ребра",
+      "1/2 к.ч. мед",
+      "1/2 к.ч. соев сос",
+      "1/2 ч.л. черен пипер",
+      "1 стрък розмарин"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Течният мед (1/2 к.ч.) се смесва в купичка със соевия сос (1/2 к.ч.) и черния пипер (1/2 ч.л.) и в тази марината се накисват свинските ребра (1 кг). Оставят се в хладилник и покрити с фолио за около час. След това се изваждат и се пекат на силно загрята скара или в тавичка във фурната. Сервират се горещи със стрък ароматен розмарин."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "свински ребра",
+      "qty": "1 кг",
+      "id": 216
+    },
+    {
+      "name": "мед",
+      "qty": "1/2 к.ч.",
+      "id": 38
+    },
+    {
+      "name": "соев сос",
+      "qty": "1/2 к.ч.",
+      "id": 53
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1/2 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "розмарин",
+      "qty": "1 стрък",
+      "id": 77
+    }
+  ]
+}

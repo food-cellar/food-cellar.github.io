@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата с розови домати, авокадо, чушки и крутони",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-s-domati-avokado-i-krutoni-1-[2114].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-s-domati-avokado-i-krutoni-1-[2114].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-s-domati-avokado-i-krutoni-1-[2114].jpg"
+    ],
+    "datePublished": "2012-10-08",
+    "cookTime": "PT0H15M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "247 calories",
+      "carbohydrateContent": "17 g",
+      "fatContent": "19 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "14.525235 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "2  розови домата",
+      "1  жълта чушка",
+      "1  авокадо",
+      "2 стръка магданоз",
+      "2 с.л. балсамов оцет",
+      "4 с.л. зехтин",
+      "1/2 ч.л. шарена сол",
+      "1/2 ч.л. червен пипер",
+      "4 с.л. слънчогледови семки",
+      "2 филии черен хляб"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Розoвите домати (2 бр), жълтата чушка (1 бр) и авокадото (1 бр) се нарязват на кубчета. Смесват се в купа и заедно с накълцания магданоз (2 стръка) се овкусяват със зехтин (4 с.л.), балсамов оцет (2 с.л.) и сол.Хлябът (2 филии) се нарязва на кубчета, които се поръсват с подправките и се поливат с малко зехтин. Изпичат се в гореща фурна, докато станат хрупкави от всички страни. Поръсват се върху салатата, заедно с белените слънчогледови семки (4 с.л.). "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "розови домата",
+      "qty": "2",
+      "id": 15
+    },
+    {
+      "name": "жълта чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "авокадо",
+      "qty": "1",
+      "id": 83
+    },
+    {
+      "name": "магданоз",
+      "qty": "2 стръка",
+      "id": 12
+    },
+    {
+      "name": "балсамов оцет",
+      "qty": "2 с.л.",
+      "id": 142
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "шарена сол",
+      "qty": "1/2 ч.л.",
+      "id": 1
+    },
+    {
+      "name": "червен пипер",
+      "qty": "1/2 ч.л.",
+      "id": 20
+    },
+    {
+      "name": "слънчогледови семки",
+      "qty": "4 с.л.",
+      "id": 147
+    },
+    {
+      "name": "черен хляб",
+      "qty": "2 филии",
+      "id": 267
+    }
+  ]
+}

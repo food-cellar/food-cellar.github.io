@@ -1,0 +1,104 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пълнени калмари с ориз, лук и смляно месо от риба скумрия печени на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pulneni_kalmari_4-[71].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pulneni_kalmari_4-[71].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pulneni_kalmari_4-[71].jpg"
+    ],
+    "datePublished": "2010-10-28",
+    "cookTime": "PT0H45M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "422 calories",
+      "carbohydrateContent": "21 g",
+      "fatContent": "13 g",
+      "proteinContent": "49 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "8.3296375 g",
+      "cholesterolContent": "618 mg"
+    },
+    "recipeIngredient": [
+      "1 кг калмара",
+      "200 г скумрия",
+      "1 к.ч. ориз",
+      "1 глава  лук",
+      "босилек",
+      "магданоз",
+      "черен пипер",
+      "сол",
+      "2 с.л. олио",
+      "2 к.ч. вода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Филето от скумрия (200 г) се нарязва на ситно или се пуска през месомелачката. В предварително загрятото олио се задушава получената рибна кайма. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Добавят се ситно нарязаният лук (1 глава), подправките и измитият ориз (1 к.ч.). Разбърква се и се налива водата (2 к.ч.). Сместа ври, докато течността от нея се изпари. Бърка се непрекъснато, за да не загори. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Щом се охлади, с нея се напълват предварително сварените за 2 минути в подсолена вряща вода калмари (1 кг). Калмарите се пекат в силно загрята фурна, докато получат златиста коричка отгоре. Поднасят се със зелена салата."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "калмара",
+      "qty": "1 кг",
+      "id": 187
+    },
+    {
+      "name": "скумрия",
+      "qty": "200 г",
+      "id": 287
+    },
+    {
+      "name": "ориз",
+      "qty": "1 к.ч.",
+      "id": 22
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "босилек",
+      "qty": "Parsing error",
+      "id": 25
+    },
+    {
+      "name": "магданоз",
+      "qty": "Parsing error",
+      "id": 12
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    },
+    {
+      "name": "вода",
+      "qty": "2 к.ч.",
+      "id": 11
+    }
+  ]
+}

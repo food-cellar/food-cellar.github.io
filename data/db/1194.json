@@ -1,0 +1,76 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Телешко със зеленчуци и оризови нудъли",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/teleshko-sus-zelenchuci-i-nuduls-2-[1194].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/teleshko-sus-zelenchuci-i-nuduls-2-[1194].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/teleshko-sus-zelenchuci-i-nuduls-2-[1194].jpg"
+    ],
+    "datePublished": "2012-11-12",
+    "cookTime": "PT0H45M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "271 calories",
+      "carbohydrateContent": "43 g",
+      "fatContent": "2 g",
+      "proteinContent": "17 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.52124 g",
+      "cholesterolContent": "39 mg"
+    },
+    "recipeIngredient": [
+      "200 г оризови нудъли",
+      "200 г телешко месо",
+      "1  червена чушка",
+      "1  зелена чушка",
+      "1 глава лук",
+      "2 скилидки чесън"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Нудълите (200 г) се накисват в студена вода за 45 минути, след което се отцеждат."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "В тиган се запържва телешкото месо (200 г) от двете страни за около 5-6 минути. Изважда се на дървена дъска и се нарязва на жулиени, които отново се връщат в тигана за повторно готвене. Добавят се нарязани на ивици червени (1 бр) и зелени чушки (1 бр), лук (1 глава) и счукан чесън (2 скилидки) и се готви няколко минути. Добавят се нудълите и се разбърква добре. Овкусява се със сол и черен пипер и се сервира."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "оризови нудъли",
+      "qty": "200 г",
+      "id": 55
+    },
+    {
+      "name": "телешко месо",
+      "qty": "200 г",
+      "id": 110
+    },
+    {
+      "name": "червена чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "зелена чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    }
+  ]
+}

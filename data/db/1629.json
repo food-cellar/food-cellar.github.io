@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Зеленчукова салата с пилешко месо, тиквички, сусам и кълнове",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zelenchukova-salata-s-pileshko-susam-i-kulnove-1-[1629].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zelenchukova-salata-s-pileshko-susam-i-kulnove-1-[1629].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zelenchukova-salata-s-pileshko-susam-i-kulnove-1-[1629].jpg"
+    ],
+    "datePublished": "2011-08-03",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "182 calories",
+      "carbohydrateContent": "12 g",
+      "fatContent": "8 g",
+      "proteinContent": "17 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "5.4355025 g",
+      "cholesterolContent": "29 mg"
+    },
+    "recipeIngredient": [
+      "200 г пилешки гърди",
+      "4  моркова",
+      "2  тиквички",
+      "100 г соеви кълнове",
+      "2 с.л. сусам",
+      "1 с.л. соев сос",
+      "2 с.л. зехтин",
+      "2 с.л. лимонов сок",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилешките гърди (200 г) се нарязват на тънки ивички, потапят се в соевия сос (1 с.л.) и се овалват в сусама (2 с.л.). Пържат се в таган от всички страни, докато покафенеят.В дълбока купа се смесват нарязаните на тънки пръчици моркови (4 бр), фино нарязаните с белачка тиквички (2 бр) и соевите кълнове (100 г). Зеленчуците се подправят със сол, зехтин (2 с.л.) и лимонов сок (2 с.л.), и се разбъркват. Накрая към тях се прибавя пилешкото месо.  "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешки гърди",
+      "qty": "200 г",
+      "id": 79
+    },
+    {
+      "name": "моркова",
+      "qty": "4",
+      "id": 13
+    },
+    {
+      "name": "тиквички",
+      "qty": "2",
+      "id": 39
+    },
+    {
+      "name": "соеви кълнове",
+      "qty": "100 г",
+      "id": 225
+    },
+    {
+      "name": "сусам",
+      "qty": "2 с.л.",
+      "id": 113
+    },
+    {
+      "name": "соев сос",
+      "qty": "1 с.л.",
+      "id": 53
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "2 с.л.",
+      "id": 17
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

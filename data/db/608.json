@@ -1,0 +1,70 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пиле на тиган с лук, соев сос и горчица",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/mesce-s-luk-2-[608].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/mesce-s-luk-2-[608].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/mesce-s-luk-2-[608].jpg"
+    ],
+    "datePublished": "2011-08-07",
+    "cookTime": "PT0H25M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "333 calories",
+      "carbohydrateContent": "11 g",
+      "fatContent": "7 g",
+      "proteinContent": "52 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "3.7957275 g",
+      "cholesterolContent": "163 mg"
+    },
+    "recipeIngredient": [
+      "1 кг пилешко месо",
+      "4 глави лук",
+      "4 скилидки чесън",
+      "4 с.л. соев сос",
+      "2 с.л. горчица"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилето се нарязва на ивици, а лукът на полукръгове."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Първо се запържва лукът докато поомекне. След това се добавя пилешкото месо и счуканият чесън. Щом месото побелее се добавя соевият сос и горчицата. Овкусява се с черен пипер и сол. Разбърква се добре и се задушава за 5-10 минути докато месото е готово, но не е станало прекалено твърдо."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешко месо",
+      "qty": "1 кг",
+      "id": 49
+    },
+    {
+      "name": "лук",
+      "qty": "4 глави",
+      "id": 3
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "соев сос",
+      "qty": "4 с.л.",
+      "id": 53
+    },
+    {
+      "name": "горчица",
+      "qty": "2 с.л.",
+      "id": 64
+    }
+  ]
+}

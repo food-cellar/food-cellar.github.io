@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пържени филийки с тофу",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/purjeni-filiiki-s-tofu-2-[671].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/purjeni-filiiki-s-tofu-2-[671].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/purjeni-filiiki-s-tofu-2-[671].jpg"
+    ],
+    "datePublished": "2010-11-28",
+    "cookTime": "PT0H15M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "415 calories",
+      "carbohydrateContent": "41 g",
+      "fatContent": "21 g",
+      "proteinContent": "16 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "15.93978 g",
+      "cholesterolContent": "94 mg"
+    },
+    "recipeIngredient": [
+      "4 филии хляб",
+      "150 г тофу",
+      "1  яйце",
+      "2 стръкчета босилек",
+      "черен пипер",
+      "4 с.л. зехтин"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Тофуто (150 г) се размачква с вилица и се смесва с яйцето (1 бр) и ситно нарязания пресен босилек (2 стръкчета) и черния пипер. С получената смес се намазват триъгълничетата, отрязани от филийките (4 филии), и се запържват в горещ зехтин за кратко - докато добият златист цвят. Изваждат се с решетъчна лъжица и се отцеждат върху сито. Това е чудесна закуска, но също така може да се предложи и като предястие."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "хляб",
+      "qty": "4 филии",
+      "id": 66
+    },
+    {
+      "name": "тофу",
+      "qty": "150 г",
+      "id": 257
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    },
+    {
+      "name": "босилек",
+      "qty": "2 стръкчета",
+      "id": 25
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    }
+  ]
+}

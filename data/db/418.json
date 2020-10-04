@@ -1,0 +1,88 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Крем супа от моркови, лук и мляко",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/sluncheva-ot-morkovi-i-mliako-2-[418].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/sluncheva-ot-morkovi-i-mliako-2-[418].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/sluncheva-ot-morkovi-i-mliako-2-[418].jpg"
+    ],
+    "datePublished": "2010-12-08",
+    "cookTime": "PT0H30M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "287 calories",
+      "carbohydrateContent": "29 g",
+      "fatContent": "15 g",
+      "proteinContent": "10 g",
+      "saturatedFatContent": "5 g",
+      "unsaturatedFatContent": "8.04888 g",
+      "cholesterolContent": "35 mg"
+    },
+    "recipeIngredient": [
+      "4  моркова",
+      "2 с.л. олио",
+      "сол",
+      "1 глава лук",
+      "1/2 л. прясно мляко",
+      "2 с.л. лимонов сок",
+      "черен пипер",
+      "зелен лук"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Морковите (4 бр) се настъргват на ситното ренде, лукът (1 глава) - също. Тази смес се пържи в горещото олио. Щом омекне, се налива прясното млякo (1/2 л.) и малко вода. Ври няколко минути, посолява се и се подправя с черния пипер и лимоновия сок (2 с.л.). Поднася се гореща, украсена със ситно нарязани перца от зелен лук. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Съвет: Тази супа може да се доовкуси с пресен копър или пресен магданоз, а защо не и двете подправки. Разбира се, те се слагат в суров вид непосредствено преди поднасянето, за да запазят витамините си."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "моркова",
+      "qty": "4",
+      "id": 13
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "1/2 л.",
+      "id": 14
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "2 с.л.",
+      "id": 17
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "зелен лук",
+      "qty": "Parsing error",
+      "id": 24
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Зеленчукова супа с картофи, грах и домати",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zelenchukova-supa-s-kartofi-grah-i-domati-1-[2838].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zelenchukova-supa-s-kartofi-grah-i-domati-1-[2838].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zelenchukova-supa-s-kartofi-grah-i-domati-1-[2838].jpg"
+    ],
+    "datePublished": "2014-02-25",
+    "cookTime": "PT1H0M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "253 calories",
+      "carbohydrateContent": "44 g",
+      "fatContent": "3 g",
+      "proteinContent": "14 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "2.3465966666667 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1 кг домати",
+      "1/2 кг картофи",
+      "1/2 кг грах",
+      "2 глави лук",
+      "2  моркова",
+      "2 л. зеленчуков бульон",
+      "2 с.л. олио",
+      "1 ч.л. черен пипер",
+      "сол",
+      "4 с.л. доматено пюре"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "В тенджера в малко олио (2 с.л.) се задушава ситно нарязаният лук (2 глави). Щом омекне, се добавя горещият бульон (2 л.) и в него се пускат нарязаните на ситни кубчета картофи (1/2 кг) и моркови (2 бр). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Щом те омекнат, се добавят доматите от консерва (1 кг), които се пасират заедно със сока им и доматеното пюре (4 с.л.)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Супата ври още няколко минути, след което се добавят замразеният грах (1/2 кг) и подправките. Супата се готви до готовност на всички продукти. Сервира се гореща и по желание се поръсва с пресен магданоз или босилек.  "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "домати",
+      "qty": "1 кг",
+      "id": 15
+    },
+    {
+      "name": "картофи",
+      "qty": "1/2 кг",
+      "id": 16
+    },
+    {
+      "name": "грах",
+      "qty": "1/2 кг",
+      "id": 68
+    },
+    {
+      "name": "лук",
+      "qty": "2 глави",
+      "id": 3
+    },
+    {
+      "name": "моркова",
+      "qty": "2",
+      "id": 13
+    },
+    {
+      "name": "зеленчуков бульон",
+      "qty": "2 л.",
+      "id": 26
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "доматено пюре",
+      "qty": "4 с.л.",
+      "id": 35
+    }
+  ]
+}

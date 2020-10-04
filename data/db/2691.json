@@ -1,0 +1,88 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Лесно и бързо тирамису с яйца",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/lesno-tiramisu-s-iaica-1-[2691].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/lesno-tiramisu-s-iaica-1-[2691].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/lesno-tiramisu-s-iaica-1-[2691].jpg"
+    ],
+    "datePublished": "2014-01-24",
+    "cookTime": "PT0H20M",
+    "recipeYield": "12 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "387 calories",
+      "carbohydrateContent": "36 g",
+      "fatContent": "24 g",
+      "proteinContent": "7 g",
+      "saturatedFatContent": "13 g",
+      "unsaturatedFatContent": "8.5387482317073 g",
+      "cholesterolContent": "285 mg"
+    },
+    "recipeIngredient": [
+      "400 г бишкоти",
+      "6  яйца",
+      "1/2 кг маскарпоне",
+      "150 г захар",
+      "2 ч.ч. кафе",
+      "5 с.л. какао"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Яйцата (6 бр) се разделят на белтъци и жълтъци и белтъците се разбиват на пухкав сняг. Прибавя се захарта (150 г) към жълтъците и се разбива за 2-3 минути."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Добавя се маскарпонето (1/2 кг) и се разбива за още 2-3 минути на средна мощност. След това се добавят разбитите белтъци и сместа се разбърква с лъжица."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Бишкотите (400 г) се потапят една по една за секунди в горещото кафе (2 ч.ч.). С така напоените бишкоти се покрива дъното на правоъгълна тава. Върху тях се нанася 1/3 от крема. В същата последователност се подреждат още два пласта. Третият ред бишкоти се покрива само с крем. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Тирамисуто се оставя за няколко часа в хладилник."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Накрая десертът се поръсва с какао (5 с.л.) с помощта на фина цедка. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "бишкоти",
+      "qty": "400 г",
+      "id": 133
+    },
+    {
+      "name": "яйца",
+      "qty": "6",
+      "id": 5
+    },
+    {
+      "name": "маскарпоне",
+      "qty": "1/2 кг",
+      "id": 115
+    },
+    {
+      "name": "захар",
+      "qty": "150 г",
+      "id": 9
+    },
+    {
+      "name": "кафе",
+      "qty": "2 ч.ч.",
+      "id": 144
+    },
+    {
+      "name": "какао",
+      "qty": "5 с.л.",
+      "id": 45
+    }
+  ]
+}

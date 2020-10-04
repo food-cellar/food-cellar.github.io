@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Смути от диня и ягоди",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/smuti-ot-dinia-i-iagodi-1-[872].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/smuti-ot-dinia-i-iagodi-1-[872].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/smuti-ot-dinia-i-iagodi-1-[872].jpg"
+    ],
+    "datePublished": "2012-06-24",
+    "cookTime": "PT0H10M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Напитки",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "85 calories",
+      "carbohydrateContent": "20 g",
+      "fatContent": "0 g",
+      "proteinContent": "1 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.29875 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг диня",
+      "250 г ягоди",
+      "4 с.л. лимонов сок",
+      "2 с.л. захар",
+      "200 г лед"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Ягодите (250 г) се пасират в блендер и се прецеждат през тънко сито, за да се отстранят семките. Връщат се в блендера, заедно с динята (1/2 кг), лимоновия сок (4 с.л.), захарта (2 с.л.) и леда (200 г). Пасира се до получаване на гладка смес. Консумира се непосредствено след това."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "диня",
+      "qty": "1/2 кг",
+      "id": 251
+    },
+    {
+      "name": "ягоди",
+      "qty": "250 г",
+      "id": 109
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "4 с.л.",
+      "id": 17
+    },
+    {
+      "name": "захар",
+      "qty": "2 с.л.",
+      "id": 9
+    },
+    {
+      "name": "лед",
+      "qty": "200 г",
+      "id": 11
+    }
+  ]
+}

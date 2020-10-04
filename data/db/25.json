@@ -1,0 +1,108 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Постна зеленчукова супа с картофи, моркови, чушки и лук",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/postna-zelenchukova-supa-s-kartofi-morkovi-chushki-i-luk-5-[25].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/postna-zelenchukova-supa-s-kartofi-morkovi-chushki-i-luk-5-[25].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/postna-zelenchukova-supa-s-kartofi-morkovi-chushki-i-luk-5-[25].jpg"
+    ],
+    "datePublished": "2010-10-14",
+    "cookTime": "PT0H20M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "161 calories",
+      "carbohydrateContent": "29 g",
+      "fatContent": "3 g",
+      "proteinContent": "3 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "2.473275 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг картофи",
+      "1  морков",
+      "1  зелена чушка",
+      "1 глава лук",
+      "1  домат",
+      "1 кубче пилешки бульон",
+      "2 с.л. олио",
+      "1 връзка магданоз",
+      "сол",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Картофите (1/2 кг) се нарязват на средноголеми кубчета, морковът (1 бр) и чушката (1 бр) - на малки кубчета, а лукът (1 глава) - на ситно."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Заливат се със студена вода, посоляват се, добавят се кубчето пилешки бульон (1 кубче) и олиото (2 с.л.) и се варят до готовност."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Добавя се доматът (1 бр), настърган на едрото ренде, и супата се оставя да поври още 3 минути."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Поднася се гореща, подправена с черен пипер и поръсена със ситно нарязан магданоз. За по-плътен и ефектен вкус може във всяка порция да се сложат дребни парченца кашкавал."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "картофи",
+      "qty": "1/2 кг",
+      "id": 16
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "зелена чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "домат",
+      "qty": "1",
+      "id": 15
+    },
+    {
+      "name": "пилешки бульон",
+      "qty": "1 кубче",
+      "id": 26
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    },
+    {
+      "name": "магданоз",
+      "qty": "1 връзка",
+      "id": 12
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

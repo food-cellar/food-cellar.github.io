@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата от варена леща с карамелизиран лук, спанак и колбас (шпек)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-ot-leshta-s-karameliziran-luk-spanak-i-kolbas-1-[3298].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-ot-leshta-s-karameliziran-luk-spanak-i-kolbas-1-[3298].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-ot-leshta-s-karameliziran-luk-spanak-i-kolbas-1-[3298].jpg"
+    ],
+    "datePublished": "2018-05-17",
+    "cookTime": "PT0H15M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "610 calories",
+      "carbohydrateContent": "75 g",
+      "fatContent": "21 g",
+      "proteinContent": "35 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "15.3507 g",
+      "cholesterolContent": "18 mg"
+    },
+    "recipeIngredient": [
+      "400 г варена леща",
+      "100 г колбас",
+      "4 глави червен лук",
+      "2 с.л. захар",
+      "200 г спанак",
+      "3 с.л. лимонов сок",
+      "9 с.л. зехтин",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Варената леща (400 г) се отцежда от консервата, буркана или водата, в която е предварително сварена. Изсипва се в купа и към нея се добавят листата пресен спанак (200 г)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Лукът (4 глави) се нарязва на тънки полумесеци и се поставя в сух тиган, заедно със захарта (2 с.л.). Бърка се, докато се захарта се разтопи и лукът омекне и се карамелизира. Оставя се да се охлади и се добавя към салатата. Тя се овкусява със сол, зехтин (9 с.л.) и прясно изцеден лимонов сок (3 с.л.). Разбърква се старателно и се добавят резени колбас (100 г). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Салатата с леща е чудесна идея както за обяд, така и за вечеря. Подходяща е за домашно приготвен обяд в офиса, тъй като е лесна за опаковане в кутия, не отнема време и е вкусна и на следващия ден."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Най-апетитен резултат ще постигнете с Деликатесен колбас <a href=http://www.azyam.bg/>Аз ям!</a>. С гаранция от <a href=http://www.gradus.bg/>Градус</a>."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "варена леща",
+      "qty": "400 г",
+      "id": 106
+    },
+    {
+      "name": "колбас",
+      "qty": "100 г",
+      "id": 76
+    },
+    {
+      "name": "червен лук",
+      "qty": "4 глави",
+      "id": 3
+    },
+    {
+      "name": "захар",
+      "qty": "2 с.л.",
+      "id": 9
+    },
+    {
+      "name": "спанак",
+      "qty": "200 г",
+      "id": 40
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "3 с.л.",
+      "id": 17
+    },
+    {
+      "name": "зехтин",
+      "qty": "9 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

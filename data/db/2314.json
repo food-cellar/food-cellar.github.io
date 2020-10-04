@@ -1,0 +1,122 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Ориз със скариди и куркума",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/oriz-sus-skaridi-i-kurkuma-1-[2314].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/oriz-sus-skaridi-i-kurkuma-1-[2314].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/oriz-sus-skaridi-i-kurkuma-1-[2314].jpg"
+    ],
+    "datePublished": "2013-02-11",
+    "cookTime": "PT0H40M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "388 calories",
+      "carbohydrateContent": "44 g",
+      "fatContent": "9 g",
+      "proteinContent": "29 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "6.5714425 g",
+      "cholesterolContent": "190 mg"
+    },
+    "recipeIngredient": [
+      "1 ч.ч. ориз",
+      "1/2 кг скариди",
+      "1  морков",
+      "1  домат",
+      "1 глава лук",
+      "1/2 връзка магданоз",
+      "1/2 ч.л. куркума",
+      "1/2 ч.л. черен пипер",
+      "сол",
+      "3 ч.ч. вода",
+      "4 с.л. зехтин"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Скаридите (1/2 кг) се почистват, осоляват се и се оставят да се отцедят. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "През това време лукът (1 глава) и морковът (1 бр) се нарязват на ситни кубчета и се задушават в дълбок тиган в малко зехтин (4 с.л.). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "След като омекнат, се добавя настърганият домат (1 бр), малко сол и черен пипер. Сосът се оставя да ври така няколко минути, след което към него се добавя оризът (1 ч.ч.), разбърква се и се долива вода (3 ч.ч.). Добавя се и куркумата (1/2 ч.л.) и се разбърква.  "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Когато оризът е почти сварен, се добавят скаридите и ястието се оставя да къкри така около 15 минути, докато водата се изпари напълно."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Накрая се добавя ситно нарязаният пресен магданоз (1/2 връзка) и оризът се разбърква. Сервира се горещ, но и охладен е чудесен на вкус."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "По желание всяка порция се декорира с цяла бланширана скарида."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "ориз",
+      "qty": "1 ч.ч.",
+      "id": 22
+    },
+    {
+      "name": "скариди",
+      "qty": "1/2 кг",
+      "id": 104
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "домат",
+      "qty": "1",
+      "id": 15
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "магданоз",
+      "qty": "1/2 връзка",
+      "id": 12
+    },
+    {
+      "name": "куркума",
+      "qty": "1/2 ч.л.",
+      "id": 118
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1/2 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "вода",
+      "qty": "3 ч.ч.",
+      "id": 11
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    }
+  ]
+}

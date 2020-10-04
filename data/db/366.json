@@ -1,0 +1,108 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Бяла риба с морска салата",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/biala-riba-s-morska-salata-4-[366].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/biala-riba-s-morska-salata-4-[366].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/biala-riba-s-morska-salata-4-[366].jpg"
+    ],
+    "datePublished": "2011-05-23",
+    "cookTime": "PT0H45M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "747 calories",
+      "carbohydrateContent": "95 g",
+      "fatContent": "11 g",
+      "proteinContent": "54 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "7.308245 g",
+      "cholesterolContent": "134 mg"
+    },
+    "recipeIngredient": [
+      "300 г филе от мерлуза",
+      "сол",
+      "черен пипер",
+      "лимонов сок",
+      "1 ч.л. горчица",
+      "галета",
+      "1 к.ч. бяло вино",
+      "250 г макарони",
+      "100 г миди ядки",
+      "6  скариди",
+      "босилек",
+      "сметана"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Солта, черният пипер, лимоновият сок, горчицата (1 ч.л.) и бялото вино (1 к.ч.)се разбиват до еднородна смес. С нея се залива рибното филе (300 г) и престоява 1 час на студено. Отцежда се, подсушава се, овалва се в галета и се пържи на тиган без мазнина до готовност. Макароните (250 г) се сваряват във вряща подсолена вода и се отцеждат. Мидите (100 г) и скаридите (6 бр) се сваряват. Смесват се с макароните, подправят се с черен пипер и сушен босилек. Добавят се течната сметана и останалата марината. Всичко това се довежда до кипене. Посолява се, разбърква се и с него се гарнира готовата риба. Стръкчета варен зелен боб се нареждат отстрани на рибата за украса."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "филе от мерлуза",
+      "qty": "300 г",
+      "id": 102
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "Parsing error",
+      "id": 17
+    },
+    {
+      "name": "горчица",
+      "qty": "1 ч.л.",
+      "id": 64
+    },
+    {
+      "name": "галета",
+      "qty": "Parsing error",
+      "id": 58
+    },
+    {
+      "name": "бяло вино",
+      "qty": "1 к.ч.",
+      "id": 41
+    },
+    {
+      "name": "макарони",
+      "qty": "250 г",
+      "id": 129
+    },
+    {
+      "name": "миди ядки",
+      "qty": "100 г",
+      "id": 168
+    },
+    {
+      "name": "скариди",
+      "qty": "6",
+      "id": 104
+    },
+    {
+      "name": "босилек",
+      "qty": "Parsing error",
+      "id": 25
+    },
+    {
+      "name": "сметана",
+      "qty": "Parsing error",
+      "id": 19
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Лесен спаначен хляб с яйца и брашно ",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/lesen-spanachen-hliab-s-iaica-i-brashno-1-[3272].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/lesen-spanachen-hliab-s-iaica-i-brashno-1-[3272].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/lesen-spanachen-hliab-s-iaica-i-brashno-1-[3272].jpg"
+    ],
+    "datePublished": "2017-11-23",
+    "cookTime": "PT1H0M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Хлебни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "160 calories",
+      "carbohydrateContent": "21 g",
+      "fatContent": "5 g",
+      "proteinContent": "6 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "3.77576 g",
+      "cholesterolContent": "70 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг спанак",
+      "3  яйца",
+      "200 г брашно",
+      "4 с.л. олио",
+      "1/2 ч.л. бакпулвер",
+      "1 щип. черен пипер",
+      "1/2 ч.л. сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пресният спанак (1/2 кг) се измива старателно, дръжките се отстраняват и се накълцва на ситно. След това се поставя в тенджера с капак, залива се с мазнината (4 с.л.) и се задушава за десет минути до пълното му омекване. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "След това в съда при спанака се добавят брашното (200 г) и яйцата (3 бр). Бърка се енергично, като се добавят подправките и бакпулверът (1/2 ч.л.). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Трябва да се получи гъста смес, подобна на кексово тесто. Тя се изсипва в правоъгълна тавичка за кекс, на дъното и стените на която е поставена хартия за печене. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Хлябът се поставя в предварително загрята до 200 градуса фурна и се пече около 40 минути или до готовност, когато хлябът придобие златиста коричка. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Разрязва се, след като се охлади."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Посудата от снимката можете да намерите в <a href=https://www.facebook.com/siaeood/>СИА ЕООД</a>."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "спанак",
+      "qty": "1/2 кг",
+      "id": 40
+    },
+    {
+      "name": "яйца",
+      "qty": "3",
+      "id": 5
+    },
+    {
+      "name": "брашно",
+      "qty": "200 г",
+      "id": 7
+    },
+    {
+      "name": "олио",
+      "qty": "4 с.л.",
+      "id": 4
+    },
+    {
+      "name": "бакпулвер",
+      "qty": "1/2 ч.л.",
+      "id": 29
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 щип.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "1/2 ч.л.",
+      "id": 1
+    }
+  ]
+}

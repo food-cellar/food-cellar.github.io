@@ -1,0 +1,80 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Вкусни и лесни варени картофи с песто от целина",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/vareni-kartofi-s-pesto-ot-celina-1-[1833].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/vareni-kartofi-s-pesto-ot-celina-1-[1833].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/vareni-kartofi-s-pesto-ot-celina-1-[1833].jpg"
+    ],
+    "datePublished": "2011-11-30",
+    "cookTime": "PT0H50M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Гарнитури",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "296 calories",
+      "carbohydrateContent": "44 g",
+      "fatContent": "11 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "9.06486 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1 кг картофи",
+      "50 г листа от целина",
+      "2 скилидки чесън",
+      "50 мл. зехтин",
+      "2 ч.л. сол",
+      "2 ч.ч. вода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Картофите (1 кг) се нарязват и се запичат в тавичка с малко зехтин и сол, като се добавя вода (2 ч.ч.). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Отделно се приготвя пестото, като се пасират с блендер листата от целина (50 г), зехтинът (50 мл.), чесънът (2 скилидки) и солта (2 ч.л.)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Картофите се разбъркват с пестото и се сервират като гарнитура към месни ястия."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "картофи",
+      "qty": "1 кг",
+      "id": 16
+    },
+    {
+      "name": "листа от целина",
+      "qty": "50 г",
+      "id": 30
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "зехтин",
+      "qty": "50 мл.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "2 ч.л.",
+      "id": 1
+    },
+    {
+      "name": "вода",
+      "qty": "2 ч.ч.",
+      "id": 11
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата с тиквички и сирене",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-s-tikvichki-i-sirene-1-[357].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-s-tikvichki-i-sirene-1-[357].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-s-tikvichki-i-sirene-1-[357].jpg"
+    ],
+    "datePublished": "2010-11-26",
+    "cookTime": "PT0H5M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "255 calories",
+      "carbohydrateContent": "12 g",
+      "fatContent": "19 g",
+      "proteinContent": "12 g",
+      "saturatedFatContent": "8 g",
+      "unsaturatedFatContent": "8.92693 g",
+      "cholesterolContent": "44 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг тиквички",
+      "4 стръкчета магданоз",
+      "4 стръкчета копър",
+      "1 стрък пресен лук",
+      "1 с.л. зехтин",
+      "1 с.л. лимонов сок",
+      "сол",
+      "100 г сирене",
+      "20 г бадеми"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Тиквичките (1/2 кг) се обелват и нарязват на фини ивици с помощта на белачка. Пресните магданоз (4 стръкчета), копър (4 стръкчета) и лук (1 стрък) се нарязват на ситно. Прибавят се към тиквичките, посоляват се и се овкусяват със зехтин и лимонов сок. Салата се разбърква и разпределя в порционни чинии. Поръсва се обилно с настъргано на средното ренде краве сирене и се декорира с цели бадемови ядки."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "тиквички",
+      "qty": "1/2 кг",
+      "id": 39
+    },
+    {
+      "name": "магданоз",
+      "qty": "4 стръкчета",
+      "id": 12
+    },
+    {
+      "name": "копър",
+      "qty": "4 стръкчета",
+      "id": 28
+    },
+    {
+      "name": "пресен лук",
+      "qty": "1 стрък",
+      "id": 24
+    },
+    {
+      "name": "зехтин",
+      "qty": "1 с.л.",
+      "id": 10
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "сирене",
+      "qty": "100 г",
+      "id": 32
+    },
+    {
+      "name": "бадеми",
+      "qty": "20 г",
+      "id": 82
+    }
+  ]
+}

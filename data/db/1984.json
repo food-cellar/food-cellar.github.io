@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Котлети от риба от сьомга пържени на тиган със свежа салата",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/sioomga-na-tigan-sus-sveja-salata-3-[1984].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/sioomga-na-tigan-sus-sveja-salata-3-[1984].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/sioomga-na-tigan-sus-sveja-salata-3-[1984].jpg"
+    ],
+    "datePublished": "2012-06-12",
+    "cookTime": "PT0H15M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "454 calories",
+      "carbohydrateContent": "24 g",
+      "fatContent": "16 g",
+      "proteinContent": "54 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "11.5883 g",
+      "cholesterolContent": "130 mg"
+    },
+    "recipeIngredient": [
+      "1  котлет от сьомга",
+      "1 щип. черен пипер",
+      "1 щип. сол",
+      "2 листа айсберг",
+      "4  чери домата",
+      "1 с.л. зехтин",
+      "1 ч.л. лимонов сок",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Котлетът от сьомга се измива и се подправя от двете страни с малко сол и черен пипер. Поставя се в нагорещен, но сух тиган и се пържи 4 минути от едната страна и три минути и половина от другата. Не е необходимо да се добавя мазнина в съда, тъй като рибата е мазна. Изпържвайки се за това време, тя ще остане крехка отвътре, а коричката й - златиста. Сервира се веднага, поднесена със салата според сезона. В тази рецепта салатата е от айсберг и чери домати, като зеленчуците са овкусени с лимонов сок, сол и зехтин."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "котлет от сьомга",
+      "qty": "1",
+      "id": 114
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 щип.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "1 щип.",
+      "id": 1
+    },
+    {
+      "name": "айсберг",
+      "qty": "2 листа",
+      "id": 101
+    },
+    {
+      "name": "чери домата",
+      "qty": "4",
+      "id": 15
+    },
+    {
+      "name": "зехтин",
+      "qty": "1 с.л.",
+      "id": 10
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 ч.л.",
+      "id": 17
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

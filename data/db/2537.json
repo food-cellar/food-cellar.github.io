@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пикантни пуешки шишчета с ананас ",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pikantni-pueshki-shishcheta-s-ananas-2-[2537].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pikantni-pueshki-shishcheta-s-ananas-2-[2537].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pikantni-pueshki-shishcheta-s-ananas-2-[2537].jpg"
+    ],
+    "datePublished": "2013-06-03",
+    "cookTime": "PT0H20M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "378 calories",
+      "carbohydrateContent": "21 g",
+      "fatContent": "4 g",
+      "proteinContent": "60 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "1.3297 g",
+      "cholesterolContent": "150 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг пуешко месо",
+      "200 г ананас",
+      "2  зелени чушки",
+      "2 с.л. чили сос",
+      "1 с.л. бял винен оцет",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пуешкото месо (1/2 кг) се нарязва на хапки и заедно с нарязаните на едри парчета ананас (200 г) и зелени чушки (2 бр), се маринова в разбитите чили сос (2 с.л.), бял винен оцет (1 с.л.) и сол. Продуктите се нанизват на шишове и се пекат на грил до пълна готовност. Пикантните пуешки шишчета с ананас се поднасят топли с гарнитура от свежа салата. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пуешко месо",
+      "qty": "1/2 кг",
+      "id": 195
+    },
+    {
+      "name": "ананас",
+      "qty": "200 г",
+      "id": 146
+    },
+    {
+      "name": "зелени чушки",
+      "qty": "2",
+      "id": 18
+    },
+    {
+      "name": "чили сос",
+      "qty": "2 с.л.",
+      "id": 205
+    },
+    {
+      "name": "бял винен оцет",
+      "qty": "1 с.л.",
+      "id": 61
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

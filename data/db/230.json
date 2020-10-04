@@ -1,0 +1,94 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пълнени домати със сирене и извара",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pulneni-domati-s-izvara-2-[230].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pulneni-domati-s-izvara-2-[230].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pulneni-domati-s-izvara-2-[230].jpg"
+    ],
+    "datePublished": "2010-11-29",
+    "cookTime": "PT0H30M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "732 calories",
+      "carbohydrateContent": "53 g",
+      "fatContent": "36 g",
+      "proteinContent": "54 g",
+      "saturatedFatContent": "12 g",
+      "unsaturatedFatContent": "19.70105 g",
+      "cholesterolContent": "427 mg"
+    },
+    "recipeIngredient": [
+      "3  доматa",
+      "200 г извара",
+      "50 г сирене",
+      "2 стръка пресен чесън",
+      "20 г орехи",
+      "1/2 връзка магданоз",
+      "2  яйца",
+      "сол",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Отрязват се капачета на доматите (3 бр), а вътрешността им се издълбава с лъжичка. Яйцата (2 бр) се разбиват и смесват с изварата (200 г), натрошеното сирене (50 г) и орехи (20 г), ситно нарязаните магданоз (1/2 връзка), пресен чесън (2 стръка), солта и черния пипер. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "С тази смес се пълнят доматите, захлупват се с капачетата и се пекат на фурна до готовност. Поднасят се върху листа от зелена салата."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "доматa",
+      "qty": "3",
+      "id": 15
+    },
+    {
+      "name": "извара",
+      "qty": "200 г",
+      "id": 92
+    },
+    {
+      "name": "сирене",
+      "qty": "50 г",
+      "id": 32
+    },
+    {
+      "name": "пресен чесън",
+      "qty": "2 стръка",
+      "id": 6
+    },
+    {
+      "name": "орехи",
+      "qty": "20 г",
+      "id": 31
+    },
+    {
+      "name": "магданоз",
+      "qty": "1/2 връзка",
+      "id": 12
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

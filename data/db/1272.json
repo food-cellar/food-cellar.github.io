@@ -1,0 +1,60 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Баклавата на бея",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/baklavata-na-beia-2-[1272].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/baklavata-na-beia-2-[1272].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/baklavata-na-beia-2-[1272].jpg"
+    ],
+    "datePublished": "2011-04-22",
+    "cookTime": "PT0H25M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "655 calories",
+      "carbohydrateContent": "54 g",
+      "fatContent": "44 g",
+      "proteinContent": "18 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "38.70604 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "150 г пудра захар",
+      "1 ч.л. ванилия",
+      "350 г бадеми",
+      "100 мл. вода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Водата (100 мл.), ванилията (1 ч.л.) и захарта (150 г) се изсипват в малка тенджерка и се слагат на котлона. Бъркат се за около 10 минути до получаването на захарен сироп. Бадемите (350 г) се смилат много ситно с помощта на блендер. Заливат се със захарния сироп и се омесват до получаването на тесто. То се разделя на три равни части. Всяка от тях се смесва с няколко капки сладкарски бои и се меси, докато придобие еднороден цвят. Трите теста се разточват на кори с дебелина около половин сантиметър и се подреждат една върху друга. С помощта на формички се изрязват сладки. Така наречената бейска баклава се подрежда в плато и може да се сервира веднага. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пудра захар",
+      "qty": "150 г",
+      "id": 34
+    },
+    {
+      "name": "ванилия",
+      "qty": "1 ч.л.",
+      "id": 23
+    },
+    {
+      "name": "бадеми",
+      "qty": "350 г",
+      "id": 82
+    },
+    {
+      "name": "вода",
+      "qty": "100 мл.",
+      "id": 11
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата с китайско зеле, рулца от раци",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-s-rulca-ot-raci-1-[804].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-s-rulca-ot-raci-1-[804].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-s-rulca-ot-raci-1-[804].jpg"
+    ],
+    "datePublished": "2011-01-15",
+    "cookTime": "PT0H10M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "217 calories",
+      "carbohydrateContent": "12 g",
+      "fatContent": "14 g",
+      "proteinContent": "13 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "11.116185 g",
+      "cholesterolContent": "15 mg"
+    },
+    "recipeIngredient": [
+      "8 листа китайско зеле",
+      "100 г рулца от раци",
+      "1  краставица",
+      "30 г тиквени семки",
+      "2 с.л. олио",
+      "1 с.л. лимонов сок",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Китайското зеле (8 листа) се накъсва на едро. Рулцата от раци (100 г) се нарязват на колелца, а краставицата (1 бр) - на полукръгчета, като семките й се отстраняват. Олиото (2 с.л.), лимоновият сок (1 с.л.) и солта се разбиват. С получения дресинг се овкусяват смесените зеленчуци и рулцата. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "китайско зеле",
+      "qty": "8 листа",
+      "id": 233
+    },
+    {
+      "name": "рулца от раци",
+      "qty": "100 г",
+      "id": 198
+    },
+    {
+      "name": "краставица",
+      "qty": "1",
+      "id": 44
+    },
+    {
+      "name": "тиквени семки",
+      "qty": "30 г",
+      "id": 189
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

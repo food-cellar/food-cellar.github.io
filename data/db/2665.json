@@ -1,0 +1,120 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Задушено прясно зеле с наденица",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/priasno-zele-s-nadenica-1-[2665].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/priasno-zele-s-nadenica-1-[2665].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/priasno-zele-s-nadenica-1-[2665].jpg"
+    ],
+    "datePublished": "2013-11-26",
+    "cookTime": "PT1H30M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "192 calories",
+      "carbohydrateContent": "11 g",
+      "fatContent": "12 g",
+      "proteinContent": "9 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "7.37855375 g",
+      "cholesterolContent": "23 mg"
+    },
+    "recipeIngredient": [
+      "1  зелка",
+      "400 г наденица",
+      "1  морков",
+      "1 глава лук",
+      "2  домата",
+      "1 ч.л. червен пипер",
+      "1 ч.л. черен пипер",
+      "1 ч.л. чубрица",
+      "2  дафинов лист",
+      "4 с.л. олио",
+      "1 ч.ч. вода",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Наденицата (400 г) се нарязва на дребни парчета. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Зелето (1 бр) се нарязва на тънки ивици и се претрива със сол, като се внимава да не се пресоли. Лукът (1 глава) се нарязва на ситни кубчета, а морковът (1 бр) се настъргва на едрото ренде. Задушават се под капак до омекване, заедно с наденицата. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Щом се задушат, се добавя червеният пипер (1 ч.л.), разбърква се и се прибавя нарязаното и претрито със сол зеле. Добавя се гореща вода (1 ч.ч.) и ястието се оставя да къкри на тих огън до пълното омекване на зелето. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Накрая, когато зелето е омекнало, се добавят останалите подправки и настърганите домати (2 бр). Ястието се оставя да покъкри се още десетина минути, след което се отстранява от котлона."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "зелка",
+      "qty": "1",
+      "id": 94
+    },
+    {
+      "name": "наденица",
+      "qty": "400 г",
+      "id": 148
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "домата",
+      "qty": "2",
+      "id": 15
+    },
+    {
+      "name": "червен пипер",
+      "qty": "1 ч.л.",
+      "id": 20
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "чубрица",
+      "qty": "1 ч.л.",
+      "id": 36
+    },
+    {
+      "name": "дафинов лист",
+      "qty": "2",
+      "id": 70
+    },
+    {
+      "name": "олио",
+      "qty": "4 с.л.",
+      "id": 4
+    },
+    {
+      "name": "вода",
+      "qty": "1 ч.ч.",
+      "id": 11
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печена ципура с лимон и копър на скара във фолио",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pechena-cipura-s-limon-i-kopur-na-skara-vuv-folio-1-[3208].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pechena-cipura-s-limon-i-kopur-na-skara-vuv-folio-1-[3208].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pechena-cipura-s-limon-i-kopur-na-skara-vuv-folio-1-[3208].jpg"
+    ],
+    "datePublished": "2017-08-04",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "341 calories",
+      "carbohydrateContent": "3 g",
+      "fatContent": "18 g",
+      "proteinContent": "38 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "13.899295 g",
+      "cholesterolContent": "120 mg"
+    },
+    "recipeIngredient": [
+      "4  ципура",
+      "2  лимона",
+      "1 връзка копър",
+      "4 с.л. зехтин",
+      "2 скилидки чесън",
+      "1 с.л. лимонов сок"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Рибите ципура (4 бр) се почистват от вътрешностите, а по кожата от едната страна се правят напречни разрези."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Лимоните (2 бр) се нарязват на колелца, които след това се разполовяват и се пъхат в направените в рибата прорези."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Копърът (1 връзка) се нарязва на едро и заедно с почистените скилидки чесън (2 скилидки), зехтина (4 с.л.) и лимоновия сок (1 с.л.) се намачква в хаванче до получаване на еднородна паста. Тя се разпределя в почистените кореми на ципурите."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Скарата се загрява, а рибата се посолява и поръсва с черен пипер, след което се увива във фолио. Пече се по 10-12 минути от всяка страна, след което се сервира с отстранено фолио и прясна салата."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "ципура",
+      "qty": "4",
+      "id": 102
+    },
+    {
+      "name": "лимона",
+      "qty": "2",
+      "id": 43
+    },
+    {
+      "name": "копър",
+      "qty": "1 връзка",
+      "id": 28
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    }
+  ]
+}

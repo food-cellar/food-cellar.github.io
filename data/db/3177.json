@@ -1,0 +1,120 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Търкаляни кюфтета в доматен сос",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/turkaliani-kufteta-v-domaten-sos-1-[3177].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/turkaliani-kufteta-v-domaten-sos-1-[3177].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/turkaliani-kufteta-v-domaten-sos-1-[3177].jpg"
+    ],
+    "datePublished": "2017-03-15",
+    "cookTime": "PT1H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "618 calories",
+      "carbohydrateContent": "46 g",
+      "fatContent": "35 g",
+      "proteinContent": "28 g",
+      "saturatedFatContent": "11 g",
+      "unsaturatedFatContent": "20.6851675 g",
+      "cholesterolContent": "137 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг свинска кайма",
+      "2  чушки",
+      "2  моркова",
+      "1 глава лук",
+      "1 връзка магданоз",
+      "400 мл. доматен сос",
+      "100 г ориз",
+      "4 скилидки чесън",
+      "1 с.л. червен пипер",
+      "3 с.л. брашно",
+      "1  яйце",
+      "4 с.л. олио"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Чушките, морковите, лукът, чесънът и магданозът се нарязват на ситно."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Оризът се сварява за 5 минути, след което се отцежда и прехвърля в дълбока купа. Към него се добавят каймата, яйцето, половината от магданоза и чесъна, сол и пипер. Омесва се до получаване на еднородна смес, от която се правят кюфтета. Овалват се в брашно и се отделят настрани."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "В тиган се загрява олиото и се запържват лука, останалият чесън, чушките и морковите. Щом омекнат се добавя доматеният сос, малко вода, червен пипер и магданоз. По желание може да се сложи разтворен във вода зеленчуков бульон. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Щом сосът заври се слагат оваляните кюфтета и се варят 30 минути."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "свинска кайма",
+      "qty": "1/2 кг",
+      "id": 54
+    },
+    {
+      "name": "чушки",
+      "qty": "2",
+      "id": 18
+    },
+    {
+      "name": "моркова",
+      "qty": "2",
+      "id": 13
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "магданоз",
+      "qty": "1 връзка",
+      "id": 12
+    },
+    {
+      "name": "доматен сос",
+      "qty": "400 мл.",
+      "id": 86
+    },
+    {
+      "name": "ориз",
+      "qty": "100 г",
+      "id": 22
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "червен пипер",
+      "qty": "1 с.л.",
+      "id": 20
+    },
+    {
+      "name": "брашно",
+      "qty": "3 с.л.",
+      "id": 7
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    },
+    {
+      "name": "олио",
+      "qty": "4 с.л.",
+      "id": 4
+    }
+  ]
+}

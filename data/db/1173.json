@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печени задушени есенни зеленчуци (броколи, карфиол, грах, моркови) на фурна с кашкавал и яйца",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/esenni-zelenchuci-na-furna-1-[1173].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/esenni-zelenchuci-na-furna-1-[1173].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/esenni-zelenchuci-na-furna-1-[1173].jpg"
+    ],
+    "datePublished": "2011-08-25",
+    "cookTime": "PT1H0M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "209 calories",
+      "carbohydrateContent": "19 g",
+      "fatContent": "9 g",
+      "proteinContent": "14 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "2.82727 g",
+      "cholesterolContent": "115 mg"
+    },
+    "recipeIngredient": [
+      "1 глава карфиол",
+      "1 глава броколи",
+      "200 г грах",
+      "2  моркова",
+      "3  яйца",
+      "1 ч.ч. прясно мляко",
+      "100 г кашкавал",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Карфиолът (1 глава) и броколите (1 глава) се накъсват на малки розички. Морковите (2 бр) се нарязват на кубчета. Зеленчуците се задушават във вряща подсолена вода до омекване. Изцеждат се. Смесват се с граха (200 г) от консерва, посоляват се на вкус и се изсипват в тавичка. Заливат се със смес от прясно мляко (1 ч.ч.) и разбити яйца (3 бр). Пекат се в умерена фурна 30 минути. Покриват се с настърган кашкавал (100 г) и се връщат обратно във фурната за още 10 минути. Ястието се сервира топло. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "карфиол",
+      "qty": "1 глава",
+      "id": 91
+    },
+    {
+      "name": "броколи",
+      "qty": "1 глава",
+      "id": 57
+    },
+    {
+      "name": "грах",
+      "qty": "200 г",
+      "id": 68
+    },
+    {
+      "name": "моркова",
+      "qty": "2",
+      "id": 13
+    },
+    {
+      "name": "яйца",
+      "qty": "3",
+      "id": 5
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "1 ч.ч.",
+      "id": 14
+    },
+    {
+      "name": "кашкавал",
+      "qty": "100 г",
+      "id": 47
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

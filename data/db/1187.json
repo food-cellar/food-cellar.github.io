@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Кус-кус с авокадо и скариди",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kus-kus-s-avokado-i-skaridi-3-[1187].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kus-kus-s-avokado-i-skaridi-3-[1187].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kus-kus-s-avokado-i-skaridi-3-[1187].jpg"
+    ],
+    "datePublished": "2012-11-12",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "802 calories",
+      "carbohydrateContent": "106 g",
+      "fatContent": "24 g",
+      "proteinContent": "38 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "17.523245 g",
+      "cholesterolContent": "152 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг кус-кус",
+      "400 г скариди",
+      "2  авокадо",
+      "4 скилидки чесън",
+      "4 с.л. зехтин",
+      "сол",
+      "босилек"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Кус-кусът (1/2 кг) се сварява в подходящо количество подсолена вода, според указанията на опаковката. Щом е готов, към него се прибавят бланшираните за 3 минути във вряща подсолена вода скариди (400 г) (почистени от люспите). Добавят се и задушеният в малко количество зехтин накълцан чесън (4 скилидки) и нарязаното на ситни кубчета добре узряло и омекнало авокадо (2 бр). По желание се добавя ситно нарязан пресен лук или пресен босилек. Кускусът се разбърква и сервира веднага. Вкусен е както топъл, така и студен."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "кус-кус",
+      "qty": "1/2 кг",
+      "id": 160
+    },
+    {
+      "name": "скариди",
+      "qty": "400 г",
+      "id": 104
+    },
+    {
+      "name": "авокадо",
+      "qty": "2",
+      "id": 83
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "босилек",
+      "qty": "Parsing error",
+      "id": 25
+    }
+  ]
+}

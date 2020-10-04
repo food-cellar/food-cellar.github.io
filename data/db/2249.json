@@ -1,0 +1,70 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Ръжен хляб за хлебопекарна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/rujen-hliab-za-hlebopekarna-2-[2249].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/rujen-hliab-za-hlebopekarna-2-[2249].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/rujen-hliab-za-hlebopekarna-2-[2249].jpg"
+    ],
+    "datePublished": "2013-01-05",
+    "cookTime": "PT3H20M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Хлебни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "2360 calories",
+      "carbohydrateContent": "497 g",
+      "fatContent": "15 g",
+      "proteinContent": "92 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "7.8264 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "200 г бяло брашно",
+      "1/2 кг ръжено брашно",
+      "1 ч.л. суха мая",
+      "2 ч.л. сол",
+      "600 мл. вода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Изсипват се пшеничното брашно (200 г), ръженото брашно (1/2 кг), солта (2 ч.л.), водата (600 мл.) и накрая сухата мая (1 ч.л.) в средата на сместа. Пуска се хлебопекарната на режим за пълнозърнест хляб."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "От тези съставки се получава един килограм здравословен хляб с бежово-кафяв цвят със силен аромат и леко остър вкус на ръж."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "бяло брашно",
+      "qty": "200 г",
+      "id": 7
+    },
+    {
+      "name": "ръжено брашно",
+      "qty": "1/2 кг",
+      "id": 217
+    },
+    {
+      "name": "суха мая",
+      "qty": "1 ч.л.",
+      "id": 52
+    },
+    {
+      "name": "сол",
+      "qty": "2 ч.л.",
+      "id": 1
+    },
+    {
+      "name": "вода",
+      "qty": "600 мл.",
+      "id": 11
+    }
+  ]
+}

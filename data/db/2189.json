@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Паста с кайма, песто и червен лук",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pasta-s-kaima-pesto-i-cherven-luk-1-[2189].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pasta-s-kaima-pesto-i-cherven-luk-1-[2189].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pasta-s-kaima-pesto-i-cherven-luk-1-[2189].jpg"
+    ],
+    "datePublished": "2012-12-02",
+    "cookTime": "PT0H40M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "903 calories",
+      "carbohydrateContent": "82 g",
+      "fatContent": "46 g",
+      "proteinContent": "37 g",
+      "saturatedFatContent": "12 g",
+      "unsaturatedFatContent": "29.3686825 g",
+      "cholesterolContent": "90 mg"
+    },
+    "recipeIngredient": [
+      "400 г паста",
+      "1/2 кг кайма",
+      "2 глави червен лук",
+      "1 връзка босилек",
+      "8 с.л. зехтин",
+      "4 скилидки чесън",
+      "40 г кедрови ядки",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пастата (400 г) се сварява в подсолена вода според указанията на опаковката. През това време лукът (2 глави) се нарязва на тънки полумесеци и заедно с каймата (1/2 кг) се поставя в тиган и се задушават до готовност. Важно е каймата да стане напълно готова, а лукът да е омекнал. Приготвя се босилековото песто. За целта свежият босилек (1 връзка) се поставя в блендер заедно със зехтина (8 с.л.), почистените от люспите скилидки чесън (4 скилидки), кедровите ядки (40 г) и солта. Разбиват се до получаването на сос. Сварената и отцедена от водата паста се поставя в тиган с малко зехтин и върху нея се изсипва каймата, а също и босилековото песто. Ястието се разбърква старателно на котлона, докато температурата на всички продукти се изравни и ароматите се смесят.  "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "паста",
+      "qty": "400 г",
+      "id": 55
+    },
+    {
+      "name": "кайма",
+      "qty": "1/2 кг",
+      "id": 54
+    },
+    {
+      "name": "червен лук",
+      "qty": "2 глави",
+      "id": 3
+    },
+    {
+      "name": "босилек",
+      "qty": "1 връзка",
+      "id": 25
+    },
+    {
+      "name": "зехтин",
+      "qty": "8 с.л.",
+      "id": 10
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "кедрови ядки",
+      "qty": "40 г",
+      "id": 125
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

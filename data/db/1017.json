@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Кускус със скариди",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kuskus-sus-skaridi-1-[1017].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kuskus-sus-skaridi-1-[1017].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kuskus-sus-skaridi-1-[1017].jpg"
+    ],
+    "datePublished": "2011-02-07",
+    "cookTime": "PT0H30M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "339 calories",
+      "carbohydrateContent": "55 g",
+      "fatContent": "4 g",
+      "proteinContent": "17 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "2.7494833333333 g",
+      "cholesterolContent": "63 mg"
+    },
+    "recipeIngredient": [
+      "400 г кускус",
+      "250 г скариди",
+      "2 с.л. сол",
+      "черен пипер",
+      "кориандър",
+      "джинджифил",
+      "3 с.л. зехтин",
+      "1 с.л. лимонов сок",
+      "2 глави лук"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Ситно нарязаният лук (2 глави) се задушава в сгорещения зехтин (3 с.л.). Прибавя се кускусът (400 г) и се готви до порозовяване при непрекъснато разбъркване. Посолява се. Прибавят се подправките. Налива се вода и се вари до пълна готовност. 3-4 минути предит тенджерата да се махне от котлона се добавят размразените скариди (250 г). разбърква се и се вари, докато омекнат и те. Накрая ястието се подправя с лимонов сок на вкус."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "кускус",
+      "qty": "400 г",
+      "id": 160
+    },
+    {
+      "name": "скариди",
+      "qty": "250 г",
+      "id": 104
+    },
+    {
+      "name": "сол",
+      "qty": "2 с.л.",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "кориандър",
+      "qty": "Parsing error",
+      "id": 97
+    },
+    {
+      "name": "джинджифил",
+      "qty": "Parsing error",
+      "id": 84
+    },
+    {
+      "name": "зехтин",
+      "qty": "3 с.л.",
+      "id": 10
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    },
+    {
+      "name": "лук",
+      "qty": "2 глави",
+      "id": 3
+    }
+  ]
+}

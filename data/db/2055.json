@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Сабайон с бял шоколад и малини",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/sabaion-s-bial-shokolad-i-malini-2-[2055].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/sabaion-s-bial-shokolad-i-malini-2-[2055].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/sabaion-s-bial-shokolad-i-malini-2-[2055].jpg"
+    ],
+    "datePublished": "2012-08-14",
+    "cookTime": "PT0H20M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "285 calories",
+      "carbohydrateContent": "27 g",
+      "fatContent": "18 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "8 g",
+      "unsaturatedFatContent": "7.4880105357143 g",
+      "cholesterolContent": "336 mg"
+    },
+    "recipeIngredient": [
+      "6  жълтъка",
+      "4 с.л. захар",
+      "100 г бял шоколад",
+      "100 г малини",
+      "1 ч.л. пудра захар"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Жълтъците (6 бр) се разбиват със захарта (4 с.л.), докато тя се разтвори, а жълтъците побелеят. Сместа се поставя в огнеупорна купа и се вари на водна баня при непрекъснато бъркане. Щом започне да се сгъстява, се добавя разтопеният бял шоколад (100 г) и полученият крем се бърка още няколко минути на котлона. В десертни купички се разпределят половината от измитите и подсушени малини, заливат се с крема и отново се поставят малини. Накрая плодовете се поръсват с пудра захар (1 ч.л.) и десертът се сервира."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "жълтъка",
+      "qty": "6",
+      "id": 33
+    },
+    {
+      "name": "захар",
+      "qty": "4 с.л.",
+      "id": 9
+    },
+    {
+      "name": "бял шоколад",
+      "qty": "100 г",
+      "id": 248
+    },
+    {
+      "name": "малини",
+      "qty": "100 г",
+      "id": 141
+    },
+    {
+      "name": "пудра захар",
+      "qty": "1 ч.л.",
+      "id": 34
+    }
+  ]
+}

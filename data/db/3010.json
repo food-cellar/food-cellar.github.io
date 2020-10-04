@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Домашна майонеза с копър за хрупкави скариди",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/domashna-maioneza-s-kopur-za-hrupkavi-skaridi-2-[3010].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/domashna-maioneza-s-kopur-za-hrupkavi-skaridi-2-[3010].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/domashna-maioneza-s-kopur-za-hrupkavi-skaridi-2-[3010].jpg"
+    ],
+    "datePublished": "2015-01-07",
+    "cookTime": "PT0H5M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "270 calories",
+      "carbohydrateContent": "2 g",
+      "fatContent": "28 g",
+      "proteinContent": "3 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "20.66137 g",
+      "cholesterolContent": "218 mg"
+    },
+    "recipeIngredient": [
+      "2  жълтъка",
+      "50 мл. зехтин",
+      "1/2 връзка копър",
+      "1 щип. черен пипер",
+      "1 с.л. лимонов сок",
+      "1 с.л. горчица",
+      "1 щип. сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Когато искате да се поглезите, сякаш сте на екзотична морска почивка (дори да е средата на работната ви седмица), какво по-хубаво от хрупкави скариди с ароматна майонеза с копър! Тази комбинация, вдъхновена от играта на Тефал Забъркай си настроение, носи аромата на ваканция. За приготвянето използвахме <a href=http://www.tefal.bg/All+Products/Food+preparation/Hand+blenders/Products/InfinyForce+HB866A/InfinyForce+HB866A.htm?utm_source=1001recepti&utm_medium=blogpost&utm_campaign=1001recepti_InfinyForce>пасатора Tefal Infiny Force</a> с неговата специална приставка за майонеза.Жълтъците се поставят в подходящ съд и се разбиват до бледо. След това към тях на тънка струйка се добавя зехтин, а щом той се разбие и усвои, се добавят подправките и копърът. Всичко се разбива.Тази домашна майонеза с копър се съчетава чудесно с гриловани или приготвени на пара скариди. Това предястие, чието приготвяне отнема общо само 5 минути, ще впечатли гостите ви и ще ги вдъхнови да помечтаят за морска ваканция."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "жълтъка",
+      "qty": "2",
+      "id": 33
+    },
+    {
+      "name": "зехтин",
+      "qty": "50 мл.",
+      "id": 10
+    },
+    {
+      "name": "копър",
+      "qty": "1/2 връзка",
+      "id": 28
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 щип.",
+      "id": 2
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    },
+    {
+      "name": "горчица",
+      "qty": "1 с.л.",
+      "id": 64
+    },
+    {
+      "name": "сол",
+      "qty": "1 щип.",
+      "id": 1
+    }
+  ]
+}

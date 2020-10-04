@@ -1,0 +1,108 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Паста с козе сирене и бекон",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pasta-s-koze-sirene-i-bekon-1-[2679].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pasta-s-koze-sirene-i-bekon-1-[2679].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pasta-s-koze-sirene-i-bekon-1-[2679].jpg"
+    ],
+    "datePublished": "2014-01-16",
+    "cookTime": "PT0H45M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "765 calories",
+      "carbohydrateContent": "50 g",
+      "fatContent": "51 g",
+      "proteinContent": "24 g",
+      "saturatedFatContent": "22 g",
+      "unsaturatedFatContent": "25.28613 g",
+      "cholesterolContent": "80 mg"
+    },
+    "recipeIngredient": [
+      "350 г паста",
+      "400 г бекон",
+      "1 глава лук",
+      "4 скилидки чесън",
+      "4  домата",
+      "200 г козе сирене",
+      "черен пипер",
+      "сол",
+      "зехтин",
+      "босилек"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Чесънът (4 скилидки) се обелва и нарязва на ситно. Заедно със ситно нарязаните лук (1 глава) и бекон (400 г) се запържва в дълбок тиган в малко количество зехтин. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Щом месото се позлати, се добавят обелените и нарязани на кубчета домати (4 бр). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Щом течността от тях изври наполовина, се добавя предварително сварената в подсолена вода паста (350 г) и ястието се бърка, докато пастата се овкуси добре. Подправя се със сол и черен пипер и се сервира. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Всяка порция се поръсва с настъргано козе сирене (200 г) и се декорира с пресен босилек."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "паста",
+      "qty": "350 г",
+      "id": 55
+    },
+    {
+      "name": "бекон",
+      "qty": "400 г",
+      "id": 88
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "домата",
+      "qty": "4",
+      "id": 15
+    },
+    {
+      "name": "козе сирене",
+      "qty": "200 г",
+      "id": 227
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "зехтин",
+      "qty": "Parsing error",
+      "id": 10
+    },
+    {
+      "name": "босилек",
+      "qty": "Parsing error",
+      "id": 25
+    }
+  ]
+}

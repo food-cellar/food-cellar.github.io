@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Млечно пиле печено в гювеч с кисело мляко, пресен зелен лук, чесън, копър и магданоз",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/mlechno-pile-v-guvech-2-[483].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/mlechno-pile-v-guvech-2-[483].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/mlechno-pile-v-guvech-2-[483].jpg"
+    ],
+    "datePublished": "2010-12-08",
+    "cookTime": "PT0H45M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "533 calories",
+      "carbohydrateContent": "6 g",
+      "fatContent": "35 g",
+      "proteinContent": "43 g",
+      "saturatedFatContent": "11 g",
+      "unsaturatedFatContent": "20.98666 g",
+      "cholesterolContent": "174 mg"
+    },
+    "recipeIngredient": [
+      "1  пиле",
+      "1 кофичка кисело мляко",
+      "2 стръка зелен лук",
+      "2 скилдки чесън",
+      "1/2 връзка магданоз",
+      "1/2 връзка копър",
+      "сол",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилето се нарязва на порционни парчета и се нарежда в гювеч. Лукът (2 стръка), чесънът (2 скилдки), магданозът (1/2 връзка) и копърът (1/2 връзка) се нарязват на ситно и се смесват с киселото мляко (1 кофичка), което се овкусява със солта и черния пипер. С тази смес се залива пилето, захлупва се и се пече на фурна на бавен огън до пълна готовност. Поднася се върху варен ориз, гарниран с печени на тиган патладжани."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пиле",
+      "qty": "1",
+      "id": 111
+    },
+    {
+      "name": "кисело мляко",
+      "qty": "1 кофичка",
+      "id": 21
+    },
+    {
+      "name": "зелен лук",
+      "qty": "2 стръка",
+      "id": 24
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилдки",
+      "id": 6
+    },
+    {
+      "name": "магданоз",
+      "qty": "1/2 връзка",
+      "id": 12
+    },
+    {
+      "name": "копър",
+      "qty": "1/2 връзка",
+      "id": 28
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

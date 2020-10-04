@@ -1,0 +1,94 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Панирани пилешки филета",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zlatni-filenca-2-[431].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zlatni-filenca-2-[431].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zlatni-filenca-2-[431].jpg"
+    ],
+    "datePublished": "2010-11-13",
+    "cookTime": "PT0H40M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "382 calories",
+      "carbohydrateContent": "13 g",
+      "fatContent": "21 g",
+      "proteinContent": "32 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "15.830415 g",
+      "cholesterolContent": "98 mg"
+    },
+    "recipeIngredient": [
+      "300 г пилешки филета",
+      "1  белтък",
+      "2 с.л. пшенично нишесте",
+      "1 ч.л. джинджифил",
+      "1 щип. индийско орехче",
+      "майоран",
+      "черен пипер",
+      "сол",
+      "1/2 к.ч. олио"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Белтъкът (1 бр) се разбива на пяна. Прибавят се пшеничното нишесте (2 с.л.) и подправките. Панировъчната смес се разбива, докато стане еднородна. В нея се овалват филетата (300 г) и се пържат за кратко в горещото олио от всички страни. Изваждат се с решетъчна лъжица и се слагат в тава върху готварско фолио. Намазват се отгоре с останалата панировъчна смес и се пекат до пълна готовност. Поднасят се топли с шайби домат и салата според сезона. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Съвет: За да станат още по-златни вашите филенца, можете да добавите към панировъчната смес и малко куркума."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешки филета",
+      "qty": "300 г",
+      "id": 49
+    },
+    {
+      "name": "белтък",
+      "qty": "1",
+      "id": 157
+    },
+    {
+      "name": "пшенично нишесте",
+      "qty": "2 с.л.",
+      "id": 96
+    },
+    {
+      "name": "джинджифил",
+      "qty": "1 ч.л.",
+      "id": 84
+    },
+    {
+      "name": "индийско орехче",
+      "qty": "1 щип.",
+      "id": 120
+    },
+    {
+      "name": "майоран",
+      "qty": "Parsing error",
+      "id": 261
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "олио",
+      "qty": "1/2 к.ч.",
+      "id": 4
+    }
+  ]
+}

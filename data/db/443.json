@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Постна чорба / супа с гъби, моркови, картофи и целина",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/postna-supa-vitamina-2-[443].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/postna-supa-vitamina-2-[443].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/postna-supa-vitamina-2-[443].jpg"
+    ],
+    "datePublished": "2010-10-30",
+    "cookTime": "PT0H20M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "251 calories",
+      "carbohydrateContent": "43 g",
+      "fatContent": "6 g",
+      "proteinContent": "6 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "4.808325 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1  морков",
+      "2  картофа",
+      "100 г печурки",
+      "50 г глава от целина",
+      "магданоз",
+      "2 с.л. олио",
+      "сол",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Зеленчуците се обелват и нарязват на едро. Слагат се в тенджера с вода, посоляват се и се варят на тих огън под капак, докато омекнат. В тиган със загрято олио се задушават гъбите (100 г), почистени и нарязани на парченца. Те се добавят към омекналите зеленчуци и супата ври още 2-3 минути. Поднася се гореща, подправена с черен пипер и поръсена с листенца пресен магданоз."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "картофа",
+      "qty": "2",
+      "id": 16
+    },
+    {
+      "name": "печурки",
+      "qty": "100 г",
+      "id": 62
+    },
+    {
+      "name": "глава от целина",
+      "qty": "50 г",
+      "id": 30
+    },
+    {
+      "name": "магданоз",
+      "qty": "Parsing error",
+      "id": 12
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

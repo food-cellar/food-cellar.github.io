@@ -1,0 +1,76 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Коктейл Риц Физ (Ritz Bar Fizz)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kokteil-ric-fiz--2-[923].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kokteil-ric-fiz--2-[923].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kokteil-ric-fiz--2-[923].jpg"
+    ],
+    "datePublished": "2013-03-06",
+    "cookTime": "PT0H5M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Коктейли",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "23 calories",
+      "carbohydrateContent": "3 g",
+      "fatContent": "0 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.00232875 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "90 мл. шампанско",
+      "30 мл. сок от грейпфрут",
+      "30 мл. сок от ананас",
+      "1 с.л. гренадин",
+      "1  коктейлна черешка",
+      "1 листенце мента"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "В коктейлна чаша се изсипват сокът от грейпфрут (30 мл.) и сокът от ананас (30 мл.), след което се разбъркват с бъркалка. Добавя се шампанското (90 мл.) и се долива гренадин (1 с.л.), който ще падне на дъното на чашата, защото е с най-голяма плътност. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Коктейлът се украсява с коктейлна черешка и листа от мента."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "шампанско",
+      "qty": "90 мл.",
+      "id": 265
+    },
+    {
+      "name": "сок от грейпфрут",
+      "qty": "30 мл.",
+      "id": 285
+    },
+    {
+      "name": "сок от ананас",
+      "qty": "30 мл.",
+      "id": 213
+    },
+    {
+      "name": "гренадин",
+      "qty": "1 с.л.",
+      "id": 222
+    },
+    {
+      "name": "коктейлна черешка",
+      "qty": "1",
+      "id": 126
+    },
+    {
+      "name": "мента",
+      "qty": "1 листенце",
+      "id": 90
+    }
+  ]
+}

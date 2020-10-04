@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Запечени картофи с дебърцини / наденички, краставички и кашкавал в тава на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zapecheni-kartofi-s-deburcini-krastavichki-i-kashkaval-1-[1926].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zapecheni-kartofi-s-deburcini-krastavichki-i-kashkaval-1-[1926].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zapecheni-kartofi-s-deburcini-krastavichki-i-kashkaval-1-[1926].jpg"
+    ],
+    "datePublished": "2012-01-26",
+    "cookTime": "PT1H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "407 calories",
+      "carbohydrateContent": "47 g",
+      "fatContent": "16 g",
+      "proteinContent": "18 g",
+      "saturatedFatContent": "7 g",
+      "unsaturatedFatContent": "7.12 g",
+      "cholesterolContent": "47 mg"
+    },
+    "recipeIngredient": [
+      "1 кг картофи",
+      "200 г кисели краставички",
+      "200 г дебърцини",
+      "100 г кашкавал",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Картофите (1 кг) се сваряват, обелват и нарязват на средни по големина кубчета. Киселите краставички (200 г) се отцеждат и нарязват на кубчета, а дебърцините (200 г) се нарязват на дребни парчета напречно. Продуктите се смесват, посоляват се и се разпределят в огнеупорни съдове. Поръсват се с настърган кашкавал (100 г) и се пекат до позлатяване на кашкавала. Запечените картофи се сервират горещи."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "картофи",
+      "qty": "1 кг",
+      "id": 16
+    },
+    {
+      "name": "кисели краставички",
+      "qty": "200 г",
+      "id": 44
+    },
+    {
+      "name": "дебърцини",
+      "qty": "200 г",
+      "id": 148
+    },
+    {
+      "name": "кашкавал",
+      "qty": "100 г",
+      "id": 47
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

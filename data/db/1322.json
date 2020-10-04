@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Картофена салата с авокадо, майонеза и крема сирене (без яйца)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kartofena-salata-s-avokado-3-[1322].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kartofena-salata-s-avokado-3-[1322].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kartofena-salata-s-avokado-3-[1322].jpg"
+    ],
+    "datePublished": "2011-05-21",
+    "cookTime": "PT0H45M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "328 calories",
+      "carbohydrateContent": "35 g",
+      "fatContent": "19 g",
+      "proteinContent": "6 g",
+      "saturatedFatContent": "6 g",
+      "unsaturatedFatContent": "10.593108333333 g",
+      "cholesterolContent": "23 mg"
+    },
+    "recipeIngredient": [
+      "1 кг картофи",
+      "2  авокадо",
+      "3 стръка зелен лук",
+      "2 с.л. майонеза",
+      "125 г сирене Крема",
+      "1 с.л. лимонов сок",
+      "черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Картофите (1 кг) се сваряват, оставят се да се охладят и се нарязват на дребни кубчета. Авокадото (2 бр) се разполовява, семката му се отстранява и вътрешността се отделя от обелката с помощта на супена лъжица. Нарязва се на кубчета. Заедно с картофите се поставят в голяма купа. Към тях се прибавя ситно нарязаният пресен лук (3 стръка), солта, черният пипер и всичко се полива с дресинг, приготвен от пасираните сирене Крема (125 г), майонеза (2 с.л.) и лимонов сок (1 с.л.). Салатата се разбърква добре."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "картофи",
+      "qty": "1 кг",
+      "id": 16
+    },
+    {
+      "name": "авокадо",
+      "qty": "2",
+      "id": 83
+    },
+    {
+      "name": "зелен лук",
+      "qty": "3 стръка",
+      "id": 24
+    },
+    {
+      "name": "майонеза",
+      "qty": "2 с.л.",
+      "id": 80
+    },
+    {
+      "name": "сирене Крема",
+      "qty": "125 г",
+      "id": 103
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Вегетарианска запеканка от карфиол на фурна със заливка от яйца, прясно мляко, масло, горчица и копър на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/karfiol-na-furna-sus-zalivka-ot-iaica-priasno-mliako-gorchica-i-kopur-1-[3011].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/karfiol-na-furna-sus-zalivka-ot-iaica-priasno-mliako-gorchica-i-kopur-1-[3011].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/karfiol-na-furna-sus-zalivka-ot-iaica-priasno-mliako-gorchica-i-kopur-1-[3011].jpg"
+    ],
+    "datePublished": "2015-01-07",
+    "cookTime": "PT0H30M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "195 calories",
+      "carbohydrateContent": "12 g",
+      "fatContent": "12 g",
+      "proteinContent": "10 g",
+      "saturatedFatContent": "6 g",
+      "unsaturatedFatContent": "5.07204 g",
+      "cholesterolContent": "209 mg"
+    },
+    "recipeIngredient": [
+      "1/2 глава карфиол",
+      "2  яйца",
+      "100 мл. прясно мляко",
+      "1 с.л. горчица",
+      "2 скилидки чесън",
+      "1/2 връзка копър",
+      "1 с.л. масло",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Тази лесна и апетитна рецепта създава истинска домашна идилия, защото не ви отнема много време и можете да го прекарате с любимите си хора край ароматната топлина на блюдото. Вдъхновени от играта на Тефал Забъркай си настроение, създадохме рецептата и я приготвихме с помощта на <a href=http://www.tefal.bg/All+Products/Food+preparation/Hand+blenders/Products/InfinyForce+HB866A/InfinyForce+HB866A.htm?utm_source=1001recepti&utm_medium=blogpost&utm_campaign=1001recepti_InfinyForce>пасатора Tefal Infiny Force</a>, с който спестихме време и усилия. Рецепта:Поставихме всички продукти освен карфиола в купата на пасатора и ги разбихме за секунди. С получената смес заляхме вече бланширания карфиол и оставихме ястието да се изпече за 20 минути в гореща фурна.Останалото време посветихме на близките ни. Направете и вие именно това, защото времето е най-ценното, което имаме."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "карфиол",
+      "qty": "1/2 глава",
+      "id": 91
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "100 мл.",
+      "id": 14
+    },
+    {
+      "name": "горчица",
+      "qty": "1 с.л.",
+      "id": 64
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "копър",
+      "qty": "1/2 връзка",
+      "id": 28
+    },
+    {
+      "name": "масло",
+      "qty": "1 с.л.",
+      "id": 8
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

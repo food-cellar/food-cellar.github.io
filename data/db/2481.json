@@ -1,0 +1,82 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Неаполитанско телешко задушено в доматен сос с босилек и риган",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/neapolitansko-zadusheno-s-teleshko-6-[2481].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/neapolitansko-zadusheno-s-teleshko-6-[2481].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/neapolitansko-zadusheno-s-teleshko-6-[2481].jpg"
+    ],
+    "datePublished": "2013-04-23",
+    "cookTime": "PT8H0M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "354 calories",
+      "carbohydrateContent": "13 g",
+      "fatContent": "8 g",
+      "proteinContent": "55 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "2.8025 g",
+      "cholesterolContent": "195 mg"
+    },
+    "recipeIngredient": [
+      "2 кг телешко месо",
+      "1 1/2 кг доматен сос",
+      "сол",
+      "пипер",
+      "босилек",
+      "риган",
+      "дафинов лист"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "В дълбока тенджера се поставя телешкото месо (2 кг) и се залива с доматения сос (1 1/2 кг). При необходимост се добавя малко вода или още доматен сос, така че месото да е покрито. Овкусява се със сол, черен пипер, босилек, риган и дафинов лист. Вари се на много слаб огън в продължение на 7-8 часа. За варенето котлонът трябва да е толкова слаб, че да се образуват около 1-2 малки мехура на секунда."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Това е типично ястие, което неаполитанци приготвят в неделя през деня."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "телешко месо",
+      "qty": "2 кг",
+      "id": 110
+    },
+    {
+      "name": "доматен сос",
+      "qty": "1 1/2 кг",
+      "id": 86
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "босилек",
+      "qty": "Parsing error",
+      "id": 25
+    },
+    {
+      "name": "риган",
+      "qty": "Parsing error",
+      "id": 65
+    },
+    {
+      "name": "дафинов лист",
+      "qty": "Parsing error",
+      "id": 70
+    }
+  ]
+}

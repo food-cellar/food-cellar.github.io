@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Зимна празнична салата с тиква, броколи, авокадо и нар",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zimna-praznichna-salata-1-[750].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zimna-praznichna-salata-1-[750].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zimna-praznichna-salata-1-[750].jpg"
+    ],
+    "datePublished": "2010-12-13",
+    "cookTime": "PT0H10M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "279 calories",
+      "carbohydrateContent": "20 g",
+      "fatContent": "22 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "16.697825 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "150 г тиква",
+      "150 г броколи",
+      "150 г целина",
+      "1  авокадо",
+      "сол",
+      "1 ч.л. лимонов сок",
+      "2 с.л. зехтин",
+      "20 г нар"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Тиквата (150 г) и целината (150 г) се нарязват на кубчета и се сваряват в подсолена вода, след което се отцеждат. Броколите (150 г) се накъсват на розички и се бланшират във вряща подсолена вода, след което се отцеждат. Авокадото (1 бр) се обелва, костилката му се отстранява, а меката му част се нарязва на едри кубчета. Всичко се смесва, овкусява се със солта, зехтина (2 с.л.), лимоновия сок (1 ч.л.) и се разбърква добре. Салатата се разпределя в порционни чинии и се поръсва със зрънца от нар (20 г)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "тиква",
+      "qty": "150 г",
+      "id": 116
+    },
+    {
+      "name": "броколи",
+      "qty": "150 г",
+      "id": 57
+    },
+    {
+      "name": "целина",
+      "qty": "150 г",
+      "id": 30
+    },
+    {
+      "name": "авокадо",
+      "qty": "1",
+      "id": 83
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 ч.л.",
+      "id": 17
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "нар",
+      "qty": "20 г",
+      "id": 276
+    }
+  ]
+}

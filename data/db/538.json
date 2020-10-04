@@ -1,0 +1,86 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Бързи и лесни запечени на тиган пилешки дробчета с доматен сос",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pileshki-drobcheta-s-domaten-sos-2-[538].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pileshki-drobcheta-s-domaten-sos-2-[538].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pileshki-drobcheta-s-domaten-sos-2-[538].jpg"
+    ],
+    "datePublished": "2011-01-01",
+    "cookTime": "PT0H45M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "292 calories",
+      "carbohydrateContent": "16 g",
+      "fatContent": "8 g",
+      "proteinContent": "37 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "2.40294 g",
+      "cholesterolContent": "878 mg"
+    },
+    "recipeIngredient": [
+      "400 г пилешки дробчета",
+      "200 г доматен сос",
+      "4 скилидки чесън",
+      "сол",
+      "черен пипер",
+      "копър",
+      "магданоз"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилешките черни дробчета (400 г) се изпичат на тиган без мазнина. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Доматеният сос (200 г) се сварява с подправките. Щом се сгъсти, в него се слагат дробчетата и се варят още няколко минути. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Ястието се поднася както топло, така и студено."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешки дробчета",
+      "qty": "400 г",
+      "id": 191
+    },
+    {
+      "name": "доматен сос",
+      "qty": "200 г",
+      "id": 86
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "копър",
+      "qty": "Parsing error",
+      "id": 28
+    },
+    {
+      "name": "магданоз",
+      "qty": "Parsing error",
+      "id": 12
+    }
+  ]
+}

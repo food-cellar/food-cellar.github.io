@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пържени тиквички с кисело мляко",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/purjeni-tikvichki-s-kiselo-mliako-1-[2516].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/purjeni-tikvichki-s-kiselo-mliako-1-[2516].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/purjeni-tikvichki-s-kiselo-mliako-1-[2516].jpg"
+    ],
+    "datePublished": "2013-05-31",
+    "cookTime": "PT0H45M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "408 calories",
+      "carbohydrateContent": "34 g",
+      "fatContent": "26 g",
+      "proteinContent": "11 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "20.487435 g",
+      "cholesterolContent": "13 mg"
+    },
+    "recipeIngredient": [
+      "8  тиквички",
+      "50 г брашно",
+      "50 г галета",
+      "сол",
+      "100 мл. олио",
+      "400 г кисело мляко",
+      "2 скилидки чесън",
+      "1 стрък копър"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Тиквичките (8 бр) се измиват, нарязват се на колелца и се овлват първо в брашно (50 г), след това в галета (50 г). Пържат се от двете страни в сгорещено олио (100 мл.) и след това се поставят върху готварска хартия, за да може тя да поеме от излишната по тях мазнина. Посоляват се и се сервират топли с разбито кисело мляко (400 г), овкусено със ситно нарязан копър (1 стрък) и пресован чесън (2 скилидки). "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "тиквички",
+      "qty": "8",
+      "id": 39
+    },
+    {
+      "name": "брашно",
+      "qty": "50 г",
+      "id": 7
+    },
+    {
+      "name": "галета",
+      "qty": "50 г",
+      "id": 58
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "олио",
+      "qty": "100 мл.",
+      "id": 4
+    },
+    {
+      "name": "кисело мляко",
+      "qty": "400 г",
+      "id": 21
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "копър",
+      "qty": "1 стрък",
+      "id": 28
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Домашен пастет с карфиол и чесън",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pastet_s_karfiol_i_chesun_2-[767].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pastet_s_karfiol_i_chesun_2-[767].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pastet_s_karfiol_i_chesun_2-[767].jpg"
+    ],
+    "datePublished": "2010-10-22",
+    "cookTime": "PT0H5M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "218 calories",
+      "carbohydrateContent": "9 g",
+      "fatContent": "18 g",
+      "proteinContent": "4 g",
+      "saturatedFatContent": "6 g",
+      "unsaturatedFatContent": "10.09875 g",
+      "cholesterolContent": "28 mg"
+    },
+    "recipeIngredient": [
+      "10 розички карфиол",
+      "4 с.л. майонеза",
+      "1 скилидка чесън",
+      "1/4 връзка магданоз",
+      "2 ч.л. лимонов сок",
+      "50 г сирене Фета",
+      "1 щип. сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Карфиолът (10 розички) се сварява, изважда се от водата и се отцежда добре. Прибавят се сиренето (50 г), майонезата (4 с.л.), обелената скилидка чесън, магданозът (1/4 връзка), лимоновият сок (2 ч.л.) и солта (1 щип.) и всичко се пасира с помощта на блендер до получаването на ароматен пастет."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "карфиол",
+      "qty": "10 розички",
+      "id": 91
+    },
+    {
+      "name": "майонеза",
+      "qty": "4 с.л.",
+      "id": 80
+    },
+    {
+      "name": "чесън",
+      "qty": "1 скилидка",
+      "id": 6
+    },
+    {
+      "name": "магданоз",
+      "qty": "1/4 връзка",
+      "id": 12
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "2 ч.л.",
+      "id": 17
+    },
+    {
+      "name": "сирене Фета",
+      "qty": "50 г",
+      "id": 150
+    },
+    {
+      "name": "сол",
+      "qty": "1 щип.",
+      "id": 1
+    }
+  ]
+}

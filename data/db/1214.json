@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Вкусно задушено свинско месо с картофи и гъби манатарки в тенджера",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/svinsko-s-kartofi-i-manatarki-2-[1214].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/svinsko-s-kartofi-i-manatarki-2-[1214].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/svinsko-s-kartofi-i-manatarki-2-[1214].jpg"
+    ],
+    "datePublished": "2010-12-05",
+    "cookTime": "PT1H10M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "337 calories",
+      "carbohydrateContent": "22 g",
+      "fatContent": "20 g",
+      "proteinContent": "16 g",
+      "saturatedFatContent": "7 g",
+      "unsaturatedFatContent": "10.24369 g",
+      "cholesterolContent": "60 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг свинско месо",
+      "700 г картофи",
+      "150 г манатарки",
+      "1 с.л. чубрица",
+      "2 щип. черен пипер",
+      "6 стръка магданоз",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Свинското (1/2 кг) се нарязва на хапки и се сварява за 30 минути в подсолена вода. Добавят се нарязаните на малки кубчета картофи (700 г) и замразените манатарки (150 г), и варенето продължава. Важно е продуктите да не се заливат с много вода, а само колкото да ги покрие, за да може тя да се изпари, когато те омекнат напълно. Накрая към ястието се добавят подправките и то се сервира горещо със ситно нарязан пресен магданоз."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "свинско месо",
+      "qty": "1/2 кг",
+      "id": 67
+    },
+    {
+      "name": "картофи",
+      "qty": "700 г",
+      "id": 16
+    },
+    {
+      "name": "манатарки",
+      "qty": "150 г",
+      "id": 37
+    },
+    {
+      "name": "чубрица",
+      "qty": "1 с.л.",
+      "id": 36
+    },
+    {
+      "name": "черен пипер",
+      "qty": "2 щип.",
+      "id": 2
+    },
+    {
+      "name": "магданоз",
+      "qty": "6 стръка",
+      "id": 12
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

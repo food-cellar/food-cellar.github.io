@@ -1,0 +1,82 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Домашен хляб с меласа за хлебопекарна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/hliab-s-melasa-za-hlebopekarna-1-[2368].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/hliab-s-melasa-za-hlebopekarna-1-[2368].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/hliab-s-melasa-za-hlebopekarna-1-[2368].jpg"
+    ],
+    "datePublished": "2013-04-15",
+    "cookTime": "PT3H20M",
+    "recipeYield": "12 servings",
+    "recipeCategory": "Хлебни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "210 calories",
+      "carbohydrateContent": "40 g",
+      "fatContent": "2 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "0.33610833333333 g",
+      "cholesterolContent": "6 mg"
+    },
+    "recipeIngredient": [
+      "410 г бяло брашно",
+      "160 г пълнозърнесто брашно",
+      "4 с.л. меласа",
+      "1 1/2 ч.л. лимонов сок",
+      "2 ч.л. сол",
+      "35 г масло",
+      "1 1/2 ч.л. суха мая"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Бялото брашно (410 г), пълнозърнестото брашно (160 г), меласата (4 с.л.), лимоновият сок (1 1/2 ч.л.), солта (2 ч.л.), маслото (35 г) и сухата мая (1 1/2 ч.л.) се поставят в съда на домашната хлебопекарна. Машината се включва в изпълнение на програма за бял хляб. Хлябът се изважда веднага след приключване на програмата и се оставя за половин час върху решетка да изстине."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Апетитният кафяв цвят се дължи на меласата, а неустоимият аромат - на маслото. Меласата е богата на минерали и е подходящ пълноценен заместител на захарта в хляба."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "бяло брашно",
+      "qty": "410 г",
+      "id": 7
+    },
+    {
+      "name": "пълнозърнесто брашно",
+      "qty": "160 г",
+      "id": 237
+    },
+    {
+      "name": "меласа",
+      "qty": "4 с.л.",
+      "id": 339
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 1/2 ч.л.",
+      "id": 17
+    },
+    {
+      "name": "сол",
+      "qty": "2 ч.л.",
+      "id": 1
+    },
+    {
+      "name": "масло",
+      "qty": "35 г",
+      "id": 8
+    },
+    {
+      "name": "суха мая",
+      "qty": "1 1/2 ч.л.",
+      "id": 52
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печено агнешко бутче на порции с мед, горчица и картофи на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/medeno-agneshko-s-kartofi-4-[617].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/medeno-agneshko-s-kartofi-4-[617].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/medeno-agneshko-s-kartofi-4-[617].jpg"
+    ],
+    "datePublished": "2011-04-04",
+    "cookTime": "PT1H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "744 calories",
+      "carbohydrateContent": "25 g",
+      "fatContent": "49 g",
+      "proteinContent": "47 g",
+      "saturatedFatContent": "19 g",
+      "unsaturatedFatContent": "26.149425 g",
+      "cholesterolContent": "173 mg"
+    },
+    "recipeIngredient": [
+      "1 кг агнешко бутче",
+      "1/2 ч.л. сол",
+      "1/2 ч.л. черен пипер",
+      "1 ч.л. горчица",
+      "1/2 кг картофи",
+      "4 с.л. олио",
+      "1 щип. сушен босилек",
+      "1 скилидка чесън",
+      "2 с.л. мед"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Фурната се загрява до 180 градуса. Подправките се смесват с горчицата и се втриват в агнешкото бутче (1 кг), което се пече 1 час. Десет минути преди да се извади месото от фурната, се полива с мед (2 с.л.) и с образувалия се при печенето сок. След това се слага върху затоплено плато. Покрива се с фолио и се оставя да престои 10-15 минути преди да се нареже на порции. Картофите (1/2 кг) се поръсват с босилек (1 щип.), чесън (1 скилидка) и олио (4 с.л.). Пекат се на фурна до пълна готовност. Месото се поднася с печените картофи."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "агнешко бутче",
+      "qty": "1 кг",
+      "id": 260
+    },
+    {
+      "name": "сол",
+      "qty": "1/2 ч.л.",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1/2 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "горчица",
+      "qty": "1 ч.л.",
+      "id": 64
+    },
+    {
+      "name": "картофи",
+      "qty": "1/2 кг",
+      "id": 16
+    },
+    {
+      "name": "олио",
+      "qty": "4 с.л.",
+      "id": 4
+    },
+    {
+      "name": "сушен босилек",
+      "qty": "1 щип.",
+      "id": 25
+    },
+    {
+      "name": "чесън",
+      "qty": "1 скилидка",
+      "id": 6
+    },
+    {
+      "name": "мед",
+      "qty": "2 с.л.",
+      "id": 38
+    }
+  ]
+}

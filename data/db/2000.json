@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Тартар от сьомга с каперси",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/tartar-ot-sioomga-s-kapersi-3-[2000].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/tartar-ot-sioomga-s-kapersi-3-[2000].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/tartar-ot-sioomga-s-kapersi-3-[2000].jpg"
+    ],
+    "datePublished": "2012-06-25",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "135 calories",
+      "carbohydrateContent": "1 g",
+      "fatContent": "4 g",
+      "proteinContent": "20 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "3.16168 g",
+      "cholesterolContent": "52 mg"
+    },
+    "recipeIngredient": [
+      "100 г филе от сьомга",
+      "1 ч.л. майонеза",
+      "1 ч.л. каперси",
+      "1 ч.л. лимонов сок",
+      "1 щип. черен пипер",
+      "2 стръка копър",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Прясното филе от сьомга (100 г) се нарязва на едри кубчета и заедно с измития копър (2 стръка), майонезата (1 ч.л.), отцедените от маринатата каперси (1 ч.л.), прясно изцедения лимонов сок (1 ч.л.) и подправките се поставя в чопър. Всичко се смила на бавни обороти и за кратко, докато стане на ситни парченца. Тартарът от сьомга се разбърква и се сервира веднага, поднесен с препечени филийки пълнозърнест хляб."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "филе от сьомга",
+      "qty": "100 г",
+      "id": 114
+    },
+    {
+      "name": "майонеза",
+      "qty": "1 ч.л.",
+      "id": 80
+    },
+    {
+      "name": "каперси",
+      "qty": "1 ч.л.",
+      "id": 162
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 ч.л.",
+      "id": 17
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 щип.",
+      "id": 2
+    },
+    {
+      "name": "копър",
+      "qty": "2 стръка",
+      "id": 28
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

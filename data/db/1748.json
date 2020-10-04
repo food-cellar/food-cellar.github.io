@@ -1,0 +1,92 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Задушени пилешки хапки със зеленчуци на тиган",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pile-sus-zelenchuci-na-tigan-1-[1748].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pile-sus-zelenchuci-na-tigan-1-[1748].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pile-sus-zelenchuci-na-tigan-1-[1748].jpg"
+    ],
+    "datePublished": "2017-03-20",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "377 calories",
+      "carbohydrateContent": "11 g",
+      "fatContent": "9 g",
+      "proteinContent": "59 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "5.474545 g",
+      "cholesterolContent": "145 mg"
+    },
+    "recipeIngredient": [
+      "1 кг пилешки гърди",
+      "2 глави червен лук",
+      "3  червени чушки",
+      "4 с.л. доматено пюре",
+      "1/4 ч.л. къри",
+      "черен пипер",
+      "сол",
+      "3 с.л. зехтин"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Лукът (2 глави) се обелва и нарязва на полумесеци. Червените чушки (3 бр) се измиват, почистват от дръжките и семките, и се нарязват на едри парчета. Месото (1 кг) се нарязва на хапки. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Чушките се задушват до омекване в зехтина (3 с.л.), след което към тях се добавят пилешките хапки и лукът. Ястието се подправя с доматено пюре (4 с.л.), къри (1/4 ч.л.), червен, черен пипер и сол. Задушава се до пълна готовност на месото."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Пилето със зеленчуци на тиган се поднася горещо, а подходящата към него гарнитура е варен ориз или картофено пюре."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешки гърди",
+      "qty": "1 кг",
+      "id": 79
+    },
+    {
+      "name": "червен лук",
+      "qty": "2 глави",
+      "id": 3
+    },
+    {
+      "name": "червени чушки",
+      "qty": "3",
+      "id": 18
+    },
+    {
+      "name": "доматено пюре",
+      "qty": "4 с.л.",
+      "id": 35
+    },
+    {
+      "name": "къри",
+      "qty": "1/4 ч.л.",
+      "id": 143
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "зехтин",
+      "qty": "3 с.л.",
+      "id": 10
+    }
+  ]
+}

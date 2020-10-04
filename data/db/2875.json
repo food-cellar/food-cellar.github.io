@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Крем супа от грах и броколи",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/krem-supa-ot-grah-i-brokoli-1-[2875].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/krem-supa-ot-grah-i-brokoli-1-[2875].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/krem-supa-ot-grah-i-brokoli-1-[2875].jpg"
+    ],
+    "datePublished": "2014-03-10",
+    "cookTime": "PT0H30M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "122 calories",
+      "carbohydrateContent": "20 g",
+      "fatContent": "0 g",
+      "proteinContent": "10 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.32311333333333 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг броколи",
+      "1/2 кг грах",
+      "1 глава лук",
+      "4 скилидки чесън",
+      "1 л. зеленчуков бульон",
+      "1 ч.л. черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Броколите (1/2 кг) се пускат във вряща подсолена вода за няколко минути, докато омекнат. След това се изплакват с ледено студена вода, като това шоково охлаждане е необходимо, за да запазят свежия си зелен цвят."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Замразеният грах (1/2 кг) се пуска във вряща подсолена вода за няколко минути, докато омекне. След това се изплаква с ледено студена вода, за да запази и той свежия си зелен цвят."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "В тенджера се загрява зеленчуковият бульон (1 л.), като в него се поставят обеленият и нарязан на кубчета лук (1 глава), а също и нарязаният чесън (4 скилидки). Щом те омекнат, в супата се добавя сол, черен пипер (1 ч.л.), а също и бланшираните предварително във вряла вода броколи и грах. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Супата се пасира с помощта на пасатор и се сервира веднага, като по желание се поднася с крутони и стръкчета пресен копър. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "броколи",
+      "qty": "1/2 кг",
+      "id": 57
+    },
+    {
+      "name": "грах",
+      "qty": "1/2 кг",
+      "id": 68
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "зеленчуков бульон",
+      "qty": "1 л.",
+      "id": 26
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

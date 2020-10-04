@@ -1,0 +1,74 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Плодова салата от диня и пъпеш с джинджифилов сироп",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-ot-dinia-i-pupesh-s-djindjifilov-sirop-1-[55].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-ot-dinia-i-pupesh-s-djindjifilov-sirop-1-[55].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-ot-dinia-i-pupesh-s-djindjifilov-sirop-1-[55].jpg"
+    ],
+    "datePublished": "2013-06-04",
+    "cookTime": "PT0H15M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "386 calories",
+      "carbohydrateContent": "91 g",
+      "fatContent": "3 g",
+      "proteinContent": "6 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "1.2156 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1/2  диня",
+      "1/2  пъпеш",
+      "2 с.л. захар",
+      "30 г джинджифил",
+      "1/2 ч.ч. вода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Джинджифилът (30 г), предварително почистен и начукан, и захарта (2 с.л.) се слагат във водата (1/2 ч.ч.) в малка тенджера и се варят 10 минути под капак на слаб огън, докато не се изпари половината от водата и течността се превърне в сироп. Сиропът се оставя да изстине."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "От меката част на динята (1/2 бр) и пъпеша (1/2 бр) се правят топчета със специална лъжичка."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Топките се слагат в салатиера, заливат се със сиропа, разбъркват се и се охлаждат за 1 час."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "диня",
+      "qty": "1/2",
+      "id": 251
+    },
+    {
+      "name": "пъпеш",
+      "qty": "1/2",
+      "id": 252
+    },
+    {
+      "name": "захар",
+      "qty": "2 с.л.",
+      "id": 9
+    },
+    {
+      "name": "джинджифил",
+      "qty": "30 г",
+      "id": 84
+    },
+    {
+      "name": "вода",
+      "qty": "1/2 ч.ч.",
+      "id": 11
+    }
+  ]
+}

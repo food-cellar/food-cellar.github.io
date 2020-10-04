@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Гръцка салата с маруля, домати и кашу",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-s-marulia-domati-i-kashu-2-[472].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-s-marulia-domati-i-kashu-2-[472].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-s-marulia-domati-i-kashu-2-[472].jpg"
+    ],
+    "datePublished": "2010-11-04",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "306 calories",
+      "carbohydrateContent": "33 g",
+      "fatContent": "21 g",
+      "proteinContent": "7 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "15.12008 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "4 листа маруля",
+      "1  домат",
+      "6  маслини",
+      "3 резенчета лайм",
+      "25 г кашу",
+      "сол",
+      "1 с.л. зехтин",
+      "1 с.л. лимонов сок"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Листата от маруля (4 листа) се накъсват на едро и се слагат в чиния. Върху тях се нареждат парченца домат. Между парченцата домат се слагат зелените маслини (6 бр). По средата на салатата се слага шайба от домат, върху нея - парченце от маслина и отгоре ядка. Наоколо също се слагат ядки. Салата се украсява с тънки резенчета лайм (3 резенчета). Може да се поднесе така, а може и предварително да се овкуси със солта, зехтина и лимоновия сок."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "маруля",
+      "qty": "4 листа",
+      "id": 176
+    },
+    {
+      "name": "домат",
+      "qty": "1",
+      "id": 15
+    },
+    {
+      "name": "маслини",
+      "qty": "6",
+      "id": 50
+    },
+    {
+      "name": "лайм",
+      "qty": "3 резенчета",
+      "id": 204
+    },
+    {
+      "name": "кашу",
+      "qty": "25 г",
+      "id": 200
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "зехтин",
+      "qty": "1 с.л.",
+      "id": 10
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    }
+  ]
+}

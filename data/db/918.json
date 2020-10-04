@@ -1,0 +1,60 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Коктейл Руска пролет",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kokteil-ruska-prolet-1-[918].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kokteil-ruska-prolet-1-[918].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kokteil-ruska-prolet-1-[918].jpg"
+    ],
+    "datePublished": "2012-08-16",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Коктейли",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "0 calories",
+      "carbohydrateContent": "0 g",
+      "fatContent": "0 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "25  водка",
+      "15  ликьор Cr&#232;me De Menthe",
+      "100  сода",
+      "25  ябълков сок"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "В шейкър, пълен с лед, се разбиват водката (25), ликьорът от мента (15) и сокът от ябълка (25). Сипват се във висока чаша, пълна с лед, и се долива содата (100). Разбърква се и се украсява с резенчета ябълка и киви."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "водка",
+      "qty": "25",
+      "id": 154
+    },
+    {
+      "name": "ликьор Crème De Menthe",
+      "qty": "15",
+      "id": 27
+    },
+    {
+      "name": "сода",
+      "qty": "100",
+      "id": 56
+    },
+    {
+      "name": "ябълков сок",
+      "qty": "25",
+      "id": 298
+    }
+  ]
+}

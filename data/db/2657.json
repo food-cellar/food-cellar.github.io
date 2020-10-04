@@ -1,0 +1,98 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пълнено коледно пиле със сирена",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pulneno-koledno-pile-sus-sirena-1-[2657].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pulneno-koledno-pile-sus-sirena-1-[2657].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pulneno-koledno-pile-sus-sirena-1-[2657].jpg"
+    ],
+    "datePublished": "2013-11-21",
+    "cookTime": "PT2H0M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "391 calories",
+      "carbohydrateContent": "9 g",
+      "fatContent": "26 g",
+      "proteinContent": "27 g",
+      "saturatedFatContent": "10 g",
+      "unsaturatedFatContent": "13.9083725 g",
+      "cholesterolContent": "108 mg"
+    },
+    "recipeIngredient": [
+      "1  пиле",
+      "100 г сирене",
+      "100 г топено сирене",
+      "100 г крема сирене",
+      "100 г кашкавал",
+      "3 филии хляб",
+      "4 скилидки чесън",
+      "1 ч.л. риган",
+      "2 с.л. зехтин"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Бялото сирене (100 г), топеното сирене (100 г) и крема сиренето (100 г) се намачкват с вилица и се смесват добре. Към тях се прибавя кашкавалът (100 г), нарязан на дребни кубчета, а също и меката част на хляба (3 филии), нарязана на кубчета. Всичко се разбърква и овкусява със зехтин (2 с.л.) и риган (1 ч.л.)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "С получената плънка се пълни пилето, като е важно да се зашие с подходящ и здрав конец, за да не се изсипе плънката и да може хубаво да се задуши."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Пълненото коледно пиле се оставя във фурната за общо час и половина или два часа, като първите 30 минути се пече на силен огън, а след това - на тих. Малко преди да е напълно готово, пилето се намазва с малко масло и се поръсва с червен пипер и сол."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пиле",
+      "qty": "1",
+      "id": 111
+    },
+    {
+      "name": "сирене",
+      "qty": "100 г",
+      "id": 32
+    },
+    {
+      "name": "топено сирене",
+      "qty": "100 г",
+      "id": 112
+    },
+    {
+      "name": "крема сирене",
+      "qty": "100 г",
+      "id": 27
+    },
+    {
+      "name": "кашкавал",
+      "qty": "100 г",
+      "id": 47
+    },
+    {
+      "name": "хляб",
+      "qty": "3 филии",
+      "id": 66
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "риган",
+      "qty": "1 ч.л.",
+      "id": 65
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    }
+  ]
+}

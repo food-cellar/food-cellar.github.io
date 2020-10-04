@@ -1,0 +1,92 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Медено козе сирене с орехи, коняк и царвица",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/medeno_sirene_2-[17].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/medeno_sirene_2-[17].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/medeno_sirene_2-[17].jpg"
+    ],
+    "datePublished": "2010-10-12",
+    "cookTime": "PT0H10M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "597 calories",
+      "carbohydrateContent": "18 g",
+      "fatContent": "43 g",
+      "proteinContent": "33 g",
+      "saturatedFatContent": "25 g",
+      "unsaturatedFatContent": "15.84354 g",
+      "cholesterolContent": "105 mg"
+    },
+    "recipeIngredient": [
+      "400 г козе сирене",
+      "50 г акациев мед",
+      "1 с.л. коняк",
+      "50 г орехи",
+      "2 листа китайско зеле",
+      "50 г царевица",
+      "50 г грах",
+      "2 стръкчета магданоз"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Сиренето (400 г) се нарязва на триъгълници. Медът (50 г) и конякът (1 с.л.) се разбиват до еднородна смес."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Триъгълниците от сирене се нареждат по три в порционна чиния върху зелевите листа. Между тях се слага смес от царевица, грах, орехи и медено-конячена смес."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Сиренето се полива с медено-конячената смес и се поръсва със счукани орехови ядки."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "козе сирене",
+      "qty": "400 г",
+      "id": 227
+    },
+    {
+      "name": "акациев мед",
+      "qty": "50 г",
+      "id": 38
+    },
+    {
+      "name": "коняк",
+      "qty": "1 с.л.",
+      "id": 166
+    },
+    {
+      "name": "орехи",
+      "qty": "50 г",
+      "id": 31
+    },
+    {
+      "name": "китайско зеле",
+      "qty": "2 листа",
+      "id": 233
+    },
+    {
+      "name": "царевица",
+      "qty": "50 г",
+      "id": 78
+    },
+    {
+      "name": "грах",
+      "qty": "50 г",
+      "id": 68
+    },
+    {
+      "name": "магданоз",
+      "qty": "2 стръкчета",
+      "id": 12
+    }
+  ]
+}

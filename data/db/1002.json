@@ -1,0 +1,98 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пилешка супа с бекон, лук, чушки, царевица, моркови и ориз в хлебче",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pileshka-supa-s-bekon-i-oriz-v-hlebche-1-[1002].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pileshka-supa-s-bekon-i-oriz-v-hlebche-1-[1002].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pileshka-supa-s-bekon-i-oriz-v-hlebche-1-[1002].jpg"
+    ],
+    "datePublished": "2017-03-20",
+    "cookTime": "PT0H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "417 calories",
+      "carbohydrateContent": "52 g",
+      "fatContent": "16 g",
+      "proteinContent": "14 g",
+      "saturatedFatContent": "5 g",
+      "unsaturatedFatContent": "8.321435 g",
+      "cholesterolContent": "33 mg"
+    },
+    "recipeIngredient": [
+      "100 бяло пилешко месо",
+      "100 г бекон",
+      "1 глава лук",
+      "1  морков",
+      "1 червена чушка",
+      "1 к.ч. ориз",
+      "1 к.ч. царевица",
+      "1 скилидка чесън",
+      "4  хлебчета"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Беконът (100 г) и месото (100 бяло) се нарязват на ситно, както и лукът (1 глава), морковът (1 бр) и чушката (1 червена). Сваряват се в подсолена вода до пълното омекване на месото. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Прибавя сe оризът (1 к.ч.) и супата се вари до неговата готовност. Накрая се прибавя царевицата и счукания със сол чесън. Супата трябва да бъде гъста. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "С нея се напълват хлебчетата (4 бр), на които предварително са им отрязани капачета и са издълбани. По желание хлебчетата може да се захлупят, да се поръсят с настърган кашкавал и да се запекат."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешко месо",
+      "qty": "100 бяло",
+      "id": 49
+    },
+    {
+      "name": "бекон",
+      "qty": "100 г",
+      "id": 88
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "чушка",
+      "qty": "1 червена",
+      "id": 18
+    },
+    {
+      "name": "ориз",
+      "qty": "1 к.ч.",
+      "id": 22
+    },
+    {
+      "name": "царевица",
+      "qty": "1 к.ч.",
+      "id": 78
+    },
+    {
+      "name": "чесън",
+      "qty": "1 скилидка",
+      "id": 6
+    },
+    {
+      "name": "хлебчета",
+      "qty": "4",
+      "id": 175
+    }
+  ]
+}

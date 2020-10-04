@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Парти хапки - пълнени гъби печурки със скариди",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pulneni-pechurki-sus-skaridi-1-[1543].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pulneni-pechurki-sus-skaridi-1-[1543].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pulneni-pechurki-sus-skaridi-1-[1543].jpg"
+    ],
+    "datePublished": "2011-07-17",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "153 calories",
+      "carbohydrateContent": "11 g",
+      "fatContent": "3 g",
+      "proteinContent": "21 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "1.9228 g",
+      "cholesterolContent": "114 mg"
+    },
+    "recipeIngredient": [
+      "800 г печурки",
+      "300 г коктейлни скариди",
+      "1 глава лук",
+      "1 с.л. зехтин",
+      "черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Печурките (800 г) се измиват, пънчетата им се отстраняват, посoляват се и се поставят в тавичка. Пекат се около 15-20 минути в силна фурна. През това време скаридите (300 г) се задушават заедно със ситно нарязания лук (1 глава) в малко зехтин (1 с.л.), до омекването на лука. Получената плънка се овкусява със сол и черен пипер. Печурките се изваждат от фурната и сокът, който са отделили при печенето, се изхвърля. Пълнят се със скариди и се връщат обратно във фурната за 10 минути, като този път се пекат на грил."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "печурки",
+      "qty": "800 г",
+      "id": 62
+    },
+    {
+      "name": "коктейлни скариди",
+      "qty": "300 г",
+      "id": 104
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "зехтин",
+      "qty": "1 с.л.",
+      "id": 10
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

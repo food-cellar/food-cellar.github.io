@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Кашкавалени соленки с брашно, кисело мляко и масло",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kashkavaleni-solenki-2-[1407].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kashkavaleni-solenki-2-[1407].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kashkavaleni-solenki-2-[1407].jpg"
+    ],
+    "datePublished": "2011-06-27",
+    "cookTime": "PT1H0M",
+    "recipeYield": "25 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "105 calories",
+      "carbohydrateContent": "6 g",
+      "fatContent": "7 g",
+      "proteinContent": "3 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "2.3264596 g",
+      "cholesterolContent": "43 mg"
+    },
+    "recipeIngredient": [
+      "200 г брашно",
+      "125 г масло",
+      "200 г кашкавал",
+      "7 с.л. кисело мляко",
+      "1  жълтък",
+      "2  белтъка",
+      "1 щип. сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "В дълбока купа се смесват брашното (200 г), солта (1 щип.), маслото (125 г), киселото мляко (7 с.л.), белтъците (2 бр), жълтъкът (1 бр) и настърганият кашкавал (200 г). От тези продукти се омесва гладко тесто. Оставя се в хладилник за 30 минути. Върху хартия за печене с помощта на лъжичка се поставят малки топчета. Пекат се, докато станат златни при температура 180 градуса."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "брашно",
+      "qty": "200 г",
+      "id": 7
+    },
+    {
+      "name": "масло",
+      "qty": "125 г",
+      "id": 8
+    },
+    {
+      "name": "кашкавал",
+      "qty": "200 г",
+      "id": 47
+    },
+    {
+      "name": "кисело мляко",
+      "qty": "7 с.л.",
+      "id": 21
+    },
+    {
+      "name": "жълтък",
+      "qty": "1",
+      "id": 33
+    },
+    {
+      "name": "белтъка",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "сол",
+      "qty": "1 щип.",
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пържена пъстърва в брашно с бадеми и лимонов сок, запечена на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pusturva-s-bademi-i-limonov-sok-3-[847].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pusturva-s-bademi-i-limonov-sok-3-[847].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pusturva-s-bademi-i-limonov-sok-3-[847].jpg"
+    ],
+    "datePublished": "2011-10-15",
+    "cookTime": "PT1H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "531 calories",
+      "carbohydrateContent": "10 g",
+      "fatContent": "38 g",
+      "proteinContent": "34 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "31.83905 g",
+      "cholesterolContent": "87 mg"
+    },
+    "recipeIngredient": [
+      "4  пъстърви",
+      "40 г брашно",
+      "100 мл. олио",
+      "50 филирани бадеми",
+      "2 с.л. лимонов сок",
+      "1 ч.л. сос Уорчестър",
+      "сол",
+      "черен пипер",
+      "магданоз"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пъстървите (4 бр) се намазват с лимонов сок (2 с.л.) и сос Уорчестър (1 ч.л.), посоляват се и се подправят с черен пипер. Овалват се в брашно (40 г) и се изпържват в горещото олио (100 мл.). Нареждат се в тава, поръсват се с бадемите (50 филирани) и ситно нарязан пресен магданоз и се запичат, докато бадемите станат златисти."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пъстърви",
+      "qty": "4",
+      "id": 263
+    },
+    {
+      "name": "брашно",
+      "qty": "40 г",
+      "id": 7
+    },
+    {
+      "name": "олио",
+      "qty": "100 мл.",
+      "id": 4
+    },
+    {
+      "name": "бадеми",
+      "qty": "50 филирани",
+      "id": 82
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "2 с.л.",
+      "id": 17
+    },
+    {
+      "name": "сос Уорчестър",
+      "qty": "1 ч.л.",
+      "id": 207
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "магданоз",
+      "qty": "Parsing error",
+      "id": 12
+    }
+  ]
+}

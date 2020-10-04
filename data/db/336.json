@@ -1,0 +1,100 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Запържени задушени свински пържоли от котлет със сос от гъби, лук, бяло вино и сметана на тиган",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/purjola-s-vineno-guben-sos-1-[336].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/purjola-s-vineno-guben-sos-1-[336].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/purjola-s-vineno-guben-sos-1-[336].jpg"
+    ],
+    "datePublished": "2010-11-09",
+    "cookTime": "PT0H40M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "582 calories",
+      "carbohydrateContent": "15 g",
+      "fatContent": "39 g",
+      "proteinContent": "24 g",
+      "saturatedFatContent": "12 g",
+      "unsaturatedFatContent": "22.59064 g",
+      "cholesterolContent": "96 mg"
+    },
+    "recipeIngredient": [
+      "1  свинска пържола",
+      "брашно",
+      "1 ч.ч. бяло вино",
+      "10 мл. сметана",
+      "10  печурки",
+      "1 глава лук",
+      "4 скилидки чесън",
+      "сол",
+      "2 с.л. олио",
+      "2 с.л. червен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Свинското месо се овалва в брашно. Изпържва се от двете страни в сгорещено олио до побеляване. Прибавят се нарязаните гъби (10 бр) и лук (1 глава) и съдът се захлупва. Щом поомекнат зеленчуците, се налива виното (1 ч.ч.) и задушаването продължава до омекването на месото. Прибавят се сметаната (10 мл.) и червеният пипер. Готви се още 5 минути. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Поднася се с картофено пюре."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "свинска пържола",
+      "qty": "1",
+      "id": 67
+    },
+    {
+      "name": "брашно",
+      "qty": "Parsing error",
+      "id": 7
+    },
+    {
+      "name": "бяло вино",
+      "qty": "1 ч.ч.",
+      "id": 41
+    },
+    {
+      "name": "сметана",
+      "qty": "10 мл.",
+      "id": 19
+    },
+    {
+      "name": "печурки",
+      "qty": "10",
+      "id": 62
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    },
+    {
+      "name": "червен пипер",
+      "qty": "2 с.л.",
+      "id": 20
+    }
+  ]
+}

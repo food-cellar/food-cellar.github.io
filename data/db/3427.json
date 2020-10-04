@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Десертен крем панакота от кисело мляко и желатин със сладко от ягоди",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/deserten-krem-panakota-ot-kiselo-mliako-i-jelatin-sus-sladko-ot-iagodi-1-[3427].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/deserten-krem-panakota-ot-kiselo-mliako-i-jelatin-sus-sladko-ot-iagodi-1-[3427].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/deserten-krem-panakota-ot-kiselo-mliako-i-jelatin-sus-sladko-ot-iagodi-1-[3427].jpg"
+    ],
+    "datePublished": "2020-05-02",
+    "cookTime": "PT0H30M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "196 calories",
+      "carbohydrateContent": "29 g",
+      "fatContent": "5 g",
+      "proteinContent": "8 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "1.1536666666667 g",
+      "cholesterolContent": "22 mg"
+    },
+    "recipeIngredient": [
+      "1 кг кисело мляко",
+      "2 опак. желатин",
+      "8 с.л. захар",
+      "6 с.л. сладко от ягоди"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Едното пакетче желатин се накисва с няколко супени лъжици вода и се оставя да набъбне. След това се загрява за малко в микровълнова фурна или на водна баня."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Сладкото от ягоди (6 с.л.) се смесва с 2 с.л. вода и желатина. Разбърква се добре и се разпределя в купички. Оставя се в хладилник."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Второто пакетче желатин се прави по същия начин като първото и след това се смесва с киселото мляко (1 кг) и захарта (8 с.л.). Сместа се слага в купичките."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Панакотата се оставя в хладилник да стегне за около час. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "кисело мляко",
+      "qty": "1 кг",
+      "id": 21
+    },
+    {
+      "name": "желатин",
+      "qty": "2 опак.",
+      "id": 124
+    },
+    {
+      "name": "захар",
+      "qty": "8 с.л.",
+      "id": 9
+    },
+    {
+      "name": "сладко от ягоди",
+      "qty": "6 с.л.",
+      "id": 89
+    }
+  ]
+}

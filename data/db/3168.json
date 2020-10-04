@@ -1,0 +1,62 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Бланширани картофи във вода за пържене",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/blanshirani-kartofi-vuv-voda-za-purjene-1-[3168].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/blanshirani-kartofi-vuv-voda-za-purjene-1-[3168].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/blanshirani-kartofi-vuv-voda-za-purjene-1-[3168].jpg"
+    ],
+    "datePublished": "2017-01-18",
+    "cookTime": "PT0H10M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Други",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "193 calories",
+      "carbohydrateContent": "43 g",
+      "fatContent": "0 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.1075 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1 кг картофи",
+      "1 1/2 л. вряща вода",
+      "1 1/2 л. студена вода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Картофите се обелват и нарязват на пръчици с желаната дебелина."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Половината вода се кипва и в нея се пускат картофите. Варят се 2 минути, след което се изваждат, отцеждат и потапят в студена вода за 7-8 минути. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Отново се отцеждат и се разстилат на кърпа за да се подсушат и да не залепват. Поставят се в плик и се замръзяват, готови за пържене.  "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "картофи",
+      "qty": "1 кг",
+      "id": 16
+    },
+    {
+      "name": "вряща вода",
+      "qty": "1 1/2 л.",
+      "id": 27
+    },
+    {
+      "name": "студена вода",
+      "qty": "1 1/2 л.",
+      "id": 27
+    }
+  ]
+}

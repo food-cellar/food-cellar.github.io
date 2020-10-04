@@ -1,0 +1,60 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Домашно фъстъчено масло",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/domashno-fustucheno-maslo-1-[3178].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/domashno-fustucheno-maslo-1-[3178].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/domashno-fustucheno-maslo-1-[3178].jpg"
+    ],
+    "datePublished": "2017-03-15",
+    "cookTime": "PT0H30M",
+    "recipeYield": "16 servings",
+    "recipeCategory": "Други",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "154 calories",
+      "carbohydrateContent": "7 g",
+      "fatContent": "12 g",
+      "proteinContent": "6 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "9.88975 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "400 г фъстъци",
+      "200 мл. фъстъчено олио",
+      "1/2 с.л. сол",
+      "4 с.л. захар"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Фъстъците (400 г) се изпичат и обелват. Поставят се в кухненски робот и се смилат. На малки порции и при постоянно разбиване се добавя фъстъченото олио (200 мл.) докато се получи гладък крем. Накрая се добавят солта (1/2 с.л.) и захарта (4 с.л.) и се опитва. По желание може да се добави още сол или захар."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "фъстъци",
+      "qty": "400 г",
+      "id": 196
+    },
+    {
+      "name": "фъстъчено олио",
+      "qty": "200 мл.",
+      "id": 27
+    },
+    {
+      "name": "сол",
+      "qty": "1/2 с.л.",
+      "id": 1
+    },
+    {
+      "name": "захар",
+      "qty": "4 с.л.",
+      "id": 9
+    }
+  ]
+}

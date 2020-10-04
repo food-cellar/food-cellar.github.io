@@ -1,0 +1,114 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пуешки кюфтенца с кускус по марокански",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pueshki-kuftenca-s-kuskus-po-marokanski-1-[1589].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pueshki-kuftenca-s-kuskus-po-marokanski-1-[1589].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pueshki-kuftenca-s-kuskus-po-marokanski-1-[1589].jpg"
+    ],
+    "datePublished": "2011-08-21",
+    "cookTime": "PT0H40M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "609 calories",
+      "carbohydrateContent": "63 g",
+      "fatContent": "26 g",
+      "proteinContent": "27 g",
+      "saturatedFatContent": "7 g",
+      "unsaturatedFatContent": "15.7997825 g",
+      "cholesterolContent": "73 mg"
+    },
+    "recipeIngredient": [
+      "400 г пуешко филе",
+      "1 глава лук",
+      "1 с.л. портокалови кори",
+      "1/2 ч.л. кимион",
+      "1 щип. канела",
+      "черен пипер",
+      "сол",
+      "4 с.л. зехтин",
+      "300 г кускус",
+      "600 мл. вода",
+      "1/2  портокал",
+      "4 стръка магданоз",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пуешкото филе (400 г) и лукът (1 глава) се поставят в блендер и се пасират до получаването на кайма. Тя се овкусява с кимион (1/2 ч.л.), канела (1 щип.), черен пипер и сол, и към нея се добавят настърганите портокалови кори (1 с.л.). От каймата се оформят малки кюфтенца, които се пържат в зехтин (4 с.л.) от двете страни до готовност.Водата (600 мл.) се слага в малка тенджерка на котлона и щом заври, в нея се изсипва дребният кускус (300 г). Захлупва се и се оставя за пет минути да поеме течността. Овкусява се със сол на вкус и към него се добавят нарязаният на малки парченца портокал (1/2 бр) и ситно нарязаният пресен магданоз (4 стръка). Разбърква се и се поднася, като върху него се разполагат пуешките кюфтенца."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пуешко филе",
+      "qty": "400 г",
+      "id": 76
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "портокалови кори",
+      "qty": "1 с.л.",
+      "id": 159
+    },
+    {
+      "name": "кимион",
+      "qty": "1/2 ч.л.",
+      "id": 42
+    },
+    {
+      "name": "канела",
+      "qty": "1 щип.",
+      "id": 46
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "кускус",
+      "qty": "300 г",
+      "id": 160
+    },
+    {
+      "name": "вода",
+      "qty": "600 мл.",
+      "id": 11
+    },
+    {
+      "name": "портокал",
+      "qty": "1/2",
+      "id": 122
+    },
+    {
+      "name": "магданоз",
+      "qty": "4 стръка",
+      "id": 12
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

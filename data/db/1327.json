@@ -1,0 +1,76 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Крехко задушено телешко месо със сметана и соев сос в печено в йенско стъкло (йенска тенджера)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/krehko-teleshko-sus-smetana-i-soev-sos-3-[1327].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/krehko-teleshko-sus-smetana-i-soev-sos-3-[1327].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/krehko-teleshko-sus-smetana-i-soev-sos-3-[1327].jpg"
+    ],
+    "datePublished": "2011-05-21",
+    "cookTime": "PT3H0M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "220 calories",
+      "carbohydrateContent": "0 g",
+      "fatContent": "11 g",
+      "proteinContent": "26 g",
+      "saturatedFatContent": "6 g",
+      "unsaturatedFatContent": "3.521675 g",
+      "cholesterolContent": "125 mg"
+    },
+    "recipeIngredient": [
+      "1 кг телешко месо",
+      "200 мл. течна сметана",
+      "2 с.л. соев сос",
+      "черен пипер",
+      "розмарин",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Телешкото месо (1 кг) се нарязва на порции и се поставя в йенска тенджера. Поръсва се с подправките и се залива с предварително разбърканите с лъжица сметана (200 мл.) и соев сос (2 с.л.). Ястието се захлупва с капак и се пече 3 часа при 200 градуса. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Чудесна гарнитура към това телешко задушено към него е картофеното пюре."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "телешко месо",
+      "qty": "1 кг",
+      "id": 110
+    },
+    {
+      "name": "течна сметана",
+      "qty": "200 мл.",
+      "id": 19
+    },
+    {
+      "name": "соев сос",
+      "qty": "2 с.л.",
+      "id": 53
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "розмарин",
+      "qty": "Parsing error",
+      "id": 77
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

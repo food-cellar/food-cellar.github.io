@@ -1,0 +1,100 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Кето предястие от ролца с прошуто, пълнени с авокадо, сирене рикота и босилек",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/keto-prediastie-ot-proshuto-avokado-sirene-rikota-i-bosilek-1-[3461].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/keto-prediastie-ot-proshuto-avokado-sirene-rikota-i-bosilek-1-[3461].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/keto-prediastie-ot-proshuto-avokado-sirene-rikota-i-bosilek-1-[3461].jpg"
+    ],
+    "datePublished": "2020-06-17",
+    "cookTime": "PT0H5M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "528 calories",
+      "carbohydrateContent": "9 g",
+      "fatContent": "45 g",
+      "proteinContent": "23 g",
+      "saturatedFatContent": "13 g",
+      "unsaturatedFatContent": "28.763712712331 g",
+      "cholesterolContent": "77 mg"
+    },
+    "recipeIngredient": [
+      "125 г прошуто",
+      "200 г авокадо",
+      "100 г рикота",
+      "2 с.л. зехтин",
+      "6 листа босилек",
+      "1 щип. хималайска сол",
+      "1 щип. черен пипер",
+      "2 с.л. зехтин"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Най-напред пресните листа босилек (6 листа) се накълцват на ситно и се смесват с щипка хималайска сол, зехтин (2 с.л.) и сиренето рикота (100 г). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Авокадото (200 г) се обелва, костилката му се отстранява и се нарязва на полумесеци. По желание се поръсва с пресен лимонов сок, за да запази цвета и свежестта си. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "С плънката от рикота и босилек се намазва всеки тънък резен прошуто, като се намазва с около чаена лъжичка от сместа само от едната страна. В единия край се поставят 2 резена авокадо и прошутото се навива на рула. Това се прави до изчерпване на количествата, като накрая би трябвало да се получат 7-8 рула. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Подреждат се в чиния, поръсват се с черен пипер (1 щип.) и се заливат с още малко зехтин (2 с.л.). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Рецептата е изключително подходяща при кето режим на хранене, тъй като е много бедна на въглехидрати, но богата на мазнини и с умерени протеини."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "прошуто",
+      "qty": "125 г",
+      "id": 208
+    },
+    {
+      "name": "авокадо",
+      "qty": "200 г",
+      "id": 83
+    },
+    {
+      "name": "рикота",
+      "qty": "100 г",
+      "id": 231
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "босилек",
+      "qty": "6 листа",
+      "id": 25
+    },
+    {
+      "name": "хималайска сол",
+      "qty": "1 щип.",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 щип.",
+      "id": 2
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    }
+  ]
+}

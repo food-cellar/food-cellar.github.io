@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата от паста (макарони), броколи, царевица, сметана и синьо сирене",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-ot-makaroni-brokoli-i-sinioo-sirene-1-[1385].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-ot-makaroni-brokoli-i-sinioo-sirene-1-[1385].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-ot-makaroni-brokoli-i-sinioo-sirene-1-[1385].jpg"
+    ],
+    "datePublished": "2011-04-04",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "332 calories",
+      "carbohydrateContent": "39 g",
+      "fatContent": "14 g",
+      "proteinContent": "13 g",
+      "saturatedFatContent": "8 g",
+      "unsaturatedFatContent": "3.922375 g",
+      "cholesterolContent": "40 mg"
+    },
+    "recipeIngredient": [
+      "150 г макарони",
+      "250 г броколи",
+      "150 г царевица",
+      "100 г синьо сирене",
+      "1 к.ч. сметана",
+      "черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Макароните (150 г) се сваряват в подсолена вода, изцеждат се и се изплакват със студена вода. Броколите (250 г) се накъсват на розички и се бланшират в подсолена вода до омекване или се сваряват на пара до готовност. Царевицата (150 г) се сварява на пара, ако е замразена, а ако се използва сладка царевица от консерва - само се отцежда. Течната готварска сметана (1 к.ч.) се изсипва в малка тенджерка и се загрява на котлона. Към нея се прибавя натрошеното синьо сирене (100 г) и сосът се бърка до пълното разтапяне на сиренето и сгъстяването на соса. Макароните се смесват с борколите и царевицата в дълбока купа и се овкусяват със сол и черен пипер на вкус. Поливат се със сметановия сос и салатата се разбърква много добре. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "макарони",
+      "qty": "150 г",
+      "id": 129
+    },
+    {
+      "name": "броколи",
+      "qty": "250 г",
+      "id": 57
+    },
+    {
+      "name": "царевица",
+      "qty": "150 г",
+      "id": 78
+    },
+    {
+      "name": "синьо сирене",
+      "qty": "100 г",
+      "id": 108
+    },
+    {
+      "name": "сметана",
+      "qty": "1 к.ч.",
+      "id": 19
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

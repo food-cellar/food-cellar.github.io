@@ -1,0 +1,100 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печени кюфтета, пълнени с варени яйца на фурна (шотландски яйца)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/iaica-oblecheni-v-kaima-GERMA2-[1476].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/iaica-oblecheni-v-kaima-GERMA2-[1476].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/iaica-oblecheni-v-kaima-GERMA2-[1476].jpg"
+    ],
+    "datePublished": "2016-05-03",
+    "cookTime": "PT1H0M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "401 calories",
+      "carbohydrateContent": "15 g",
+      "fatContent": "26 g",
+      "proteinContent": "22 g",
+      "saturatedFatContent": "8 g",
+      "unsaturatedFatContent": "14.680293333333 g",
+      "cholesterolContent": "278 mg"
+    },
+    "recipeIngredient": [
+      "6  яйца",
+      "60 г брашно",
+      "60 г галета",
+      "3 с.л. зехтин",
+      "1  яйце",
+      "1/2 кг кайма",
+      "6 стръка магданоз",
+      "2 с.л. сос Уорчестър",
+      "черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Каймата (1/2 кг) се омесва с подправките, сосът Уорчестър (2 с.л.) и ситно нарязаният магданоз (6 стръка). Разделя се на 6 равни части. С тях се обличат твърдо сварените и обелени яйца (6 бр) така, че белтъкът им да не се вижда. Получените кюфтета се овалват в брашно (60 г), потапят се в разбитото яйце (1 бр) и накрая се овалват в галета (60 г). Поставят се в намазана със зехтин (3 с.л.) тавичка и се пекат при темепратура от 180 градуса до готовност. Сервират се топли, а подходяща гарнитура към тях е свежа салата и картофено пюре.   "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "За най-добри резултати екипът на 1001 Рецепти препоръчва използването на български пресни яйца <a href=https://www.facebook.com/GermaBulgaria/>GERMA</a>."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "яйца",
+      "qty": "6",
+      "id": 5
+    },
+    {
+      "name": "брашно",
+      "qty": "60 г",
+      "id": 7
+    },
+    {
+      "name": "галета",
+      "qty": "60 г",
+      "id": 58
+    },
+    {
+      "name": "зехтин",
+      "qty": "3 с.л.",
+      "id": 10
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    },
+    {
+      "name": "кайма",
+      "qty": "1/2 кг",
+      "id": 54
+    },
+    {
+      "name": "магданоз",
+      "qty": "6 стръка",
+      "id": 12
+    },
+    {
+      "name": "сос Уорчестър",
+      "qty": "2 с.л.",
+      "id": 207
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

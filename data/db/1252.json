@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Грис халва с вода, олио, орехи и пудра захар",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/gris-halva-1-[1252].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/gris-halva-1-[1252].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/gris-halva-1-[1252].jpg"
+    ],
+    "datePublished": "2011-01-11",
+    "cookTime": "PT0H25M",
+    "recipeYield": "12 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "365 calories",
+      "carbohydrateContent": "37 g",
+      "fatContent": "22 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "19.144511666667 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1 1/2 ч.ч. грис",
+      "1/2 ч.ч. олио",
+      "1 ч.ч. захар",
+      "2 ч.ч. вода",
+      "1 ч.ч. орехи",
+      "4 с.л. пудра захар"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Водата (2 ч.ч.) и захарта (1 ч.ч.) се варят до получаването на сироп. Грисът (1 1/2 ч.ч.) се пържи с олиото (1/2 ч.ч.) до зачервяване. След това се залива със захарния сироп. Сместа се бърка в продължение на няколко минути. Премества се от котлона и се захлупва. Оставя се да престои около 10 минути. Накрая се изсипва в купички и се поръсва с натрошени орехи (1 ч.ч.). Оставя се да престои за няколко часа в хладилника. Халвата се сервира поръсена с пудра захар (2 ч.ч.). "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "грис",
+      "qty": "1 1/2 ч.ч.",
+      "id": 140
+    },
+    {
+      "name": "олио",
+      "qty": "1/2 ч.ч.",
+      "id": 4
+    },
+    {
+      "name": "захар",
+      "qty": "1 ч.ч.",
+      "id": 9
+    },
+    {
+      "name": "вода",
+      "qty": "2 ч.ч.",
+      "id": 11
+    },
+    {
+      "name": "орехи",
+      "qty": "1 ч.ч.",
+      "id": 31
+    },
+    {
+      "name": "пудра захар",
+      "qty": "4 с.л.",
+      "id": 34
+    }
+  ]
+}

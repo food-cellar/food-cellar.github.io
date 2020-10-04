@@ -1,0 +1,60 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Мармалад от кайсии",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/marmalad-ot-kaisii-2-[2631].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/marmalad-ot-kaisii-2-[2631].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/marmalad-ot-kaisii-2-[2631].jpg"
+    ],
+    "datePublished": "2013-07-19",
+    "cookTime": "PT1H0M",
+    "recipeYield": "20 servings",
+    "recipeCategory": "Други",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "155 calories",
+      "carbohydrateContent": "38 g",
+      "fatContent": "0 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.05082 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "4 ч.ч. пюре от кайсии",
+      "3 ч.ч. захар",
+      "2 ч.л. есенция бадем",
+      "2 с.л. ром"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Почистените от костилките кайсии се намачкват и заливат с вряла вода в гевгир. Щом водата се отцеди, се добавя захарта и се бърка на котлона до пълното и разтваряне. Сместа се вари до нейното сгъстяване. Горещият мармалад се налива в сухи буркани, и щом на повърхността се образува коричка, се добавят есенцията бадем и конякът. Бурканите се затварят добре херметически и се съхраняват на сухо и хладно място. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пюре от кайсии",
+      "qty": "4 ч.ч.",
+      "id": 185
+    },
+    {
+      "name": "захар",
+      "qty": "3 ч.ч.",
+      "id": 9
+    },
+    {
+      "name": "есенция бадем",
+      "qty": "2 ч.л.",
+      "id": 27
+    },
+    {
+      "name": "ром",
+      "qty": "2 с.л.",
+      "id": 74
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Маринована риба сьомга с чесън в марината от балсамов оцет, зехтин и кафява захар на тиган с розмарин на тиган",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/marinovana-sioomga-na-tigan-s-rozmarin-1-[2364].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/marinovana-sioomga-na-tigan-s-rozmarin-1-[2364].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/marinovana-sioomga-na-tigan-s-rozmarin-1-[2364].jpg"
+    ],
+    "datePublished": "2013-02-21",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "450 calories",
+      "carbohydrateContent": "17 g",
+      "fatContent": "32 g",
+      "proteinContent": "22 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "24.90977 g",
+      "cholesterolContent": "59 mg"
+    },
+    "recipeIngredient": [
+      "450 г филе от сьомга",
+      "4 скилидки чесън",
+      "1/4 ч.ч. балсамов оцет",
+      "4 с.л. кафява захар",
+      "1/2 ч.ч. зехтин",
+      "1 щип. черен пипер",
+      "2 стръка розмарин"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Скилидките чесън (4 скилидки) се обелват и нарязват на парченца, които се забождат на разстояние едно от друго в прясното филе от сьомга (450 г). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Балсамовият оцет(1/4 ч.ч.), зехтинът (1/2 ч.ч.), кафявата захар (4 с.л.) и черният пипер (1 щип.) се пасират в блендер, докато захарта се разтвори и в получената марината се поставя филето за около 2 часа. Важно е през тях то да престои в хладилника, покрито с капак или фолио."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "След това филето се отцежда от маринатата и се изпича в горещ тиган от двете страни до готовност. По желание се полива с маринатата, за да стане по-сочно. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Маринованото филе от сьомга се сервира горещо и се декорира с пресен стрък розмарин."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "филе от сьомга",
+      "qty": "450 г",
+      "id": 114
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "балсамов оцет",
+      "qty": "1/4 ч.ч.",
+      "id": 142
+    },
+    {
+      "name": "кафява захар",
+      "qty": "4 с.л.",
+      "id": 9
+    },
+    {
+      "name": "зехтин",
+      "qty": "1/2 ч.ч.",
+      "id": 10
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 щип.",
+      "id": 2
+    },
+    {
+      "name": "розмарин",
+      "qty": "2 стръка",
+      "id": 77
+    }
+  ]
+}

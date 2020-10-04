@@ -1,0 +1,60 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Смути от портокал и кайсии",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/smuti-ot-portokal-i-kaisii-1-[856].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/smuti-ot-portokal-i-kaisii-1-[856].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/smuti-ot-portokal-i-kaisii-1-[856].jpg"
+    ],
+    "datePublished": "2012-07-06",
+    "cookTime": "PT0H20M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Коктейли",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "110 calories",
+      "carbohydrateContent": "26 g",
+      "fatContent": "0 g",
+      "proteinContent": "2 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.10975 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "2  портокала",
+      "200 г кайсии",
+      "8 кубчета лед",
+      "1/2 к.ч. вода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Портокалът (2 бр) се обелва, а кайсиите (200 г) се обезкостяват. Слагат се в кухненски робот заедно с леда и малко вода и се пасират до пълното раздробяване на леда. Сервира се непосредствено след направа."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "портокала",
+      "qty": "2",
+      "id": 122
+    },
+    {
+      "name": "кайсии",
+      "qty": "200 г",
+      "id": 185
+    },
+    {
+      "name": "лед",
+      "qty": "8 кубчета",
+      "id": 11
+    },
+    {
+      "name": "вода",
+      "qty": "1/2 к.ч.",
+      "id": 11
+    }
+  ]
+}

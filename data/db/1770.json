@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Запечена наденица в соев сос и мед на тиган",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/nadenica-v-soev-sos-i-med-3-[1770].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/nadenica-v-soev-sos-i-med-3-[1770].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/nadenica-v-soev-sos-i-med-3-[1770].jpg"
+    ],
+    "datePublished": "2011-10-26",
+    "cookTime": "PT0H20M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "314 calories",
+      "carbohydrateContent": "8 g",
+      "fatContent": "21 g",
+      "proteinContent": "19 g",
+      "saturatedFatContent": "7 g",
+      "unsaturatedFatContent": "11.982335 g",
+      "cholesterolContent": "58 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг наденички",
+      "1/2 к.ч. соев сос",
+      "1/2 к.ч. балсамов оцет",
+      "2 скилидки чесън",
+      "2 с.л. мед"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Наденичките (1/2 кг) се запичат на тиган без мазнина от всички страни. Ако се използват големи парчета, се правят прорези, в които да проникне сосът. Ако се използват вурстчета, направо ги опичат. В купичка се смесват соевият сос (1/2 к.ч.), балсамовият оцет (1/2 к.ч.), стритият чесън (2 скилидки) и медът (2 с.л.), и се разбъркват до получаване на еднородна консистенция. Щом наденицата получи желания загар, се залива със соса. Обръща се с прорезите надолу, така че да проникне сосът. Готви се за 2-3 минути, докато сосът се сгъсти наполовина. Не трябва да се сгъстява прекалено дълго, защото ще стане твърде лепкав."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "наденички",
+      "qty": "1/2 кг",
+      "id": 148
+    },
+    {
+      "name": "соев сос",
+      "qty": "1/2 к.ч.",
+      "id": 53
+    },
+    {
+      "name": "балсамов оцет",
+      "qty": "1/2 к.ч.",
+      "id": 142
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "мед",
+      "qty": "2 с.л.",
+      "id": 38
+    }
+  ]
+}

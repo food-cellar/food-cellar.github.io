@@ -1,0 +1,108 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата от бланширан карфиол с червени чушки, стафиди, кашу и сусам",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-ot-karfiol-3-[395].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-ot-karfiol-3-[395].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-ot-karfiol-3-[395].jpg"
+    ],
+    "datePublished": "2010-12-08",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "197 calories",
+      "carbohydrateContent": "22 g",
+      "fatContent": "10 g",
+      "proteinContent": "6 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "7.76016 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1 глава карфиол",
+      "1  червена чушка",
+      "30 г стафиди",
+      "30 г кашу",
+      "30 г сусам",
+      "сол",
+      "2 с.л. соев сос",
+      "1 с.л. захар",
+      "2 с.л. олио",
+      "2 с.л. оцет",
+      "копър",
+      "2 скилидки чесън"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Карфиолът (1 глава) се нарязва на розички и се бланшира във вряща подсолена вода, след което се изважда с решетъчна лъжица и се оставя настрани. В нагорещеното олио (2 с.л.) се запържват кашуто (30 г) и стафидите (30 г). Прибавят се захарта (1 с.л.), оцетът (2 с.л.), соевият сос (2 с.л.), солта. Сосът ври 1-2 минути. С него се залива карфиолът. Прибавят се счуканият чесън (2 скилидки), сусамът (30 г), ситно нарязаният копър, както и червената чушка, нарязана на тънки ивици. Всичко се разбърква добре и се оставя за 20 минути да престои, след което се поднася."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "карфиол",
+      "qty": "1 глава",
+      "id": 91
+    },
+    {
+      "name": "червена чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "стафиди",
+      "qty": "30 г",
+      "id": 69
+    },
+    {
+      "name": "кашу",
+      "qty": "30 г",
+      "id": 200
+    },
+    {
+      "name": "сусам",
+      "qty": "30 г",
+      "id": 113
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "соев сос",
+      "qty": "2 с.л.",
+      "id": 53
+    },
+    {
+      "name": "захар",
+      "qty": "1 с.л.",
+      "id": 9
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    },
+    {
+      "name": "оцет",
+      "qty": "2 с.л.",
+      "id": 61
+    },
+    {
+      "name": "копър",
+      "qty": "Parsing error",
+      "id": 28
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    }
+  ]
+}

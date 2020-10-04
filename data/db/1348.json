@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Какаов сладкиш с компот от праскови, глазура от заквасена сметана и пудра захар",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/sladkish-sus-smetana-3-[1348].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/sladkish-sus-smetana-3-[1348].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/sladkish-sus-smetana-3-[1348].jpg"
+    ],
+    "datePublished": "2011-02-13",
+    "cookTime": "PT0H50M",
+    "recipeYield": "12 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "415 calories",
+      "carbohydrateContent": "58 g",
+      "fatContent": "17 g",
+      "proteinContent": "6 g",
+      "saturatedFatContent": "6 g",
+      "unsaturatedFatContent": "10.2343225 g",
+      "cholesterolContent": "19 mg"
+    },
+    "recipeIngredient": [
+      "2 ч.ч. брашно",
+      "1/2 ч.ч. олио",
+      "1 ч.ч. захар",
+      "400 г кисело мляко",
+      "3 с.л. какао",
+      "1 ч.л. канела",
+      "1 ч.л. сода",
+      "300 мл. компот от праскови",
+      "400 г заквасена сметана",
+      "5 с.л. пудра захар"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "От брашното (2 ч.ч.), олиото (1/2 ч.ч.), захарта (1 ч.ч.), киселото мляко (400 г), какаото (3 с.л.), канелата (1 ч.л.) и содата (1 ч.л.) с помощта на миксер се прави кексово тесто. То се изсипва в намаслена и поръсена с брашно тавичка и се изпича за 25 минути при 180 градуса. След като сладкишът поизстине, се поставя в голяма десертна чиния и се залива със сока от компота (300 мл.). Заквасената сметана (400 г) и пудрата захар (5 с.л.) се смесват и разбъркват с лъжица и се намазват равномерно върху сладкиша."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "брашно",
+      "qty": "2 ч.ч.",
+      "id": 7
+    },
+    {
+      "name": "олио",
+      "qty": "1/2 ч.ч.",
+      "id": 4
+    },
+    {
+      "name": "захар",
+      "qty": "1 ч.ч.",
+      "id": 9
+    },
+    {
+      "name": "кисело мляко",
+      "qty": "400 г",
+      "id": 21
+    },
+    {
+      "name": "какао",
+      "qty": "3 с.л.",
+      "id": 45
+    },
+    {
+      "name": "канела",
+      "qty": "1 ч.л.",
+      "id": 46
+    },
+    {
+      "name": "сода",
+      "qty": "1 ч.л.",
+      "id": 56
+    },
+    {
+      "name": "компот от праскови",
+      "qty": "300 мл.",
+      "id": 309
+    },
+    {
+      "name": "заквасена сметана",
+      "qty": "400 г",
+      "id": 73
+    },
+    {
+      "name": "пудра захар",
+      "qty": "5 с.л.",
+      "id": 34
+    }
+  ]
+}

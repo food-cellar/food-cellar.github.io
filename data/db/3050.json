@@ -1,0 +1,98 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Свински ребра с барбекю сос в Делимано Мултикукър",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/svinski-rebra-s-barbeku-sos-v-delimano-multikukur-1-[3050].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/svinski-rebra-s-barbeku-sos-v-delimano-multikukur-1-[3050].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/svinski-rebra-s-barbeku-sos-v-delimano-multikukur-1-[3050].jpg"
+    ],
+    "datePublished": "2015-06-08",
+    "cookTime": "PT1H20M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "1729 calories",
+      "carbohydrateContent": "25 g",
+      "fatContent": "102 g",
+      "proteinContent": "152 g",
+      "saturatedFatContent": "35 g",
+      "unsaturatedFatContent": "56.00555 g",
+      "cholesterolContent": "450 mg"
+    },
+    "recipeIngredient": [
+      "1 1/2 кг свински ребра",
+      "6 с.л. доматено пюре",
+      "200 мл. червено вино",
+      "6 с.л. мед",
+      "1 с.л. горчица",
+      "1/2 ч.л. черен пипер",
+      "сол",
+      "2 стръка розмарин",
+      "1  лимон"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "В купа се смесват червеното вино (200 мл.), течният мед (6 с.л.), горчицата (1 с.л.) и доматеното пюре (6 с.л.) и сместа се разбива и овкусява с черен пипер (1/2 ч.л.) и сол на вкус. С нея се залива цялото парче свински ребра (1 1/2 кг), предварително поставено в купата на Мултикукър 50 в 1 на <a href=http://www.delimano.bg/ rel=nofollow>Делимано</a>. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Уредът се включва на режим Печене на свинско за 80 минути."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "След това месото се изважда и поставя в чиния или плато. Образувалият се в купата на Делимано <a href=http://www.delimano.bg/%D0%BA%D1%83%D1%85%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B8-%D1%83%D1%80%D0%B5%D0%B4%D0%B8/multikukar-50-v-1.html>Мултикукър 50 в 1</a> сос се поставя в купичка и с четка се намазва месото от всички страни. По желание се декорира с резени лимон и се набучва с връхчета пресен розмарин."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "свински ребра",
+      "qty": "1 1/2 кг",
+      "id": 216
+    },
+    {
+      "name": "доматено пюре",
+      "qty": "6 с.л.",
+      "id": 35
+    },
+    {
+      "name": "червено вино",
+      "qty": "200 мл.",
+      "id": 98
+    },
+    {
+      "name": "мед",
+      "qty": "6 с.л.",
+      "id": 38
+    },
+    {
+      "name": "горчица",
+      "qty": "1 с.л.",
+      "id": 64
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1/2 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "розмарин",
+      "qty": "2 стръка",
+      "id": 77
+    },
+    {
+      "name": "лимон",
+      "qty": "1",
+      "id": 43
+    }
+  ]
+}

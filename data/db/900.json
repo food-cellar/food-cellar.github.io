@@ -1,0 +1,114 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Варен гювеч с телешко месо, картофи, патладжани и моркови в тенджера",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/varen-guvech-s-kartofi-i-teleshko-1-[900].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/varen-guvech-s-kartofi-i-teleshko-1-[900].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/varen-guvech-s-kartofi-i-teleshko-1-[900].jpg"
+    ],
+    "datePublished": "2010-11-26",
+    "cookTime": "PT1H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "487 calories",
+      "carbohydrateContent": "61 g",
+      "fatContent": "10 g",
+      "proteinContent": "39 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "5.6608175 g",
+      "cholesterolContent": "117 mg"
+    },
+    "recipeIngredient": [
+      "600 г телешко месо",
+      "1 кг картофи",
+      "1  червена чушка",
+      "2 с.л. доматено пюре",
+      "2 глави лук",
+      "1  морков",
+      "1  патладжан",
+      "3 стръка целина",
+      "3 с.л. олио",
+      "сол",
+      "черен пипер",
+      "кимион",
+      "2 скилидки чесън"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Телешкото месо (600 г) се нарязва на средни по големина парчета и се изпържва в сгорещеното олио от всички страни. Прибавят се ситно нарязаният лук (2 глави), чушката (1 бр) и морковът (1 бр), нарязани на кубчета, целината (3 стръка) - нарязана на ситно, и се разбърква. Готви се под капак 10 минути. Добавя се доматеното пюре (2 с.л.) и отново се разбърква. Слага се и изпеченият и обелен и нарязан на парчета патладжан (1 бр), а също и чесънът (2 скилидки) - нарязан на едро. Най-накрая се слагат и обелените и нарязани на едро картофи (1 кг) и всички подправки. Всичко се разбърква, изсипва в тава и се залива с 2 ч. ч. гореща вода. Пече се до пълна готовност."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "телешко месо",
+      "qty": "600 г",
+      "id": 110
+    },
+    {
+      "name": "картофи",
+      "qty": "1 кг",
+      "id": 16
+    },
+    {
+      "name": "червена чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "доматено пюре",
+      "qty": "2 с.л.",
+      "id": 35
+    },
+    {
+      "name": "лук",
+      "qty": "2 глави",
+      "id": 3
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "патладжан",
+      "qty": "1",
+      "id": 71
+    },
+    {
+      "name": "целина",
+      "qty": "3 стръка",
+      "id": 30
+    },
+    {
+      "name": "олио",
+      "qty": "3 с.л.",
+      "id": 4
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "кимион",
+      "qty": "Parsing error",
+      "id": 42
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    }
+  ]
+}

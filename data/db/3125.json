@@ -1,0 +1,64 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Сироп от арония с лимони",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/sok-ot-aroniia-s-limoni-1-[3125].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/sok-ot-aroniia-s-limoni-1-[3125].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/sok-ot-aroniia-s-limoni-1-[3125].jpg"
+    ],
+    "datePublished": "2016-12-07",
+    "cookTime": "PT0H0M",
+    "recipeYield": "12 servings",
+    "recipeCategory": "Напитки",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "893 calories",
+      "carbohydrateContent": "229 g",
+      "fatContent": "0 g",
+      "proteinContent": "1 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.37 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "2 кг арония",
+      "1 кг лимони",
+      "2 1/2 кг захар",
+      "лимонтузу"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Аронията (2 кг) и лимоните (1 кг) се пасират в блендер. Прецеждат се през тензух и сокът се смесва със захарта (2 1/2 кг). На литър сок се слага по 1 гр лимонтузу."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Съхранява се без стерилизация."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "арония",
+      "qty": "2 кг",
+      "id": 254
+    },
+    {
+      "name": "лимони",
+      "qty": "1 кг",
+      "id": 27
+    },
+    {
+      "name": "захар",
+      "qty": "2 1/2 кг",
+      "id": 9
+    },
+    {
+      "name": "лимонтузу",
+      "qty": "Parsing error",
+      "id": 232
+    }
+  ]
+}

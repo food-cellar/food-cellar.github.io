@@ -1,0 +1,80 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Диетични мариновани шишчета от пилешки гърди",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/dietichni-marinovani-shishcheta-ot-pileshki-gurdi-1-[2878].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/dietichni-marinovani-shishcheta-ot-pileshki-gurdi-1-[2878].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/dietichni-marinovani-shishcheta-ot-pileshki-gurdi-1-[2878].jpg"
+    ],
+    "datePublished": "2014-03-10",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "225 calories",
+      "carbohydrateContent": "7 g",
+      "fatContent": "2 g",
+      "proteinContent": "35 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.598105 g",
+      "cholesterolContent": "87 mg"
+    },
+    "recipeIngredient": [
+      "600 г пилешки гърди",
+      "3 с.л. мед",
+      "1 с.л. горчица",
+      "150 мл. бяло вино",
+      "1 ч.л. черен пипер",
+      "1 глава лук"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилешките гърди (600 г) се нарязват на хапки и се мариноват за половин час в хладилник в смес от разбитите мед (3 с.л.), горчица (1 с.л.), бяло вино (150 мл.) и черен пипер (1 ч.л.). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "След това се изваждат от хладилника и се набучват на шишове, като между месото се поставят парчета лук (1 глава). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Пекат се в силна фурна до готовност и се сервират топли."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешки гърди",
+      "qty": "600 г",
+      "id": 79
+    },
+    {
+      "name": "мед",
+      "qty": "3 с.л.",
+      "id": 38
+    },
+    {
+      "name": "горчица",
+      "qty": "1 с.л.",
+      "id": 64
+    },
+    {
+      "name": "бяло вино",
+      "qty": "150 мл.",
+      "id": 41
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    }
+  ]
+}

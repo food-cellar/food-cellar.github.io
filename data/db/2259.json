@@ -1,0 +1,70 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Хляб по стара рецепта в машината за хляб",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/hliab-po-stara-recepta-za-hlebopekarna-1-[2259].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/hliab-po-stara-recepta-za-hlebopekarna-1-[2259].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/hliab-po-stara-recepta-za-hlebopekarna-1-[2259].jpg"
+    ],
+    "datePublished": "2013-01-25",
+    "cookTime": "PT3H30M",
+    "recipeYield": "12 servings",
+    "recipeCategory": "Хлебни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "211 calories",
+      "carbohydrateContent": "44 g",
+      "fatContent": "0 g",
+      "proteinContent": "6 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.27373333333333 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "650 г пшенично брашно",
+      "50 г ръжено брашно",
+      "450 мл. вода",
+      "3/4 ч.л. суха мая",
+      "2 ч.л. сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "В тавичката на хлебопекарна се слагат водата (450 мл.), после пшеничното (650 г) и ръженото брашно (50 г) и накрая се добавят солта (2 ч.л.) и сухата мая (3/4 ч.л.). Хлебопекарната се включва в режим за пълнозърнест хляб."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "От тези продукти се получава 1 килограм леко тъмен хляб, който благодарение на ръжта има характерен вкус и може да се съхранява по-дълго време. Този хляб има страшно вкусна коричка!"
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пшенично брашно",
+      "qty": "650 г",
+      "id": 7
+    },
+    {
+      "name": "ръжено брашно",
+      "qty": "50 г",
+      "id": 217
+    },
+    {
+      "name": "вода",
+      "qty": "450 мл.",
+      "id": 11
+    },
+    {
+      "name": "суха мая",
+      "qty": "3/4 ч.л.",
+      "id": 52
+    },
+    {
+      "name": "сол",
+      "qty": "2 ч.л.",
+      "id": 1
+    }
+  ]
+}

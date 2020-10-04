@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Рибни ролца в пуешко филе",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/ribni-rolca-v-pueshko-file-2-[1550].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/ribni-rolca-v-pueshko-file-2-[1550].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/ribni-rolca-v-pueshko-file-2-[1550].jpg"
+    ],
+    "datePublished": "2011-07-17",
+    "cookTime": "PT0H30M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "571 calories",
+      "carbohydrateContent": "6 g",
+      "fatContent": "34 g",
+      "proteinContent": "56 g",
+      "saturatedFatContent": "8 g",
+      "unsaturatedFatContent": "20.7625 g",
+      "cholesterolContent": "193 mg"
+    },
+    "recipeIngredient": [
+      "400 г бяла риба",
+      "200 г пуешко филе",
+      "черен пипер",
+      "сол",
+      "1 с.л. зехтин",
+      "300 г чери домати"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Почистените рибни филета (400 г) се подправят със сол и черен пипер и се увиват в пуешкото филе (200 г), така че да се получат ролца. Ако е необходимо, се фиксират с клечки за зъби. Ролцата се поставят в намаслена тавичка и се пекат при темпераура 180 градуса до готовност (около 30 минути). Поднасят се топли с гарнитура от печени чери домати (300 г)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "бяла риба",
+      "qty": "400 г",
+      "id": 102
+    },
+    {
+      "name": "пуешко филе",
+      "qty": "200 г",
+      "id": 76
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "зехтин",
+      "qty": "1 с.л.",
+      "id": 10
+    },
+    {
+      "name": "чери домати",
+      "qty": "300 г",
+      "id": 15
+    }
+  ]
+}

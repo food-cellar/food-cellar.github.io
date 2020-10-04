@@ -1,0 +1,106 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Сьомга със спанак и лук в кори от бутер тесто",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/sioomga-sus-spanak-i-luk-v-buter-kori-1-[3040].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/sioomga-sus-spanak-i-luk-v-buter-kori-1-[3040].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/sioomga-sus-spanak-i-luk-v-buter-kori-1-[3040].jpg"
+    ],
+    "datePublished": "2015-01-12",
+    "cookTime": "PT0H40M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "782 calories",
+      "carbohydrateContent": "44 g",
+      "fatContent": "44 g",
+      "proteinContent": "49 g",
+      "saturatedFatContent": "11 g",
+      "unsaturatedFatContent": "29.3753975 g",
+      "cholesterolContent": "166 mg"
+    },
+    "recipeIngredient": [
+      "800 г филе от сьомга",
+      "200 г спанак",
+      "350 г бутер тесто",
+      "1 глава лук",
+      "4 скилидки чесън",
+      "1 с.л. масло",
+      "1 щип. черен пипер",
+      "1 щип. сол",
+      "1  жълтък"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Лукът (1 глава) и чесънът (4 скилидки) се накълцват на ситно и се задушават до омекване в маслото (1 с.л.). Накрая към тях се прибавя суровият спанак (200 г) и се разбърква няколко пъти, докато смени цвета си."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Получената плънка се овкусява със сол и черен пипер. Сьомгата също се овкусява със сол и черен пипер."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Сьомгата (800 г) се поставя върху разстланото бутер тесто (350 г) и върху нея се разпределя равномерно плънката. Тестото се затваря, за да обвие рибата и плънката от всички страни. Ястието се поставя в тавичка с незалепващо покритие. Ако остане тесто, то се нарязва на ивици и с него се украсява ястието отгоре."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Намазва се с разбити жълтъци (1 бр) и се пече в предварително загрята до 180 градуса фурна."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Разрязва се след като леко се охлади."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "филе от сьомга",
+      "qty": "800 г",
+      "id": 114
+    },
+    {
+      "name": "спанак",
+      "qty": "200 г",
+      "id": 40
+    },
+    {
+      "name": "бутер тесто",
+      "qty": "350 г",
+      "id": 117
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "масло",
+      "qty": "1 с.л.",
+      "id": 8
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 щип.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "1 щип.",
+      "id": 1
+    },
+    {
+      "name": "жълтък",
+      "qty": "1",
+      "id": 33
+    }
+  ]
+}

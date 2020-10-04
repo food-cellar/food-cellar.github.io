@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Вкусна супа от печени чушки",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/vkusna-supa-ot-piperki-2-[1023].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/vkusna-supa-ot-piperki-2-[1023].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/vkusna-supa-ot-piperki-2-[1023].jpg"
+    ],
+    "datePublished": "2011-02-07",
+    "cookTime": "PT0H20M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "144 calories",
+      "carbohydrateContent": "9 g",
+      "fatContent": "10 g",
+      "proteinContent": "4 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "5.28025 g",
+      "cholesterolContent": "22 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг печени чушки",
+      "100 г сирене",
+      "3 с.л. олио",
+      "магданоз",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Печените червени чушки (1/2 кг) се пасират с помощта на блендер. Към тях се прибавят 500 мл вода и олиото (3 с.л.). Слагат се да заврят, поръсват се със ситно нарязан магданоз и с млян черен пипер. Поднася се, като към всяка порция се прибавя настъргано на едрото ренде сирене (100 г)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "печени чушки",
+      "qty": "1/2 кг",
+      "id": 18
+    },
+    {
+      "name": "сирене",
+      "qty": "100 г",
+      "id": 32
+    },
+    {
+      "name": "олио",
+      "qty": "3 с.л.",
+      "id": 4
+    },
+    {
+      "name": "магданоз",
+      "qty": "Parsing error",
+      "id": 12
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

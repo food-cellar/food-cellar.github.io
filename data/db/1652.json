@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Канадски коктейл (Canadian)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kanadski-kokteil--1-[1652].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kanadski-kokteil--1-[1652].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kanadski-kokteil--1-[1652].jpg"
+    ],
+    "datePublished": "2013-02-06",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Коктейли",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "173 calories",
+      "carbohydrateContent": "0 g",
+      "fatContent": "0 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "75 мл. уиски",
+      "25 мл. коантро",
+      "3 капки битер",
+      "листа мента",
+      "лед"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "В шейкър се смесват уискито (75 мл.), коантрото (25 мл.) и битера (3 капки) и се разбъркват добре с лед. Във висока чаша се поставят кубчета лед и се излива съдържанието на шейкъра. Коктейлът се украсява с мента."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "уиски",
+      "qty": "75 мл.",
+      "id": 206
+    },
+    {
+      "name": "коантро",
+      "qty": "25 мл.",
+      "id": 27
+    },
+    {
+      "name": "битер",
+      "qty": "3 капки",
+      "id": 27
+    },
+    {
+      "name": "мента",
+      "qty": "листа",
+      "id": 90
+    },
+    {
+      "name": "лед",
+      "qty": "Parsing error",
+      "id": 11
+    }
+  ]
+}

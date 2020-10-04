@@ -1,0 +1,80 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Рулца от печени патладжани пълнени със сирене и домати",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/rulca-ot-pecheni-patladjani-sus-sirene-i-domati-1-[2947].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/rulca-ot-pecheni-patladjani-sus-sirene-i-domati-1-[2947].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/rulca-ot-pecheni-patladjani-sus-sirene-i-domati-1-[2947].jpg"
+    ],
+    "datePublished": "2014-07-11",
+    "cookTime": "PT1H0M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "162 calories",
+      "carbohydrateContent": "12 g",
+      "fatContent": "11 g",
+      "proteinContent": "4 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "7.2725016666667 g",
+      "cholesterolContent": "15 mg"
+    },
+    "recipeIngredient": [
+      "2  патладжана",
+      "100 г сирене",
+      "1  домат",
+      "50 мл. олио",
+      "черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Патладжаните (2 бр) се нарязват на тънки филийки, посоляват се и се оставят за половин час да престоят, докато пуснат горчивия си сок. След това се измиват и подсушават. Поливат се с олио и се подреждат в тава Покриват се с фолио и се пекат до пълна готовност. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Всяка филийка патладжан се завива на руло, като в рулцата се поставят парченца пресен домат и сирене. Рулцата се поръсват с малко черен пипер и сол и се сервират охладени."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "По желание могат да се полеят с готов сладко-кисел сос или с разбити мед и лимонов сок в равни количества."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "патладжана",
+      "qty": "2",
+      "id": 71
+    },
+    {
+      "name": "сирене",
+      "qty": "100 г",
+      "id": 32
+    },
+    {
+      "name": "домат",
+      "qty": "1",
+      "id": 15
+    },
+    {
+      "name": "олио",
+      "qty": "50 мл.",
+      "id": 4
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

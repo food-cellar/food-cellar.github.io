@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Бързи и лесни соленки със сирене крема и сусам (без масло, с маргарин)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/lesni-solenki-1-[1131].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/lesni-solenki-1-[1131].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/lesni-solenki-1-[1131].jpg"
+    ],
+    "datePublished": "2011-03-13",
+    "cookTime": "PT0H30M",
+    "recipeYield": "25 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "125 calories",
+      "carbohydrateContent": "11 g",
+      "fatContent": "8 g",
+      "proteinContent": "2 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "4.3305764 g",
+      "cholesterolContent": "9 mg"
+    },
+    "recipeIngredient": [
+      "1 опак. сирене Крема",
+      "350 г брашно",
+      "250 г маргарин",
+      "1 ч.л. сол",
+      "1 щип. захар",
+      "2 с.л. сусам"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Маргаринът (250 г) се разбива със сиренето (1 опак.). Прибавят се солта (1 ч.л.), захарта (1 щип.) и брашното (350 г). От продуктите се омесва меко тесто, от което се изрязват формички. Соленките се поръсват със сусам (2 с.л.) и се изпичат в намаслена и наръсена с брашно тавичка до златисто. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "сирене Крема",
+      "qty": "1 опак.",
+      "id": 103
+    },
+    {
+      "name": "брашно",
+      "qty": "350 г",
+      "id": 7
+    },
+    {
+      "name": "маргарин",
+      "qty": "250 г",
+      "id": 202
+    },
+    {
+      "name": "сол",
+      "qty": "1 ч.л.",
+      "id": 1
+    },
+    {
+      "name": "захар",
+      "qty": "1 щип.",
+      "id": 9
+    },
+    {
+      "name": "сусам",
+      "qty": "2 с.л.",
+      "id": 113
+    }
+  ]
+}

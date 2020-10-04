@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Круши в бяло вино и червено цвекло",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/krushi-vuv-vino-2-[375].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/krushi-vuv-vino-2-[375].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/krushi-vuv-vino-2-[375].jpg"
+    ],
+    "datePublished": "2011-01-01",
+    "cookTime": "PT1H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "365 calories",
+      "carbohydrateContent": "73 g",
+      "fatContent": "1 g",
+      "proteinContent": "1 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.281855 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "2 ч.ч. бяло вино",
+      "1 глава червено цвекло",
+      "10 с.л. захар",
+      "2 ч.л. лимонов сок",
+      "1 пръчица канела",
+      "2  дафинови листа",
+      "1 кг круши"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "В една тенджера се кипват виното (2 ч.ч.) със захарта (10 с.л.), червеното цвекло (1 глава), лимоновия сок (2 ч.л.), канелата (1 пръчица), дафиновите листа (2 бр). Разбърква се, докато захарта се разтопи. Добавят се крушите (1 кг), обелени и почистени от семенцата, разрязани по дължина на половинки, и тенжерата се захлупва. Огънят се намалява. Внимателно се разбърква и се чака крушите да омекнат, а течността да се превърне в сироп за 35-40 минути. Крушите се изваждат и слагат в чиния. Канелената пръчица и дафиновите листа се отстраняват от сиропа и с него се заливат крушите. Оставят се да изстинат в сиропа половин час."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "бяло вино",
+      "qty": "2 ч.ч.",
+      "id": 41
+    },
+    {
+      "name": "червено цвекло",
+      "qty": "1 глава",
+      "id": 131
+    },
+    {
+      "name": "захар",
+      "qty": "10 с.л.",
+      "id": 9
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "2 ч.л.",
+      "id": 17
+    },
+    {
+      "name": "канела",
+      "qty": "1 пръчица",
+      "id": 46
+    },
+    {
+      "name": "дафинови листа",
+      "qty": "2",
+      "id": 70
+    },
+    {
+      "name": "круши",
+      "qty": "1 кг",
+      "id": 164
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печен ориз с маслини, гъби и лук на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/2594-gubi-s-oriz-na-furna-2-[1919].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/2594-gubi-s-oriz-na-furna-2-[1919].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/2594-gubi-s-oriz-na-furna-2-[1919].jpg"
+    ],
+    "datePublished": "2013-06-15",
+    "cookTime": "PT0H45M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "267 calories",
+      "carbohydrateContent": "42 g",
+      "fatContent": "8 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "5.9892875 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1 ч.ч. ориз",
+      "250 г гъби",
+      "10  маслини",
+      "1 глава лук",
+      "4 с.л. олио",
+      "1 щип. черен пипер",
+      "сол",
+      "3 ч.ч. вода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Лукът (1 глава) се нарязва на ситни кубчета и се задушава в олиото (4 с.л.) до омекване. Щом омекне, към него се добавят нарязаните на ситно гъби (250 г) и обезкостените и нарязани на кръгчета маслини (10 бр). Задушаването продължава до тяхното омекване. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Накрая се добавя оризът (1 ч.ч.) и всичко се запържва, докато оризът стане прозрачен. След това се добавят подправките и всичко се изсипва в тавичка. Залива се с водата (3 ч.ч.) и се пече на фурна до пълното поемане на течността от ориза. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Оризът с маслини и гъби на фурна е чудесен, поднесен горещ, но и охладен е много апетитен."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "ориз",
+      "qty": "1 ч.ч.",
+      "id": 22
+    },
+    {
+      "name": "гъби",
+      "qty": "250 г",
+      "id": 37
+    },
+    {
+      "name": "маслини",
+      "qty": "10",
+      "id": 50
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "олио",
+      "qty": "4 с.л.",
+      "id": 4
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 щип.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "вода",
+      "qty": "3 ч.ч.",
+      "id": 11
+    }
+  ]
+}

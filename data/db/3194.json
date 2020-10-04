@@ -1,0 +1,102 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Баница с яйца, сирене и мая - класическа рецепта без кисело мляко",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/banica-s-iaica-i-sirene-klasicheska-recepta-2-[3194].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/banica-s-iaica-i-sirene-klasicheska-recepta-2-[3194].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/banica-s-iaica-i-sirene-klasicheska-recepta-2-[3194].jpg"
+    ],
+    "datePublished": "2017-04-11",
+    "cookTime": "PT1H30M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Хлебни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "559 calories",
+      "carbohydrateContent": "62 g",
+      "fatContent": "24 g",
+      "proteinContent": "20 g",
+      "saturatedFatContent": "8 g",
+      "unsaturatedFatContent": "13.540365 g",
+      "cholesterolContent": "179 mg"
+    },
+    "recipeIngredient": [
+      "600 г брашно",
+      "1 ч.л. сол",
+      "100 мл. вода",
+      "40 г мая",
+      "1 щип. сода",
+      "300 мл. прясно мляко",
+      "300 г сирене",
+      "6  яйца",
+      "100 мл. олио"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Брашното (600 г) се пресява два пъти, заедно със солта (1 ч.л.) и содата (1 щип.). В центъра му него се оформя кладенче, в което постепенно се изсипва живата мая (40 г), разтворена в малко вода (100 мл.). След това бавно и на малки порции се добавя прясно мляко (300 мл.) и се омесва гладко тесто. Необходимо е да се омеси много добре, около 10 минути, докато в него се образуват мехури."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Тестото се накъсва на четири топчета, които се разтеглят с точилката до образуването на кори и се намазват с олио. Оставят се за 10-15 минути да починат и след това се теглят върху покривка, докато станат съвсем тънки."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Поръсват се с малко олио и разбитите яйца (6 бр) и натрошено сирене (300 г). Корите се навиват на рула и се подреждат в намаслена тава."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Класическата баница с яйца и сирене се пече 1 час във фурната, като първите 20 минути се пече при температура 250 градуса, а след това на 200 градуса."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "брашно",
+      "qty": "600 г",
+      "id": 7
+    },
+    {
+      "name": "сол",
+      "qty": "1 ч.л.",
+      "id": 1
+    },
+    {
+      "name": "вода",
+      "qty": "100 мл.",
+      "id": 11
+    },
+    {
+      "name": "мая",
+      "qty": "40 г",
+      "id": 52
+    },
+    {
+      "name": "сода",
+      "qty": "1 щип.",
+      "id": 56
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "300 мл.",
+      "id": 14
+    },
+    {
+      "name": "сирене",
+      "qty": "300 г",
+      "id": 32
+    },
+    {
+      "name": "яйца",
+      "qty": "6",
+      "id": 5
+    },
+    {
+      "name": "олио",
+      "qty": "100 мл.",
+      "id": 4
+    }
+  ]
+}

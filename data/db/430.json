@@ -1,0 +1,126 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пържена риба карагьоз с пролетна салата",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/purjen-karagiooz-s-proletna-salata-2-[430].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/purjen-karagiooz-s-proletna-salata-2-[430].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/purjen-karagiooz-s-proletna-salata-2-[430].jpg"
+    ],
+    "datePublished": "2010-11-13",
+    "cookTime": "PT0H20M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "762 calories",
+      "carbohydrateContent": "29 g",
+      "fatContent": "48 g",
+      "proteinContent": "48 g",
+      "saturatedFatContent": "9 g",
+      "unsaturatedFatContent": "33.387635 g",
+      "cholesterolContent": "281 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг карагьоз",
+      "50 г царевично нишесте",
+      "дивесил",
+      "1  белтък",
+      "2 с.л. олио",
+      "6 листа червена маруля",
+      "10 листа рукола",
+      "2  ягоди",
+      "2  репички",
+      "1  яйце",
+      "сол",
+      "1 с.л. зехтин",
+      "2 с.л. лимонов сок",
+      "1 ч.л. мед",
+      "1 с.л. сусам"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Рибките (1/2 кг) се топят в разбит белтък (1 бр) със сол и сушен дивесил, а след това в царевично нишесте (50 г) и се пържат в горещото олио до пълна готовност. Изваждат се от него с решетъчна лъжица. Червената салата (6 листа) и руколата (10 листа) се накъсват на едро, репичките (2 бр) се нарязват на тънки шайби, а ягодите (2 бр) на тънки резени. Твърдо свареното яйце (1 бр) се нарязва на парченца. Солта, зехтинът, лимоновият сок и медът (1 ч.л.) се разбиват до еднородна смес. С получения дресинг се овкусява салатата. С нея се поднасят пържените рибки."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "карагьоз",
+      "qty": "1/2 кг",
+      "id": 375
+    },
+    {
+      "name": "царевично нишесте",
+      "qty": "50 г",
+      "id": 96
+    },
+    {
+      "name": "дивесил",
+      "qty": "Parsing error",
+      "id": 167
+    },
+    {
+      "name": "белтък",
+      "qty": "1",
+      "id": 157
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    },
+    {
+      "name": "червена маруля",
+      "qty": "6 листа",
+      "id": 176
+    },
+    {
+      "name": "рукола",
+      "qty": "10 листа",
+      "id": 155
+    },
+    {
+      "name": "ягоди",
+      "qty": "2",
+      "id": 109
+    },
+    {
+      "name": "репички",
+      "qty": "2",
+      "id": 218
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "зехтин",
+      "qty": "1 с.л.",
+      "id": 10
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "2 с.л.",
+      "id": 17
+    },
+    {
+      "name": "мед",
+      "qty": "1 ч.л.",
+      "id": 38
+    },
+    {
+      "name": "сусам",
+      "qty": "1 с.л.",
+      "id": 113
+    }
+  ]
+}

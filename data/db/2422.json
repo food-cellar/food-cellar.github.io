@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Крокети от тиквички печени на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kroketi-ot-tikvichki-1-[2422].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kroketi-ot-tikvichki-1-[2422].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kroketi-ot-tikvichki-1-[2422].jpg"
+    ],
+    "datePublished": "2013-04-15",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "292 calories",
+      "carbohydrateContent": "50 g",
+      "fatContent": "5 g",
+      "proteinContent": "11 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "1.7223625 g",
+      "cholesterolContent": "55 mg"
+    },
+    "recipeIngredient": [
+      "1 кг тиквички",
+      "1  чесън",
+      "1/2 ч.ч. брашно",
+      "1/2 ч.ч. галета",
+      "1  яйце",
+      "1 с.л. масло",
+      "1 ч.л. сол",
+      "1 с.л. магданоз"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Тиквичките (1 кг) се нарязват на едри кубчета и се сваряват. Отцеждат се много добре от водата и се намачкват в тенджерата. Към тях се добавят яйцето (1 бр), брашното (1/2 ч.ч.) и галетата (1/2 ч.ч.). Овкусява се със сол (1 ч.л.) и намачкан чесън (1 бр). Добавя се и малко масло (1 с.л.)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Получената смес трябва да е с консистенцията на рядко тесто. Ако е прекалено рядко - добява се допълнително брашно. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Подготвя се тавичка с незалепващо дъно или обикновена тава се покрива с хартия за печене. С помощта на лъжица се оформят кръгчета, които се редят в тавата на разстояние едно от друго. Пекат се в загрята на 220 градуса фурна за по 5 минути от всяка страна. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Крокетите се сервират с подлучено кисело мляко, поръсени с пресен магданоз."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "тиквички",
+      "qty": "1 кг",
+      "id": 39
+    },
+    {
+      "name": "чесън",
+      "qty": "1",
+      "id": 6
+    },
+    {
+      "name": "брашно",
+      "qty": "1/2 ч.ч.",
+      "id": 7
+    },
+    {
+      "name": "галета",
+      "qty": "1/2 ч.ч.",
+      "id": 58
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    },
+    {
+      "name": "масло",
+      "qty": "1 с.л.",
+      "id": 8
+    },
+    {
+      "name": "сол",
+      "qty": "1 ч.л.",
+      "id": 1
+    },
+    {
+      "name": "магданоз",
+      "qty": "1 с.л.",
+      "id": 12
+    }
+  ]
+}

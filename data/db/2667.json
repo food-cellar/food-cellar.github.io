@@ -1,0 +1,116 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Крехко задушено телешко месо от шол с прясно зеле в тенджера под капак",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/krehko-teleshko-s-priasno-zele-v-tendjera-2-[2667].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/krehko-teleshko-s-priasno-zele-v-tendjera-2-[2667].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/krehko-teleshko-s-priasno-zele-v-tendjera-2-[2667].jpg"
+    ],
+    "datePublished": "2013-11-26",
+    "cookTime": "PT1H30M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "126 calories",
+      "carbohydrateContent": "11 g",
+      "fatContent": "2 g",
+      "proteinContent": "15 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.41450375 g",
+      "cholesterolContent": "49 mg"
+    },
+    "recipeIngredient": [
+      "1  зелка",
+      "1/2 кг телешки шол",
+      "2 глави лук",
+      "1  морков",
+      "2  домата",
+      "2 ч.л. червен пипер",
+      "1 ч.л. черен пипер",
+      "2  дафинов лист",
+      "4 зърна бахар",
+      "сол",
+      "4  олио",
+      "1 ч.ч. вода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Зелето (1 бр) се нарязва на тънки ивици и се претрива със сол, като се внимава да не се пресоли. Лукът (2 глави) се нарязва на ситни кубчета, а морковът (1 бр) се настъргва на едрото ренде. Задушават се под капак до омекване, заедно с нарязаният на дребни хапки телешки шол (1/2 кг)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Щом се задушат, се добавя червеният пипер (2 ч.л.), разбърква се и се прибавя нарязаното и претрито със сол зеле. Добавя се гореща вода (1 ч.ч.) и ястието се оставя да къкри на тих огън до пълното омекване на зелето."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Накрая, когато зелето е омекнало и месото е готово, се добавят останалите подправки и настърганите домати (2 бр). Ястието се оставя да покъкри се още десетина минути, след което се отстранява от котлона."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "зелка",
+      "qty": "1",
+      "id": 94
+    },
+    {
+      "name": "телешки шол",
+      "qty": "1/2 кг",
+      "id": 110
+    },
+    {
+      "name": "лук",
+      "qty": "2 глави",
+      "id": 3
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "домата",
+      "qty": "2",
+      "id": 15
+    },
+    {
+      "name": "червен пипер",
+      "qty": "2 ч.л.",
+      "id": 20
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "дафинов лист",
+      "qty": "2",
+      "id": 70
+    },
+    {
+      "name": "бахар",
+      "qty": "4 зърна",
+      "id": 158
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "олио",
+      "qty": "4",
+      "id": 4
+    },
+    {
+      "name": "вода",
+      "qty": "1 ч.ч.",
+      "id": 11
+    }
+  ]
+}

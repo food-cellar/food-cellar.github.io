@@ -1,0 +1,104 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Икономична яхния от леща с чесън и чубрица",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/ikonomichna-iahniia-ot-leshta-s-chesun-i-chubrica-1-[2935].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/ikonomichna-iahniia-ot-leshta-s-chesun-i-chubrica-1-[2935].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/ikonomichna-iahniia-ot-leshta-s-chesun-i-chubrica-1-[2935].jpg"
+    ],
+    "datePublished": "2014-05-30",
+    "cookTime": "PT1H20M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "168 calories",
+      "carbohydrateContent": "22 g",
+      "fatContent": "4 g",
+      "proteinContent": "9 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "4.0127966666667 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1 ч.ч. леща",
+      "6 ч.ч. вода",
+      "1 глава лук",
+      "4 скилидки чесън",
+      "1  дафинов лист",
+      "1 с.л. чубрица",
+      "1 ч.л. червен пипер",
+      "1 ч.л. черен пипер",
+      "1 ч.л. сол",
+      "4 с.л. олио"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Лещата (1 ч.ч.) се измива и се залива с водата (6 ч.ч.) в дълбока тенджера. Поставя се да заври, заедно със ситно нарязаните лук (1 глава) и чесън (4 скилидки)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Щом лещата се свари, към нея се добавят олиото (4 с.л.), а също и подправките - сол (1 ч.л.), червен пипер (1 ч.л.), чубрица (1 с.л.) и дафинов лист (1 бр).Готви се на тих огън няколко минути, като по желание на порции се добавя брашно (около лъжица или две според вкуса), за да се сгъсти."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Лещата се сервира гореща или студена, като по желание се поднася, поръсена със ситно нарязан магданоз."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "леща",
+      "qty": "1 ч.ч.",
+      "id": 106
+    },
+    {
+      "name": "вода",
+      "qty": "6 ч.ч.",
+      "id": 11
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "дафинов лист",
+      "qty": "1",
+      "id": 70
+    },
+    {
+      "name": "чубрица",
+      "qty": "1 с.л.",
+      "id": 36
+    },
+    {
+      "name": "червен пипер",
+      "qty": "1 ч.л.",
+      "id": 20
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "1 ч.л.",
+      "id": 1
+    },
+    {
+      "name": "олио",
+      "qty": "4 с.л.",
+      "id": 4
+    }
+  ]
+}

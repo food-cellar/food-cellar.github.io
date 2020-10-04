@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата от къдраво зеле с плодове и ядки",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-ot-kudravo-zele-s-plodove-i-iadki-2-[626].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-ot-kudravo-zele-s-plodove-i-iadki-2-[626].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-ot-kudravo-zele-s-plodove-i-iadki-2-[626].jpg"
+    ],
+    "datePublished": "2011-01-06",
+    "cookTime": "PT0H10M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "465 calories",
+      "carbohydrateContent": "35 g",
+      "fatContent": "34 g",
+      "proteinContent": "9 g",
+      "saturatedFatContent": "16 g",
+      "unsaturatedFatContent": "14.914165 g",
+      "cholesterolContent": "93 mg"
+    },
+    "recipeIngredient": [
+      "300 г къдраво зеле",
+      "2  портокал",
+      "12  сушени кайсии",
+      "50 г орехи",
+      "300 г кисело мляко",
+      "300 мл. сметана",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Къдравото зеле (300 г) се измива внимателно. Грубата му част се отстранява. Нарязва се в пасатора наситно. Обеленият от кората и бялата ципа портокал се нарязва на малки парченца. Кайсиите (12 бр), предварително накиснати във вода и отцедени, се нарязват на малки парченца. Орехите (50 г) се начукват. Киселото мляко (300 г), което за предпочитане е с масленост 0,1%, се смесва с нискомаслената готварска сметана (300 мл.). Посоляват се и се разбиват. Смесват се с всички останали продукти."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "къдраво зеле",
+      "qty": "300 г",
+      "id": 379
+    },
+    {
+      "name": "портокал",
+      "qty": "2",
+      "id": 122
+    },
+    {
+      "name": "сушени кайсии",
+      "qty": "12",
+      "id": 149
+    },
+    {
+      "name": "орехи",
+      "qty": "50 г",
+      "id": 31
+    },
+    {
+      "name": "кисело мляко",
+      "qty": "300 г",
+      "id": 21
+    },
+    {
+      "name": "сметана",
+      "qty": "300 мл.",
+      "id": 19
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

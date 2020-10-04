@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Крем супа от кестени",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/krem-supa-ot-kesteni-1-[1824].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/krem-supa-ot-kesteni-1-[1824].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/krem-supa-ot-kesteni-1-[1824].jpg"
+    ],
+    "datePublished": "2011-11-08",
+    "cookTime": "PT1H10M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "344 calories",
+      "carbohydrateContent": "62 g",
+      "fatContent": "7 g",
+      "proteinContent": "7 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "3.275015 g",
+      "cholesterolContent": "18 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг кестени",
+      "2 ч.ч. прясно мляко",
+      "2 ч.ч. вода",
+      "1 щип. листа от целина",
+      "1 щип. сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Кестените (1/2 кг) се цепват на 4 в горната си част и се сваряват в подсолена вода за един час. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Съвет: Най-добре е да използвате тенджера под налягане за по-бързо. Когато са добре сварени, черупката на кестените се разпуква и обелването им след това е лесно."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Сварените кестени се обелват, пасират и поставят в тенджера на котлона, заедно с вода (2 ч.ч.), сол и настъргани на ситно листа от целина (1 щип.). Като поврят няколко минути, се добавя прясното мляко (2 ч.ч.) и се пасира отново всичко, докато ври в тенджерата. След няколко минути супата се сваля от котлона и е готова за сервиране."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Крем супата от кестени се сервира с крутони. Ще се изненадате колко е вкусна."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "кестени",
+      "qty": "1/2 кг",
+      "id": 275
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "2 ч.ч.",
+      "id": 14
+    },
+    {
+      "name": "вода",
+      "qty": "2 ч.ч.",
+      "id": 11
+    },
+    {
+      "name": "листа от целина",
+      "qty": "1 щип.",
+      "id": 30
+    },
+    {
+      "name": "сол",
+      "qty": "1 щип.",
+      "id": 1
+    }
+  ]
+}

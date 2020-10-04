@@ -1,0 +1,54 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Сладко от дюли",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/sladko-ot-duli-2-[1889].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/sladko-ot-duli-2-[1889].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/sladko-ot-duli-2-[1889].jpg"
+    ],
+    "datePublished": "2011-12-20",
+    "cookTime": "PT3H0M",
+    "recipeYield": "40 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "111 calories",
+      "carbohydrateContent": "28 g",
+      "fatContent": "0 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.0125 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1 кг дюли",
+      "1 кг захар",
+      "1 л. вода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Водата (1 л.) и захарта (1 кг) се изсипват в дълбока тенджера и се поставят на котлона да заврат. През това време дюлите (1 кг) се измиват и настъргват. Добавят се към сиропа и се варят на тих огън, докато сместа се сгъсти. Сладкото се разпределя в бъркани, докато е още горещо. Бурканите се затварят и не е необходимо да се стерилизират. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "дюли",
+      "qty": "1 кг",
+      "id": 293
+    },
+    {
+      "name": "захар",
+      "qty": "1 кг",
+      "id": 9
+    },
+    {
+      "name": "вода",
+      "qty": "1 л.",
+      "id": 11
+    }
+  ]
+}

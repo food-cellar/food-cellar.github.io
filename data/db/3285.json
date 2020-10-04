@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Кус-кус с мариновани сушени домати",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kus-kus-s-marinovani-susheni-domati-1-[3285].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kus-kus-s-marinovani-susheni-domati-1-[3285].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kus-kus-s-marinovani-susheni-domati-1-[3285].jpg"
+    ],
+    "datePublished": "2018-03-24",
+    "cookTime": "PT0H20M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "866 calories",
+      "carbohydrateContent": "139 g",
+      "fatContent": "25 g",
+      "proteinContent": "26 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "20.089875 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "250 г кус-кус",
+      "150 г мариновани сушени домати",
+      "50 мл. зехтин",
+      "1 връзка босилек",
+      "черен пипер",
+      "хималайска сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Кус-кусът (250 г) се сварява и се отцежда. С водата от него се заливат маринованите сушени домати (150 г) и се оставят за няколко минути да омекнат. Нарязват се на ситно и се добавят към кускуса. Овкусява се със зехтин (50 мл.), сол, пипер и ситно накълцан пресен босилек (1 връзка)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "кус-кус",
+      "qty": "250 г",
+      "id": 160
+    },
+    {
+      "name": "мариновани сушени домати",
+      "qty": "150 г",
+      "id": 121
+    },
+    {
+      "name": "зехтин",
+      "qty": "50 мл.",
+      "id": 10
+    },
+    {
+      "name": "босилек",
+      "qty": "1 връзка",
+      "id": 25
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "хималайска сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

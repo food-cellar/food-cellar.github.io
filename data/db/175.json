@@ -1,0 +1,100 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Крем супа с карфиол, картофи, синьо сирене и прясно мляко",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/krem-supa-s-karfiol-i-sinioo-sirene-1-[175].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/krem-supa-s-karfiol-i-sinioo-sirene-1-[175].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/krem-supa-s-karfiol-i-sinioo-sirene-1-[175].jpg"
+    ],
+    "datePublished": "2010-11-21",
+    "cookTime": "PT0H25M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "230 calories",
+      "carbohydrateContent": "23 g",
+      "fatContent": "11 g",
+      "proteinContent": "10 g",
+      "saturatedFatContent": "5 g",
+      "unsaturatedFatContent": "4.70257 g",
+      "cholesterolContent": "27 mg"
+    },
+    "recipeIngredient": [
+      "1 средна глава карфиол",
+      "1  картоф",
+      "сол",
+      "черен пипер",
+      "2 скилидки чесън",
+      "индийско орехче",
+      "2 ч.ч. прясно мляко",
+      "50 г синьо сирене",
+      "2 с.л. зехтин",
+      "5 стръкчета копър"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Карфиолът (1 средна глава) се накъсва на розички и се бланшира във вряща подсолена вода за 3 минути. Отцежда се. Залива се с горещото прясно мляко (2 ч.ч.) и се пасира. Връща се на котлона. Прибавя се синьото сирене (50 г) и се оставя да поври, докато то се стопи. Посолява се и се овкусява с черния пипер, счукания чесън (2 скилидки) и индийското орехче. Най-накрая се прибавя зехтинът (2 с.л.). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Супата се поднася гореща, гарнирана със ситно нарязан копър (5 стръкчета). А за разкош можете да добавите и малко настърган пармезан."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "карфиол",
+      "qty": "1 средна глава",
+      "id": 91
+    },
+    {
+      "name": "картоф",
+      "qty": "1",
+      "id": 16
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "индийско орехче",
+      "qty": "Parsing error",
+      "id": 120
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "2 ч.ч.",
+      "id": 14
+    },
+    {
+      "name": "синьо сирене",
+      "qty": "50 г",
+      "id": 108
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "копър",
+      "qty": "5 стръкчета",
+      "id": 28
+    }
+  ]
+}

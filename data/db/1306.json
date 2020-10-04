@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата с червено цвекло, кълнове и риба тон",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-s-cherveno-cveklo-kulnove-i-riba-ton-2-[1306].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-s-cherveno-cveklo-kulnove-i-riba-ton-2-[1306].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-s-cherveno-cveklo-kulnove-i-riba-ton-2-[1306].jpg"
+    ],
+    "datePublished": "2011-01-30",
+    "cookTime": "PT0H20M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "143 calories",
+      "carbohydrateContent": "10 g",
+      "fatContent": "4 g",
+      "proteinContent": "15 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "2.6302925 g",
+      "cholesterolContent": "8 mg"
+    },
+    "recipeIngredient": [
+      "200 г червено цвекло",
+      "200 г моркови",
+      "185 г риба тон",
+      "2 с.л. слънчогледови кълнове",
+      "2 с.л. житни кълнове",
+      "2 с.л. соеви кълнове",
+      "2 с.л. лимонов сок",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Червеното цвекло (200 г) и морковите (200 г) се настъргват. Смесват се в купа заедно с кълновете и рибата тон от консерва (185 г). Не е необходимо да се добавя зехтин, ако рибата е консервирана в растително масло. Салатата се подправя с лимонов сок (2 с.л.) и сол и се сервира веднага."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "червено цвекло",
+      "qty": "200 г",
+      "id": 131
+    },
+    {
+      "name": "моркови",
+      "qty": "200 г",
+      "id": 13
+    },
+    {
+      "name": "риба тон",
+      "qty": "185 г",
+      "id": 127
+    },
+    {
+      "name": "слънчогледови кълнове",
+      "qty": "2 с.л.",
+      "id": 225
+    },
+    {
+      "name": "житни кълнове",
+      "qty": "2 с.л.",
+      "id": 225
+    },
+    {
+      "name": "соеви кълнове",
+      "qty": "2 с.л.",
+      "id": 225
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "2 с.л.",
+      "id": 17
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

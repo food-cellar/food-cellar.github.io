@@ -1,0 +1,74 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Авголемоно - гръцка пилешка супа с лимон, ориз и студена застройка от яйца",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/avgolemono-grucka-pileshka-supa-2-[37].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/avgolemono-grucka-pileshka-supa-2-[37].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/avgolemono-grucka-pileshka-supa-2-[37].jpg"
+    ],
+    "datePublished": "2011-05-11",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "687 calories",
+      "carbohydrateContent": "41 g",
+      "fatContent": "35 g",
+      "proteinContent": "47 g",
+      "saturatedFatContent": "10 g",
+      "unsaturatedFatContent": "21.4344475 g",
+      "cholesterolContent": "300 mg"
+    },
+    "recipeIngredient": [
+      "1  пиле",
+      "3  лимона",
+      "3  яйца",
+      "1 ч.ч. ориз",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилето (1 бр) се сварява в подсолена вода, изважда се от бульона. След като изстине, кожата му се отстранява и се обезкостява. Парченцата месо се връщат обратно в бульона, който се довежда до кипене. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Добавя се сокът от лимоните (3 бр) и оризът (1 ч.ч.). Супата се вари до готовност. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "В дълбока купа се разбиват яйцата (3 бр), докато станат на пяна. При постоянно разбъркване към тях се добавя на малки порцийки горещ бульон. Тази застройка се излива в супата пак при постоянно бъркане и ври още 5 минути на бавен огън."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пиле",
+      "qty": "1",
+      "id": 111
+    },
+    {
+      "name": "лимона",
+      "qty": "3",
+      "id": 43
+    },
+    {
+      "name": "яйца",
+      "qty": "3",
+      "id": 5
+    },
+    {
+      "name": "ориз",
+      "qty": "1 ч.ч.",
+      "id": 22
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

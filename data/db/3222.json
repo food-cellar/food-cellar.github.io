@@ -1,0 +1,98 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Протеинови бисквити с овесени ядки без захар, с извара, чиа, мед и канела",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/proteinovi-biskviti-s-oveseni-iadki-izvara-chia-med-i-kanela-2-[3222].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/proteinovi-biskviti-s-oveseni-iadki-izvara-chia-med-i-kanela-2-[3222].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/proteinovi-biskviti-s-oveseni-iadki-izvara-chia-med-i-kanela-2-[3222].jpg"
+    ],
+    "datePublished": "2017-09-21",
+    "cookTime": "PT0H40M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "117 calories",
+      "carbohydrateContent": "19 g",
+      "fatContent": "3 g",
+      "proteinContent": "10 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "1.9275725 g",
+      "cholesterolContent": "71 mg"
+    },
+    "recipeIngredient": [
+      "200 г овесени трици",
+      "250 г извара",
+      "1  яйце",
+      "2  белтъка",
+      "2 с.л. чиа",
+      "3 с.л. мед",
+      "1 ч.л. канела"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Семената от чиа (2 с.л.) се накисват във вода, докато набъбнат, след което се отцеждат."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Смесват се с яйцето (1 бр) и белтъка (2 бр) и се разбиват. Добавят се изварата (250 г), медът (3 с.л.) и канелата (200 г) и се разбъркват добре. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "По желание се добавя още сладко под формата на мед, захар или подсладител."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Накрая, постепенно се добавят овесените трици (200 г), като не спира да се бърка."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "От получената смес с оформят бисквити, които се пекат върху хартия за печене за около 15-20 минути на 190 градуса."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Забележка - рецептата е с ниско съдържание на мазнини. За да не стане с прекалено високо-въглехидратна, бисквитите са подсладени само с мед. По желание, може да добавите подсладител или захар на вкус."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "овесени трици",
+      "qty": "200 г",
+      "id": 211
+    },
+    {
+      "name": "извара",
+      "qty": "250 г",
+      "id": 92
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    },
+    {
+      "name": "белтъка",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "чиа",
+      "qty": "2 с.л.",
+      "id": 27
+    },
+    {
+      "name": "мед",
+      "qty": "3 с.л.",
+      "id": 38
+    },
+    {
+      "name": "канела",
+      "qty": "1 ч.л.",
+      "id": 46
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Зелена сала с булгур, сурови тиквички и нахут и дресинг от зехтин и балсамов оцет",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-s-bulgur-tikvichki-i-nahut-3-[2360].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-s-bulgur-tikvichki-i-nahut-3-[2360].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-s-bulgur-tikvichki-i-nahut-3-[2360].jpg"
+    ],
+    "datePublished": "2013-03-06",
+    "cookTime": "PT0H45M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "242 calories",
+      "carbohydrateContent": "39 g",
+      "fatContent": "5 g",
+      "proteinContent": "13 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "3.458695 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "2 връзка зелена салата",
+      "1/2 ч.ч. булгур",
+      "1/2 ч.ч. нахут",
+      "2  тиквички",
+      "1 с.л. балсамов оцет",
+      "2 с.л. зехтин",
+      "1  сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Нахутът (1/2 ч.ч.) и булгурът (1/2 ч.ч.) се сваряват и оставят да се изцедят. Зелената салата (2 връзка) се нарязва на едри парчета и се слага в голяма купа. Към нея се добавят нахутът и булгурът. Тиквичките (2 бр) се нарязват на дребно и се слагат към салатата. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Салатата се подправя с балсамов оцет (1 с.л.), зехтин (2 с.л.) и сол на вкус. Тя е хранителна и здравословна, богата е на фолиева киселина, витамин К и витамин А."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "зелена салата",
+      "qty": "2 връзка",
+      "id": 87
+    },
+    {
+      "name": "булгур",
+      "qty": "1/2 ч.ч.",
+      "id": 128
+    },
+    {
+      "name": "нахут",
+      "qty": "1/2 ч.ч.",
+      "id": 145
+    },
+    {
+      "name": "тиквички",
+      "qty": "2",
+      "id": 39
+    },
+    {
+      "name": "балсамов оцет",
+      "qty": "1 с.л.",
+      "id": 142
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "1",
+      "id": 1
+    }
+  ]
+}

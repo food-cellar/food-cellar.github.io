@@ -1,0 +1,60 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Коктейл Зелено Мартини (Green Martini)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kokteil-zeleno-martini--2-[1659].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kokteil-zeleno-martini--2-[1659].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kokteil-zeleno-martini--2-[1659].jpg"
+    ],
+    "datePublished": "2013-02-17",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Коктейли",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "140 calories",
+      "carbohydrateContent": "12 g",
+      "fatContent": "0 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.00825 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "30 мл. джин",
+      "15 мл. ликьор зелен пъпеш",
+      "2 с.л. натрошен лед",
+      "3  коктейлни череши"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "В шейкър с лед се разбиват джинът (30 мл.) и ликьорът от зелен пъпеш (15 мл.). Съдържанието се изсипва в чаша за мартини. Пълни се догоре с натрошен лед. Коктейлът се украсява с коктейлни череши в зелен цвят. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "джин",
+      "qty": "30 мл.",
+      "id": 192
+    },
+    {
+      "name": "ликьор зелен пъпеш",
+      "qty": "15 мл.",
+      "id": 305
+    },
+    {
+      "name": "натрошен лед",
+      "qty": "2 с.л.",
+      "id": 281
+    },
+    {
+      "name": "коктейлни череши",
+      "qty": "3",
+      "id": 126
+    }
+  ]
+}

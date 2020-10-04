@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Веган пастет / разядка с гуакамоле и кьопоолу от патладжан (пълнено авокадо)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/lodki-s-guakamole-i-kioopoolu-2-[749].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/lodki-s-guakamole-i-kioopoolu-2-[749].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/lodki-s-guakamole-i-kioopoolu-2-[749].jpg"
+    ],
+    "datePublished": "2010-12-13",
+    "cookTime": "PT0H10M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "737 calories",
+      "carbohydrateContent": "37 g",
+      "fatContent": "67 g",
+      "proteinContent": "7 g",
+      "saturatedFatContent": "9 g",
+      "unsaturatedFatContent": "52.29759 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1  авокадо",
+      "150 г патладжан",
+      "2 скилидки  чесън",
+      "1 суха  люта чушка",
+      "сол",
+      "черен пипер",
+      "40 мл. зехтин",
+      "2 с.л. лимонов сок",
+      "1  домат"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Авокадото (1 бр) се разрязва на две половинки по дължина. Костилката му се изважда и меката част се отстранява с лъжица така, че нищо да не остане по обвивката. Меката част се миксира с чесън (2 скилидки), сол, лимонов сок (2 с.л.) и зехтин (40 мл.). Същото се прави и с патладжана (150 г). В едната “обувчица” от авокадо се слага пюрето от този плод и се заглажда. Отгоре се декорира с парченца от от белен пресен домат (1 бр), на който са отстранени семките. Другата “обувчица” се напълва с пюрето от патладжана, което се заглажда отгоре и се декорира със стрита суха и люта чушка (1 суха)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "авокадо",
+      "qty": "1",
+      "id": 83
+    },
+    {
+      "name": "патладжан",
+      "qty": "150 г",
+      "id": 71
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "люта чушка",
+      "qty": "1 суха",
+      "id": 105
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "зехтин",
+      "qty": "40 мл.",
+      "id": 10
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "2 с.л.",
+      "id": 17
+    },
+    {
+      "name": "домат",
+      "qty": "1",
+      "id": 15
+    }
+  ]
+}

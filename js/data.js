@@ -2,67 +2,67 @@ const categories = [
     {
         name: 'apetizer',
         label: 'Предястия',
-        src: 'data/recipes/apetizer.json'
+        src: 'data/index/apetizer.json'
     },
     {
         name: 'bread',
         label: 'Хляб',
-        src: 'data/recipes/bread.json'
+        src: 'data/index/bread.json'
     },
     {
         name: 'cocktail',
         label: 'Коктейли',
-        src: 'data/recipes/cocktail.json'
+        src: 'data/index/cocktail.json'
     },
     {
         name: 'dessert',
         label: 'Десерти',
-        src: 'data/recipes/dessert.json'
+        src: 'data/index/dessert.json'
     },
     {
         name: 'drink',
         label: 'Напитки',
-        src: 'data/recipes/drink.json'
+        src: 'data/index/drink.json'
     },
     {
         name: 'main',
         label: 'Основно',
-        src: 'data/recipes/main.json'
+        src: 'data/index/main.json'
     },
     {
         name: 'other',
         label: 'Други',
-        src: 'data/recipes/other.json'
+        src: 'data/index/other.json'
     },
     {
         name: 'salad',
         label: 'Салати',
-        src: 'data/recipes/salad.json'
+        src: 'data/index/salad.json'
     },
     {
         name: 'sandwich',
         label: 'Сандвичи',
-        src: 'data/recipes/sandwich.json'
+        src: 'data/index/sandwich.json'
     },
     {
         name: 'sauce',
         label: 'Сосове',
-        src: 'data/recipes/sauce.json'
+        src: 'data/index/sauce.json'
     },
     {
         name: 'side',
         label: 'Гарнитури',
-        src: 'data/recipes/side.json'
+        src: 'data/index/side.json'
     },
     {
         name: 'soup',
         label: 'Супи',
-        src: 'data/recipes/soup.json'
+        src: 'data/index/soup.json'
     },
     {
         name: 'soup-other',
         label: 'Супи - други',
-        src: 'data/recipes/soup-other.json'
+        src: 'data/index/soup-other.json'
     },
 ];
 
@@ -77,6 +77,12 @@ export async function getData() {
                 getData: async () => {
                     if (content === null) {
                         content = await (await fetch(category.src)).json();
+                        for (let id in content) {
+                            content[id] = {
+                                id,
+                                ingredientIds: content[id]
+                            };
+                        }
                         
                         //** debug */
                         //content = Object.entries(content).reduce((p, [k, v]) => ({ k: v }), {});
@@ -98,4 +104,9 @@ export async function getData() {
     }
 
     return { recipeIndex, ingredientsIndex };
+}
+
+export async function getRecipe(id) {
+    const recipe = await (await fetch(`data/db/${id}.json`)).json();
+    return recipe;
 }

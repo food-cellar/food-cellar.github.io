@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Коктейлни хапки от пълнени краставици с пиле, домати и чушки",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pulneni-krastavici-6-[806].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pulneni-krastavici-6-[806].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pulneni-krastavici-6-[806].jpg"
+    ],
+    "datePublished": "2011-01-15",
+    "cookTime": "PT0H45M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "127 calories",
+      "carbohydrateContent": "7 g",
+      "fatContent": "4 g",
+      "proteinContent": "14 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "2.4556233333333 g",
+      "cholesterolContent": "43 mg"
+    },
+    "recipeIngredient": [
+      "2  краставици",
+      "400 г пилешко месо",
+      "2  домата",
+      "1  червена чушка",
+      "1 глава лук",
+      "сол",
+      "черен пипер",
+      "босилек",
+      "2 с.л. олио"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Краставиците (2 бр) се нарязват на парчета с дебелина 3 см, които се издълбават от едната страна така, че стените и дъното да бъдат не повече от 5 мм. Месото (400 г) се нарязва на малките парчета, доматите (2 бр) - също, лукът (1 глава) - на ситно, а чушката (1 бр) - на кубчета. Месото се слага в тиган с горещо олио (2 с.л.) и се пържи, докато смени цвета си. Прибавят се зеленчуците и подправките и всичко се задушава 5-6 минути под капак. С тази смес, след като се охлади, се напълват издълбаните парчета краставица и се поднасят в плато."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "краставици",
+      "qty": "2",
+      "id": 44
+    },
+    {
+      "name": "пилешко месо",
+      "qty": "400 г",
+      "id": 49
+    },
+    {
+      "name": "домата",
+      "qty": "2",
+      "id": 15
+    },
+    {
+      "name": "червена чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "босилек",
+      "qty": "Parsing error",
+      "id": 25
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Бяла риба мерлуза в сметанов сос",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/biala_riba_v_mlechen_sos_2-[117].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/biala_riba_v_mlechen_sos_2-[117].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/biala_riba_v_mlechen_sos_2-[117].jpg"
+    ],
+    "datePublished": "2010-10-21",
+    "cookTime": "PT0H30M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "649 calories",
+      "carbohydrateContent": "21 g",
+      "fatContent": "40 g",
+      "proteinContent": "48 g",
+      "saturatedFatContent": "15 g",
+      "unsaturatedFatContent": "20.90581 g",
+      "cholesterolContent": "283 mg"
+    },
+    "recipeIngredient": [
+      "400 г мерлуза",
+      "2 с.л. царевичен грис",
+      "2 с.л. галета",
+      "1  яйце",
+      "1 с.л. лимонов сок",
+      "черен пипер",
+      "сол",
+      "2 с.л. олио",
+      "1/2 ч.ч. сметана",
+      "1 ч.ч. бульон от риба",
+      "2 скилидки чесън",
+      "сол",
+      "дивесил"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Белтъкът на яйцето (1 бр) се разбива на пяна заедно с лимоновия сок (1 с.л.). В него се топи посоленото и подправено с черен пипер филе (400 г),след което се овалва в смесените галета (2 с.л.) и царевичен грис (2 с.л.). Пържи се в предварително загрятото олио. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Бульонът от риба (2 скилидки) се загрява на котлона. Щом заври, се добавя сметаната (1 ч.ч.). Поръсва се с дивесил. Щом се сгъсти, се добавя счуканият със сол чесън . "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Рибата се поднася топла, залята със соса."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "мерлуза",
+      "qty": "400 г",
+      "id": 102
+    },
+    {
+      "name": "царевичен грис",
+      "qty": "2 с.л.",
+      "id": 140
+    },
+    {
+      "name": "галета",
+      "qty": "2 с.л.",
+      "id": 58
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    },
+    {
+      "name": "сметана",
+      "qty": "1/2 ч.ч.",
+      "id": 19
+    },
+    {
+      "name": "бульон от риба",
+      "qty": "1 ч.ч.",
+      "id": 26
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "дивесил",
+      "qty": "Parsing error",
+      "id": 167
+    }
+  ]
+}

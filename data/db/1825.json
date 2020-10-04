@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печено пилешко филе с топено сирене, царевица, морков и чушка в тава на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pecheno-pileshko-file-s-topeno-sirene-1-[1825].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pecheno-pileshko-file-s-topeno-sirene-1-[1825].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pecheno-pileshko-file-s-topeno-sirene-1-[1825].jpg"
+    ],
+    "datePublished": "2011-11-28",
+    "cookTime": "PT0H45M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "337 calories",
+      "carbohydrateContent": "8 g",
+      "fatContent": "14 g",
+      "proteinContent": "38 g",
+      "saturatedFatContent": "5 g",
+      "unsaturatedFatContent": "6.8062525 g",
+      "cholesterolContent": "120 mg"
+    },
+    "recipeIngredient": [
+      "4  пилешки филета",
+      "200 г топено сирене",
+      "1  морков",
+      "4 с.л. царевица",
+      "1  червена чушка",
+      "2 с.л. олио",
+      "4 щип. червен пипер",
+      "4 щип. сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилешките филета (4 бр) се подправят от двете страни с червен пипер (4 щип.) и сол (4 щип.), и се поставят в намазана с олио тавичка. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Приготвя се зеленчуков микс от ситно нарязани зеленчуци - моркови (1 бр), царевица (4 с.л.), червена чушка (1 бр). Може да се използва и готов замразен микс. Нарязаните на ситно зеленчуци се запържват за кратко в нагорещен тиган и се разпределят върху филенцата в тавичката."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Отгоре върху ястието се нареждат парченца топено сирене (200 г), така че да покрият зеленчуците. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Пече се на 190 градуса за половин час."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешки филета",
+      "qty": "4",
+      "id": 49
+    },
+    {
+      "name": "топено сирене",
+      "qty": "200 г",
+      "id": 112
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "царевица",
+      "qty": "4 с.л.",
+      "id": 78
+    },
+    {
+      "name": "червена чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    },
+    {
+      "name": "червен пипер",
+      "qty": "4 щип.",
+      "id": 20
+    },
+    {
+      "name": "сол",
+      "qty": "4 щип.",
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Коктейл Ягодова Маргарита (Strawberry Margarita)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kokteil-iagodova-margarita--1-[1094].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kokteil-iagodova-margarita--1-[1094].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kokteil-iagodova-margarita--1-[1094].jpg"
+    ],
+    "datePublished": "2012-06-29",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Коктейли",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "248 calories",
+      "carbohydrateContent": "19 g",
+      "fatContent": "0 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.0955 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "25 мл. ягодов ликьор",
+      "50 мл. текила",
+      "25 мл. triple sec",
+      "25 мл. лимонов сок",
+      "50 г ягоди",
+      "5 г пудра захар",
+      "6 кубчета лед"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "В миксер се поставят ягодите (50 г), ликьорите, текилата (50 мл.), лимоновият сок (25 мл.) и ледът (6 кубчета). Разбиват се до получаване на гладка смес. Пудрата захар (5 г) се разстила в чиния или на кухненски плот. Ръбчетата на чашата се овлажняват с парче лимон и се притискат към чинията с пудра захар, така че тя да полепне. Накрая се сипва разбитият коктейл и се украсява с ягодка."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "ягодов ликьор",
+      "qty": "25 мл.",
+      "id": 172
+    },
+    {
+      "name": "текила",
+      "qty": "50 мл.",
+      "id": 283
+    },
+    {
+      "name": "triple sec",
+      "qty": "25 мл.",
+      "id": 27
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "25 мл.",
+      "id": 17
+    },
+    {
+      "name": "ягоди",
+      "qty": "50 г",
+      "id": 109
+    },
+    {
+      "name": "пудра захар",
+      "qty": "5 г",
+      "id": 34
+    },
+    {
+      "name": "лед",
+      "qty": "6 кубчета",
+      "id": 11
+    }
+  ]
+}

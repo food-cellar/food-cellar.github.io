@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Кренвиршки за закуска с готово бутер тесто",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/krenvirshki-s-buter-testo-2-[2624].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/krenvirshki-s-buter-testo-2-[2624].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/krenvirshki-s-buter-testo-2-[2624].jpg"
+    ],
+    "datePublished": "2013-07-19",
+    "cookTime": "PT0H30M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "404 calories",
+      "carbohydrateContent": "23 g",
+      "fatContent": "30 g",
+      "proteinContent": "8 g",
+      "saturatedFatContent": "9 g",
+      "unsaturatedFatContent": "19.6493775 g",
+      "cholesterolContent": "73 mg"
+    },
+    "recipeIngredient": [
+      "400 г бутер тесто",
+      "300 г кренвирши",
+      "2  жълтъка"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Кренвиршите се разрязват на две напречно и за всяко парче се отрязва подходящ размер правоъгълно готово и охладено бутер тесто. Кренвиршите се увиват в него, като се поставят в суха тавичка така, че ръбът на захлупване на тестото да бъде отдолу, за да не се отвори тестото при печене. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Върху всяка кренвиршка се правят разрези с остър нож, за да може при печенето кренвиршите да се изпекат добре. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "С помощта на готварска четчица всяка кренвиршка се намазва със смес от разбити с малко сол жълтъци и предястието се поставя в предварително загрята до 180 градуса фурна да се пече до готовност. Това отнема около 20 минути. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Кренвиршките с бутер тесто се сервират топли."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "бутер тесто",
+      "qty": "400 г",
+      "id": 117
+    },
+    {
+      "name": "кренвирши",
+      "qty": "300 г",
+      "id": 161
+    },
+    {
+      "name": "жълтъка",
+      "qty": "2",
+      "id": 33
+    }
+  ]
+}

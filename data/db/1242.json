@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Парти хапки от бутер тесто със синьо сирене, ементал и босилек",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/buter-hapki-sus-sirenca-3-[1242].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/buter-hapki-sus-sirenca-3-[1242].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/buter-hapki-sus-sirenca-3-[1242].jpg"
+    ],
+    "datePublished": "2011-03-13",
+    "cookTime": "PT0H30M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "398 calories",
+      "carbohydrateContent": "28 g",
+      "fatContent": "27 g",
+      "proteinContent": "8 g",
+      "saturatedFatContent": "8 g",
+      "unsaturatedFatContent": "17.24452 g",
+      "cholesterolContent": "34 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг бутер тесто",
+      "50 г синьо сирене",
+      "50 г сирене ементал",
+      "1 ч.л. босилек",
+      "1  яйце"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Правоъгълно парче бутер тесто (1/2 кг) се поръсва обилно с настъргано сирене ементал (50 г), натрошено синьо сирене (50 г) и сушен босилек (1 ч.л.). Навива се на руло и се реже на тънки филийки. Те се поставят в тавичка, намазват се с разбито яйце (1 бр) и се пекат в предварително загрята силна фурна до готовност."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "бутер тесто",
+      "qty": "1/2 кг",
+      "id": 117
+    },
+    {
+      "name": "синьо сирене",
+      "qty": "50 г",
+      "id": 108
+    },
+    {
+      "name": "сирене ементал",
+      "qty": "50 г",
+      "id": 179
+    },
+    {
+      "name": "босилек",
+      "qty": "1 ч.л.",
+      "id": 25
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    }
+  ]
+}

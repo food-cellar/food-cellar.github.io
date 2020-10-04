@@ -1,0 +1,98 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Свежа салата с домати, яйца и сос от целина",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/sveja-salata-s-domati-iaica-i-sos-ot-celina-2-[1823].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/sveja-salata-s-domati-iaica-i-sos-ot-celina-2-[1823].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/sveja-salata-s-domati-iaica-i-sos-ot-celina-2-[1823].jpg"
+    ],
+    "datePublished": "2012-01-23",
+    "cookTime": "PT0H25M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "189 calories",
+      "carbohydrateContent": "15 g",
+      "fatContent": "10 g",
+      "proteinContent": "12 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "5.967945 g",
+      "cholesterolContent": "187 mg"
+    },
+    "recipeIngredient": [
+      "2 връзки зелена салата",
+      "50 г рукола",
+      "4  домата",
+      "4  яйца",
+      "1 шепа листа от целина",
+      "4 с.л. майонеза",
+      "2 с.л. лимонов сок",
+      "1 щип. чесън на прах",
+      "1 щип. сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Зелената салата (2 връзки) се накъсва на едри парчета, разбърква се с руколата (50 г) и се разделя в порционни чинии. Отгоре се поставят доматите (4 бр), нарязани на кубчета."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Сваряват се яйцата (4 бр), нарязват на 4 парчета и се поставят отгоре."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Отделно се приготвя сос. Листата от целина (1 шепа), майонезата (4 с.л.), лимоновият сок (2 с.л.) и чесънът на прах (1 щип.) се разбиват в блендер. Сосът се посолява на вкус и се полива с него готовата салата."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "зелена салата",
+      "qty": "2 връзки",
+      "id": 87
+    },
+    {
+      "name": "рукола",
+      "qty": "50 г",
+      "id": 155
+    },
+    {
+      "name": "домата",
+      "qty": "4",
+      "id": 15
+    },
+    {
+      "name": "яйца",
+      "qty": "4",
+      "id": 5
+    },
+    {
+      "name": "листа от целина",
+      "qty": "1 шепа",
+      "id": 30
+    },
+    {
+      "name": "майонеза",
+      "qty": "4 с.л.",
+      "id": 80
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "2 с.л.",
+      "id": 17
+    },
+    {
+      "name": "чесън на прах",
+      "qty": "1 щип.",
+      "id": 6
+    },
+    {
+      "name": "сол",
+      "qty": "1 щип.",
+      "id": 1
+    }
+  ]
+}

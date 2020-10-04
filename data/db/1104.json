@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Постна вегетарианска мусака от гъби и карфиол със заливка от кисело мляко и яйца",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/musaka-ot-gubi-i-karfiol-2-[1104].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/musaka-ot-gubi-i-karfiol-2-[1104].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/musaka-ot-gubi-i-karfiol-2-[1104].jpg"
+    ],
+    "datePublished": "2010-12-12",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "181 calories",
+      "carbohydrateContent": "15 g",
+      "fatContent": "9 g",
+      "proteinContent": "11 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "5.67841 g",
+      "cholesterolContent": "101 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг печурки",
+      "1 глава карфиол",
+      "2  яйца",
+      "1 ч.ч. кисело мляко",
+      "3 с.л. олио",
+      "магданоз",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Гъбите (1/2 кг) се почистват, измиват се, нарязват се на по-едри парчета и се задушават в олиото (3 с.л.), докато омекнат. Карфиолът (1 глава) се разделя на розички и се вари в подсолена вода. Изцежда се добре и се поставя на дъното на тавичка, намазана с олио. Поръсва се със ситно нарязан магданоз и малко сол. Гъбите се разстилат върху карфиола. Ястието се залива със смес от киселото мляко (1 ч.ч.) и разбитите в него яйца (2 бр). Пече се в силно нагорещена фурна за 15 минути. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "печурки",
+      "qty": "1/2 кг",
+      "id": 62
+    },
+    {
+      "name": "карфиол",
+      "qty": "1 глава",
+      "id": 91
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "кисело мляко",
+      "qty": "1 ч.ч.",
+      "id": 21
+    },
+    {
+      "name": "олио",
+      "qty": "3 с.л.",
+      "id": 4
+    },
+    {
+      "name": "магданоз",
+      "qty": "Parsing error",
+      "id": 12
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

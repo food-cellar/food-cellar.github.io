@@ -1,0 +1,74 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Лесна салата с моркови и краставици",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/lesna-salata-s-morkovi-i-krastavici-1-[2334].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/lesna-salata-s-morkovi-i-krastavici-1-[2334].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/lesna-salata-s-morkovi-i-krastavici-1-[2334].jpg"
+    ],
+    "datePublished": "2013-03-07",
+    "cookTime": "PT0H5M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "150 calories",
+      "carbohydrateContent": "20 g",
+      "fatContent": "7 g",
+      "proteinContent": "3 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "4.79947 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "4  моркова",
+      "2  краставици",
+      "1 с.л. лимонов сок",
+      "2 с.л. зехтин",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Краставиците (2 бр) и морковите (4 бр) се измиват старателно и се настъргват на едрото ренде. Краставиците не се белят."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Салатата се овкусява със сол, прясно изцеден лимонов сок (1 с.л.) и зехтин (2 с.л.), разбърква се внимателно и се сервира веднага. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Отлична храна, богата на витамини и подходяща за всяка диета."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "моркова",
+      "qty": "4",
+      "id": 13
+    },
+    {
+      "name": "краставици",
+      "qty": "2",
+      "id": 44
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

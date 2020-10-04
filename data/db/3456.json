@@ -1,0 +1,102 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пасирана крем супа от коприва, ориз, орехи, лук и моркови (без месо)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/3456-krem-supa-ot-spanak-s-luk-i-morkovi-1-[2792].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/3456-krem-supa-ot-spanak-s-luk-i-morkovi-1-[2792].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/3456-krem-supa-ot-spanak-s-luk-i-morkovi-1-[2792].jpg"
+    ],
+    "datePublished": "2020-06-02",
+    "cookTime": "PT0H40M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "235 calories",
+      "carbohydrateContent": "25 g",
+      "fatContent": "12 g",
+      "proteinContent": "6 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "10.6547425 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1 кг коприва",
+      "100 г ориз",
+      "2 глави лук",
+      "2  моркова",
+      "100 г орехи",
+      "1 ч.л. черен пипер",
+      "сол",
+      "1/2 к.ч. олио",
+      "3 л. вода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Морковите (2 бр) и лукът (2 глави) се нарязват на ситно и за задушават в малко олио. Добавя се копривата (1 кг) и се залива с гореща вода. За по-добър вкус, копривата може предварително да се бланшира, отцеди и измие."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Щом водата започне да ври се добавя оризът (100 г) и се готви около 10-12 минути, докато той омекне. Прибавят се леко счуканите орехови ядки (100 г) и супата се овкусява със сол и пипер."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "След 2-3 минути се сваля от котлона и се изчаква да се охлади. Пасира се докато стане с консистенция на крем супа. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Готовото ястие се поднася с крутони, а може да се настърже и прясно сирене."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "коприва",
+      "qty": "1 кг",
+      "id": 130
+    },
+    {
+      "name": "ориз",
+      "qty": "100 г",
+      "id": 22
+    },
+    {
+      "name": "лук",
+      "qty": "2 глави",
+      "id": 3
+    },
+    {
+      "name": "моркова",
+      "qty": "2",
+      "id": 13
+    },
+    {
+      "name": "орехи",
+      "qty": "100 г",
+      "id": 31
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "олио",
+      "qty": "1/2 к.ч.",
+      "id": 4
+    },
+    {
+      "name": "вода",
+      "qty": "3 л.",
+      "id": 11
+    }
+  ]
+}

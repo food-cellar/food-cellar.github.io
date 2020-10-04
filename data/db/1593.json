@@ -1,0 +1,48 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Коктейл Бейлис Амарето (Baileys Amaretto)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kokteil-beilis-amareto--2-[1593].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kokteil-beilis-amareto--2-[1593].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kokteil-beilis-amareto--2-[1593].jpg"
+    ],
+    "datePublished": "2011-08-24",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Коктейли",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "342 calories",
+      "carbohydrateContent": "33 g",
+      "fatContent": "11 g",
+      "proteinContent": "2 g",
+      "saturatedFatContent": "5 g",
+      "unsaturatedFatContent": "5.0892975 g",
+      "cholesterolContent": "8 mg"
+    },
+    "recipeIngredient": [
+      "50 мл. бейлис",
+      "50 мл. амарето"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Бейлисът (50 мл.) и амаретото (50 мл.) се наливат в чаша с малко лед и се разбъркват добре."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "бейлис",
+      "qty": "50 мл.",
+      "id": 319
+    },
+    {
+      "name": "амарето",
+      "qty": "50 мл.",
+      "id": 271
+    }
+  ]
+}

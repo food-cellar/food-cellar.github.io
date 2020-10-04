@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Домашни кренвиршки",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/domashni-krenvirshki-1-[2623].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/domashni-krenvirshki-1-[2623].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/domashni-krenvirshki-1-[2623].jpg"
+    ],
+    "datePublished": "2013-08-01",
+    "cookTime": "PT1H20M",
+    "recipeYield": "12 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "327 calories",
+      "carbohydrateContent": "40 g",
+      "fatContent": "12 g",
+      "proteinContent": "11 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "7.4494516666667 g",
+      "cholesterolContent": "53 mg"
+    },
+    "recipeIngredient": [
+      "600 г брашно",
+      "1 к.ч. кисело мляко",
+      "250 мл. вода",
+      "7 г суха мая",
+      "2  яйца",
+      "1 ч.л. сол",
+      "1 с.л. захар",
+      "1/2 кг кренвирши"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "От пресятото брашно (600 г), киселото мляко (1 к.ч.), топлата вода (250 мл.), сухата мая (7 г), яйцата (2 бр), солта (1 ч.л.) и захарта (1 с.л.) се омесва меко тесто което се оставя на топло за половин час да втаса. След това се разточва с точилка и се нарязва на дълги ивици те се навиват около разрязаните надлъжно кренвирши. Получените кренвиршки се поставят в намаслена тава или в тава, на дъното на която е постлана хартия за печене. Всяка кренвиршка може да се намаже с разбит с малко олио жълтък, за да получат кренвиршките апетитен златист цвят. Пекат се в предварително загрята до 180 градуса фурна до готовност - около 20-30 минути."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "брашно",
+      "qty": "600 г",
+      "id": 7
+    },
+    {
+      "name": "кисело мляко",
+      "qty": "1 к.ч.",
+      "id": 21
+    },
+    {
+      "name": "вода",
+      "qty": "250 мл.",
+      "id": 11
+    },
+    {
+      "name": "суха мая",
+      "qty": "7 г",
+      "id": 52
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "сол",
+      "qty": "1 ч.л.",
+      "id": 1
+    },
+    {
+      "name": "захар",
+      "qty": "1 с.л.",
+      "id": 9
+    },
+    {
+      "name": "кренвирши",
+      "qty": "1/2 кг",
+      "id": 161
+    }
+  ]
+}

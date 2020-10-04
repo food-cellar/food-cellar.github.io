@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пълнени домати със спанак, сирене и яйца",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pulneni_domati_sus_spanak_1-[488].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pulneni_domati_sus_spanak_1-[488].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pulneni_domati_sus_spanak_1-[488].jpg"
+    ],
+    "datePublished": "2010-10-12",
+    "cookTime": "PT0H20M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "202 calories",
+      "carbohydrateContent": "9 g",
+      "fatContent": "13 g",
+      "proteinContent": "12 g",
+      "saturatedFatContent": "8 g",
+      "unsaturatedFatContent": "3.83463 g",
+      "cholesterolContent": "138 mg"
+    },
+    "recipeIngredient": [
+      "4  домата",
+      "200 г спанак",
+      "200 г сирене",
+      "2  яйца",
+      "пресен лук"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Изрежете капачетата на доматите (4 бр) и ги издълбайте. Разбийте яйцата (2 бр) и натрошеното сирене (200 г), добавете ситно нарязания спанак (200 г) и с получената смес напълнете доматите. Поставете ги в предварително намазнена тавичка и печете до пълна готовност на 200 градуса. Декорирайте с ивици пресен лук."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "домата",
+      "qty": "4",
+      "id": 15
+    },
+    {
+      "name": "спанак",
+      "qty": "200 г",
+      "id": 40
+    },
+    {
+      "name": "сирене",
+      "qty": "200 г",
+      "id": 32
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "пресен лук",
+      "qty": "Parsing error",
+      "id": 24
+    }
+  ]
+}

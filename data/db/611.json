@@ -1,0 +1,54 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Козуначени курабийки с бадеми",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kozunacheni_kurabiiki_2-[611].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kozunacheni_kurabiiki_2-[611].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kozunacheni_kurabiiki_2-[611].jpg"
+    ],
+    "datePublished": "2017-03-20",
+    "cookTime": "PT0H10M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Хлебни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "359 calories",
+      "carbohydrateContent": "60 g",
+      "fatContent": "7 g",
+      "proteinContent": "10 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "5.120395 g",
+      "cholesterolContent": "109 mg"
+    },
+    "recipeIngredient": [
+      "200 г козуначено тесто",
+      "1  жълтък",
+      "2  бадема"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Готово козуначено тесто (200 г) се поръсва с брашно и се разточва върху набрашнена повърхност на кръгла кора с дебелина 0,5 см. С нож кръгът се реже на кръст. Всяка четвъртинка се завива на руло от страната към върха на ъгъла. Краищата на полученото руло се събират плътно един до друг, така че да се получи форма, подобна на кравай. Всяка курабийка се намазва с разбит жълтък с малко вода, поръсва се с кристална захар и в средата й се забожда по 1 бадем. Курабийките се пекат до готовност. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "козуначено тесто",
+      "qty": "200 г",
+      "id": 262
+    },
+    {
+      "name": "жълтък",
+      "qty": "1",
+      "id": 33
+    },
+    {
+      "name": "бадема",
+      "qty": "2",
+      "id": 82
+    }
+  ]
+}

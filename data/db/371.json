@@ -1,0 +1,108 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Гъбена чорба по ловджийски с бекон и сметана",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/gubena-supa-po-lovdjiiski-1-[371].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/gubena-supa-po-lovdjiiski-1-[371].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/gubena-supa-po-lovdjiiski-1-[371].jpg"
+    ],
+    "datePublished": "2010-12-05",
+    "cookTime": "PT0H40M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "179 calories",
+      "carbohydrateContent": "11 g",
+      "fatContent": "9 g",
+      "proteinContent": "4 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "4.487565 g",
+      "cholesterolContent": "15 mg"
+    },
+    "recipeIngredient": [
+      "300 г печурки",
+      "75 г лук",
+      "1 с.л. олио",
+      "40 г бекон",
+      "30 г брашно",
+      "1 кубче пилешки бульон",
+      "4 с.л. сметана",
+      "200 мл. червено вино",
+      "сол",
+      "черен пипер",
+      "1  връзка магданоз",
+      "1 1/4 кг вода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Нарязаните на парченца гъби (300 г) и ситно нарязаният лук (75 г) се изпържват в олиото. Прибавя се изпърженият бекон (40 г). Поръсват се с брашно (30 г) и се разбъркват. Във водата се разтваря кубчето бульон. Прибавят се беконът с гъбите и всичко се вари на слаб огън. Когато гъбите омекнат, се прибавя сметаната (4 с.л.), посолява се и се подправя с черен пипер. Налива се виното (200 мл.). При поднасяне супата се поръсва със ситно нарязан магданоз."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "печурки",
+      "qty": "300 г",
+      "id": 62
+    },
+    {
+      "name": "лук",
+      "qty": "75 г",
+      "id": 3
+    },
+    {
+      "name": "олио",
+      "qty": "1 с.л.",
+      "id": 4
+    },
+    {
+      "name": "бекон",
+      "qty": "40 г",
+      "id": 88
+    },
+    {
+      "name": "брашно",
+      "qty": "30 г",
+      "id": 7
+    },
+    {
+      "name": "пилешки бульон",
+      "qty": "1 кубче",
+      "id": 26
+    },
+    {
+      "name": "сметана",
+      "qty": "4 с.л.",
+      "id": 19
+    },
+    {
+      "name": "червено вино",
+      "qty": "200 мл.",
+      "id": 98
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "връзка магданоз",
+      "qty": "1",
+      "id": 27
+    },
+    {
+      "name": "вода",
+      "qty": "1 1/4 кг",
+      "id": 11
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Предястие от тиквички и патладжани",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/prediastie-ot-tikvichki-i-patladjani-2-[46].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/prediastie-ot-tikvichki-i-patladjani-2-[46].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/prediastie-ot-tikvichki-i-patladjani-2-[46].jpg"
+    ],
+    "datePublished": "2010-11-12",
+    "cookTime": "PT0H15M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "325 calories",
+      "carbohydrateContent": "52 g",
+      "fatContent": "10 g",
+      "proteinContent": "13 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "4.220325 g",
+      "cholesterolContent": "22 mg"
+    },
+    "recipeIngredient": [
+      "4  тиквички",
+      "4  патладжана",
+      "2 с.л. олио",
+      "2 ч.ч. доматен сос",
+      "100 г сирене",
+      "100 г студен гъст качамак",
+      "2 скилидка чесън",
+      "копър"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Тиквичките (4 бр) и патладжаните(4 бр) се режат по дължина на тънки филийки, след което се осоляват. Оставят да престоят 1/2 час в отделни съдове."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Измиват се, подсушават се и се задушават в предварително сгорещеното олио."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "В чиния с шприц се оформя затворен къдрав кръг от качамака(100 г). Нареждат се тиквичките и патладжаните от едната страна, като единият им край влиза вътре в кръга. Заливат се с доматен сос, подправен със счукан чесън и ситно нарязан копър"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Предястието се поднася студено и поръсено с настъргано сирене."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "тиквички",
+      "qty": "4",
+      "id": 39
+    },
+    {
+      "name": "патладжана",
+      "qty": "4",
+      "id": 71
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    },
+    {
+      "name": "доматен сос",
+      "qty": "2 ч.ч.",
+      "id": 86
+    },
+    {
+      "name": "сирене",
+      "qty": "100 г",
+      "id": 32
+    },
+    {
+      "name": "студен гъст качамак",
+      "qty": "100 г",
+      "id": 312
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидка",
+      "id": 6
+    },
+    {
+      "name": "копър",
+      "qty": "Parsing error",
+      "id": 28
+    }
+  ]
+}

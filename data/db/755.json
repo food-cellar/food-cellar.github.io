@@ -1,0 +1,102 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Крем супа от праз, целина с варени яйца и сирене",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/krem_supa_ot_praz_i_celina_1-[755].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/krem_supa_ot_praz_i_celina_1-[755].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/krem_supa_ot_praz_i_celina_1-[755].jpg"
+    ],
+    "datePublished": "2010-10-28",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "448 calories",
+      "carbohydrateContent": "10 g",
+      "fatContent": "11 g",
+      "proteinContent": "9 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "6.104175 g",
+      "cholesterolContent": "203 mg"
+    },
+    "recipeIngredient": [
+      "2  праз",
+      "6 стръкчета целина",
+      "1 л. вода",
+      "сол",
+      "черен пипер",
+      "индийско орехче",
+      "2 ч.ч. коняк",
+      "1 ч.ч. прясно мляко",
+      "2 с.л. олио",
+      "4  яйца",
+      "30 г сирене"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Празът (2 бр) и целината (6 стръкчета) се нарязват наситно и се задушават за кратко в горещо олио (2 с.л.). Заливат се с вода и се варят под капак 20 минути. Всичко се пасира. Полученото пюре се овкусява с подправките, разрежда се с прясното мляко (1 ч.ч.) и се кипва. Добавя се конякът (2 ч.ч.) и ястието ври още 2 минути. Поднася се топло. Всяка порция се декорира с разрязано на четири твърдо сварено яйце и поръсена с краве сирене."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "праз",
+      "qty": "2",
+      "id": 51
+    },
+    {
+      "name": "целина",
+      "qty": "6 стръкчета",
+      "id": 30
+    },
+    {
+      "name": "вода",
+      "qty": "1 л.",
+      "id": 11
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "индийско орехче",
+      "qty": "Parsing error",
+      "id": 120
+    },
+    {
+      "name": "коняк",
+      "qty": "2 ч.ч.",
+      "id": 166
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "1 ч.ч.",
+      "id": 14
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    },
+    {
+      "name": "яйца",
+      "qty": "4",
+      "id": 5
+    },
+    {
+      "name": "сирене",
+      "qty": "30 г",
+      "id": 32
+    }
+  ]
+}

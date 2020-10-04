@@ -1,0 +1,68 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Конкилиони с риба тон и каперси",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/konkilioni-s-riba-ton-i-kapersi-1-[1456].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/konkilioni-s-riba-ton-i-kapersi-1-[1456].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/konkilioni-s-riba-ton-i-kapersi-1-[1456].jpg"
+    ],
+    "datePublished": "2011-06-27",
+    "cookTime": "PT0H45M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "404 calories",
+      "carbohydrateContent": "47 g",
+      "fatContent": "8 g",
+      "proteinContent": "33 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "4.90905 g",
+      "cholesterolContent": "15 mg"
+    },
+    "recipeIngredient": [
+      "250 г конкилиони",
+      "2 консерви риба тон",
+      "50 г каперси",
+      "1 с.л. лимонов сок"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пастата (250 г) се сварява до полуготовност, за около 8-10 минути. Трябва да се внимава да не стане прекалено мека и да не се разкъса."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Рибата тон (2 консерви) се смесва с каперсите (50 г) и лимоновия сок (1 с.л.). Може да се добави и ситно нарязан магданоз. Ако рибата е в собствен сос, предварително се отцежда и се овкусява със зехтин на вкус."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Конкилионите се пълнят със сместа, поставят се в намазнена тавичка и се пекат на силна фурна 15-20 минути, до получаване на хрупкава коричка и кафеникав загар."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "конкилиони",
+      "qty": "250 г",
+      "id": 55
+    },
+    {
+      "name": "риба тон",
+      "qty": "2 консерви",
+      "id": 127
+    },
+    {
+      "name": "каперси",
+      "qty": "50 г",
+      "id": 162
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    }
+  ]
+}

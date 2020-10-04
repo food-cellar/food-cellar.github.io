@@ -1,0 +1,102 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Паста Орзо с домати, шунка, зеленчуци и сирене Фета на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pasta-orzo-s-domati-i-shunka-na-furna-1-[1474].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pasta-orzo-s-domati-i-shunka-na-furna-1-[1474].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pasta-orzo-s-domati-i-shunka-na-furna-1-[1474].jpg"
+    ],
+    "datePublished": "2011-05-23",
+    "cookTime": "PT1H0M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "354 calories",
+      "carbohydrateContent": "52 g",
+      "fatContent": "10 g",
+      "proteinContent": "12 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "5.1217325 g",
+      "cholesterolContent": "23 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг паста Орзо",
+      "2 глави лук",
+      "3  домата",
+      "1  зелена чушка",
+      "3 скилидки чесън",
+      "100 г шунка",
+      "2 стръка целина",
+      "100 г сирене Фета",
+      "3 с.л. зехтин",
+      "черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Ситно нарязаните целина (2 стръка) и лук (2 глави), пресованият чесън (3 скилидки) и нарязаната на малки кубчета зелена чушка (1 бр) се задушават до омекване в зехтин (3 с.л.). Преместват се от котлона и към тях се добавят настърганите домати (3 бр) и пастата (1/2 кг). Всичко се разбърква добре и се подправя със сол и черен пипер. Поставя се в тавичка и се залива с малко вода, колкото да покрие пастата. Пече се на средна температура, като периодично се проверява дали е извряла течността. При необходимост се долива още. Щом пастата е сварена и течността е извряла, основното ястие се поръсва с шунка (100 г), нарязана на малки кубчета, и натрошено сирене Фета (100 г). Запича се за още няколко минути и се сервира горещо. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "паста Орзо",
+      "qty": "1/2 кг",
+      "id": 55
+    },
+    {
+      "name": "лук",
+      "qty": "2 глави",
+      "id": 3
+    },
+    {
+      "name": "домата",
+      "qty": "3",
+      "id": 15
+    },
+    {
+      "name": "зелена чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "чесън",
+      "qty": "3 скилидки",
+      "id": 6
+    },
+    {
+      "name": "шунка",
+      "qty": "100 г",
+      "id": 76
+    },
+    {
+      "name": "целина",
+      "qty": "2 стръка",
+      "id": 30
+    },
+    {
+      "name": "сирене Фета",
+      "qty": "100 г",
+      "id": 150
+    },
+    {
+      "name": "зехтин",
+      "qty": "3 с.л.",
+      "id": 10
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

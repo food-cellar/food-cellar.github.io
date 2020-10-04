@@ -1,0 +1,108 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Какаов крем с нишесте, яйца, кафе, ром и ванилия",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/krem-jelanie-2-[604].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/krem-jelanie-2-[604].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/krem-jelanie-2-[604].jpg"
+    ],
+    "datePublished": "2010-11-30",
+    "cookTime": "PT0H30M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "236 calories",
+      "carbohydrateContent": "34 g",
+      "fatContent": "7 g",
+      "proteinContent": "7 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "2.4243783333333 g",
+      "cholesterolContent": "86 mg"
+    },
+    "recipeIngredient": [
+      "1 л. прясно мляко",
+      "3 с.л. какао",
+      "3 с.л. кафе",
+      "6 с.л. захар",
+      "1 опак. ванилия",
+      "1 с.л. ром",
+      "2  яйца",
+      "4 с.л. нишесте",
+      "30 г стафиди",
+      "сметана",
+      "шоколадови пръчици",
+      "шоколадови пурички"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Какаото (3 с.л.) и кафето (3 с.л.) се сваряват с малко вода. Налива се горещото мляко (1 л.), сипва се захарта (6 с.л.) и сместа се довежда до кипене. Яйцата (2 бр) се разбиват с малко мляко и с нишестето (4 с.л.). Тази смес с постоянно бъркане се довежда до кипене и се смесва с кафявото мляко. Кремът се вари до готовност. Овкусява се с ром (1 с.л.) и ванилия (1 опак.). Стафидите (30 г), след като се изкиснат в ром, се смилат и прибавят към крема. Кремът се поднася охладен в чаши и гарниран със сметана, шоколадови пръчици и шоколадови пурички."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "прясно мляко",
+      "qty": "1 л.",
+      "id": 14
+    },
+    {
+      "name": "какао",
+      "qty": "3 с.л.",
+      "id": 45
+    },
+    {
+      "name": "кафе",
+      "qty": "3 с.л.",
+      "id": 144
+    },
+    {
+      "name": "захар",
+      "qty": "6 с.л.",
+      "id": 9
+    },
+    {
+      "name": "ванилия",
+      "qty": "1 опак.",
+      "id": 23
+    },
+    {
+      "name": "ром",
+      "qty": "1 с.л.",
+      "id": 74
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "нишесте",
+      "qty": "4 с.л.",
+      "id": 96
+    },
+    {
+      "name": "стафиди",
+      "qty": "30 г",
+      "id": 69
+    },
+    {
+      "name": "сметана",
+      "qty": "Parsing error",
+      "id": 19
+    },
+    {
+      "name": "шоколадови пръчици",
+      "qty": "Parsing error",
+      "id": 48
+    },
+    {
+      "name": "шоколадови пурички",
+      "qty": "Parsing error",
+      "id": 27
+    }
+  ]
+}

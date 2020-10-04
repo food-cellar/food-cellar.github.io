@@ -1,0 +1,102 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Табуле - магданозена салата с домати и булгур",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/tabule-magdanozena-salata-2-[625].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/tabule-magdanozena-salata-2-[625].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/tabule-magdanozena-salata-2-[625].jpg"
+    ],
+    "datePublished": "2011-01-06",
+    "cookTime": "PT0H30M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "225 calories",
+      "carbohydrateContent": "20 g",
+      "fatContent": "15 g",
+      "proteinContent": "3 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "12.506 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "3 връзки магданоз",
+      "1 глава лук",
+      "4  домата",
+      "сол",
+      "1/2 ч.л. канела",
+      "1/2 ч.л. черен пипер",
+      "4 с.л. лимонов сок",
+      "100 г булгур",
+      "мента",
+      "1 ч.ч. вода",
+      "100 мл. зехтин"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Булгурът (100 г) се слага в купа, залива се с горещата вода (1 ч.ч.) и се оставя да набъбне за 15 минути. Ситно нарязаните домати (4 бр), магданоз (3 връзки), мента и лук (1 глава) се слагат в друга купа. Посоляват се и се подправят с пипера (1/2 ч.л.) и канелата (1/2 ч.л.). Разбъркват се. Булгурът се отцежда и се смесва с другите продукти. Накрая се прибавят лимоновият сок и зехтинът (100 мл.). Всичко се разбърква.  "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "магданоз",
+      "qty": "3 връзки",
+      "id": 12
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "домата",
+      "qty": "4",
+      "id": 15
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "канела",
+      "qty": "1/2 ч.л.",
+      "id": 46
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1/2 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "4 с.л.",
+      "id": 17
+    },
+    {
+      "name": "булгур",
+      "qty": "100 г",
+      "id": 128
+    },
+    {
+      "name": "мента",
+      "qty": "Parsing error",
+      "id": 90
+    },
+    {
+      "name": "вода",
+      "qty": "1 ч.ч.",
+      "id": 11
+    },
+    {
+      "name": "зехтин",
+      "qty": "100 мл.",
+      "id": 10
+    }
+  ]
+}

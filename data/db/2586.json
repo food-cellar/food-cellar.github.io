@@ -1,0 +1,110 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Задушени пилешки жулиени с гъби, картофи, чушки и лук в тенджера",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zadusheni-pileshki-julieni-s-gubi-i-kartofi-2-[2586].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zadusheni-pileshki-julieni-s-gubi-i-kartofi-2-[2586].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zadusheni-pileshki-julieni-s-gubi-i-kartofi-2-[2586].jpg"
+    ],
+    "datePublished": "2013-06-13",
+    "cookTime": "PT0H25M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "449 calories",
+      "carbohydrateContent": "61 g",
+      "fatContent": "10 g",
+      "proteinContent": "28 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "6.5311525 g",
+      "cholesterolContent": "65 mg"
+    },
+    "recipeIngredient": [
+      "400 г пилешко месо",
+      "150 г печурки",
+      "1  червена чушка",
+      "1  зелена чушка",
+      "1 глава лук",
+      "4 с.л. зехтин",
+      "сол",
+      "черен пипер",
+      "чесън на прах",
+      "1 кг картофи",
+      "4 с.л. брашно"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилешкото месо (400 г) се нарязва на жулиени, които се овалват в брашно и се пържат в голещо олио до побеляване. Прибавят се нарязаните лук (1 глава), чушки и гъби (150 г). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Продуктите се заливат с вода, колкото да ги покрие. Тенджерата се захлупва и ястието ври на тих огън. Периодично се разбърква. Посолява се и се овкусява с посочените подправки. Готви се, докато месото омекне напълно. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Поднася се върху варени картофи."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешко месо",
+      "qty": "400 г",
+      "id": 49
+    },
+    {
+      "name": "печурки",
+      "qty": "150 г",
+      "id": 62
+    },
+    {
+      "name": "червена чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "зелена чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "чесън на прах",
+      "qty": "Parsing error",
+      "id": 6
+    },
+    {
+      "name": "картофи",
+      "qty": "1 кг",
+      "id": 16
+    },
+    {
+      "name": "брашно",
+      "qty": "4 с.л.",
+      "id": 7
+    }
+  ]
+}

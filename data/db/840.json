@@ -1,0 +1,76 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Бразилски хлебчета с брашно от тапиока и кашкавал",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/brazilski_hlebcheta_1-[840].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/brazilski_hlebcheta_1-[840].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/brazilski_hlebcheta_1-[840].jpg"
+    ],
+    "datePublished": "2010-10-16",
+    "cookTime": "PT2H0M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Хлебни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "611 calories",
+      "carbohydrateContent": "67 g",
+      "fatContent": "24 g",
+      "proteinContent": "28 g",
+      "saturatedFatContent": "14 g",
+      "unsaturatedFatContent": "8.2053133333333 g",
+      "cholesterolContent": "162 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг брашно",
+      "250 г кисело мляко",
+      "400 г кашкавал",
+      "3  яйца",
+      "1 ч.л. мая",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Брашното (1/2 кг), киселото мляко (250 г), яйцата (3 бр), маята (1 ч.л.) и солта се смесват и се разбъркват. Добавя се настърганият кашкавал (400 г) и се меси 10-15 минути.Оставя се да престои 45 минути - 1 час."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "След като бухне, тестото се нарязва на малки парчета, от които се оформят много тънки, продълговати хлебчета. Оставят се да престоят във формата за печене 15 минути - 1/2 час, след което се пекат до получаване на златиста коричка (около 35-40 минути)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "брашно",
+      "qty": "1/2 кг",
+      "id": 7
+    },
+    {
+      "name": "кисело мляко",
+      "qty": "250 г",
+      "id": 21
+    },
+    {
+      "name": "кашкавал",
+      "qty": "400 г",
+      "id": 47
+    },
+    {
+      "name": "яйца",
+      "qty": "3",
+      "id": 5
+    },
+    {
+      "name": "мая",
+      "qty": "1 ч.л.",
+      "id": 52
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

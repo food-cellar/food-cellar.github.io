@@ -1,0 +1,88 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пиле пири-пири, мариновано в лимон и люти чушки",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pile-piri-piri-1-[84].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pile-piri-piri-1-[84].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pile-piri-piri-1-[84].jpg"
+    ],
+    "datePublished": "2011-05-10",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "237 calories",
+      "carbohydrateContent": "8 g",
+      "fatContent": "6 g",
+      "proteinContent": "36 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "4.0469675 g",
+      "cholesterolContent": "87 mg"
+    },
+    "recipeIngredient": [
+      "4  пилешки гърди",
+      "4  червени люти чушки",
+      "1  лимон",
+      "2 с.л. зехтин",
+      "1 с.л. бяло вино",
+      "1 скилидка чесън",
+      "1 с.л. червен пипер",
+      "1  червена чушка"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Фурната се загрява до 200 градуса. Чушките се слагат в тенджера със сокът на лимона и се загряват 10 минути на слаб огън, докато омекнат. Всичко това се разбива в блендер заедно с малко зехтин и сол. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "На пилешките гърди (4 бр) се правят разрези на разстояние 2 см. Сосът се разпределя в тези разрези. Филето се пече на фурна около 30-40 минути."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешки гърди",
+      "qty": "4",
+      "id": 79
+    },
+    {
+      "name": "червени люти чушки",
+      "qty": "4",
+      "id": 105
+    },
+    {
+      "name": "лимон",
+      "qty": "1",
+      "id": 43
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "бяло вино",
+      "qty": "1 с.л.",
+      "id": 41
+    },
+    {
+      "name": "чесън",
+      "qty": "1 скилидка",
+      "id": 6
+    },
+    {
+      "name": "червен пипер",
+      "qty": "1 с.л.",
+      "id": 20
+    },
+    {
+      "name": "червена чушка",
+      "qty": "1",
+      "id": 18
+    }
+  ]
+}

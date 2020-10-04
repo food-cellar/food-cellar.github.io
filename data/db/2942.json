@@ -1,0 +1,106 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Коледни сладки с канела и джинджифил",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/koledni-sladki-s-kanela-i-djindjifil-2-[2942].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/koledni-sladki-s-kanela-i-djindjifil-2-[2942].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/koledni-sladki-s-kanela-i-djindjifil-2-[2942].jpg"
+    ],
+    "datePublished": "2014-05-31",
+    "cookTime": "PT1H0M",
+    "recipeYield": "24 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "117 calories",
+      "carbohydrateContent": "21 g",
+      "fatContent": "2 g",
+      "proteinContent": "2 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "1.9890558333333 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг брашно",
+      "75  захар",
+      "150 мл. мед",
+      "100 мл. вода",
+      "60 мл. олио",
+      "1/2 ч.л. бакпулвер",
+      "1/2 ч.л. канела",
+      "1/2 ч.л. джинджифил",
+      "3 с.л. пудра захар"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Течният мед (150 мл.) се разтваря във водата (100 мл.), след което към тях се прибавят захарта (75), олиото (60 мл.) и предварително смесените и пресети брашно (1/2 кг), бакпулвер (1/2 ч.л.), канела (1/2 ч.л.) и джинджифил (1/2 ч.л.)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "От продуктите се замесва тесто, което се разточва с дебелина около 5 милиметра."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "От него се изрязват сладки, които по желание се продупчват."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Пекат се в умерена фурна в тавичка, на чието дъно е поставена хартия за печене. Щом станат леко златисти в краищата си, са готови."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Сервират се охладени и поръсени с пудра захар (3 с.л.)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "брашно",
+      "qty": "1/2 кг",
+      "id": 7
+    },
+    {
+      "name": "захар",
+      "qty": "75",
+      "id": 9
+    },
+    {
+      "name": "мед",
+      "qty": "150 мл.",
+      "id": 38
+    },
+    {
+      "name": "вода",
+      "qty": "100 мл.",
+      "id": 11
+    },
+    {
+      "name": "олио",
+      "qty": "60 мл.",
+      "id": 4
+    },
+    {
+      "name": "бакпулвер",
+      "qty": "1/2 ч.л.",
+      "id": 29
+    },
+    {
+      "name": "канела",
+      "qty": "1/2 ч.л.",
+      "id": 46
+    },
+    {
+      "name": "джинджифил",
+      "qty": "1/2 ч.л.",
+      "id": 84
+    },
+    {
+      "name": "пудра захар",
+      "qty": "3 с.л.",
+      "id": 34
+    }
+  ]
+}

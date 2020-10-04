@@ -1,0 +1,76 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата с цвекло рулца от раци",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-s-cveklo-rulca-ot-raci-1-[2208].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-s-cveklo-rulca-ot-raci-1-[2208].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-s-cveklo-rulca-ot-raci-1-[2208].jpg"
+    ],
+    "datePublished": "2013-02-01",
+    "cookTime": "PT1H10M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "84 calories",
+      "carbohydrateContent": "6 g",
+      "fatContent": "2 g",
+      "proteinContent": "8 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "1.65903 g",
+      "cholesterolContent": "15 mg"
+    },
+    "recipeIngredient": [
+      "1 глава цвекло",
+      "200 г рулца от раци",
+      "1 стрък пресен лук",
+      "2 с.л. майонеза",
+      "1 щип. сол",
+      "1 с.л. лимонов сок"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Цвеклото (1 глава) се сварява и оставя да изстине. През това време рулцата от раци (200 г) се размразяват и се нарязват на кубчета. В голяма купа се смесват със ситно нарязан пресен лук (1 стрък). Цвеклото се нарязва на кубчета и се добавя към морския деликатес. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Салатата се овкусява с майонеза (2 с.л.), сол (1 щип.) и лимонов сок (1 с.л.)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "цвекло",
+      "qty": "1 глава",
+      "id": 131
+    },
+    {
+      "name": "рулца от раци",
+      "qty": "200 г",
+      "id": 198
+    },
+    {
+      "name": "пресен лук",
+      "qty": "1 стрък",
+      "id": 24
+    },
+    {
+      "name": "майонеза",
+      "qty": "2 с.л.",
+      "id": 80
+    },
+    {
+      "name": "сол",
+      "qty": "1 щип.",
+      "id": 1
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    }
+  ]
+}

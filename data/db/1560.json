@@ -1,0 +1,70 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печени свински шишчета с чушки на фурна, поднесени с гарнитура от пресни картофки соте",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/svinski-shishcheta-3-[1560].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/svinski-shishcheta-3-[1560].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/svinski-shishcheta-3-[1560].jpg"
+    ],
+    "datePublished": "2017-03-20",
+    "cookTime": "PT0H45M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "731 calories",
+      "carbohydrateContent": "4 g",
+      "fatContent": "60 g",
+      "proteinContent": "40 g",
+      "saturatedFatContent": "20 g",
+      "unsaturatedFatContent": "32.497395 g",
+      "cholesterolContent": "180 mg"
+    },
+    "recipeIngredient": [
+      "1 кг свинско месо",
+      "1 глава червен лук",
+      "1  зелена чушка",
+      "черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Свинското месо (1 кг) се нарязва на хапки, лукът (1 глава) се реже на четръртинки, а почистената от дръжката и семките чушка (1 бр) - на едри парчета. Продуктите се овкусяват със сол и черен пипер на вкус и се нанизват на шишове. Свинските шишчета се пекат от всички страни в силна фурна до пълна готовност. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Поднасят се топли с гарнитура от пресни картофки Соте."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "свинско месо",
+      "qty": "1 кг",
+      "id": 67
+    },
+    {
+      "name": "червен лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "зелена чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

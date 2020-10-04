@@ -1,0 +1,70 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пухкава баница със сирене, яйца и газирана вода",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zlatna-banica-sus-sirene-i-gazirana-voda-2-[1240].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zlatna-banica-sus-sirene-i-gazirana-voda-2-[1240].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zlatna-banica-sus-sirene-i-gazirana-voda-2-[1240].jpg"
+    ],
+    "datePublished": "2011-01-15",
+    "cookTime": "PT0H50M",
+    "recipeYield": "12 servings",
+    "recipeCategory": "Хлебни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "290 calories",
+      "carbohydrateContent": "23 g",
+      "fatContent": "17 g",
+      "proteinContent": "8 g",
+      "saturatedFatContent": "6 g",
+      "unsaturatedFatContent": "9.7645116666667 g",
+      "cholesterolContent": "88 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг кори за баница",
+      "350 г сирене",
+      "100 мл. олио",
+      "4  яйца",
+      "250 мл. газирана вода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "В намаслена тавичка се поставят два пласта кори. Поръсват се с натрошено сирене и отново се поставят готови кори. Това се прави до изчерпване на продуктите. С остър нож баницата се нарязва на квадратни парчета и се залива с предварително сгорещеното <a href=http://www.biseroliva.bg/>олио Бисер</a> (250 мл.) (100 мл.). Яйцата (4 бр) се разбиват и към тях се прибавя газираната вода (250 мл.). Получената смес също се излива върху нарязаната баница, като тавата се разклаща, за да може течността да се разпредели равномерно. Баницата се изпича до златисто в умерена фурна."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Екипът на 1001 рецепти - сайтът с вкус, издава малката тайна на своята рецепта - <a href=http://www.biseroliva.bg/>олио Бисер</a> - олио на вкус :)"
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "кори за баница",
+      "qty": "1/2 кг",
+      "id": 138
+    },
+    {
+      "name": "сирене",
+      "qty": "350 г",
+      "id": 32
+    },
+    {
+      "name": "олио",
+      "qty": "100 мл.",
+      "id": 4
+    },
+    {
+      "name": "яйца",
+      "qty": "4",
+      "id": 5
+    },
+    {
+      "name": "газирана вода",
+      "qty": "250 мл.",
+      "id": 199
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Безалкохолен коктейл с домати и люти чушки",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kokteil-cherven-diavol-2-[925].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kokteil-cherven-diavol-2-[925].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kokteil-cherven-diavol-2-[925].jpg"
+    ],
+    "datePublished": "2012-08-16",
+    "cookTime": "PT0H5M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Напитки",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "77 calories",
+      "carbohydrateContent": "17 g",
+      "fatContent": "0 g",
+      "proteinContent": "3 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.417315 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "4  домата",
+      "1  червена чушка",
+      "1  люта чушка",
+      "сол",
+      "вода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "В пасатор се пюрират доматите (4 бр), червената чушка (1 бр), малко вода и лютото чушле (1 бр). Ако желате може да сложите само част от него, за да не стане прекалено люто. Ако стане прекалено гъсто, се добавя още вода. Овкусява се с малко сол. Сервира се охладен. За най-добър резултат се използват розови домати."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "домата",
+      "qty": "4",
+      "id": 15
+    },
+    {
+      "name": "червена чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "люта чушка",
+      "qty": "1",
+      "id": 105
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "вода",
+      "qty": "Parsing error",
+      "id": 11
+    }
+  ]
+}

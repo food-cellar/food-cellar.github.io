@@ -1,0 +1,112 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Ароматно телешко месо със задушени броколи и брюкселско зеле",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/aromatno-teleshko-2-[257].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/aromatno-teleshko-2-[257].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/aromatno-teleshko-2-[257].jpg"
+    ],
+    "datePublished": "2011-01-06",
+    "cookTime": "PT0H45M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "406 calories",
+      "carbohydrateContent": "29 g",
+      "fatContent": "8 g",
+      "proteinContent": "34 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "4.809745 g",
+      "cholesterolContent": "117 mg"
+    },
+    "recipeIngredient": [
+      "600 г телешки шол",
+      "4 глава лук",
+      "2 с.л. олио",
+      "2  морков",
+      "2 ч.ч. червено вино",
+      "2 ч.ч. сок от нар",
+      "чесън на прах",
+      "босилек",
+      "индийско орехче",
+      "шафран",
+      "черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Телешкият шол (600 г) се нарязва на средно големи кубчета. Посолява се, подправя се с черен пипер и се залива с виното (2 ч.ч.). Оставя се да предстои 2 часа. След това се отцежда и задушава в предварително нагорещеното олио (2 с.л.) под капак. Лукът (4 глава) се настъргва на средното ренде и се добавя към месото. След като то омекне, се залива с маринатата. Добавят се и останалите подправки и задушаването продължава до пълна готовност."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Може да поднесете със задушени броколи и брюкселско зеле."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "телешки шол",
+      "qty": "600 г",
+      "id": 110
+    },
+    {
+      "name": "лук",
+      "qty": "4 глава",
+      "id": 3
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    },
+    {
+      "name": "морков",
+      "qty": "2",
+      "id": 13
+    },
+    {
+      "name": "червено вино",
+      "qty": "2 ч.ч.",
+      "id": 98
+    },
+    {
+      "name": "сок от нар",
+      "qty": "2 ч.ч.",
+      "id": 276
+    },
+    {
+      "name": "чесън на прах",
+      "qty": "Parsing error",
+      "id": 6
+    },
+    {
+      "name": "босилек",
+      "qty": "Parsing error",
+      "id": 25
+    },
+    {
+      "name": "индийско орехче",
+      "qty": "Parsing error",
+      "id": 120
+    },
+    {
+      "name": "шафран",
+      "qty": "Parsing error",
+      "id": 203
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

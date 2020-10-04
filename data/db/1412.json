@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Сандвичи с Чедър и филе Елена",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/sandvichi-s-chedur-i-file-elena-2-[1412].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/sandvichi-s-chedur-i-file-elena-2-[1412].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/sandvichi-s-chedur-i-file-elena-2-[1412].jpg"
+    ],
+    "datePublished": "2011-04-22",
+    "cookTime": "PT0H10M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Сандвичи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "340 calories",
+      "carbohydrateContent": "40 g",
+      "fatContent": "12 g",
+      "proteinContent": "18 g",
+      "saturatedFatContent": "6 g",
+      "unsaturatedFatContent": "3.9047810849325 g",
+      "cholesterolContent": "42 mg"
+    },
+    "recipeIngredient": [
+      "2  питки",
+      "50 г филе Елена",
+      "2 резена домат",
+      "2 листа зелена салата",
+      "40 г сирене Чедър",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Капачетата на питките се отрязват. В основата се подреждат листа зелена салата, филе, резени домат, парченца Чедър. Сандвичите се посоляват и леко се запичат във фурна на горен реотан, така че сиренето да се разтопи. Важно е да е на висока температура и да е за минута-две, за да може зеленчуците да останат свежи. накрая се поставят капачетата и сандвичите се сервират. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "питки",
+      "qty": "2",
+      "id": 175
+    },
+    {
+      "name": "филе Елена",
+      "qty": "50 г",
+      "id": 208
+    },
+    {
+      "name": "домат",
+      "qty": "2 резена",
+      "id": 15
+    },
+    {
+      "name": "зелена салата",
+      "qty": "2 листа",
+      "id": 87
+    },
+    {
+      "name": "сирене Чедър",
+      "qty": "40 г",
+      "id": 153
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

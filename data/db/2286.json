@@ -1,0 +1,94 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Огретен от тиквички, яйца, сирене и кашкавал с бешамелова заливка",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/ogreten-ot-tikvichki-1-[2286].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/ogreten-ot-tikvichki-1-[2286].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/ogreten-ot-tikvichki-1-[2286].jpg"
+    ],
+    "datePublished": "2013-02-09",
+    "cookTime": "PT1H0M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "224 calories",
+      "carbohydrateContent": "9 g",
+      "fatContent": "16 g",
+      "proteinContent": "11 g",
+      "saturatedFatContent": "7 g",
+      "unsaturatedFatContent": "7.3645916666667 g",
+      "cholesterolContent": "99 mg"
+    },
+    "recipeIngredient": [
+      "600 г тиквички",
+      "2  яйца",
+      "100 г сирене",
+      "100 г кашкавал",
+      "1 ч.ч. прясно мляко",
+      "2 с.л. брашно",
+      "4 с.л. олио"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Тиквичките (600 г) се измиват, подсушават се и се настъргват на едрото ренде. Посоляват се и се оставят настрани да пуснат сока си. След това се отцеждат много старателно. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "В купа се смесват отцедените тиквички, яйцата (2 бр), натрошеното сирене (100 г) и настърганият кашкавал (100 г). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Приготвя се сос Бешамел, като за целта в тиган се запържва брашното (2 с.л.) с олиото (4 с.л.) и щом брашното леко покафенее, постепенно и при непрекъснато бъркане се добавя прясното мляко (1 ч.ч.). Щом сосът се сгъсти, се добавя към сместа с тиквичките. Всичко се разбърква много старателно и се разпределя в тавичка. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Огретенът се поставя във фурна при 180 градуса и се пече до готовност. Готов е, щом хване златиста и апетитна коричка. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Огретенът от тиквички се сервира охладен, но и топъл е много апетитен."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "тиквички",
+      "qty": "600 г",
+      "id": 39
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "сирене",
+      "qty": "100 г",
+      "id": 32
+    },
+    {
+      "name": "кашкавал",
+      "qty": "100 г",
+      "id": 47
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "1 ч.ч.",
+      "id": 14
+    },
+    {
+      "name": "брашно",
+      "qty": "2 с.л.",
+      "id": 7
+    },
+    {
+      "name": "олио",
+      "qty": "4 с.л.",
+      "id": 4
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Тарталети с маслини и синьо сирене",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/tartaleti_s_maslini_i_sinioo_sirene_3-[826].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/tartaleti_s_maslini_i_sinioo_sirene_3-[826].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/tartaleti_s_maslini_i_sinioo_sirene_3-[826].jpg"
+    ],
+    "datePublished": "2010-12-12",
+    "cookTime": "PT0H40M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "421 calories",
+      "carbohydrateContent": "27 g",
+      "fatContent": "30 g",
+      "proteinContent": "8 g",
+      "saturatedFatContent": "18 g",
+      "unsaturatedFatContent": "10.283361666667 g",
+      "cholesterolContent": "81 mg"
+    },
+    "recipeIngredient": [
+      "200 г брашно",
+      "175 г масло",
+      "1 щип. сол",
+      "1 ч.л. чесън на прах",
+      "1  домат",
+      "75 г синьо сирене",
+      "50 г кашкавал",
+      "12  зелени маслини",
+      "пресен босилек"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Размекнатото масло (175 г) се омесва с брашното (200 г), солта и чесъна на прах (1 ч.л.). С него се покриват дъната и стените на формички за тарталети. Всяка тарталетка се пълни с парченце домат, маслинка, натрошено синьо сирене и настърган кашкавал. Тарталетите се пекат на фурна до пълна готовност. Преди поднасяне се украсяват с листенца босилек."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "брашно",
+      "qty": "200 г",
+      "id": 7
+    },
+    {
+      "name": "масло",
+      "qty": "175 г",
+      "id": 8
+    },
+    {
+      "name": "сол",
+      "qty": "1 щип.",
+      "id": 1
+    },
+    {
+      "name": "чесън на прах",
+      "qty": "1 ч.л.",
+      "id": 6
+    },
+    {
+      "name": "домат",
+      "qty": "1",
+      "id": 15
+    },
+    {
+      "name": "синьо сирене",
+      "qty": "75 г",
+      "id": 108
+    },
+    {
+      "name": "кашкавал",
+      "qty": "50 г",
+      "id": 47
+    },
+    {
+      "name": "зелени маслини",
+      "qty": "12",
+      "id": 50
+    },
+    {
+      "name": "босилек",
+      "qty": "пресен",
+      "id": 25
+    }
+  ]
+}

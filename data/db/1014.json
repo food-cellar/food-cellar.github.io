@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Солени палачинки със спанак и сирене",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/palachinki-sus-spanak-i-sirene-2-[1014].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/palachinki-sus-spanak-i-sirene-2-[1014].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/palachinki-sus-spanak-i-sirene-2-[1014].jpg"
+    ],
+    "datePublished": "2017-03-20",
+    "cookTime": "PT0H20M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "398 calories",
+      "carbohydrateContent": "29 g",
+      "fatContent": "22 g",
+      "proteinContent": "22 g",
+      "saturatedFatContent": "14 g",
+      "unsaturatedFatContent": "6.1205325 g",
+      "cholesterolContent": "174 mg"
+    },
+    "recipeIngredient": [
+      "2  яйца",
+      "5 с.л. брашно",
+      "400 мл. прясно мляко",
+      "сол",
+      "2 глави лук",
+      "400 г спанак",
+      "300 г сирене",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Яйцата (2 бр) се разбиват и към тях се добавя брашното (5 с.л.). Към получената гладка каша се сипва по малко от млякото (400 мл.). Посолява се. Палачинките се пекат на тиган с незалепващо покритие. Още докато са топли се завиват на рула със спаначената плънка.Плънката се приготвя като лукът (2 глави) се нарязва надребно и се задушава с масло до златисто. Добавя се попареният и нарязан наситно спанак (400 г). Подправя се със сол и черен пипер. След като плънката се задуши, към нея се добавя натрошеното сирене (300 г) и се разбърква добре."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "брашно",
+      "qty": "5 с.л.",
+      "id": 7
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "400 мл.",
+      "id": 14
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "лук",
+      "qty": "2 глави",
+      "id": 3
+    },
+    {
+      "name": "спанак",
+      "qty": "400 г",
+      "id": 40
+    },
+    {
+      "name": "сирене",
+      "qty": "300 г",
+      "id": 32
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

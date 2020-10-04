@@ -1,0 +1,134 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пълнено печено пиле с ориз и дробчета на фурна с картофи",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pulneno-pecheno-pile-s-oriz-i-drobcheta-na-furna-s-kartofi-1-[2783].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pulneno-pecheno-pile-s-oriz-i-drobcheta-na-furna-s-kartofi-1-[2783].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pulneno-pecheno-pile-s-oriz-i-drobcheta-na-furna-s-kartofi-1-[2783].jpg"
+    ],
+    "datePublished": "2014-02-18",
+    "cookTime": "PT2H0M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "638 calories",
+      "carbohydrateContent": "40 g",
+      "fatContent": "34 g",
+      "proteinContent": "39 g",
+      "saturatedFatContent": "11 g",
+      "unsaturatedFatContent": "20.067325 g",
+      "cholesterolContent": "344 mg"
+    },
+    "recipeIngredient": [
+      "1  пиле",
+      "1 кг картофи",
+      "1 к.ч. ориз",
+      "300 г пилешки дробчета",
+      "1 глава лук",
+      "3 к.ч. вода",
+      "1/2 ч.л. черен пипер",
+      "1/2 ч.л. джоджен",
+      "4 с.л. олио",
+      "сол",
+      "2 стръка розмарин",
+      "1 ч.ч. вода",
+      "50 г масло"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилето (1 бр) се измива и подсушава."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "В подсолена вода се сваряват дробчетата (300 г) и се нарязват на ситно."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "В олиото (4 с.л.) се задушава до омекване ситно нарязаният лук (1 глава), а след това се прибавя оризът (1 к.ч.). Залива се с вода (3 к.ч.) и се държи на огъня, докато оризът поеме течността."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Накрая към плънката се прибавят сол, черен пипер (1/2 ч.л.) и джоджен (1/2 ч.л.). Всичко се разбърква, със сместа се пълни пилето и се зашива."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Напълненото пиле се слага в тавичка. Намазва се с масло (50 г), залива се с топла вода (1 ч.ч.) и се пече при температура 180 градуса, като от време на време се полива с отделения в тавичката сос. Пилето се пече около час и 30 минути, като 45 минути след като се сложи във фурната, в тавичката се прибавят и обелените и нарязани картофи (1 кг) и се прибавя още малко вода и масло."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Ястието се сервира горещо, като по желание се поръсва с пресни стръкчета розмарин."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пиле",
+      "qty": "1",
+      "id": 111
+    },
+    {
+      "name": "картофи",
+      "qty": "1 кг",
+      "id": 16
+    },
+    {
+      "name": "ориз",
+      "qty": "1 к.ч.",
+      "id": 22
+    },
+    {
+      "name": "пилешки дробчета",
+      "qty": "300 г",
+      "id": 191
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "вода",
+      "qty": "3 к.ч.",
+      "id": 11
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1/2 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "джоджен",
+      "qty": "1/2 ч.л.",
+      "id": 60
+    },
+    {
+      "name": "олио",
+      "qty": "4 с.л.",
+      "id": 4
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "розмарин",
+      "qty": "2 стръка",
+      "id": 77
+    },
+    {
+      "name": "вода",
+      "qty": "1 ч.ч.",
+      "id": 11
+    },
+    {
+      "name": "масло",
+      "qty": "50 г",
+      "id": 8
+    }
+  ]
+}

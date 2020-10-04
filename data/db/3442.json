@@ -1,0 +1,98 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печено ярешко месо със спанак и пресен лук под фолио на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pecheno-iareshko-meso-sus-spanak-i-presen-luk-pod-folio-na-furna-3-[3442].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pecheno-iareshko-meso-sus-spanak-i-presen-luk-pod-folio-na-furna-3-[3442].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pecheno-iareshko-meso-sus-spanak-i-presen-luk-pod-folio-na-furna-3-[3442].jpg"
+    ],
+    "datePublished": "2020-05-27",
+    "cookTime": "PT1H30M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "741 calories",
+      "carbohydrateContent": "11 g",
+      "fatContent": "54 g",
+      "proteinContent": "47 g",
+      "saturatedFatContent": "23 g",
+      "unsaturatedFatContent": "26.531823333333 g",
+      "cholesterolContent": "180 mg"
+    },
+    "recipeIngredient": [
+      "1 1/2 кг ярешко месо",
+      "1 кг спанак",
+      "1 връзка пресен лук",
+      "1 връзка пресен чесън",
+      "1 глава лук",
+      "1 връзка магданоз",
+      "сол",
+      "черен пипер",
+      "1 ч.ч. бира"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Солта и черният пипер се смес с бирата (1 ч.ч.) и в тази смес се топят нарязаните на едро парчета ярешко месо (1 1/2 кг). Нареждат се в тава и се покриват с фолио. Пекат се в предварително загрята до 180 градуса фурна до пълна готовност (1 час). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Спанакът (1 кг), старият лукът (1 глава), пресният зелен лук (1 връзка), чесънът (1 връзка) и магданозът (1 връзка) се нарязват на ситно, посоляват се и се подправят с черен пипер. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Ярешкото се изважда от тавата, а спаначено-лучената смес се нарежда в нея върху соса, получен от печенето. Отгоре се нареждат парчетата месо и тавата се връща във фурната. Ястието се пече до пълното омекване на зеленчуците и получаването на златиста хрупкава коричка на месото."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "ярешко месо",
+      "qty": "1 1/2 кг",
+      "id": 81
+    },
+    {
+      "name": "спанак",
+      "qty": "1 кг",
+      "id": 40
+    },
+    {
+      "name": "пресен лук",
+      "qty": "1 връзка",
+      "id": 24
+    },
+    {
+      "name": "пресен чесън",
+      "qty": "1 връзка",
+      "id": 6
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "магданоз",
+      "qty": "1 връзка",
+      "id": 12
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "бира",
+      "qty": "1 ч.ч.",
+      "id": 137
+    }
+  ]
+}

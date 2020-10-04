@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Лесна салата с ябълки, моркови, орехи и синьо сирене",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/lesna-salata-s-iabulki-morkovi-orehi-i-sinioo-sirene-2-[3005].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/lesna-salata-s-iabulki-morkovi-orehi-i-sinioo-sirene-2-[3005].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/lesna-salata-s-iabulki-morkovi-orehi-i-sinioo-sirene-2-[3005].jpg"
+    ],
+    "datePublished": "2015-01-08",
+    "cookTime": "PT0H5M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "291 calories",
+      "carbohydrateContent": "22 g",
+      "fatContent": "20 g",
+      "proteinContent": "7 g",
+      "saturatedFatContent": "6 g",
+      "unsaturatedFatContent": "12.60592 g",
+      "cholesterolContent": "19 mg"
+    },
+    "recipeIngredient": [
+      "1  ябълка",
+      "2  моркова",
+      "20 г орехи",
+      "50 г синьо сирене",
+      "2 с.л. зехтин",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "За да приготвите тази лесна, диетична и интересна салата с ябълки, моркови, орехи и синьо сирене, необходимо е да рендосате морковите и зелената кисела ябълка и да ги овкусите със зехтин и сол. След това ги разбъркайте старателно и ги поставете в купа."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Орехите се разчупват на половинки или четвъртинки, а синьото сирене се реже на едри кубчета. Поставят се върху салатата и тя се сервира веднага."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "За да спестите време и да улесните ежедневието си, нашият екип ви препоръчва да използвате <a href=http://www.tefal.bg/All+Products/Food+preparation/Shredders/Products/Fresh+Express+MB756/Fresh+Express+MB756.htm?utm_source=1001recepti&utm_medium=blogpost&utm_campaign=1001recepti_FreshExpress>Fresh Express +</a> - уред, с който ще можете буквално за секунди да приготвите не само тази рецепта, но и много други, в които рязането и рендосването са превърнати от усилие в детска игра."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Салатата е лесна и вкусна, а комбинацията на зелена, кисела ябълка със синьо сирене и моркови е повече от интересна за небцето ви. Тази кулинарна идея се появи заради играта на <a href=https://www.facebook.com/TEFAL.Bulgaria>Tefal</a> Забъркай си настроение. Нашият екип винаги е смятал, че именно настроението определя вкуса на всяка рецепта! Не пропускайте да сложите щипка вдъхновение в тази лесна салата, защото без вдъхновение нищо няма да е така приятно в този живот!"
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "ябълка",
+      "qty": "1",
+      "id": 85
+    },
+    {
+      "name": "моркова",
+      "qty": "2",
+      "id": 13
+    },
+    {
+      "name": "орехи",
+      "qty": "20 г",
+      "id": 31
+    },
+    {
+      "name": "синьо сирене",
+      "qty": "50 г",
+      "id": 108
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

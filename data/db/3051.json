@@ -1,0 +1,132 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Кекс с орехи, какао, лимонови кори и локум в Делимано Мултикукър",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/keks-s-orehi-kakao-limonovi-kori-i-lokum-v-delimano-multikukur-2-[3051].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/keks-s-orehi-kakao-limonovi-kori-i-lokum-v-delimano-multikukur-2-[3051].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/keks-s-orehi-kakao-limonovi-kori-i-lokum-v-delimano-multikukur-2-[3051].jpg"
+    ],
+    "datePublished": "2015-06-29",
+    "cookTime": "PT1H0M",
+    "recipeYield": "12 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "589 calories",
+      "carbohydrateContent": "86 g",
+      "fatContent": "23 g",
+      "proteinContent": "11 g",
+      "saturatedFatContent": "7 g",
+      "unsaturatedFatContent": "13.994323333333 g",
+      "cholesterolContent": "71 mg"
+    },
+    "recipeIngredient": [
+      "3 ч.ч. брашно",
+      "1/2 ч.ч. масло",
+      "1 1/2 ч.ч. захар",
+      "3  яйца",
+      "1 ч.ч. прясно мляко",
+      "1 ч.ч. орехи",
+      "1 ч.л. ванилия",
+      "5 с.л. какао",
+      "1 с.л. лимонова кора",
+      "100 г локум",
+      "1 ч.л. бакпулвер",
+      "2 с.л. пудра захар"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "В купа се разбиват яйцата (3 бр) и захарта (1 1/2 ч.ч.) до побеляване."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Добавят се разтопеното масло (1/2 ч.ч.), брашното (3 ч.ч.), прясното мляко (1 ч.ч.), ванилията (1 ч.л.), настърганата лимонова кора (1 с.л.) и бакпулверът (1 ч.л.). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Сместа се разбива много добре. Накрая се добавят смлените или счукани орехи (1 ч.ч.)  и отново се разбърква."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Тестото се разделя на две равни части. В едната част се изсипва какаото (5 с.л.) и се разбърква с лъжица до получаване на еднородна смес. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Купата на <a href=http://www.delimano.bg/%D0%BA%D1%83%D1%85%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B8-%D1%83%D1%80%D0%B5%D0%B4%D0%B8/multikukar-50-v-1.html>Делимано Мултикукър 50 в 1</a> се намазва с олио и в нея се изсипва бялото кексово тесто. Върху него се изсипва и какаовото тесто и се разбърква съвсем леко с лъжица, за да се смесят, но да останат два цвята и да се получи цветен кекс."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Накрая се поставят нарязани на дребно парченца локум (100 г), като те сами потъват в сместа и не е нужно да се бърка след тяхното добавяне. Мултикукър 50 в 1 на <a href=http://www.delimano.bg/ rel=nofollow>Делимано</a> се включва на режим Кекс два пъти. Щом програмата приключи и второто печене, десертът е напълно готов."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Разрязва се, след като изстине и по желание се поръсва с пудра захар."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "брашно",
+      "qty": "3 ч.ч.",
+      "id": 7
+    },
+    {
+      "name": "масло",
+      "qty": "1/2 ч.ч.",
+      "id": 8
+    },
+    {
+      "name": "захар",
+      "qty": "1 1/2 ч.ч.",
+      "id": 9
+    },
+    {
+      "name": "яйца",
+      "qty": "3",
+      "id": 5
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "1 ч.ч.",
+      "id": 14
+    },
+    {
+      "name": "орехи",
+      "qty": "1 ч.ч.",
+      "id": 31
+    },
+    {
+      "name": "ванилия",
+      "qty": "1 ч.л.",
+      "id": 23
+    },
+    {
+      "name": "какао",
+      "qty": "5 с.л.",
+      "id": 45
+    },
+    {
+      "name": "лимонова кора",
+      "qty": "1 с.л.",
+      "id": 107
+    },
+    {
+      "name": "локум",
+      "qty": "100 г",
+      "id": 9
+    },
+    {
+      "name": "бакпулвер",
+      "qty": "1 ч.л.",
+      "id": 29
+    },
+    {
+      "name": "пудра захар",
+      "qty": "2 с.л.",
+      "id": 34
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Сирене по шопски в гювече",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/sirene-po-shopski-v-guveche-1-[2993].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/sirene-po-shopski-v-guveche-1-[2993].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/sirene-po-shopski-v-guveche-1-[2993].jpg"
+    ],
+    "datePublished": "2014-11-05",
+    "cookTime": "PT0H30M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "738 calories",
+      "carbohydrateContent": "18 g",
+      "fatContent": "58 g",
+      "proteinContent": "35 g",
+      "saturatedFatContent": "38 g",
+      "unsaturatedFatContent": "16.41928 g",
+      "cholesterolContent": "396 mg"
+    },
+    "recipeIngredient": [
+      "400 г сирене",
+      "2  домата",
+      "2  яйца",
+      "2 с.л. масло",
+      "1 стрък магданоз",
+      "2  люти чушки",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Сиренето (400 г) се нарязва на филийки и те се поставят в предварително намазаните с масло гювечета, една върху друга. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Доматите (2 бр) се нарязват на колелца и се поставят върху сиренето. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Гювечетата се пекат се в предварително загрята фурна около 10 минути. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "След това се изваждат и във всяко едно от тях се чуква по 1 яйце. Пекат се още няколко минути, докато яйцето е напълно готово."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Накрая гювечетата се посипват със ситно накълцан пресен магданоз и се сервират топли с люта чушка във всяка порция."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "сирене",
+      "qty": "400 г",
+      "id": 32
+    },
+    {
+      "name": "домата",
+      "qty": "2",
+      "id": 15
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "масло",
+      "qty": "2 с.л.",
+      "id": 8
+    },
+    {
+      "name": "магданоз",
+      "qty": "1 стрък",
+      "id": 12
+    },
+    {
+      "name": "люти чушки",
+      "qty": "2",
+      "id": 105
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пикантно пене с домати, кайма и пармезан",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pikantno-pene-s-domati-kaima-i-parmezan-1-[2755].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pikantno-pene-s-domati-kaima-i-parmezan-1-[2755].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pikantno-pene-s-domati-kaima-i-parmezan-1-[2755].jpg"
+    ],
+    "datePublished": "2014-02-13",
+    "cookTime": "PT0H45M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "873 calories",
+      "carbohydrateContent": "85 g",
+      "fatContent": "38 g",
+      "proteinContent": "44 g",
+      "saturatedFatContent": "14 g",
+      "unsaturatedFatContent": "19.6581075 g",
+      "cholesterolContent": "107 mg"
+    },
+    "recipeIngredient": [
+      "400 г пене",
+      "1/2 кг домати",
+      "1/2 кг кайма",
+      "1 глава лук",
+      "4 скилидки чесън",
+      "1/2 ч.л. черен пипер",
+      "сол",
+      "2 с.л. зехтин",
+      "100 г пармезан",
+      "1  люта чушка"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пастата (400 г) се сварява в подсолена вода според указанията на опаковката. След това се отцежда и оставя настрани. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Зехтинът (2 с.л.) се загрява в дълбок тиган, след което се добавят ситно нарязаните чесън (4 скилидки), ситно нарязаната люта чушка (1 бр) и ситно нарязан лук (1 глава). Задушават се няколко минути на умерена температура, като е важно да не се допуска чесънът да почернее. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Щом лукът омекне, се добавя каймата (1/2 кг) и се пържи, докато стане на трохи и е готова."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Накрая се добавят доматите (1/2 кг), предварително обелени и нарязани на много ситно, а също и черният пипер (4 скилидки)  и малко сол. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Сосът се оставя да ври на бавен огън около 15 минути или докато започне леко да се сгъстява. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Когато сосът е готов, се изсипва върху сварената паста, като всяка порция се разбърква, сервира се веднага и се поръсва с настърган пармезан (100 г)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пене",
+      "qty": "400 г",
+      "id": 129
+    },
+    {
+      "name": "домати",
+      "qty": "1/2 кг",
+      "id": 15
+    },
+    {
+      "name": "кайма",
+      "qty": "1/2 кг",
+      "id": 54
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1/2 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "пармезан",
+      "qty": "100 г",
+      "id": 59
+    },
+    {
+      "name": "люта чушка",
+      "qty": "1",
+      "id": 105
+    }
+  ]
+}

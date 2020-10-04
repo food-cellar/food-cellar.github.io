@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата с песто и сирене Фета",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-s-pesto-i-sirene-feta-3-[2165].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-s-pesto-i-sirene-feta-3-[2165].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-s-pesto-i-sirene-feta-3-[2165].jpg"
+    ],
+    "datePublished": "2012-11-20",
+    "cookTime": "PT0H10M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "356 calories",
+      "carbohydrateContent": "15 g",
+      "fatContent": "31 g",
+      "proteinContent": "6 g",
+      "saturatedFatContent": "12 g",
+      "unsaturatedFatContent": "16.022435 g",
+      "cholesterolContent": "55 mg"
+    },
+    "recipeIngredient": [
+      "2  краставици",
+      "2  домата",
+      "2  зелени чушки",
+      "1 глава червен лук",
+      "200 г сирене Фета",
+      "1/2 връзка босилек",
+      "2 скилидки чесън",
+      "8 с.л. зехтин",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пресният босилек (1/2 връзка), чесънът (2 скилидки), зехтинът (8 с.л.) и солта се поставят в блендър и се пасират до получаването на сос песто.Краставиците (2 бр), доматите (2 бр) и зелените чушки (2 бр) се измиват, почистват и нарязват на кубчета. Смесват се с нарязания на тънки полумесеци червен лук (1 глава) и салатата се овкусява с част от босилековото песто. Сервира се, като във всяка порция се поставя плочка сирене Фета (200 г), върху която се разпределя останалата част от пестото. Салатата се сервира веднага. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "краставици",
+      "qty": "2",
+      "id": 44
+    },
+    {
+      "name": "домата",
+      "qty": "2",
+      "id": 15
+    },
+    {
+      "name": "зелени чушки",
+      "qty": "2",
+      "id": 18
+    },
+    {
+      "name": "червен лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "сирене Фета",
+      "qty": "200 г",
+      "id": 150
+    },
+    {
+      "name": "босилек",
+      "qty": "1/2 връзка",
+      "id": 25
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "зехтин",
+      "qty": "8 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

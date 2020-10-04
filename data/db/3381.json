@@ -1,0 +1,104 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Мекици с яйца, кисело мляко и мая",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/mekici-s-iaica-kiselo-mliako-i-maia-2-[3381].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/mekici-s-iaica-kiselo-mliako-i-maia-2-[3381].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/mekici-s-iaica-kiselo-mliako-i-maia-2-[3381].jpg"
+    ],
+    "datePublished": "2019-08-08",
+    "cookTime": "PT0H40M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Хлебни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "347 calories",
+      "carbohydrateContent": "65 g",
+      "fatContent": "3 g",
+      "proteinContent": "11 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "0.55693333333333 g",
+      "cholesterolContent": "67 mg"
+    },
+    "recipeIngredient": [
+      "2  яйца",
+      "1 ч.ч. кисело мляко",
+      "5 г мая",
+      "сол",
+      "2 с.л. захар",
+      "1 ч.л. оцет",
+      "2 ч.ч. брашно",
+      "олио",
+      "топинг",
+      "портокалови кори"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "От яйцата (2 бр), брашното (2 ч.ч.), киселото мляко (1 ч.ч.), маята (5 г), солта , захарта (2 с.л.), оцета (1 ч.л.), олиото  и портокаловите кори  се омесва тесто и се оставя на топло място, за да удвои обема си. След това тестото се разделя на средни по големина топки. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Всяка топка се оформя с теглене на мекица, която се изпържва от двете страни в горещо олио. Мекиците се нареждат в плато една върху друга. Заливат се топинг на вкус и се поръсват с портокалови кори. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "За разкош може да се украсят с коктейлна черешка и да се гарнират с подсладено прецедено кисело мляко, поръсено също с портокалови кори и украсено с коктейлни черешки."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "кисело мляко",
+      "qty": "1 ч.ч.",
+      "id": 21
+    },
+    {
+      "name": "мая",
+      "qty": "5 г",
+      "id": 52
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "захар",
+      "qty": "2 с.л.",
+      "id": 9
+    },
+    {
+      "name": "оцет",
+      "qty": "1 ч.л.",
+      "id": 61
+    },
+    {
+      "name": "брашно",
+      "qty": "2 ч.ч.",
+      "id": 7
+    },
+    {
+      "name": "олио",
+      "qty": "Parsing error",
+      "id": 4
+    },
+    {
+      "name": "топинг",
+      "qty": "Parsing error",
+      "id": 152
+    },
+    {
+      "name": "портокалови кори",
+      "qty": "Parsing error",
+      "id": 159
+    }
+  ]
+}

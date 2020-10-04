@@ -1,0 +1,92 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пълнени конкилиони (паста) с рикота, спанак, сметана и кедрови ядки",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/konkilioni-s-rikota-i-spanak-1-[1454].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/konkilioni-s-rikota-i-spanak-1-[1454].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/konkilioni-s-rikota-i-spanak-1-[1454].jpg"
+    ],
+    "datePublished": "2011-05-23",
+    "cookTime": "PT0H45M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "581 calories",
+      "carbohydrateContent": "55 g",
+      "fatContent": "28 g",
+      "proteinContent": "27 g",
+      "saturatedFatContent": "12 g",
+      "unsaturatedFatContent": "12.988925 g",
+      "cholesterolContent": "68 mg"
+    },
+    "recipeIngredient": [
+      "250 г конкилиони",
+      "1/2 кг рикота",
+      "1 връзка спанак",
+      "50 г кедрови ядки",
+      "2 скилидки чесън",
+      "2 с.л. зехтин",
+      "2 с.л. сметана",
+      "1 с.л. сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пастата (250 г) се сварява до полуготовност, за около 8-10 минути. Трябва да се внимава да не стане прекалено мека и да не се разкъса."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Рикотата (1/2 кг), спанакът (1 връзка), чесънът (2 скилидки), зехтинът (2 с.л.), кедровите ядки (50 г) сметаната (2 с.л.) и солта се поставят в блендър и се пасират."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Конкилионите се пълнят със спаначената смес, поставят се в намазнена тавичка и се пекат на силна фурна 15-20 минути, до получаване на хрупкава коричка и кафеникав загар."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "конкилиони",
+      "qty": "250 г",
+      "id": 55
+    },
+    {
+      "name": "рикота",
+      "qty": "1/2 кг",
+      "id": 231
+    },
+    {
+      "name": "спанак",
+      "qty": "1 връзка",
+      "id": 40
+    },
+    {
+      "name": "кедрови ядки",
+      "qty": "50 г",
+      "id": 125
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сметана",
+      "qty": "2 с.л.",
+      "id": 19
+    },
+    {
+      "name": "сол",
+      "qty": "1 с.л.",
+      "id": 1
+    }
+  ]
+}

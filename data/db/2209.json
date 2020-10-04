@@ -1,0 +1,82 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата с броколи, запържени пилешки гърди, червен лук и дресинг от оцет, зехтин и мед",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-s-brokoli-pile-i-luk-1-[2209].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-s-brokoli-pile-i-luk-1-[2209].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-s-brokoli-pile-i-luk-1-[2209].jpg"
+    ],
+    "datePublished": "2013-02-01",
+    "cookTime": "PT0H25M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "137 calories",
+      "carbohydrateContent": "10 g",
+      "fatContent": "3 g",
+      "proteinContent": "19 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "1.619615 g",
+      "cholesterolContent": "36 mg"
+    },
+    "recipeIngredient": [
+      "250 г пилешки гърди",
+      "1  броколи",
+      "1/2 глава червен лук",
+      "1 щип. сол",
+      "1 с.л. оцет",
+      "1 с.л. мед",
+      "1 с.л. зехтин"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилешките гърди (250 г) се нарязват на кубчета и се запържват на тиган, докато получат златист загар. Бланшираните за няколко минути в подсолена вода броколи (1 бр) се нарязват на малки розички и се слагат в голяма салатена купа, към която се добавят запърженото пилешко месо и червеният лук (1/2 глава), нарязан на полумесеци. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Приготвя се дресинг от зехтина (1 с.л.), солта (1 с.л.), меда (1 с.л.) и оцета (1 с.л.). С него се полива салатата и се разбърква добре. Сервира се топла."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешки гърди",
+      "qty": "250 г",
+      "id": 79
+    },
+    {
+      "name": "броколи",
+      "qty": "1",
+      "id": 57
+    },
+    {
+      "name": "червен лук",
+      "qty": "1/2 глава",
+      "id": 3
+    },
+    {
+      "name": "сол",
+      "qty": "1 щип.",
+      "id": 1
+    },
+    {
+      "name": "оцет",
+      "qty": "1 с.л.",
+      "id": 61
+    },
+    {
+      "name": "мед",
+      "qty": "1 с.л.",
+      "id": 38
+    },
+    {
+      "name": "зехтин",
+      "qty": "1 с.л.",
+      "id": 10
+    }
+  ]
+}

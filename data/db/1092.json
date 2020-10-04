@@ -1,0 +1,54 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Коктейл Скакалец (Grasshopper)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kokteil-skakalec--4-[1092].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kokteil-skakalec--4-[1092].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kokteil-skakalec--4-[1092].jpg"
+    ],
+    "datePublished": "2011-08-24",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Коктейли",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "146 calories",
+      "carbohydrateContent": "1 g",
+      "fatContent": "15 g",
+      "proteinContent": "1 g",
+      "saturatedFatContent": "9 g",
+      "unsaturatedFatContent": "4.442 g",
+      "cholesterolContent": "56 mg"
+    },
+    "recipeIngredient": [
+      "50 мл. ментов ликьор",
+      "50 мл. какаов ликьор",
+      "50 мл. сметана"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Изсипете ликьорите и сметаната в шейкър с лед, разбийте добре и изсипете в  охладена чаша за мартини."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "ментов ликьор",
+      "qty": "50 мл.",
+      "id": 27
+    },
+    {
+      "name": "какаов ликьор",
+      "qty": "50 мл.",
+      "id": 27
+    },
+    {
+      "name": "сметана",
+      "qty": "50 мл.",
+      "id": 19
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата с консервиран нахут, айсберг, розови домати и лук",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-s-nahut-i-aisberg-1-[2125].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-s-nahut-i-aisberg-1-[2125].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-s-nahut-i-aisberg-1-[2125].jpg"
+    ],
+    "datePublished": "2012-10-16",
+    "cookTime": "PT0H15M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "350 calories",
+      "carbohydrateContent": "44 g",
+      "fatContent": "14 g",
+      "proteinContent": "14 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "10.7198125 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "250 г нахут",
+      "1 глава айсберг",
+      "1  розов домат",
+      "1 глава червен лук",
+      "6 с.л. зехтин",
+      "2 с.л. лимонов сок",
+      "сол",
+      "4 стръка копър"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Консервираният нахут (250 г) се отцежда и се поставя в дълбока купа. Към него се добавят обеленият и нарязан на кубчета розов домат (1 бр), ситно накълцаният червен лук (1 глава) и нарязаният на малки парченца айсберг (1 глава). Към продуктите се добавя ситно нарязан пресен копър (4 стръка) и салатата се овкусява със зехтин (6 с.л.), лимонов сок (2 с.л.) и сол. Разбърква се и се сервира. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "нахут",
+      "qty": "250 г",
+      "id": 145
+    },
+    {
+      "name": "айсберг",
+      "qty": "1 глава",
+      "id": 101
+    },
+    {
+      "name": "розов домат",
+      "qty": "1",
+      "id": 15
+    },
+    {
+      "name": "червен лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "зехтин",
+      "qty": "6 с.л.",
+      "id": 10
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "2 с.л.",
+      "id": 17
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "копър",
+      "qty": "4 стръка",
+      "id": 28
+    }
+  ]
+}

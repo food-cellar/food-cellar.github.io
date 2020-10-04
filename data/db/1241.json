@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Солен кекс с риба тон и кисели краставички",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/solen-keks-s-riba-ton-i-kiseli-krastavichki-1-[1241].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/solen-keks-s-riba-ton-i-kiseli-krastavichki-1-[1241].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/solen-keks-s-riba-ton-i-kiseli-krastavichki-1-[1241].jpg"
+    ],
+    "datePublished": "2017-03-20",
+    "cookTime": "PT0H50M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Хлебни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "413 calories",
+      "carbohydrateContent": "68 g",
+      "fatContent": "5 g",
+      "proteinContent": "19 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "2.31177375 g",
+      "cholesterolContent": "101 mg"
+    },
+    "recipeIngredient": [
+      "4  яйца",
+      "1 ч.ч. кисело мляко",
+      "3 ч.ч. брашно",
+      "1 опак. бакпулвер",
+      "1 консерва риба тон",
+      "100 г кисели краставички",
+      "босилек",
+      "черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Яйцата (4 бр) и киселото мляко (1 ч.ч.) се разбиват. Добавят се предварително смесените и пресяти брашно (3 ч.ч.) и бакпулвер (1 опак.), и подправките. Сместа се разбива много добре. Накаря се прибавят киселите краставички (100 г) (можете да използвате цели бейби краставички, или обикновени кисели краставички, нарязани на кубчета) и рибата тон (1 консерва) в растително масло. Тестото се разбърква и се поставя в правоъгълна намаслена и набрашнена тавичка. Изпича се в умерена фурна за около 40 минути."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "яйца",
+      "qty": "4",
+      "id": 5
+    },
+    {
+      "name": "кисело мляко",
+      "qty": "1 ч.ч.",
+      "id": 21
+    },
+    {
+      "name": "брашно",
+      "qty": "3 ч.ч.",
+      "id": 7
+    },
+    {
+      "name": "бакпулвер",
+      "qty": "1 опак.",
+      "id": 29
+    },
+    {
+      "name": "риба тон",
+      "qty": "1 консерва",
+      "id": 127
+    },
+    {
+      "name": "кисели краставички",
+      "qty": "100 г",
+      "id": 44
+    },
+    {
+      "name": "босилек",
+      "qty": "Parsing error",
+      "id": 25
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

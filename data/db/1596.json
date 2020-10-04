@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Картофена запеканка с броколи и сирене под фолио на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zapecheni-kartofi-s-brokoli-i-sirene-2-[1596].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zapecheni-kartofi-s-brokoli-i-sirene-2-[1596].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zapecheni-kartofi-s-brokoli-i-sirene-2-[1596].jpg"
+    ],
+    "datePublished": "2011-09-11",
+    "cookTime": "PT1H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "469 calories",
+      "carbohydrateContent": "43 g",
+      "fatContent": "28 g",
+      "proteinContent": "14 g",
+      "saturatedFatContent": "9 g",
+      "unsaturatedFatContent": "15.99725 g",
+      "cholesterolContent": "45 mg"
+    },
+    "recipeIngredient": [
+      "800 г картофи",
+      "1/2 кг броколи",
+      "200 г сирене",
+      "1 к.ч. зехтин",
+      "сол",
+      "пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Картофите (800 г) се обелват и нарязват на кубчета."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Броколите (1/2 кг) се разполовяват на средни по големина розички. Ако се използват замразени броколи, то първо се размразяват."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Сиренето (200 г) се нарязва на кубчета."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Всички продукти се смесват, поставят се в голяма тава и се пекат покрити с фолио около 1 час. След това фолиото се премахва и се пекат до пълно омекване на картофите."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "картофи",
+      "qty": "800 г",
+      "id": 16
+    },
+    {
+      "name": "броколи",
+      "qty": "1/2 кг",
+      "id": 57
+    },
+    {
+      "name": "сирене",
+      "qty": "200 г",
+      "id": 32
+    },
+    {
+      "name": "зехтин",
+      "qty": "1 к.ч.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Лесен ябълков пай с бутер тесто, канела и пудра захар",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/iabulkov-pai-s-buter-testo-kanela-i-pudra-zahar-1-[2830].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/iabulkov-pai-s-buter-testo-kanela-i-pudra-zahar-1-[2830].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/iabulkov-pai-s-buter-testo-kanela-i-pudra-zahar-1-[2830].jpg"
+    ],
+    "datePublished": "2014-02-25",
+    "cookTime": "PT0H45M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "484 calories",
+      "carbohydrateContent": "53 g",
+      "fatContent": "29 g",
+      "proteinContent": "6 g",
+      "saturatedFatContent": "5 g",
+      "unsaturatedFatContent": "21.5029775 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "400 г бутер тесто",
+      "4  ябълки",
+      "1/2 ч.ч. захар",
+      "1/2 ч.ч. орехи",
+      "1 ч.л. канела",
+      "2 с.л. пудра захар"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Ябълките (4 бр) се обелват, почистват и режат на кубчета. Прехвърлят се в купа и при тях се добавят смлените орехи (1/2 ч.ч.), кристалната захар (1/2 ч.ч.) и канелата (1 ч.л.). Всичко внимателно се разбърква. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Бутер тестото (400 г) леко се разточва, за да не бухне прекалено при печенето. След това се разрязва на правоъгълник, чиято дължина е близка до дължината на правоъгълната тава, в която ще се пече ябълковият пай. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "В единия край на парчето тесто се поставя плънката и десертът се завива на руло. То се поставя в тава с хартия за печене на дъното. По същия начин се оформят едно или повече рула, в зависимост от тавата, в която ще се пече и разделението на тестото."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "По повърхността на ябълковия пай с остър нож се правят частични прорези. Тавата се поставя в предварително загрята фурна и десертът се пече на 180 градуса в продължение на 20-30 минути."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "След изпичане десертът се оставя да се охлади и след това се реже на парчета. По желание се поръсва с пудра захар (2 с.л.)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "бутер тесто",
+      "qty": "400 г",
+      "id": 117
+    },
+    {
+      "name": "ябълки",
+      "qty": "4",
+      "id": 85
+    },
+    {
+      "name": "захар",
+      "qty": "1/2 ч.ч.",
+      "id": 9
+    },
+    {
+      "name": "орехи",
+      "qty": "1/2 ч.ч.",
+      "id": 31
+    },
+    {
+      "name": "канела",
+      "qty": "1 ч.л.",
+      "id": 46
+    },
+    {
+      "name": "пудра захар",
+      "qty": "2 с.л.",
+      "id": 34
+    }
+  ]
+}

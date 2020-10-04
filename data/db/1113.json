@@ -1,0 +1,98 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пилешки бутчета с гъбен сос",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pileshki-butcheta-s-guben-sos-1-[1113].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pileshki-butcheta-s-guben-sos-1-[1113].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pileshki-butcheta-s-guben-sos-1-[1113].jpg"
+    ],
+    "datePublished": "2010-12-11",
+    "cookTime": "PT0H30M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "663 calories",
+      "carbohydrateContent": "44 g",
+      "fatContent": "34 g",
+      "proteinContent": "45 g",
+      "saturatedFatContent": "10 g",
+      "unsaturatedFatContent": "20.427195 g",
+      "cholesterolContent": "149 mg"
+    },
+    "recipeIngredient": [
+      "4  пилешки бутчета",
+      "300 г гъби",
+      "3 ч.ч. прясно мляко",
+      "4 с.л. брашно",
+      "5 с.л. олио",
+      "черен пипер",
+      "червен пипер",
+      "розмарин",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилешките бутчета (4 бр) се посоляват, поръсват се с розмарин и червен пипер и се пекат до златисто. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Гъбите (300 г) се нарязват наситно и се задушават в олиото (5 с.л.), докато омекнат. Прибавя се брашното (4 с.л.) и леко се запържва. Налива се млякото (3 ч.ч.) и се прибавя сол и черен пипер на вкус. Сосът се оставя да поври, като се разбърква. С него се поливат пилешките бутчета и ястието се поднася горещо. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Подходяща гарнитура към него е варен ориз."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешки бутчета",
+      "qty": "4",
+      "id": 119
+    },
+    {
+      "name": "гъби",
+      "qty": "300 г",
+      "id": 37
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "3 ч.ч.",
+      "id": 14
+    },
+    {
+      "name": "брашно",
+      "qty": "4 с.л.",
+      "id": 7
+    },
+    {
+      "name": "олио",
+      "qty": "5 с.л.",
+      "id": 4
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "червен пипер",
+      "qty": "Parsing error",
+      "id": 20
+    },
+    {
+      "name": "розмарин",
+      "qty": "Parsing error",
+      "id": 77
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

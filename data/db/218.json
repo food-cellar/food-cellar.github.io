@@ -1,0 +1,88 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Тосканска салата с боб, риба тон и целина",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/bob_po_toskanski_2-[218].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/bob_po_toskanski_2-[218].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/bob_po_toskanski_2-[218].jpg"
+    ],
+    "datePublished": "2010-10-28",
+    "cookTime": "PT2H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "602 calories",
+      "carbohydrateContent": "79 g",
+      "fatContent": "11 g",
+      "proteinContent": "47 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "7.7261 g",
+      "cholesterolContent": "11 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг боб",
+      "250 г риба тон",
+      "1 глава целина",
+      "1 стрък праз лук",
+      "3 с.л. лимонов сок",
+      "3 с.л. зехтин",
+      "черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Бобът (1/2 кг) се сварява и след това се отцежда. Поставя се в купа за сервиране и се смесва с рибата (250 г) и нарязаните на ситно целина (1 глава) и праз лук (1 стрък). Овкусява се с лимонов сок (3 с.л.), зехтин (3 с.л.), черен пипер и сол."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Може да се използва и сварен боб от консерва/буркан. Тогава ще са ви нужни само 10 минути за приготвянето на тази чудесна салата."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "боб",
+      "qty": "1/2 кг",
+      "id": 63
+    },
+    {
+      "name": "риба тон",
+      "qty": "250 г",
+      "id": 127
+    },
+    {
+      "name": "целина",
+      "qty": "1 глава",
+      "id": 30
+    },
+    {
+      "name": "праз лук",
+      "qty": "1 стрък",
+      "id": 51
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "3 с.л.",
+      "id": 17
+    },
+    {
+      "name": "зехтин",
+      "qty": "3 с.л.",
+      "id": 10
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

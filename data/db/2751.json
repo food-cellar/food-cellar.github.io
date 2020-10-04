@@ -1,0 +1,86 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Картофена супа с бекон и копър",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kartofena-supa-s-bekon-i-kopur-1-[2751].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kartofena-supa-s-bekon-i-kopur-1-[2751].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kartofena-supa-s-bekon-i-kopur-1-[2751].jpg"
+    ],
+    "datePublished": "2014-02-12",
+    "cookTime": "PT0H45M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "411 calories",
+      "carbohydrateContent": "26 g",
+      "fatContent": "29 g",
+      "proteinContent": "11 g",
+      "saturatedFatContent": "10 g",
+      "unsaturatedFatContent": "16.4521 g",
+      "cholesterolContent": "34 mg"
+    },
+    "recipeIngredient": [
+      "1 кг картофи",
+      "400 г бекон",
+      "2 л. пилешки бульон",
+      "1 глава лук",
+      "1 ч.л. черен пипер",
+      "сол",
+      "4 стръка копър"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Картофите (1 кг) се измиват, обелват и нарязват на ситни кубчета. Заедно със ситно нарязания лук (1 глава) се поставят в дълбока тенджера и се заливат с горещия бульон (2 л.). Варят се, докато картофите омекнат напълно. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Десет минути преди картофите да са напълно готови се добавя нарязаният на кубчета бекон (400 г). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Супата се подправя със сол и черен пипер (1 ч.л.) и се поднася гореща, поръсена със ситно нарязан пресен копър (4 стръка). "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "картофи",
+      "qty": "1 кг",
+      "id": 16
+    },
+    {
+      "name": "бекон",
+      "qty": "400 г",
+      "id": 88
+    },
+    {
+      "name": "пилешки бульон",
+      "qty": "2 л.",
+      "id": 26
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "копър",
+      "qty": "4 стръка",
+      "id": 28
+    }
+  ]
+}

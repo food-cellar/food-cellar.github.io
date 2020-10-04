@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пържени телешки шницели от бонфиле панирани в брашно, яйца и галета",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/purjeni-teleshki-shniceli-ot-bonfile-1-[3138].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/purjeni-teleshki-shniceli-ot-bonfile-1-[3138].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/purjeni-teleshki-shniceli-ot-bonfile-1-[3138].jpg"
+    ],
+    "datePublished": "2016-12-16",
+    "cookTime": "PT0H25M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "584 calories",
+      "carbohydrateContent": "36 g",
+      "fatContent": "29 g",
+      "proteinContent": "40 g",
+      "saturatedFatContent": "8 g",
+      "unsaturatedFatContent": "16.83878 g",
+      "cholesterolContent": "198 mg"
+    },
+    "recipeIngredient": [
+      "600 г телешко бонфиле",
+      "50 г брашно",
+      "150 г галета",
+      "2  яйца",
+      "2 ч.л. червен пипер",
+      "20 г масло",
+      "50 мл. олио"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Телешкото бонфиле (600 г) се нарязва на 4 парчета, които се начукват докато станат половин сантиметър дебели."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Овалват се в смес от брашно (50 г), сол, червен и черен пипер (2 ч.л.). След това се потапят в разбитите яйца (2 бр) и накрая в галетата (150 г)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "В тиган се загравят олиото (50 мл.) и маслото (20 г). Шницелите се пържат един по един за по минута, минута и половина на страна, докато галетата придобие златист цвят."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Сервират се с резенчета лимон."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "телешко бонфиле",
+      "qty": "600 г",
+      "id": 363
+    },
+    {
+      "name": "брашно",
+      "qty": "50 г",
+      "id": 7
+    },
+    {
+      "name": "галета",
+      "qty": "150 г",
+      "id": 58
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "червен пипер",
+      "qty": "2 ч.л.",
+      "id": 20
+    },
+    {
+      "name": "масло",
+      "qty": "20 г",
+      "id": 8
+    },
+    {
+      "name": "олио",
+      "qty": "50 мл.",
+      "id": 4
+    }
+  ]
+}

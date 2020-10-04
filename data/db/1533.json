@@ -1,0 +1,88 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата с кускус по гръцки",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-s-kuskus-po-grucki-3-[1533].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-s-kuskus-po-grucki-3-[1533].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-s-kuskus-po-grucki-3-[1533].jpg"
+    ],
+    "datePublished": "2011-08-29",
+    "cookTime": "PT0H30M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "121 calories",
+      "carbohydrateContent": "11 g",
+      "fatContent": "6 g",
+      "proteinContent": "4 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "3.4606083333333 g",
+      "cholesterolContent": "15 mg"
+    },
+    "recipeIngredient": [
+      "1 к.ч. кускус",
+      "2  домата",
+      "1  краставица",
+      "100 г сирене",
+      "50 г черни маслини",
+      "2 стръка магданоз",
+      "2 с.л. зехтин",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Кускусът (1 к.ч.) се сварява според указанията на опаковката. Посолява се и към него се прибавят зехтинът (2 с.л.), нарязаните на кубчета домати (2 бр), краставица (1 бр) и сирене (100 г), а също и черните маслини (50 г), нарязани на колелца. Салатата се сервира украсена с листенца свеж магданоз (2 стръка). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Забележка: Кускусът, който е използван в тази рецепта е сварен във вода в пропорция 1:3.  "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "кускус",
+      "qty": "1 к.ч.",
+      "id": 160
+    },
+    {
+      "name": "домата",
+      "qty": "2",
+      "id": 15
+    },
+    {
+      "name": "краставица",
+      "qty": "1",
+      "id": 44
+    },
+    {
+      "name": "сирене",
+      "qty": "100 г",
+      "id": 32
+    },
+    {
+      "name": "черни маслини",
+      "qty": "50 г",
+      "id": 50
+    },
+    {
+      "name": "магданоз",
+      "qty": "2 стръка",
+      "id": 12
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

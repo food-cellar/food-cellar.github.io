@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Постна зимна салата с пиперки",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/postna-salata-s-piperki-2-[2179].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/postna-salata-s-piperki-2-[2179].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/postna-salata-s-piperki-2-[2179].jpg"
+    ],
+    "datePublished": "2012-11-25",
+    "cookTime": "PT0H10M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "159 calories",
+      "carbohydrateContent": "13 g",
+      "fatContent": "11 g",
+      "proteinContent": "1 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "9.72334 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "800 г печени червени чушки",
+      "4 скилидки чесън",
+      "2 стръка магданоз",
+      "50 мл. олио",
+      "4 с.л. оцет",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Печените белени червени чушки (800 г) се нарязват на ситно и се смесват с пресования чесън (4 скилидки), солта, оцета (4 с.л.), олиото (50 мл.) и ситно нарязания магданоз (2 стръка). Салатата се разбърква добре и се сервира веднага. Много е подходяща за студените месеци."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "печени червени чушки",
+      "qty": "800 г",
+      "id": 18
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "магданоз",
+      "qty": "2 стръка",
+      "id": 12
+    },
+    {
+      "name": "олио",
+      "qty": "50 мл.",
+      "id": 4
+    },
+    {
+      "name": "оцет",
+      "qty": "4 с.л.",
+      "id": 61
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Азиатски салатен дресинг с олио, соев сос и джинджифил",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/aziatski-salaten-dresing-1-[1632].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/aziatski-salaten-dresing-1-[1632].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/aziatski-salaten-dresing-1-[1632].jpg"
+    ],
+    "datePublished": "2011-10-18",
+    "cookTime": "PT0H5M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Сосове",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "31 calories",
+      "carbohydrateContent": "0 g",
+      "fatContent": "3 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "2.30773 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "2 с.л. олио",
+      "1 с.л. соев сос",
+      "10 г джинджифил",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Джинджифилът се настъгрва и се смесва с останалите продукти. Дресингът е подходящ за зелена, айсберг и зелева салата."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    },
+    {
+      "name": "соев сос",
+      "qty": "1 с.л.",
+      "id": 53
+    },
+    {
+      "name": "джинджифил",
+      "qty": "10 г",
+      "id": 84
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

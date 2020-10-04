@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Портокалово желе с лайм",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/portokalovo-jele-s-laim-1-[544].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/portokalovo-jele-s-laim-1-[544].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/portokalovo-jele-s-laim-1-[544].jpg"
+    ],
+    "datePublished": "2010-11-27",
+    "cookTime": "PT0H15M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "143 calories",
+      "carbohydrateContent": "31 g",
+      "fatContent": "0 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.0682625 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1  портокал",
+      "1  лайм",
+      "2 ч.ч. портокалов сок",
+      "2 опак. желатин",
+      "4 с.л. захар"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Портокалът се обелва и нарязва на малки парчета. Лаймът се нарязва на тънки колелца. Желатинът (2 опак.) се разтваря в портокаловия сок (2 ч.ч.), добавя се захарта (4 с.л.) и течността се изсипва в 4 купички. Добавят се парченцата портокал и резенчетата лайм и десертът се оставя в хладилник да се желира за 4-6 часа. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "портокал",
+      "qty": "1",
+      "id": 122
+    },
+    {
+      "name": "лайм",
+      "qty": "1",
+      "id": 204
+    },
+    {
+      "name": "портокалов сок",
+      "qty": "2 ч.ч.",
+      "id": 177
+    },
+    {
+      "name": "желатин",
+      "qty": "2 опак.",
+      "id": 124
+    },
+    {
+      "name": "захар",
+      "qty": "4 с.л.",
+      "id": 9
+    }
+  ]
+}

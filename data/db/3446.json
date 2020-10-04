@@ -1,0 +1,68 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Орехови целувки от белтъци, орехови ядки, пудра захар и лимонов сок",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/orehovi-celuvki-ot-beltuci-orehovi-iadki-pudra-zahar-i-limonov-sok-1-[3446].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/orehovi-celuvki-ot-beltuci-orehovi-iadki-pudra-zahar-i-limonov-sok-1-[3446].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/orehovi-celuvki-ot-beltuci-orehovi-iadki-pudra-zahar-i-limonov-sok-1-[3446].jpg"
+    ],
+    "datePublished": "2020-05-28",
+    "cookTime": "PT0H30M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "178 calories",
+      "carbohydrateContent": "18 g",
+      "fatContent": "10 g",
+      "proteinContent": "3 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "8.1165175 g",
+      "cholesterolContent": "47 mg"
+    },
+    "recipeIngredient": [
+      "2  белтъка",
+      "1/2 ч.ч. орехи",
+      "1 ч.ч. пудра захар",
+      "1 ч.л. лимонов сок"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Белтъците [(2 бр) се разбиват с миксер заедно с пудрата захар (1 ч.ч.) и лимонов сок (1 ч.л.). Трябва да бъдат много добре разбити - бърка се около 10 минути."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Ореховите ядки (1/2 ч.ч.) се нарязват на много ситно и се добавят към сместа."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Тава се застила хартия за печене или се намазва с масло. С помощта на лъжица се оформят целувки, които се пекат в слаба фурна до леко розов цвят."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "белтъка",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "орехи",
+      "qty": "1/2 ч.ч.",
+      "id": 31
+    },
+    {
+      "name": "пудра захар",
+      "qty": "1 ч.ч.",
+      "id": 34
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 ч.л.",
+      "id": 17
+    }
+  ]
+}

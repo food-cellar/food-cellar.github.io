@@ -1,0 +1,108 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Телешки пепър стек",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pepur-stek-2-[268].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pepur-stek-2-[268].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pepur-stek-2-[268].jpg"
+    ],
+    "datePublished": "2010-11-07",
+    "cookTime": "PT0H40M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "619 calories",
+      "carbohydrateContent": "38 g",
+      "fatContent": "33 g",
+      "proteinContent": "45 g",
+      "saturatedFatContent": "17 g",
+      "unsaturatedFatContent": "13.261681111111 g",
+      "cholesterolContent": "200 mg"
+    },
+    "recipeIngredient": [
+      "200 г телешки стек",
+      "20 г масло",
+      "1  червена чушка",
+      "1  червено чушле сорт “Чили”",
+      "1 с.л. мед",
+      "1 с.л. доматено пюре",
+      "сол",
+      "черен пипер",
+      "1 скилидка чесън",
+      "150 г зеленчуков микс",
+      "1 лист зелена салата",
+      "1/2  лимон"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Телешкият стек се задушава в предварително сгорещеното масло (20 г) под капак до пълно омекване. В миксер се разбиват на пюре червените чушки (1 бр), нарязаното на ситно люто чушле, медът (1 с.л.), доматеното пюре (1 с.л.), солта, черният пипер и чесънът до еднородна смес. С получената смес се намазва стекът отвсякъде и се запича за малко в предварително сгорещена фурна. Зеленчуковият микс (150 г) се бланшира в гореща подсолена вода, след което се задушава в масло. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "телешки стек",
+      "qty": "200 г",
+      "id": 302
+    },
+    {
+      "name": "масло",
+      "qty": "20 г",
+      "id": 8
+    },
+    {
+      "name": "червена чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "червено чушле сорт “Чили”",
+      "qty": "1",
+      "id": 105
+    },
+    {
+      "name": "мед",
+      "qty": "1 с.л.",
+      "id": 38
+    },
+    {
+      "name": "доматено пюре",
+      "qty": "1 с.л.",
+      "id": 35
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "чесън",
+      "qty": "1 скилидка",
+      "id": 6
+    },
+    {
+      "name": "зеленчуков микс",
+      "qty": "150 г",
+      "id": 327
+    },
+    {
+      "name": "зелена салата",
+      "qty": "1 лист",
+      "id": 87
+    },
+    {
+      "name": "лимон",
+      "qty": "1/2",
+      "id": 43
+    }
+  ]
+}

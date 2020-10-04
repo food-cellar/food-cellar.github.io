@@ -1,0 +1,100 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Лесна салата с паста, шунка, чери домати, пресен лук и сос от майонеза и горчица",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/lesna-salata-s-pasta-shunka-cheri-domati-presen-luk-i-sos-1-[2898].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/lesna-salata-s-pasta-shunka-cheri-domati-presen-luk-i-sos-1-[2898].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/lesna-salata-s-pasta-shunka-cheri-domati-presen-luk-i-sos-1-[2898].jpg"
+    ],
+    "datePublished": "2014-04-04",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "511 calories",
+      "carbohydrateContent": "48 g",
+      "fatContent": "27 g",
+      "proteinContent": "17 g",
+      "saturatedFatContent": "5 g",
+      "unsaturatedFatContent": "19.3468675 g",
+      "cholesterolContent": "37 mg"
+    },
+    "recipeIngredient": [
+      "200 г паста",
+      "200 г шунка",
+      "200 г чери домати",
+      "4 стръка пресен лук",
+      "200 г майонеза",
+      "2 с.л. горчица",
+      "1 с.л. червен пипер",
+      "1 ч.л. черен пипер",
+      "сол",
+      "1 глава лук"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пастата (200 г) се сварява във вряща подсолена вода според указанията на опаковката. След това се отцежда и смесва със ситно нарязания пресен лук (4 стръка), нарязания на тънки колелца стар лук (1 глава), нарязаната на ивици шунка (200 г) и разполовените чери домати (200 г). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Всичко се посолява, разбърква се и се разпределя в порционни чинии. Залива се със сос, приготвен от разбиването на майонезата (200 г), горчицата (2 с.л.), червеният (1 с.л.) и черният пипер (1 ч.л.). По желание салатата се декорира с пресен босилек."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "паста",
+      "qty": "200 г",
+      "id": 55
+    },
+    {
+      "name": "шунка",
+      "qty": "200 г",
+      "id": 76
+    },
+    {
+      "name": "чери домати",
+      "qty": "200 г",
+      "id": 15
+    },
+    {
+      "name": "пресен лук",
+      "qty": "4 стръка",
+      "id": 24
+    },
+    {
+      "name": "майонеза",
+      "qty": "200 г",
+      "id": 80
+    },
+    {
+      "name": "горчица",
+      "qty": "2 с.л.",
+      "id": 64
+    },
+    {
+      "name": "червен пипер",
+      "qty": "1 с.л.",
+      "id": 20
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    }
+  ]
+}

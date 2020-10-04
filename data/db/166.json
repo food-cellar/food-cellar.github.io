@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Задушено пиле със замразен спанак и ориз в тенджера",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pile-sus-spanak-1-[166].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pile-sus-spanak-1-[166].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pile-sus-spanak-1-[166].jpg"
+    ],
+    "datePublished": "2010-11-16",
+    "cookTime": "PT0H40M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "653 calories",
+      "carbohydrateContent": "39 g",
+      "fatContent": "34 g",
+      "proteinContent": "44 g",
+      "saturatedFatContent": "9 g",
+      "unsaturatedFatContent": "21.6383625 g",
+      "cholesterolContent": "159 mg"
+    },
+    "recipeIngredient": [
+      "1  пиле",
+      "1 опак. замразен спанак",
+      "1 ч.ч. ориз",
+      "кълнове от червено цвекло",
+      "сол",
+      "1 с.л. олио",
+      "черен пипер",
+      "чесън на прах"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилето се нарязва на порции, задушава се в горещо олио. Щом месото поомекне, се посолява и подправя с черен пипер. Разбърква се. Прибавя се спанакът (1 опак.) и се захлупва. Ястието ври на слаб огън до пълна готовност. Малко преди да се снеме от котлона се прибавя чесънът на прах и се разбърква. Поднася се с варен ориз и кълнове от червено цвекло."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пиле",
+      "qty": "1",
+      "id": 111
+    },
+    {
+      "name": "замразен спанак",
+      "qty": "1 опак.",
+      "id": 40
+    },
+    {
+      "name": "ориз",
+      "qty": "1 ч.ч.",
+      "id": 22
+    },
+    {
+      "name": "кълнове от червено цвекло",
+      "qty": "Parsing error",
+      "id": 131
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "олио",
+      "qty": "1 с.л.",
+      "id": 4
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "чесън на прах",
+      "qty": "Parsing error",
+      "id": 6
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Лек крем с маскарпоне и малини",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/lek-krem-s-maskarpone-i-malini-2-[2051].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/lek-krem-s-maskarpone-i-malini-2-[2051].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/lek-krem-s-maskarpone-i-malini-2-[2051].jpg"
+    ],
+    "datePublished": "2012-08-14",
+    "cookTime": "PT0H10M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "240 calories",
+      "carbohydrateContent": "14 g",
+      "fatContent": "17 g",
+      "proteinContent": "7 g",
+      "saturatedFatContent": "10 g",
+      "unsaturatedFatContent": "5.7973131707317 g",
+      "cholesterolContent": "65 mg"
+    },
+    "recipeIngredient": [
+      "8 с.л. маскарпоне",
+      "8 с.л. извара",
+      "8 с.л. кондензирано мляко",
+      "1/2 ч.л. есенция ром",
+      "200 г малини",
+      "2 с.л. пудра захар",
+      "4 връхчета мента"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Маскарпонето (8 с.л.), изварата (8 с.л.), гъстото подсладено кондензирано мляко (8 с.л.) и есенцията ром (1/2 ч.л.) се разбиват до получаването на гладък крем. Половината от малините се смесват с пудрата захар (2 с.л.) и се намачкват нежно с вилица, но без да стават на пюре. Разпределят се на дъното на десертни купички и се заливат с крема. Десертът се завършва с останалите малини и се декорира с връхче свежа мента. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "маскарпоне",
+      "qty": "8 с.л.",
+      "id": 115
+    },
+    {
+      "name": "извара",
+      "qty": "8 с.л.",
+      "id": 92
+    },
+    {
+      "name": "кондензирано мляко",
+      "qty": "8 с.л.",
+      "id": 174
+    },
+    {
+      "name": "есенция ром",
+      "qty": "1/2 ч.л.",
+      "id": 74
+    },
+    {
+      "name": "малини",
+      "qty": "200 г",
+      "id": 141
+    },
+    {
+      "name": "пудра захар",
+      "qty": "2 с.л.",
+      "id": 34
+    },
+    {
+      "name": "мента",
+      "qty": "4 връхчета",
+      "id": 90
+    }
+  ]
+}

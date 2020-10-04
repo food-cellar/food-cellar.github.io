@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Домашен пастет от тиквички с чесън, сметана и копър",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pastet-ot-tikvichki-obliji-si-prustite-1-[1040].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pastet-ot-tikvichki-obliji-si-prustite-1-[1040].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pastet-ot-tikvichki-obliji-si-prustite-1-[1040].jpg"
+    ],
+    "datePublished": "2011-10-15",
+    "cookTime": "PT0H20M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "21 calories",
+      "carbohydrateContent": "4 g",
+      "fatContent": "0 g",
+      "proteinContent": "1 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.08076 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг тиквички",
+      "2 скилидки чесън",
+      "к.ч. сметана",
+      "1 с.л. лимонов сок",
+      "сол",
+      "черен пипер",
+      "5 стръкчета магданоз",
+      "10 стръкчета копър"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Тиквичките се обелват и сваряват. Пасират се заедно с чесънът, сметаната и подправките до получаване на еднородна смес. Това е чудесна разядка, но също така и прекрасна гарнитура към риби и меса."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "тиквички",
+      "qty": "1/2 кг",
+      "id": 39
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "сметана",
+      "qty": "к.ч.",
+      "id": 19
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "магданоз",
+      "qty": "5 стръкчета",
+      "id": 12
+    },
+    {
+      "name": "копър",
+      "qty": "10 стръкчета",
+      "id": 28
+    }
+  ]
+}

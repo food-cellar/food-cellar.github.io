@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Картофен огретен с мариновани сушени домати, сметана и риган на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kartofen-ogreten-s-marinovani-susheni-domati-1-[1429].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kartofen-ogreten-s-marinovani-susheni-domati-1-[1429].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kartofen-ogreten-s-marinovani-susheni-domati-1-[1429].jpg"
+    ],
+    "datePublished": "2017-03-20",
+    "cookTime": "PT1H0M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "368 calories",
+      "carbohydrateContent": "40 g",
+      "fatContent": "21 g",
+      "proteinContent": "7 g",
+      "saturatedFatContent": "13 g",
+      "unsaturatedFatContent": "6.8680333333333 g",
+      "cholesterolContent": "74 mg"
+    },
+    "recipeIngredient": [
+      "1 кг картофи",
+      "100 г мариновани сушени домати",
+      "400 мл. сметана",
+      "1 с.л. риган",
+      "1 ч.л. черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Картофите (1 кг) се измиват, обелват и нарязват на много тънки резени. Овкусяват се с подправките. Маринованите сушени домати (100 г) се отцеждат и нарязват на малки кубчета. В тавичка се подреждат половината резени картофи, изсипват се маринованите сушени домати и отново се подреждат останалите картофи. Ястието се залива с течната готварска сметана (400 мл.) и се пече около 45 минути при температура 180 градуса."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "картофи",
+      "qty": "1 кг",
+      "id": 16
+    },
+    {
+      "name": "мариновани сушени домати",
+      "qty": "100 г",
+      "id": 121
+    },
+    {
+      "name": "сметана",
+      "qty": "400 мл.",
+      "id": 19
+    },
+    {
+      "name": "риган",
+      "qty": "1 с.л.",
+      "id": 65
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

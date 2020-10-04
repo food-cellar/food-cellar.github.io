@@ -1,0 +1,100 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пиле жулиен - класическа рецепта",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pile-julien-klasicheska-recepta-5-[2591].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pile-julien-klasicheska-recepta-5-[2591].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pile-julien-klasicheska-recepta-5-[2591].jpg"
+    ],
+    "datePublished": "2013-05-14",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "420 calories",
+      "carbohydrateContent": "6 g",
+      "fatContent": "31 g",
+      "proteinContent": "28 g",
+      "saturatedFatContent": "15 g",
+      "unsaturatedFatContent": "12.806455 g",
+      "cholesterolContent": "166 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг пилешко филе",
+      "300 г кисели краставички",
+      "250 мл. готварска сметана",
+      "200 г гъби",
+      "3 с.л. олио",
+      "1 ч.л. босилек",
+      "1/2 ч.л. черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилешкото филе (1/2 кг) и киселите краставички (300 г) се нарязват на жулиени (тънки ивички). Гъбите (200 г) се измиват и се нарязват на полумесеци. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Месото се запържва от всички страни до златисто в сгорещеното олио (3 с.л.) и се овкусява със сол и черен пипер (1/2 ч.л.). Щом се позлати, към него се добавят гъбите и киселите краставички. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Щом гъбите се задушат, се добавя сушеният босилек (1 ч.л.). Ястието къкри на котлона за още две минути. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Накрая се добавя течната готварска сметана (250 мл.). Разбърква се, докато течността се сгъсти.  "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Пиле Жулиен се сервира горещо. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешко филе",
+      "qty": "1/2 кг",
+      "id": 49
+    },
+    {
+      "name": "кисели краставички",
+      "qty": "300 г",
+      "id": 44
+    },
+    {
+      "name": "готварска сметана",
+      "qty": "250 мл.",
+      "id": 19
+    },
+    {
+      "name": "гъби",
+      "qty": "200 г",
+      "id": 37
+    },
+    {
+      "name": "олио",
+      "qty": "3 с.л.",
+      "id": 4
+    },
+    {
+      "name": "босилек",
+      "qty": "1 ч.л.",
+      "id": 25
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1/2 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Лимонено пилешко филе с картофи, чесън и пресен зелен лук печено на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/limoneno-pile-s-chesun-2-[993].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/limoneno-pile-s-chesun-2-[993].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/limoneno-pile-s-chesun-2-[993].jpg"
+    ],
+    "datePublished": "2017-03-20",
+    "cookTime": "PT0H40M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "614 calories",
+      "carbohydrateContent": "74 g",
+      "fatContent": "20 g",
+      "proteinContent": "34 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "15.901005 g",
+      "cholesterolContent": "81 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг пилешко филе",
+      "1 1/2 кг картофи",
+      "2  лимона",
+      "5 стръка магданоз",
+      "1 ч.л. риган",
+      "2 стръка чесън",
+      "2 стръка пресен лук",
+      "1 к.ч. олио",
+      "1 ч.л. сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилешкото месо (1/2 кг) се нарязва на дребни парченца, а картофите (1 1/2 кг) на тънки колелца. Марината се приготвя като пресните зелени подправки, лукът (2 стръка) и чесънът (2 стръка) се нарязват наситно и се омесват със сока от двата лимона, олиото, солта и ригана. Картофите и пилето се изсипват в тавичка, заливат се с маринатата и се поливат с вода, така че да покрие полвината от ястието. Пече се до порозовяване на месото."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешко филе",
+      "qty": "1/2 кг",
+      "id": 49
+    },
+    {
+      "name": "картофи",
+      "qty": "1 1/2 кг",
+      "id": 16
+    },
+    {
+      "name": "лимона",
+      "qty": "2",
+      "id": 43
+    },
+    {
+      "name": "магданоз",
+      "qty": "5 стръка",
+      "id": 12
+    },
+    {
+      "name": "риган",
+      "qty": "1 ч.л.",
+      "id": 65
+    },
+    {
+      "name": "чесън",
+      "qty": "2 стръка",
+      "id": 6
+    },
+    {
+      "name": "пресен лук",
+      "qty": "2 стръка",
+      "id": 24
+    },
+    {
+      "name": "олио",
+      "qty": "1 к.ч.",
+      "id": 4
+    },
+    {
+      "name": "сол",
+      "qty": "1 ч.л.",
+      "id": 1
+    }
+  ]
+}

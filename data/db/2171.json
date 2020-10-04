@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Паста със зеленчуци, сьомга и скариди",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pasta-sus-zelenchuci-sioomga-i-skaridi-2-[2171].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pasta-sus-zelenchuci-sioomga-i-skaridi-2-[2171].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pasta-sus-zelenchuci-sioomga-i-skaridi-2-[2171].jpg"
+    ],
+    "datePublished": "2012-11-24",
+    "cookTime": "PT0H40M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "514 calories",
+      "carbohydrateContent": "79 g",
+      "fatContent": "10 g",
+      "proteinContent": "24 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "7.0099675 g",
+      "cholesterolContent": "35 mg"
+    },
+    "recipeIngredient": [
+      "400 г паста",
+      "1  розов домат",
+      "200 г сьомга",
+      "1  зелена чушка",
+      "4  скариди",
+      "4 скилидки чесън",
+      "4 с.л. зехтин",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пастата (400 г) се сварява в подсолена вода според указанията на опаковката. Отцежда се.През това време розовият домат (1 бр) се обелва и нарязва на кубчета, чесънът (4 скилидки) се счуква, а сьомгата (200 г) се нарязва на кубчета. Тези продукти се поставят в дълбок тиган и заедно със зехтин (4 с.л.) и ситно нарязаната зелена чушка (1 бр) се задушават до омекване. Щом зеленчуците и сьомгата са готови, към тях се добавя пастата и всичко се бърка, докато ароматите се смесят. Пастата се разпределя в порционни чинии и във всяка порция се поставя бланширана за минутка в подсолена вода скарида (4 бр)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "паста",
+      "qty": "400 г",
+      "id": 55
+    },
+    {
+      "name": "розов домат",
+      "qty": "1",
+      "id": 15
+    },
+    {
+      "name": "сьомга",
+      "qty": "200 г",
+      "id": 114
+    },
+    {
+      "name": "зелена чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "скариди",
+      "qty": "4",
+      "id": 104
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

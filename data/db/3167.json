@@ -1,0 +1,52 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Бланширани картофи във фритюрник",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/blanshirani-kartofi-vuv-friturnik-1-[3167].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/blanshirani-kartofi-vuv-friturnik-1-[3167].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/blanshirani-kartofi-vuv-friturnik-1-[3167].jpg"
+    ],
+    "datePublished": "2017-01-18",
+    "cookTime": "PT0H10M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Други",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "856 calories",
+      "carbohydrateContent": "43 g",
+      "fatContent": "75 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "37 g",
+      "unsaturatedFatContent": "34.0825 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1 кг картофи",
+      "300 г палмова мазнина"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Необходимо е да се използва мазнина, която е твърда на стайна температура. Поставя се във фритюрник и се загрява. Картофите се обелват и нарязват на пръчици. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Щом мазнината е загрята се поставят картофите и се пържат за 2-3 минути. Изваждат се и се отцеждат, след което се поставят в плик и се прибират за съхранение във фризера."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "картофи",
+      "qty": "1 кг",
+      "id": 16
+    },
+    {
+      "name": "палмова мазнина",
+      "qty": "300 г",
+      "id": 355
+    }
+  ]
+}

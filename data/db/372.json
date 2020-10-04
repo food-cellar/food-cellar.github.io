@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Шоколадови трюфели от бисквити с орехи и ром",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/shokoladovi-trufeli-3-[372].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/shokoladovi-trufeli-3-[372].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/shokoladovi-trufeli-3-[372].jpg"
+    ],
+    "datePublished": "2010-12-09",
+    "cookTime": "PT0H30M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "262 calories",
+      "carbohydrateContent": "29 g",
+      "fatContent": "15 g",
+      "proteinContent": "3 g",
+      "saturatedFatContent": "5 g",
+      "unsaturatedFatContent": "8.22922875 g",
+      "cholesterolContent": "89 mg"
+    },
+    "recipeIngredient": [
+      "100 г бисквити",
+      "1  белтък",
+      "100 г пудра захар",
+      "2 ч.л. ром",
+      "100 г шоколад",
+      "50 г орехи",
+      "3 с.л. пудра захар",
+      "1 с.л. ром",
+      "2 с.л. масло",
+      "3  жълтъкa"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Белтъкът (1 бр) се разбива с пудрата захар (100 г). Добавят се ромът (2 ч.л.), част от орехите, настърганияt шоколад (100 г), счуканите на прах бисквити (100 г). Всичко се смесва до получаването на еднородна смес, която се разделя на топчета. Във всяко топче се прави вдлъбнатинка, в която се слага пълнеж и се закрива, за да не се вижда. Готовите трюфели се овалват в останалите счукани орехи и настърган шоколад. За пълнежа: смесват се маслото (2 с.л.) с пудрата захар (3 с.л.), настърганите сварени жълтъци (3 бр) и ромът (1 с.л.)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "бисквити",
+      "qty": "100 г",
+      "id": 95
+    },
+    {
+      "name": "белтък",
+      "qty": "1",
+      "id": 157
+    },
+    {
+      "name": "пудра захар",
+      "qty": "100 г",
+      "id": 34
+    },
+    {
+      "name": "ром",
+      "qty": "2 ч.л.",
+      "id": 74
+    },
+    {
+      "name": "шоколад",
+      "qty": "100 г",
+      "id": 48
+    },
+    {
+      "name": "орехи",
+      "qty": "50 г",
+      "id": 31
+    },
+    {
+      "name": "пудра захар",
+      "qty": "3 с.л.",
+      "id": 34
+    },
+    {
+      "name": "ром",
+      "qty": "1 с.л.",
+      "id": 74
+    },
+    {
+      "name": "масло",
+      "qty": "2 с.л.",
+      "id": 8
+    },
+    {
+      "name": "жълтъкa",
+      "qty": "3",
+      "id": 33
+    }
+  ]
+}

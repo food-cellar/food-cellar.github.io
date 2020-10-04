@@ -1,0 +1,120 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Зелена салата със спанак, кълнове, ядки и стафиди",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/proleten-kapriz-2-[229].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/proleten-kapriz-2-[229].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/proleten-kapriz-2-[229].jpg"
+    ],
+    "datePublished": "2010-11-29",
+    "cookTime": "PT0H10M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "417 calories",
+      "carbohydrateContent": "28 g",
+      "fatContent": "25 g",
+      "proteinContent": "24 g",
+      "saturatedFatContent": "13 g",
+      "unsaturatedFatContent": "10.90162 g",
+      "cholesterolContent": "53 mg"
+    },
+    "recipeIngredient": [
+      "4 листа зелена салата",
+      "4 листа спанак",
+      "1 стрък пресен лук",
+      "2 перца пресен чесън",
+      "6 листенца мента",
+      "20 г соеви кълнове",
+      "10 г тъмни стафиди",
+      "10 г светли стафиди",
+      "10 г каперси",
+      "10  бадеми",
+      "50 г козе сирене",
+      "1  зехтин",
+      "1 с.л. лимонов сок",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Листата от салатата и спанака се накъсват на едро в салатена чиния. Добавят се пресният лук (1 стрък), перцата от пресния чесън (2 перца) и ментовите листенца (6 листенца), нарязани на ситно. Овкусяват се със сол, зехтин и лимонов сок и се разбъркват. Отгоре салата се поръсва със соеви кълнове (20 г), стафиди, каперси (10 г), бадеми и кубчета козе сирене (50 г)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "зелена салата",
+      "qty": "4 листа",
+      "id": 87
+    },
+    {
+      "name": "спанак",
+      "qty": "4 листа",
+      "id": 40
+    },
+    {
+      "name": "пресен лук",
+      "qty": "1 стрък",
+      "id": 24
+    },
+    {
+      "name": "пресен чесън",
+      "qty": "2 перца",
+      "id": 6
+    },
+    {
+      "name": "мента",
+      "qty": "6 листенца",
+      "id": 90
+    },
+    {
+      "name": "соеви кълнове",
+      "qty": "20 г",
+      "id": 225
+    },
+    {
+      "name": "тъмни стафиди",
+      "qty": "10 г",
+      "id": 69
+    },
+    {
+      "name": "светли стафиди",
+      "qty": "10 г",
+      "id": 69
+    },
+    {
+      "name": "каперси",
+      "qty": "10 г",
+      "id": 162
+    },
+    {
+      "name": "бадеми",
+      "qty": "10",
+      "id": 82
+    },
+    {
+      "name": "козе сирене",
+      "qty": "50 г",
+      "id": 227
+    },
+    {
+      "name": "зехтин",
+      "qty": "1",
+      "id": 10
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

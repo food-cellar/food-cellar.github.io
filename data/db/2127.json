@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Зелена салата с кашу и нар",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zelena-salata-s-kashu-i-nar-2-[2127].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zelena-salata-s-kashu-i-nar-2-[2127].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zelena-salata-s-kashu-i-nar-2-[2127].jpg"
+    ],
+    "datePublished": "2012-10-24",
+    "cookTime": "PT0H5M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "223 calories",
+      "carbohydrateContent": "10 g",
+      "fatContent": "18 g",
+      "proteinContent": "7 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "13.831455 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1 връзка зелена салата",
+      "100 г кашу",
+      "1  нар",
+      "4 с.л. зехтин",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Зелената салата (1 връзка) се измива, отцежда се и се накъсва на парченца. Овкусява се със зехтин (4 с.л.) и сол и се разпределя в порционни чинии. Всяка порция се поръсва с печено кашу (100 г) и зрънца от нар (1 бр). Салатата се сервира веднага."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "зелена салата",
+      "qty": "1 връзка",
+      "id": 87
+    },
+    {
+      "name": "кашу",
+      "qty": "100 г",
+      "id": 200
+    },
+    {
+      "name": "нар",
+      "qty": "1",
+      "id": 276
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

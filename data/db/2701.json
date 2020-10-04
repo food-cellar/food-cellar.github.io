@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Маслен кекс с бадеми без мляко",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/maslen-keks-s-bademi-2-[2701].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/maslen-keks-s-bademi-2-[2701].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/maslen-keks-s-bademi-2-[2701].jpg"
+    ],
+    "datePublished": "2014-01-27",
+    "cookTime": "PT0H45M",
+    "recipeYield": "12 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "297 calories",
+      "carbohydrateContent": "36 g",
+      "fatContent": "15 g",
+      "proteinContent": "4 g",
+      "saturatedFatContent": "6 g",
+      "unsaturatedFatContent": "6.5755925 g",
+      "cholesterolContent": "59 mg"
+    },
+    "recipeIngredient": [
+      "1 ч.ч. брашно",
+      "2  яйца",
+      "150 г масло",
+      "1 ч.ч. захар",
+      "100 г бадеми",
+      "1 ч.л. бапулвер",
+      "4 с.л. пудра захар"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Мекото масло (150 г) се разбива със захарта (1 ч.ч.) до получаването на гладка и пухкава смес. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "След това към нея се прибавят брашното (1 ч.ч.), бакпулверът (1 ч.л.) и яйцата (2 бр). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Накрая се прибавят смлените белени бадеми (100 г) и всичко се разбива отлично, докато се получи хомогенна смес. Тя се изсипва в намазана с олио и поръсена с брашно тавичка."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Масленият кекс се поставя в предварително загрята до 180 градуса фурна и се пече около 25 минути. Изважда се от фурната и се оставя напълно да се охлади. След това се нарязва на парчета, поръсва се обилно с пудра захар и се сервира, декориран с връхчета свежа мента."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "брашно",
+      "qty": "1 ч.ч.",
+      "id": 7
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "масло",
+      "qty": "150 г",
+      "id": 8
+    },
+    {
+      "name": "захар",
+      "qty": "1 ч.ч.",
+      "id": 9
+    },
+    {
+      "name": "бадеми",
+      "qty": "100 г",
+      "id": 82
+    },
+    {
+      "name": "бапулвер",
+      "qty": "1 ч.л.",
+      "id": 27
+    },
+    {
+      "name": "пудра захар",
+      "qty": "4 с.л.",
+      "id": 34
+    }
+  ]
+}

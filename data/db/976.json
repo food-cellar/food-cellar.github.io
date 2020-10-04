@@ -1,0 +1,102 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Панирани пилешки хапки",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/panirani-pileshki-hapki-1-[976].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/panirani-pileshki-hapki-1-[976].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/panirani-pileshki-hapki-1-[976].jpg"
+    ],
+    "datePublished": "2012-12-02",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "674 calories",
+      "carbohydrateContent": "38 g",
+      "fatContent": "34 g",
+      "proteinContent": "49 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "26.2200025 g",
+      "cholesterolContent": "224 mg"
+    },
+    "recipeIngredient": [
+      "800 г пилешко месо",
+      "100 г брашно",
+      "100 г галета",
+      "2  яйца",
+      "100 мл. олио",
+      "2 с.л. зехтин",
+      "2 с.л. соев сос",
+      "2 с.л. лимон",
+      "15 г джинджифил",
+      "2 скилидки  чесън",
+      "1  сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилешкото филе (800 г) се нарязва на хапки. Смесват се зехтинът (2 с.л.), соевият сос (2 с.л.), сокът от лимон (2 с.л.), настърганият пресен джинджифил (15 г), счуканият чесън (2 скилидки), солта. С тази марината се залива месото и престоява на студено поне 2 часа. Подсушава се, потапя се последователно в смес от галета и брашно, разбито яйце, пак в галета и брашно и се пържи в горещо олио до златисто."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешко месо",
+      "qty": "800 г",
+      "id": 49
+    },
+    {
+      "name": "брашно",
+      "qty": "100 г",
+      "id": 7
+    },
+    {
+      "name": "галета",
+      "qty": "100 г",
+      "id": 58
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "олио",
+      "qty": "100 мл.",
+      "id": 4
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "соев сос",
+      "qty": "2 с.л.",
+      "id": 53
+    },
+    {
+      "name": "лимон",
+      "qty": "2 с.л.",
+      "id": 43
+    },
+    {
+      "name": "джинджифил",
+      "qty": "15 г",
+      "id": 84
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "сол",
+      "qty": "1",
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Оризова салата с айсберг, скариди и гъби",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/orizova-salata-s-aisberg-skaridi-i-gubi-4-[2294].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/orizova-salata-s-aisberg-skaridi-i-gubi-4-[2294].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/orizova-salata-s-aisberg-skaridi-i-gubi-4-[2294].jpg"
+    ],
+    "datePublished": "2013-02-01",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "259 calories",
+      "carbohydrateContent": "35 g",
+      "fatContent": "4 g",
+      "proteinContent": "17 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "2.952775 g",
+      "cholesterolContent": "95 mg"
+    },
+    "recipeIngredient": [
+      "150 г ориз",
+      "1 глава айсберг",
+      "150 г гъби",
+      "250 г скариди",
+      "2 с.л. зехтин",
+      "1 щип. черен пипер",
+      "сол",
+      "450 мл. вода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Оризът (150 г) се сварява в подсолена вода (450 мл.) до пълната му готовност. Най-подходящ за салата е дългозърнестият ориз."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "През това време във вряща подсолена вода се пускат и скаридите (250 г), за да се бланшират. Щом станат розови, се изваждат с решетъчна лъжица, оставят се леко да се охладят и се почистват от люспите. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Гъбите (150 г) се измиват, нарязват се на полумесеци и се изпичат в сух тиган до готовност. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Салатата айсберг (1 глава) се измива, отцежда и се накъсва на парченца. Овкусява се със зехтин (2 с.л.) и сол. Смесва се със сварения ориз, разбърква се и се разпределя в порционни чинии."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "На върха на всяка порция се поставят готовите скариди, изпечените гъби и салатата се поръсва с черен пипер (1 щип.). Сервира се веднага. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "ориз",
+      "qty": "150 г",
+      "id": 22
+    },
+    {
+      "name": "айсберг",
+      "qty": "1 глава",
+      "id": 101
+    },
+    {
+      "name": "гъби",
+      "qty": "150 г",
+      "id": 37
+    },
+    {
+      "name": "скариди",
+      "qty": "250 г",
+      "id": 104
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 щип.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "вода",
+      "qty": "450 мл.",
+      "id": 11
+    }
+  ]
+}

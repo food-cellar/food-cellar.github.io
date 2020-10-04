@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Гарнитура от тиква и пармезан",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/garnitura-ot-tikva-i-parmezan-3-[1251].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/garnitura-ot-tikva-i-parmezan-3-[1251].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/garnitura-ot-tikva-i-parmezan-3-[1251].jpg"
+    ],
+    "datePublished": "2010-12-19",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Гарнитури",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "108 calories",
+      "carbohydrateContent": "13 g",
+      "fatContent": "3 g",
+      "proteinContent": "7 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "1.095305 g",
+      "cholesterolContent": "10 mg"
+    },
+    "recipeIngredient": [
+      "800 г тиква",
+      "1/2 глава целина",
+      "4 с.л. пармезан",
+      "1 кубче месен бульон",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Тиквата (800 г) се почиства от семките и кората, и се нарязва на парчета. Целината (1/2 глава) се обелва и се нарязва на кубчета. Тиквата и целината се варят в разтворения във вода месен бульон (1 кубче) до пълно омекване. Щом омекнат, целината и тиквата се изваждат, отцеждат и пасират. Към полученото пюре се добавят настърганият пармезан (4 с.л.) и солта. Гарнитурата се сервира веднага, украсена с парченца пармезан и пресен магданоз. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "тиква",
+      "qty": "800 г",
+      "id": 116
+    },
+    {
+      "name": "целина",
+      "qty": "1/2 глава",
+      "id": 30
+    },
+    {
+      "name": "пармезан",
+      "qty": "4 с.л.",
+      "id": 59
+    },
+    {
+      "name": "месен бульон",
+      "qty": "1 кубче",
+      "id": 26
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

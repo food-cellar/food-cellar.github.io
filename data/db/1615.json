@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Задушени пилешки хапки от гърди (филе) със сметана и варени картофи на тиган",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pileshki-hapki-sus-smetana-1-[1615].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pileshki-hapki-sus-smetana-1-[1615].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pileshki-hapki-sus-smetana-1-[1615].jpg"
+    ],
+    "datePublished": "2011-10-18",
+    "cookTime": "PT0H50M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "794 calories",
+      "carbohydrateContent": "54 g",
+      "fatContent": "28 g",
+      "proteinContent": "77 g",
+      "saturatedFatContent": "15 g",
+      "unsaturatedFatContent": "8.90326 g",
+      "cholesterolContent": "257 mg"
+    },
+    "recipeIngredient": [
+      "600 г пилешки гърди",
+      "150 мл. сметана",
+      "1 с.л. соев сос",
+      "1 ч.л. майорам",
+      "сол",
+      "600 г картофи",
+      "2 ч.ч. вода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилешкото месо (600 г) се нарязва на хапки и се пържи в тиган с незалепващо покритие, докато се позлати от всички страни. След това огънят се намалява и се добавят сметаната (150 мл.), соевият сос (1 с.л.) и подправките. Внимава се ястието да не се пресоли, тъй като соевият сос също е солен. Пилешките хапки се оставят за няколко минути на котлона, докато сосът се сгъсти, като се разбъркват от време на време. Сервират се топли с гарнитура от задушени картофки (600 г). "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешки гърди",
+      "qty": "600 г",
+      "id": 79
+    },
+    {
+      "name": "сметана",
+      "qty": "150 мл.",
+      "id": 19
+    },
+    {
+      "name": "соев сос",
+      "qty": "1 с.л.",
+      "id": 53
+    },
+    {
+      "name": "майорам",
+      "qty": "1 ч.л.",
+      "id": 261
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "картофи",
+      "qty": "600 г",
+      "id": 16
+    },
+    {
+      "name": "вода",
+      "qty": "2 ч.ч.",
+      "id": 11
+    }
+  ]
+}

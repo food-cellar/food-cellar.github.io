@@ -1,0 +1,64 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Хрупкави гурме парти хапки с крема сирене и хайвер",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/hrupkavi-gurme-koshnichki-s-krema-sirene-i-haiver-1-[3018].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/hrupkavi-gurme-koshnichki-s-krema-sirene-i-haiver-1-[3018].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/hrupkavi-gurme-koshnichki-s-krema-sirene-i-haiver-1-[3018].jpg"
+    ],
+    "datePublished": "2014-12-11",
+    "cookTime": "PT0H10M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "222 calories",
+      "carbohydrateContent": "18 g",
+      "fatContent": "14 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "8 g",
+      "unsaturatedFatContent": "4.651675 g",
+      "cholesterolContent": "41 mg"
+    },
+    "recipeIngredient": [
+      "100 г готови кошнички",
+      "150 г сирене Крема",
+      "2 с.л. хайвер",
+      "1 стрък лимонова трева"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Тази лесна рецепта е приготвена с <a href=http://www.ikea.bg/ikea-hrani/ikea-magazin-za-shvedska-hrana/lesni/>готовите хрупкави хапки</a> от <a href=https://www.facebook.com/ikeabulgaria>ИКЕА</a>, които са поставени в гореща фурна за няколко минути, а след това са напълнени със сирене Крема, топинг от водорасли и хайвер от херинга. Поръсени са със ситно нарязана лимонова трева и са поднесени веднага."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Ако използвате предложените от нас готови продукти от <a href=http://www.ikea.bg/ikea-hrani/ikea-magazin-za-shvedska-hrana/>ИКЕА магазин за шведска храна</a>, ще приготвите тези гурме хапки за не повече от пет минути и ще впечатлите гостите си за празничните дни. Не пропускайте тази възможност! "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "готови кошнички",
+      "qty": "100 г",
+      "id": 262
+    },
+    {
+      "name": "сирене Крема",
+      "qty": "150 г",
+      "id": 103
+    },
+    {
+      "name": "хайвер",
+      "qty": "2 с.л.",
+      "id": 280
+    },
+    {
+      "name": "лимонова трева",
+      "qty": "1 стрък",
+      "id": 3
+    }
+  ]
+}

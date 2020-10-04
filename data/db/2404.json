@@ -1,0 +1,104 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Къри с нахут (Channa Masala)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kuri-s-nahut--2-[2404].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kuri-s-nahut--2-[2404].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kuri-s-nahut--2-[2404].jpg"
+    ],
+    "datePublished": "2013-03-06",
+    "cookTime": "PT0H20M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "280 calories",
+      "carbohydrateContent": "46 g",
+      "fatContent": "5 g",
+      "proteinContent": "13 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "3.4286625 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "250 г нахут от консерва",
+      "2  домата",
+      "1 глава лук",
+      "1 с.л. брашно",
+      "1 ч.л. кимион",
+      "1 ч.л. къри на прах",
+      "1 ч.л. сол",
+      "1 ч.л. пресен кориандър",
+      "1 ч.л. джинджифил",
+      "1 с.л. олио"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "В блендер се смесват доматите (2 бр), половината от лука (1 глава), джинджифилът (1 ч.л.) и брашното (1 с.л.). Разбива се до получаване на еднородна смес."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Загрява се олиото (1 с.л.) и се запържва в него кимионът (1 ч.л.), докато стане златист. Готви се останалата половина от лука за около 3 минути. Добавя се миксираната доматена смес, нахутът от консерва (250 г), кърито на прах (1 ч.л.) и солта (1 ч.л.). Ястието се покрива с капак и се готви на умерен огън около 5 минути. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Сервира се с пресни листа от кориандър (1 ч.л.). Може да се поднесе с индийски хляб или варен бял ориз."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "нахут от консерва",
+      "qty": "250 г",
+      "id": 145
+    },
+    {
+      "name": "домата",
+      "qty": "2",
+      "id": 15
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "брашно",
+      "qty": "1 с.л.",
+      "id": 7
+    },
+    {
+      "name": "кимион",
+      "qty": "1 ч.л.",
+      "id": 42
+    },
+    {
+      "name": "къри на прах",
+      "qty": "1 ч.л.",
+      "id": 143
+    },
+    {
+      "name": "сол",
+      "qty": "1 ч.л.",
+      "id": 1
+    },
+    {
+      "name": "пресен кориандър",
+      "qty": "1 ч.л.",
+      "id": 97
+    },
+    {
+      "name": "джинджифил",
+      "qty": "1 ч.л.",
+      "id": 84
+    },
+    {
+      "name": "олио",
+      "qty": "1 с.л.",
+      "id": 4
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Италиански кюфтета с телешка кайма, пармезан и рикота в доматен сос задушени в тенджера",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/italianski-kufteta-v-domaten-sos-2-[888].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/italianski-kufteta-v-domaten-sos-2-[888].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/italianski-kufteta-v-domaten-sos-2-[888].jpg"
+    ],
+    "datePublished": "2013-04-26",
+    "cookTime": "PT1H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "611 calories",
+      "carbohydrateContent": "29 g",
+      "fatContent": "33 g",
+      "proteinContent": "51 g",
+      "saturatedFatContent": "15 g",
+      "unsaturatedFatContent": "14.9079625 g",
+      "cholesterolContent": "196 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг телешка кайма",
+      "100 г рикота",
+      "1  яйце",
+      "8  сушени домати",
+      "200 г пармезан",
+      "сол",
+      "черен пипер",
+      "1 глава лук",
+      "4 с.л. зехтин",
+      "1 л. доматено пюре"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "В купа се смесват телешката кайма (1/2 кг), рикотата (100 г), яйцето (1 бр), нарязаните на ситно сушени домати (8 бр) и пармезанът (200 г). Сместа се овкусява със сол и черен пипер. Оформят се малки кюфтенца."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "В дълбока тенджера се приготвя доматеният сос. Лукът (1 глава) се нарязва на ситно и се запържва в зехтина (4 с.л.) до прозрачност. Добавя се доматеното пюре (1 л.) и щом заври, се пускат кюфтенцата. Котлонът се намалява и се оставят да врат около 25-30 минути."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "телешка кайма",
+      "qty": "1/2 кг",
+      "id": 134
+    },
+    {
+      "name": "рикота",
+      "qty": "100 г",
+      "id": 231
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    },
+    {
+      "name": "сушени домати",
+      "qty": "8",
+      "id": 121
+    },
+    {
+      "name": "пармезан",
+      "qty": "200 г",
+      "id": 59
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "доматено пюре",
+      "qty": "1 л.",
+      "id": 35
+    }
+  ]
+}

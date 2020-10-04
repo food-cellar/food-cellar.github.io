@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Вегетарианска кем супа от червена леща, картофи и мляко поднесена с настърган кашкавал",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/supa-ot-chervena-leshta-s-kashkaval-2-[636].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/supa-ot-chervena-leshta-s-kashkaval-2-[636].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/supa-ot-chervena-leshta-s-kashkaval-2-[636].jpg"
+    ],
+    "datePublished": "2011-01-11",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "291 calories",
+      "carbohydrateContent": "44 g",
+      "fatContent": "6 g",
+      "proteinContent": "15 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "3.97913 g",
+      "cholesterolContent": "9 mg"
+    },
+    "recipeIngredient": [
+      "1 ч.ч. червена леща",
+      "1 глава лук",
+      "1  морков",
+      "1  картоф",
+      "къри",
+      "джоджен",
+      "2 с.л. олио",
+      "1 ч.ч. прясно мляко",
+      "кашкавал",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Лещата (1 ч.ч.) се сварява в подсолена вода заедно с картофа и моркова и се пасира заедно с прясното мляко (1 ч.ч.). В нагорещеното олио (2 с.л.) се запържва ситно нарязаният лук (1 глава) с малко сол, къри и сушен джоджен. Щом омекне, се прибавя към супата, която се оставя да поври на слаб огън 5 минути. Супата се поднася топла, обилно поръсена с настърган кашкавал."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "червена леща",
+      "qty": "1 ч.ч.",
+      "id": 151
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "картоф",
+      "qty": "1",
+      "id": 16
+    },
+    {
+      "name": "къри",
+      "qty": "Parsing error",
+      "id": 143
+    },
+    {
+      "name": "джоджен",
+      "qty": "Parsing error",
+      "id": 60
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "1 ч.ч.",
+      "id": 14
+    },
+    {
+      "name": "кашкавал",
+      "qty": "Parsing error",
+      "id": 47
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

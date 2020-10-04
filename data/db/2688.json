@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Сарми от лапад с ориз и кайма печени в тава на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/sarmi-ot-lapad-s-oriz-i-kaima-1-[2688].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/sarmi-ot-lapad-s-oriz-i-kaima-1-[2688].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/sarmi-ot-lapad-s-oriz-i-kaima-1-[2688].jpg"
+    ],
+    "datePublished": "2014-01-23",
+    "cookTime": "PT1H0M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "265 calories",
+      "carbohydrateContent": "21 g",
+      "fatContent": "14 g",
+      "proteinContent": "11 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "8.35783125 g",
+      "cholesterolContent": "36 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг лапад",
+      "1 ч.ч. ориз",
+      "400 г кайма",
+      "1 глава лук",
+      "черен пипер",
+      "сол",
+      "4 с.л. олио",
+      "1 ч.ч. вода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Ситно нарязаният лук (1 глава) се задушава в олиото (4 с.л.) до омекване. Към него се добавя каймата (400 г) и се разбърква, докато тя стане на парченца."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "След това се добавя оризът (1 ч.ч.) и всичко се разбърква добре. Оставя се оризът да стане прозрачен, след което се добавя горещата вода (1 ч.ч.). Плънката се подправя със сол и черен пипер и се оставя на котлона, докато оризът поеме водата."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "С плънката се завиват сарми в предварително попарените за няколко минути листа от лапад. Важно е листата от лапад да са с изрязана средна жилка."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Получените сарми се подреждат в тавичка и се заливат с малко вода, колкото да ги покрие наполовина. Изпичат се при 180 градуса за 45-50 минути."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "лапад",
+      "qty": "1/2 кг",
+      "id": 136
+    },
+    {
+      "name": "ориз",
+      "qty": "1 ч.ч.",
+      "id": 22
+    },
+    {
+      "name": "кайма",
+      "qty": "400 г",
+      "id": 54
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "олио",
+      "qty": "4 с.л.",
+      "id": 4
+    },
+    {
+      "name": "вода",
+      "qty": "1 ч.ч.",
+      "id": 11
+    }
+  ]
+}

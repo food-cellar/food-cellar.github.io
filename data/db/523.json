@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печена риба зарган с кайсии, домати и бяло вино на тиган",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zergan-s-kaisii-4-[523].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zergan-s-kaisii-4-[523].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zergan-s-kaisii-4-[523].jpg"
+    ],
+    "datePublished": "2011-04-04",
+    "cookTime": "PT0H30M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "239 calories",
+      "carbohydrateContent": "20 g",
+      "fatContent": "5 g",
+      "proteinContent": "24 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "4.1205283333333 g",
+      "cholesterolContent": "63 mg"
+    },
+    "recipeIngredient": [
+      "250 г зарган",
+      "6  кайсии",
+      "1  домат",
+      "1 глава лук",
+      "2 скилидки чесън",
+      "сол",
+      "черен пипер",
+      "1 с.л. олио",
+      "4 с.л. бяло вино"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Рибата, нарязана на парчета, се изпича на тиган без мазнина. Лукът (1 глава), нарязан на ситно, се задушава в олиото. Прибавят се нарязаните кайсии (6 бр) и задушаването продължава. Посолява се, подправя се с черен пипер. Налива се бялото вино (4 с.л.) и се вари още 3 минути. Печената риба се поднася върху домати, залети с кайсиевия сос."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "зарган",
+      "qty": "250 г",
+      "id": 331
+    },
+    {
+      "name": "кайсии",
+      "qty": "6",
+      "id": 185
+    },
+    {
+      "name": "домат",
+      "qty": "1",
+      "id": 15
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "олио",
+      "qty": "1 с.л.",
+      "id": 4
+    },
+    {
+      "name": "бяло вино",
+      "qty": "4 с.л.",
+      "id": 41
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пържени яйца на очи с бекон",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/purjeni-iaica-na-ochi-s-bekon-1-[3302].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/purjeni-iaica-na-ochi-s-bekon-1-[3302].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/purjeni-iaica-na-ochi-s-bekon-1-[3302].jpg"
+    ],
+    "datePublished": "2018-06-08",
+    "cookTime": "PT0H15M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Други",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "740 calories",
+      "carbohydrateContent": "1 g",
+      "fatContent": "72 g",
+      "proteinContent": "19 g",
+      "saturatedFatContent": "24 g",
+      "unsaturatedFatContent": "42.45432 g",
+      "cholesterolContent": "441 mg"
+    },
+    "recipeIngredient": [
+      "2  яйца",
+      "100 г бекон",
+      "1 с.л. зехтин"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Беконът (100 г) се нарязва на тънко (или се купува готово нарязан). Поставя се в сгорещен тиган и се запича без мазнина, докато стане златист и хрупкав. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Изважда се и се оставя да се отцеди на кухненска хартия, а на негово място се сипва малко зехтин и се запържват яйцата (2 бр) на очи. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Щом са готови се прехвърлят в чиния, посоляват се и се овкусяват с черен пипер и подправки по избор. До тях се слага и хрупкавият бекон. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "В останалата в тигана мазнина може леко да се запържат филийки."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "бекон",
+      "qty": "100 г",
+      "id": 88
+    },
+    {
+      "name": "зехтин",
+      "qty": "1 с.л.",
+      "id": 10
+    }
+  ]
+}

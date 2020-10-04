@@ -1,0 +1,76 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Задушено пиле с портокал и лук",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pile-s-portokal-i-luk-1-[734].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pile-s-portokal-i-luk-1-[734].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pile-s-portokal-i-luk-1-[734].jpg"
+    ],
+    "datePublished": "2011-05-16",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "237 calories",
+      "carbohydrateContent": "8 g",
+      "fatContent": "5 g",
+      "proteinContent": "35 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "3.872155 g",
+      "cholesterolContent": "87 mg"
+    },
+    "recipeIngredient": [
+      "4  пилешки гърди",
+      "2 глави лук",
+      "1  портокал",
+      "1 скилидка чесън",
+      "2 с.л. зехтин",
+      "мащерка"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилешките гърди (4 бр) се пържат в леко намазнен тиган от двете страни по 5 минути. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Лукът (2 глави) се нарязва на ивички, а портокалът (1 бр) на полу-кръгчета и се добавят към пилето. Добавя се и счукан на ситно чесън (1 скилидка), сол и пипер на вкус и няколко стръкчета прясна мащерка. Задушава още 10-15 минути докато пилето е готово, но не прекалено сухо."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешки гърди",
+      "qty": "4",
+      "id": 79
+    },
+    {
+      "name": "лук",
+      "qty": "2 глави",
+      "id": 3
+    },
+    {
+      "name": "портокал",
+      "qty": "1",
+      "id": 122
+    },
+    {
+      "name": "чесън",
+      "qty": "1 скилидка",
+      "id": 6
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "мащерка",
+      "qty": "Parsing error",
+      "id": 75
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Коктейл Ледоразбивач (Ice Breaker)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kokteil-ledorazbivach--2-[1657].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kokteil-ledorazbivach--2-[1657].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kokteil-ledorazbivach--2-[1657].jpg"
+    ],
+    "datePublished": "2013-02-19",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Коктейли",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "265 calories",
+      "carbohydrateContent": "24 g",
+      "fatContent": "0 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.023672352941176 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "60 мл. текила",
+      "60 мл. сок от грейпфрут",
+      "15 мл. гренадин",
+      "1 с.л. трипъл сек",
+      "1 резен грейпфрут",
+      "1  коктейлна черешка"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Текилата (60 мл.), сокът от грейпфрут (60 мл.), гренадинът (15 мл.) и трипъл секът (1 резен) се разбиват в шейкър с лед. Течността се изсипва в коктейлна чаша или висока чаша за червено вино.  Коктейлът се украсява с резен грейпфрут и коктейлна черешка."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "текила",
+      "qty": "60 мл.",
+      "id": 283
+    },
+    {
+      "name": "сок от грейпфрут",
+      "qty": "60 мл.",
+      "id": 285
+    },
+    {
+      "name": "гренадин",
+      "qty": "15 мл.",
+      "id": 222
+    },
+    {
+      "name": "трипъл сек",
+      "qty": "1 с.л.",
+      "id": 209
+    },
+    {
+      "name": "грейпфрут",
+      "qty": "1 резен",
+      "id": 286
+    },
+    {
+      "name": "коктейлна черешка",
+      "qty": "1",
+      "id": 126
+    }
+  ]
+}

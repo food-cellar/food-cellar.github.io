@@ -1,0 +1,100 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пиле с чесън задушено в лозови листа",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pile-s-chesun-zadusheno-v-lozovi-lista-2-[106].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pile-s-chesun-zadusheno-v-lozovi-lista-2-[106].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pile-s-chesun-zadusheno-v-lozovi-lista-2-[106].jpg"
+    ],
+    "datePublished": "2010-12-04",
+    "cookTime": "PT1H0M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "336 calories",
+      "carbohydrateContent": "4 g",
+      "fatContent": "24 g",
+      "proteinContent": "20 g",
+      "saturatedFatContent": "8 g",
+      "unsaturatedFatContent": "13.998885 g",
+      "cholesterolContent": "93 mg"
+    },
+    "recipeIngredient": [
+      "1  пиле",
+      "30 скилидки чесън",
+      "1 стрък целина",
+      "4 с.л. зехтин",
+      "3 стръкчета магданоз",
+      "черен пипер",
+      "сол",
+      "1 опак. лозови листа",
+      "50 г масло",
+      "1/2 ч.ч. бяло вино"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилето (1 бр) се разделя на 8 порционни парчета, посолява се и се подправя с черния пипер и се пържи в зехтина (4 с.л.) до златисто. След това в кръгла тава се постилат лозовите листа (1 опак.). Разполагат се така по края на тавата, че да могат да се обърнат. Маслото (50 г) се нарязва на малки парченца и се нарежда върху лозовите листа. Поръсва се с част от ситно нарязания и счукан със сол чесън (30 скилидки). Отгоре се слагат порциите кокоше месо. Поръсват се с чесън, парченца масло, ситно нарязани магданоз и целина. Заливат се с бялото вино (1/2 ч.ч.) и се покриват плътно с лозови листа, така че да не прониква въздух. Пече се на фурна 40 минути."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Преди да се поднесе, лозовите листа отгоре се отстраняват. Консумира се топло."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пиле",
+      "qty": "1",
+      "id": 111
+    },
+    {
+      "name": "чесън",
+      "qty": "30 скилидки",
+      "id": 6
+    },
+    {
+      "name": "целина",
+      "qty": "1 стрък",
+      "id": 30
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "магданоз",
+      "qty": "3 стръкчета",
+      "id": 12
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "лозови листа",
+      "qty": "1 опак.",
+      "id": 240
+    },
+    {
+      "name": "масло",
+      "qty": "50 г",
+      "id": 8
+    },
+    {
+      "name": "бяло вино",
+      "qty": "1/2 ч.ч.",
+      "id": 41
+    }
+  ]
+}

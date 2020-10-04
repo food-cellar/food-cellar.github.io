@@ -1,0 +1,104 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Спагети с бекон и сметана",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/spageti-s-bekon-i-smetana-2-[3106].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/spageti-s-bekon-i-smetana-2-[3106].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/spageti-s-bekon-i-smetana-2-[3106].jpg"
+    ],
+    "datePublished": "2016-11-22",
+    "cookTime": "PT0H40M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "1002 calories",
+      "carbohydrateContent": "63 g",
+      "fatContent": "73 g",
+      "proteinContent": "20 g",
+      "saturatedFatContent": "33 g",
+      "unsaturatedFatContent": "34.9434525 g",
+      "cholesterolContent": "296 mg"
+    },
+    "recipeIngredient": [
+      "300 г спагети",
+      "300 г бекон",
+      "200 мл. сметана",
+      "3  жълтъка",
+      "3 с.л. вода",
+      "2 глави лук",
+      "4 скилидки чесън",
+      "50 г масло",
+      "черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Спагетите (300 г) се поставят във вряща подсолена вода и се варят според указанията на опаковката. През това време лукът (2 глави) и чесънът (4 скилидки) се нарязват на ситно и заедно с нарязания на кубчета бекон (300 г), се задушават в маслото (50 г) в дълбок тиган или тенджера, докато беконът стане златист."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "След това се прибавят отцедените от водата спагети, разбъркват се и се изсипва сметната (200 мл.). Разбърква се и се прибавят разбитите във водата (3 с.л.) сурови жълтъци (3 бр). Ястието се разбърква старателно, подправя се със сол и черен пипер и се премества от котлона. Сервира се горещо и по желание се поръсва с настърган пармезан или настъргана моцарела."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Рецептата е част от кулинарната рубрика <a href=https://www.facebook.com/SupermarketCBA/photos/?tab=album&album_id=586993531488996>Какво да сготвя довечера?</a> на  <a href=https://www.facebook.com/SupermarketCBA/>Супермаркети CBA</a> и е създадена с продукти, закупени от техните магазини."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "спагети",
+      "qty": "300 г",
+      "id": 72
+    },
+    {
+      "name": "бекон",
+      "qty": "300 г",
+      "id": 88
+    },
+    {
+      "name": "сметана",
+      "qty": "200 мл.",
+      "id": 19
+    },
+    {
+      "name": "жълтъка",
+      "qty": "3",
+      "id": 33
+    },
+    {
+      "name": "вода",
+      "qty": "3 с.л.",
+      "id": 11
+    },
+    {
+      "name": "лук",
+      "qty": "2 глави",
+      "id": 3
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "масло",
+      "qty": "50 г",
+      "id": 8
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

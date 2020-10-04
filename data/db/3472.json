@@ -1,0 +1,58 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Плодово смути с киви, портокал и банан",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/plodovo-smuti-s-kivi-portokal-i-banan-2-[3472].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/plodovo-smuti-s-kivi-portokal-i-banan-2-[3472].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/plodovo-smuti-s-kivi-portokal-i-banan-2-[3472].jpg"
+    ],
+    "datePublished": "2020-08-09",
+    "cookTime": "PT0H5M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Напитки",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "148 calories",
+      "carbohydrateContent": "36 g",
+      "fatContent": "0 g",
+      "proteinContent": "2 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.4501675 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "10  киви",
+      "1  портокал",
+      "1  банан"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Кивито (10 бр) се обелва и се поставя в блендер, заедно с обеленият и нарязан на кръгчета банан (1 бр). Всичко се пасира до получаването на хомогенна смес. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Към пасираната смес се добавя пресният сок от изцеден портокал (1 бр) и всичко се разбърква. Смутито се поднася веднага."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "киви",
+      "qty": "10",
+      "id": 186
+    },
+    {
+      "name": "портокал",
+      "qty": "1",
+      "id": 122
+    },
+    {
+      "name": "банан",
+      "qty": "1",
+      "id": 123
+    }
+  ]
+}

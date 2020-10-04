@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пухкав кекс с вода портокалови кори",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/keks-s-portokalovi-kori-3-[1235].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/keks-s-portokalovi-kori-3-[1235].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/keks-s-portokalovi-kori-3-[1235].jpg"
+    ],
+    "datePublished": "2010-12-19",
+    "cookTime": "PT1H0M",
+    "recipeYield": "12 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "266 calories",
+      "carbohydrateContent": "48 g",
+      "fatContent": "5 g",
+      "proteinContent": "6 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "3.548195 g",
+      "cholesterolContent": "78 mg"
+    },
+    "recipeIngredient": [
+      "2 ч.ч. брашно",
+      "1 ч.ч. захар",
+      "1/2 к.ч. олио",
+      "5  яйца",
+      "1 к.ч. вода",
+      "1 ч.л. бакпулвер",
+      "1 ч.л. ванилия",
+      "8 с.л. портокалови кори"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Белтъците (5 бр) се разбиват с щипка сол на гъста пяна. Към тях се добавят всички останали продукти и се разбърква много добре до получаването на кексово тесто. Сместа се изсипва в намазнена и набрашнена тава. Фурната се загрява до 220 градуса и се намалява до 180, когато кексът се поставя в нея. Пече се около 10 минути на 180 градуса, а след това на 160 градуса за още 40 минути. Изважда се, оставя се да се охлади и се поръсва с пудра захар."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "брашно",
+      "qty": "2 ч.ч.",
+      "id": 7
+    },
+    {
+      "name": "захар",
+      "qty": "1 ч.ч.",
+      "id": 9
+    },
+    {
+      "name": "олио",
+      "qty": "1/2 к.ч.",
+      "id": 4
+    },
+    {
+      "name": "яйца",
+      "qty": "5",
+      "id": 5
+    },
+    {
+      "name": "вода",
+      "qty": "1 к.ч.",
+      "id": 11
+    },
+    {
+      "name": "бакпулвер",
+      "qty": "1 ч.л.",
+      "id": 29
+    },
+    {
+      "name": "ванилия",
+      "qty": "1 ч.л.",
+      "id": 23
+    },
+    {
+      "name": "портокалови кори",
+      "qty": "8 с.л.",
+      "id": 159
+    }
+  ]
+}

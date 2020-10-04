@@ -1,0 +1,94 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Зелена салата с пиле, череши, фета сирене и меден дресинг с хрян",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-s-pile-chereshi-i-meden-dresing-2-[1630].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-s-pile-chereshi-i-meden-dresing-2-[1630].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-s-pile-chereshi-i-meden-dresing-2-[1630].jpg"
+    ],
+    "datePublished": "2012-04-17",
+    "cookTime": "PT0H30M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "361 calories",
+      "carbohydrateContent": "22 g",
+      "fatContent": "12 g",
+      "proteinContent": "42 g",
+      "saturatedFatContent": "6 g",
+      "unsaturatedFatContent": "4.356005 g",
+      "cholesterolContent": "115 mg"
+    },
+    "recipeIngredient": [
+      "2  пилешки филенца",
+      "1  зелена салата",
+      "100 г череши",
+      "2 с.л. мед",
+      "50 г фета сирене",
+      "1 ч.л. смлян хрян",
+      "2 с.л. сок от лимон",
+      "щип. черен пипер",
+      "щип. сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилешките филенца (2 бр) се нарязват на едри парчета и се запичат на оребрен тиган. В салатена купа се нареждат големи късове свежа зелена салата (1 бр) и върху тях се поставят парчетата пилешко. Черешите (100 г) се измиват и разполовяват. Получените половинки се добавят отгоре в салатата. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "В блендер се смесват медът (2 с.л.), сиренето (50 г), хрянът (1 ч.л.), сокът от лимон (2 с.л.) и подправките. Салатата се сервира и поднася, полята с получения дресинг."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешки филенца",
+      "qty": "2",
+      "id": 79
+    },
+    {
+      "name": "зелена салата",
+      "qty": "1",
+      "id": 87
+    },
+    {
+      "name": "череши",
+      "qty": "100 г",
+      "id": 126
+    },
+    {
+      "name": "мед",
+      "qty": "2 с.л.",
+      "id": 38
+    },
+    {
+      "name": "фета сирене",
+      "qty": "50 г",
+      "id": 150
+    },
+    {
+      "name": "смлян хрян",
+      "qty": "1 ч.л.",
+      "id": 242
+    },
+    {
+      "name": "сок от лимон",
+      "qty": "2 с.л.",
+      "id": 17
+    },
+    {
+      "name": "черен пипер",
+      "qty": "щип.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "щип.",
+      "id": 1
+    }
+  ]
+}

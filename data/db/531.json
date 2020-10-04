@@ -1,0 +1,112 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Риба зарган на тиган с гарнитура от варен ориз и задушени тиквички с майонеза",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zergan-na-tigan-6-[531].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zergan-na-tigan-6-[531].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zergan-na-tigan-6-[531].jpg"
+    ],
+    "datePublished": "2010-12-13",
+    "cookTime": "PT0H15M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "492 calories",
+      "carbohydrateContent": "46 g",
+      "fatContent": "6 g",
+      "proteinContent": "40 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "3.6792433333333 g",
+      "cholesterolContent": "100 mg"
+    },
+    "recipeIngredient": [
+      "400 г зарган",
+      "1 ч.ч. бяло вино",
+      "2 с.л. лимонов сок",
+      "сол",
+      "черен пипер",
+      "1/2 ч.ч. ориз",
+      "1  тиквичка",
+      "1  морков",
+      "копър",
+      "3 скилидки чесън",
+      "черен пипер",
+      "1 с.л. майонеза"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Рибата зарган се разрязва на две. Отстранява се костта й и се залива с бяло вино (1 ч.ч.), разбито с лимонов сок. Престоява на студено 2 часа, отцежда се и се изпича на тиган без мазнина. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Гарнира се с варен ориз (1/2 ч.ч.) със задушени тиквички и моркови и кьопоолу от тиквички (пасирани варени тиквички, смесени с майонеза, чесън и копър)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "зарган",
+      "qty": "400 г",
+      "id": 331
+    },
+    {
+      "name": "бяло вино",
+      "qty": "1 ч.ч.",
+      "id": 41
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "2 с.л.",
+      "id": 17
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "ориз",
+      "qty": "1/2 ч.ч.",
+      "id": 22
+    },
+    {
+      "name": "тиквичка",
+      "qty": "1",
+      "id": 39
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "копър",
+      "qty": "Parsing error",
+      "id": 28
+    },
+    {
+      "name": "чесън",
+      "qty": "3 скилидки",
+      "id": 6
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "майонеза",
+      "qty": "1 с.л.",
+      "id": 80
+    }
+  ]
+}

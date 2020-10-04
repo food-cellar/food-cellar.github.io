@@ -1,0 +1,98 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Запечени патладжани със зеленчуци на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zapecheni-patladjani-sus-zelenchuci-1-[3083].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zapecheni-patladjani-sus-zelenchuci-1-[3083].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zapecheni-patladjani-sus-zelenchuci-1-[3083].jpg"
+    ],
+    "datePublished": "2016-02-05",
+    "cookTime": "PT0H40M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "396 calories",
+      "carbohydrateContent": "45 g",
+      "fatContent": "23 g",
+      "proteinContent": "7 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "18.527065 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "2  патладжана",
+      "1  домат",
+      "1  червена чушка",
+      "1  зелена чушка",
+      "50 мл. зехтин",
+      "2 стръка магданоз",
+      "черен пипер",
+      "сол",
+      "4 скилидки чесън"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Патладжаните се нарязват на филийки с дебелина до сантиметър и се натъркват с пресования чесън. Намазват се със зехтин и се поставят в тава, на чието дъно има хартия за печене. Изпичат се за 15 минути във фурната под фолио, докато омекнат. След това се поръсват с нарязаните на ситни кубчета чушки и домати, а също и с подправките. Връщат се във фурната и се изпичат без фолио за още 15 минути при 200 градуса. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Сервират се горещи и поръсени със ситно нарязан магданоз."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Тази рецепта е част от <a href=http://www.1001recepti.com/articles/show/?list_id=212-dieti>РЕЖИМЪТ НА САНДРА</a>."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "патладжана",
+      "qty": "2",
+      "id": 71
+    },
+    {
+      "name": "домат",
+      "qty": "1",
+      "id": 15
+    },
+    {
+      "name": "червена чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "зелена чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "зехтин",
+      "qty": "50 мл.",
+      "id": 10
+    },
+    {
+      "name": "магданоз",
+      "qty": "2 стръка",
+      "id": 12
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    }
+  ]
+}

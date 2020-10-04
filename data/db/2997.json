@@ -1,0 +1,94 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Вкусно задушено пилешко филе (гърди) на тиган с гъби и ароматен сос от брашно, масло, мляко и горчица",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pileshko-file-na-tigan-s-gubi-i-aromaten-sos-1-[2997].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pileshko-file-na-tigan-s-gubi-i-aromaten-sos-1-[2997].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pileshko-file-na-tigan-s-gubi-i-aromaten-sos-1-[2997].jpg"
+    ],
+    "datePublished": "2014-11-05",
+    "cookTime": "PT0H45M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "479 calories",
+      "carbohydrateContent": "20 g",
+      "fatContent": "18 g",
+      "proteinContent": "56 g",
+      "saturatedFatContent": "10 g",
+      "unsaturatedFatContent": "6.4645975 g",
+      "cholesterolContent": "166 mg"
+    },
+    "recipeIngredient": [
+      "800 г пилешки гърди",
+      "300 г гъби",
+      "3 с.л. брашно",
+      "3 с.л. масло",
+      "3 ч.ч. прясно мляко",
+      "1 щип. черен пипер",
+      "1 с.л. горчица"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилешките гърди (800 г) се начукват внимателно, за да станат по-тънки и по-крехки. Поставят се в тиган с капак и се задушават с малко масло до пълна готовност."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Гъбите (300 г) се измиват, подсушават и нарязват на филийки. Със съвсем малко масло се запържват на тиган."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Сосът се приготвя, като брашното (3 с.л.) се запържва в маслото(3 с.л.). Щом покафенее, се добавя прясното  мляко (3 ч.ч.) на няколко малки порции при непрекъснато бъркане. Готви се няколко минути до сгъстяване. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Накрая в соса се добавя горчицата (1 с.л.), разбърква се и по желание се добавят ситно накълцани пресни подправки по избор - например магданоз или мащерка."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Пилешкото месо се сервира с гъбите и се полива със соса. Сервира се веднага."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешки гърди",
+      "qty": "800 г",
+      "id": 79
+    },
+    {
+      "name": "гъби",
+      "qty": "300 г",
+      "id": 37
+    },
+    {
+      "name": "брашно",
+      "qty": "3 с.л.",
+      "id": 7
+    },
+    {
+      "name": "масло",
+      "qty": "3 с.л.",
+      "id": 8
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "3 ч.ч.",
+      "id": 14
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 щип.",
+      "id": 2
+    },
+    {
+      "name": "горчица",
+      "qty": "1 с.л.",
+      "id": 64
+    }
+  ]
+}

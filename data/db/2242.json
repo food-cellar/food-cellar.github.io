@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Мариновани свински гърди без кост с бира печени на скара с гарнитура от печени картофи",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/marinovani-svinski-gurdi-s-bira-4-[2242].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/marinovani-svinski-gurdi-s-bira-4-[2242].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/marinovani-svinski-gurdi-s-bira-4-[2242].jpg"
+    ],
+    "datePublished": "2012-12-22",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "622 calories",
+      "carbohydrateContent": "8 g",
+      "fatContent": "48 g",
+      "proteinContent": "32 g",
+      "saturatedFatContent": "16 g",
+      "unsaturatedFatContent": "26.21072 g",
+      "cholesterolContent": "144 mg"
+    },
+    "recipeIngredient": [
+      "800 г свински гърди",
+      "4 с.л. соев сос",
+      "1 ч.ч. бира",
+      "1 щип. черен пипер",
+      "1/2 ч.л. риган",
+      "1/2 ч.л. босилек",
+      "1/2 ч.л. кимион",
+      "2 глави лук"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Свинските гърди без кост (800 г) се начукват, посоляват се и се поставят в тавичка, на дъното на която са разположени колелца стар лук (2 глави). Посипват се със соев сос (4 с.л.), бира (1 ч.ч.) и подправките - черен пипер (1 щип.), сушен риган (1/2 ч.л.), сушен босилек (1/2 ч.л.), кимион (1/2 ч.л.). Оставят се в хладилник за няколко часа да се мариноват. След това се изпичат на скара. Сервират се топли с гарнитура от печени картофи. По желание могат да се сервират и с люти чушлета."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "свински гърди",
+      "qty": "800 г",
+      "id": 67
+    },
+    {
+      "name": "соев сос",
+      "qty": "4 с.л.",
+      "id": 53
+    },
+    {
+      "name": "бира",
+      "qty": "1 ч.ч.",
+      "id": 137
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 щип.",
+      "id": 2
+    },
+    {
+      "name": "риган",
+      "qty": "1/2 ч.л.",
+      "id": 65
+    },
+    {
+      "name": "босилек",
+      "qty": "1/2 ч.л.",
+      "id": 25
+    },
+    {
+      "name": "кимион",
+      "qty": "1/2 ч.л.",
+      "id": 42
+    },
+    {
+      "name": "лук",
+      "qty": "2 глави",
+      "id": 3
+    }
+  ]
+}

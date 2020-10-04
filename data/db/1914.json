@@ -1,0 +1,58 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Мармалад от шипки",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/marmalad-ot-shipki-2-[1914].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/marmalad-ot-shipki-2-[1914].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/marmalad-ot-shipki-2-[1914].jpg"
+    ],
+    "datePublished": "2012-01-02",
+    "cookTime": "PT5H0M",
+    "recipeYield": "40 servings",
+    "recipeCategory": "Други",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "97 calories",
+      "carbohydrateContent": "24 g",
+      "fatContent": "0 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "5 кг шипки",
+      "1 кг захар",
+      "4 л. вода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Шипките (5 кг) се измиват и почистват от дръжките и черния цвят отпред. Разрязват се на две по дължина и се почистват старателно от семките. След това се измиват повторно и се поставят в тенджера под налягане. Заливат се с вода (4 л.), колкото да ги покрие и след като заврат, се оставят на по-слаб огън за около час. След като се сварят, шипките се прецеждат в гевгир и след това се минават през сито, за да се отстранят от тях всички люспи. Получената каша трябва да не е нито твърде рядка, нито гъста. Поставя се в тенджера и към нея се добавя захарта (1 кг). Мармаладът се вари около 3 часа, като непрекъснато се наблюдава да не загори и се разбърква. Готов е, когато сместа прави път на лъжицата, когато преминаваме с нея през мармалада. Накрая, докато е още топъл, мармаладът се изсипва в буркани, които се затварят старателно, но не се стерилизират."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "От 5 килограма шипки излизат около 2 килограма шипков мармалад."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "шипки",
+      "qty": "5 кг",
+      "id": 27
+    },
+    {
+      "name": "захар",
+      "qty": "1 кг",
+      "id": 9
+    },
+    {
+      "name": "вода",
+      "qty": "4 л.",
+      "id": 11
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Коктейлни хапки - пълнени гъби с ръжен хляб и моцарела",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pulneni-gubi-s-rujen-hliab-i-mocarela-2-[1313].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pulneni-gubi-s-rujen-hliab-i-mocarela-2-[1313].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pulneni-gubi-s-rujen-hliab-i-mocarela-2-[1313].jpg"
+    ],
+    "datePublished": "2011-01-14",
+    "cookTime": "PT0H40M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "126 calories",
+      "carbohydrateContent": "16 g",
+      "fatContent": "3 g",
+      "proteinContent": "7 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "1.5644625 g",
+      "cholesterolContent": "10 mg"
+    },
+    "recipeIngredient": [
+      "400 г печурки",
+      "100 г ръжен хляб",
+      "50 г моцарела",
+      "1/2  домат",
+      "1 стрък босилек",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Отстраняват се пънчетата на печурките. В блендер се разбиват останалите съставки - стар препечен ръжен хляб (100 г), моцарела (50 г), домат (1/2 бр), босилек и сол. С получената смес се пълнят гъбите и се нареждат в тавичка. Запичат се за около 20 минути на силна фурна."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "печурки",
+      "qty": "400 г",
+      "id": 62
+    },
+    {
+      "name": "ръжен хляб",
+      "qty": "100 г",
+      "id": 66
+    },
+    {
+      "name": "моцарела",
+      "qty": "50 г",
+      "id": 93
+    },
+    {
+      "name": "домат",
+      "qty": "1/2",
+      "id": 15
+    },
+    {
+      "name": "босилек",
+      "qty": "1 стрък",
+      "id": 25
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

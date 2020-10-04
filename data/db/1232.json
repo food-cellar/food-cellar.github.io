@@ -1,0 +1,104 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печена сьомга със спаначено-шафранов чеснов сос на фурна, в йенско стъкло или на грил тиган",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/sioomga-sus-spanacheno-shafranov-sos-3-[1232].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/sioomga-sus-spanacheno-shafranov-sos-3-[1232].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/sioomga-sus-spanacheno-shafranov-sos-3-[1232].jpg"
+    ],
+    "datePublished": "2010-12-12",
+    "cookTime": "PT0H45M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "535 calories",
+      "carbohydrateContent": "15 g",
+      "fatContent": "19 g",
+      "proteinContent": "56 g",
+      "saturatedFatContent": "7 g",
+      "unsaturatedFatContent": "9.065145 g",
+      "cholesterolContent": "165 mg"
+    },
+    "recipeIngredient": [
+      "1 глава сьомга",
+      "шафран",
+      "1 глава лук",
+      "4 скилидки чесън",
+      "1/2 кг спанак",
+      "250 г рукола (по желание)",
+      "1 ч.ч. вермут",
+      "1/2 ч.ч. сметана",
+      "25 мл. лимонов сок",
+      "1/2 ч.ч. вода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пригответе сьомгата по любимия си начин. Може да я опечете във фурна под фолио, на грил тиган или на грил, в йенско стъкло без мазнина. Трябва да се готви около 30-40 минути."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Лукът (1 глава) и чесънът (4 скилидки) се нарязват на ситно. Запържват се в малко зехтин за 3-4 минути. Гаси се с вермутът (1 ч.ч.) и се добавят спанакът (1/2 кг) и руколата (250 г). След 1-2 минути, когато са намалили обемът си се добавя и сметаната (1/2 ч.ч.), малко вода (1/2 ч.ч.), лимонов сок (25 мл.) и сол. Слага се и малко шафран от върха на нож. Слага се дотолкова, че сместа да придобие жълт цват. Сосът е готов след 4-5 минути бъркане. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Поръсете върху изпечената във фурна, под фолио или на грил сьомга и сервирайте."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "сьомга",
+      "qty": "1 глава",
+      "id": 114
+    },
+    {
+      "name": "шафран",
+      "qty": "Parsing error",
+      "id": 203
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "спанак",
+      "qty": "1/2 кг",
+      "id": 40
+    },
+    {
+      "name": "рукола",
+      "qty": "250 г",
+      "id": 155
+    },
+    {
+      "name": "вермут",
+      "qty": "1 ч.ч.",
+      "id": 190
+    },
+    {
+      "name": "сметана",
+      "qty": "1/2 ч.ч.",
+      "id": 19
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "25 мл.",
+      "id": 17
+    },
+    {
+      "name": "вода",
+      "qty": "1/2 ч.ч.",
+      "id": 11
+    }
+  ]
+}

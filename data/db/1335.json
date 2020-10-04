@@ -1,0 +1,60 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Малки сандвичи с гъби и чедър",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/malki-sandvichi-s-gubi-i-chedur-1-[1335].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/malki-sandvichi-s-gubi-i-chedur-1-[1335].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/malki-sandvichi-s-gubi-i-chedur-1-[1335].jpg"
+    ],
+    "datePublished": "2011-02-28",
+    "cookTime": "PT0H15M",
+    "recipeYield": "12 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "89 calories",
+      "carbohydrateContent": "8 g",
+      "fatContent": "4 g",
+      "proteinContent": "4 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "1.3040683333333 g",
+      "cholesterolContent": "40 mg"
+    },
+    "recipeIngredient": [
+      "150 г гъби",
+      "100 г сирене Чедър",
+      "2  яйца",
+      "200 г хляб Чабата"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Хлябът (200 г) се нарязва на тънки филийки. Гъбите (150 г) се нарязват на ситно, а сиренето Чедър (100 г) се настъргва на едрото ренде. Гъбите и сиренето се смесват с разбитите яйца (2 бр) и с получената плънка се намазват сандвичите. Пекат се в силна фурна на горен реотан до златисто. Сервират се топли.  "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "гъби",
+      "qty": "150 г",
+      "id": 37
+    },
+    {
+      "name": "сирене Чедър",
+      "qty": "100 г",
+      "id": 153
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "хляб Чабата",
+      "qty": "200 г",
+      "id": 66
+    }
+  ]
+}

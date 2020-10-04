@@ -1,0 +1,74 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Запечени сандвичи с броколи, шунка, гъби и чедър",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/sandvichi-s-brokoli-shunka-gubi-i-chedur-3-[2282].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/sandvichi-s-brokoli-shunka-gubi-i-chedur-3-[2282].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/sandvichi-s-brokoli-shunka-gubi-i-chedur-3-[2282].jpg"
+    ],
+    "datePublished": "2013-01-28",
+    "cookTime": "PT0H25M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Сандвичи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "313 calories",
+      "carbohydrateContent": "28 g",
+      "fatContent": "15 g",
+      "proteinContent": "17 g",
+      "saturatedFatContent": "7 g",
+      "unsaturatedFatContent": "6.37618 g",
+      "cholesterolContent": "45 mg"
+    },
+    "recipeIngredient": [
+      "8 филии пълнозърнест хляб",
+      "100 г броколи",
+      "100 г гъби",
+      "100 г шунка",
+      "100 г чедър"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Розичките броколи (100 г) се бланшират за няколко минути във вряща подсолена вода, докато омекнат. След това се нарязват на ситно. Смесват се с нарязаните на дребни кубчета мариновани гъби (100 г), шунка (100 г) и сирене чедър (100 г)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Получената плънка се разпределя върху филийки пълнозърнест хляб (8 филии) и те се изпичат във фурна при горен реотан, докато сиренето се разтопи. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Сандвичите се сервират топли и са много апетитна закуска."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пълнозърнест хляб",
+      "qty": "8 филии",
+      "id": 267
+    },
+    {
+      "name": "броколи",
+      "qty": "100 г",
+      "id": 57
+    },
+    {
+      "name": "гъби",
+      "qty": "100 г",
+      "id": 37
+    },
+    {
+      "name": "шунка",
+      "qty": "100 г",
+      "id": 76
+    },
+    {
+      "name": "чедър",
+      "qty": "100 г",
+      "id": 153
+    }
+  ]
+}

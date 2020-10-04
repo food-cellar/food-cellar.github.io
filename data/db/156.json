@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата с червено цвекло, краставица и бяла риба",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-koralov-sun-s-riba-i-cveklo-1-[156].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-koralov-sun-s-riba-i-cveklo-1-[156].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-koralov-sun-s-riba-i-cveklo-1-[156].jpg"
+    ],
+    "datePublished": "2010-11-18",
+    "cookTime": "PT0H15M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "193 calories",
+      "carbohydrateContent": "13 g",
+      "fatContent": "10 g",
+      "proteinContent": "14 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "7.2055 g",
+      "cholesterolContent": "30 mg"
+    },
+    "recipeIngredient": [
+      "50 г червено цвекло",
+      "5 стръка салатен босилек",
+      "5 стръка лилав босилек",
+      "1  краставица",
+      "100 г бяла риба",
+      "сол",
+      "2 с.л. зехтин",
+      "2 с.л. лимонов сок",
+      "1 скилидка чесън",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Листата на босилека се откъсват от стъблата и измиват. Краставицата се обелва и настъргва на едрото ренде, червеното цвекло (50 г) също се обелва, но се настъргва на едрото ренде. Рибата (100 г) се сварява и се накъсва на малки парченца. Чесънът (1 скилидка) се счуква със сол и се смесва със зехтина, лимоновия сок и черния пипер. Разбива се добре и престоява 1 час на студено. Продуктите се смесват, овкусяват с охладения дресинг и се разбъркват."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "червено цвекло",
+      "qty": "50 г",
+      "id": 131
+    },
+    {
+      "name": "салатен босилек",
+      "qty": "5 стръка",
+      "id": 25
+    },
+    {
+      "name": "лилав босилек",
+      "qty": "5 стръка",
+      "id": 25
+    },
+    {
+      "name": "краставица",
+      "qty": "1",
+      "id": 44
+    },
+    {
+      "name": "бяла риба",
+      "qty": "100 г",
+      "id": 102
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "2 с.л.",
+      "id": 17
+    },
+    {
+      "name": "чесън",
+      "qty": "1 скилидка",
+      "id": 6
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

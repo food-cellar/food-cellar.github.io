@@ -1,0 +1,88 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Свежа зелена салата с пилешко филе на тиган, тиквички, маруля и рукола",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/sveja-salata-s-pileshko-file-1-[3074].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/sveja-salata-s-pileshko-file-1-[3074].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/sveja-salata-s-pileshko-file-1-[3074].jpg"
+    ],
+    "datePublished": "2016-01-25",
+    "cookTime": "PT0H15M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "569 calories",
+      "carbohydrateContent": "32 g",
+      "fatContent": "33 g",
+      "proteinContent": "44 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "25.31466 g",
+      "cholesterolContent": "98 mg"
+    },
+    "recipeIngredient": [
+      "1  пилешко филе",
+      "1  тиквичка",
+      "1 връзка рукола",
+      "1 връзка зелена салата",
+      "150 г чери домати",
+      "4 с.л. зехтин",
+      "1  лимон",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилешкото филе се намазва със зехтин и се посипва с черен пипер и сол на вкус. Изпича се на тиган от двете страни до готовност и се нарязва на жулиени. Тиквичката се нарязва на полумесеци и също се изпича на тиган. Месото и тиквичката се поставят в салата от свежи листа зелена салата, рукола и разполовени чери домати. Салатата се овкусява с пресен лимон, сол и зехтин."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Тази рецепта е част от <a href=http://www.1001recepti.com/articles/show/?list_id=212-dieti>РЕЖИМЪТ НА САНДРА</a>."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешко филе",
+      "qty": "1",
+      "id": 49
+    },
+    {
+      "name": "тиквичка",
+      "qty": "1",
+      "id": 39
+    },
+    {
+      "name": "рукола",
+      "qty": "1 връзка",
+      "id": 155
+    },
+    {
+      "name": "зелена салата",
+      "qty": "1 връзка",
+      "id": 87
+    },
+    {
+      "name": "чери домати",
+      "qty": "150 г",
+      "id": 15
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "лимон",
+      "qty": "1",
+      "id": 43
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

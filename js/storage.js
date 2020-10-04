@@ -39,10 +39,10 @@ export { addBanned, removeBanned, isBanned };
 export { addAvailable, removeAvailable, isAvailable };
 export { addMandatory, removeMandatory, isMandatory };
 
-export function hasMandatory(ingredients) {
+export function hasMandatory(ingredientIds) {
     if (mandatory.length == 0) {
         return true;
     } else {
-        return mandatory.reduce((p, c) => p && ingredients.map(i => Number(i.id)).includes(c), true);
+        return mandatory.reduce((p, c) => p && ingredientIds.map(i => Number(i)).includes(Number(c)), true);
     }
 }

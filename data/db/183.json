@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пържени спаначени кюфтенца с овесени ядки, лук, яйца и галета",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/spanacheni-kuftenca-2-[183].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/spanacheni-kuftenca-2-[183].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/spanacheni-kuftenca-2-[183].jpg"
+    ],
+    "datePublished": "2010-12-02",
+    "cookTime": "PT1H20M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "159 calories",
+      "carbohydrateContent": "24 g",
+      "fatContent": "3 g",
+      "proteinContent": "9 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "2.3307266666667 g",
+      "cholesterolContent": "31 mg"
+    },
+    "recipeIngredient": [
+      "1 кг спанак",
+      "150 г овесени ядки",
+      "1 глава лук",
+      "1  яйце",
+      "чесън на прах",
+      "1 с.л. олио",
+      "сол",
+      "галета"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Спанакът (1 кг) се нарязва на ситно и се задушава с малко олио и сол, след което се пасира. Щом сместа изстине, се прибавят яйцето (1 бр), настърганият лук (1 глава) и овесените ядки (150 г). Омесва се “кайма” и се оставя да престои, за да набъбнат овесените ядки. След това се оформят кюфтета, които се овалват в галета и се изпържват от двете страни до пълна готовност. Поднасят се топли с прецедено кисело мляко или картофено пюре за гарнитура. Може и с подлучено кисело мляко и зелена салата."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "спанак",
+      "qty": "1 кг",
+      "id": 40
+    },
+    {
+      "name": "овесени ядки",
+      "qty": "150 г",
+      "id": 135
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    },
+    {
+      "name": "чесън на прах",
+      "qty": "Parsing error",
+      "id": 6
+    },
+    {
+      "name": "олио",
+      "qty": "1 с.л.",
+      "id": 4
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "галета",
+      "qty": "Parsing error",
+      "id": 58
+    }
+  ]
+}

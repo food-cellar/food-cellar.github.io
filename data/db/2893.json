@@ -1,0 +1,98 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Кисело зеле с наденица на тиган",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kiselo-zele-s-nadenica-na-tigan-1-[2893].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kiselo-zele-s-nadenica-na-tigan-1-[2893].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kiselo-zele-s-nadenica-na-tigan-1-[2893].jpg"
+    ],
+    "datePublished": "2014-03-18",
+    "cookTime": "PT0H40M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "371 calories",
+      "carbohydrateContent": "12 g",
+      "fatContent": "29 g",
+      "proteinContent": "15 g",
+      "saturatedFatContent": "6 g",
+      "unsaturatedFatContent": "20.61118 g",
+      "cholesterolContent": "38 mg"
+    },
+    "recipeIngredient": [
+      "1 глава кисело зеле",
+      "1/2 кг наденица",
+      "4 скилидки чесън",
+      "4 с.л. доматено пюре",
+      "100 мл. олио",
+      "1 с.л. червен пипер",
+      "1 ч.л. черен пипер",
+      "сол",
+      "1 к.ч. вода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Чесънът (4 скилидки) се накълцва и се запържва в олиото (100 мл.) в дълбок тиган. След като омекне към него се добавя суровата наденица (1/2 кг). Щом малко се стегне, се нарязва на парчета и се връща в тигана. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Щом наденицата се позапържи, се прибавя киселото зеле (1 глава), нарязано на тънки ивици. Ястието се бърка и се подправя с доматено пюре (4 с.л.), разбито в малко вода (1 к.ч.), червен пипер (1 с.л.), черен пипер (1 ч.л.) и сол. Бърка се в продължение на около 10 минути на котлона, след което се похлупва с капак и се оставя на котлона да се задуши за още десетина минути. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Ястието се сервира горещо."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "кисело зеле",
+      "qty": "1 глава",
+      "id": 94
+    },
+    {
+      "name": "наденица",
+      "qty": "1/2 кг",
+      "id": 148
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "доматено пюре",
+      "qty": "4 с.л.",
+      "id": 35
+    },
+    {
+      "name": "олио",
+      "qty": "100 мл.",
+      "id": 4
+    },
+    {
+      "name": "червен пипер",
+      "qty": "1 с.л.",
+      "id": 20
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "вода",
+      "qty": "1 к.ч.",
+      "id": 11
+    }
+  ]
+}

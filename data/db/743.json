@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пиле с масло и галета",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pile-s-maslo-i-galeta-1-[743].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pile-s-maslo-i-galeta-1-[743].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pile-s-maslo-i-galeta-1-[743].jpg"
+    ],
+    "datePublished": "2010-11-26",
+    "cookTime": "PT0H20M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "463 calories",
+      "carbohydrateContent": "44 g",
+      "fatContent": "15 g",
+      "proteinContent": "34 g",
+      "saturatedFatContent": "7 g",
+      "unsaturatedFatContent": "5.641125 g",
+      "cholesterolContent": "109 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг пилешко месо",
+      "250 г галета",
+      "50 г масло",
+      "1 връзка магданоз",
+      "1 с.л. лимонов сок",
+      "сол",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Месото (1/2 кг) се нарязва на малки парченца и се пуска във вряща подсолена вода за 3-4 минути, след което се отцежда и подсушава. Маслото (50 г) се загрява в тиган и в него се изпържва галетата (250 г). Добавят се месото, лимоновият сок (1 с.л.), солта и черният пипер. Разбърква се 2-3 минути и се ястието се отстранява от котлона. Поднася се горещо поръсено със ситно нарязан магданоз."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешко месо",
+      "qty": "1/2 кг",
+      "id": 49
+    },
+    {
+      "name": "галета",
+      "qty": "250 г",
+      "id": 58
+    },
+    {
+      "name": "масло",
+      "qty": "50 г",
+      "id": 8
+    },
+    {
+      "name": "магданоз",
+      "qty": "1 връзка",
+      "id": 12
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

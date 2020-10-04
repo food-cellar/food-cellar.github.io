@@ -1,0 +1,62 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Страшни паячета за Хелоуин с кренвирши и спагети",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/strashni-paiacheta-za-helouin-s-krenvirshi-i-spageti-2-[2974].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/strashni-paiacheta-za-helouin-s-krenvirshi-i-spageti-2-[2974].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/strashni-paiacheta-za-helouin-s-krenvirshi-i-spageti-2-[2974].jpg"
+    ],
+    "datePublished": "2014-10-30",
+    "cookTime": "PT0H20M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "320 calories",
+      "carbohydrateContent": "20 g",
+      "fatContent": "21 g",
+      "proteinContent": "11 g",
+      "saturatedFatContent": "8 g",
+      "unsaturatedFatContent": "12.209739320388 g",
+      "cholesterolContent": "38 mg"
+    },
+    "recipeIngredient": [
+      "2  кренвирша",
+      "50 г спагети",
+      "1 ч.л. кетчуп"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Кренвиршите се нарязват на парчета около 2-3 см и се пробождат напречно с 4 сурови спагети, които да стърчат от двете страни на кренвиршите с една и съща дължина. След това се пускат във вряща подсолена вода за десетина минути, докато спагетите омекнат."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Получените закачливи паячета се отцеждат и се сервират в порционна чиния. Очичките им се правят от кетчуп."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "За най-добри резултати екипът на 1001 рецепти препоръчва да приготвите тази рецепта с истински кренвирши - <a href=https://www.facebook.com/GradusChicken>пилешки кренвирши Градус</a>.  "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "кренвирша",
+      "qty": "2",
+      "id": 161
+    },
+    {
+      "name": "спагети",
+      "qty": "50 г",
+      "id": 72
+    },
+    {
+      "name": "кетчуп",
+      "qty": "1 ч.л.",
+      "id": 193
+    }
+  ]
+}

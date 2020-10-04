@@ -1,0 +1,82 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Кекс с мая и кайсии",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/keks-s-maia-i-kaisii-2-[3318].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/keks-s-maia-i-kaisii-2-[3318].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/keks-s-maia-i-kaisii-2-[3318].jpg"
+    ],
+    "datePublished": "2018-08-22",
+    "cookTime": "PT1H0M",
+    "recipeYield": "12 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "307 calories",
+      "carbohydrateContent": "51 g",
+      "fatContent": "8 g",
+      "proteinContent": "7 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "2.5634066666667 g",
+      "cholesterolContent": "37 mg"
+    },
+    "recipeIngredient": [
+      "1 кг кайсии",
+      "1/2 кг брашно",
+      "100 г захар",
+      "100 г масло",
+      "250 мл. прясно мляко",
+      "1  яйце",
+      "20 г прясна мая"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Прясната мая (20 г) се разтваря в част от прясното мляко (250 мл.), брашното (1/2 кг) се пресява и смесва със захарта (100 г). Поставя се на работна повърхност и се прави кладенче, в което се сипват маята, яйцето (1 бр), разтопеното масло (100 г) и част от млякото. Започва да се меси, като постепенно се добавя и останалото мляко. Трябва да се получи тесто подобно на хляб, като при необходимост се добавя и малко вода. Оставя се на топло за да втаса, докато удвои обема си."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Втасалото кексово тесто се разстила в намазнена тавичка и върху него се разпределят разполовените и почистени от костилките кайсии (1 кг). Слага се във фурна и се пече около 45-50 минути на 160-170 градуса на долен реотан."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "кайсии",
+      "qty": "1 кг",
+      "id": 185
+    },
+    {
+      "name": "брашно",
+      "qty": "1/2 кг",
+      "id": 7
+    },
+    {
+      "name": "захар",
+      "qty": "100 г",
+      "id": 9
+    },
+    {
+      "name": "масло",
+      "qty": "100 г",
+      "id": 8
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "250 мл.",
+      "id": 14
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    },
+    {
+      "name": "прясна мая",
+      "qty": "20 г",
+      "id": 52
+    }
+  ]
+}

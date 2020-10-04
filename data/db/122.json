@@ -1,0 +1,98 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Зеленчукови кюфтета с картофи, спанак и броколи",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zelenchukovi-kufteta-2-[122].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zelenchukovi-kufteta-2-[122].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zelenchukovi-kufteta-2-[122].jpg"
+    ],
+    "datePublished": "2010-11-22",
+    "cookTime": "PT1H20M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "335 calories",
+      "carbohydrateContent": "44 g",
+      "fatContent": "13 g",
+      "proteinContent": "11 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "10.144873333333 g",
+      "cholesterolContent": "63 mg"
+    },
+    "recipeIngredient": [
+      "4  картофа",
+      "200 г спанак",
+      "1 глава броколи",
+      "1 глава лук",
+      "сол",
+      "черен пипер",
+      "2  яйца",
+      "100 г галета",
+      "1 к.ч. олио"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Картофите (4 бр) се сваряват и пасират. Спанакът (200 г) се изчиства, попарва и нарязва на ситно. Броколите (1 глава) се бланшират, отцеждат и пасират. Лукът (1 глава) се настъргва на едрото ренде. Всичко това се смесва и подправя със сол и черен пипер. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "От полученото тесто се оформят кюфтета. Панират се в разбити яйца (2 бр) и галета и се пържат в горещо олио до златисто. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Поднасят се топли със салата от печени червени чушки."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "картофа",
+      "qty": "4",
+      "id": 16
+    },
+    {
+      "name": "спанак",
+      "qty": "200 г",
+      "id": 40
+    },
+    {
+      "name": "броколи",
+      "qty": "1 глава",
+      "id": 57
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "галета",
+      "qty": "100 г",
+      "id": 58
+    },
+    {
+      "name": "олио",
+      "qty": "1 к.ч.",
+      "id": 4
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пикантни пилешки шишчета от бут с ананас печени на грил",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pikantni-pileshki-shishcheta-s-ananas-1-[1586].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pikantni-pileshki-shishcheta-s-ananas-1-[1586].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pikantni-pileshki-shishcheta-s-ananas-1-[1586].jpg"
+    ],
+    "datePublished": "2011-08-20",
+    "cookTime": "PT0H20M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "403 calories",
+      "carbohydrateContent": "21 g",
+      "fatContent": "11 g",
+      "proteinContent": "51 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "5.9547 g",
+      "cholesterolContent": "200 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг пилешко месо от бут",
+      "200 г ананас",
+      "2  зелени чушки",
+      "2 с.л. чили сос",
+      "1 с.л. бял винен оцет",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Обезкостеното пилешко месо от бут (1/2 кг) се нарязва на хапки и заедно с нарязаните на едри парчета ананас (200 г) и зелени чушки (2 бр), се маринова в разбитите чили сос (2 с.л.), бял винен оцет (1 с.л.) и сол. Продуктите се нанизват на шишове и се пекат на грил до пълна готовност. Пикантните пилешки шишчета с ананас се поднасят топли с гарнитура от свежа салата. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешко месо от бут",
+      "qty": "1/2 кг",
+      "id": 119
+    },
+    {
+      "name": "ананас",
+      "qty": "200 г",
+      "id": 146
+    },
+    {
+      "name": "зелени чушки",
+      "qty": "2",
+      "id": 18
+    },
+    {
+      "name": "чили сос",
+      "qty": "2 с.л.",
+      "id": 205
+    },
+    {
+      "name": "бял винен оцет",
+      "qty": "1 с.л.",
+      "id": 61
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

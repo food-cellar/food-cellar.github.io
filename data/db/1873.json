@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Коледни сладки с канела и лешници",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/koledni-sladki-s-leshnici-1-[1873].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/koledni-sladki-s-leshnici-1-[1873].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/koledni-sladki-s-leshnici-1-[1873].jpg"
+    ],
+    "datePublished": "2011-12-14",
+    "cookTime": "PT0H30M",
+    "recipeYield": "25 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "112 calories",
+      "carbohydrateContent": "11 g",
+      "fatContent": "6 g",
+      "proteinContent": "1 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "3.5247704 g",
+      "cholesterolContent": "18 mg"
+    },
+    "recipeIngredient": [
+      "200 г брашно",
+      "125 г масло",
+      "125 г захар",
+      "1 ч.л. канела",
+      "100 г лешници",
+      "1  яйце"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Мекото масло (125 г) се разбърква заедно със захарта (125 г), канелата (1 ч.л.) и смлените лешници (100 г). Към сместа се добавя разбитото яйце (1 бр), разбърква се и се прибавя брашното (200 г). Всички продукти се омесват до получаването на хомогенна смес, която се оформя на топка, увива се във фолио и се поставя в хладилника за няколко часа. Най-добре е тестото да се остави а цяла нощ в хладилника. След това се изважда, разточва се на кора с дебелина 5 мм и с помощта на метални формички се изрязват сладки, които се пекат в предварително загрята до 200 градуса фурна за около 10 минути. Сладките се оставят да се охладят напълно и след това по желание се украсяват с шоколадов топинг или се поръсват с пудра захар. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "брашно",
+      "qty": "200 г",
+      "id": 7
+    },
+    {
+      "name": "масло",
+      "qty": "125 г",
+      "id": 8
+    },
+    {
+      "name": "захар",
+      "qty": "125 г",
+      "id": 9
+    },
+    {
+      "name": "канела",
+      "qty": "1 ч.л.",
+      "id": 46
+    },
+    {
+      "name": "лешници",
+      "qty": "100 г",
+      "id": 194
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    }
+  ]
+}

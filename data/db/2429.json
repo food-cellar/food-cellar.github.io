@@ -1,0 +1,92 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Домашен картофен хляб за хлебопекарна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kartofen-hliab-za-hlebopekarna-1-[2429].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kartofen-hliab-za-hlebopekarna-1-[2429].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kartofen-hliab-za-hlebopekarna-1-[2429].jpg"
+    ],
+    "datePublished": "2013-04-15",
+    "cookTime": "PT3H20M",
+    "recipeYield": "12 servings",
+    "recipeCategory": "Хлебни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "179 calories",
+      "carbohydrateContent": "36 g",
+      "fatContent": "1 g",
+      "proteinContent": "4 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.36988333333333 g",
+      "cholesterolContent": "1 mg"
+    },
+    "recipeIngredient": [
+      "430 г типово брашно",
+      "125 г картофено пюре на прах",
+      "55 мл. прясно мляко",
+      "230 мл. вода",
+      "1 с.л. олио",
+      "1 с.л. мед",
+      "2 ч.л. сол",
+      "2 1/2 ч.л. суха мая"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "В съда за печене на домашната хлебопекарна машина се слагат водата (230 мл.), млякото (55 мл.), типовото брашно (430 г), картофеното пюре на прах (125 г), олиото (1 с.л.), медът (1 с.л.), солта (2 ч.л.) и накрая сухата мая (2 1/2 ч.л.). Машината се пуска в режим за печене на бял хляб с умерена коричка."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Когато хлябът е изпечен, той се изважда от тавичката и се оставя да почива върху кухненска решетка за половин час."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "От това количество продукти се получава около килограм хляб с приятен кафяв цвят."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "типово брашно",
+      "qty": "430 г",
+      "id": 7
+    },
+    {
+      "name": "картофено пюре на прах",
+      "qty": "125 г",
+      "id": 7
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "55 мл.",
+      "id": 14
+    },
+    {
+      "name": "вода",
+      "qty": "230 мл.",
+      "id": 11
+    },
+    {
+      "name": "олио",
+      "qty": "1 с.л.",
+      "id": 4
+    },
+    {
+      "name": "мед",
+      "qty": "1 с.л.",
+      "id": 38
+    },
+    {
+      "name": "сол",
+      "qty": "2 ч.л.",
+      "id": 1
+    },
+    {
+      "name": "суха мая",
+      "qty": "2 1/2 ч.л.",
+      "id": 52
+    }
+  ]
+}

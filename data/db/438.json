@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Рибен хляб",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/riben_hliab_2-[438].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/riben_hliab_2-[438].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/riben_hliab_2-[438].jpg"
+    ],
+    "datePublished": "2010-10-12",
+    "cookTime": "PT0H35M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Хлебни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "290 calories",
+      "carbohydrateContent": "13 g",
+      "fatContent": "16 g",
+      "proteinContent": "21 g",
+      "saturatedFatContent": "7 g",
+      "unsaturatedFatContent": "7.65328 g",
+      "cholesterolContent": "88 mg"
+    },
+    "recipeIngredient": [
+      "800 г бяла риба",
+      "120 г галета",
+      "100 г масло",
+      "1 глава лук",
+      "1 връзка магданоз",
+      "сол",
+      "черен пипер",
+      "2  лимона",
+      "10 г бакпулвер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Филето от бяла риба (800 г), галетата (120 г), размекнатото масло (100 г), ситно нарязаният лук (1 глава), ситно нарязаният магданоз (1 връзка), подправките, сокът от лимоните (2 бр) и бакпулверът (10 г) се смесват се и полученото тесто се слага в намазнена правоъгълна форма за печене. Формата се поставя в предварително загрята фурна и се пече 35 минути при 220 градуса. Щом хлябът изстине, се изважда от формата и се нарязва на парчета. Поднася се с бяло вино."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "бяла риба",
+      "qty": "800 г",
+      "id": 102
+    },
+    {
+      "name": "галета",
+      "qty": "120 г",
+      "id": 58
+    },
+    {
+      "name": "масло",
+      "qty": "100 г",
+      "id": 8
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "магданоз",
+      "qty": "1 връзка",
+      "id": 12
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "лимона",
+      "qty": "2",
+      "id": 43
+    },
+    {
+      "name": "бакпулвер",
+      "qty": "10 г",
+      "id": 29
+    }
+  ]
+}

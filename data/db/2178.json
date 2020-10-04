@@ -1,0 +1,82 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Катък с печени чушки и орехи",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/katuk-s-piperki-i-orehi-1-[2178].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/katuk-s-piperki-i-orehi-1-[2178].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/katuk-s-piperki-i-orehi-1-[2178].jpg"
+    ],
+    "datePublished": "2012-11-25",
+    "cookTime": "PT0H10M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "503 calories",
+      "carbohydrateContent": "26 g",
+      "fatContent": "41 g",
+      "proteinContent": "11 g",
+      "saturatedFatContent": "20 g",
+      "unsaturatedFatContent": "17.65675 g",
+      "cholesterolContent": "45 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг цедено кисело мляко",
+      "200 г сирене",
+      "4  печени червени чушки",
+      "40 г орехи",
+      "4 скилидки чесън",
+      "50 мл. олио",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Сиренето (200 г) се намачква с вилица и се смесва с цеденото кисело мляко (1/2 кг). Продуктите се разбъркват внимателно с вилица и постепенно към тях се добавят нарязаните на ситно печени белени червени чушки (4 бр), пресованият чесън (4 скилидки), олиото (50 мл.), солта и смлените орехи (40 г). Всичко се разбърква много добре и се поднася. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Катъкът е традиционно родно предястие, което е особено популярно в Родопите и класическата му рецепта гласи да се прави от последното мляко, което дават овцете наесен. В случай, че не можете да го приготвите, спазвайки това условие, достатъчно е да добавите овче сирене и да следвате рецептата, описана по-горе. Не забравяйте да поднесете и греяна ракия на трапезата. Добър апетит, българи!"
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "цедено кисело мляко",
+      "qty": "1/2 кг",
+      "id": 163
+    },
+    {
+      "name": "сирене",
+      "qty": "200 г",
+      "id": 32
+    },
+    {
+      "name": "печени червени чушки",
+      "qty": "4",
+      "id": 18
+    },
+    {
+      "name": "орехи",
+      "qty": "40 г",
+      "id": 31
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "олио",
+      "qty": "50 мл.",
+      "id": 4
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

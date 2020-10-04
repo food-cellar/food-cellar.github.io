@@ -1,0 +1,74 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Домашни слепени сладки с мармалад от череши  и пудра захар",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/slepeni-sladki-s-marmalad-i-pudra-zahar-1-[2807].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/slepeni-sladki-s-marmalad-i-pudra-zahar-1-[2807].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/slepeni-sladki-s-marmalad-i-pudra-zahar-1-[2807].jpg"
+    ],
+    "datePublished": "2014-02-23",
+    "cookTime": "PT1H0M",
+    "recipeYield": "12 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "223 calories",
+      "carbohydrateContent": "30 g",
+      "fatContent": "10 g",
+      "proteinContent": "2 g",
+      "saturatedFatContent": "6 g",
+      "unsaturatedFatContent": "2.4589091666667 g",
+      "cholesterolContent": "27 mg"
+    },
+    "recipeIngredient": [
+      "225 г брашно",
+      "150 г масло",
+      "125 г пудра захар",
+      "1 ч.л. ванилия",
+      "100 г мармалад от череши"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Брашното (225 г)  се изсипва в дълбок съд и към него се добавя натрошеното на парчета твърдо масло (150 г). Продуктите се разбъркват с ръце, докато брашното поеме цялото масло. Добавят се пудрата захар (125 г) и ванилията (1 ч.л.) и от получената смес се прави тесто."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Върху равна повърхност се поръсва брашно и се разточва тестото. С помощта на формичка се отрязват плоски сладки с форма на цветчета или кръгчета. Половината от тях се отделя настрани и в центъра им се отрязва малко кръгче, отново с помощта на малка форма за сладки. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Получените фигурки се подреждат в намаслена тавичка. Пекат се на 180 градуса 15-20 минути или докато не придобият апетитен златист цвят.Накрая сладките се слепват с мармалад от череши (100 г), като се слепват една цяла фигурка с една фигурка с изрязан център. По желание се поръсват с пудра захар."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "брашно",
+      "qty": "225 г",
+      "id": 7
+    },
+    {
+      "name": "масло",
+      "qty": "150 г",
+      "id": 8
+    },
+    {
+      "name": "пудра захар",
+      "qty": "125 г",
+      "id": 34
+    },
+    {
+      "name": "ванилия",
+      "qty": "1 ч.л.",
+      "id": 23
+    },
+    {
+      "name": "мармалад от череши",
+      "qty": "100 г",
+      "id": 89
+    }
+  ]
+}

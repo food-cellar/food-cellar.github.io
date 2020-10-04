@@ -1,0 +1,58 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Трюфели с бадеми и фурми",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/trufeli-s-bademi-i-furmi-2-[2118].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/trufeli-s-bademi-i-furmi-2-[2118].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/trufeli-s-bademi-i-furmi-2-[2118].jpg"
+    ],
+    "datePublished": "2012-10-26",
+    "cookTime": "PT0H35M",
+    "recipeYield": "40 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "44 calories",
+      "carbohydrateContent": "4 g",
+      "fatContent": "2 g",
+      "proteinContent": "1 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "1.620775 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "200 г фурми",
+      "200 г сурови бадеми",
+      "1 опак. кокосови стърготини"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Фурмите (200 г) се Почистват от костилките, накисват се във вода за половин час и накрая се отцеждат. Суровите бадеми (200 г) се пасират отделно, а после към тях се добавят и омекналите фурми. Получава се лепкаво тесто, от което после се оформят малки топчета. Овалват се в кокосови стърготини за завършек."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Не е необходимо да се добавя захар или подсладител, защото фурмите са изключително сладки. Тази рецепта е подходяща за хора, следващи принципите на суровоядството."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "фурми",
+      "qty": "200 г",
+      "id": 214
+    },
+    {
+      "name": "сурови бадеми",
+      "qty": "200 г",
+      "id": 82
+    },
+    {
+      "name": "кокосови стърготини",
+      "qty": "1 опак.",
+      "id": 100
+    }
+  ]
+}

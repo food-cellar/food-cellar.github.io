@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Картофена салата с пушена скумрия, майонеза и лимонов сок (без лук)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kartofena-salata-s-pushena-skumriia-2-[1575].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kartofena-salata-s-pushena-skumriia-2-[1575].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kartofena-salata-s-pushena-skumriia-2-[1575].jpg"
+    ],
+    "datePublished": "2011-08-31",
+    "cookTime": "PT1H0M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "262 calories",
+      "carbohydrateContent": "30 g",
+      "fatContent": "10 g",
+      "proteinContent": "10 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "7.583 g",
+      "cholesterolContent": "22 mg"
+    },
+    "recipeIngredient": [
+      "1 кг картофи",
+      "2  пушени скумрии",
+      "1/2 опак. майонеза",
+      "4 с.л. лимонов сок",
+      "1 връхче босилек"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Картофите (1 кг) се сваряват, обелват и нарязват на малки кубчета. Скумриите (2 бр) се почистват от костите и също се нарязват на малки кубчета. Смесват се с картофите в дълбока купа и към тях се добавят лимоновият сок (4 с.л.) и майонезата (1/2 опак.). Салатата се разбърква много добре и се поднася украсена с връхче пресен босилек. Забележка: В салатата не се добавя сол, тъй като рибата е достатъчно солена, за да я овкуси."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "картофи",
+      "qty": "1 кг",
+      "id": 16
+    },
+    {
+      "name": "пушени скумрии",
+      "qty": "2",
+      "id": 394
+    },
+    {
+      "name": "майонеза",
+      "qty": "1/2 опак.",
+      "id": 80
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "4 с.л.",
+      "id": 17
+    },
+    {
+      "name": "босилек",
+      "qty": "1 връхче",
+      "id": 25
+    }
+  ]
+}

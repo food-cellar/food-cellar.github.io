@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Лимонова крем супа с аромат на пиле",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/limonova-krem-supa-2-[934].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/limonova-krem-supa-2-[934].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/limonova-krem-supa-2-[934].jpg"
+    ],
+    "datePublished": "2010-11-08",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "237 calories",
+      "carbohydrateContent": "4 g",
+      "fatContent": "23 g",
+      "proteinContent": "3 g",
+      "saturatedFatContent": "13 g",
+      "unsaturatedFatContent": "8.1147525 g",
+      "cholesterolContent": "233 mg"
+    },
+    "recipeIngredient": [
+      "2  лимона",
+      "2 кубчета пилешки бульон",
+      "1 ч.ч. сметана",
+      "3  жълтъка",
+      "черен пипер",
+      "1 стрък магданоз"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "От единия лимон се отрязват 4 тънки резенчета. В малка купа се изстисква сокът от останалата част от първия и втория лимон. Кубчетата пилешки бульон (2 кубчета) се разтварят в тенджера с 1.5 л вряща вода. Съдът се премества от огъня. Към леко охладения бульон бавно и с непрекъснато разбъркване се добавя сметаната (1 ч.ч.). Жълтъците (3 бр) се разбиват с 2 с. л. от лимоновия сок. В тази смес се слага един черпак от топлата супа, като се бърка непрекъснато. След това яйчено-лимонената смес се излива в супата отново при непрекъснато бъркане. Супата се подправя с черен пипер и по желание с още лимонов сок.  Поднася се топла, с резенче лимон и пресен магданоз (1 стрък)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "лимона",
+      "qty": "2",
+      "id": 43
+    },
+    {
+      "name": "пилешки бульон",
+      "qty": "2 кубчета",
+      "id": 26
+    },
+    {
+      "name": "сметана",
+      "qty": "1 ч.ч.",
+      "id": 19
+    },
+    {
+      "name": "жълтъка",
+      "qty": "3",
+      "id": 33
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "магданоз",
+      "qty": "1 стрък",
+      "id": 12
+    }
+  ]
+}

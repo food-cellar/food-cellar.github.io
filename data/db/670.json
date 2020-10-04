@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Ципура със зеленчуков сос",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/cipura-sus-zelenchukov-sos-1-[670].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/cipura-sus-zelenchukov-sos-1-[670].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/cipura-sus-zelenchukov-sos-1-[670].jpg"
+    ],
+    "datePublished": "2010-11-28",
+    "cookTime": "PT0H45M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "422 calories",
+      "carbohydrateContent": "35 g",
+      "fatContent": "12 g",
+      "proteinContent": "44 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "8.621465 g",
+      "cholesterolContent": "120 mg"
+    },
+    "recipeIngredient": [
+      "2  ципури",
+      "1/2  целина",
+      "1  червена чушка",
+      "1  зелена чушка",
+      "1/2  алабаш",
+      "2  лук",
+      "1 л. вода",
+      "1 с.л. брашно"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Зеленчуците се нарязват на ситно и се слагат в тенджера с вода (1 л.). Слагат се на котлона и щом заврят се добавят ципурите (2 бр). Варят се около 7-8 минути, след което се изваждат. Зеленчуковият бульон се оставя да ври още 20-30 минути за да се сгъсти. Пасира се и се оставя на котлона за още 5-10 минути, след което се добавя брашното (1 с.л.) и се бърка за 2-3 минути до получаване на гъст сос."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "ципури",
+      "qty": "2",
+      "id": 102
+    },
+    {
+      "name": "целина",
+      "qty": "1/2",
+      "id": 30
+    },
+    {
+      "name": "червена чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "зелена чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "алабаш",
+      "qty": "1/2",
+      "id": 343
+    },
+    {
+      "name": "лук",
+      "qty": "2",
+      "id": 3
+    },
+    {
+      "name": "вода",
+      "qty": "1 л.",
+      "id": 11
+    },
+    {
+      "name": "брашно",
+      "qty": "1 с.л.",
+      "id": 7
+    }
+  ]
+}

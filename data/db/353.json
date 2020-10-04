@@ -1,0 +1,106 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Омлет с кашкавал, зелен фасул, броколи и сметана",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/omlet-veronika-2-[353].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/omlet-veronika-2-[353].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/omlet-veronika-2-[353].jpg"
+    ],
+    "datePublished": "2010-11-09",
+    "cookTime": "PT0H20M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "465 calories",
+      "carbohydrateContent": "42 g",
+      "fatContent": "21 g",
+      "proteinContent": "33 g",
+      "saturatedFatContent": "8 g",
+      "unsaturatedFatContent": "8.72126 g",
+      "cholesterolContent": "582 mg"
+    },
+    "recipeIngredient": [
+      "3  яйца",
+      "1 с.л. сметана",
+      "1 с.л. брашно",
+      "1 щип. сода",
+      "12 розички броколи",
+      "1  морков",
+      "50 г зелен фасул",
+      "1 стрък пресен лук",
+      "сол",
+      "черен пипер",
+      "1 с.л. кашкавал"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Броколите (12 розички) и зеленият фасул (50 г) се сваряват."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Яйцата (3 бр) се разбиват на пяна заедно със сметаната (1 с.л.), солта, содата (1 щип.) и черния пипер. Прибавят се брашното (1 с.л.) и отново се разбива. В нагорещен тиган с незалепващо покритие се излива сместа за омлета. Изчаква се да се втвърди оттоду, след което върху горната й повърхност се нареждат в кръг розичките броколи (12 розички). По средата се посипва със зеления фасул (50 г), ситно нарязания пресен лук (1 стрък), настъргания морков и настъргания кашкавал (1 с.л.). Тиганът се премества в гореща фурна и омлетът се допича само на горен реотан."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "яйца",
+      "qty": "3",
+      "id": 5
+    },
+    {
+      "name": "сметана",
+      "qty": "1 с.л.",
+      "id": 19
+    },
+    {
+      "name": "брашно",
+      "qty": "1 с.л.",
+      "id": 7
+    },
+    {
+      "name": "сода",
+      "qty": "1 щип.",
+      "id": 56
+    },
+    {
+      "name": "броколи",
+      "qty": "12 розички",
+      "id": 57
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "зелен фасул",
+      "qty": "50 г",
+      "id": 99
+    },
+    {
+      "name": "пресен лук",
+      "qty": "1 стрък",
+      "id": 24
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "кашкавал",
+      "qty": "1 с.л.",
+      "id": 47
+    }
+  ]
+}

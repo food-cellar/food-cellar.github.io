@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Сладко-кисел компот от череши",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/sladko-kisel-kompot-ot-chereshi-1-[1591].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/sladko-kisel-kompot-ot-chereshi-1-[1591].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/sladko-kisel-kompot-ot-chereshi-1-[1591].jpg"
+    ],
+    "datePublished": "2012-04-17",
+    "cookTime": "PT0H15M",
+    "recipeYield": "32 servings",
+    "recipeCategory": "Напитки",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "23 calories",
+      "carbohydrateContent": "5 g",
+      "fatContent": "0 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.0903125 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1 кг череши",
+      "8 л. вода",
+      "15  вишневи листа",
+      "захар или подсладител"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Черешите (1 кг) се измиват без да се отстраняват дръжките. Поставят се в бидон или друг голям съд, заедно с вишневите листа (15 бр). Заливат се с вода (8 л.) и се оставят за 6-7 дни на сянка в стаята, за да започнат да ферментират."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Познава се, че са готови по образуваната бяла пяна по повърхността.Необходимо е да я отстраните преди консумация, както и вишневите листа."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Подправете компота със захар или подсладител. Ако използвате подсладител, слагайте лъжица по лъжица и всеки път пробвайте дали удовлетворява вкуса ви."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Ако използвате захар, препоръчителното количество е 50-60 грама на литър, но отново не слагайте всичко наведнъж, а постепенно, опитвайки вкуса. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "череши",
+      "qty": "1 кг",
+      "id": 126
+    },
+    {
+      "name": "вода",
+      "qty": "8 л.",
+      "id": 11
+    },
+    {
+      "name": "вишневи листа",
+      "qty": "15",
+      "id": 27
+    },
+    {
+      "name": "захар или подсладител",
+      "qty": "Parsing error",
+      "id": 27
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Предястие пюре от спанак, ориз и варено яйце",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/prediastie-ot-spanak-i-oriz-2-[414].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/prediastie-ot-spanak-i-oriz-2-[414].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/prediastie-ot-spanak-i-oriz-2-[414].jpg"
+    ],
+    "datePublished": "2010-12-12",
+    "cookTime": "PT0H5M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "575 calories",
+      "carbohydrateContent": "86 g",
+      "fatContent": "18 g",
+      "proteinContent": "18 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "14.6191225 g",
+      "cholesterolContent": "47 mg"
+    },
+    "recipeIngredient": [
+      "2 ч.ч. ориз",
+      "1 кг спанак",
+      "6 с.л. зехтин",
+      "2 с.л. лимонов сок",
+      "сол",
+      "4 скилидка чесън",
+      "сол",
+      "черен пипер",
+      "1  яйце",
+      "50 г слънчогледово семе",
+      "2  репички"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Спанакът (1 кг) се почиства, попарва, отцежда. Разбива се с миксера заедно със солта, счукания чесън (4 скилидка), зехтина (6 с.л.) и лимоновия сок (2 с.л.). С полученото зелено пюре се залива предварително свареният бял ориз (2 ч.ч.). Отгоре се украсява с парченцето от cвареното яйце (1 бр), 3 шайби репичка и се поръсва с белен слънчоглед (50 г)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "ориз",
+      "qty": "2 ч.ч.",
+      "id": 22
+    },
+    {
+      "name": "спанак",
+      "qty": "1 кг",
+      "id": 40
+    },
+    {
+      "name": "зехтин",
+      "qty": "6 с.л.",
+      "id": 10
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "2 с.л.",
+      "id": 17
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидка",
+      "id": 6
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    },
+    {
+      "name": "слънчогледово семе",
+      "qty": "50 г",
+      "id": 147
+    },
+    {
+      "name": "репички",
+      "qty": "2",
+      "id": 218
+    }
+  ]
+}

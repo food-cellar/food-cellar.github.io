@@ -1,0 +1,104 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пържен - печен лаврак с пипер на тиган",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pechen-lavrak-s-piper-na-tigan-1-[3077].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pechen-lavrak-s-piper-na-tigan-1-[3077].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pechen-lavrak-s-piper-na-tigan-1-[3077].jpg"
+    ],
+    "datePublished": "2016-01-25",
+    "cookTime": "PT0H20M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "178 calories",
+      "carbohydrateContent": "8 g",
+      "fatContent": "9 g",
+      "proteinContent": "15 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "6.320825 g",
+      "cholesterolContent": "27 mg"
+    },
+    "recipeIngredient": [
+      "1  лаврак",
+      "5 зърна черен пипер",
+      "5 зърна червен пипер",
+      "сол",
+      "2 с.л. зехтин",
+      "1  домат",
+      "1  краставица",
+      "3 листа зелена салата",
+      "1/2 глава червен лук",
+      "2 стръка копър"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Лавракът се почиства от опашката и главата, разполовява се и се поръсва със зърната пипер и сол. Готви се на тиган с малко зехтин, като се пържи от двете страни до готовност. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Сервира се със салата от нарязани зелена салата, краставица, домат и червен лук, овкусени със сол, зехтин и ситно нарязан копър. По желание могат да се добавят и черни обезкостени маслини. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Тази рецепта е част от <a href=http://www.1001recepti.com/articles/show/?list_id=212-dieti>РЕЖИМЪТ НА САНДРА</a>."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "лаврак",
+      "qty": "1",
+      "id": 403
+    },
+    {
+      "name": "черен пипер",
+      "qty": "5 зърна",
+      "id": 2
+    },
+    {
+      "name": "червен пипер",
+      "qty": "5 зърна",
+      "id": 20
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "домат",
+      "qty": "1",
+      "id": 15
+    },
+    {
+      "name": "краставица",
+      "qty": "1",
+      "id": 44
+    },
+    {
+      "name": "зелена салата",
+      "qty": "3 листа",
+      "id": 87
+    },
+    {
+      "name": "червен лук",
+      "qty": "1/2 глава",
+      "id": 3
+    },
+    {
+      "name": "копър",
+      "qty": "2 стръка",
+      "id": 28
+    }
+  ]
+}

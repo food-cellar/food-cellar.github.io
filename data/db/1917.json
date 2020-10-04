@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Солени мъфини Болонезе",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/soleni-mufini-boloneze-2-[1917].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/soleni-mufini-boloneze-2-[1917].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/soleni-mufini-boloneze-2-[1917].jpg"
+    ],
+    "datePublished": "2012-01-30",
+    "cookTime": "PT0H50M",
+    "recipeYield": "12 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "175 calories",
+      "carbohydrateContent": "17 g",
+      "fatContent": "8 g",
+      "proteinContent": "6 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "4.69151 g",
+      "cholesterolContent": "33 mg"
+    },
+    "recipeIngredient": [
+      "250 г брашно",
+      "250 г кисело мляко",
+      "1  яйце",
+      "1/2 к.ч. олио",
+      "1 щип. сода",
+      "1 ч.л. сол",
+      "250 г кайма",
+      "6 с.л. доматено пюре"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Киселото мляко (250 г), яйцето (1 бр) и олиото (1/2 к.ч.) се изсипват в дълбока купа и се разбиват. Към тях се добавя пресятото заедно със солта (1 ч.л.) и содата (1 щип.) брашно (250 г) и сместа се разбива с миксер, докато стане хомогенна. Каймата (250 г) се запържва в тиган, докато се позлати и се отдели на трохи. След това се оставя леко да се охлади и се добавя в сместа, заедно с доматеното пюре (6 с.л.). Всичко се разбърква с лъжица и се разпределя във форми за мъфини. Формата трябва да е метална и в нея да се поставят хартиени кошнички.Мъфините се пекат в предварително загрята до 180 градуса фурна за около 35 минути. Изваждат се и се поднасят топли или охладени.   "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "брашно",
+      "qty": "250 г",
+      "id": 7
+    },
+    {
+      "name": "кисело мляко",
+      "qty": "250 г",
+      "id": 21
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    },
+    {
+      "name": "олио",
+      "qty": "1/2 к.ч.",
+      "id": 4
+    },
+    {
+      "name": "сода",
+      "qty": "1 щип.",
+      "id": 56
+    },
+    {
+      "name": "сол",
+      "qty": "1 ч.л.",
+      "id": 1
+    },
+    {
+      "name": "кайма",
+      "qty": "250 г",
+      "id": 54
+    },
+    {
+      "name": "доматено пюре",
+      "qty": "6 с.л.",
+      "id": 35
+    }
+  ]
+}

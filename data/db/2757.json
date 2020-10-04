@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Панирани пържени тиквички с копър и чесън",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/panirani-purjeni-tikvichki-s-kopur-i-chesun-2-[2757].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/panirani-purjeni-tikvichki-s-kopur-i-chesun-2-[2757].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/panirani-purjeni-tikvichki-s-kopur-i-chesun-2-[2757].jpg"
+    ],
+    "datePublished": "2014-02-14",
+    "cookTime": "PT0H40M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "117 calories",
+      "carbohydrateContent": "14 g",
+      "fatContent": "5 g",
+      "proteinContent": "2 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "4.35271 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "6  тиквички",
+      "100 г брашно",
+      "1/2 к.ч. олио",
+      "сол",
+      "1/2 връзка копър",
+      "8 скилидки чесън"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Тиквичките (6) се измиват, нарязват се на колелца и се овлват в брашно (100 г). Пържат се от двете страни в сгорещено олио (1/2 к.ч.) и след това се поставят върху готварска хартия, за да може тя да поеме от излишната по тях мазнина. Посоляват се и се сервират топли, овкусени със ситно нарязан копър (1/2 връзка) и пресован чесън (8 скилидки)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "тиквички",
+      "qty": "6",
+      "id": 39
+    },
+    {
+      "name": "брашно",
+      "qty": "100 г",
+      "id": 7
+    },
+    {
+      "name": "олио",
+      "qty": "1/2 к.ч.",
+      "id": 4
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "копър",
+      "qty": "1/2 връзка",
+      "id": 28
+    },
+    {
+      "name": "чесън",
+      "qty": "8 скилидки",
+      "id": 6
+    }
+  ]
+}

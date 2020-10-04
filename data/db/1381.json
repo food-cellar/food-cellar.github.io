@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Гръцка салата от печени чушки и сирене Фета",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-ot-pecheni-chushki-i-sirene-feta-2-[1381].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-ot-pecheni-chushki-i-sirene-feta-2-[1381].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-ot-pecheni-chushki-i-sirene-feta-2-[1381].jpg"
+    ],
+    "datePublished": "2011-03-27",
+    "cookTime": "PT0H5M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "515 calories",
+      "carbohydrateContent": "23 g",
+      "fatContent": "43 g",
+      "proteinContent": "10 g",
+      "saturatedFatContent": "23 g",
+      "unsaturatedFatContent": "17.4512 g",
+      "cholesterolContent": "110 mg"
+    },
+    "recipeIngredient": [
+      "400 г сирене Фета",
+      "10  печени чушки",
+      "100 г майонеза",
+      "1/2 връзка магданоз",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Сиренето Фета (400 г) се намачква с вилица и се смесва в купа със ситно нарязания магданоз (1/2 връзка), нарязаните на кубчета печени белени червени чушки (10 бр), майонезата (100 г) и черния пипер. Салатата се разбърква много добре и се поднася веднага."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "сирене Фета",
+      "qty": "400 г",
+      "id": 150
+    },
+    {
+      "name": "печени чушки",
+      "qty": "10",
+      "id": 18
+    },
+    {
+      "name": "майонеза",
+      "qty": "100 г",
+      "id": 80
+    },
+    {
+      "name": "магданоз",
+      "qty": "1/2 връзка",
+      "id": 12
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

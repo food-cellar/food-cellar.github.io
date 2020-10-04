@@ -1,0 +1,82 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Шишчета от скариди с мед и лимон на скара",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/shishche-ot-skaridi-s-med-i-limon-3-[1316].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/shishche-ot-skaridi-s-med-i-limon-3-[1316].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/shishche-ot-skaridi-s-med-i-limon-3-[1316].jpg"
+    ],
+    "datePublished": "2011-02-22",
+    "cookTime": "PT0H45M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "49 calories",
+      "carbohydrateContent": "5 g",
+      "fatContent": "0 g",
+      "proteinContent": "6 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.21138 g",
+      "cholesterolContent": "41 mg"
+    },
+    "recipeIngredient": [
+      "18  скариди",
+      "1  тиквичка",
+      "2 с.л. мед",
+      "2 с.л. соев сос",
+      "1/2  сок от лимон",
+      "сол",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Скаридите (18 бр) се набучват на шиш, като между тях се поставят резенчета тиквичка (1 бр). С останалите продукти - мед (2 с.л.), соев сос (2 с.л.), сок от лимон (1/2 бр), сол и черен пипер - се приготвя марината и шишовете се поливат с нея престояват за половин час. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Изпичат се на скара за по 5 минути на страна или в гореща фурна на грил (само на горен реотан) за 15 минути."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "скариди",
+      "qty": "18",
+      "id": 104
+    },
+    {
+      "name": "тиквичка",
+      "qty": "1",
+      "id": 39
+    },
+    {
+      "name": "мед",
+      "qty": "2 с.л.",
+      "id": 38
+    },
+    {
+      "name": "соев сос",
+      "qty": "2 с.л.",
+      "id": 53
+    },
+    {
+      "name": "сок от лимон",
+      "qty": "1/2",
+      "id": 17
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

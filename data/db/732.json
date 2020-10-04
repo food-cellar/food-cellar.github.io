@@ -1,0 +1,102 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Имам баялдъ - традиционно турско ястие с патладжани, чушки и домати",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/imam-baialdu-3-[732].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/imam-baialdu-3-[732].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/imam-baialdu-3-[732].jpg"
+    ],
+    "datePublished": "2010-12-11",
+    "cookTime": "PT1H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "296 calories",
+      "carbohydrateContent": "33 g",
+      "fatContent": "17 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "13.88886 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг патладжани",
+      "1/2 кг зелени чушки",
+      "1/2 кг домати",
+      "4 глави лук",
+      "1 глава чесън",
+      "1 к.ч. зехтин",
+      "сол",
+      "черен пипер",
+      "магданоз",
+      "копър",
+      "1/2 ч.ч. вода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Зеленчуците се нарязват на колелца. Патладжаните (1/2 кг) се осоляват и престояват, за да пуснат горчивия си сок. След това се измиват и подсушават и изпържват в сгорещения зехтин (1 к.ч.). Изваждат се с решетъчна лъжица. След тях се изпържват чушките (1/2 кг) и също се изваждат от мазнината. Лукът (4 глави), нарязан на колелца, също се изпържва и изважда. И доматите (1/2 кг) - също. В тава се редят на пластове патладжани, чушки, лук и домати, като между пластовете се поръсва със сол, счукан чесън и нарязани на ситно копър и магданоз. Налива се топла вода (1/2 ч.ч.) и ястието се пече на фурна, докато течността се изпари."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "патладжани",
+      "qty": "1/2 кг",
+      "id": 71
+    },
+    {
+      "name": "зелени чушки",
+      "qty": "1/2 кг",
+      "id": 18
+    },
+    {
+      "name": "домати",
+      "qty": "1/2 кг",
+      "id": 15
+    },
+    {
+      "name": "лук",
+      "qty": "4 глави",
+      "id": 3
+    },
+    {
+      "name": "чесън",
+      "qty": "1 глава",
+      "id": 6
+    },
+    {
+      "name": "зехтин",
+      "qty": "1 к.ч.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "магданоз",
+      "qty": "Parsing error",
+      "id": 12
+    },
+    {
+      "name": "копър",
+      "qty": "Parsing error",
+      "id": 28
+    },
+    {
+      "name": "вода",
+      "qty": "1/2 ч.ч.",
+      "id": 11
+    }
+  ]
+}

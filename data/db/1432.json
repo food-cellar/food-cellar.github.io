@@ -1,0 +1,100 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Картофена салата с грах, шунка, айсберг, кисело мляко, горчица и пресен лук",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kartofena-salata-s-grah-i-shunka-3-[1432].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kartofena-salata-s-grah-i-shunka-3-[1432].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kartofena-salata-s-grah-i-shunka-3-[1432].jpg"
+    ],
+    "datePublished": "2011-05-10",
+    "cookTime": "PT0H35M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "147 calories",
+      "carbohydrateContent": "16 g",
+      "fatContent": "5 g",
+      "proteinContent": "8 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "2.70360625 g",
+      "cholesterolContent": "21 mg"
+    },
+    "recipeIngredient": [
+      "400 г картофи",
+      "200 г грах",
+      "200 г шунка",
+      "1/2  айсберг",
+      "1 връзка пресен лук",
+      "6 листа мента",
+      "150 г кисело мляко",
+      "1 ч.л. горчица",
+      "черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Картофите (400 г) се сварявт в подсолена вода, обелват се и се нарязват на едри едри кубчета. Размразеният грах (200 г) се приготвя в уред на пара, след което се измива с ледено студена вода, за да запази свежия си зелен цвят. (Може да се използва и грах от консерва, необходимо е единствено да е отцеди.) "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Шунката (200 г) се нарязва на едри парчета. Салатата айсберг (1/2 бр), пресният лук (1 връзка) и ментата (6 листа) се нарязват на ситно. Всички продукти се смесват в дълбока купа и се овкусяват със сол и черен пипер. Заливат се със смес от разбитите кисело мляко (150 г) и горчица (1 ч.л.). Салтата се разбърква добре. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "картофи",
+      "qty": "400 г",
+      "id": 16
+    },
+    {
+      "name": "грах",
+      "qty": "200 г",
+      "id": 68
+    },
+    {
+      "name": "шунка",
+      "qty": "200 г",
+      "id": 76
+    },
+    {
+      "name": "айсберг",
+      "qty": "1/2",
+      "id": 101
+    },
+    {
+      "name": "пресен лук",
+      "qty": "1 връзка",
+      "id": 24
+    },
+    {
+      "name": "мента",
+      "qty": "6 листа",
+      "id": 90
+    },
+    {
+      "name": "кисело мляко",
+      "qty": "150 г",
+      "id": 21
+    },
+    {
+      "name": "горчица",
+      "qty": "1 ч.л.",
+      "id": 64
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

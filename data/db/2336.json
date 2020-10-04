@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Бъркани яйца със сирене, пресен лук и подправки",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/burkani-iaica-sus-sirene-presen-luk-i-podpravki-1-[2336].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/burkani-iaica-sus-sirene-presen-luk-i-podpravki-1-[2336].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/burkani-iaica-sus-sirene-presen-luk-i-podpravki-1-[2336].jpg"
+    ],
+    "datePublished": "2013-03-07",
+    "cookTime": "PT0H15M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "274 calories",
+      "carbohydrateContent": "5 g",
+      "fatContent": "24 g",
+      "proteinContent": "9 g",
+      "saturatedFatContent": "16 g",
+      "unsaturatedFatContent": "6.9761 g",
+      "cholesterolContent": "84 mg"
+    },
+    "recipeIngredient": [
+      "3  яйца",
+      "60 г сирене",
+      "1 с.л. масло",
+      "1 стрък зелен лук",
+      "1 щип. черен пипер",
+      "1 щип. червен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "В тиган се разтопява маслото (1 с.л.) на тих огън и към него се добавя натрошеното краве сирене (60 г). Щом се раздроби на дребни парченца и се смеси с маслото, в сместа се чукват суровите яйца (3). Бърка се непрекъснато и след няколко минути се добавя ситно нарязаният пресен лук (1 стрък). Яйцата се бъркат непрекъснато, докато се сготвят."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Ястието се сервира, поръсено с черен пипер (1 щип.), червен пипер (1 щип.) и сол. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Вълшебният вкус на бърканите яйца със сирене се крие в следните тайни на приготвянето на тази рецепта - задължително се използва масло, вместо олио, готви се на тих огън и се използва твърдо и качествено краве сирене."
+      },
+      {
+        "@type": "HowToStep",
+        "text": ""
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "яйца",
+      "qty": "3",
+      "id": 5
+    },
+    {
+      "name": "сирене",
+      "qty": "60 г",
+      "id": 32
+    },
+    {
+      "name": "масло",
+      "qty": "1 с.л.",
+      "id": 8
+    },
+    {
+      "name": "зелен лук",
+      "qty": "1 стрък",
+      "id": 24
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 щип.",
+      "id": 2
+    },
+    {
+      "name": "червен пипер",
+      "qty": "1 щип.",
+      "id": 20
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

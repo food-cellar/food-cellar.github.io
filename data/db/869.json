@@ -1,0 +1,48 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Шот Пъпешово Малибу",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/shot-pupeshovo-malibu-2-[869].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/shot-pupeshovo-malibu-2-[869].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/shot-pupeshovo-malibu-2-[869].jpg"
+    ],
+    "datePublished": "2012-08-16",
+    "cookTime": "PT0H15M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Коктейли",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "43 calories",
+      "carbohydrateContent": "4 g",
+      "fatContent": "0 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "15 мл. ликьор пъпеш",
+      "15 мл. ром малибу"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "В чаша за шот се сипва пъпешовият ликьор(15 мл.). Потапя се лъжица с изпъкналата част нагоре, която леко да докосва течността. На малка струйка се изсипва малибуто (15 мл.) върху лъжицата, така че да не се смеси с ликьора. Декорира се с коктейлна черешка. Както всеки друг шот се пие на екс."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "ликьор пъпеш",
+      "qty": "15 мл.",
+      "id": 172
+    },
+    {
+      "name": "ром малибу",
+      "qty": "15 мл.",
+      "id": 74
+    }
+  ]
+}

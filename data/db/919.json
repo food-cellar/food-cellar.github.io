@@ -1,0 +1,54 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пунш Весела Коледа",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kokteil-vesela-koleda-2-[919].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kokteil-vesela-koleda-2-[919].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kokteil-vesela-koleda-2-[919].jpg"
+    ],
+    "datePublished": "2012-11-20",
+    "cookTime": "PT0H5M",
+    "recipeYield": "16 servings",
+    "recipeCategory": "Коктейли",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "156 calories",
+      "carbohydrateContent": "14 g",
+      "fatContent": "0 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.043395 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "750 мл. водка с аромат на малина",
+      "1 1/2 л. боровинков сок",
+      "1/2 л. спрайт"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Продуктите се изстудявят предварително, след което се изсипват в купа за пунш или друг голям съд. Добавя се лед, за да се запази пуншът студен.Коктейлът е подходящ за коледните и новогодишни празници."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "водка с аромат на малина",
+      "qty": "750 мл.",
+      "id": 154
+    },
+    {
+      "name": "боровинков сок",
+      "qty": "1 1/2 л.",
+      "id": 297
+    },
+    {
+      "name": "спрайт",
+      "qty": "1/2 л.",
+      "id": 386
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Класическа чорба / супа от леща, домати, моркови и чесън със запръжка от брашно и червен пипер",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/klasicheska-chorba-ot-leshta-1-[3000].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/klasicheska-chorba-ot-leshta-1-[3000].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/klasicheska-chorba-ot-leshta-1-[3000].jpg"
+    ],
+    "datePublished": "2014-11-06",
+    "cookTime": "PT1H0M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "130 calories",
+      "carbohydrateContent": "19 g",
+      "fatContent": "2 g",
+      "proteinContent": "7 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "2.2239575 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1 ч.ч. леща",
+      "10 ч.ч. вода",
+      "1  морков",
+      "1  домат",
+      "1 глава лук",
+      "5 скилидки чесън",
+      "1 с.л. брашно",
+      "1 с.л. червен пипер",
+      "3 с.л. олио",
+      "1/2 с.л. чубрица",
+      "5 стръка магданоз",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Лещата (1 ч.ч.) се изплаква, поставя се в дълбока тенджера и се залива с водата (10 ч.ч.)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Поставя се да заври, заедно със ситно нарязаните чесън (5 скилидки), лук (1 глава), обелен и нарязан на ситно домат (1 бр) и настърган морков (1 бр). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Щом лещата омекне, се добавят солта и чубрицата (1/2 с.л.). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "В малка тенджерка се запържва за кратко брашното (1 с.л.), заедно с олиото (3 с.л.) и червения пипер (1 с.л.). Получената запръжка се добавя към лещата и се разбърква. Оставя се за няколко минути на котлона, докато се сгъсти. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Накрая, когато класическата чорба от леща е готова, се прибавя ситно нарязаният магданоз (5 стръка) ."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "леща",
+      "qty": "1 ч.ч.",
+      "id": 106
+    },
+    {
+      "name": "вода",
+      "qty": "10 ч.ч.",
+      "id": 11
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "домат",
+      "qty": "1",
+      "id": 15
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "чесън",
+      "qty": "5 скилидки",
+      "id": 6
+    },
+    {
+      "name": "брашно",
+      "qty": "1 с.л.",
+      "id": 7
+    },
+    {
+      "name": "червен пипер",
+      "qty": "1 с.л.",
+      "id": 20
+    },
+    {
+      "name": "олио",
+      "qty": "3 с.л.",
+      "id": 4
+    },
+    {
+      "name": "чубрица",
+      "qty": "1/2 с.л.",
+      "id": 36
+    },
+    {
+      "name": "магданоз",
+      "qty": "5 стръка",
+      "id": 12
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

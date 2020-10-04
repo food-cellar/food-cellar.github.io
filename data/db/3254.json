@@ -1,0 +1,118 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Панирани пикантни пилешки крилца с млечен майонезен сос",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/panirani-pikantni-pileshki-krilca-1-[3254].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/panirani-pikantni-pileshki-krilca-1-[3254].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/panirani-pikantni-pileshki-krilca-1-[3254].jpg"
+    ],
+    "datePublished": "2017-10-02",
+    "cookTime": "PT0H45M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "1572 calories",
+      "carbohydrateContent": "70 g",
+      "fatContent": "116 g",
+      "proteinContent": "58 g",
+      "saturatedFatContent": "19 g",
+      "unsaturatedFatContent": "86.9609925 g",
+      "cholesterolContent": "288 mg"
+    },
+    "recipeIngredient": [
+      "1 кг пилешки крилца",
+      "1 с.л. сушен розмарин",
+      "1 с.л. сушен риган",
+      "2  яйца",
+      "2 с.л. сос табаско",
+      "1 ч.л. черен пипер",
+      "1 1/2 ч.ч. брашно",
+      "300 мл. олио за пържене",
+      "4 с.л. майонеза",
+      "4 с.л. кисело мляко",
+      "1/2 ч.л. чесън на прах"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилешките крилца (1 кг) се измиват, подсушават и натриват със сол, черен пипер, сушени риган и розмарин."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Яйцата (2 бр) се разбиват, заедно със соса табаско (2 с.л.), черния пипер (1 ч.л.). Брашното (1 1/2 ч.ч.) се сипва с голяма и плоска чиния."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Крилцата се потапят в яйчената смес, а след това се овалват в брашното, така че да полепне навсякъде."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Олиото се сгорещява и в него на порции от по 3 или 4 се запържват пилешките крилца. Необходими са 7-8 минути на всяка порция."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Поднасят се със сос, приготвен от смесването на майонезата (4 с.л.), киселото мляко (4 с.л.) и чесънът на прах (1/2 ч.л.)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешки крилца",
+      "qty": "1 кг",
+      "id": 197
+    },
+    {
+      "name": "сушен розмарин",
+      "qty": "1 с.л.",
+      "id": 77
+    },
+    {
+      "name": "сушен риган",
+      "qty": "1 с.л.",
+      "id": 65
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "сос табаско",
+      "qty": "2 с.л.",
+      "id": 205
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "брашно",
+      "qty": "1 1/2 ч.ч.",
+      "id": 7
+    },
+    {
+      "name": "олио за пържене",
+      "qty": "300 мл.",
+      "id": 4
+    },
+    {
+      "name": "майонеза",
+      "qty": "4 с.л.",
+      "id": 80
+    },
+    {
+      "name": "кисело мляко",
+      "qty": "4 с.л.",
+      "id": 21
+    },
+    {
+      "name": "чесън на прах",
+      "qty": "1/2 ч.л.",
+      "id": 6
+    }
+  ]
+}

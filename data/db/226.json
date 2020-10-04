@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Фабада - испанско ястие с боб, пушен колбас и кървавица в тенджера",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/fabada-2-[226].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/fabada-2-[226].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/fabada-2-[226].jpg"
+    ],
+    "datePublished": "2010-11-04",
+    "cookTime": "PT1H0M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "445 calories",
+      "carbohydrateContent": "35 g",
+      "fatContent": "22 g",
+      "proteinContent": "25 g",
+      "saturatedFatContent": "8 g",
+      "unsaturatedFatContent": "12.624263333333 g",
+      "cholesterolContent": "63 mg"
+    },
+    "recipeIngredient": [
+      "300 г боб",
+      "200 г кървавица",
+      "200 г варено-пушен колбас",
+      "3 ч.ч. вода",
+      "2 ч.ч. бульон",
+      "1 глава лук",
+      "1  червена чушка",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Бобът (300 г) се накисва за 6 – 8 часа в студена вода. След това водата се излива, бобът се измива, залива се с бульон (2 ч.ч.) и вода (3 ч.ч.) и се вари до омекване. Нарязват се лукът (1 глава), чушката (1 бр) и колбасът (200 г) и се пържат в зехтин: първо лукът, после чушката и накрая колбасът. За 2 минути всичко се задушава и се изсипва в тенджерата с варения боб. Ястието се вари още 30 минути на слаб огън. Фабадата е готова, когато се сгъсти."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "боб",
+      "qty": "300 г",
+      "id": 63
+    },
+    {
+      "name": "кървавица",
+      "qty": "200 г",
+      "id": 371
+    },
+    {
+      "name": "варено-пушен колбас",
+      "qty": "200 г",
+      "id": 148
+    },
+    {
+      "name": "вода",
+      "qty": "3 ч.ч.",
+      "id": 11
+    },
+    {
+      "name": "бульон",
+      "qty": "2 ч.ч.",
+      "id": 26
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "червена чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

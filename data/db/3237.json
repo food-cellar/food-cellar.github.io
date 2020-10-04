@@ -1,0 +1,74 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Кроасани (кифлички) със сирене и масло от готово бутер тесто",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kroasani-kiflichki-sus-sirene-ot-buter-testo-1-[3237].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kroasani-kiflichki-sus-sirene-ot-buter-testo-1-[3237].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kroasani-kiflichki-sus-sirene-ot-buter-testo-1-[3237].jpg"
+    ],
+    "datePublished": "2017-09-25",
+    "cookTime": "PT0H45M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Хлебни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "504 calories",
+      "carbohydrateContent": "31 g",
+      "fatContent": "38 g",
+      "proteinContent": "9 g",
+      "saturatedFatContent": "14 g",
+      "unsaturatedFatContent": "20.797768333333 g",
+      "cholesterolContent": "77 mg"
+    },
+    "recipeIngredient": [
+      "400 г бутер тесто",
+      "150 г сирене",
+      "50 г масло",
+      "1 с.л. риган",
+      "1  жълтък"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "От бутер тестото (400 г) се отрязват триъгълници, намазват се с разтопено масло (50 г) и в основата на всеки се слага натрошено сирене (150 г)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Парчетата бутер тестото се завиват на рула по посока върховете на триъгълниците, за да се получат кифлички. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Те се поставят в тавичка и се намазват с разбит жълтък. Поръсват се с малко риган и се пекат в предварително загрята силна фурна до готовност. Сервират се топли."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "бутер тесто",
+      "qty": "400 г",
+      "id": 117
+    },
+    {
+      "name": "сирене",
+      "qty": "150 г",
+      "id": 32
+    },
+    {
+      "name": "масло",
+      "qty": "50 г",
+      "id": 8
+    },
+    {
+      "name": "риган",
+      "qty": "1 с.л.",
+      "id": 65
+    },
+    {
+      "name": "жълтък",
+      "qty": "1",
+      "id": 33
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печен цял свински джолан (с кост) с прясно зеле, моркови и печени чушки на фурна под фолио",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pechen-svinski-djolan-sus-zele-morkovi-i-pecheni-chushki-1-[3121].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pechen-svinski-djolan-sus-zele-morkovi-i-pecheni-chushki-1-[3121].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pechen-svinski-djolan-sus-zele-morkovi-i-pecheni-chushki-1-[3121].jpg"
+    ],
+    "datePublished": "2016-12-04",
+    "cookTime": "PT3H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "1032 calories",
+      "carbohydrateContent": "26 g",
+      "fatContent": "84 g",
+      "proteinContent": "45 g",
+      "saturatedFatContent": "23 g",
+      "unsaturatedFatContent": "53.1045325 g",
+      "cholesterolContent": "180 mg"
+    },
+    "recipeIngredient": [
+      "1 кг свински джолан",
+      "1  зелка",
+      "2  домата",
+      "2  печени червени чушки",
+      "1 глава лук",
+      "1  морков",
+      "1 ч.л. кимион",
+      "2 ч.л. червен пипер",
+      "100 мл. олио",
+      "2  домата"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Свинският джолан (1 кг) се запържва от всички страни за кратко и се поставя в тава."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "На негово място се слагат нарязаните лук (1 глава), моркови (1 бр) и чушки (2 бр) и се задушават за няколко минути. Към тях се добавя нарязаното на ситно зеле (1 бр) и малко вода и се задушава до омекване."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Щом обемът спадне се добавят сол, черен пипер, кимион и настърганите домати (2 бр). Разбърква се и сместа се добавя в тавата при месото. Залива се с гореща вода и олиото (100 мл.). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Пече се под фолио на 200 градуса за 1 час. След това фолиото се отстранява и се пече още 20 минути ."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "свински джолан",
+      "qty": "1 кг",
+      "id": 67
+    },
+    {
+      "name": "зелка",
+      "qty": "1",
+      "id": 94
+    },
+    {
+      "name": "домата",
+      "qty": "2",
+      "id": 15
+    },
+    {
+      "name": "печени червени чушки",
+      "qty": "2",
+      "id": 18
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "кимион",
+      "qty": "1 ч.л.",
+      "id": 42
+    },
+    {
+      "name": "червен пипер",
+      "qty": "2 ч.л.",
+      "id": 20
+    },
+    {
+      "name": "олио",
+      "qty": "100 мл.",
+      "id": 4
+    },
+    {
+      "name": "домата",
+      "qty": "2",
+      "id": 15
+    }
+  ]
+}

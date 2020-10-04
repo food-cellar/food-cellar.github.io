@@ -1,0 +1,110 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Постни сарми със зелеви листа, ориз и гъби печени на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/postni-zelevi-sarmi-s-oriz-i-gubi-2-[2614].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/postni-zelevi-sarmi-s-oriz-i-gubi-2-[2614].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/postni-zelevi-sarmi-s-oriz-i-gubi-2-[2614].jpg"
+    ],
+    "datePublished": "2013-07-02",
+    "cookTime": "PT1H30M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "196 calories",
+      "carbohydrateContent": "36 g",
+      "fatContent": "4 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "2.610185 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1  зелка",
+      "2 глави лук",
+      "1 ч.ч. ориз",
+      "50 г гъби",
+      "черен пипер",
+      "червен пипер",
+      "мащерка",
+      "босилек",
+      "сол",
+      "3 с.л. олио",
+      "1 ч.ч. вода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Зелката (1 бр) се разделя на листа. Ако са големи, се разрязват на две. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Гъбите (50 г) се нарязват на кубчета, а лукът (2 глави) - на ситно. В сгорещеното олио се запържва лукът и гъбите. След като се задушат за 4-5 минути, се добавя оризът (1 ч.ч.) заедно с подправките и отново се разбърква. Оризът се залива се с водата (1 ч.ч.) и се оставя, докато поеме цялата течност, след което се валя от котлона. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "С получената плънка се завиват сарми в зелевите листа и се нареждат в тава. Заливат се с гореща подсолена вода и се пекат във фурна до пълна готовност."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "зелка",
+      "qty": "1",
+      "id": 94
+    },
+    {
+      "name": "лук",
+      "qty": "2 глави",
+      "id": 3
+    },
+    {
+      "name": "ориз",
+      "qty": "1 ч.ч.",
+      "id": 22
+    },
+    {
+      "name": "гъби",
+      "qty": "50 г",
+      "id": 37
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "червен пипер",
+      "qty": "Parsing error",
+      "id": 20
+    },
+    {
+      "name": "мащерка",
+      "qty": "Parsing error",
+      "id": 75
+    },
+    {
+      "name": "босилек",
+      "qty": "Parsing error",
+      "id": 25
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "олио",
+      "qty": "3 с.л.",
+      "id": 4
+    },
+    {
+      "name": "вода",
+      "qty": "1 ч.ч.",
+      "id": 11
+    }
+  ]
+}

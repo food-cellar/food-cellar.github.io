@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Яхния от пиле, бамя, червени чушки, праз лук, чесън и домати от консерва в тенджера",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/iahniia-ot-pile-bamia-i-chushki-ivan-1-[1298].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/iahniia-ot-pile-bamia-i-chushki-ivan-1-[1298].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/iahniia-ot-pile-bamia-i-chushki-ivan-1-[1298].jpg"
+    ],
+    "datePublished": "2013-02-15",
+    "cookTime": "PT0H40M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "539 calories",
+      "carbohydrateContent": "35 g",
+      "fatContent": "30 g",
+      "proteinContent": "34 g",
+      "saturatedFatContent": "7 g",
+      "unsaturatedFatContent": "19.75078 g",
+      "cholesterolContent": "113 mg"
+    },
+    "recipeIngredient": [
+      "600 г пиле",
+      "1/2 кг бамя",
+      "4 скилидки чесън",
+      "2  червени чушки",
+      "1  морков",
+      "1/2 кг домати от консерва",
+      "4 с.л. зехтин",
+      "1 л. вода",
+      "2 с.л. брашно",
+      "150 г праз лук"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилето (600 г) се нарязва на парчета и се запържва в малко зехтин в дълбока тенджера. След няколко минути се добавя нарязан на ситно чесън (4 скилидки) и праз лук (150 г). Щом промени цвета си, се залива с вода (1 л.). Морковите (1 бр) се обелват, нарязват се на кръгчета и се добавят в тенджерата. Чушките (2 бр) се нарязват на малки парчета и също се добавят в яхнията. Щом водата кипне, се добавят доматите и бамята. Оставя се да поври 10-15 минути. През това време в малка купа се разтваря брашното в малко вода. Сипва се в яхнията, за да се сгъсти. Овкусява се със сол и пипер и се готви още 5-6 минути при непрекъснато бъркане, за да не загори."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пиле",
+      "qty": "600 г",
+      "id": 111
+    },
+    {
+      "name": "бамя",
+      "qty": "1/2 кг",
+      "id": 255
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "червени чушки",
+      "qty": "2",
+      "id": 18
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "домати от консерва",
+      "qty": "1/2 кг",
+      "id": 86
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "вода",
+      "qty": "1 л.",
+      "id": 11
+    },
+    {
+      "name": "брашно",
+      "qty": "2 с.л.",
+      "id": 7
+    },
+    {
+      "name": "праз лук",
+      "qty": "150 г",
+      "id": 51
+    }
+  ]
+}

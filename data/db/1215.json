@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата от червена леща и авокадо",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-ot-chervena-leshta-i-avokado-2-[1215].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-ot-chervena-leshta-i-avokado-2-[1215].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-ot-chervena-leshta-i-avokado-2-[1215].jpg"
+    ],
+    "datePublished": "2010-12-05",
+    "cookTime": "PT0H25M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "302 calories",
+      "carbohydrateContent": "34 g",
+      "fatContent": "13 g",
+      "proteinContent": "13 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "9.989975 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1 ч.ч. червена леща",
+      "1  краставица",
+      "1  авокадо",
+      "1 с.л. босилек",
+      "3 с.л. лимонов сок",
+      "3 с.л. зехтин",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Лещата (1 ч.ч.) се сварява, докато омекне. Важно е да не се превари, за да не стане на пюре. Измива се със студена вода и се смесва с нарязаните на кубчета краставица (1 бр) и авокадо (1 бр). Салатата се овкусява със сушен босилек (1 с.л.), лимонов сок (3 с.л.), зехтин (3 с.л.) и сол."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "червена леща",
+      "qty": "1 ч.ч.",
+      "id": 151
+    },
+    {
+      "name": "краставица",
+      "qty": "1",
+      "id": 44
+    },
+    {
+      "name": "авокадо",
+      "qty": "1",
+      "id": 83
+    },
+    {
+      "name": "босилек",
+      "qty": "1 с.л.",
+      "id": 25
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "3 с.л.",
+      "id": 17
+    },
+    {
+      "name": "зехтин",
+      "qty": "3 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

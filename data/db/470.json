@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пилешка супа с кашу и зеленчуци (без картофи и без фиде)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pileshka-supa-s-kashu-2-[470].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pileshka-supa-s-kashu-2-[470].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pileshka-supa-s-kashu-2-[470].jpg"
+    ],
+    "datePublished": "2010-12-08",
+    "cookTime": "PT0H20M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "176 calories",
+      "carbohydrateContent": "8 g",
+      "fatContent": "8 g",
+      "proteinContent": "18 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "4.5967125 g",
+      "cholesterolContent": "49 mg"
+    },
+    "recipeIngredient": [
+      "300 г пилешко месо",
+      "1 глава лук",
+      "1  морков",
+      "1 стрък зелен лук",
+      "30 г корен от магданоз",
+      "20 г корен от целина",
+      "1 ч.л. джинджифил",
+      "сол",
+      "черен пипер",
+      "50 г кашу"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилешкото месо (300 г) се нарязва на парченца, морковът се настъргва на ситното ренде, старият лук (1 глава) се нарязва на ситно, а зеленият (1 стрък)- на колелца. Корените от магданоз (30 г) и целина (20 г) се обелват и нарязват на малки парченца. Месото, старият и зеленият лук, нарязаните корени се заливат с вода и се варят до пълна готовност. В отделна тенджера се задушава в горещо олио настърганият морков. Подправя се със сол, черен пипер и джинджифил (1 ч.л.). Добавя се кашуто (50 г). Разбърква се и след 1-2 минути тази смес се изсипва в супата, която ври още 1-2 минути. При необходимост се овкусява допълнително."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешко месо",
+      "qty": "300 г",
+      "id": 49
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "зелен лук",
+      "qty": "1 стрък",
+      "id": 24
+    },
+    {
+      "name": "корен от магданоз",
+      "qty": "30 г",
+      "id": 12
+    },
+    {
+      "name": "корен от целина",
+      "qty": "20 г",
+      "id": 30
+    },
+    {
+      "name": "джинджифил",
+      "qty": "1 ч.л.",
+      "id": 84
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "кашу",
+      "qty": "50 г",
+      "id": 200
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Синапено руло от свински шол",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/sinapeno-rulo-1-[136].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/sinapeno-rulo-1-[136].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/sinapeno-rulo-1-[136].jpg"
+    ],
+    "datePublished": "2010-11-17",
+    "cookTime": "PT3H30M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "912 calories",
+      "carbohydrateContent": "2 g",
+      "fatContent": "76 g",
+      "proteinContent": "51 g",
+      "saturatedFatContent": "30 g",
+      "unsaturatedFatContent": "38.0037 g",
+      "cholesterolContent": "227 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг свински шол",
+      "1 с.л. синапово семе",
+      "100 г кашкавал",
+      "черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Месото (1/2 кг) се посолява и поръсва с черен пипер, настърган кашкавал (100 г) и синапово семе (1 с.л.). Навива се стегнато на руло и се стяга с конец или се защипва с дървени клечки за зъби. Поставя се в намазнена малка тава. Сипва се малко вода и тавата се покрива с фолио така, че да няма достъп на въздух. Месото се пече на среден огън 3 часа. След това тавата се изважда. Отстранява се фолиото и рулото се допича, докато получи златиста коричка. От време на време се полива с получения при печеното сос или с бяло вино. Поднася се топло, гарнирано с варена царевица или варен грах."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "свински шол",
+      "qty": "1/2 кг",
+      "id": 67
+    },
+    {
+      "name": "синапово семе",
+      "qty": "1 с.л.",
+      "id": 284
+    },
+    {
+      "name": "кашкавал",
+      "qty": "100 г",
+      "id": 47
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

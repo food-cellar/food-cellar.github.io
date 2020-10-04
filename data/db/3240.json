@@ -1,0 +1,86 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Маслени кифлички с локум, пудра захар и свинска мас (със сода, без мая, без втасване)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/masleni-kiflichki-s-lokum-pudra-zahar-i-svinska-mas-sus-soda-bez-maia-bez-vtasvane-1-[3240].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/masleni-kiflichki-s-lokum-pudra-zahar-i-svinska-mas-sus-soda-bez-maia-bez-vtasvane-1-[3240].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/masleni-kiflichki-s-lokum-pudra-zahar-i-svinska-mas-sus-soda-bez-maia-bez-vtasvane-1-[3240].jpg"
+    ],
+    "datePublished": "2017-09-25",
+    "cookTime": "PT0H40M",
+    "recipeYield": "16 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "296 calories",
+      "carbohydrateContent": "50 g",
+      "fatContent": "7 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "3.9807175 g",
+      "cholesterolContent": "42 mg"
+    },
+    "recipeIngredient": [
+      "600 г брашно",
+      "150 г кисело мляко",
+      "150 г пудра захар",
+      "3  яйца",
+      "100 г свинска мас",
+      "1 ч.ч. сода",
+      "200 г локум"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "От брашното (600 г), свинската мас (100 г), пудрата захар (150 г), киселото мляко (150 г), яйцата (3 бр) и содата (1 ч.ч.) се замесва твърдо тесто. Оставя се да отпочине за 10 минути. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "След това се разделя на 6-8 равни топки. Всяка от тях се разточва и нарязва на еднакви триъгълници, както се разрязва пица. В дебелата част на триъгълника се слагат парченца локум (200 г). След това тестото се навива, като се започва от широката към тясната част, за да се оформят кифлички. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Пекат се при 180 градуса, докато станат златисти. Докато са още горещи се подреждат в подходящ съд за сервиране и се поръсват с пудра захар. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "брашно",
+      "qty": "600 г",
+      "id": 7
+    },
+    {
+      "name": "кисело мляко",
+      "qty": "150 г",
+      "id": 21
+    },
+    {
+      "name": "пудра захар",
+      "qty": "150 г",
+      "id": 34
+    },
+    {
+      "name": "яйца",
+      "qty": "3",
+      "id": 5
+    },
+    {
+      "name": "свинска мас",
+      "qty": "100 г",
+      "id": 220
+    },
+    {
+      "name": "сода",
+      "qty": "1 ч.ч.",
+      "id": 56
+    },
+    {
+      "name": "локум",
+      "qty": "200 г",
+      "id": 9
+    }
+  ]
+}

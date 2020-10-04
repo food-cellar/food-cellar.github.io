@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Вита баница от готови кори с тиква, орехи и галета (тиквеник)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/tikvenik-1-[250].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/tikvenik-1-[250].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/tikvenik-1-[250].jpg"
+    ],
+    "datePublished": "2010-12-11",
+    "cookTime": "PT0H30M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "681 calories",
+      "carbohydrateContent": "106 g",
+      "fatContent": "24 g",
+      "proteinContent": "12 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "20.22636 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1 опак. кори за баница",
+      "400 г тиква",
+      "2 ч.ч. захар",
+      "1 ч.ч. галета",
+      "2 с.л. олио",
+      "1 ч.ч. орехи"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Тиквата (400 г) се настъргва на едрото ренде. Всяка кора се поръсва с олио, посипва се с галета, захар, орехи и тиква. Завива се на руло и се оформя на кравай в намазнена тава. Всяка следваща кора се обработва по същия начин и се увива около предходната. След като тиквеникът се навие, се поръсва с олио, слага се в предварително загрята фурна и се пече до готовност."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "кори за баница",
+      "qty": "1 опак.",
+      "id": 138
+    },
+    {
+      "name": "тиква",
+      "qty": "400 г",
+      "id": 116
+    },
+    {
+      "name": "захар",
+      "qty": "2 ч.ч.",
+      "id": 9
+    },
+    {
+      "name": "галета",
+      "qty": "1 ч.ч.",
+      "id": 58
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    },
+    {
+      "name": "орехи",
+      "qty": "1 ч.ч.",
+      "id": 31
+    }
+  ]
+}

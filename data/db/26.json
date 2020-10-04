@@ -1,0 +1,108 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Бобена супа със зеленчуци (лук, моркови, зелени чушки, домати)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/bobena-supa-2-[26].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/bobena-supa-2-[26].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/bobena-supa-2-[26].jpg"
+    ],
+    "datePublished": "2010-11-19",
+    "cookTime": "PT1H40M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "231 calories",
+      "carbohydrateContent": "38 g",
+      "fatContent": "4 g",
+      "proteinContent": "13 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "2.60337 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "200 г боб",
+      "1 глава лук",
+      "1  морков",
+      "1  зелена чушка",
+      "1  домат",
+      "1 щип. джоджен",
+      "1 връзка магданоз",
+      "чубрица",
+      "сол",
+      "2 с.л. олио"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Бобът (200 г) се вари без сол до полуомекване, след което се отцежда и измива."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Залива се пак със студена вода и се вари до пълна готовност заедно със ситно нарязаните лук (1 глава), морков (1 бр), чушка (1 бр), олиото (2 с.л.), солта, джодженът и чубрицата."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "В края на готвенето се добавя настърганият червен домат (1 бр) и чорбата се оставя да поври 3-5 минути."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Чорбата се поднася гореща, поръсена със ситно нарязан магданоз."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "боб",
+      "qty": "200 г",
+      "id": 63
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "зелена чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "домат",
+      "qty": "1",
+      "id": 15
+    },
+    {
+      "name": "джоджен",
+      "qty": "1 щип.",
+      "id": 60
+    },
+    {
+      "name": "магданоз",
+      "qty": "1 връзка",
+      "id": 12
+    },
+    {
+      "name": "чубрица",
+      "qty": "Parsing error",
+      "id": 36
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    }
+  ]
+}

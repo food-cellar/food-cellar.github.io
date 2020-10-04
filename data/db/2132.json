@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Детски сандвичи с хайвер",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/detski-sandvichi-s-haiver-1-[2132].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/detski-sandvichi-s-haiver-1-[2132].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/detski-sandvichi-s-haiver-1-[2132].jpg"
+    ],
+    "datePublished": "2012-10-26",
+    "cookTime": "PT0H5M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Сандвичи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "99 calories",
+      "carbohydrateContent": "19 g",
+      "fatContent": "1 g",
+      "proteinContent": "3 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.2596 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "2 филии хляб",
+      "2 с.л. хайвер",
+      "4  каперси",
+      "червена чушка",
+      "зелена чушка",
+      "краставица",
+      "копър"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "С помощта на формичка за сладки се изрязват рибки от филийките хляб. Намазват се равномерно с хайвер и с помощта на резени краставици и каперси се правят очи на рибите. В подходящи чинии се създава морско дъно, като за целта се използват резени зелена чушка, кръгчета червена чушка и стръкове копър. Рибите се сервират с внимание на злоядите деца."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "хляб",
+      "qty": "2 филии",
+      "id": 66
+    },
+    {
+      "name": "хайвер",
+      "qty": "2 с.л.",
+      "id": 280
+    },
+    {
+      "name": "каперси",
+      "qty": "4",
+      "id": 162
+    },
+    {
+      "name": "червена чушка",
+      "qty": "Parsing error",
+      "id": 18
+    },
+    {
+      "name": "зелена чушка",
+      "qty": "Parsing error",
+      "id": 18
+    },
+    {
+      "name": "краставица",
+      "qty": "Parsing error",
+      "id": 44
+    },
+    {
+      "name": "копър",
+      "qty": "Parsing error",
+      "id": 28
+    }
+  ]
+}

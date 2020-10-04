@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата от варени картофи, кисели карставички, рулца от раци, маслини и майонеза",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-ot-kartofi-kiseli-karstavichki-i-rulca-ot-raci-1-[1338].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-ot-kartofi-kiseli-karstavichki-i-rulca-ot-raci-1-[1338].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-ot-kartofi-kiseli-karstavichki-i-rulca-ot-raci-1-[1338].jpg"
+    ],
+    "datePublished": "2011-06-27",
+    "cookTime": "PT0H45M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "110 calories",
+      "carbohydrateContent": "17 g",
+      "fatContent": "2 g",
+      "proteinContent": "4 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "2.1437 g",
+      "cholesterolContent": "5 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг картофи",
+      "100 г кисели краставички",
+      "100 г рулца от раци",
+      "50 г маслини",
+      "10 стръка магданоз",
+      "2 с.л. майонеза",
+      "1/2 ч.л. черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Картофите (1/2 кг) се обелват, нарязват се на малки кубчета и се сваряват в подсолена вода до пълно омекване. Киселите краставички (100 г) и рулцата от раци (100 г) се нарязват наситно, а обезкостените черни маслини (50 г) - на шайби. Картофите се отеждат и се смесват с киселите краставички, рулцата и маслините. Салатата се подправя със ситно нарязан пресен магданоз (10 стръка), черен пипер (1/2 ч.л.) и сол и се овкусява с майонеза (2 с.л.). Разбърква се добре.  "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "картофи",
+      "qty": "1/2 кг",
+      "id": 16
+    },
+    {
+      "name": "кисели краставички",
+      "qty": "100 г",
+      "id": 44
+    },
+    {
+      "name": "рулца от раци",
+      "qty": "100 г",
+      "id": 198
+    },
+    {
+      "name": "маслини",
+      "qty": "50 г",
+      "id": 50
+    },
+    {
+      "name": "магданоз",
+      "qty": "10 стръка",
+      "id": 12
+    },
+    {
+      "name": "майонеза",
+      "qty": "2 с.л.",
+      "id": 80
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1/2 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

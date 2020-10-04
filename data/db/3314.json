@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Десерт с печени круши, мед, сирене и бутер тесто ",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/desert-s-pecheni-krushi-med-sirene-i-buter-testo-1-[3314].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/desert-s-pecheni-krushi-med-sirene-i-buter-testo-1-[3314].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/desert-s-pecheni-krushi-med-sirene-i-buter-testo-1-[3314].jpg"
+    ],
+    "datePublished": "2018-07-15",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "506 calories",
+      "carbohydrateContent": "40 g",
+      "fatContent": "34 g",
+      "proteinContent": "9 g",
+      "saturatedFatContent": "10 g",
+      "unsaturatedFatContent": "20.9673875 g",
+      "cholesterolContent": "72 mg"
+    },
+    "recipeIngredient": [
+      "4  круши",
+      "80 г сирене Salakis",
+      "4 с.л. мед",
+      "2 опак. бурбонска ванилова захар",
+      "300 г бутер тесто",
+      "1  жълтък",
+      "сушени ядливи рози"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Крушите (4) се разполовяват и издълбават с нож за филетиране или паразиен. Бутер тестото (300 г) се разточва и с него се обличат крушите от облата им част. Вътрешността им се пълни със смес от разбитите сирене Salakis (80 г), течен мед (4 с.л.) и бурбонска ванилова захар (2 опак.). Поставят се в тавичка върху хартия за печене, като се подреждат една до друга с бутер тестото нагоре. Намазват се с разбит жълтък (1 бр) и се пекат в предварително загрята до 200 градуса фурна, докато тестото се изпече и позлати. Сервират се, поръсени с листа от сушени ядливи рози и свежа мента. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "круши",
+      "qty": "4",
+      "id": 164
+    },
+    {
+      "name": "сирене Salakis",
+      "qty": "80 г",
+      "id": 32
+    },
+    {
+      "name": "мед",
+      "qty": "4 с.л.",
+      "id": 38
+    },
+    {
+      "name": "бурбонска ванилова захар",
+      "qty": "2 опак.",
+      "id": 23
+    },
+    {
+      "name": "бутер тесто",
+      "qty": "300 г",
+      "id": 117
+    },
+    {
+      "name": "жълтък",
+      "qty": "1",
+      "id": 33
+    },
+    {
+      "name": "сушени ядливи рози",
+      "qty": "Parsing error",
+      "id": 23
+    }
+  ]
+}

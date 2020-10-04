@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Мус от киви със заквасена сметана",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/mus-ot-kivi-2-[410].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/mus-ot-kivi-2-[410].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/mus-ot-kivi-2-[410].jpg"
+    ],
+    "datePublished": "2010-12-08",
+    "cookTime": "PT0H10M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "402 calories",
+      "carbohydrateContent": "43 g",
+      "fatContent": "24 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "14 g",
+      "unsaturatedFatContent": "7.4673866666667 g",
+      "cholesterolContent": "52 mg"
+    },
+    "recipeIngredient": [
+      "10  кивита",
+      "1/2 л. заквасена сметана",
+      "3 с.л. пудра захар",
+      "1 опак. ванилия",
+      "1 с.л. ром",
+      "4 с.л. течна сметана",
+      "50 г сушени ягоди"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Плодовете киви (10 бр) се обелват и нарязват на парчета. Оставят се няколко парченца от тях за украса, а останалите се разбиват в пасатора на пюре. Прибавя се заквасената сметана (1/2 л.), пудрата захар (3 с.л.), ванилията (1 опак.), ромът (1 с.л.) и отново се разбива. Получената кремообразна смес се налива във високи чаши. Всяка порция се украсява с парченца киви, течна сметана и сушени ягоди. Мусът се поднася добре охладен."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "кивита",
+      "qty": "10",
+      "id": 186
+    },
+    {
+      "name": "заквасена сметана",
+      "qty": "1/2 л.",
+      "id": 73
+    },
+    {
+      "name": "пудра захар",
+      "qty": "3 с.л.",
+      "id": 34
+    },
+    {
+      "name": "ванилия",
+      "qty": "1 опак.",
+      "id": 23
+    },
+    {
+      "name": "ром",
+      "qty": "1 с.л.",
+      "id": 74
+    },
+    {
+      "name": "течна сметана",
+      "qty": "4 с.л.",
+      "id": 19
+    },
+    {
+      "name": "сушени ягоди",
+      "qty": "50 г",
+      "id": 330
+    }
+  ]
+}

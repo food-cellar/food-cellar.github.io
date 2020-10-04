@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Десерт от крем с маскарпоне, кафе, бишкоти и ягоди",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/desert-s-maskarpone-bishkoti-i-iagodi-1-[1959].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/desert-s-maskarpone-bishkoti-i-iagodi-1-[1959].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/desert-s-maskarpone-bishkoti-i-iagodi-1-[1959].jpg"
+    ],
+    "datePublished": "2012-05-21",
+    "cookTime": "PT0H10M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "599 calories",
+      "carbohydrateContent": "54 g",
+      "fatContent": "37 g",
+      "proteinContent": "11 g",
+      "saturatedFatContent": "21 g",
+      "unsaturatedFatContent": "14.487806341463 g",
+      "cholesterolContent": "405 mg"
+    },
+    "recipeIngredient": [
+      "8  бишкоти",
+      "8 с.л. маскарпоне",
+      "2 с.л. кондензирано мляко",
+      "1/2 ч.л. есенция ром",
+      "1 к.ч. кафе",
+      "4  ягоди"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Маскарпонето (8 с.л.) се смесва с подсладеното кондензирано мляко (2 с.л.) и се разбиват до получаването на гладък крем. Ягодите (4 бр) се измиват и подсушават. Половината от тях се разрязват на четвъртинки.В горещото кафе (1 к.ч.) се добавя есенцията ром (1/2 ч.л.) и в тях се потапят бишкотите (8 бр) за няколко секунди. Бишкотите се подреждат по стените на десертни чаши и се заливат с крема. Десертът се заглажда с лъжичка и върху крема се подреждат пресните ягоди. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "бишкоти",
+      "qty": "8",
+      "id": 133
+    },
+    {
+      "name": "маскарпоне",
+      "qty": "8 с.л.",
+      "id": 115
+    },
+    {
+      "name": "кондензирано мляко",
+      "qty": "2 с.л.",
+      "id": 174
+    },
+    {
+      "name": "есенция ром",
+      "qty": "1/2 ч.л.",
+      "id": 74
+    },
+    {
+      "name": "кафе",
+      "qty": "1 к.ч.",
+      "id": 144
+    },
+    {
+      "name": "ягоди",
+      "qty": "4",
+      "id": 109
+    }
+  ]
+}

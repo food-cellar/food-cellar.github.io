@@ -1,0 +1,118 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печени котлети от сьомга на скара със зелена салата и кълнове (без мазнина)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/sioomga_na_skara_s_ekzotichna_salata_4-[66].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/sioomga_na_skara_s_ekzotichna_salata_4-[66].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/sioomga_na_skara_s_ekzotichna_salata_4-[66].jpg"
+    ],
+    "datePublished": "2010-10-28",
+    "cookTime": "PT0H30M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "594 calories",
+      "carbohydrateContent": "35 g",
+      "fatContent": "18 g",
+      "proteinContent": "55 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "13.423145 g",
+      "cholesterolContent": "130 mg"
+    },
+    "recipeIngredient": [
+      "2 котлета сьомга",
+      "1 ч.ч. лимонов сок",
+      "1 ч.ч. бяло вино",
+      "1 ч.л. чесън на прах",
+      "1 ч.л. сусамово брашно",
+      "1 с.л. зехтин",
+      "сол",
+      "4 листа  зелена салата",
+      "10 листенца  лилав босилек",
+      "1 шепа кълнове от червена ряпа",
+      "сол",
+      "4 с.л. лимонов сок",
+      "2 с.л. зехтин"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Лимоновият сок (1 ч.ч.), виното (1 ч.ч.), чесънът на прах (1 ч.л.), зехтинът (1 с.л.), солта и сусамовото брашно (1 ч.л.) се разбиват до еднородна смес. С нея се мариноват котлетите от сьомга (2 котлета) 2 часа на студено. Изваждат се от маринатата, отцеждат се и се изпичат на тиган без мазнина."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Салатените листа (4 листа) се накъсват на едро. Смесват се с лилавия босилек (10 листенца) и кълновете от червена ряпа (1 шепа). Овкусяват се със сол, зехтин и лимонов сок. Разбърква се добре. Опечената сьомга се поднася топла, гарнирана с тази екзотична салата."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "сьомга",
+      "qty": "2 котлета",
+      "id": 114
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 ч.ч.",
+      "id": 17
+    },
+    {
+      "name": "бяло вино",
+      "qty": "1 ч.ч.",
+      "id": 41
+    },
+    {
+      "name": "чесън на прах",
+      "qty": "1 ч.л.",
+      "id": 6
+    },
+    {
+      "name": "сусамово брашно",
+      "qty": "1 ч.л.",
+      "id": 268
+    },
+    {
+      "name": "зехтин",
+      "qty": "1 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "зелена салата",
+      "qty": "4 листа",
+      "id": 87
+    },
+    {
+      "name": "лилав босилек",
+      "qty": "10 листенца",
+      "id": 25
+    },
+    {
+      "name": "кълнове от червена ряпа",
+      "qty": "1 шепа",
+      "id": 241
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "4 с.л.",
+      "id": 17
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пълнени тиквички с кускус и моркови на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pulneni-tikvichki-s-kuskus-i-morkovi-1-[1545].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pulneni-tikvichki-s-kuskus-i-morkovi-1-[1545].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pulneni-tikvichki-s-kuskus-i-morkovi-1-[1545].jpg"
+    ],
+    "datePublished": "2011-07-24",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "121 calories",
+      "carbohydrateContent": "22 g",
+      "fatContent": "1 g",
+      "proteinContent": "4 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "1.2902425 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "3  тиквички",
+      "75 г кускус",
+      "1  морков",
+      "1 глава лук",
+      "черен пипер",
+      "сол",
+      "1 с.л. зехтин"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Тиквичките (3 бр) се нарязват на парчета с дължина 4-5 см и се издълбават с лъжичка. Поставят се в намаслена тавичка и се пекат около 20 минути при температура 180 градуса. През това време се приготвя плънката. За целта морковите (1 бр) и лукът (1 глава) се нарязват на ситни кубчета и се задушават в зехтина (1 с.л.) до омекване. Кускусът (75 г) се сварява в подсолена вода според указанията на опаковката. Смесва се със зеленчуците и всичко се подправя със сол и черен пипер. С получената плънка се пълнят тиквичките и се връщат обратно във фурната за още 10-15 минути. Сервират се топли. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "тиквички",
+      "qty": "3",
+      "id": 39
+    },
+    {
+      "name": "кускус",
+      "qty": "75 г",
+      "id": 160
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "зехтин",
+      "qty": "1 с.л.",
+      "id": 10
+    }
+  ]
+}

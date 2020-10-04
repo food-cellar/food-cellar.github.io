@@ -1,0 +1,110 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Лингуини с домати, риба тон и маслини",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/linguini-s-domati-riba-ton-i-maslini-1-[3161].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/linguini-s-domati-riba-ton-i-maslini-1-[3161].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/linguini-s-domati-riba-ton-i-maslini-1-[3161].jpg"
+    ],
+    "datePublished": "2017-01-13",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "857 calories",
+      "carbohydrateContent": "108 g",
+      "fatContent": "24 g",
+      "proteinContent": "52 g",
+      "saturatedFatContent": "9 g",
+      "unsaturatedFatContent": "12.440721366667 g",
+      "cholesterolContent": "77 mg"
+    },
+    "recipeIngredient": [
+      "400 г лингуини",
+      "4 скилидки чесън",
+      "2 с.л. зехтин",
+      "1 2/3 кг домати от консерва",
+      "1 ч.л. захар",
+      "100 г зелени маслини",
+      "400 г риба тон от консерва",
+      "200 г моцарела",
+      "2 с.л. босилеково песто",
+      "черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пастата (400 г)се сварява според указанията на опаковката. През това време чесънът (4 скилидки) се накълцва на ситно и се задушава в мазнината (2 с.л.), докато леко поомекне. След това към него се добавят пасираните домати от консерва (1 2/3 кг) и сосът се оставя да изври, докато течността се изпари почти изцяло."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "След това към сгъстения доматен сос се добавя захарта (1 ч.л.), за да премахне киселия вкус на доматите, и се добавят нарязаните на колелца маслини (100 г), рибата тон от консерва (400 г), босилековото песто (2 с.л.) и отцедената и сварена паста. Всичко се разбърква, овкусява се със сол и черен пипер и се сервира горещо, поръсено с настъргана моцарела (200 г), настърган пармезан или настърган кашкавал."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Рецептата е част от кулинарната рубрика <a href=https://www.facebook.com/SupermarketCBA/photos/?tab=album&album_id=586993531488996>Какво да сготвя довечера?</a> на  <a href=https://www.facebook.com/SupermarketCBA/>Супермаркети CBA</a> и е създадена с продукти, закупени от техните магазини."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "лингуини",
+      "qty": "400 г",
+      "id": 72
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "домати от консерва",
+      "qty": "1 2/3 кг",
+      "id": 86
+    },
+    {
+      "name": "захар",
+      "qty": "1 ч.л.",
+      "id": 9
+    },
+    {
+      "name": "зелени маслини",
+      "qty": "100 г",
+      "id": 50
+    },
+    {
+      "name": "риба тон от консерва",
+      "qty": "400 г",
+      "id": 127
+    },
+    {
+      "name": "моцарела",
+      "qty": "200 г",
+      "id": 93
+    },
+    {
+      "name": "босилеково песто",
+      "qty": "2 с.л.",
+      "id": 290
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

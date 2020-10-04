@@ -1,0 +1,68 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Сладко от боровинки в бурканчета за зимата",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/sladko-ot-borovinki-v-burkancheta-za-zimata-1-[3447].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/sladko-ot-borovinki-v-burkancheta-za-zimata-1-[3447].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/sladko-ot-borovinki-v-burkancheta-za-zimata-1-[3447].jpg"
+    ],
+    "datePublished": "2020-05-28",
+    "cookTime": "PT1H30M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Други",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "1038 calories",
+      "carbohydrateContent": "267 g",
+      "fatContent": "0 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.2075 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1 кг боровинки",
+      "2 кг захар",
+      "1/2 л. вода",
+      "2 ч.л. лимонтозу"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Боровинките (1 кг) се измиват, намачкват се и се поръсват със захарта (2 кг). Оставят се така за една нощ."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "На следващия ден се прехвърлят в тенджера и се заливат с водата (1/2 л.), след което се варят на слаб огън. Готвенето продължава, докато сиропът се сгъсти. Капка от него, поставена върху студена чиния, трябва да запазва формата си и да не се разтича. Малко преди да се свали от котлона се добавя лимонтузуто, предварително разтворено в малко вода, за да не се захаросва сладкото."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Оставя се да поизстине и се прехвърля в сухи и затоплени буркани, след което гърлата им се покриват с целофан и се затварят."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "боровинки",
+      "qty": "1 кг",
+      "id": 184
+    },
+    {
+      "name": "захар",
+      "qty": "2 кг",
+      "id": 9
+    },
+    {
+      "name": "вода",
+      "qty": "1/2 л.",
+      "id": 11
+    },
+    {
+      "name": "лимонтозу",
+      "qty": "2 ч.л.",
+      "id": 27
+    }
+  ]
+}

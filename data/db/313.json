@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Борш - постна супа с картофи, зелен фасул и червено цвекло",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/borsh-2-[313].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/borsh-2-[313].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/borsh-2-[313].jpg"
+    ],
+    "datePublished": "2010-11-23",
+    "cookTime": "PT0H20M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "278 calories",
+      "carbohydrateContent": "48 g",
+      "fatContent": "7 g",
+      "proteinContent": "6 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "3.7144875 g",
+      "cholesterolContent": "11 mg"
+    },
+    "recipeIngredient": [
+      "4  картофа",
+      "1/2  зелка",
+      "10 стръкчета зелен фасул",
+      "1 глава лук",
+      "1/2 глава червено цвекло",
+      "2 с.л. олио",
+      "20 г масло",
+      "сол",
+      "1/2 ч.л. захар",
+      "оцет"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Картофите (4 бр) се нарязват на едри парчета, зелето (1/2 бр) на едри ивици, лукът (1 глава) – на ситно, стръкчетата фасул (10 стръкчета) – на по 3 части. Зеленчуците се заливат със студена подсолена вода и се варят 5 минути в тенджера под налягане. Червеното цвекло (1/2 глава) се обелва и нарязва на сламки. Задушава се в сгорещеното масло (20 г) под капак заедно със захарта (1/2 ч.л.) и малко оцет, за да запази рубинения си цвят. Добавя се към готовия борш, който заедно с него се довежда до кипене. Поднася се горещ. По желание може да се гарнира със сметана."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "картофа",
+      "qty": "4",
+      "id": 16
+    },
+    {
+      "name": "зелка",
+      "qty": "1/2",
+      "id": 94
+    },
+    {
+      "name": "зелен фасул",
+      "qty": "10 стръкчета",
+      "id": 99
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "червено цвекло",
+      "qty": "1/2 глава",
+      "id": 131
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    },
+    {
+      "name": "масло",
+      "qty": "20 г",
+      "id": 8
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "захар",
+      "qty": "1/2 ч.л.",
+      "id": 9
+    },
+    {
+      "name": "оцет",
+      "qty": "Parsing error",
+      "id": 61
+    }
+  ]
+}

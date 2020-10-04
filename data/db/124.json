@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Тирамису - бърза и лесна торта без печене с бишкоти и крем от сирене маскарпоне, течна сладкарска сметана и кафе еспресо",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/tiramisu-4-[124].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/tiramisu-4-[124].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/tiramisu-4-[124].jpg"
+    ],
+    "datePublished": "2011-01-05",
+    "cookTime": "PT0H30M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "459 calories",
+      "carbohydrateContent": "40 g",
+      "fatContent": "30 g",
+      "proteinContent": "6 g",
+      "saturatedFatContent": "17 g",
+      "unsaturatedFatContent": "10.601359065041 g",
+      "cholesterolContent": "246 mg"
+    },
+    "recipeIngredient": [
+      "250 г сирене маскарпоне",
+      "1/2 ч.ч. течна сметана",
+      "5 с.л. калуа",
+      "1/4 ч.ч. захар",
+      "2 с.л. кафе еспресо",
+      "5 с.л. какао",
+      "250 г бишкоти"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Сметаната (1/2 ч.ч.) се разбива със захарта (1/4 ч.ч.) и се смесва със сиренето (250 г) и кафееният ликьор (калуа) (5 с.л.). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Една трета от бишкотите се потопяват за миг в кафето и се подреждат на един ред в квадратна тавичка със страна 20 см. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Намазват се с 1/3 от крема. Следва втори ред напоени бишкоти, крем и отново ред бишкоти, ред крем. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Отгоре тирамисуто се поръсва с какао или настърган шоколад и се охлажда до поднасянето."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "сирене маскарпоне",
+      "qty": "250 г",
+      "id": 115
+    },
+    {
+      "name": "течна сметана",
+      "qty": "1/2 ч.ч.",
+      "id": 19
+    },
+    {
+      "name": "калуа",
+      "qty": "5 с.л.",
+      "id": 172
+    },
+    {
+      "name": "захар",
+      "qty": "1/4 ч.ч.",
+      "id": 9
+    },
+    {
+      "name": "кафе еспресо",
+      "qty": "2 с.л.",
+      "id": 144
+    },
+    {
+      "name": "какао",
+      "qty": "5 с.л.",
+      "id": 45
+    },
+    {
+      "name": "бишкоти",
+      "qty": "250 г",
+      "id": 133
+    }
+  ]
+}

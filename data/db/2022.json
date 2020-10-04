@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пъстра салата с моркови, чушки, гъби и авокадо",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pustra-salata-s-morkovi-i-avokado-1-[2022].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pustra-salata-s-morkovi-i-avokado-1-[2022].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pustra-salata-s-morkovi-i-avokado-1-[2022].jpg"
+    ],
+    "datePublished": "2012-07-20",
+    "cookTime": "PT0H10M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "334 calories",
+      "carbohydrateContent": "19 g",
+      "fatContent": "29 g",
+      "proteinContent": "4 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "22.31995 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1  авокадо",
+      "100 г чери домати",
+      "1  жълта чушка",
+      "100 г гъби",
+      "1  морков",
+      "1 с.л. лимонов сок",
+      "4 с.л. зехтин",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Жълтата чушка (1 бр) се измива и почиства от дръжката и семките, нарязва се на средни по големина парчета. Чери доматите (100 г) се измиват и разполовяват, а морковът (1 бр) се обелва и настъргва на едрото ренде. Суровите гъби (100 г) се измиват старателно и се нарязват на полумесеци. Авокадото (1 бр) се обелва, костилката му се отстранява и се нарязва на кубчета. Веднага се залива с лимоновия сок (1 с.л.), за да не потъмнее. Зеленчуците се смесват в дълбока купа. Посоляват се и се овкусяват със зехтин (4 с.л.). Салатата се сервира веднага. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "авокадо",
+      "qty": "1",
+      "id": 83
+    },
+    {
+      "name": "чери домати",
+      "qty": "100 г",
+      "id": 15
+    },
+    {
+      "name": "жълта чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "гъби",
+      "qty": "100 г",
+      "id": 37
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

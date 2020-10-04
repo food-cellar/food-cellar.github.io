@@ -1,0 +1,60 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Сандвич с ементал и телешки колбас",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/sandvich-s-emental-i-teleshki-kolbas-2-[1976].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/sandvich-s-emental-i-teleshki-kolbas-2-[1976].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/sandvich-s-emental-i-teleshki-kolbas-2-[1976].jpg"
+    ],
+    "datePublished": "2012-06-07",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Сандвичи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "339 calories",
+      "carbohydrateContent": "44 g",
+      "fatContent": "10 g",
+      "proteinContent": "16 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "5.6581 g",
+      "cholesterolContent": "36 mg"
+    },
+    "recipeIngredient": [
+      "1  питка с маслини",
+      "2 резена сирене ементал",
+      "2 резена телешки колбас",
+      "2 резена розов домат"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Питката (1 бр) се разполовява и в нея се поставят резени ементал (2 резена), телешки колбас  (2 резена) и свеж розов домат (2 резена). Сандвичът се затваря и се сервира веднага. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "питка с маслини",
+      "qty": "1",
+      "id": 175
+    },
+    {
+      "name": "сирене ементал",
+      "qty": "2 резена",
+      "id": 179
+    },
+    {
+      "name": "телешки колбас",
+      "qty": "2 резена",
+      "id": 76
+    },
+    {
+      "name": "розов домат",
+      "qty": "2 резена",
+      "id": 15
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Запечени броколи огретен с течна сметана, яйца, прясно мляко и кашкавал",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/Germa_eggs_recipe4-[2847].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/Germa_eggs_recipe4-[2847].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/Germa_eggs_recipe4-[2847].jpg"
+    ],
+    "datePublished": "2016-04-07",
+    "cookTime": "PT1H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "542 calories",
+      "carbohydrateContent": "22 g",
+      "fatContent": "40 g",
+      "proteinContent": "28 g",
+      "saturatedFatContent": "23 g",
+      "unsaturatedFatContent": "12.98638 g",
+      "cholesterolContent": "265 mg"
+    },
+    "recipeIngredient": [
+      "2  броколи",
+      "3  яйца",
+      "1 ч.ч. прясно мляко",
+      "1 ч.ч. течна сметана",
+      "200 г кашкавал",
+      "1 ч.л. черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Броколите (2 бр) се накъсват на розички и се бланшират във вряща подсолена вода. Отцеждат се. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Поставят се в огнеупорна тавичка и се заливат с разбитите с прясното мляко (1 ч.ч.) яйца <a href=https://www.facebook.com/GermaBulgaria/>GERMA</a> (3 бр), а също и със сметаната (1 ч.ч.). Посоляват се и се добавя черен пипер (1 ч.л.). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Ястието се поставя във фурна и се пече при 180 градуса около половин час. След това се изважда от фурната, поръсва се обилно с настърган кашкавал <a href=https://www.facebook.com/GermaBulgaria/>GERMA</a> (200 г) и се връща обратно във фурната, докато кашкавалът се запече и стане хрупкав. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Ястието се сервира горещо. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "За най-добри резултати екипът на 1001 Рецепти препоръчва използването на български пресни яйца <a href=https://www.facebook.com/GermaBulgaria/>GERMA</a>, а също и български кашкавал <a href=https://www.facebook.com/GermaBulgaria/>GERMA</a>."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "броколи",
+      "qty": "2",
+      "id": 57
+    },
+    {
+      "name": "яйца",
+      "qty": "3",
+      "id": 5
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "1 ч.ч.",
+      "id": 14
+    },
+    {
+      "name": "течна сметана",
+      "qty": "1 ч.ч.",
+      "id": 19
+    },
+    {
+      "name": "кашкавал",
+      "qty": "200 г",
+      "id": 47
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

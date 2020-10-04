@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Зелена салата с дресинг от яйца и каперси",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zelena-salata-s-dresing-ot-iaica-i-kapersi-1-[2002].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zelena-salata-s-dresing-ot-iaica-i-kapersi-1-[2002].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zelena-salata-s-dresing-ot-iaica-i-kapersi-1-[2002].jpg"
+    ],
+    "datePublished": "2012-06-22",
+    "cookTime": "PT0H20M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "226 calories",
+      "carbohydrateContent": "14 g",
+      "fatContent": "16 g",
+      "proteinContent": "9 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "11.916165 g",
+      "cholesterolContent": "94 mg"
+    },
+    "recipeIngredient": [
+      "1 връзка зелена салата",
+      "1  краставица",
+      "100 г чери домати",
+      "1  яйце",
+      "4 с.л. зехтин",
+      "1 ч.л. лимонов сок",
+      "1 ч.л. каперси",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Зелената салата (1 връзка) се измива старателно, отцежда се и се накъсва на среди по големина парчета. Смесва се в дълбока купа с измитите и разполовени чери домати (100 г) и с обелената и нарязана на полумесеци краставица (1 бр).Яйцето (1 бр) се сварява, като се оставя да бъде рохко. Обелва се и се смачква с вилица, заедно с каперсите (1 ч.л.), солта, лимоновия сок (1 ч.л.) и зехтина (4 с.л.). С този дресинг се полива салатата и се сервира веднага."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "зелена салата",
+      "qty": "1 връзка",
+      "id": 87
+    },
+    {
+      "name": "краставица",
+      "qty": "1",
+      "id": 44
+    },
+    {
+      "name": "чери домати",
+      "qty": "100 г",
+      "id": 15
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 ч.л.",
+      "id": 17
+    },
+    {
+      "name": "каперси",
+      "qty": "1 ч.л.",
+      "id": 162
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

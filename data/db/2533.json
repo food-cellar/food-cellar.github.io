@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Запечени картофи със сирене, шунка и масло на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zapecheni-kartofi-sus-sirene-shunka-i-maslo-2-[2533].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zapecheni-kartofi-sus-sirene-shunka-i-maslo-2-[2533].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zapecheni-kartofi-sus-sirene-shunka-i-maslo-2-[2533].jpg"
+    ],
+    "datePublished": "2013-06-02",
+    "cookTime": "PT1H0M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "1038 calories",
+      "carbohydrateContent": "92 g",
+      "fatContent": "59 g",
+      "proteinContent": "36 g",
+      "saturatedFatContent": "36 g",
+      "unsaturatedFatContent": "18.80155 g",
+      "cholesterolContent": "209 mg"
+    },
+    "recipeIngredient": [
+      "1 кг картофи",
+      "250 г сирене",
+      "100 г шунка",
+      "4 с.л. масло",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Картофите (1 кг) се измиват, обелват се и се нарязват на едри парчета. Сваряват се в подсолена вода, докато омекнат. След това се отцеждат и разбъркват с маслото (4 с.л.), докато то се разтопи. Половината от тях се разпределят в огнеупорен съд, поръсват се обилно с натрошеното сирене (250 г) и върху него се поставят останалите сварени картофи. Върху тях се поръсва нарязана на ситни кубчета шунка (100 г) и ястието се запича на фурна за около 20 минути при 180 градуса. Поднася се горещо и по желание се декорира с връхчета пресен магданоз."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "картофи",
+      "qty": "1 кг",
+      "id": 16
+    },
+    {
+      "name": "сирене",
+      "qty": "250 г",
+      "id": 32
+    },
+    {
+      "name": "шунка",
+      "qty": "100 г",
+      "id": 76
+    },
+    {
+      "name": "масло",
+      "qty": "4 с.л.",
+      "id": 8
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

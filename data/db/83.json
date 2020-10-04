@@ -1,0 +1,92 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Калду Верде - португалска картофена супа с картофи, зеле и наденица",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kaldu-verde-1-[83].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kaldu-verde-1-[83].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kaldu-verde-1-[83].jpg"
+    ],
+    "datePublished": "2010-12-05",
+    "cookTime": "PT0H50M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "416 calories",
+      "carbohydrateContent": "31 g",
+      "fatContent": "30 g",
+      "proteinContent": "6 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "23.776535 g",
+      "cholesterolContent": "6 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг зелка",
+      "1/2 кг картофи",
+      "50 г наденица",
+      "1 глава лук",
+      "2 скилидки  чесън",
+      "6 ч.ч. вода",
+      "1/2 ч.ч. зехтин",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Картофите (1/2 кг) се обелват и сваряват до готовност с лука (1 глава), наденицата (50 г) и чесъна (2 скилидки), като се подправят със сол и 2-3 с.л. зехтин."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Съдът се снема от огъня. Колбасът се изважда от супата, а останалите в нея зеленчуци се пасират до пюре. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Съдът пак се слага на котлона. Прибавя се зелето (1/2 кг), захлупва се и се вари до неговата готовност. Супата се посолява и подправя със зехтин. Колбасът се нарязва на парченца, нарежда се в чинии и се залива с готовата супа."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "зелка",
+      "qty": "1/2 кг",
+      "id": 94
+    },
+    {
+      "name": "картофи",
+      "qty": "1/2 кг",
+      "id": 16
+    },
+    {
+      "name": "наденица",
+      "qty": "50 г",
+      "id": 148
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "вода",
+      "qty": "6 ч.ч.",
+      "id": 11
+    },
+    {
+      "name": "зехтин",
+      "qty": "1/2 ч.ч.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

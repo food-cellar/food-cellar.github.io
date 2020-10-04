@@ -1,0 +1,104 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Бистра есенна супа от свински джолан, картофи, зеленчуци и фиде",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/esenna-supa-sus-svinsko-i-zelenchuci-1-[3335].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/esenna-supa-sus-svinsko-i-zelenchuci-1-[3335].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/esenna-supa-sus-svinsko-i-zelenchuci-1-[3335].jpg"
+    ],
+    "datePublished": "2018-11-06",
+    "cookTime": "PT1H0M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "464 calories",
+      "carbohydrateContent": "23 g",
+      "fatContent": "30 g",
+      "proteinContent": "23 g",
+      "saturatedFatContent": "10 g",
+      "unsaturatedFatContent": "16.39752875 g",
+      "cholesterolContent": "90 mg"
+    },
+    "recipeIngredient": [
+      "1 кг свински джолан",
+      "2  моркова",
+      "1 глава лук",
+      "2 стръка целина",
+      "4 с.л. фиде",
+      "3  картофа",
+      "1 с.л. червен пипер",
+      "1 ч.л. черен пипер",
+      "1/2 връзка магданоз",
+      "8 с.л. соев сос Kikkoman"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Свинското месо (1 кг) се поставя в тенджера под налягане и се сварява до пълното омекване на месото. След това то се изважда, бульонът се запазва и прецежда и докато месото се реже на ситни кубчета, в бульона се поставят зеленчуците, за да се сварят. Добавят се нарязани на ситни кубчета картофи (3 бр), ситно нарязани лук (1 глава) и стръкове целина (2 стръка), нарязани на колелца моркови (2 бр). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Щом зеленчуците омекнат, се прибавят подправките, месото и фидето (4 с.л.), натрошено на парченца. Щом фидето омекне, супата се отстранява от котлона и се поръсва с пресен магданоз (1/2 връзка). Всяка порция се овкусява със супена лъжица <a href=http://kikkofood.bg/>соев сос Kikkoman </a>. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Повече за полезните съставки на соевия сос, както и всичко за разнообразните продукти на <a href=http://kikkofood.bg/>Kikkoman </a> може да научите на официалния сайт на кампанията <a href=http://kikkofood.bg/>Вкусната храна обича Kikkoman!</a>, където ви очакват и страхотни награди! Следете и <a href=https://www.facebook.com/OishiiSanCuisine/>страницата на Kikkoman във Facebook</a>, където ви очакват допълнителни подаръци."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "свински джолан",
+      "qty": "1 кг",
+      "id": 67
+    },
+    {
+      "name": "моркова",
+      "qty": "2",
+      "id": 13
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "целина",
+      "qty": "2 стръка",
+      "id": 30
+    },
+    {
+      "name": "фиде",
+      "qty": "4 с.л.",
+      "id": 72
+    },
+    {
+      "name": "картофа",
+      "qty": "3",
+      "id": 16
+    },
+    {
+      "name": "червен пипер",
+      "qty": "1 с.л.",
+      "id": 20
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "магданоз",
+      "qty": "1/2 връзка",
+      "id": 12
+    },
+    {
+      "name": "соев сос Kikkoman",
+      "qty": "8 с.л.",
+      "id": 53
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Баница от тънки кори с моркови, тиквички, лук, копър и магданоз",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/banica-s-morkovi-i-tikvichki-2-[494].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/banica-s-morkovi-i-tikvichki-2-[494].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/banica-s-morkovi-i-tikvichki-2-[494].jpg"
+    ],
+    "datePublished": "2010-12-08",
+    "cookTime": "PT0H45M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Хлебни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "209 calories",
+      "carbohydrateContent": "31 g",
+      "fatContent": "7 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "4.936405 g",
+      "cholesterolContent": "23 mg"
+    },
+    "recipeIngredient": [
+      "1 опак. фини кори",
+      "200 г тиквички",
+      "200 г моркови",
+      "4 с.л. олио",
+      "1 глава лук",
+      "4 скилидки чесън",
+      "магданоз",
+      "копър",
+      "сол",
+      "черен пипер",
+      "1  яйце"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Тиквичките (200 г) и морковите (200 г) се нарязват на много тънки ивици с помощта на белачка, след което се пекат на тиган без мазнина, за да омекнат. Лукът (1 глава), магданозът и копърът се нарязват на ситно и се задушават в горещо олио на котлона. Посоляват се и се подправят с черен пипер. Чесънът (4 скилидки) се нарязва на ситно и се счуква със сол. Прибавя се към лука и зелениите. Сместа се разбърква. Вземат се две фини кори и се слагат една върху друга. Напръскват се с олио. Върху тях се нареждат омекналите тивкички и моркови. Върху зеленчуците се слага от лучената смес и корите се навиват на руло. Подготвената баница се слага в тава с незалепващо покритие. Намазва се отгоре с разбито яйце и се пече до пълна готовност."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "фини кори",
+      "qty": "1 опак.",
+      "id": 138
+    },
+    {
+      "name": "тиквички",
+      "qty": "200 г",
+      "id": 39
+    },
+    {
+      "name": "моркови",
+      "qty": "200 г",
+      "id": 13
+    },
+    {
+      "name": "олио",
+      "qty": "4 с.л.",
+      "id": 4
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "магданоз",
+      "qty": "Parsing error",
+      "id": 12
+    },
+    {
+      "name": "копър",
+      "qty": "Parsing error",
+      "id": 28
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    }
+  ]
+}

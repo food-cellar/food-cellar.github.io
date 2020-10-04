@@ -1,0 +1,110 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Зеленчукова крем супа от броколи, моркови и картофи с топено сирене",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/supa-ot-brokoli-2-[634].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/supa-ot-brokoli-2-[634].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/supa-ot-brokoli-2-[634].jpg"
+    ],
+    "datePublished": "2010-11-28",
+    "cookTime": "PT0H45M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "257 calories",
+      "carbohydrateContent": "24 g",
+      "fatContent": "13 g",
+      "proteinContent": "11 g",
+      "saturatedFatContent": "8 g",
+      "unsaturatedFatContent": "3.78176 g",
+      "cholesterolContent": "40 mg"
+    },
+    "recipeIngredient": [
+      "1 глава броколи",
+      "1  картоф",
+      "1 глава лук",
+      "1  морков",
+      "4 стръкчета кориандър",
+      "1 ч.ч. прясно мляко",
+      "80 г топено сирене",
+      "сол",
+      "черен пипер",
+      "чесън на прах",
+      "40 г масло"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Броколите (1 глава) се измиват и накъсват на розички, които се сваряват в подсолена вода. Отцеждат се и се оставят настрана. В същия бульон се сваряват картофът, морковът и лукът (1 глава) заедно с кориандър (4 стръкчета). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Щом зеленчуците се сварят, се отцеждат и заедно с 2/3 от броколите се пасират. Прибавят се топеното сирене (80 г), маслото (40 г) и прясното мляко (1 ч.ч.). Пак се разбива. Добавя се черният пипер. Полученото пюре се връща в бульона и се кипва. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Супата се поднася на порции, украсени с цели розички броколи. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "броколи",
+      "qty": "1 глава",
+      "id": 57
+    },
+    {
+      "name": "картоф",
+      "qty": "1",
+      "id": 16
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "кориандър",
+      "qty": "4 стръкчета",
+      "id": 97
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "1 ч.ч.",
+      "id": 14
+    },
+    {
+      "name": "топено сирене",
+      "qty": "80 г",
+      "id": 112
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "чесън на прах",
+      "qty": "Parsing error",
+      "id": 6
+    },
+    {
+      "name": "масло",
+      "qty": "40 г",
+      "id": 8
+    }
+  ]
+}

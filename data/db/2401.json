@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Яйца чукнати в чушка, задушени под капак",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/iaica-chuknati-v-chushka-1-[2401].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/iaica-chuknati-v-chushka-1-[2401].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/iaica-chuknati-v-chushka-1-[2401].jpg"
+    ],
+    "datePublished": "2013-03-04",
+    "cookTime": "PT0H20M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "360 calories",
+      "carbohydrateContent": "5 g",
+      "fatContent": "26 g",
+      "proteinContent": "24 g",
+      "saturatedFatContent": "7 g",
+      "unsaturatedFatContent": "15.05471 g",
+      "cholesterolContent": "429 mg"
+    },
+    "recipeIngredient": [
+      "4  яйца",
+      "1  чушка",
+      "1 с.л. олио",
+      "150 г шунка",
+      "1 щип. червен пипер",
+      "1 щип. сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Зелената чушка (1 бр) се измива и почиства от дръжката и семките. Нарязва се на 4 равномерни колелца с широчина около сантиметър. Те се поставят хоризонтално в намазан с олио (1 с.л.) тиган и щом се загрее, в чушките се чуква по едно яйце (4 бр). Тиганът се похлупва до половина с капак, за да се сготвят яйцата. Около чушките в тигана се разполагат парченцата шунка (150 г), колбас или друг месен продукт по избор. Щом шунката стане хрупкава, а яйцата са готови, ястието се поръсва със сол (1 щип.) и червен пипер (1 щип.) и се сервира, докато е още горещо. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "яйца",
+      "qty": "4",
+      "id": 5
+    },
+    {
+      "name": "чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "олио",
+      "qty": "1 с.л.",
+      "id": 4
+    },
+    {
+      "name": "шунка",
+      "qty": "150 г",
+      "id": 76
+    },
+    {
+      "name": "червен пипер",
+      "qty": "1 щип.",
+      "id": 20
+    },
+    {
+      "name": "сол",
+      "qty": "1 щип.",
+      "id": 1
+    }
+  ]
+}

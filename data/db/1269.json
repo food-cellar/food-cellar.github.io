@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Африканска салата със зелени чушки, домати и риба тон",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/radha-ot-tozioor-1-[1269].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/radha-ot-tozioor-1-[1269].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/radha-ot-tozioor-1-[1269].jpg"
+    ],
+    "datePublished": "2011-04-22",
+    "cookTime": "PT0H10M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "253 calories",
+      "carbohydrateContent": "13 g",
+      "fatContent": "15 g",
+      "proteinContent": "16 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "11.64522 g",
+      "cholesterolContent": "9 mg"
+    },
+    "recipeIngredient": [
+      "700 г домати",
+      "150 г зелени чушки",
+      "200 г риба тон",
+      "4 скилидки чесън",
+      "5 с.л. зехтин",
+      "2 с.л. лимонов сок",
+      "сол",
+      "100 г маслини"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Скилидките чесън (4 скилидки) се счукват в хаванче с малко сол. Изсипват се в голяма купа и към тях се прибавят нарязаните на едри кубчета чушки (150 г) и домати (700 г). Смачкването продължава със същото чукче, с което е пресован чесънът. Накрая се добавя рибата (200 г), ситно нарязаните черни маслини (100 г), лимоновият сок (2 с.л.) и зехтинът (5 с.л.). Салатата се осолява на вкус и се разбърква много добре.    "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "домати",
+      "qty": "700 г",
+      "id": 15
+    },
+    {
+      "name": "зелени чушки",
+      "qty": "150 г",
+      "id": 18
+    },
+    {
+      "name": "риба тон",
+      "qty": "200 г",
+      "id": 127
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "зехтин",
+      "qty": "5 с.л.",
+      "id": 10
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "2 с.л.",
+      "id": 17
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "маслини",
+      "qty": "100 г",
+      "id": 50
+    }
+  ]
+}

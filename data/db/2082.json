@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата с домати, краставици, авокадо и зелена чушка",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-s-domati-krastavici-avokado-i-zelena-chushka-2-[2082].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-s-domati-krastavici-avokado-i-zelena-chushka-2-[2082].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-s-domati-krastavici-avokado-i-zelena-chushka-2-[2082].jpg"
+    ],
+    "datePublished": "2012-09-16",
+    "cookTime": "PT0H5M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "268 calories",
+      "carbohydrateContent": "18 g",
+      "fatContent": "22 g",
+      "proteinContent": "4 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "16.734255 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1  розов домат",
+      "1  краставица",
+      "1  авокадо",
+      "1  зелена чушка",
+      "2 с.л. зехтин",
+      "сол",
+      "1 ч.л. лимонов сок"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Розовият домат (1 бр) се измива, обелва и нарязва на кубчета. Краставицата (1 бр) се измива и нарязва на колелца. Авокадото (1 бр) се обелва, костилката му се отстранява, а ядливата му част се нарязва на тънки полумесеци, след което се напръсква с лимонов сок (1 ч.л.), за да не промени цвета си. Зелената чушка (1 бр) се измива, почиства се от дръжката и семената и се реже на тънки колелца. Всички зеленчуци се смесват и овкусяват със зехтин (2 с.л.) и сол. По желание салатата се декорира с тънки резени лимон."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "розов домат",
+      "qty": "1",
+      "id": 15
+    },
+    {
+      "name": "краставица",
+      "qty": "1",
+      "id": 44
+    },
+    {
+      "name": "авокадо",
+      "qty": "1",
+      "id": 83
+    },
+    {
+      "name": "зелена чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 ч.л.",
+      "id": 17
+    }
+  ]
+}

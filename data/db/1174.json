@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Гарнитура от целина, портокали и орехи",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/garnitura-ot-celina-portokali-i-orehi-1-[1174].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/garnitura-ot-celina-portokali-i-orehi-1-[1174].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/garnitura-ot-celina-portokali-i-orehi-1-[1174].jpg"
+    ],
+    "datePublished": "2011-04-22",
+    "cookTime": "PT0H20M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Гарнитури",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "95 calories",
+      "carbohydrateContent": "5 g",
+      "fatContent": "8 g",
+      "proteinContent": "1 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "4.1196525 g",
+      "cholesterolContent": "11 mg"
+    },
+    "recipeIngredient": [
+      "1 връзка целина",
+      "1  портокал",
+      "25 г орехи",
+      "20 г масло",
+      "5 стръка магданоз",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Целината (1 връзка) се измива и нарязва на малки парчета. Портокалът (1 бр) се изстисква и в неговия сок се задушават резените целина под капак. В друг тиган се запържват орехите (25 г) и маслото (20 г), докато ядките не покафенеят и не станат хрупкави. Орехите се добавят към задушената целина и гарнитурата се овкусява със сол на вкус и ситно нарязан пресен магданоз (5 стръка). Сервира се веднага."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "целина",
+      "qty": "1 връзка",
+      "id": 30
+    },
+    {
+      "name": "портокал",
+      "qty": "1",
+      "id": 122
+    },
+    {
+      "name": "орехи",
+      "qty": "25 г",
+      "id": 31
+    },
+    {
+      "name": "масло",
+      "qty": "20 г",
+      "id": 8
+    },
+    {
+      "name": "магданоз",
+      "qty": "5 стръка",
+      "id": 12
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

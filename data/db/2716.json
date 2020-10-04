@@ -1,0 +1,104 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Тортила сандвич с кайма, домати и айсберг",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/tortila-sandvich-s-kaima-domati-i-aisberg-1-[2716].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/tortila-sandvich-s-kaima-domati-i-aisberg-1-[2716].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/tortila-sandvich-s-kaima-domati-i-aisberg-1-[2716].jpg"
+    ],
+    "datePublished": "2014-01-30",
+    "cookTime": "PT0H30M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Сандвичи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "644 calories",
+      "carbohydrateContent": "39 g",
+      "fatContent": "39 g",
+      "proteinContent": "32 g",
+      "saturatedFatContent": "12 g",
+      "unsaturatedFatContent": "22.93817 g",
+      "cholesterolContent": "108 mg"
+    },
+    "recipeIngredient": [
+      "2  тортили",
+      "2  домата",
+      "300 г кайма",
+      "1 глава лук",
+      "4 скилидки чесън",
+      "4 листа айсберг",
+      "2 с.л. зехтин",
+      "сол",
+      "1 щип. кимион",
+      "1 щип. черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Лукът (1 глава) и чесънът (4 скилидки) се нарязват на много ситно. Задушават се до омекване в зехтин (2 с.л.), след което към тях се добавя каймата (300 г). Пържи се, докато стане на трохи. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "След това се добавят обелените и нарязани на кубчета домати (2 бр). Готвенето продължава, докато течността на зеленчуците се изпари. Накрая се прибавят черен пипер (1 щип.), кимион (1 щип.) и сол.  "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "В тортилите се поставят пресните листа от айсберг (4 листа) и плънката от кайма се разпределя в тях с лъжица. Те се завиват стегнато, за да не изпада плънката. Сервират се веднага. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "тортили",
+      "qty": "2",
+      "id": 318
+    },
+    {
+      "name": "домата",
+      "qty": "2",
+      "id": 15
+    },
+    {
+      "name": "кайма",
+      "qty": "300 г",
+      "id": 54
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "айсберг",
+      "qty": "4 листа",
+      "id": 101
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "кимион",
+      "qty": "1 щип.",
+      "id": 42
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 щип.",
+      "id": 2
+    }
+  ]
+}

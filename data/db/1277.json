@@ -1,0 +1,108 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Крем супа от моркови, лук, домати и сметана с лимонов вкус",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/krem-supa-ot-morkovi-s-limonov-vkus-2-[1277].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/krem-supa-ot-morkovi-s-limonov-vkus-2-[1277].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/krem-supa-ot-morkovi-s-limonov-vkus-2-[1277].jpg"
+    ],
+    "datePublished": "2011-05-11",
+    "cookTime": "PT0H40M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "231 calories",
+      "carbohydrateContent": "25 g",
+      "fatContent": "12 g",
+      "proteinContent": "6 g",
+      "saturatedFatContent": "6 g",
+      "unsaturatedFatContent": "4.853 g",
+      "cholesterolContent": "33 mg"
+    },
+    "recipeIngredient": [
+      "600 г моркови",
+      "1 глава лук",
+      "150 мл. течна сметана",
+      "1 л. бульон",
+      "1 к.ч. ориз",
+      "1  домат",
+      "1 с.л. мед",
+      "3 с.л. лимонов сок",
+      "1 с.л. масло",
+      "30 г кашу",
+      "1 стрък пресен лук",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Лукът (1 глава) се нарязва на кубчета и се задушва в маслото (1 с.л.) до омекване в дълбока тенджера. Към него се прибавят едро нарязаните моркови (600 г), бульонът (1 л.), медът (1 с.л.), лимоновият сок (3 с.л.) и настърганият домат (1 бр). Супата ври до омекване на морковите. Пасира се и леко се охлажда. Към нея бавно се прибавя сметаната (150 мл.) при непрекъснато бъркане. Накрая се добавя предварително свареният ориз (1 к.ч.) и супата се връща на котлона за още няколко минути. Сервира се гореща, поръсена с черен пипер, ядки кашу (30 г) и зелен лук (1 стрък)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "моркови",
+      "qty": "600 г",
+      "id": 13
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "течна сметана",
+      "qty": "150 мл.",
+      "id": 19
+    },
+    {
+      "name": "бульон",
+      "qty": "1 л.",
+      "id": 26
+    },
+    {
+      "name": "ориз",
+      "qty": "1 к.ч.",
+      "id": 22
+    },
+    {
+      "name": "домат",
+      "qty": "1",
+      "id": 15
+    },
+    {
+      "name": "мед",
+      "qty": "1 с.л.",
+      "id": 38
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "3 с.л.",
+      "id": 17
+    },
+    {
+      "name": "масло",
+      "qty": "1 с.л.",
+      "id": 8
+    },
+    {
+      "name": "кашу",
+      "qty": "30 г",
+      "id": 200
+    },
+    {
+      "name": "пресен лук",
+      "qty": "1 стрък",
+      "id": 24
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

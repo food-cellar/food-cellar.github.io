@@ -1,0 +1,92 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Зеленчукова крем супа от броколи и целина",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/supa-ot-brokoli-i-celina-2-[633].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/supa-ot-brokoli-i-celina-2-[633].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/supa-ot-brokoli-i-celina-2-[633].jpg"
+    ],
+    "datePublished": "2010-10-12",
+    "cookTime": "PT0H45M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "214 calories",
+      "carbohydrateContent": "14 g",
+      "fatContent": "14 g",
+      "proteinContent": "10 g",
+      "saturatedFatContent": "8 g",
+      "unsaturatedFatContent": "3.73386 g",
+      "cholesterolContent": "48 mg"
+    },
+    "recipeIngredient": [
+      "1 глава броколи",
+      "1 глава целина",
+      "1 глава лук",
+      "1 ч.ч. прясно мляко",
+      "100 г сирене",
+      "сол",
+      "черен пипер",
+      "30 г масло"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Броколите (1 глава) се измиват и накъсват на розички, които се сваряват в подсолена вода. Отцеждат се и се оставят настрана. В същия бульон се сваряват целината (1 глава), обелена и нарязана на кубчета и обелената глава лук. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Щом целината се свари, се отцежда и заедно с 2/3 от броколите се пасира. Прибавят се маслото (30 г), мекото сирене (100 г) и прясното мляко (1 ч.ч.). Пак се разбива. Добавя се черният пипер. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Полученото пюре се връща в бульона и се кипва. Супата се поднася на порции, украсени с цели розички броколи. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "броколи",
+      "qty": "1 глава",
+      "id": 57
+    },
+    {
+      "name": "целина",
+      "qty": "1 глава",
+      "id": 30
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "1 ч.ч.",
+      "id": 14
+    },
+    {
+      "name": "сирене",
+      "qty": "100 г",
+      "id": 32
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "масло",
+      "qty": "30 г",
+      "id": 8
+    }
+  ]
+}

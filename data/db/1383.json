@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата от фузили, чери домати и айсберг",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-ot-fuzili-cheri-domati-i-aisberg-3-[1383].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-ot-fuzili-cheri-domati-i-aisberg-3-[1383].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-ot-fuzili-cheri-domati-i-aisberg-3-[1383].jpg"
+    ],
+    "datePublished": "2011-04-04",
+    "cookTime": "PT0H25M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "328 calories",
+      "carbohydrateContent": "44 g",
+      "fatContent": "12 g",
+      "proteinContent": "9 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "9.3978825 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "200 г фузили",
+      "1/2  салата Айсберг",
+      "150 г чери домати",
+      "1/2  краставица",
+      "3 с.л. слънчогледови семки",
+      "1/2 връзка пресен лук",
+      "100 г майонеза",
+      "черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Фузилите (200 г) се сваряват в подсолена вода, отцеждат се и се изплакват със студена вода. Зеленчуците се измиват. Салатата Айсберг (1/2 бр) се нарязва или накъсва на едро, краставицата (1/2 бр) се обелва и нарязва на полумесеци, доматите (150 г) се разполовяват, а пресният лук (1/2 връзка) се нарязва на колелца. В дълбока купа се смесват зеленчуците и фузилите. Овкусяват се със сол и черен пипер на вкус и се смесват с майонезата (100 г) и слънчогледовите семки (3 с.л.). "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "фузили",
+      "qty": "200 г",
+      "id": 55
+    },
+    {
+      "name": "салата Айсберг",
+      "qty": "1/2",
+      "id": 87
+    },
+    {
+      "name": "чери домати",
+      "qty": "150 г",
+      "id": 15
+    },
+    {
+      "name": "краставица",
+      "qty": "1/2",
+      "id": 44
+    },
+    {
+      "name": "слънчогледови семки",
+      "qty": "3 с.л.",
+      "id": 147
+    },
+    {
+      "name": "пресен лук",
+      "qty": "1/2 връзка",
+      "id": 24
+    },
+    {
+      "name": "майонеза",
+      "qty": "100 г",
+      "id": 80
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

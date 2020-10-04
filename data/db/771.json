@@ -1,0 +1,138 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печена пълнена свинска плешка с плънка от гъби, моркови, чушки, мед и подправки на фурна под фолио",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pulneno-svinsko-1-[771].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pulneno-svinsko-1-[771].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pulneno-svinsko-1-[771].jpg"
+    ],
+    "datePublished": "2012-04-18",
+    "cookTime": "PT2H0M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "463 calories",
+      "carbohydrateContent": "14 g",
+      "fatContent": "34 g",
+      "proteinContent": "23 g",
+      "saturatedFatContent": "11 g",
+      "unsaturatedFatContent": "18.768225 g",
+      "cholesterolContent": "96 mg"
+    },
+    "recipeIngredient": [
+      "800 г свинска плешка",
+      "4 скилидки чесън",
+      "2 с.л. мед",
+      "1 с.л. горчица",
+      "червен пипер",
+      "черен пипер",
+      "чубрица",
+      "босилек",
+      "джоджен",
+      "мащерка",
+      "1 глава лук",
+      "1  морков",
+      "1  червена чушка",
+      "1  зелена чушка",
+      "3 скилдки чесън",
+      "100 г гъби",
+      "2 с.л. зехтин"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Плънката се приготвя като всички продукти се нарежат на ситно и се задушат в малко зехтин. Свинската плешка се разрязва и се пълни с плънката. Пече се покрита с фолио около час и половина и после още 15-20 минути без фолио до получаване на златист загар."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "свинска плешка",
+      "qty": "800 г",
+      "id": 67
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "мед",
+      "qty": "2 с.л.",
+      "id": 38
+    },
+    {
+      "name": "горчица",
+      "qty": "1 с.л.",
+      "id": 64
+    },
+    {
+      "name": "червен пипер",
+      "qty": "Parsing error",
+      "id": 20
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "чубрица",
+      "qty": "Parsing error",
+      "id": 36
+    },
+    {
+      "name": "босилек",
+      "qty": "Parsing error",
+      "id": 25
+    },
+    {
+      "name": "джоджен",
+      "qty": "Parsing error",
+      "id": 60
+    },
+    {
+      "name": "мащерка",
+      "qty": "Parsing error",
+      "id": 75
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "червена чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "зелена чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "чесън",
+      "qty": "3 скилдки",
+      "id": 6
+    },
+    {
+      "name": "гъби",
+      "qty": "100 г",
+      "id": 37
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    }
+  ]
+}

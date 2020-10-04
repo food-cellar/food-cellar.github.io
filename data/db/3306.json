@@ -1,0 +1,92 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Мексиканска зелена салата с царевица, червен боб, зелена салата, домати и колбас",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/meksikanska-salata-s-carevica-bob-zelena-salata-domati-i-kolbas-1-[3306].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/meksikanska-salata-s-carevica-bob-zelena-salata-domati-i-kolbas-1-[3306].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/meksikanska-salata-s-carevica-bob-zelena-salata-domati-i-kolbas-1-[3306].jpg"
+    ],
+    "datePublished": "2018-07-24",
+    "cookTime": "PT0H10M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "508 calories",
+      "carbohydrateContent": "51 g",
+      "fatContent": "24 g",
+      "proteinContent": "25 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "17.315165 g",
+      "cholesterolContent": "37 mg"
+    },
+    "recipeIngredient": [
+      "300 г царевица",
+      "200 г червен боб",
+      "2  домата",
+      "1 връзка зелена салата",
+      "200 г колбас",
+      "60 мл. олио",
+      "10 мл. лимонов сок",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Зелената салата (1 връзка) се измива лист по лист, подсушава се и се нарязва на едро. Поставя се в купа и към нея се добавят отцедените от консервата царевица (300 г) и червен боб (200 г). Добавят се домати (2 бр), нарязани на кубчета, а също и колбас (200 г), нарязан на ситно. Салатата се овкусява с пресен лимонов сок (10 мл.), олио (60 мл.) и сол на вкус. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Бърза и практична е за обяд в офиса или за предложение за пикник."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Най-апетитен резултат ще постигнете с Деликатесен салам <a href=http://www.azyam.bg/>Аз ям!</a>. С гаранция от <a href=http://www.gradus.bg/>Градус</a>."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "царевица",
+      "qty": "300 г",
+      "id": 78
+    },
+    {
+      "name": "червен боб",
+      "qty": "200 г",
+      "id": 63
+    },
+    {
+      "name": "домата",
+      "qty": "2",
+      "id": 15
+    },
+    {
+      "name": "зелена салата",
+      "qty": "1 връзка",
+      "id": 87
+    },
+    {
+      "name": "колбас",
+      "qty": "200 г",
+      "id": 76
+    },
+    {
+      "name": "олио",
+      "qty": "60 мл.",
+      "id": 4
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "10 мл.",
+      "id": 17
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пилешко филе глазирано в соев сос, кафява захар, оцет и портокалов сок, печено на фурна с гарнитура от броколи на пара и бял ориз",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pileshko-file-glazirano-v-soev-sos-2-[1542].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pileshko-file-glazirano-v-soev-sos-2-[1542].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pileshko-file-glazirano-v-soev-sos-2-[1542].jpg"
+    ],
+    "datePublished": "2011-07-17",
+    "cookTime": "PT0H45M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "311 calories",
+      "carbohydrateContent": "30 g",
+      "fatContent": "3 g",
+      "proteinContent": "40 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.8049125 g",
+      "cholesterolContent": "87 mg"
+    },
+    "recipeIngredient": [
+      "4  пилешки гърди",
+      "4 с.л. соев сос",
+      "3 с.л. кафява захар",
+      "2 скилидки чесън",
+      "2 с.л. бял винен оцет",
+      "100 мл. портокалов сок",
+      "черен пипер",
+      "сол",
+      "1 к.ч. ориз",
+      "3 к.ч. вода",
+      "сол",
+      "1/2 кг броколи"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилешките гърди (4 бр) се разрязват на отделни филета и се постaвят в тавичка. Заливат се със сос, получен от разбитите соев сос (4 с.л.), прясно изцеден портокалов сок (100 мл.), кафява захар (3 с.л.), пресован чесън (2 скилидки), оцет (2 с.л.), черен пипер и сол. Пече се около 40 минути в предварително загрята до 180 градуса фурна. Поднася се горещо с гарнитура от варен ориз и броколи, приготвени на пара."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешки гърди",
+      "qty": "4",
+      "id": 79
+    },
+    {
+      "name": "соев сос",
+      "qty": "4 с.л.",
+      "id": 53
+    },
+    {
+      "name": "кафява захар",
+      "qty": "3 с.л.",
+      "id": 9
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "бял винен оцет",
+      "qty": "2 с.л.",
+      "id": 61
+    },
+    {
+      "name": "портокалов сок",
+      "qty": "100 мл.",
+      "id": 177
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "ориз",
+      "qty": "1 к.ч.",
+      "id": 22
+    },
+    {
+      "name": "вода",
+      "qty": "3 к.ч.",
+      "id": 11
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "броколи",
+      "qty": "1/2 кг",
+      "id": 57
+    }
+  ]
+}

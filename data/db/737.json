@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Патладжанова мусака",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/patladjanova_musaka_1-[737].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/patladjanova_musaka_1-[737].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/patladjanova_musaka_1-[737].jpg"
+    ],
+    "datePublished": "2010-12-11",
+    "cookTime": "PT1H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "428 calories",
+      "carbohydrateContent": "50 g",
+      "fatContent": "19 g",
+      "proteinContent": "18 g",
+      "saturatedFatContent": "5 g",
+      "unsaturatedFatContent": "11.29732 g",
+      "cholesterolContent": "45 mg"
+    },
+    "recipeIngredient": [
+      "5  патладжана",
+      "1 глава лук",
+      "250 г кайма",
+      "2  домата",
+      "2  чушки сиврия",
+      "3 с.л. зехтин",
+      "2 с.л. доматено пюре",
+      "сол",
+      "черен пипер",
+      "1 ч.ч. вода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Патладжаните (5 бр) се нарязват на колелца, осоляват се и се оставят да пуснат горчивия си сок. След това се измиват, подсушават, изпържват в зехтина (3 с.л.) и отцеждат от мазнината. Каймата (250 г) се задушава в горещия зехтин заедно с лука (1 глава) и чушките (2 бр), нарязани на ситно. Щом месото омекне, се добавя доматеното пюре (2 с.л.), готви се 3-5 минути при постоянно разбъркване. Посолява се, подправя се с черен пипер. Добавят се доматите (2 бр), попарени, обелени и нарязани на парченца.  Готви се още 3-4 минути. В тава се редят патладжани, кайма, патладжани, кайма. Най-отгоре трябва да бъде кайма. Налива се вода (1 ч.ч.) и мусаката се пече на фурна, докато течността изври. Може да се поднесе както топла, така и студена. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "патладжана",
+      "qty": "5",
+      "id": 71
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "кайма",
+      "qty": "250 г",
+      "id": 54
+    },
+    {
+      "name": "домата",
+      "qty": "2",
+      "id": 15
+    },
+    {
+      "name": "чушки сиврия",
+      "qty": "2",
+      "id": 18
+    },
+    {
+      "name": "зехтин",
+      "qty": "3 с.л.",
+      "id": 10
+    },
+    {
+      "name": "доматено пюре",
+      "qty": "2 с.л.",
+      "id": 35
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "вода",
+      "qty": "1 ч.ч.",
+      "id": 11
+    }
+  ]
+}

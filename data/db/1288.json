@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Солени бисквити с пресен лук и сусам",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/soleni-biskviti-s-presen-luk-i-susam-2-[1288].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/soleni-biskviti-s-presen-luk-i-susam-2-[1288].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/soleni-biskviti-s-presen-luk-i-susam-2-[1288].jpg"
+    ],
+    "datePublished": "2011-01-15",
+    "cookTime": "PT0H45M",
+    "recipeYield": "25 servings",
+    "recipeCategory": "Хлебни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "136 calories",
+      "carbohydrateContent": "14 g",
+      "fatContent": "7 g",
+      "proteinContent": "2 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "2.6571176 g",
+      "cholesterolContent": "25 mg"
+    },
+    "recipeIngredient": [
+      "450 г брашно",
+      "200 г масло",
+      "150 г пресен лук",
+      "4 с.л. сусам",
+      "1  яйце",
+      "1 щип. сода",
+      "1 ч.л. сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Брашното (450 г), содата (1 щип.) и солта (1 ч.л.) се пресяват в голяма купа. Прибавят се разбитото яйце (1 бр) и мекото масло (200 г). От тези продукти се омесва тесто. Пресният лук (150 г) се измива, почиства и нарязва на тънки колелца. Прибавя се към тестото, заедно със сусама (4 с.л.) и всичко се омесва много добре. Тестото се разточва на кора и с чаша се отрязват кръгли бисквити. Те се слагат в тавичка, на дъното на която е поставена хартия за печене. Бисквитите се пекат за 30 минути при 180 градуса."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "брашно",
+      "qty": "450 г",
+      "id": 7
+    },
+    {
+      "name": "масло",
+      "qty": "200 г",
+      "id": 8
+    },
+    {
+      "name": "пресен лук",
+      "qty": "150 г",
+      "id": 24
+    },
+    {
+      "name": "сусам",
+      "qty": "4 с.л.",
+      "id": 113
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    },
+    {
+      "name": "сода",
+      "qty": "1 щип.",
+      "id": 56
+    },
+    {
+      "name": "сол",
+      "qty": "1 ч.л.",
+      "id": 1
+    }
+  ]
+}

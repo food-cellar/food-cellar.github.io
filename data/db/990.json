@@ -1,0 +1,98 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Кюфте от телешка кайма в гювече по тутракански с яйца и сирене",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/biser1-[990].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/biser1-[990].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/biser1-[990].jpg"
+    ],
+    "datePublished": "2010-10-21",
+    "cookTime": "PT0H40M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "570 calories",
+      "carbohydrateContent": "9 g",
+      "fatContent": "40 g",
+      "proteinContent": "41 g",
+      "saturatedFatContent": "17 g",
+      "unsaturatedFatContent": "19.19439 g",
+      "cholesterolContent": "356 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг телешка кайма",
+      "1 1/2 ч.ч. доматен сок",
+      "4  яйца",
+      "300 г сирене",
+      "1 глава лук",
+      "черен пипер",
+      "сол",
+      "джоджен",
+      "50 мл. олио"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Каймата (1/2 кг) се омесва заедно със сиренето (300 г), солта, <a href=http://www.biseroliva.bg/>олиото Бисер</a> (50 мл.) и черния пипер. Разпределя се в 4 глинени гюведжета. Отгоре се залива с доматения сок (1 1/2 ч.ч.) и ситно нарязания лук (1 глава). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Гювечетата се пекат във фурна и малко преди да станат напълно готови в тях се чуква по едно яйце и се поръсват отгоре с джоджен. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Екипът на 1001 рецепти - сайтът с вкус, издава малката тайна на своята рецепта - <a href=http://www.biseroliva.bg/>олио Бисер</a> - олио на вкус :)"
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "телешка кайма",
+      "qty": "1/2 кг",
+      "id": 134
+    },
+    {
+      "name": "доматен сок",
+      "qty": "1 1/2 ч.ч.",
+      "id": 201
+    },
+    {
+      "name": "яйца",
+      "qty": "4",
+      "id": 5
+    },
+    {
+      "name": "сирене",
+      "qty": "300 г",
+      "id": 32
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "джоджен",
+      "qty": "Parsing error",
+      "id": 60
+    },
+    {
+      "name": "олио",
+      "qty": "50 мл.",
+      "id": 4
+    }
+  ]
+}

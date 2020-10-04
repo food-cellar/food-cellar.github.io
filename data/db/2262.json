@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Запечени картофи с пиле и маслини",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zapecheni-kartofi-s-pile-i-maslini-1-[2262].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zapecheni-kartofi-s-pile-i-maslini-1-[2262].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zapecheni-kartofi-s-pile-i-maslini-1-[2262].jpg"
+    ],
+    "datePublished": "2013-02-01",
+    "cookTime": "PT1H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "371 calories",
+      "carbohydrateContent": "39 g",
+      "fatContent": "9 g",
+      "proteinContent": "30 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "4.973815 g",
+      "cholesterolContent": "70 mg"
+    },
+    "recipeIngredient": [
+      "4  картофа",
+      "400 г пилешки гърди",
+      "1/2 глава червен лук",
+      "40 г маслини",
+      "50 г кашкавал",
+      "1 ч.л. червен пипер",
+      "1 ч.л. розмарин",
+      "2 с.л. зехтин",
+      "сол",
+      "магданоз"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Картофите (4 бр) се обелват, нарязват се на средни по големина кубчета и се сваряват в подсолена вода. През това пилешките гърди (400 г) се нарязват на кубчета и се овкусяват с розмарин (1 ч.л.) и червен пипер (1 ч.л.). Запържват се за кратко в малко зехтин (2 с.л.), заедно с нарязания на ситно червен лук (1/2 глава). Маслините (40 г) се почистват от костилките и се нарязват на парченца. Картофите, пилешкото месо и маслините се смесват и разбъркват. Посоляват се. Поставят се в тавичка и се запичат до пълна готовност на месото. Малко преди да са напълно готови, се поръсват с кашкавал (50 г). Ястието е готово, щом кашкавалът се разтопи. По желание запечените картофи се поръсват със ситно нарязан пресен магданоз. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "картофа",
+      "qty": "4",
+      "id": 16
+    },
+    {
+      "name": "пилешки гърди",
+      "qty": "400 г",
+      "id": 79
+    },
+    {
+      "name": "червен лук",
+      "qty": "1/2 глава",
+      "id": 3
+    },
+    {
+      "name": "маслини",
+      "qty": "40 г",
+      "id": 50
+    },
+    {
+      "name": "кашкавал",
+      "qty": "50 г",
+      "id": 47
+    },
+    {
+      "name": "червен пипер",
+      "qty": "1 ч.л.",
+      "id": 20
+    },
+    {
+      "name": "розмарин",
+      "qty": "1 ч.л.",
+      "id": 77
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "магданоз",
+      "qty": "Parsing error",
+      "id": 12
+    }
+  ]
+}

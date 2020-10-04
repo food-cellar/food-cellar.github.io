@@ -1,0 +1,118 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Руски пелмени с телешка и свинска кайма",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/ruski-pelmeni-s-teleshka-i-svinska-kaima-1-[3142].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/ruski-pelmeni-s-teleshka-i-svinska-kaima-1-[3142].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/ruski-pelmeni-s-teleshka-i-svinska-kaima-1-[3142].jpg"
+    ],
+    "datePublished": "2016-12-20",
+    "cookTime": "PT1H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "636 calories",
+      "carbohydrateContent": "92 g",
+      "fatContent": "16 g",
+      "proteinContent": "27 g",
+      "saturatedFatContent": "5 g",
+      "unsaturatedFatContent": "8.359085 g",
+      "cholesterolContent": "103 mg"
+    },
+    "recipeIngredient": [
+      "2 ч.ч. брашно",
+      "1  яйце",
+      "1/2 ч.ч. вода",
+      "1 с.л. олио",
+      "200 г свинска кайма",
+      "100 г телешка кайма",
+      "1 глава лук",
+      "сол",
+      "черен пипер",
+      "бахар",
+      "2  дафинов лист"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "От брашното (2 ч.ч.), водата (1/2 ч.ч.), яйцето (1 бр) и олиото (1 с.л.) се забърква твърдо тесто и се оставя да почине."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Приготвя се плънката като се смесват свинската (200 г) и телешката кайма (100 г), ситно нарязаният лук (1 глава), сол и пипер. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "От тестото се откъсва малко топче и с точилка се разстила до дебелина 3 мм. С формичка или чашка се изрязват кръгчета с диаметър 5 см. Във всяко кръгче се слага пълнеж и краищата се притискат до получаване на полумесец. Двата края полумесеца се събират и слепват."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Кипва се вода подправена с бахар и дафинов лист. На порции се сваряват пелмените. Варят се докато изплуват на повърността плюс още 5 минути. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Поднасят се със сос по избор."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "брашно",
+      "qty": "2 ч.ч.",
+      "id": 7
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    },
+    {
+      "name": "вода",
+      "qty": "1/2 ч.ч.",
+      "id": 11
+    },
+    {
+      "name": "олио",
+      "qty": "1 с.л.",
+      "id": 4
+    },
+    {
+      "name": "свинска кайма",
+      "qty": "200 г",
+      "id": 54
+    },
+    {
+      "name": "телешка кайма",
+      "qty": "100 г",
+      "id": 134
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "бахар",
+      "qty": "Parsing error",
+      "id": 158
+    },
+    {
+      "name": "дафинов лист",
+      "qty": "2",
+      "id": 70
+    }
+  ]
+}

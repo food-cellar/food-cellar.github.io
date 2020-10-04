@@ -1,0 +1,92 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печен ориз с пуешко месо, лук и гъби на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/oriz-s-pueshko-meso-2-[1836].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/oriz-s-pueshko-meso-2-[1836].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/oriz-s-pueshko-meso-2-[1836].jpg"
+    ],
+    "datePublished": "2011-11-30",
+    "cookTime": "PT1H15M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "431 calories",
+      "carbohydrateContent": "55 g",
+      "fatContent": "5 g",
+      "proteinContent": "36 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "3.02002 g",
+      "cholesterolContent": "75 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг пуешко месо",
+      "4 скилидки чесън",
+      "250 г ориз",
+      "1 глава лук",
+      "бахар",
+      "дафинов лист",
+      "250 г гъби",
+      "2 с.л. зехтин"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пуешкото месо (1/2 кг) се вари около 30-40 минути, заедно с малко чесън, бахар, дафинов лист и сол. Ако се използва тенджера под налягане, готвенето продължава около 15-20 минути. Ако се използват пуешки бутчета, трябва да се варят по дълго, след което трябва да се отстрани месото от кокалите."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "В тиган с малко зехтин (2 с.л.) се задушават нарязаните на ситно лук и чесън. Щом придобият кафяв цвят, се добавя оризът (250 г) и се готви няколко минути, докато зрънцата станат прозрачни. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "В тава се слагат оризът с лука (1 глава), нарязани на ивици гъби (250 г), накъсано сварено пуешко месо и част от пуешкият бульон (в съотношение 3 към 1 спрямо ориза). Пече се на 190 градуса, докато оризът абсорбира течността. Ако не е омекнал, се долива още малко течност и се готви още няколко минути."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пуешко месо",
+      "qty": "1/2 кг",
+      "id": 195
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "ориз",
+      "qty": "250 г",
+      "id": 22
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "бахар",
+      "qty": "Parsing error",
+      "id": 158
+    },
+    {
+      "name": "дафинов лист",
+      "qty": "Parsing error",
+      "id": 70
+    },
+    {
+      "name": "гъби",
+      "qty": "250 г",
+      "id": 37
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    }
+  ]
+}

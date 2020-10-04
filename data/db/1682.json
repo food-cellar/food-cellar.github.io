@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Коктейл White Heather",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kokteil--1-[1682].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kokteil--1-[1682].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kokteil--1-[1682].jpg"
+    ],
+    "datePublished": "2013-02-17",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Коктейли",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "346 calories",
+      "carbohydrateContent": "13 g",
+      "fatContent": "18 g",
+      "proteinContent": "1 g",
+      "saturatedFatContent": "11 g",
+      "unsaturatedFatContent": "5.5357 g",
+      "cholesterolContent": "67 mg"
+    },
+    "recipeIngredient": [
+      "30 мл. уиски",
+      "30 мл. ликьор банан",
+      "30 мл. ликьор какао",
+      "60 мл. течна сметана",
+      "1/2 ч.л. канела"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "В шейкър се разбиват уискито (30 мл.), ликьорът банан (30 мл.) и ликьорът какао (30 мл.). Течността се сипва в коктейлна чаша и се долива течна сметана. Разбърква се добре и отгоре се поръсва с канела. Коктейлът се сервира, украсен с пръчица канела."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "уиски",
+      "qty": "30 мл.",
+      "id": 206
+    },
+    {
+      "name": "ликьор банан",
+      "qty": "30 мл.",
+      "id": 27
+    },
+    {
+      "name": "ликьор какао",
+      "qty": "30 мл.",
+      "id": 172
+    },
+    {
+      "name": "течна сметана",
+      "qty": "60 мл.",
+      "id": 19
+    },
+    {
+      "name": "канела",
+      "qty": "1/2 ч.л.",
+      "id": 46
+    }
+  ]
+}

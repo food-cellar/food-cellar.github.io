@@ -1,0 +1,88 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пастет от сьомга, крем сирене, майонеза, чесън, лимонов сок и черен пипер",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pastet-ot-sioomga-krem-sirene-maioneza-chesun-limonov-sok-i-cheren-piper-1-[3355].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pastet-ot-sioomga-krem-sirene-maioneza-chesun-limonov-sok-i-cheren-piper-1-[3355].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pastet-ot-sioomga-krem-sirene-maioneza-chesun-limonov-sok-i-cheren-piper-1-[3355].jpg"
+    ],
+    "datePublished": "2019-02-26",
+    "cookTime": "PT0H10M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "148 calories",
+      "carbohydrateContent": "2 g",
+      "fatContent": "10 g",
+      "proteinContent": "11 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "4.523765 g",
+      "cholesterolContent": "44 mg"
+    },
+    "recipeIngredient": [
+      "300 г сьомга",
+      "100 г крема сирене",
+      "50 г майонеза",
+      "1 скилидка чесън",
+      "1  лимон",
+      "1/2 връзка копър",
+      "сол",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Сьомгата (50 г) се приготвя на пара или се сварява, след което се обезкостява, намачква се и към нея се добавят крем сиренето (100 г), майонезата (50 г), сокът на лимона, солта, черния пипер и счуканият чесън (1 скилидка). Всичко се разбърква и леко се намачква."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Полученият рибен пастет се оставя в хладилник. Консумира се като разядка или намазан върху препечени филийки."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "сьомга",
+      "qty": "300 г",
+      "id": 114
+    },
+    {
+      "name": "крема сирене",
+      "qty": "100 г",
+      "id": 103
+    },
+    {
+      "name": "майонеза",
+      "qty": "50 г",
+      "id": 80
+    },
+    {
+      "name": "чесън",
+      "qty": "1 скилидка",
+      "id": 6
+    },
+    {
+      "name": "лимон",
+      "qty": "1",
+      "id": 43
+    },
+    {
+      "name": "копър",
+      "qty": "1/2 връзка",
+      "id": 28
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

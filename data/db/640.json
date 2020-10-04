@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Скариди със сирене и домати",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/skaridi_sus_sirene_2-[640].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/skaridi_sus_sirene_2-[640].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/skaridi_sus_sirene_2-[640].jpg"
+    ],
+    "datePublished": "2010-11-03",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "358 calories",
+      "carbohydrateContent": "6 g",
+      "fatContent": "33 g",
+      "proteinContent": "10 g",
+      "saturatedFatContent": "17 g",
+      "unsaturatedFatContent": "13.74048 g",
+      "cholesterolContent": "110 mg"
+    },
+    "recipeIngredient": [
+      "12  скариди",
+      "2 ч.ч. домати",
+      "300 г сирене фета",
+      "4 с.л. зехтин",
+      "магданоз",
+      "сол",
+      "черен пипер",
+      "2 скилидки чесън"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Скаридите (12 бр) се измиват и почистват. По желание - главите им могат да се отстранят, но ястието стои по-ефектно, ако това не се направи. Бланшират се за 2 минути във вряща подсолена вода. Доматите (2 ч.ч.) се пасират и се оставят на котлона да поврят 3-4 минути. Прибавят се зехтинът (4 с.л.), солта и черният пипер. Сосът ври още 1 минута. Прибавя се пасираното сирене (300 г), разбърква се и сосът ври още 1 минута. Прибавя се счуканият чесън (2 скилидки) и се разбърква. Слагат се отцедените скариди и ястието ври на тих огън още 3 минути. При необходимост може да се добави малко вода. Ястието се поднася топло, декорирано с пресен магданоз."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "скариди",
+      "qty": "12",
+      "id": 104
+    },
+    {
+      "name": "домати",
+      "qty": "2 ч.ч.",
+      "id": 15
+    },
+    {
+      "name": "сирене фета",
+      "qty": "300 г",
+      "id": 150
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "магданоз",
+      "qty": "Parsing error",
+      "id": 12
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    }
+  ]
+}

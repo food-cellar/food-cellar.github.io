@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пържени пилешки крилца без мазнина с хрупкава коричка и билки в AirFryer",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/purjeni-pileshki-krilca-bez-maznina-s-hrupkava-korichka-i-bilki-2-[3249].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/purjeni-pileshki-krilca-bez-maznina-s-hrupkava-korichka-i-bilki-2-[3249].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/purjeni-pileshki-krilca-bez-maznina-s-hrupkava-korichka-i-bilki-2-[3249].jpg"
+    ],
+    "datePublished": "2017-11-13",
+    "cookTime": "PT0H40M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "227 calories",
+      "carbohydrateContent": "2 g",
+      "fatContent": "15 g",
+      "proteinContent": "18 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "9.2566025 g",
+      "cholesterolContent": "75 mg"
+    },
+    "recipeIngredient": [
+      "8  пилешки крилца",
+      "4 с.л. доматено пюре",
+      "1 ч.л. горчица",
+      "1 ч.л. мед",
+      "1 щип. риган",
+      "1 щип. босилек",
+      "1 щип. кимион",
+      "1 щип. черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Суровите пилешки крилца (8 бр) се намазват със смес от разбитите старателно до получаване на хомогенна смес доматено пюре (4 с.л.), горчица (1 ч.л.), мед (1 ч.л.), сух риган (1 щип.), сух босилек (1 щип.), кимион (1 щип.), черен пипер (1 щип.) и сол. Поставят се върху решетката на <a href=http://www.philips.bg/c-m-ho/cooking/fritiurnik-airfryer.html?origin=5_bg_bg_airfryer_1001recipes____recipe3>AirFryer</a> на Philips и уредът се включва на 200 градуса за 35 минути. Хрупкавите пилешки крилца се готвят без никаква мазнина и се сервират със свежа салата според сезона. Не са сухи, а сочни отвътре, а коричката им, заради технологията на изпичане, остава хрупкава."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешки крилца",
+      "qty": "8",
+      "id": 197
+    },
+    {
+      "name": "доматено пюре",
+      "qty": "4 с.л.",
+      "id": 35
+    },
+    {
+      "name": "горчица",
+      "qty": "1 ч.л.",
+      "id": 64
+    },
+    {
+      "name": "мед",
+      "qty": "1 ч.л.",
+      "id": 38
+    },
+    {
+      "name": "риган",
+      "qty": "1 щип.",
+      "id": 65
+    },
+    {
+      "name": "босилек",
+      "qty": "1 щип.",
+      "id": 25
+    },
+    {
+      "name": "кимион",
+      "qty": "1 щип.",
+      "id": 42
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 щип.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

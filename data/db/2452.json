@@ -1,0 +1,94 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Телешки език в доматен сос",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/teleshki-ezik-v-domaten-sos-1-[2452].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/teleshki-ezik-v-domaten-sos-1-[2452].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/teleshki-ezik-v-domaten-sos-1-[2452].jpg"
+    ],
+    "datePublished": "2013-04-15",
+    "cookTime": "PT2H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "232 calories",
+      "carbohydrateContent": "12 g",
+      "fatContent": "7 g",
+      "proteinContent": "28 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "3.7580275 g",
+      "cholesterolContent": "98 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг телешки език",
+      "1 глава лук",
+      "1 скилидка чесън",
+      "1/2 л. доматен сос",
+      "2 с.л. зехтин",
+      "сол",
+      "черен пипер",
+      "босилек",
+      "2  дафинов лист"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Телешкият език (1/2 кг) се измива и сварява в подсолена вода с дафинов лист (2 бр). Ако се използва тенджера под налягане, варенето продължава 45-50 минути. В нормална тенджера - около час и половина. Щом се охлади, така че да може да се пипа без да пари, се обелва и нарязва на ивици от около половин сантиметър. Ако изстине прекалено много, обелването става по-трудно."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "В тиган се загрява зехтин и се запържва ситно нарязан лук (1 глава). Добавя се и наситнен чесън (1 скилидка). Щом добият кафеникав цвят, се добавят парчетата език и част от бульонът, в който се е варил. Добавя се и доматеното пюре (1/2 л.) и се готви на тих огън около 15-20 минути. Овкусява се със сол, черен пипер и босилек."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "телешки език",
+      "qty": "1/2 кг",
+      "id": 110
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "чесън",
+      "qty": "1 скилидка",
+      "id": 6
+    },
+    {
+      "name": "доматен сос",
+      "qty": "1/2 л.",
+      "id": 86
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "босилек",
+      "qty": "Parsing error",
+      "id": 25
+    },
+    {
+      "name": "дафинов лист",
+      "qty": "2",
+      "id": 70
+    }
+  ]
+}

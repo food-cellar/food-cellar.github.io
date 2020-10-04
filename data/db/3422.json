@@ -1,0 +1,92 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Коктейл ягодово Дайкири с пресни плодове, бял ром и ягодов ликьор",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kokteil-iagodovo-daikiri-s-presni-plodove-bial-rom-i-iagodov-likioor-1-[3422].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kokteil-iagodovo-daikiri-s-presni-plodove-bial-rom-i-iagodov-likioor-1-[3422].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kokteil-iagodovo-daikiri-s-presni-plodove-bial-rom-i-iagodov-likioor-1-[3422].jpg"
+    ],
+    "datePublished": "2020-04-25",
+    "cookTime": "PT0H5M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Коктейли",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "175 calories",
+      "carbohydrateContent": "18 g",
+      "fatContent": "0 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.16618666666667 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг ягоди",
+      "1  лимон",
+      "200 мл. бял ром",
+      "100 мл. ягодов ликьор",
+      "4 с.л. пудра захар",
+      "15 бучки  лед"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Най-напред пресните ягоди (1/2 кг) се измиват старателно и листенцата им се отстраняват. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Лимонът се изцежда и при необходимост се използва втори - целта е да се извадят 80 мл пресен лимонов сок от лимона. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "В мощен блендер, който може да раздроби леда, се поставят всички продукти - пресните ягоди, лимоновият сок, белият ром (200 мл.), ягодовият ликьор (100 мл.), пудрата захар (4 с.л.) и ледът (15 бучки). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Уердът се включва с максимална мощност за една минута, докато се образува пяна на повърхността на каната и ледът е станал на ситни парченца. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Екипът на 1001 рецепти препоръчва <a href=https://www.bosch-home.bg/productlist/kitchen-tools/blenders/MMB66G7M>блендер Bosch Silent Mixx Pro</a>, който има функция за разбиване на лед и в който могат да се приготвят както малки, така и големи количества от този коктейл. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Ягодовото Дайкири се сервира в подходящи чаши веднага след като се приготви. По желание се декорира с пресни ягоди. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "ягоди",
+      "qty": "1/2 кг",
+      "id": 109
+    },
+    {
+      "name": "лимон",
+      "qty": "1",
+      "id": 43
+    },
+    {
+      "name": "бял ром",
+      "qty": "200 мл.",
+      "id": 74
+    },
+    {
+      "name": "ягодов ликьор",
+      "qty": "100 мл.",
+      "id": 172
+    },
+    {
+      "name": "пудра захар",
+      "qty": "4 с.л.",
+      "id": 34
+    },
+    {
+      "name": "лед",
+      "qty": "15 бучки",
+      "id": 11
+    }
+  ]
+}

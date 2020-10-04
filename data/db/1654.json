@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Коктейл Зелени очи (Green Eyes)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kokteil-zeleni-ochi--3-[1654].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kokteil-zeleni-ochi--3-[1654].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kokteil-zeleni-ochi--3-[1654].jpg"
+    ],
+    "datePublished": "2013-02-17",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Коктейли",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "219 calories",
+      "carbohydrateContent": "18 g",
+      "fatContent": "5 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "0.07821 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "30 мл. ром",
+      "20 мл. ликьор пъпеш",
+      "15 мл. сок от лайм",
+      "15 мл. кокосова сметана",
+      "50 мл. сок от ананас",
+      "1  коктейлна черешка"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "В шейкър се разбъркват ромът (30 мл.), ликьорът от пъпеш (20 мл.), сокът от лайм (15 мл.), кокосовата сметана (15 мл.) и сокът от ананас (50 мл.). Коктейлът се изсипва в коктейлна чаша с лед. Украсява се с коктейлна черешка и резен ананас."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "ром",
+      "qty": "30 мл.",
+      "id": 74
+    },
+    {
+      "name": "ликьор пъпеш",
+      "qty": "20 мл.",
+      "id": 172
+    },
+    {
+      "name": "сок от лайм",
+      "qty": "15 мл.",
+      "id": 212
+    },
+    {
+      "name": "кокосова сметана",
+      "qty": "15 мл.",
+      "id": 100
+    },
+    {
+      "name": "сок от ананас",
+      "qty": "50 мл.",
+      "id": 213
+    },
+    {
+      "name": "коктейлна черешка",
+      "qty": "1",
+      "id": 126
+    }
+  ]
+}

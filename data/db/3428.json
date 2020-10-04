@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пролетни пълнени зелени чушки с яйца и сирене на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/proletni-pulneni-zeleni-chushki-s-iaica-i-sirene-na-furna-1-[3428].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/proletni-pulneni-zeleni-chushki-s-iaica-i-sirene-na-furna-1-[3428].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/proletni-pulneni-zeleni-chushki-s-iaica-i-sirene-na-furna-1-[3428].jpg"
+    ],
+    "datePublished": "2020-05-08",
+    "cookTime": "PT0H45M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "638 calories",
+      "carbohydrateContent": "24 g",
+      "fatContent": "48 g",
+      "proteinContent": "29 g",
+      "saturatedFatContent": "25 g",
+      "unsaturatedFatContent": "19.2974025 g",
+      "cholesterolContent": "321 mg"
+    },
+    "recipeIngredient": [
+      "8  зелени чушки",
+      "4  яйца",
+      "600 г сирене",
+      "50 мл. олио",
+      "4 скилидки  чесън",
+      "1/2 връзка магданоз",
+      "1  домат"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Най-напред чушките (8 бр) се измиват старателно и се почистват от дръжките и семките. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Приготвя се плънката, като се натрошава сиренето (600 г) и се смесва с разбитите яйца (4 бр), ситно накълцания магданоз (1/2 връзка) и пресования чесън (4 скилидки). Добавя се олиото (50 мл.) и всичко се разбърква старателно до получаването на хомогенна смес. Не се добавя сол, защото сиренето е достатъчно солено. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "С получената плънка се пълнят чушките и се запушват с парче домат, за да не изтича плънката при печене. Подреждат се в тава и се поставят във фурна при 180 градуса, докато покафенеят, а това отнема около 35-40 минути."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Сервират се топли, но и студени са чудесни на вкус. По желание могат да се залеят със сос Бешамел. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "зелени чушки",
+      "qty": "8",
+      "id": 18
+    },
+    {
+      "name": "яйца",
+      "qty": "4",
+      "id": 5
+    },
+    {
+      "name": "сирене",
+      "qty": "600 г",
+      "id": 32
+    },
+    {
+      "name": "олио",
+      "qty": "50 мл.",
+      "id": 4
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "магданоз",
+      "qty": "1/2 връзка",
+      "id": 12
+    },
+    {
+      "name": "домат",
+      "qty": "1",
+      "id": 15
+    }
+  ]
+}

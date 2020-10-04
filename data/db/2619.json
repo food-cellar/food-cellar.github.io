@@ -1,0 +1,108 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Телешки  винен кебап с гарнитура от картофено пюре",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/teleshki-vinen-kebap-s-garnitura-ot-kartofeno-pure-2-[2619].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/teleshki-vinen-kebap-s-garnitura-ot-kartofeno-pure-2-[2619].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/teleshki-vinen-kebap-s-garnitura-ot-kartofeno-pure-2-[2619].jpg"
+    ],
+    "datePublished": "2013-07-09",
+    "cookTime": "PT0H50M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "582 calories",
+      "carbohydrateContent": "68 g",
+      "fatContent": "7 g",
+      "proteinContent": "50 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "2.9559925 g",
+      "cholesterolContent": "159 mg"
+    },
+    "recipeIngredient": [
+      "800 г телешко месо",
+      "3 глави лук",
+      "2 стръка праз",
+      "1 ч.ч. червено вино",
+      "2 с.л. брашно",
+      "4 с.л. доматено пюре",
+      "3  дафинови листа",
+      "2 щип. черен пипер",
+      "1 с.л. червен пипер",
+      "1 кг картофи",
+      "1 к.ч. прясно мляко",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Телешкото месо (800 г) се нарязва на хапки, лукът (3 глави) на полумесеци, а празът (2 стръка) - на колелца. Месото и лукът се задушават, докато омекнат. Заливат се с вода, колкото да се покрие месото, и варенето продължава до полуомекване на телешкото, около час. Прибавят се червеното вино (1 ч.ч.), брашното (2 с.л.), размито в доматеното пюре (4 с.л.), и подправките. Ястието се вари до готовност, като от време на време се разбърква. Сервира се с гарнитура от картофено пюре, приготвено от варени картофи (1 кг), пасирани с прясно мляко (1 к.ч.) и овкусени със сол."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "телешко месо",
+      "qty": "800 г",
+      "id": 110
+    },
+    {
+      "name": "лук",
+      "qty": "3 глави",
+      "id": 3
+    },
+    {
+      "name": "праз",
+      "qty": "2 стръка",
+      "id": 51
+    },
+    {
+      "name": "червено вино",
+      "qty": "1 ч.ч.",
+      "id": 98
+    },
+    {
+      "name": "брашно",
+      "qty": "2 с.л.",
+      "id": 7
+    },
+    {
+      "name": "доматено пюре",
+      "qty": "4 с.л.",
+      "id": 35
+    },
+    {
+      "name": "дафинови листа",
+      "qty": "3",
+      "id": 70
+    },
+    {
+      "name": "черен пипер",
+      "qty": "2 щип.",
+      "id": 2
+    },
+    {
+      "name": "червен пипер",
+      "qty": "1 с.л.",
+      "id": 20
+    },
+    {
+      "name": "картофи",
+      "qty": "1 кг",
+      "id": 16
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "1 к.ч.",
+      "id": 14
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

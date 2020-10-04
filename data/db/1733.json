@@ -1,0 +1,88 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Картофена супа със сметанова застройка",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kartofena-supa-sus-smetanova-zastroika-2-[1733].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kartofena-supa-sus-smetanova-zastroika-2-[1733].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kartofena-supa-sus-smetanova-zastroika-2-[1733].jpg"
+    ],
+    "datePublished": "2011-10-18",
+    "cookTime": "PT1H0M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "160 calories",
+      "carbohydrateContent": "34 g",
+      "fatContent": "1 g",
+      "proteinContent": "4 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.15730833333333 g",
+      "cholesterolContent": "2 mg"
+    },
+    "recipeIngredient": [
+      "1 кг картофи",
+      "1  морков",
+      "1 глава лук",
+      "сол",
+      "чубрица",
+      "1  домат",
+      "2 с.л. заквасена сметана",
+      "1 с.л. брашно"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Картофите (1 кг) се обелват, нарязват се на кубчета и се слагат в тенджера с вряща вода. Овкусяват се със сол и чубрица. Морковът (1 бр) се нарязва на кубчета и се слага при картофите. Лукът (1 глава) се обелва и цялата глава се слага да ври. Малко преди да е готова супата, лукът се изважда и се добавя настърганият домат (1 бр)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Част от течността се слага в отделна купичка, заедно със сметаната (2 с.л.) и брашното (1 с.л.). Разбърква се добре и се изсипва в тенджерата. Готви се още 5-6 минути и се сваля от огъня."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "картофи",
+      "qty": "1 кг",
+      "id": 16
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "чубрица",
+      "qty": "Parsing error",
+      "id": 36
+    },
+    {
+      "name": "домат",
+      "qty": "1",
+      "id": 15
+    },
+    {
+      "name": "заквасена сметана",
+      "qty": "2 с.л.",
+      "id": 73
+    },
+    {
+      "name": "брашно",
+      "qty": "1 с.л.",
+      "id": 7
+    }
+  ]
+}

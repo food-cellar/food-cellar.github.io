@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пълнен патладжан с моцарела на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pulnen-patladjan-3-[579].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pulnen-patladjan-3-[579].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pulnen-patladjan-3-[579].jpg"
+    ],
+    "datePublished": "2010-11-05",
+    "cookTime": "PT0H30M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "419 calories",
+      "carbohydrateContent": "39 g",
+      "fatContent": "22 g",
+      "proteinContent": "18 g",
+      "saturatedFatContent": "9 g",
+      "unsaturatedFatContent": "10.571315 g",
+      "cholesterolContent": "49 mg"
+    },
+    "recipeIngredient": [
+      "1  патладжан",
+      "6 с.л. доматено пюре",
+      "125 г моцарела",
+      "2 с.л. зехтин",
+      "2 скилидки чесън",
+      "50 г крутони",
+      "риган",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Патладжанът се разрязва на две по дължина и вътрешността му се издълбава. Получените лодки, след като са били осолении са пуснали сока си, се измиват и подсушават. Намазват се със зехтин (2 с.л.) и се натъркват с разрязаните наполовина скилидки чесън (2 скилидки). Пълнят се с доматено пюре (6 с.л.), отгоре се нарежда моцарела (125 г), нарязана на кубчета. Добавят се крутони и и се поръсва с чубрица. Ястието се пече 30 мин при 200 градуса."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "патладжан",
+      "qty": "1",
+      "id": 71
+    },
+    {
+      "name": "доматено пюре",
+      "qty": "6 с.л.",
+      "id": 35
+    },
+    {
+      "name": "моцарела",
+      "qty": "125 г",
+      "id": 93
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "крутони",
+      "qty": "50 г",
+      "id": 139
+    },
+    {
+      "name": "риган",
+      "qty": "Parsing error",
+      "id": 65
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

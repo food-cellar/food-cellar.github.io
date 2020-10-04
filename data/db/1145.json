@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Традиционна бобена салата с моркови, печени чушки и доматено пюре",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/bobena-salata-s-morkovi-i-chushki-1-[1145].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/bobena-salata-s-morkovi-i-chushki-1-[1145].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/bobena-salata-s-morkovi-i-chushki-1-[1145].jpg"
+    ],
+    "datePublished": "2010-11-23",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "446 calories",
+      "carbohydrateContent": "79 g",
+      "fatContent": "4 g",
+      "proteinContent": "26 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "2.8370925 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "2 ч.ч. боб",
+      "4  печени чушки",
+      "2  моркова",
+      "1/2 ч.ч. доматено пюре",
+      "1 глава червен лук",
+      "5 стръкчета магданоз",
+      "2 с.л. зехтин",
+      "черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Бобът (2 ч.ч.) се сварява и към него се прибавят нарязаните на колелца моркови (2 бр). Когато омекнат, зеленчуците се отцеждат и смесват с нарязаните на дребни парченца печени белени червени чушки (4 бр) и задушеният в зехтин (2 с.л.) лук (1 глава). Салатата се овкусява с подправките и ситно нарязания магданоз (5 стръкчета)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "боб",
+      "qty": "2 ч.ч.",
+      "id": 63
+    },
+    {
+      "name": "печени чушки",
+      "qty": "4",
+      "id": 18
+    },
+    {
+      "name": "моркова",
+      "qty": "2",
+      "id": 13
+    },
+    {
+      "name": "доматено пюре",
+      "qty": "1/2 ч.ч.",
+      "id": 35
+    },
+    {
+      "name": "червен лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "магданоз",
+      "qty": "5 стръкчета",
+      "id": 12
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

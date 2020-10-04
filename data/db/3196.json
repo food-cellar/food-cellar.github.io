@@ -1,0 +1,98 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пържени кюфтета на тиган",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/purjeni-kufteta-na-tigan-1-[3196].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/purjeni-kufteta-na-tigan-1-[3196].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/purjeni-kufteta-na-tigan-1-[3196].jpg"
+    ],
+    "datePublished": "2017-04-11",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "917 calories",
+      "carbohydrateContent": "8 g",
+      "fatContent": "77 g",
+      "proteinContent": "45 g",
+      "saturatedFatContent": "22 g",
+      "unsaturatedFatContent": "48.06328 g",
+      "cholesterolContent": "228 mg"
+    },
+    "recipeIngredient": [
+      "1 кг кайма",
+      "1 глава лук",
+      "1  яйце",
+      "1 филия хляб",
+      "5 с.л. прясно мляко",
+      "1 щип. черен пипер",
+      "1 щип. кимион",
+      "1 щип. сол",
+      "100 мл. олио"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Хлябът (1 филия) се накисва в прясното мляко (5 с.л.). Раздробява се на малки мокри трохи и се добавя към каймата (1 кг). Суровото яйце (1 бр) и ситно нарязаният лук (1 глава) също се добавят в каймата, заедно с подправките - черен пипер (1 щип.), кимион (1 щип.) и сол (1 щип.) на вкус, и всичко се омесва добре. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Каймата се завива с фолио и се поставя в хладилника за половин час, докато ароматите се смесят. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "След това охладената кайма се разделя на малки и еднакви по размер топчета, от които с мокри ръце се оформят кюфтета. Пържат се от двете страни до готовност в нагорещено олио (100 мл.)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "кайма",
+      "qty": "1 кг",
+      "id": 54
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    },
+    {
+      "name": "хляб",
+      "qty": "1 филия",
+      "id": 66
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "5 с.л.",
+      "id": 14
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 щип.",
+      "id": 2
+    },
+    {
+      "name": "кимион",
+      "qty": "1 щип.",
+      "id": 42
+    },
+    {
+      "name": "сол",
+      "qty": "1 щип.",
+      "id": 1
+    },
+    {
+      "name": "олио",
+      "qty": "100 мл.",
+      "id": 4
+    }
+  ]
+}

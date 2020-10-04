@@ -1,0 +1,74 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Байганети със сирене/кашкавал/пилешко месо панирани в паста ",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/baiganeti-sus-sirene-kashkaval-pileshko-meso-panirani-v-pasta-1-[3146].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/baiganeti-sus-sirene-kashkaval-pileshko-meso-panirani-v-pasta-1-[3146].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/baiganeti-sus-sirene-kashkaval-pileshko-meso-panirani-v-pasta-1-[3146].jpg"
+    ],
+    "datePublished": "2016-12-31",
+    "cookTime": "PT0H45M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "404 calories",
+      "carbohydrateContent": "33 g",
+      "fatContent": "19 g",
+      "proteinContent": "18 g",
+      "saturatedFatContent": "12 g",
+      "unsaturatedFatContent": "5.048245 g",
+      "cholesterolContent": "207 mg"
+    },
+    "recipeIngredient": [
+      "300 г сирене",
+      "150 г брашно",
+      "200 мл. бира",
+      "3  яйца",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Жълтъците се отделят от белтъците и се разбиват с бирата. Добавя се брашното на порции при постоянно бъркане, докато се получи еднородна смес. Белтъците се разбиват на сняг и с лъжица се добавят към жълтъчената смес. Овкусява се със сол."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Кравето сирене се нарязва на кубчета. Потапя се в панировката и се пържи в предварително сгорещена мазнина или фритюрник. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "По този начин може да се приготвят и байганети с кашкавал, моцарела или пилешко месо."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "сирене",
+      "qty": "300 г",
+      "id": 32
+    },
+    {
+      "name": "брашно",
+      "qty": "150 г",
+      "id": 7
+    },
+    {
+      "name": "бира",
+      "qty": "200 мл.",
+      "id": 137
+    },
+    {
+      "name": "яйца",
+      "qty": "3",
+      "id": 5
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

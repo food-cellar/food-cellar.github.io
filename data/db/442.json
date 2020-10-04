@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата от червено зеле, ориз и царевица",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata_minzuhar_2-[442].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata_minzuhar_2-[442].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata_minzuhar_2-[442].jpg"
+    ],
+    "datePublished": "2010-12-12",
+    "cookTime": "PT0H15M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "193 calories",
+      "carbohydrateContent": "36 g",
+      "fatContent": "3 g",
+      "proteinContent": "4 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "2.47141 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "100 г червено зеле",
+      "70 г ориз",
+      "50 г царевица",
+      "1 скилидка чесън",
+      "6 стръка копър",
+      "сол",
+      "черен пипер",
+      "индийско орехче",
+      "1 с.л. олио",
+      "1 с.л. лимонов сок"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Червеното зеле (100 г) се нарязва на тънки ленти. Бланшира се във вряща подсолена вода и се отцежда. Оризът (70 г) се сварява в подсолена вода и се отцежда. Чесънът (1 скилидка) се счуква със сол. Копърът (6 стръка) се нарязва на ситно. Всички пордукти се смесват и овкусяват с посочените подправки, лимоновия сок и олиото."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "червено зеле",
+      "qty": "100 г",
+      "id": 288
+    },
+    {
+      "name": "ориз",
+      "qty": "70 г",
+      "id": 22
+    },
+    {
+      "name": "царевица",
+      "qty": "50 г",
+      "id": 78
+    },
+    {
+      "name": "чесън",
+      "qty": "1 скилидка",
+      "id": 6
+    },
+    {
+      "name": "копър",
+      "qty": "6 стръка",
+      "id": 28
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "индийско орехче",
+      "qty": "Parsing error",
+      "id": 120
+    },
+    {
+      "name": "олио",
+      "qty": "1 с.л.",
+      "id": 4
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    }
+  ]
+}

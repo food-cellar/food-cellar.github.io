@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Бутер ролца с лук и стафиди",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/buter-rolca-s-luk-i-stafidi-2-[1237].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/buter-rolca-s-luk-i-stafidi-2-[1237].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/buter-rolca-s-luk-i-stafidi-2-[1237].jpg"
+    ],
+    "datePublished": "2011-01-15",
+    "cookTime": "PT0H40M",
+    "recipeYield": "12 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "289 calories",
+      "carbohydrateContent": "23 g",
+      "fatContent": "20 g",
+      "proteinContent": "4 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "14.176741666667 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "450 г бутер тесто",
+      "1 връзка пресен лук",
+      "1 глава лук",
+      "1 к.ч. стафиди",
+      "1 к.ч. орехи",
+      "2 с.л. захар",
+      "2 с.л. маково семе",
+      "3 с.л. зехтин"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Двата вида лук се нарязват наситно и се се запържват в зехтин (3 с.л.) до омекване. Към тях се прибавят ситно накълцаните стафиди (1 к.ч.) и захарта (2 с.л.). Сместа се разбърква много добре. Накрая се прибавят смлените орехи (1 к.ч.) и получената смес се разпределя върху правоъгълно парче бутер тесто (450 г). Навива се на руло и се реже на парчета. Всяко резенче се натиска с пръсти и се поставя в тавичка. Рулцата се поръсват с маково семе (2 с.л.) и се изпичат до златисто. Поднасят се топли, но и студени са неповторими на вкус."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "бутер тесто",
+      "qty": "450 г",
+      "id": 117
+    },
+    {
+      "name": "пресен лук",
+      "qty": "1 връзка",
+      "id": 24
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "стафиди",
+      "qty": "1 к.ч.",
+      "id": 69
+    },
+    {
+      "name": "орехи",
+      "qty": "1 к.ч.",
+      "id": 31
+    },
+    {
+      "name": "захар",
+      "qty": "2 с.л.",
+      "id": 9
+    },
+    {
+      "name": "маково семе",
+      "qty": "2 с.л.",
+      "id": 182
+    },
+    {
+      "name": "зехтин",
+      "qty": "3 с.л.",
+      "id": 10
+    }
+  ]
+}

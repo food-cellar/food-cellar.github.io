@@ -1,0 +1,100 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Гарнитура за риба с резене (фенел), целина, лук и сметана",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/garnitura-za-riba-s-rezene-i-celina-1-[1165].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/garnitura-za-riba-s-rezene-i-celina-1-[1165].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/garnitura-za-riba-s-rezene-i-celina-1-[1165].jpg"
+    ],
+    "datePublished": "2010-11-27",
+    "cookTime": "PT0H20M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Гарнитури",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "162 calories",
+      "carbohydrateContent": "11 g",
+      "fatContent": "8 g",
+      "proteinContent": "2 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "3.4325533333333 g",
+      "cholesterolContent": "20 mg"
+    },
+    "recipeIngredient": [
+      "2 глави резене",
+      "2 глави лук",
+      "4 стръка целина",
+      "4 скилидки чесън",
+      "2 с.л. зехтин",
+      "2 с.л. масло",
+      "6 с.л. сметана",
+      "1 к.ч. мляко",
+      "1 ч.ч. бяло вино",
+      "2 с.л. мастика"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Резенето (2 глави) и лукът (2 глави) се нарязват на ивици. Целината (4 стръка) се нарязва на ситно. Чесънът (4 скилидки) се смачква. Всички зеленчуци се запържват в зехтин (2 с.л.) и масло (2 с.л.) до получаване на златист цвят. Добавя се бялото вино (1 ч.ч.) и мастиката (2 с.л.) и се оставя да къкри. Когато течноста намалее се довят млякокто (1 к.ч.) и сметаната (6 с.л.). Овкусява се със сол и пипер и се оставя да покърки 5-10 минути."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Тази гарнитура е идеална за риба и бяло месо."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "резене",
+      "qty": "2 глави",
+      "id": 299
+    },
+    {
+      "name": "лук",
+      "qty": "2 глави",
+      "id": 3
+    },
+    {
+      "name": "целина",
+      "qty": "4 стръка",
+      "id": 30
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "масло",
+      "qty": "2 с.л.",
+      "id": 8
+    },
+    {
+      "name": "сметана",
+      "qty": "6 с.л.",
+      "id": 19
+    },
+    {
+      "name": "мляко",
+      "qty": "1 к.ч.",
+      "id": 14
+    },
+    {
+      "name": "бяло вино",
+      "qty": "1 ч.ч.",
+      "id": 41
+    },
+    {
+      "name": "мастика",
+      "qty": "2 с.л.",
+      "id": 337
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пене със сос от червени чушки и сирене",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pene-sus-sos-ot-cherveni-chushki-i-sirene-1-[2323].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pene-sus-sos-ot-cherveni-chushki-i-sirene-1-[2323].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pene-sus-sos-ot-cherveni-chushki-i-sirene-1-[2323].jpg"
+    ],
+    "datePublished": "2013-02-17",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "592 calories",
+      "carbohydrateContent": "100 g",
+      "fatContent": "10 g",
+      "proteinContent": "21 g",
+      "saturatedFatContent": "5 g",
+      "unsaturatedFatContent": "3.387975 g",
+      "cholesterolContent": "119 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг пене",
+      "3  червени чушки",
+      "50 г сирене",
+      "2  яйца",
+      "2 скилидки чесън",
+      "50 мл. сметана",
+      "сол",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пенето (1/2 кг) или друг вид паста се сварява в подсолена вода. През това време в пасатор се смилат чушките (3 бр), сиренето (50 г), яйцата (2 бр), чесънът (2 скилидки) и сметаната (50 мл.) до получаване на еднородна смес. При необходимост се добавя малко вода. Щом пастата се свари, се отцежда и измива. Тенджерата се връща на котлона и в нея се излива пасираната смес. След минута, щом се загрее, към нея се добавя отцедената паста. Овскусява се със сол и черен пипер и по желание с пармезан. Готви се няколко минути, докато сосът бъде абсорбиран."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пене",
+      "qty": "1/2 кг",
+      "id": 129
+    },
+    {
+      "name": "червени чушки",
+      "qty": "3",
+      "id": 18
+    },
+    {
+      "name": "сирене",
+      "qty": "50 г",
+      "id": 32
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "сметана",
+      "qty": "50 мл.",
+      "id": 19
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

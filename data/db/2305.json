@@ -1,0 +1,74 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Класически картофен пататник - лесна и бърза рецепта",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/patatnik-2-[2305].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/patatnik-2-[2305].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/patatnik-2-[2305].jpg"
+    ],
+    "datePublished": "2013-02-25",
+    "cookTime": "PT0H40M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "293 calories",
+      "carbohydrateContent": "43 g",
+      "fatContent": "11 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "9.623675 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1 кг картофи",
+      "1 с.л. сол",
+      "50 мл. олио",
+      "1 ч.ч. вода",
+      "1 с.л. джоджен"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Картофите (1 кг) се настъргват на едро ренде. В тенджера се задушават за около 10 минути с олио (50 мл.), като се долива малко по малко вода (1 ч.ч.). Бъркат се непрекъснато и се снемат от котлона, когато омекнат и поемат водата. В края на задушаването се добавят джодженът и солта."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Сместа се разстила в тавичка и се запича на фурна за около 10-15 минути, докато се образува коричка. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Ястието се поднася топло. Може да се гарнира с кисело мляко."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "картофи",
+      "qty": "1 кг",
+      "id": 16
+    },
+    {
+      "name": "сол",
+      "qty": "1 с.л.",
+      "id": 1
+    },
+    {
+      "name": "олио",
+      "qty": "50 мл.",
+      "id": 4
+    },
+    {
+      "name": "вода",
+      "qty": "1 ч.ч.",
+      "id": 11
+    },
+    {
+      "name": "джоджен",
+      "qty": "1 с.л.",
+      "id": 60
+    }
+  ]
+}

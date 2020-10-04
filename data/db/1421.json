@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Домашен течен шоколад със сухо мляко, масло и какао в чаша",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/domashen-techen-shokolad-2-[1421].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/domashen-techen-shokolad-2-[1421].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/domashen-techen-shokolad-2-[1421].jpg"
+    ],
+    "datePublished": "2011-05-19",
+    "cookTime": "PT0H45M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "334 calories",
+      "carbohydrateContent": "36 g",
+      "fatContent": "20 g",
+      "proteinContent": "2 g",
+      "saturatedFatContent": "14 g",
+      "unsaturatedFatContent": "4.5604366666667 g",
+      "cholesterolContent": "41 mg"
+    },
+    "recipeIngredient": [
+      "200 мл. прясно мляко",
+      "100 г сухо мляко",
+      "150 г пудра захар",
+      "100 г масло",
+      "2 с.л. какао",
+      "1  ванилия"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Прясното мляко (200 мл.) се изсипва в тенджерка и се загрява на котлона. Добавя се пудрата захар (150 г) и се бърка до пълното й разтваряне. След това се добавя маслото (100 г) и се разбърква, докато се разтопи. Сухото мляко (100 г), какаото (2 с.л.) и ванилията (1 бр) се смесват и се добавят към млечния крем при непрекъснато и динамично бъркане. Полученият течен шоколад се бърка, докато бучките от сухите съставки се разтворят. Изсипва се в стъклени десертни чашки и се поставя в хладилника да стегне за около 30 минути. Сервира се с пресни плодове по желание.  "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "прясно мляко",
+      "qty": "200 мл.",
+      "id": 14
+    },
+    {
+      "name": "сухо мляко",
+      "qty": "100 г",
+      "id": 19
+    },
+    {
+      "name": "пудра захар",
+      "qty": "150 г",
+      "id": 34
+    },
+    {
+      "name": "масло",
+      "qty": "100 г",
+      "id": 8
+    },
+    {
+      "name": "какао",
+      "qty": "2 с.л.",
+      "id": 45
+    },
+    {
+      "name": "ванилия",
+      "qty": "1",
+      "id": 23
+    }
+  ]
+}

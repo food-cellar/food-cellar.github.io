@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печени свински пържолки от контрафиле в бира и кисело мляко в тавичка на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/svinski-purjolki-v-bira-2-[1130].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/svinski-purjolki-v-bira-2-[1130].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/svinski-purjolki-v-bira-2-[1130].jpg"
+    ],
+    "datePublished": "2011-04-22",
+    "cookTime": "PT1H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "744 calories",
+      "carbohydrateContent": "2 g",
+      "fatContent": "61 g",
+      "proteinContent": "40 g",
+      "saturatedFatContent": "21 g",
+      "unsaturatedFatContent": "33.51065 g",
+      "cholesterolContent": "185 mg"
+    },
+    "recipeIngredient": [
+      "4  свински пържоли",
+      "150 г кисело мляко",
+      "1 к.ч. бира",
+      "1 с.л. риган",
+      "черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Свинските пържолки (4 бр) се начукват със сол и черен пипер. Поставят се в такичка и се заливат с киселото мляко (150 г), а после с бирата (1 к.ч.). Поръсват се с риган (1 с.л.). Запичат се до готовност, за около 30 минути. Поднасят се с гарнитура от картофено пюре."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "свински пържоли",
+      "qty": "4",
+      "id": 67
+    },
+    {
+      "name": "кисело мляко",
+      "qty": "150 г",
+      "id": 21
+    },
+    {
+      "name": "бира",
+      "qty": "1 к.ч.",
+      "id": 137
+    },
+    {
+      "name": "риган",
+      "qty": "1 с.л.",
+      "id": 65
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

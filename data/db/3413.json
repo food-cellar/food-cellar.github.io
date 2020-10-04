@@ -1,0 +1,94 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Бавно печена агнешка плешка на фурна с картофи и чесън за Великден или Гергьовден ",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/bavno-pechena-agneshka-pleshka-na-furna-s-kartofi-i-chesun-za-velikden-ili-gergioovden-1-[3413].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/bavno-pechena-agneshka-pleshka-na-furna-s-kartofi-i-chesun-za-velikden-ili-gergioovden-1-[3413].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/bavno-pechena-agneshka-pleshka-na-furna-s-kartofi-i-chesun-za-velikden-ili-gergioovden-1-[3413].jpg"
+    ],
+    "datePublished": "2020-04-15",
+    "cookTime": "PT5H0M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "1209 calories",
+      "carbohydrateContent": "24 g",
+      "fatContent": "89 g",
+      "proteinContent": "72 g",
+      "saturatedFatContent": "38 g",
+      "unsaturatedFatContent": "43.27428 g",
+      "cholesterolContent": "300 mg"
+    },
+    "recipeIngredient": [
+      "1  агнешка плешка",
+      "800 г картофи",
+      "4 скилидки  чесън",
+      "1 с.л. червен пипер",
+      "1 щип. черен пипер",
+      "сол",
+      "250 мл. вода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Най-напред агнешката плешка се натрива със сол, червен пипер, черен пипер и счукан чесън (4 скилидки). Поставя се в тава, на дъното на която е изсипана водата (250 мл.). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Агнешката плешка се пече при 150 градуса под алуминиево фолио в продължение на 4 часа, като фурната се включва да пече отгоре и отдолу без вентилатор. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "След като месото е омекнало напълно, се изважда от фурната, фолиото се отстранява и месото се изважда. На дъното на тавата, при получилият се сос, се поставят картофите (800 г). Те или се белят и режат на полумесеци, или се поставят цели, ако са достатъчно дребни и пресни. Важно е и в двата случая да са старателно измити. Посоляват се на вкус и върху тях отново се поставя агнешката плешка. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Ястието се връща отново във фурната при 150 градуса за още час, но без алуминиево фолио. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Ястието се сервира горещо и е чудесна класика за Великден и Гергьовден.  "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "агнешка плешка",
+      "qty": "1",
+      "id": 316
+    },
+    {
+      "name": "картофи",
+      "qty": "800 г",
+      "id": 16
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "червен пипер",
+      "qty": "1 с.л.",
+      "id": 20
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 щип.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "вода",
+      "qty": "250 мл.",
+      "id": 11
+    }
+  ]
+}

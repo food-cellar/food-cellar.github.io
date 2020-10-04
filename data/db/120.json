@@ -1,0 +1,108 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пържени картофени крокети с извара",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kartofeni-kroketi-2-[120].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kartofeni-kroketi-2-[120].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kartofeni-kroketi-2-[120].jpg"
+    ],
+    "datePublished": "2010-11-22",
+    "cookTime": "PT1H0M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "343 calories",
+      "carbohydrateContent": "43 g",
+      "fatContent": "13 g",
+      "proteinContent": "11 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "9.94792 g",
+      "cholesterolContent": "64 mg"
+    },
+    "recipeIngredient": [
+      "1 кг картофи",
+      "200 г извара",
+      "1 глава лук",
+      "2  яйца",
+      "сол",
+      "черен пипер",
+      "босилек",
+      "магданоз",
+      "100 г галета",
+      "1 к.ч. олио"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Картофите (1 кг) се сваряват и пасират. Лукът (1 глава) се настъргва на ситното ренде. Магданозът се нарязва на ситно. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Тези продукти се смесват и подправят със сол, черен пипер, босилек. Добавя се изварата (200 г). Омесва се тесто, от което се оформят крокети. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Крокетите се панират в разбити яйца (2 бр), галета и отново яйца. Пържат се в горещо олио, докато получат златиста коричка. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Поднасят се топли със зеленчукова салата."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "картофи",
+      "qty": "1 кг",
+      "id": 16
+    },
+    {
+      "name": "извара",
+      "qty": "200 г",
+      "id": 92
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "босилек",
+      "qty": "Parsing error",
+      "id": 25
+    },
+    {
+      "name": "магданоз",
+      "qty": "Parsing error",
+      "id": 12
+    },
+    {
+      "name": "галета",
+      "qty": "100 г",
+      "id": 58
+    },
+    {
+      "name": "олио",
+      "qty": "1 к.ч.",
+      "id": 4
+    }
+  ]
+}

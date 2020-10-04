@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Десерт от кисело мляко с желатин и сладко от ягоди (желе)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/jelirano-kiselo-mliako-sus-sladko-ot-iagodi-1-[2740].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/jelirano-kiselo-mliako-sus-sladko-ot-iagodi-1-[2740].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/jelirano-kiselo-mliako-sus-sladko-ot-iagodi-1-[2740].jpg"
+    ],
+    "datePublished": "2014-02-11",
+    "cookTime": "PT0H15M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "347 calories",
+      "carbohydrateContent": "66 g",
+      "fatContent": "4 g",
+      "proteinContent": "9 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "1.15104 g",
+      "cholesterolContent": "20 mg"
+    },
+    "recipeIngredient": [
+      "600 г кисело мляко",
+      "100 г пудра захар",
+      "2 опак. желатин",
+      "1 ч.л. ванилия",
+      "1 к.ч. вода",
+      "200 г сладко от ягоди"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Киселото мляко (600 г) и пудрата захар (100 г) се разбиват до разтварянето на захарта. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Желатинът (2 опак.) се накисва във водата (1 к.ч.), заедно с ванилията (1 ч.л.) и се разбива с вилица, докато се разтвори. Добавя се към киселото мляко и сместа се разбива много добре.  "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Сместа се изсипва в десертни купички и се оставя в хладилник за няколко часа, докато се желира. Преди поднасяне купичките се потапят в купа с гореща вода за няколко секунди, а след това се обръщат върху десертна чиния, за да може кремът, придобил формата на купичката, да се отдели от нея без проблем."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Желираното кисело мляко се сервира с пресни плодове и сос от сладко от ягоди."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "кисело мляко",
+      "qty": "600 г",
+      "id": 21
+    },
+    {
+      "name": "пудра захар",
+      "qty": "100 г",
+      "id": 34
+    },
+    {
+      "name": "желатин",
+      "qty": "2 опак.",
+      "id": 124
+    },
+    {
+      "name": "ванилия",
+      "qty": "1 ч.л.",
+      "id": 23
+    },
+    {
+      "name": "вода",
+      "qty": "1 к.ч.",
+      "id": 11
+    },
+    {
+      "name": "сладко от ягоди",
+      "qty": "200 г",
+      "id": 89
+    }
+  ]
+}

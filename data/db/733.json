@@ -1,0 +1,82 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Спаначени гнезда с яйца",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/spanacheni_gnezda_1-[733].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/spanacheni_gnezda_1-[733].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/spanacheni_gnezda_1-[733].jpg"
+    ],
+    "datePublished": "2010-10-28",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "198 calories",
+      "carbohydrateContent": "20 g",
+      "fatContent": "8 g",
+      "proteinContent": "14 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "5.317565 g",
+      "cholesterolContent": "187 mg"
+    },
+    "recipeIngredient": [
+      "1 кг спанак",
+      "4 глави лук",
+      "6 скилидки чесън",
+      "4  яйца",
+      "2 с.л. зехтин",
+      "сол",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Спанакът (1 кг) се нарязва, попарва и отцежда. Лукът (4 глави) и чесънът (6 скилидки) се задушават в зехтина (2 с.л.) и се смесват със спанака. Тази смес се посолява и подправя с черен пипер. От нея се оформят в тава четири кръгчета с вдлъбнатина. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Във всяко кръгче по средата се чуква по 1 сурово яйце. Тавата веднага се слага в гореща фурна и се държи там, докато белтъците на яйцата се стегнат. Спаначените гнезда се поднасят веднага."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "спанак",
+      "qty": "1 кг",
+      "id": 40
+    },
+    {
+      "name": "лук",
+      "qty": "4 глави",
+      "id": 3
+    },
+    {
+      "name": "чесън",
+      "qty": "6 скилидки",
+      "id": 6
+    },
+    {
+      "name": "яйца",
+      "qty": "4",
+      "id": 5
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата от бейби спанак, сьомга, авокадо, тиквени семки и годжи бери",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-ot-beibi-spanak-sioomga-avokado-tikveni-semki-i-godji-beri-1-[3346].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-ot-beibi-spanak-sioomga-avokado-tikveni-semki-i-godji-beri-1-[3346].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-ot-beibi-spanak-sioomga-avokado-tikveni-semki-i-godji-beri-1-[3346].jpg"
+    ],
+    "datePublished": "2019-02-10",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "210 calories",
+      "carbohydrateContent": "5 g",
+      "fatContent": "16 g",
+      "proteinContent": "12 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "12.2988875 g",
+      "cholesterolContent": "26 mg"
+    },
+    "recipeIngredient": [
+      "200 г сьомга",
+      "200 г бейби спанак",
+      "1  авокадо",
+      "60 г годжи бери",
+      "2  лайма",
+      "4 с.л. зехтин",
+      "2 с.л. ябълков оцет"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Бейби спанакът (200 г) се измива, а филето от сьомгата (200 г) се изпича на фурна или се задушава на пара. Може да се използва и пушена сьомга. Щом е готова се накъсва."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Плодчетата годжи бери (60 г) се накисват в малко зехтин (4 с.л.) и оцет (2 с.л.)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Авокадото (1 бр) се обелва и нарязва на кубчета, които се посоляват и овкусяват със сока на един лайм и сол."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "В дълбока купа се поставят спанакът, парчетата риба, авокадото и годжи берито. Поръсва се със сол на вкус и се разбърква добре. Украсява се с лайм, нарязан на осминки."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "сьомга",
+      "qty": "200 г",
+      "id": 114
+    },
+    {
+      "name": "бейби спанак",
+      "qty": "200 г",
+      "id": 40
+    },
+    {
+      "name": "авокадо",
+      "qty": "1",
+      "id": 83
+    },
+    {
+      "name": "годжи бери",
+      "qty": "60 г",
+      "id": 27
+    },
+    {
+      "name": "лайма",
+      "qty": "2",
+      "id": 27
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "ябълков оцет",
+      "qty": "2 с.л.",
+      "id": 236
+    }
+  ]
+}

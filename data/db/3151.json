@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Бадемови бисквити с ликьор Амарето",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/bademovi-biskviti-s-likioor-amareto-1-[3151].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/bademovi-biskviti-s-likioor-amareto-1-[3151].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/bademovi-biskviti-s-likioor-amareto-1-[3151].jpg"
+    ],
+    "datePublished": "2017-01-03",
+    "cookTime": "PT0H30M",
+    "recipeYield": "16 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "131 calories",
+      "carbohydrateContent": "14 g",
+      "fatContent": "6 g",
+      "proteinContent": "3 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "5.6357790625 g",
+      "cholesterolContent": "23 mg"
+    },
+    "recipeIngredient": [
+      "200 г бадеми",
+      "80 г брашно",
+      "120 г кафява захар",
+      "2  белтъка",
+      "2 с.л. ликьор амарето"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Бадемовите ядки и захарта се поставят в пасатор и се смилат до еднородна смес. Добавят се амаретото, белтъците и част от брашното и отново се пасира. Продължава да се добавя брашно при работещ уред. Накрая се изважда и се добавя последната порция брашно, колкото е необходимо, за получаване на сравнително твърдо тесто. Омесва се и с навлажнени ръце се откъсват топчета, които после се сплескват за да се получи формата на бисквити. Поставят се в тава и се пекат в предварително загрята до 180 градуса фурна за 12-13 минути."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "бадеми",
+      "qty": "200 г",
+      "id": 82
+    },
+    {
+      "name": "брашно",
+      "qty": "80 г",
+      "id": 7
+    },
+    {
+      "name": "кафява захар",
+      "qty": "120 г",
+      "id": 9
+    },
+    {
+      "name": "белтъка",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "ликьор амарето",
+      "qty": "2 с.л.",
+      "id": 271
+    }
+  ]
+}

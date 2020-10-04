@@ -1,0 +1,104 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Зеленчуково къри с патладжани и домати",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/patladjanovo-kuri-1-[563].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/patladjanovo-kuri-1-[563].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/patladjanovo-kuri-1-[563].jpg"
+    ],
+    "datePublished": "2010-11-05",
+    "cookTime": "PT1H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "278 calories",
+      "carbohydrateContent": "51 g",
+      "fatContent": "7 g",
+      "proteinContent": "10 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "4.173065 g",
+      "cholesterolContent": "8 mg"
+    },
+    "recipeIngredient": [
+      "4  патладжана",
+      "250 г кисело мляко",
+      "8  домата",
+      "1 глава лук",
+      "4 скилидки чесън",
+      "1 с.л. джинджифил",
+      "2 с.л. олио",
+      "1 щип. лют червен пипер",
+      "кориандър",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Патлажданите (4 бр) се обелват и нарязват на кръгчета. Посоляват се и се оставят половин час, за да се премахне горчивият вкус. Измиват се добре и се изпичат за 10-15 минути. Поставят се в дълбока купа заедно с киселото мляко (250 г) и се намачкват с вилица. Към тях се добавят лют червен пипер, кориандър, черен пипер и настърган джинджифил [(1 с.л.)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Доматите се пускат за 30 секунди във вряща вода и се обелват. Нарязват се на едро."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "В дълбок тиган се запържва лукът (1 глава), чесънът (4 скилидки). Добавят се доматите и патладжановата смес. Готвят се около 5-10 минути."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "патладжана",
+      "qty": "4",
+      "id": 71
+    },
+    {
+      "name": "кисело мляко",
+      "qty": "250 г",
+      "id": 21
+    },
+    {
+      "name": "домата",
+      "qty": "8",
+      "id": 15
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "джинджифил",
+      "qty": "1 с.л.",
+      "id": 84
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    },
+    {
+      "name": "лют червен пипер",
+      "qty": "1 щип.",
+      "id": 132
+    },
+    {
+      "name": "кориандър",
+      "qty": "Parsing error",
+      "id": 97
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Гратен от пиле и макарони с кашкавал на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/graten-ot-pile-i-makaroni-2-[108].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/graten-ot-pile-i-makaroni-2-[108].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/graten-ot-pile-i-makaroni-2-[108].jpg"
+    ],
+    "datePublished": "2010-12-07",
+    "cookTime": "PT1H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "650 calories",
+      "carbohydrateContent": "57 g",
+      "fatContent": "31 g",
+      "proteinContent": "33 g",
+      "saturatedFatContent": "18 g",
+      "unsaturatedFatContent": "9.854875 g",
+      "cholesterolContent": "139 mg"
+    },
+    "recipeIngredient": [
+      "300 г пилешко месо",
+      "300 г макарони",
+      "50 г масло",
+      "100 г кашкавал",
+      "50 г сирене",
+      "100 мл. сметана",
+      "сол",
+      "черен пипер",
+      "индийско орехче"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Месото (300 г) се сварява и се нарязва на малки парченца. Макароните (300 г) се сваряват, отцеждат, подсушават и смесват с масло (50 г). Половината от тях се слагат в намазнена с масло форма за печене. Добавят се месото. Върху него се слага другата половина от макароните. Половината от настъргания кашкавал и сиренето се смесва със сметаната (100 мл.). Подправя се със солта, черния пипер, индийското орехче и с тази смес се залива гратенът. Посипва се с останалия кашкавал. Пече се на фурна при 200 градуса около 15 минути. Поднася се топъл. Подходяща напитка за гратена е бялото вино."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешко месо",
+      "qty": "300 г",
+      "id": 49
+    },
+    {
+      "name": "макарони",
+      "qty": "300 г",
+      "id": 129
+    },
+    {
+      "name": "масло",
+      "qty": "50 г",
+      "id": 8
+    },
+    {
+      "name": "кашкавал",
+      "qty": "100 г",
+      "id": 47
+    },
+    {
+      "name": "сирене",
+      "qty": "50 г",
+      "id": 32
+    },
+    {
+      "name": "сметана",
+      "qty": "100 мл.",
+      "id": 19
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "индийско орехче",
+      "qty": "Parsing error",
+      "id": 120
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Коктейл Май Тай (Mai Tai)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kokteil-mai-tai--1-[1057].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kokteil-mai-tai--1-[1057].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kokteil-mai-tai--1-[1057].jpg"
+    ],
+    "datePublished": "2011-12-28",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Коктейли",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "188 calories",
+      "carbohydrateContent": "16 g",
+      "fatContent": "0 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "30 мл. бял ром",
+      "30 мл. тъмен ром",
+      "15 мл. трипъл сек",
+      "5 мл. захарен сироп",
+      "15 мл. гренадин",
+      "10 мл. лимонов сок",
+      "мента",
+      "лед"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "В шейкър се разбиват белият ром (30 мл.), трипъл секът (15 мл.), захарният сироп (5 мл.), гренадинът (15 мл.) и лимоновият сок (10 мл.). Налива се в чаша, пълна с лед. Отгоре се изсипва тъмният ром (30 мл.) и се украсява с мента. Сервира се с бъркалка."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "бял ром",
+      "qty": "30 мл.",
+      "id": 74
+    },
+    {
+      "name": "тъмен ром",
+      "qty": "30 мл.",
+      "id": 74
+    },
+    {
+      "name": "трипъл сек",
+      "qty": "15 мл.",
+      "id": 27
+    },
+    {
+      "name": "захарен сироп",
+      "qty": "5 мл.",
+      "id": 282
+    },
+    {
+      "name": "гренадин",
+      "qty": "15 мл.",
+      "id": 222
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "10 мл.",
+      "id": 17
+    },
+    {
+      "name": "мента",
+      "qty": "Parsing error",
+      "id": 90
+    },
+    {
+      "name": "лед",
+      "qty": "Parsing error",
+      "id": 11
+    }
+  ]
+}

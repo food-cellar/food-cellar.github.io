@@ -1,0 +1,76 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Диетичен сандвич с пиле и зеленчуци",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/dietichen-sandvich-s-pile-i-zelenchuci-1-[1138].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/dietichen-sandvich-s-pile-i-zelenchuci-1-[1138].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/dietichen-sandvich-s-pile-i-zelenchuci-1-[1138].jpg"
+    ],
+    "datePublished": "2010-11-27",
+    "cookTime": "PT0H20M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Сандвичи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "498 calories",
+      "carbohydrateContent": "30 g",
+      "fatContent": "6 g",
+      "proteinContent": "75 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "2.580915 g",
+      "cholesterolContent": "174 mg"
+    },
+    "recipeIngredient": [
+      "1  франзела",
+      "4  пилешки бон филета",
+      "1/2  краставица",
+      "1  домат",
+      "4 листа айсберг",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилешките филета (4 бр) се изпичат във фурна на грил до готовност. През това време франзелата (1 бр) се разполовява по дължина, а полсе и на широчина. Получените два сандвича се пълнят с листа от салата айсберг (4 листа), нарязани на кубчета краставици (1/2 бр) и домати (1 бр) и пилешкото филе. Сандвичите се посоляват на вкус и се поднасят веднага. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Сандвичите могат да станат още по-вкусни, ако хлебчетата предварително се изпекат във фурна или тостер."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "франзела",
+      "qty": "1",
+      "id": 249
+    },
+    {
+      "name": "пилешки бон филета",
+      "qty": "4",
+      "id": 79
+    },
+    {
+      "name": "краставица",
+      "qty": "1/2",
+      "id": 44
+    },
+    {
+      "name": "домат",
+      "qty": "1",
+      "id": 15
+    },
+    {
+      "name": "айсберг",
+      "qty": "4 листа",
+      "id": 101
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

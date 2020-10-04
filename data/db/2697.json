@@ -1,0 +1,76 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Лютивка от червени чушки",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/lutivka-ot-cherveni-chushki-2-[2697].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/lutivka-ot-cherveni-chushki-2-[2697].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/lutivka-ot-cherveni-chushki-2-[2697].jpg"
+    ],
+    "datePublished": "2014-01-26",
+    "cookTime": "PT3H0M",
+    "recipeYield": "40 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "205 calories",
+      "carbohydrateContent": "14 g",
+      "fatContent": "16 g",
+      "proteinContent": "1 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "13.456275 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "3 кг червени люти чушки",
+      "300 г чесън",
+      "700 мл. оцет",
+      "700 мл. олио",
+      "1 ч.ч. захар",
+      "100 г сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Лютите червени чушки (3 кг) се изпичат за кратко от двете страни и дръжките им се отстраняват. Семките се запазват и чушките се смилат, заедно с почистения чесън (300 г). Смесват се с олиото (700 мл.), оцета (700 мл.), захарта (1 ч.ч.) и солта (100 г). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Всичко се разбърква много добре и се разпределя в буркани. Те се затварят, но не се стерилизират. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "червени люти чушки",
+      "qty": "3 кг",
+      "id": 105
+    },
+    {
+      "name": "чесън",
+      "qty": "300 г",
+      "id": 6
+    },
+    {
+      "name": "оцет",
+      "qty": "700 мл.",
+      "id": 61
+    },
+    {
+      "name": "олио",
+      "qty": "700 мл.",
+      "id": 4
+    },
+    {
+      "name": "захар",
+      "qty": "1 ч.ч.",
+      "id": 9
+    },
+    {
+      "name": "сол",
+      "qty": "100 г",
+      "id": 1
+    }
+  ]
+}

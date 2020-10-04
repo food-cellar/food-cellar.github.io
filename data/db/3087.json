@@ -1,0 +1,64 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Десерт мус с авокадо, мед, какао и кисело мляко в чаша",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/mus-s-avokado-med-kakao-i-kiselo-mliako-1-[3087].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/mus-s-avokado-med-kakao-i-kiselo-mliako-1-[3087].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/mus-s-avokado-med-kakao-i-kiselo-mliako-1-[3087].jpg"
+    ],
+    "datePublished": "2016-02-10",
+    "cookTime": "PT0H5M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "242 calories",
+      "carbohydrateContent": "22 g",
+      "fatContent": "17 g",
+      "proteinContent": "4 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "12.01375 g",
+      "cholesterolContent": "7 mg"
+    },
+    "recipeIngredient": [
+      "1  авокадо",
+      "100 г кисело мляко",
+      "4 с.л. мед",
+      "1 с.л. какао"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "В блендер се поставят добре узрялото, омекнало и обелено авокадо, нарязано на кубчета, киселото мляко, течният мед и какаото на прах. Пасират се и полученият мус се сервира в купички. Сервира се веднага и е чудесна и полезна закуска."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Видео рецептата е излъчена в <a href=http://bnt.bg/part-of-show/naj-dobrata-hrana-za-imunnata-sistema>Денят започва по БНТ1</a>."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "авокадо",
+      "qty": "1",
+      "id": 83
+    },
+    {
+      "name": "кисело мляко",
+      "qty": "100 г",
+      "id": 21
+    },
+    {
+      "name": "мед",
+      "qty": "4 с.л.",
+      "id": 38
+    },
+    {
+      "name": "какао",
+      "qty": "1 с.л.",
+      "id": 45
+    }
+  ]
+}

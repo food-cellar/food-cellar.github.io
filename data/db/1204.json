@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Гювече с печен боб, сирене, моркови и домати на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/postno-guveche-s-bob-i-domati-1-[1204].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/postno-guveche-s-bob-i-domati-1-[1204].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/postno-guveche-s-bob-i-domati-1-[1204].jpg"
+    ],
+    "datePublished": "2011-10-18",
+    "cookTime": "PT2H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "308 calories",
+      "carbohydrateContent": "48 g",
+      "fatContent": "6 g",
+      "proteinContent": "17 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "1.522335 g",
+      "cholesterolContent": "22 mg"
+    },
+    "recipeIngredient": [
+      "200 г боб",
+      "1/2 кг доматен сос",
+      "100 г сирене",
+      "2  моркова",
+      "2 глави лук",
+      "сол",
+      "пипер",
+      "чубрица"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Бобът (200 г) се сварява или се използва предварително сварен от консерва. Морковите (2 бр) и лукът (2 глави) се нарязват на малки кубчета, а сиренето (100 г) се настъргва. Всички продукти без чубрицата се слагат в голяма купа и се разбъркват. Напълват се гювечетата, поръсват се с чубрица и се пекат около 30 минути или повече в зависимост от предпочитанията Ви."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "боб",
+      "qty": "200 г",
+      "id": 63
+    },
+    {
+      "name": "доматен сос",
+      "qty": "1/2 кг",
+      "id": 86
+    },
+    {
+      "name": "сирене",
+      "qty": "100 г",
+      "id": 32
+    },
+    {
+      "name": "моркова",
+      "qty": "2",
+      "id": 13
+    },
+    {
+      "name": "лук",
+      "qty": "2 глави",
+      "id": 3
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "чубрица",
+      "qty": "Parsing error",
+      "id": 36
+    }
+  ]
+}

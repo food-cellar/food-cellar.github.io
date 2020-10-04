@@ -1,0 +1,112 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Руло Стефани с кисели краставички, моркови и яйца",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/rulo-stefani-s-kiseli-krastavichki-morkovi-i-iaica-4-[2634].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/rulo-stefani-s-kiseli-krastavichki-morkovi-i-iaica-4-[2634].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/rulo-stefani-s-kiseli-krastavichki-morkovi-i-iaica-4-[2634].jpg"
+    ],
+    "datePublished": "2013-08-01",
+    "cookTime": "PT1H30M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "258 calories",
+      "carbohydrateContent": "10 g",
+      "fatContent": "15 g",
+      "proteinContent": "20 g",
+      "saturatedFatContent": "5 g",
+      "unsaturatedFatContent": "6.43026125 g",
+      "cholesterolContent": "157 mg"
+    },
+    "recipeIngredient": [
+      "300 г телешка кайма",
+      "300 г свинска кайма",
+      "1 глава лук",
+      "1  яйце",
+      "1 ч.л. кимион",
+      "1 ч.л. черен пипер",
+      "1  морков",
+      "3  яйца",
+      "8  кисели краставички",
+      "50 г кашкавал"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Яйцата (3 бр) и морковът (1 бр) се сваряват. Оставят се настрани."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Двата вида кайма се омесват и към тях се прибавят ситно нарязаният лук (1 глава), суровото яйце (1 бр) и подправките - кимион (1 ч.л.) и черен пипер (1 ч.л.). Завива се с фолио и се оставя в хладилник за поне час, за да се смесят ароматите."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "След това каймата се разстила върху фолио, като целта е да се получи правоъгълен пласт кайма с височина не повече от сантиметър и половина. Сварените яйца, морковът и нарязаните на ивици кисели краставички се нареждат върху подложката от кайма."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Увива се и се поставя в намазана с олио тавичка. Завива се с фолио и се поставя в загрята до 190 градуса фурна. Пече около час, като през първата половина се пече с фолио, а след това то се отстранява."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Малко преди рулото да е готово, се поръсва с настърган кашкавал и се връща във фурната, за да може да се разтопи."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "телешка кайма",
+      "qty": "300 г",
+      "id": 134
+    },
+    {
+      "name": "свинска кайма",
+      "qty": "300 г",
+      "id": 54
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    },
+    {
+      "name": "кимион",
+      "qty": "1 ч.л.",
+      "id": 42
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "яйца",
+      "qty": "3",
+      "id": 5
+    },
+    {
+      "name": "кисели краставички",
+      "qty": "8",
+      "id": 44
+    },
+    {
+      "name": "кашкавал",
+      "qty": "50 г",
+      "id": 47
+    }
+  ]
+}

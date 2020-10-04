@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Паста тубети (макарони) със сьомга, босилеково песто, мариновани сушени домати и сирене пармезан",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pasta-sus-sioomga-pesto-i-susheni-domati-2-[1997].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pasta-sus-sioomga-pesto-i-susheni-domati-2-[1997].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pasta-sus-sioomga-pesto-i-susheni-domati-2-[1997].jpg"
+    ],
+    "datePublished": "2012-06-21",
+    "cookTime": "PT0H40M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "459 calories",
+      "carbohydrateContent": "77 g",
+      "fatContent": "4 g",
+      "proteinContent": "25 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "2.39655 g",
+      "cholesterolContent": "29 mg"
+    },
+    "recipeIngredient": [
+      "200 г паста",
+      "100 г сьомга",
+      "4  сушени домата",
+      "4 с.л. сос Песто",
+      "10 г пармезан"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пастата (200 г) се сварява във вряща подсолена вода според указанията на опаковката. Изплаква се и се отцежда. Смесва се с пестото (4 с.л.).Сьомгата (100 г) се нарязва на кубчета и се запържва до златисто в тиган без мазнина и с незалепващо покритие. Щом е готова, към нея се добавят нарязаните на ивици мариновани сушени домати (4 бр). Накрая се добавя и пастата и всичко се разбърква, докато продуктите смесят ароматите си и се темперират.Пастата се сервира топла с настърган пармезан (10 г)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "паста",
+      "qty": "200 г",
+      "id": 55
+    },
+    {
+      "name": "сьомга",
+      "qty": "100 г",
+      "id": 114
+    },
+    {
+      "name": "сушени домата",
+      "qty": "4",
+      "id": 121
+    },
+    {
+      "name": "сос Песто",
+      "qty": "4 с.л.",
+      "id": 27
+    },
+    {
+      "name": "пармезан",
+      "qty": "10 г",
+      "id": 59
+    }
+  ]
+}

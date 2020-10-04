@@ -1,0 +1,86 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Детски сандвич Рибка",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/gradus2-[2954].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/gradus2-[2954].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/gradus2-[2954].jpg"
+    ],
+    "datePublished": "2014-09-19",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Сандвичи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "239 calories",
+      "carbohydrateContent": "19 g",
+      "fatContent": "14 g",
+      "proteinContent": "7 g",
+      "saturatedFatContent": "6 g",
+      "unsaturatedFatContent": "7.3901 g",
+      "cholesterolContent": "27 mg"
+    },
+    "recipeIngredient": [
+      "1 филия хляб",
+      "1 ч.л. масло",
+      "1/2  кренвирш",
+      "1 резен краставица",
+      "1 резен морков",
+      "1 резен червена чушка",
+      "1 зърно черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Този лесен детски сандвич се приготвя, като най-напред изберете здравословен и полезен хляб за вашето дете. Изрежете корите на филията, така че да стане квадратна. Намажете я с малко масло, а след това поставете полумесеци кренвирш, както е показано на снимката. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "За очички на рибката използвайте резен краставица, резен морков и зрънце черен пипер, а за уста - резен червена чушка."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "За най-добри резултати екипът на 1001 рецепти препоръчва да приготвите тази рецепта за вашите деца с истински кренвирши - <a href=https://www.facebook.com/GradusChicken>пилешки кренвирши Градус</a>.  "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "хляб",
+      "qty": "1 филия",
+      "id": 66
+    },
+    {
+      "name": "масло",
+      "qty": "1 ч.л.",
+      "id": 8
+    },
+    {
+      "name": "кренвирш",
+      "qty": "1/2",
+      "id": 161
+    },
+    {
+      "name": "краставица",
+      "qty": "1 резен",
+      "id": 44
+    },
+    {
+      "name": "морков",
+      "qty": "1 резен",
+      "id": 13
+    },
+    {
+      "name": "червена чушка",
+      "qty": "1 резен",
+      "id": 18
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 зърно",
+      "id": 2
+    }
+  ]
+}

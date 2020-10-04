@@ -1,0 +1,64 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Телешки език в масло",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/teleshki-ezik-v-maslo-2-[2451].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/teleshki-ezik-v-maslo-2-[2451].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/teleshki-ezik-v-maslo-2-[2451].jpg"
+    ],
+    "datePublished": "2013-04-15",
+    "cookTime": "PT1H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "236 calories",
+      "carbohydrateContent": "0 g",
+      "fatContent": "13 g",
+      "proteinContent": "26 g",
+      "saturatedFatContent": "7 g",
+      "unsaturatedFatContent": "4.67625 g",
+      "cholesterolContent": "125 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг телешки език",
+      "50 г масло",
+      "сол",
+      "дафинов лист"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Телешкият език се измива и сварява в подсолена вода с дафинов лист. Ако се използва тенджера под налягане, варенето продължава 45-50 минути. В нормална тенджера - около час и половина. Щом се охлади, така че да може да се пипа без да пари, се обелва. Ако изстине прекалено много, обелването става по-трудно."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Нарязва се на тънки ивици и се запържва в маслото. При необходимост се добавя и малко зехтин, за да не загори маслото. Сервира се топло. Щом изстине, езикът става сух и труден за дъвчене."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "телешки език",
+      "qty": "1/2 кг",
+      "id": 110
+    },
+    {
+      "name": "масло",
+      "qty": "50 г",
+      "id": 8
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "дафинов лист",
+      "qty": "Parsing error",
+      "id": 70
+    }
+  ]
+}

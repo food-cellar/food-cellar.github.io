@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Домашна салата Снежанка / Дзадзики / Сух таратор с цедено кисело мляко, краставици и копър",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/domashna-salata-snejanka-1-[1939].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/domashna-salata-snejanka-1-[1939].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/domashna-salata-snejanka-1-[1939].jpg"
+    ],
+    "datePublished": "2017-03-20",
+    "cookTime": "PT0H20M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "97 calories",
+      "carbohydrateContent": "9 g",
+      "fatContent": "6 g",
+      "proteinContent": "1 g",
+      "saturatedFatContent": "5 g",
+      "unsaturatedFatContent": "0.0446775 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг цедено кисело мляко",
+      "2  краставици",
+      "6 стръка копър",
+      "3 скилидки чесън",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Краставиците (2 бр) се измиват старателно и без да се белят се нарязват на ситни кубчета. Месестата част от тях, която не е хрупкава и съдържа семки, се отстранява, за да не разводнява салатата. Цеденото кисело мляко (1/2 кг) се смесва с кубчетата краставица, пресования чесън (3 скилидки), солта и ситно нарязания пресен копър (6 стръка). Салатата се разбърква много добре и се сервира."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "цедено кисело мляко",
+      "qty": "1/2 кг",
+      "id": 163
+    },
+    {
+      "name": "краставици",
+      "qty": "2",
+      "id": 44
+    },
+    {
+      "name": "копър",
+      "qty": "6 стръка",
+      "id": 28
+    },
+    {
+      "name": "чесън",
+      "qty": "3 скилидки",
+      "id": 6
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

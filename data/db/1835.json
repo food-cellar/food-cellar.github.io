@@ -1,0 +1,80 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печено пуешко бутче с картофи на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pueshko-butche-s-kartofi-2-[1835].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pueshko-butche-s-kartofi-2-[1835].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pueshko-butche-s-kartofi-2-[1835].jpg"
+    ],
+    "datePublished": "2011-11-30",
+    "cookTime": "PT1H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "430 calories",
+      "carbohydrateContent": "34 g",
+      "fatContent": "17 g",
+      "proteinContent": "33 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "11.398 g",
+      "cholesterolContent": "107 mg"
+    },
+    "recipeIngredient": [
+      "2  пуешки бутчета",
+      "800 г картофи",
+      "4 с.л. зехтин",
+      "сол",
+      "дафинов лист",
+      "бахар"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пуешките бутчета (2 бр) се варят около 1 час, заедно с няколко листа давинов лист и бахар. Ако се използва тенджера под налягане, готвенето продължава около 20-25 минути."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Картофите (800 г) се обелват и нарязват на дълги ивици. Поставят се в тавичка, заливат се със зехтин (4 с.л.) и малко от бульона, получен при варенето на бутчетата, така че картофите да са покрити на 1/3. Върху тях се поставят пуешките бутчета, ястието се посолява и се пече на горна и долна фурна около 30-35 минути. Картофите трябва да поемат течността и да получат приятен загар. При необходимост се добавя още от течността."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "За повече аромат картофите може да бъдат поръсени със стръкчета розмарин."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пуешки бутчета",
+      "qty": "2",
+      "id": 235
+    },
+    {
+      "name": "картофи",
+      "qty": "800 г",
+      "id": 16
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "дафинов лист",
+      "qty": "Parsing error",
+      "id": 70
+    },
+    {
+      "name": "бахар",
+      "qty": "Parsing error",
+      "id": 158
+    }
+  ]
+}

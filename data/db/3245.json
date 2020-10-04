@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Макаронена салата с пене паста, чери домати, аспержи и рукола",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/makaronena-salata-s-pene-pasta-cheri-domati-asperji-i-rukola-1-[3245].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/makaronena-salata-s-pene-pasta-cheri-domati-asperji-i-rukola-1-[3245].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/makaronena-salata-s-pene-pasta-cheri-domati-asperji-i-rukola-1-[3245].jpg"
+    ],
+    "datePublished": "2017-09-27",
+    "cookTime": "PT0H45M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "385 calories",
+      "carbohydrateContent": "65 g",
+      "fatContent": "8 g",
+      "proteinContent": "11 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "6.2000833333333 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг пене",
+      "200 г аспержи",
+      "200 г чери домати",
+      "50 г рукола",
+      "6 с.л. зехтин"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пастата пене (1/2 кг) (или макарони) се сваряват, измиват със студена вода и отцеждат."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Аспержите (200 г) се измиват и бланшират в подсолена вода за 5-6 минути. Твърдата част от стеблото им се отчупва и отстранява. Слагат се в студена вода с ледчета. Щом изстинат се разрязват на половинки."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Чери доматчетата (200 г) се нарязват на четвъртинки."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Макароните се поставят в купа, заливат се половината от зехтина и се овкусяват със сол. Към тях се добавят зеленчуците, които са предварително смесени и овкусени с останалия зехтин. Макаронената салата се разбърква и сервира."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пене",
+      "qty": "1/2 кг",
+      "id": 129
+    },
+    {
+      "name": "аспержи",
+      "qty": "200 г",
+      "id": 270
+    },
+    {
+      "name": "чери домати",
+      "qty": "200 г",
+      "id": 15
+    },
+    {
+      "name": "рукола",
+      "qty": "50 г",
+      "id": 155
+    },
+    {
+      "name": "зехтин",
+      "qty": "6 с.л.",
+      "id": 10
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Свинско руло с чесън и хрян",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/svinsko-rulo-s-chesun-1-[135].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/svinsko-rulo-s-chesun-1-[135].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/svinsko-rulo-s-chesun-1-[135].jpg"
+    ],
+    "datePublished": "2010-11-17",
+    "cookTime": "PT3H30M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "751 calories",
+      "carbohydrateContent": "8 g",
+      "fatContent": "60 g",
+      "proteinContent": "41 g",
+      "saturatedFatContent": "20 g",
+      "unsaturatedFatContent": "32.551445 g",
+      "cholesterolContent": "180 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг свински шол",
+      "1 скилидки маринован чесън",
+      "черен пипер",
+      "сол",
+      "2 с.л. хрян"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Месото (1/2 кг) се посолява и поръсва с черен пипер и настърган хрян (2 с.л.). Върху него се разпределят равномерно скилидките маринован чесън (1 скилидки). Месото се навива стегнато на руло и се стяга с конец или се защипва с дървени клечки за зъби. Поставя се в намазнена малка тава. Сипва се малко вода и тавата се покрива с фолио така, че да няма достъп на въздух. Месото се пече на среден огън 3 часа. След това тавата се изважда. Отстранява се фолиото и рулото се допича, докато получи златиста коричка. От време на време се полива с получения при печеното сос или с бяло вино. Поднася се топло със задушен спанак."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "свински шол",
+      "qty": "1/2 кг",
+      "id": 67
+    },
+    {
+      "name": "маринован чесън",
+      "qty": "1 скилидки",
+      "id": 6
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "хрян",
+      "qty": "2 с.л.",
+      "id": 242
+    }
+  ]
+}

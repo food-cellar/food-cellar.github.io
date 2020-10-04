@@ -1,0 +1,118 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пирог с яйца и броколи",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pirog-s-iaica-i-brokoli-1-[2977].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pirog-s-iaica-i-brokoli-1-[2977].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pirog-s-iaica-i-brokoli-1-[2977].jpg"
+    ],
+    "datePublished": "2014-10-30",
+    "cookTime": "PT1H0M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "331 calories",
+      "carbohydrateContent": "25 g",
+      "fatContent": "22 g",
+      "proteinContent": "9 g",
+      "saturatedFatContent": "12 g",
+      "unsaturatedFatContent": "7.24781375 g",
+      "cholesterolContent": "179 mg"
+    },
+    "recipeIngredient": [
+      "200 г брашно",
+      "100 г масло",
+      "1  жълтък",
+      "1 щип. сол",
+      "3 с.л. вода",
+      "1 глава броколи",
+      "4  яйца",
+      "200 г течна сметана",
+      "200 г прясно мляко",
+      "черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Брашното (200 г) се пресява, а маслото (100 г) се нарязва на парченца. Двете се смесват с жълтъка (1 бр), солта (1 щип.) и водата (3 с.л.). Омесва се средно твърдо тесто, което се увива във фолио и се оставя в хладилник за 30 минути. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Броколите (1 глава) се накъсват на розички и се бланшират в подсолена вода, докато омекнат, след това се отцеждат и се подправят сол на вкус. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Дъното на формата за пирог се покрива с хартия за печене. Тестото се разточва върху набрашнена повърхност и се слага във формата, като отстрани се оставя ръб около 4 см. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Плънката от броколи се разпределя върху тестото. Яйцата (4 бр) се разбиват с млякото (200 г) и сметаната (200 г). Подправят се със сол и черен пипер и се изливат върху плънката. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Пирогът се пече около 50 минути при 180 градуса. Преди да се разреже, се оставя леко да се охлади."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "брашно",
+      "qty": "200 г",
+      "id": 7
+    },
+    {
+      "name": "масло",
+      "qty": "100 г",
+      "id": 8
+    },
+    {
+      "name": "жълтък",
+      "qty": "1",
+      "id": 33
+    },
+    {
+      "name": "сол",
+      "qty": "1 щип.",
+      "id": 1
+    },
+    {
+      "name": "вода",
+      "qty": "3 с.л.",
+      "id": 11
+    },
+    {
+      "name": "броколи",
+      "qty": "1 глава",
+      "id": 57
+    },
+    {
+      "name": "яйца",
+      "qty": "4",
+      "id": 5
+    },
+    {
+      "name": "течна сметана",
+      "qty": "200 г",
+      "id": 19
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "200 г",
+      "id": 14
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

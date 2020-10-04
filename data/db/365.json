@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Патладжани със сирене и кашкавал огретен",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/patladjani-ogreten-1-[365].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/patladjani-ogreten-1-[365].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/patladjani-ogreten-1-[365].jpg"
+    ],
+    "datePublished": "2010-11-27",
+    "cookTime": "PT0H45M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "576 calories",
+      "carbohydrateContent": "35 g",
+      "fatContent": "35 g",
+      "proteinContent": "33 g",
+      "saturatedFatContent": "21 g",
+      "unsaturatedFatContent": "10.73496 g",
+      "cholesterolContent": "302 mg"
+    },
+    "recipeIngredient": [
+      "2  патладжана",
+      "200 г сирене",
+      "150 г кашкавал",
+      "4  яйца",
+      "1 л. мляко",
+      "сол",
+      "магданоз",
+      "копър",
+      "олио",
+      "1 глава чесън"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Патладжаните (2 бр) се нарязват на тънки кръгчета. Посоляват се и се оставят да престоят, докато пуснат черния си сок. Измиват се, подсушават се и се изпържват леко в горещо олио. Оставят се върху решетка да се отцедят от мазнината. На продълговата тава дъното се покрива с патладжани. Те се поръсват със счукан чесън, ситно нарязани магданоз и копър, натрошено сирене и настърган кашкавал. Слага се втори ред патладжани, който се покрива със същите съставки, както върху първия ред. Това се повтаря до изчерпване на количествата. Последният ред е от сирене и кашкавал. Яйцата (4 бр) се разбиват на пяна. Добавя се млякото (1 л.) и пак се разбива. С тази смес се залива ястието и се пече в гореща фурна до пълна готовност."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "патладжана",
+      "qty": "2",
+      "id": 71
+    },
+    {
+      "name": "сирене",
+      "qty": "200 г",
+      "id": 32
+    },
+    {
+      "name": "кашкавал",
+      "qty": "150 г",
+      "id": 47
+    },
+    {
+      "name": "яйца",
+      "qty": "4",
+      "id": 5
+    },
+    {
+      "name": "мляко",
+      "qty": "1 л.",
+      "id": 14
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "магданоз",
+      "qty": "Parsing error",
+      "id": 12
+    },
+    {
+      "name": "копър",
+      "qty": "Parsing error",
+      "id": 28
+    },
+    {
+      "name": "олио",
+      "qty": "Parsing error",
+      "id": 4
+    },
+    {
+      "name": "чесън",
+      "qty": "1 глава",
+      "id": 6
+    }
+  ]
+}

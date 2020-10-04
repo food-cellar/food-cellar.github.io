@@ -1,0 +1,48 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печени люти чушлета в бекон на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/luti_chushki_v_bekon_5-[810].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/luti_chushki_v_bekon_5-[810].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/luti_chushki_v_bekon_5-[810].jpg"
+    ],
+    "datePublished": "2010-12-12",
+    "cookTime": "PT0H15M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "688 calories",
+      "carbohydrateContent": "12 g",
+      "fatContent": "65 g",
+      "proteinContent": "12 g",
+      "saturatedFatContent": "24 g",
+      "unsaturatedFatContent": "37.84215 g",
+      "cholesterolContent": "76 mg"
+    },
+    "recipeIngredient": [
+      "6 зелени люти чушки",
+      "6 резена бекон"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Чушлетата (6 зелени) се увиват в бекона (6 резена), нареждат се в намазнена тава и се пекат на фурна, докато беконът стане златист."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "люти чушки",
+      "qty": "6 зелени",
+      "id": 105
+    },
+    {
+      "name": "бекон",
+      "qty": "6 резена",
+      "id": 88
+    }
+  ]
+}

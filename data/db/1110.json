@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата от спанак и орехи",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata_ot_spanak_i_orehi_2-[1110].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata_ot_spanak_i_orehi_2-[1110].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata_ot_spanak_i_orehi_2-[1110].jpg"
+    ],
+    "datePublished": "2011-03-11",
+    "cookTime": "PT0H5M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "214 calories",
+      "carbohydrateContent": "13 g",
+      "fatContent": "15 g",
+      "proteinContent": "12 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "12.630275 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1 кг спанак",
+      "100 г кълнове от люцерна",
+      "1 връзка пресен лук",
+      "50 г орехи",
+      "3 с.л. зехтин",
+      "сол",
+      "3 с.л. лимонов сок"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Листата от спанак (1 кг) се измиват и се оставят да се отцедят. Пресният лук (1 връзка) се нарязва наситно и в подходяща купа се смесва със спанака. Салатата се овкусява с лимонов сок (3 с.л.), сол и зехтин (3 с.л.). Разпределя се в порционни чинии и се поръсва с кълнове (100 г) и орехови ядки (50 г)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "спанак",
+      "qty": "1 кг",
+      "id": 40
+    },
+    {
+      "name": "кълнове от люцерна",
+      "qty": "100 г",
+      "id": 181
+    },
+    {
+      "name": "пресен лук",
+      "qty": "1 връзка",
+      "id": 24
+    },
+    {
+      "name": "орехи",
+      "qty": "50 г",
+      "id": 31
+    },
+    {
+      "name": "зехтин",
+      "qty": "3 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "3 с.л.",
+      "id": 17
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Патладжани на фурна с яйца и сирене",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/patladjani-na-furna-s-iaica-i-sirene-3-[1355].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/patladjani-na-furna-s-iaica-i-sirene-3-[1355].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/patladjani-na-furna-s-iaica-i-sirene-3-[1355].jpg"
+    ],
+    "datePublished": "2011-05-30",
+    "cookTime": "PT1H20M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "371 calories",
+      "carbohydrateContent": "27 g",
+      "fatContent": "22 g",
+      "proteinContent": "17 g",
+      "saturatedFatContent": "10 g",
+      "unsaturatedFatContent": "10.502806666667 g",
+      "cholesterolContent": "237 mg"
+    },
+    "recipeIngredient": [
+      "4  патладжана",
+      "300 г сирене",
+      "6  яйца",
+      "1 ч.ч. прясно мляко",
+      "10 стръка магданоз",
+      "10 стръка копър",
+      "2 скилидки чесън",
+      "сол",
+      "1/2 к.ч. олио"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Патладжаните (4 бр) се нарязват на колелца, посоляват се и се оставят за половин час да пуснат горчивия си сок. След това се измиват и подсушават. Подреждат се в тавичка заливат се с мазнина и като между всеки ред патладжани се поръсва натрошено сирене (300 г), ситно нарязани магданоз (10 стръка) и копър (10 стръка) и пресован чесън (2 скилидки). Ястието се залива със смес от разбитите с прясното мляко (1 ч.ч.) яйца (6 бр) и се пече при 180 градуса до готовност. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "патладжана",
+      "qty": "4",
+      "id": 71
+    },
+    {
+      "name": "сирене",
+      "qty": "300 г",
+      "id": 32
+    },
+    {
+      "name": "яйца",
+      "qty": "6",
+      "id": 5
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "1 ч.ч.",
+      "id": 14
+    },
+    {
+      "name": "магданоз",
+      "qty": "10 стръка",
+      "id": 12
+    },
+    {
+      "name": "копър",
+      "qty": "10 стръка",
+      "id": 28
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "олио",
+      "qty": "1/2 к.ч.",
+      "id": 4
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Баница с кайма, праз и готови точени кори",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/banica-s-kaima-praz-i-gotovi-kori-2-[3109].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/banica-s-kaima-praz-i-gotovi-kori-2-[3109].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/banica-s-kaima-praz-i-gotovi-kori-2-[3109].jpg"
+    ],
+    "datePublished": "2016-11-23",
+    "cookTime": "PT1H0M",
+    "recipeYield": "12 servings",
+    "recipeCategory": "Хлебни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "359 calories",
+      "carbohydrateContent": "38 g",
+      "fatContent": "16 g",
+      "proteinContent": "13 g",
+      "saturatedFatContent": "5 g",
+      "unsaturatedFatContent": "9.2709391666667 g",
+      "cholesterolContent": "36 mg"
+    },
+    "recipeIngredient": [
+      "800 г кори за баница",
+      "600 г кайма",
+      "2 стръка праз",
+      "1  морков",
+      "6 скилидки чесън",
+      "кимион",
+      "черен пипер",
+      "чубрица",
+      "сол",
+      "3 с.л. олио"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Първо се приготвя плънката. За целта в дълбок тиган в олиото (3 с.л.) се задушават ситно нарязаните праз лук (2 стръка), чесън (6 скилидки) и нарязаните на кубчета моркови (1 бр). Щом те омекнат, се добавя каймата (600 г) и се бърка, докато тя стане на трохи и напълно готова. Сместа се подправя на вкус със сол, черен пипер, чубрица и кимион."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Поръсените с получената плънка готови кори (800 г) се навиват на рула и се подреждат в намаслена тавичка."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Витата баница с кайма и праз се пече 40 минути във фурната на 200 градуса. Сервира се топла, но и студена е великолепна на вкус."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Рецептата е част от кулинарната рубрика <a href=https://www.facebook.com/SupermarketCBA/photos/?tab=album&album_id=586993531488996>Какво да сготвя довечера?</a> на  <a href=https://www.facebook.com/SupermarketCBA/>Супермаркети CBA</a> и е създадена с продукти, закупени от техните магазини."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "кори за баница",
+      "qty": "800 г",
+      "id": 138
+    },
+    {
+      "name": "кайма",
+      "qty": "600 г",
+      "id": 54
+    },
+    {
+      "name": "праз",
+      "qty": "2 стръка",
+      "id": 51
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "чесън",
+      "qty": "6 скилидки",
+      "id": 6
+    },
+    {
+      "name": "кимион",
+      "qty": "Parsing error",
+      "id": 42
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "чубрица",
+      "qty": "Parsing error",
+      "id": 36
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "олио",
+      "qty": "3 с.л.",
+      "id": 4
+    }
+  ]
+}

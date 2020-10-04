@@ -1,0 +1,76 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Лесни домашни сладки с мед",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/lesni-sladki-s-med-1-[2562].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/lesni-sladki-s-med-1-[2562].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/lesni-sladki-s-med-1-[2562].jpg"
+    ],
+    "datePublished": "2013-06-07",
+    "cookTime": "PT1H0M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "525 calories",
+      "carbohydrateContent": "91 g",
+      "fatContent": "13 g",
+      "proteinContent": "9 g",
+      "saturatedFatContent": "8 g",
+      "unsaturatedFatContent": "3.8316875 g",
+      "cholesterolContent": "34 mg"
+    },
+    "recipeIngredient": [
+      "3 ч.ч. брашно",
+      "125 г масло",
+      "1/2 ч.ч. захар",
+      "1  яйце",
+      "1/2 ч.ч. мед",
+      "1/2 ч.л. бакпулвер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Мекото масло (125 г), медът (1/2 ч.ч.), яйцето (1) и захарта (1/2 ч.ч.) се разбиват с миксер много добре, докато се получи напълно гладка смес. След това се добавят брашното (3 ч.ч.) и бакпулверът (1/2 ч.л.). Омесва се гладко тесто, което се оформя на топки, които се увиват във фолио и се поставят в хладилник за няколко часа."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "След това тестото се разточва на тънка кора, от която се изрязват сладки с формичка по избор. Те се подреждат на разстояние една от друга в тава, застлана с хартия за печене. Домашните сладки се поръсват с кристална захар и се изпичат в предварително загрята до 180 градуса фурна за около 10-15 минути. След това се изваждат и се охлаждат."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "брашно",
+      "qty": "3 ч.ч.",
+      "id": 7
+    },
+    {
+      "name": "масло",
+      "qty": "125 г",
+      "id": 8
+    },
+    {
+      "name": "захар",
+      "qty": "1/2 ч.ч.",
+      "id": 9
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    },
+    {
+      "name": "мед",
+      "qty": "1/2 ч.ч.",
+      "id": 38
+    },
+    {
+      "name": "бакпулвер",
+      "qty": "1/2 ч.л.",
+      "id": 29
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата от домати с магданоз",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-ot-domati-s-magdanoz-1-[2023].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-ot-domati-s-magdanoz-1-[2023].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-ot-domati-s-magdanoz-1-[2023].jpg"
+    ],
+    "datePublished": "2012-07-23",
+    "cookTime": "PT0H10M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "90 calories",
+      "carbohydrateContent": "6 g",
+      "fatContent": "7 g",
+      "proteinContent": "1 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "5.75593 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "2  розови домата",
+      "1/4 връзка магданоз",
+      "2 с.л. зехтин",
+      "сол",
+      "2  маслини"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Розовите домати (2 бр) се обелват и се нарязват на кубчета. Най-лесният начин да се отстрани ципата им е като тя се разреже съвсем нежно с остър нож под формата на кръст и доматът се постави за няколко секунди във вряща вода и се извади с решетъчна лъжица. След това ципата се отстранява само с издърпване на четирите края, образували се около разрязания кръст. Пресният магданоз (1/4 връзка) се измива и нарязва на ситно. Смесва се с доматите и салатата се овкусява със сол и зехтин (2 с.л.). Сервира се веднага, като по желание се украсява с черна маслина."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "розови домата",
+      "qty": "2",
+      "id": 15
+    },
+    {
+      "name": "магданоз",
+      "qty": "1/4 връзка",
+      "id": 12
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "маслини",
+      "qty": "2",
+      "id": 50
+    }
+  ]
+}

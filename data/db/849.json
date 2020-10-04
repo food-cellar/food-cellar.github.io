@@ -1,0 +1,108 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Доматена супа с галушки с телешка кайма, праз лук и коркови",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/domatena-supa-s-galushki-s-teleshka-kaima-1-[849].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/domatena-supa-s-galushki-s-teleshka-kaima-1-[849].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/domatena-supa-s-galushki-s-teleshka-kaima-1-[849].jpg"
+    ],
+    "datePublished": "2011-10-15",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "366 calories",
+      "carbohydrateContent": "58 g",
+      "fatContent": "7 g",
+      "proteinContent": "16 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "3.9284875 g",
+      "cholesterolContent": "31 mg"
+    },
+    "recipeIngredient": [
+      "1 стрък праз",
+      "1  морков",
+      "1 кубче телешки бульон",
+      "250 г тесто",
+      "150 г телешка кайма",
+      "сол",
+      "черен пипер",
+      "индийско орехче",
+      "1 с.л. зехтин",
+      "40 г брашно",
+      "1 1/2 л. вода",
+      "1/2 л. доматен сос"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Празът (1 стрък) се обелва и нарязва на ситно, морковът (1 бр) - също. Двата зеленчука се заливат с вода (1 1/2 л.) и доматен сос (1/2 л.), посоляват се, и се сваряват заедно с кубчето телешки бульон и зехтина (1 с.л.). Тестото (250 г) се разточва и нарязва на кръгчета. Каймата (150 г) се овкусява със сол, черен пипер и индийско орехче и се поставя в кръгчетата, които след това се оформят като топки и се овалват в брашно (40 г). Така получените галушки се пускат във врящата супа. Щом изплуват на повърхността, супата ври още 5 минути. Поднася се гореща."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "праз",
+      "qty": "1 стрък",
+      "id": 51
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "телешки бульон",
+      "qty": "1 кубче",
+      "id": 26
+    },
+    {
+      "name": "тесто",
+      "qty": "250 г",
+      "id": 262
+    },
+    {
+      "name": "телешка кайма",
+      "qty": "150 г",
+      "id": 134
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "индийско орехче",
+      "qty": "Parsing error",
+      "id": 120
+    },
+    {
+      "name": "зехтин",
+      "qty": "1 с.л.",
+      "id": 10
+    },
+    {
+      "name": "брашно",
+      "qty": "40 г",
+      "id": 7
+    },
+    {
+      "name": "вода",
+      "qty": "1 1/2 л.",
+      "id": 11
+    },
+    {
+      "name": "доматен сос",
+      "qty": "1/2 л.",
+      "id": 86
+    }
+  ]
+}

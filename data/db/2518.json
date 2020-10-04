@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Яйчени хапки - пълнени яйца с майонеза и кисели краставички",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/2518-pulneni-iaica-s-maskarpone-i-kapersi-3-[1365].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/2518-pulneni-iaica-s-maskarpone-i-kapersi-3-[1365].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/2518-pulneni-iaica-s-maskarpone-i-kapersi-3-[1365].jpg"
+    ],
+    "datePublished": "2013-05-28",
+    "cookTime": "PT0H10M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "695 calories",
+      "carbohydrateContent": "17 g",
+      "fatContent": "65 g",
+      "proteinContent": "8 g",
+      "saturatedFatContent": "9 g",
+      "unsaturatedFatContent": "51.26418375 g",
+      "cholesterolContent": "187 mg"
+    },
+    "recipeIngredient": [
+      "8  яйца",
+      "100 с.л. майонеза",
+      "4  кисели краставички",
+      "2 с.л. горчица",
+      "сол",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Яйцата (8 бр) се сваряват, разполовяват се и жълтъците се отделят внимателно. В купа се смесват майонезата (100 с.л.), горчицата (2 с.л.) и настърганите на ренде кисели краставички (4 бр). Добавят се жълтъците и малко сол и се разбърква до получаване на еднородна смес. С помощта на малка лъжица или пош сместа се напълва в белтъчените половинки. Поръсва се с черен пипер."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "яйца",
+      "qty": "8",
+      "id": 5
+    },
+    {
+      "name": "майонеза",
+      "qty": "100 с.л.",
+      "id": 80
+    },
+    {
+      "name": "кисели краставички",
+      "qty": "4",
+      "id": 44
+    },
+    {
+      "name": "горчица",
+      "qty": "2 с.л.",
+      "id": 64
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

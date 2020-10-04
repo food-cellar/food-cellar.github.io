@@ -1,0 +1,122 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата Цезар - класическа рецепта",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-cezar-klasicheska-recepta-1-[3372].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-cezar-klasicheska-recepta-1-[3372].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-cezar-klasicheska-recepta-1-[3372].jpg"
+    ],
+    "datePublished": "2019-05-02",
+    "cookTime": "PT0H20M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "411 calories",
+      "carbohydrateContent": "16 g",
+      "fatContent": "36 g",
+      "proteinContent": "8 g",
+      "saturatedFatContent": "6 g",
+      "unsaturatedFatContent": "27.1381525 g",
+      "cholesterolContent": "54 mg"
+    },
+    "recipeIngredient": [
+      "1  салата айсберг",
+      "2 филии хляб",
+      "2 скилидки чесън",
+      "2 с.л. зехтин",
+      "40 г пармезан",
+      "1  яйце",
+      "1 скилидка чесън",
+      "1 с.л. горчица",
+      "2 с.л. сос Уорчестър",
+      "1  лимон",
+      "1/2 ч.ч. зехтин",
+      "сол",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Салатата айсберг (1 бр) се реже на едро, може и да се накъса. Филийките хляб (2 филии) се режат на кубчета. Чесънът (2 скилидки) се смачква и се смесва със зехтина (2 с.л.) и сол. Крутоните се овалват в тази смес и се запичат в тиган. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Приготвяне на дресинга: яйцето (1 бр) трябва да е прясно. Вари се за 1 минута, като се запазва само жълтъкът. Скилидката чесън (1 скилидка) се пресова и се смесва с жълтъка, зехтина (1/2 ч.ч.), горчицата (1 с.л.), сосът Уорчестър (2 с.л.) и лимоновият сок. Овкусява се със сол и черен пипер на вкус. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Всички продукти за салатата Цезар се смесват в дълбок съд и се разбъркват добре. Заливат се с дресинга и отново се разбъркват."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "салата айсберг",
+      "qty": "1",
+      "id": 101
+    },
+    {
+      "name": "хляб",
+      "qty": "2 филии",
+      "id": 66
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "пармезан",
+      "qty": "40 г",
+      "id": 59
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    },
+    {
+      "name": "чесън",
+      "qty": "1 скилидка",
+      "id": 6
+    },
+    {
+      "name": "горчица",
+      "qty": "1 с.л.",
+      "id": 64
+    },
+    {
+      "name": "сос Уорчестър",
+      "qty": "2 с.л.",
+      "id": 207
+    },
+    {
+      "name": "лимон",
+      "qty": "1",
+      "id": 43
+    },
+    {
+      "name": "зехтин",
+      "qty": "1/2 ч.ч.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

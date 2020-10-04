@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Мъфини с локум и нар",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/mufini-s-lokum-i-nar-2-[1390].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/mufini-s-lokum-i-nar-2-[1390].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/mufini-s-lokum-i-nar-2-[1390].jpg"
+    ],
+    "datePublished": "2011-04-06",
+    "cookTime": "PT0H40M",
+    "recipeYield": "12 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "209 calories",
+      "carbohydrateContent": "40 g",
+      "fatContent": "3 g",
+      "proteinContent": "3 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "2.3121233333333 g",
+      "cholesterolContent": "16 mg"
+    },
+    "recipeIngredient": [
+      "1 1/2 ч.ч. брашно",
+      "1  яйце",
+      "1 к.ч. кисело мляко",
+      "1/2 к.ч. олио",
+      "1 1/2 ч.л. бакпулвер",
+      "1 ч.л. ванилия",
+      "1 ч.ч. захар",
+      "140 г локум",
+      "1  нар"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Яйцето (1 бр), киселото мляко (1 к.ч.), олиото (1/2 к.ч.) и захарта (1 ч.ч.) се разбиват в дълбока купа. Брашното (1 1/2 ч.ч.), бакпулверът (1 1/2 ч.л.) и ванилията (1 ч.л.) се смесват и пресяват. Добавят се към разбитата яйчена смес. Всичко се разбърква много добре. Прибавят се зрънцата от нар (1 бр) и локумът (140 г), нарязан на ситни кубчета. Сместта се разбърква добре и се разпределя във формички за мъфини - предварително намаслени или постлани с хартиени кошнички. Мъфините се пекат в предварително загрята на 180 градуса фурна за около 25 минути.  "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "брашно",
+      "qty": "1 1/2 ч.ч.",
+      "id": 7
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    },
+    {
+      "name": "кисело мляко",
+      "qty": "1 к.ч.",
+      "id": 21
+    },
+    {
+      "name": "олио",
+      "qty": "1/2 к.ч.",
+      "id": 4
+    },
+    {
+      "name": "бакпулвер",
+      "qty": "1 1/2 ч.л.",
+      "id": 29
+    },
+    {
+      "name": "ванилия",
+      "qty": "1 ч.л.",
+      "id": 23
+    },
+    {
+      "name": "захар",
+      "qty": "1 ч.ч.",
+      "id": 9
+    },
+    {
+      "name": "локум",
+      "qty": "140 г",
+      "id": 27
+    },
+    {
+      "name": "нар",
+      "qty": "1",
+      "id": 276
+    }
+  ]
+}

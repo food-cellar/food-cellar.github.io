@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Запеканка от картофи, броколи, сирене, кашкавал и луканка на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zapecheni-kartofki-s-brokoli-sirene-i-lukanka-5-[1960].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zapecheni-kartofki-s-brokoli-sirene-i-lukanka-5-[1960].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zapecheni-kartofki-s-brokoli-sirene-i-lukanka-5-[1960].jpg"
+    ],
+    "datePublished": "2017-03-20",
+    "cookTime": "PT0H40M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "446 calories",
+      "carbohydrateContent": "45 g",
+      "fatContent": "22 g",
+      "proteinContent": "18 g",
+      "saturatedFatContent": "12 g",
+      "unsaturatedFatContent": "7.273245 g",
+      "cholesterolContent": "71 mg"
+    },
+    "recipeIngredient": [
+      "2  картофа",
+      "1  морков",
+      "1/4 глава броколи",
+      "50 г сирене",
+      "40 г луканка",
+      "40 г кашкавал",
+      "1 с.л. масло",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Картофите (2 бр) се сваряват до готовност, обелват се и се нарязват на средни по големина кубчета. Морковът (1 бр) се сварява в подсолена вода и се нарязва на колелца. Броколите (1/4 глава) се измиват и се бланшират в подсолена вода. Зеленчуците се смесват, посоляват се и се овкусяват с разтопено масло (1 с.л.). Разпределят се в глинени съдове и се поръсват с дребни кубчета сирене (50 г) и резени луканка (40 г). Изпичат се в гореща фурна до готовност, като минутки преди да са напълно готови, се поръсват с кашкавал (40 г) и се оставя той да се разтопи. Запечените картофки се сервират горещи."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "картофа",
+      "qty": "2",
+      "id": 16
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "броколи",
+      "qty": "1/4 глава",
+      "id": 57
+    },
+    {
+      "name": "сирене",
+      "qty": "50 г",
+      "id": 32
+    },
+    {
+      "name": "луканка",
+      "qty": "40 г",
+      "id": 67
+    },
+    {
+      "name": "кашкавал",
+      "qty": "40 г",
+      "id": 47
+    },
+    {
+      "name": "масло",
+      "qty": "1 с.л.",
+      "id": 8
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

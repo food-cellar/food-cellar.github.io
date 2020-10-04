@@ -1,0 +1,70 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Енчиладас",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/enchiladas_1-[832].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/enchiladas_1-[832].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/enchiladas_1-[832].jpg"
+    ],
+    "datePublished": "2011-12-10",
+    "cookTime": "PT0H30M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "315 calories",
+      "carbohydrateContent": "13 g",
+      "fatContent": "16 g",
+      "proteinContent": "28 g",
+      "saturatedFatContent": "5 g",
+      "unsaturatedFatContent": "8.50914 g",
+      "cholesterolContent": "94 mg"
+    },
+    "recipeIngredient": [
+      "200 г пилешко месо",
+      "2 глави лук",
+      "1  червена чушка",
+      "2 с.л. зехтин",
+      "50 г гауда"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Лукът (2 глави) и червената чушка се нарязват на ситно и се запържват в зехтина (2 с.л.). Добавя се пилешкото месо (200 г), нарязано на малки кубчета. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Във всяка тортия се слагат 2-3 лъжици от сместа, обвиват се, поръсват се с настъргано сирене гауда (50 г) и се запичат за 10-15 минути."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешко месо",
+      "qty": "200 г",
+      "id": 49
+    },
+    {
+      "name": "лук",
+      "qty": "2 глави",
+      "id": 3
+    },
+    {
+      "name": "червена чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "гауда",
+      "qty": "50 г",
+      "id": 317
+    }
+  ]
+}

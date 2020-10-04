@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Солен кекс със синьо сирене",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/solen-keks-sus-sinioo-sirene-1-[1126].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/solen-keks-sus-sinioo-sirene-1-[1126].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/solen-keks-sus-sinioo-sirene-1-[1126].jpg"
+    ],
+    "datePublished": "2011-04-22",
+    "cookTime": "PT0H45M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "402 calories",
+      "carbohydrateContent": "34 g",
+      "fatContent": "24 g",
+      "proteinContent": "11 g",
+      "saturatedFatContent": "14 g",
+      "unsaturatedFatContent": "8.1748266666667 g",
+      "cholesterolContent": "161 mg"
+    },
+    "recipeIngredient": [
+      "100 г синьо сирене",
+      "2 стръка праз",
+      "50 г масло",
+      "200 г брашно",
+      "2 ч.л. бакпулвер",
+      "30 г стафиди",
+      "200 мл. течна сметана",
+      "3  яйца",
+      "1/2 ч.л. сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Празът (2 стръка) се нарязва на кубчета и се запържва в маслото (50 г). Брашното (200 г) и бакпулверът (2 ч.л.) се пресяват в голяма купа. Добавят се стафидите (30 г) и запърженият праз. Сметаната (200 мл.) се разбива с яйцата (3 бр), като се посолява на вкус. Добавя се нарязаното на кубчета синьо сирене (100 г). Сместа постепенно се налива в брашното. Разбърква се добре и сместа се изсипва в правоъгълна форма за кекс, предварително покрита с намаслена хартия за печене. Соленият кекс се пече 30 минути в предварително загрята до 180 градуса фурна. Поднася се охладен и нарязан на филии."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "синьо сирене",
+      "qty": "100 г",
+      "id": 108
+    },
+    {
+      "name": "праз",
+      "qty": "2 стръка",
+      "id": 51
+    },
+    {
+      "name": "масло",
+      "qty": "50 г",
+      "id": 8
+    },
+    {
+      "name": "брашно",
+      "qty": "200 г",
+      "id": 7
+    },
+    {
+      "name": "бакпулвер",
+      "qty": "2 ч.л.",
+      "id": 29
+    },
+    {
+      "name": "стафиди",
+      "qty": "30 г",
+      "id": 69
+    },
+    {
+      "name": "течна сметана",
+      "qty": "200 мл.",
+      "id": 19
+    },
+    {
+      "name": "яйца",
+      "qty": "3",
+      "id": 5
+    },
+    {
+      "name": "сол",
+      "qty": "1/2 ч.л.",
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Вкусна картофена запеканка с кашкавал и лук на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kartofena-zapekanka-2-[283].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kartofena-zapekanka-2-[283].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kartofena-zapekanka-2-[283].jpg"
+    ],
+    "datePublished": "2010-12-09",
+    "cookTime": "PT1H0M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "327 calories",
+      "carbohydrateContent": "42 g",
+      "fatContent": "12 g",
+      "proteinContent": "13 g",
+      "saturatedFatContent": "7 g",
+      "unsaturatedFatContent": "3.4498666666667 g",
+      "cholesterolContent": "36 mg"
+    },
+    "recipeIngredient": [
+      "1 1/3 кг картофи",
+      "2 глави лук",
+      "сол",
+      "черен пипер",
+      "200 г кашкавал",
+      "300 мл. пилешки бульон",
+      "1 с.л. масло"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Фурната се загрява до 190 градуса. Намазва се с масло керамична форма за печене с размер 20х28 см. Картофите (1 1/3 кг) се обелват и нарязват на тънки парчета - желателно е това да се направи с рендето Вьорнер. Същото се прави и с лука (2 глави). Във формата се нареждат картофите, покриват се със слой лук, овкусяват се с подправките и се поръсват с настъргания кашкавал (200 г). Всичко това се повтаря до изчерпване на съставките. Завършва се със слой картофи. Ястието се полива с пилешки бульон (300 мл.) (той трябва само да покрие картофите). Пече се 1 час - докато картофите омекнат и получат златиста коричка."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "картофи",
+      "qty": "1 1/3 кг",
+      "id": 16
+    },
+    {
+      "name": "лук",
+      "qty": "2 глави",
+      "id": 3
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "кашкавал",
+      "qty": "200 г",
+      "id": 47
+    },
+    {
+      "name": "пилешки бульон",
+      "qty": "300 мл.",
+      "id": 26
+    },
+    {
+      "name": "масло",
+      "qty": "1 с.л.",
+      "id": 8
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Вкусен пържен паниран свински шницел в яйца, брашно и галета с картофи",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/svinski-shnicel-s-kartofi-1-[2750].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/svinski-shnicel-s-kartofi-1-[2750].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/svinski-shnicel-s-kartofi-1-[2750].jpg"
+    ],
+    "datePublished": "2014-02-12",
+    "cookTime": "PT0H45M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "843 calories",
+      "carbohydrateContent": "37 g",
+      "fatContent": "61 g",
+      "proteinContent": "32 g",
+      "saturatedFatContent": "15 g",
+      "unsaturatedFatContent": "40.463405 g",
+      "cholesterolContent": "202 mg"
+    },
+    "recipeIngredient": [
+      "600 г свински шол",
+      "2  яйца",
+      "100 г брашно",
+      "100 г галета",
+      "1/2 ч.л. черен пипер",
+      "сол",
+      "100 мл. олио"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Свинският шол (600 г) се разрязва на четири тънки шницела, които се измиват и подсушават с кухненска хартия. Натриват се със сол и черен пипер (1/2 ч.л.) от двете страни и се начукват с дървен кухненски чук, за да станат крехки. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Всеки шницел се овалва старателно първо в брашно, след това в разбити яйца, а накрая - в галета. Шницелите се потапят в сгорещено олио и се пържат до готовност от двете страни. Готови са тогава, когато панировката стане хрупкава и златна."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Сервират се топли с гарнитура от печени или задушени картофи."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "свински шол",
+      "qty": "600 г",
+      "id": 67
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "брашно",
+      "qty": "100 г",
+      "id": 7
+    },
+    {
+      "name": "галета",
+      "qty": "100 г",
+      "id": 58
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1/2 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "олио",
+      "qty": "100 мл.",
+      "id": 4
+    }
+  ]
+}

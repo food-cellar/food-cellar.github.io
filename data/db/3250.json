@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пуешки бутчета в AirFryer с хрупкава коричка без мазнина",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pueshki-butcheta-v-s-hrupkava-korichka-bez-maznina-2-[3250].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pueshki-butcheta-v-s-hrupkava-korichka-bez-maznina-2-[3250].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pueshki-butcheta-v-s-hrupkava-korichka-bez-maznina-2-[3250].jpg"
+    ],
+    "datePublished": "2017-11-13",
+    "cookTime": "PT1H5M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "439 calories",
+      "carbohydrateContent": "1 g",
+      "fatContent": "20 g",
+      "proteinContent": "58 g",
+      "saturatedFatContent": "6 g",
+      "unsaturatedFatContent": "11.5665 g",
+      "cholesterolContent": "213 mg"
+    },
+    "recipeIngredient": [
+      "2  пуешки бутчета",
+      "1 щип. риган",
+      "1 щип. босилек",
+      "1 щип. розмарин",
+      "1 щип. черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пуешките бутчета (2 бр) се поставят в дълбока тенджера, заливат се с вода, колкото да ги покрие, и се варят в продължение на 40 минути. След това се изваждат и отцеждат. Бульонът може да се запази за супа или да се редуцира чрез варене и да се съхранява в камерата за друга рецепта, за която е нужен вкус и аромат на месо. Пуешките бутчета се поръсват с подправките равномерно, след което се поставят в кошницата на <a href=http://www.philips.bg/c-m-ho/cooking/fritiurnik-airfryer.html?origin=5_bg_bg_airfryer_1001recipes____recipe3>AirFryer</a> на Philips. Уредът се включва на 180 градуса за 25 минути. Пуешките бутчета се готвят без никаква мазнина и се сервират със свежа салата според сезона. Не са сухи, а сочни отвътре, а коричката им, заради технологията на изпичане, остава хрупкава."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пуешки бутчета",
+      "qty": "2",
+      "id": 235
+    },
+    {
+      "name": "риган",
+      "qty": "1 щип.",
+      "id": 65
+    },
+    {
+      "name": "босилек",
+      "qty": "1 щип.",
+      "id": 25
+    },
+    {
+      "name": "розмарин",
+      "qty": "1 щип.",
+      "id": 77
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 щип.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

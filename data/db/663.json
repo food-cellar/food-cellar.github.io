@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Тайландска супа с тофу, гъби печурки и соеви кълнове",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/supa-s-tofu-i-soevi-kulnove-2-[663].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/supa-s-tofu-i-soevi-kulnove-2-[663].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/supa-s-tofu-i-soevi-kulnove-2-[663].jpg"
+    ],
+    "datePublished": "2010-11-28",
+    "cookTime": "PT0H20M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "166 calories",
+      "carbohydrateContent": "13 g",
+      "fatContent": "6 g",
+      "proteinContent": "17 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "4.60654 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1 л. пилешки бульон",
+      "450 г тофу",
+      "1 ч.ч. соеви кълнове",
+      "1 с.л. рибен сос",
+      "1/2 ч.л. сол",
+      "1/2 ч.л. бял пипер",
+      "1 глава лук",
+      "1 с.л. кориандър",
+      "10  печурки"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Бульонът (1 л.) се държи на среден огън. Прибавят се гъбите (10 бр), тофуто (450 г) и ситно нарязаният лук (1 глава) и супата ври, докато соевото сирене омекне. След това се добавят и останалите съставки и ястието ври още 1-2 минути."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешки бульон",
+      "qty": "1 л.",
+      "id": 26
+    },
+    {
+      "name": "тофу",
+      "qty": "450 г",
+      "id": 257
+    },
+    {
+      "name": "соеви кълнове",
+      "qty": "1 ч.ч.",
+      "id": 225
+    },
+    {
+      "name": "рибен сос",
+      "qty": "1 с.л.",
+      "id": 256
+    },
+    {
+      "name": "сол",
+      "qty": "1/2 ч.л.",
+      "id": 1
+    },
+    {
+      "name": "бял пипер",
+      "qty": "1/2 ч.л.",
+      "id": 171
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "кориандър",
+      "qty": "1 с.л.",
+      "id": 97
+    },
+    {
+      "name": "печурки",
+      "qty": "10",
+      "id": 62
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Яйчена салата с китайско зеле, леща, карфиол, моркови, чушки и варени яйца",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/iaichena_salata_s_kitaisko_zele_i_leshta_1-[761].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/iaichena_salata_s_kitaisko_zele_i_leshta_1-[761].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/iaichena_salata_s_kitaisko_zele_i_leshta_1-[761].jpg"
+    ],
+    "datePublished": "2010-10-28",
+    "cookTime": "PT0H10M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "225 calories",
+      "carbohydrateContent": "25 g",
+      "fatContent": "8 g",
+      "proteinContent": "15 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "4.142615 g",
+      "cholesterolContent": "187 mg"
+    },
+    "recipeIngredient": [
+      "6 листа китайско зеле",
+      "2 твърдо сварени яйца",
+      "50 варена леща",
+      "1 маринована червена чушка",
+      "4 розички карфиол",
+      "1  морков",
+      "сол",
+      "1 с.л. зехтин",
+      "1 с.л. лимонов сок"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Зелето (6 листа) се накъсва на едро и се смесва варената леща (50 варена), яйцата (2 твърдо сварени), нарязани на парченца, наситнената чушка (1 маринована), морковчето (1 бр), нарязано на кубчета и карфиола (4 розички). Салатата се овкусява със солта, зехтина (1 с.л.) и лимоновия сок (1 с.л.). "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "китайско зеле",
+      "qty": "6 листа",
+      "id": 233
+    },
+    {
+      "name": "яйца",
+      "qty": "2 твърдо сварени",
+      "id": 5
+    },
+    {
+      "name": "леща",
+      "qty": "50 варена",
+      "id": 106
+    },
+    {
+      "name": "червена чушка",
+      "qty": "1 маринована",
+      "id": 18
+    },
+    {
+      "name": "карфиол",
+      "qty": "4 розички",
+      "id": 91
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "зехтин",
+      "qty": "1 с.л.",
+      "id": 10
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    }
+  ]
+}

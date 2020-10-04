@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Домашен пастет от извара, целина и лук",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pastet-ot-izvara-celina-i-luk-2-[1314].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pastet-ot-izvara-celina-i-luk-2-[1314].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pastet-ot-izvara-celina-i-luk-2-[1314].jpg"
+    ],
+    "datePublished": "2011-05-11",
+    "cookTime": "PT0H10M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "109 calories",
+      "carbohydrateContent": "3 g",
+      "fatContent": "7 g",
+      "proteinContent": "6 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "5.7292475 g",
+      "cholesterolContent": "2 mg"
+    },
+    "recipeIngredient": [
+      "200 г извара",
+      "2 стръка целина",
+      "50 г майонеза",
+      "1/2  сок от лимон",
+      "1 скилидка чесън",
+      "2 с.л. зехтин",
+      "сол",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Слагат се в блендер всички съставки - изварата (200 г), целината (2 стръка), майонезата (50 г), сокът от лимон (1/2 бр), чесънът (1 скилидка), зехтинът (2 с.л.), солта и черният пипер. Пастетът е идеален за препечени филийки."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "извара",
+      "qty": "200 г",
+      "id": 92
+    },
+    {
+      "name": "целина",
+      "qty": "2 стръка",
+      "id": 30
+    },
+    {
+      "name": "майонеза",
+      "qty": "50 г",
+      "id": 80
+    },
+    {
+      "name": "сок от лимон",
+      "qty": "1/2",
+      "id": 17
+    },
+    {
+      "name": "чесън",
+      "qty": "1 скилидка",
+      "id": 6
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

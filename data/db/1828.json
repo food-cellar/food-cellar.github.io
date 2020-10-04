@@ -1,0 +1,74 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Домашен малинов нишестен крем с банан и мюсли",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/malinov-krem-s-banan-i-musli-1-[1828].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/malinov-krem-s-banan-i-musli-1-[1828].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/malinov-krem-s-banan-i-musli-1-[1828].jpg"
+    ],
+    "datePublished": "2012-01-23",
+    "cookTime": "PT0H20M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "250 calories",
+      "carbohydrateContent": "46 g",
+      "fatContent": "4 g",
+      "proteinContent": "7 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "1.697755 g",
+      "cholesterolContent": "12 mg"
+    },
+    "recipeIngredient": [
+      "1 опаковка малинов крем на прах (без варене)",
+      "200 г прясно мляко",
+      "150 г кисело мляко",
+      "1  банан",
+      "100 г мюсли"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Малиновият крем (1 опаковка) се приготвя според инструкциите на опаковката: разбива се с прясно мляко (200 г) с миксер и после се добавя кисело мляко (150 г) и се бърка на по-бавна степен."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Към крема се добавят пасирани банани (1 бр) и мюсли (овесени ядки) (100 г), най-подходящи са мюслите със сушени плодове. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Полученият лесен десерт се разпределя в купички и може да се консумира веднага, но за предпочитане е да се охлади в хладилник за един час."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "малинов крем на прах (без варене)",
+      "qty": "1 опаковка",
+      "id": 234
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "200 г",
+      "id": 14
+    },
+    {
+      "name": "кисело мляко",
+      "qty": "150 г",
+      "id": 21
+    },
+    {
+      "name": "банан",
+      "qty": "1",
+      "id": 123
+    },
+    {
+      "name": "мюсли",
+      "qty": "100 г",
+      "id": 135
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата от варен нахут, кълцани свежи зеленчуци (чушки, чери домати) и препечени кренвирши",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-ot-varen-nahut-kulcani-sveji-zelenchuci-i-prepecheni-krenvirshi-2-[3296].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-ot-varen-nahut-kulcani-sveji-zelenchuci-i-prepecheni-krenvirshi-2-[3296].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-ot-varen-nahut-kulcani-sveji-zelenchuci-i-prepecheni-krenvirshi-2-[3296].jpg"
+    ],
+    "datePublished": "2018-05-17",
+    "cookTime": "PT0H15M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "453 calories",
+      "carbohydrateContent": "46 g",
+      "fatContent": "22 g",
+      "proteinContent": "19 g",
+      "saturatedFatContent": "6 g",
+      "unsaturatedFatContent": "14.622348333333 g",
+      "cholesterolContent": "25 mg"
+    },
+    "recipeIngredient": [
+      "400 г варен нахут",
+      "4  кренвирша",
+      "1  жълта чушка",
+      "1  зелена чушка",
+      "1  червена чушка",
+      "100 г чери домати",
+      "6 стръка копър",
+      "2 с.л. лимонов сок",
+      "4 с.л. зехтин",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Вареният нахут (400 г) се отцежда от консервата, буркана или водата, в която е предварително сварен. Изсипва се в купа и към него се добавят нарязаните на кубчета чушки и ситно накълцаният копър (6 стръка). Прибавят се нарязаните на четвъртинки чери домати (100 г). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Кренвиршите (4 бр) се нарязват на кубчета и се запичат от всички страни в сух тиган с незалепващо покритие, докато се позлатят. Оставят се да се охладят и се добавят към салатата. Тя се овкусява със сол, зехтин (4 с.л.) и прясно изцеден лимонов сок (2 с.л.). Разбърква се старателно и се сервира. По желание се докорира с пресен босилек или се поръсва с натрошени печени орехи. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Салатата с нахут е чудесна идея както за обяд, така и за вечеря. Подходяща е за домашно приготвен обяд в офиса, тъй като е лесна за опаковане в кутия, не отнема време и е вкусна и на следващия ден. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Най-апетитен резултат ще постигнете с кренвирши <a href=http://www.azyam.bg/>Аз ям!</a>. С гаранция от <a href=http://www.gradus.bg/>Градус</a>."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "варен нахут",
+      "qty": "400 г",
+      "id": 145
+    },
+    {
+      "name": "кренвирша",
+      "qty": "4",
+      "id": 161
+    },
+    {
+      "name": "жълта чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "зелена чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "червена чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "чери домати",
+      "qty": "100 г",
+      "id": 15
+    },
+    {
+      "name": "копър",
+      "qty": "6 стръка",
+      "id": 28
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "2 с.л.",
+      "id": 17
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

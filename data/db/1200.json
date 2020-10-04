@@ -1,0 +1,88 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Оризови нудълс с чушки, моркови и бамбук",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/nuduls-s-chushki-morkovi-i-bambuk-2-[1200].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/nuduls-s-chushki-morkovi-i-bambuk-2-[1200].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/nuduls-s-chushki-morkovi-i-bambuk-2-[1200].jpg"
+    ],
+    "datePublished": "2012-07-02",
+    "cookTime": "PT0H20M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "475 calories",
+      "carbohydrateContent": "83 g",
+      "fatContent": "8 g",
+      "proteinContent": "15 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "6.3031625 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "400 г оризови нудъли",
+      "1 глава лук",
+      "1  червенa чушкa",
+      "1  морков",
+      "50 г бамбук",
+      "2 скилидки чесън",
+      "4 с.л. зехтин",
+      "100 мл. соев сос"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Нудълите (400 г) се слагат в дълбока тенджера и се заливат с вряща вода. Оставят се за няколко минути, докато омекнат. В друга тенджера се запържват ситно нарязани лук (1 глава), червени чушки (1 бр), моркови (1 бр), бамбук (50 г) и чесън (2 скилидки). След 2-3 минути, щом леко омекнат, се добавя соевият сос (100 мл.). Разбърква се добре и се добавят нудълите. Готви се още няколко минути, докато се смесят ароматите и се сервира поръсено с пресен копър."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Ако желаете, можете да използвате китайски или азиатски микс, вместо зеленчуците."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "оризови нудъли",
+      "qty": "400 г",
+      "id": 55
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "червенa чушкa",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "бамбук",
+      "qty": "50 г",
+      "id": 390
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "соев сос",
+      "qty": "100 мл.",
+      "id": 53
+    }
+  ]
+}

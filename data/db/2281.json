@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Панирани пилешки филенца с мед",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/panirani-pileshki-filenca-s-med-4-[2281].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/panirani-pileshki-filenca-s-med-4-[2281].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/panirani-pileshki-filenca-s-med-4-[2281].jpg"
+    ],
+    "datePublished": "2013-01-26",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "448 calories",
+      "carbohydrateContent": "28 g",
+      "fatContent": "26 g",
+      "proteinContent": "24 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "20.99899 g",
+      "cholesterolContent": "65 mg"
+    },
+    "recipeIngredient": [
+      "400 г пилешко филе",
+      "6 с.л. мед",
+      "2 с.л. соев сос",
+      "6 с.л. галета",
+      "6 с.л. овесени ядки",
+      "100 мл. олио"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Медът (6 с.л.) и соевият сос (2 с.л.) се смесват и разбъркват до получаването на хомогенна смес. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Овесените ядки (6 с.л.) се поставят в блендер и се смилат до получаването на едри трохи. Смесват се с галетата (6 с.л.) и се поставят в плоска чиния."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Пилешките филета (400 г) се потапят в медената смес и се овалват в галетата и овесените ядки. Пускат се в дълбок тиган със сгорещено олио (100 мл.) и се панират. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Поднасят се горещи със свежа салата според сезона. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешко филе",
+      "qty": "400 г",
+      "id": 49
+    },
+    {
+      "name": "мед",
+      "qty": "6 с.л.",
+      "id": 38
+    },
+    {
+      "name": "соев сос",
+      "qty": "2 с.л.",
+      "id": 53
+    },
+    {
+      "name": "галета",
+      "qty": "6 с.л.",
+      "id": 58
+    },
+    {
+      "name": "овесени ядки",
+      "qty": "6 с.л.",
+      "id": 135
+    },
+    {
+      "name": "олио",
+      "qty": "100 мл.",
+      "id": 4
+    }
+  ]
+}

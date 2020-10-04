@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Броколи в сос от прясно мляко и синьо сирене",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/brokoli-v-mlechen-sos-1-[369].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/brokoli-v-mlechen-sos-1-[369].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/brokoli-v-mlechen-sos-1-[369].jpg"
+    ],
+    "datePublished": "2010-12-05",
+    "cookTime": "PT0H15M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "285 calories",
+      "carbohydrateContent": "29 g",
+      "fatContent": "12 g",
+      "proteinContent": "19 g",
+      "saturatedFatContent": "7 g",
+      "unsaturatedFatContent": "3.91006 g",
+      "cholesterolContent": "36 mg"
+    },
+    "recipeIngredient": [
+      "1 глава броколи",
+      "1 ч.ч. прясно мляко",
+      "50 г синьо сирене",
+      "5 скилидки чесън",
+      "сол",
+      "черен пипер",
+      "1 с.л. брашно"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Броколите (1 глава) се накъсват на розички и се бланшират във вряща подсолена вода. Изваждат се, отцеждат се и се слагат във врящо прясно мляко (1 ч.ч.), в което е натрошено синьото сирене (50 г). Ястието ври, докато сиренето напълно се разтопи. Брашното (1 с.л.) се размива в студена вода и се прибавя на тънка струйка в ястието при непрекъснато бъркане. Щом сосът се сгъсти, съдът се маха от котлона. Прибавят се счуканият със сол чесън (5 скилидки), черният пипер и се разбърква."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "броколи",
+      "qty": "1 глава",
+      "id": 57
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "1 ч.ч.",
+      "id": 14
+    },
+    {
+      "name": "синьо сирене",
+      "qty": "50 г",
+      "id": 108
+    },
+    {
+      "name": "чесън",
+      "qty": "5 скилидки",
+      "id": 6
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "брашно",
+      "qty": "1 с.л.",
+      "id": 7
+    }
+  ]
+}

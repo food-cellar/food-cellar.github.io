@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Бутер баница с пияни вишни",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/buter-banica-s-piiani-vishni-2-[515].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/buter-banica-s-piiani-vishni-2-[515].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/buter-banica-s-piiani-vishni-2-[515].jpg"
+    ],
+    "datePublished": "2011-04-04",
+    "cookTime": "PT1H0M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "588 calories",
+      "carbohydrateContent": "61 g",
+      "fatContent": "32 g",
+      "proteinContent": "7 g",
+      "saturatedFatContent": "8 g",
+      "unsaturatedFatContent": "22.319186666667 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг бутер тесто",
+      "1/2 кг вишни",
+      "1 к.ч. ром",
+      "1 к.ч. захар",
+      "1 опак. ванилия"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Бутер тестото (1/2 кг) се разточва на кръгла кора, с която се обхващат дъното и стените на кръгла форма за печене с незалепващо покритие. Вишните (1/2 кг) се разделят на половинки и костилките им се отстраняват. Слагат се в огнеупорен съд на котлона заедно със захарта (1 к.ч.), ванилията (1 опак.) и рома (1 к.ч.). Врят, докато останат почти без течност. Изсипват се върху бутер тестото и се изравняват. Баницата се пече на фурна до пълна готовност. Поднася се охладена и нарязана на порционни парчета."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "бутер тесто",
+      "qty": "1/2 кг",
+      "id": 117
+    },
+    {
+      "name": "вишни",
+      "qty": "1/2 кг",
+      "id": 277
+    },
+    {
+      "name": "ром",
+      "qty": "1 к.ч.",
+      "id": 74
+    },
+    {
+      "name": "захар",
+      "qty": "1 к.ч.",
+      "id": 9
+    },
+    {
+      "name": "ванилия",
+      "qty": "1 опак.",
+      "id": 23
+    }
+  ]
+}

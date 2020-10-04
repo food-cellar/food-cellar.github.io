@@ -1,0 +1,94 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Зелена салата с чери домати, сирене, маслини и лук",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zelena-salata-s-cheri-domati-sirene-maslini-i-luk-1-[2762].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zelena-salata-s-cheri-domati-sirene-maslini-i-luk-1-[2762].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zelena-salata-s-cheri-domati-sirene-maslini-i-luk-1-[2762].jpg"
+    ],
+    "datePublished": "2014-02-14",
+    "cookTime": "PT0H15M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "222 calories",
+      "carbohydrateContent": "10 g",
+      "fatContent": "17 g",
+      "proteinContent": "7 g",
+      "saturatedFatContent": "6 g",
+      "unsaturatedFatContent": "10.265465 g",
+      "cholesterolContent": "30 mg"
+    },
+    "recipeIngredient": [
+      "1 връзка зелена салата",
+      "250 г чери домати",
+      "200 г маслини",
+      "200 г сирене",
+      "1 глава червен лук",
+      "1  краставица",
+      "1 ч.л. босилек",
+      "6 с.л. зехтин",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Всички зеленчуци се измиват и подсушават. Зелената салата се накъсва, краставицата се нарязва на колелца, чери доматите се разполовяват, а червеният лук се нарязва на много тънки колелца."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Зеленчуците се смесват в купа, овкусяват се със зехтин и сол, разбъркват се и отгоре се поставят кубчета сирене и черни маслини. Салатата се поръсва със сушен босилек и се сервира.  "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "зелена салата",
+      "qty": "1 връзка",
+      "id": 87
+    },
+    {
+      "name": "чери домати",
+      "qty": "250 г",
+      "id": 15
+    },
+    {
+      "name": "маслини",
+      "qty": "200 г",
+      "id": 50
+    },
+    {
+      "name": "сирене",
+      "qty": "200 г",
+      "id": 32
+    },
+    {
+      "name": "червен лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "краставица",
+      "qty": "1",
+      "id": 44
+    },
+    {
+      "name": "босилек",
+      "qty": "1 ч.л.",
+      "id": 25
+    },
+    {
+      "name": "зехтин",
+      "qty": "6 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Зимна салата с доматено пюре и праз",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zimna-salata-s-domateno-pure-i-praz-1-[2240].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zimna-salata-s-domateno-pure-i-praz-1-[2240].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zimna-salata-s-domateno-pure-i-praz-1-[2240].jpg"
+    ],
+    "datePublished": "2012-12-22",
+    "cookTime": "PT0H10M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "157 calories",
+      "carbohydrateContent": "22 g",
+      "fatContent": "7 g",
+      "proteinContent": "3 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "6.0322 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "2 стръка праз",
+      "8  печени червени чушки",
+      "8 с.л. доматено пюре",
+      "4 с.л. олио",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Празът (2 стръка) се нарязва на ситно и се смесва с намачканите с вилица печени белени червени чушки (8 бр) и доматеното пюре (8 с.л.). Салатата се овкусява с олио (4 с.л.) и сол, разбърква се и се сервира. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "праз",
+      "qty": "2 стръка",
+      "id": 51
+    },
+    {
+      "name": "печени червени чушки",
+      "qty": "8",
+      "id": 18
+    },
+    {
+      "name": "доматено пюре",
+      "qty": "8 с.л.",
+      "id": 35
+    },
+    {
+      "name": "олио",
+      "qty": "4 с.л.",
+      "id": 4
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

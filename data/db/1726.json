@@ -1,0 +1,108 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печени телешки стекове, мариновани с червено вино, лимон и горчица поднесени със задушени гъби манатарки",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/teleshki-stek-s-manatarki-1-[1726].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/teleshki-stek-s-manatarki-1-[1726].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/teleshki-stek-s-manatarki-1-[1726].jpg"
+    ],
+    "datePublished": "2012-11-12",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "522 calories",
+      "carbohydrateContent": "8 g",
+      "fatContent": "24 g",
+      "proteinContent": "51 g",
+      "saturatedFatContent": "10 g",
+      "unsaturatedFatContent": "9.67144 g",
+      "cholesterolContent": "206 mg"
+    },
+    "recipeIngredient": [
+      "1 кг телешки стекове",
+      "1/2 кг манатарки",
+      "20 г масло",
+      "1 1/2 ч.ч. червено вино",
+      "1 1/2 с.л. горчица",
+      "1 1/2 с.л. лимонов сок",
+      "1 с.л. винен оцет",
+      "1 с.л. сол",
+      "1 ч.л. лют пипер",
+      "1 ч.л. чесън на прах"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Продуктите за маринатата се смесват и с нея се заливат стековете. Оставят се в хладилник за 24 часа. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Манатарките (1/2 кг) се нарязват на полумесеци и се задушават за няколко минути в маслото (20 г). При необходимост се добавя още мазнина. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Телешките стекове се изпичат на скара. Маринатата се сипва в тиган или тенджера и се кипва. Вари се, докато се сгъсти и стане с консистенция на кетчуп. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Стековете се сервират заедно със задушените гъби и заляти със соса."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "телешки стекове",
+      "qty": "1 кг",
+      "id": 302
+    },
+    {
+      "name": "манатарки",
+      "qty": "1/2 кг",
+      "id": 37
+    },
+    {
+      "name": "масло",
+      "qty": "20 г",
+      "id": 8
+    },
+    {
+      "name": "червено вино",
+      "qty": "1 1/2 ч.ч.",
+      "id": 98
+    },
+    {
+      "name": "горчица",
+      "qty": "1 1/2 с.л.",
+      "id": 64
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 1/2 с.л.",
+      "id": 17
+    },
+    {
+      "name": "винен оцет",
+      "qty": "1 с.л.",
+      "id": 61
+    },
+    {
+      "name": "сол",
+      "qty": "1 с.л.",
+      "id": 1
+    },
+    {
+      "name": "лют пипер",
+      "qty": "1 ч.л.",
+      "id": 132
+    },
+    {
+      "name": "чесън на прах",
+      "qty": "1 ч.л.",
+      "id": 6
+    }
+  ]
+}

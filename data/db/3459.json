@@ -1,0 +1,106 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Виенски шницел от свинско каре (контра филе) паниран в брашно, галета и яйца на тиган",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/3459-vienski-shnicel-s-kartofena-garnitura-3-[2365].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/3459-vienski-shnicel-s-kartofena-garnitura-3-[2365].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/3459-vienski-shnicel-s-kartofena-garnitura-3-[2365].jpg"
+    ],
+    "datePublished": "2020-06-05",
+    "cookTime": "PT0H40M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "934 calories",
+      "carbohydrateContent": "65 g",
+      "fatContent": "61 g",
+      "proteinContent": "31 g",
+      "saturatedFatContent": "17 g",
+      "unsaturatedFatContent": "39.02372 g",
+      "cholesterolContent": "199 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг свинско контрафиле",
+      "2  яйца",
+      "50 г брашно",
+      "50 г галета",
+      "1 щип. черен пипер",
+      "сол",
+      "1 кг картофи",
+      "2 с.л. масло",
+      "1 глава лук",
+      "4 стръка магданоз",
+      "100 мл. олио"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Свинското контрафиле (1/2 кг) се разрязва на четири тънки шницела. Натриват се със сол и черен пипер (1 щип.) от двете страни и се начукват с дървен кухненски чук, за да станат крехки и по-тънки. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Всеки шницел се овалва старателно първо в брашно (50 г), след това в разбити яйца (2 бр), а накрая - в галета (50 г). Шницелите се потапят в сгорещено олио (100 мл.) и се пържат до готовност от двете страни. Готови са тогава, когато панировката стане хрупкава и златна."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "свинско контрафиле",
+      "qty": "1/2 кг",
+      "id": 67
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "брашно",
+      "qty": "50 г",
+      "id": 7
+    },
+    {
+      "name": "галета",
+      "qty": "50 г",
+      "id": 58
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 щип.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "картофи",
+      "qty": "1 кг",
+      "id": 16
+    },
+    {
+      "name": "масло",
+      "qty": "2 с.л.",
+      "id": 8
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "магданоз",
+      "qty": "4 стръка",
+      "id": 12
+    },
+    {
+      "name": "олио",
+      "qty": "100 мл.",
+      "id": 4
+    }
+  ]
+}

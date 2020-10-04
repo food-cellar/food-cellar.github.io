@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пъстра салата Лоло Росо и чушки",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pustra-salata-lolo-roso-i-chushki-3-[2084].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pustra-salata-lolo-roso-i-chushki-3-[2084].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pustra-salata-lolo-roso-i-chushki-3-[2084].jpg"
+    ],
+    "datePublished": "2012-09-16",
+    "cookTime": "PT0H10M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "155 calories",
+      "carbohydrateContent": "12 g",
+      "fatContent": "10 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "8.2739825 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1 връзка зелена салата",
+      "1 връзка салата Лоло Росо",
+      "1  розов домат",
+      "1  жълта чушка",
+      "1  зелена чушка",
+      "1 с.л. лимонов сок",
+      "6 с.л. зехтин",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Салатите се измиват, подсушават и накъсват на едри парчета. Розовият домат се измива, обелва и нарязва на кубчета. Чушките се измиват, почистват се от дръжките и семената и се нарязват на ситни кубчета. Зеленчуците се смесват в дълбока купа и се овкусяват със сол, зехтин и лимонов сок. Салатата се разбърква и се сервира веднага. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "зелена салата",
+      "qty": "1 връзка",
+      "id": 87
+    },
+    {
+      "name": "салата Лоло Росо",
+      "qty": "1 връзка",
+      "id": 87
+    },
+    {
+      "name": "розов домат",
+      "qty": "1",
+      "id": 15
+    },
+    {
+      "name": "жълта чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "зелена чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    },
+    {
+      "name": "зехтин",
+      "qty": "6 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

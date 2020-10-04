@@ -1,0 +1,114 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пържен боб от консерва с доматено пюре или лютеница, моркови, чушки и гъби на тиган",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/bob-s-morkovi-i-gubi-na-tigan-1-[1955].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/bob-s-morkovi-i-gubi-na-tigan-1-[1955].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/bob-s-morkovi-i-gubi-na-tigan-1-[1955].jpg"
+    ],
+    "datePublished": "2012-08-08",
+    "cookTime": "PT0H30M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "780 calories",
+      "carbohydrateContent": "138 g",
+      "fatContent": "5 g",
+      "proteinContent": "51 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "3.441055 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "400 г боб от консерва",
+      "2  моркова",
+      "4  гъби",
+      "1 с.л. доматено пюре",
+      "1 с.л. зехтин",
+      "1 ч.л. риган",
+      "сол",
+      "1  зелена чушка",
+      "1 глава айсберг",
+      "2 стръка копър",
+      "зехтин",
+      "лимонов сок",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Морковите (2 бр) се измиват, почистват и се нарязват на ситни кубчета. Зелената чушка (1 бр)се измива, почиства и нарязва на колелца, а гъбите (4 бр) - на полумесеци. Зеленчуците се задушават в тиган с малко зехтин (1 с.л.) и щом омекнат, се добавя отцеденият от консервата боб (400 г), заедно с подправките и доматеното пюре (1 с.л.). Ястието се оставя за десетина минути, като се разбърква непрекъснато. Сервира се със свежа салата айсберг, овкусена със зехтин, лимонов сок и ситно нарязан копър."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "боб от консерва",
+      "qty": "400 г",
+      "id": 63
+    },
+    {
+      "name": "моркова",
+      "qty": "2",
+      "id": 13
+    },
+    {
+      "name": "гъби",
+      "qty": "4",
+      "id": 37
+    },
+    {
+      "name": "доматено пюре",
+      "qty": "1 с.л.",
+      "id": 35
+    },
+    {
+      "name": "зехтин",
+      "qty": "1 с.л.",
+      "id": 10
+    },
+    {
+      "name": "риган",
+      "qty": "1 ч.л.",
+      "id": 65
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "зелена чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "айсберг",
+      "qty": "1 глава",
+      "id": 101
+    },
+    {
+      "name": "копър",
+      "qty": "2 стръка",
+      "id": 28
+    },
+    {
+      "name": "зехтин",
+      "qty": "Parsing error",
+      "id": 10
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "Parsing error",
+      "id": 17
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

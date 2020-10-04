@@ -1,0 +1,60 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Горчичен сос за салати с уорчестър и оцет",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/gorchichen-sos-za-salati-2-[2329].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/gorchichen-sos-za-salati-2-[2329].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/gorchichen-sos-za-salati-2-[2329].jpg"
+    ],
+    "datePublished": "2013-02-25",
+    "cookTime": "PT0H5M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Сосове",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "10 calories",
+      "carbohydrateContent": "1 g",
+      "fatContent": "0 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.0422675 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "2 с.л. горчица",
+      "3 с.л. сос уорчестър",
+      "1 с.л. оцет",
+      "1 щип. сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "В купа се разбъркват горчицата (2 с.л.), сосът уорчестър (3 с.л.), оцетът (1 с.л.) и солта (1 щип.). Сосът от горчица е подходящ както за свежи зелени салати, така и за салати от кореноплодни - морковена салата, салата от ряпа и други."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "горчица",
+      "qty": "2 с.л.",
+      "id": 64
+    },
+    {
+      "name": "сос уорчестър",
+      "qty": "3 с.л.",
+      "id": 207
+    },
+    {
+      "name": "оцет",
+      "qty": "1 с.л.",
+      "id": 61
+    },
+    {
+      "name": "сол",
+      "qty": "1 щип.",
+      "id": 1
+    }
+  ]
+}

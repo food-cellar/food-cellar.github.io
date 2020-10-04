@@ -1,0 +1,102 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Зелена салата айсберг с яйца, авокадо и червени чушки и краставица",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-s-iaica-avokado-i-chushki-2-[2415].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-s-iaica-avokado-i-chushki-2-[2415].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-s-iaica-avokado-i-chushki-2-[2415].jpg"
+    ],
+    "datePublished": "2013-03-08",
+    "cookTime": "PT0H10M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "242 calories",
+      "carbohydrateContent": "11 g",
+      "fatContent": "19 g",
+      "proteinContent": "8 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "13.37035 g",
+      "cholesterolContent": "187 mg"
+    },
+    "recipeIngredient": [
+      "1 глава айсберг",
+      "1  червена чушка",
+      "1  авокадо",
+      "1  краставица",
+      "4  яйца",
+      "4 с.л. зехтин",
+      "2 с.л. лимонов сок",
+      "1 ч.л. риган",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Салатата айсберг (1 глава) се измива, подсушава се и се нарязва нa дребни парченца. Поставя се в купа и се смесва с нарязаната на ивици червена чушка (1 бр) и нарязаната а полумесеци необелена краставица (1 бр). Зеленчуците се овкусяват със зехтин (4 с.л.) и сол."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Узрялото и омекнало авокадо (1 бр) се обелва, костилката му се отстранява и ядливата му част се нарязва на полумесеци. Веднага щом се нареже, се полива с малко количество прясно изцеден лимонов сок (2 с.л.), за да не промени цвета си. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Салатата се рaзпределя в порционни чинии и всяка порция се декорира с авокадо и на върха се поставя разполовено на две твърдо сварено яйце (4 бр). Салатата се поръсва със сушен риган (1 ч.л.) и се сервира веднага. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Салатата с яйца, авокадо и чушки е апетитно, засищащо и полезно предложение  за здравословно хапване."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "айсберг",
+      "qty": "1 глава",
+      "id": 101
+    },
+    {
+      "name": "червена чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "авокадо",
+      "qty": "1",
+      "id": 83
+    },
+    {
+      "name": "краставица",
+      "qty": "1",
+      "id": 44
+    },
+    {
+      "name": "яйца",
+      "qty": "4",
+      "id": 5
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "2 с.л.",
+      "id": 17
+    },
+    {
+      "name": "риган",
+      "qty": "1 ч.л.",
+      "id": 65
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

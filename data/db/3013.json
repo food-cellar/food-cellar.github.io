@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Лесна лрем супа от броколи с босилек и сирене моцарела",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/krem-supa-ot-brokoli-s-bosilek-i-mocarela-1-[3013].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/krem-supa-ot-brokoli-s-bosilek-i-mocarela-1-[3013].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/krem-supa-ot-brokoli-s-bosilek-i-mocarela-1-[3013].jpg"
+    ],
+    "datePublished": "2015-01-08",
+    "cookTime": "PT0H25M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "250 calories",
+      "carbohydrateContent": "10 g",
+      "fatContent": "19 g",
+      "proteinContent": "12 g",
+      "saturatedFatContent": "11 g",
+      "unsaturatedFatContent": "5.88812 g",
+      "cholesterolContent": "65 mg"
+    },
+    "recipeIngredient": [
+      "1 глава броколи",
+      "1 глава лук",
+      "2 скилидки чесън",
+      "150 г моцарела",
+      "100 мл. течна сметана",
+      "300 мл. вода",
+      "1/2 връзка босилек",
+      "1 щип. черен пипер",
+      "1 с.л. масло",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Тази лесна рецепта ще внесе приятно безвремие във вашия дом и ще ви накара да се отпуснете. Приготвена е за изключително кратко време с <a href=http://www.tefal.bg/All+Products/Food+preparation/Hand+blenders/Products/InfinyForce+HB866A/InfinyForce+HB866A.htm?utm_source=1001recepti&utm_medium=blogpost&utm_campaign=1001recepti_InfinyForce>пасатора Tefal Infiny Force</a>, който има удобна приставка за крем супа.За да се приготви тази свежа и топла супа с броколи и босилек, в дълбока тенджера и на бавен огън се задушават нарязаните на ситно лук и чесън за около 8-9 минути, докато омекнат напълно.Добавят се накъсаните на розички броколи и се заливат с водата. Готвят се във вряща вода за кратко - около 8-9 минути, така че да омекнат, но да запазят ярко зеления си цвят.Пасират се и към тях се добавя сметаната. (Тъй като пасаторът е с метален накрайник, няма нужда да изчаквате да изстинат.  Благодарение на технологията ActivFlow пък, крем супата става изключително гладка и не остават неразбити парченца.)Супата отново се връща на котлона, така че да се загрее. Добавя се настърганата моцарела и се овкусява със сол и черен пипер. Разбърква се и щом е достатъчно топла, се сервира, поръсена с връхчета свеж босилек.Поднася се гореща, с препечени хлебчета, за да създаде вълшебно релаксиращо ухание във вашата кухня."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "броколи",
+      "qty": "1 глава",
+      "id": 57
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "моцарела",
+      "qty": "150 г",
+      "id": 93
+    },
+    {
+      "name": "течна сметана",
+      "qty": "100 мл.",
+      "id": 19
+    },
+    {
+      "name": "вода",
+      "qty": "300 мл.",
+      "id": 11
+    },
+    {
+      "name": "босилек",
+      "qty": "1/2 връзка",
+      "id": 25
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 щип.",
+      "id": 2
+    },
+    {
+      "name": "масло",
+      "qty": "1 с.л.",
+      "id": 8
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

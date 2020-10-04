@@ -1,0 +1,132 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печена бяла риба сулка по краковски във фолио на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/sulka-po-krakovski-1-[129].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/sulka-po-krakovski-1-[129].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/sulka-po-krakovski-1-[129].jpg"
+    ],
+    "datePublished": "2010-11-15",
+    "cookTime": "PT1H15M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "173 calories",
+      "carbohydrateContent": "11 g",
+      "fatContent": "8 g",
+      "proteinContent": "11 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "3.44994 g",
+      "cholesterolContent": "44 mg"
+    },
+    "recipeIngredient": [
+      "1 средна по големина риба сулка",
+      "25 г масло",
+      "1 глава лук",
+      "1  лимон",
+      "400 мл. вода",
+      "150 мл. бира",
+      "25 г овесени ядки",
+      "1  морков",
+      "магданоз",
+      "целина",
+      "карамфил",
+      "дафинов лист",
+      "черен пипер",
+      "захар",
+      "сол",
+      "1 скилидка чесън"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Лукът (1 глава) и нарязаният на сламки морков (1 бр) се задушават в загрятото масло (25 г). Прибавят се настърганата кора от лимон (1 бр) и останалите подправки, налива се гореща вода, съдът се захлупва и всичко се вари 20 минути на среден огън. Прецежда се, смесва се с бирата (150 мл.) и овесените ядки (25 г). Рибата се осолява, намазва с олио и се пече увита във фолио. Щом стане готова, се изважда от фолиото, залива се със соса и се пече още 5-10 минути."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "риба сулка",
+      "qty": "1 средна по големина",
+      "id": 102
+    },
+    {
+      "name": "масло",
+      "qty": "25 г",
+      "id": 8
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "лимон",
+      "qty": "1",
+      "id": 43
+    },
+    {
+      "name": "вода",
+      "qty": "400 мл.",
+      "id": 11
+    },
+    {
+      "name": "бира",
+      "qty": "150 мл.",
+      "id": 137
+    },
+    {
+      "name": "овесени ядки",
+      "qty": "25 г",
+      "id": 135
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "магданоз",
+      "qty": "Parsing error",
+      "id": 12
+    },
+    {
+      "name": "целина",
+      "qty": "Parsing error",
+      "id": 30
+    },
+    {
+      "name": "карамфил",
+      "qty": "Parsing error",
+      "id": 180
+    },
+    {
+      "name": "дафинов лист",
+      "qty": "Parsing error",
+      "id": 70
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "захар",
+      "qty": "Parsing error",
+      "id": 9
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "чесън",
+      "qty": "1 скилидка",
+      "id": 6
+    }
+  ]
+}

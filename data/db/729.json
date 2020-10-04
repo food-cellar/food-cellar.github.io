@@ -1,0 +1,80 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Червен боб в доматен сос",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/cherven-bob-v-domaten-sos-1-[729].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/cherven-bob-v-domaten-sos-1-[729].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/cherven-bob-v-domaten-sos-1-[729].jpg"
+    ],
+    "datePublished": "2010-12-11",
+    "cookTime": "PT1H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "237 calories",
+      "carbohydrateContent": "32 g",
+      "fatContent": "7 g",
+      "proteinContent": "11 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "5.8503225 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1 ч.ч. червен боб",
+      "250 г домати от консерва",
+      "3 скилидки чесън",
+      "30 мл. зехтин",
+      "сол",
+      "магданоз"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Бобът (1 ч.ч.) се накисва за 8 часа в студена вода. (Може да се ползва и боб от консерва.) След това се отцежда, залива се с друга студена вода и се сварява. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Доматите (250 г) се изсипват в тенджера и се варят до сгъстяване. Щом се сгъстят, им се добавят зехтинът , счуканият чесън (3 скилидки), солта. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Доматеният сос и бобът се смесват и се оставят да поврят 5 минути заедно. При поднасяне ястието може да се поръси със ситно нарязан пресен магданоз."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "червен боб",
+      "qty": "1 ч.ч.",
+      "id": 63
+    },
+    {
+      "name": "домати от консерва",
+      "qty": "250 г",
+      "id": 86
+    },
+    {
+      "name": "чесън",
+      "qty": "3 скилидки",
+      "id": 6
+    },
+    {
+      "name": "зехтин",
+      "qty": "30 мл.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "магданоз",
+      "qty": "Parsing error",
+      "id": 12
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Картофено алиго (пюре) със сирене моцарела и готварска сметана ",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kartofeno-aligo-pure-sus-sirene-mocarela-i-gotvarska-smetana-1-[3371].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kartofeno-aligo-pure-sus-sirene-mocarela-i-gotvarska-smetana-1-[3371].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kartofeno-aligo-pure-sus-sirene-mocarela-i-gotvarska-smetana-1-[3371].jpg"
+    ],
+    "datePublished": "2019-03-25",
+    "cookTime": "PT0H45M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "518 calories",
+      "carbohydrateContent": "24 g",
+      "fatContent": "38 g",
+      "proteinContent": "19 g",
+      "saturatedFatContent": "24 g",
+      "unsaturatedFatContent": "12.29486 g",
+      "cholesterolContent": "124 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг картофи",
+      "150 г сирене моцарела",
+      "150 г сирене чедър",
+      "100 мл. течна сметана",
+      "50 г масло",
+      "2 скилидки чесън",
+      "сол",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Картофите (1/2 кг) се обелват и сваряват. Нарязват се на парченца двата вида сирене. Сметаната (100 мл.) се затопля, заедно с маслото (50 г). Картофите се намачкват на пюре и се добавя скълцаният чесън (2 скилидки) и подправките. На водна баня се загрява картофеното пюре и на малки порции се добавят сирената, като постоянно се разбърква. Сместа трябва да стане еднородна. Ястието се поднася топло."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "картофи",
+      "qty": "1/2 кг",
+      "id": 16
+    },
+    {
+      "name": "сирене моцарела",
+      "qty": "150 г",
+      "id": 93
+    },
+    {
+      "name": "сирене чедър",
+      "qty": "150 г",
+      "id": 153
+    },
+    {
+      "name": "течна сметана",
+      "qty": "100 мл.",
+      "id": 19
+    },
+    {
+      "name": "масло",
+      "qty": "50 г",
+      "id": 8
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

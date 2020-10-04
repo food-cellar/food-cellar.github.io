@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пилешки бутчета печени в гювеч с картофи, лук и доматено пюре на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pile-guvech-1-[335].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pile-guvech-1-[335].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pile-guvech-1-[335].jpg"
+    ],
+    "datePublished": "2010-11-09",
+    "cookTime": "PT0H45M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "645 calories",
+      "carbohydrateContent": "99 g",
+      "fatContent": "11 g",
+      "proteinContent": "37 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "7.927285 g",
+      "cholesterolContent": "95 mg"
+    },
+    "recipeIngredient": [
+      "4  пилешки бутчета",
+      "5  картофа",
+      "1 глава лук",
+      "2 с.л. доматено пюре",
+      "червен пипер",
+      "черен пипер",
+      "1 щип. кимион",
+      "1 щип. чесън на прах",
+      "сол",
+      "2 с.л. олио"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "В загрято олио първо се изпържват бутчетата (4 бр) и се изваждат, а след това нарязаният на едро лук (1 глава). Картофите (5 бр) се нарязват на едро и се нареждат в тава заедно с месото и лука. Налива се 1 ч.ч. топла подсолена вода. Ястието се пече на фурна на среден огън до готовност. Доматеното пюре (2 с.л.) се смесва с подправките и малко топла вода. Тази смес се прибавя в ястието и се разбърква. Пече се още 5-10 минути."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешки бутчета",
+      "qty": "4",
+      "id": 119
+    },
+    {
+      "name": "картофа",
+      "qty": "5",
+      "id": 16
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "доматено пюре",
+      "qty": "2 с.л.",
+      "id": 35
+    },
+    {
+      "name": "червен пипер",
+      "qty": "Parsing error",
+      "id": 20
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "кимион",
+      "qty": "1 щип.",
+      "id": 42
+    },
+    {
+      "name": "чесън на прах",
+      "qty": "1 щип.",
+      "id": 6
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    }
+  ]
+}

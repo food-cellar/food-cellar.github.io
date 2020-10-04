@@ -1,0 +1,94 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Ямболски очи",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/iambolski-ochi-2-[113].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/iambolski-ochi-2-[113].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/iambolski-ochi-2-[113].jpg"
+    ],
+    "datePublished": "2010-12-10",
+    "cookTime": "PT1H0M",
+    "recipeYield": "5 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "436 calories",
+      "carbohydrateContent": "22 g",
+      "fatContent": "29 g",
+      "proteinContent": "19 g",
+      "saturatedFatContent": "15 g",
+      "unsaturatedFatContent": "10.962274 g",
+      "cholesterolContent": "436 mg"
+    },
+    "recipeIngredient": [
+      "10  яйца",
+      "1/2 кг картофи",
+      "100 г кашкавал",
+      "300 мл. прясно мляко",
+      "80 г масло",
+      "магданоз",
+      "сол",
+      "черен пипер",
+      "1/2  лимон"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Картофите (1/2 кг) се сваряват, обелват и пасират. Добавят се настърганият кашкавал (100 г), прясното мляко (300 мл.), солта, черният пипер и изцеденото лимонче. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Разбърквате добре и слагате сместа в намазана тавичка, като печете около 10 минути. Изваждате тавичката, правите с лъжичка малки дупки, където чуквате по едно яйце. Запичате отново и поднасяте ястието, поръсено с магданоз, като върху яйцата слагате по зрънце черно пиперче за зеница и стръкче чубрица за мигли."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "яйца",
+      "qty": "10",
+      "id": 5
+    },
+    {
+      "name": "картофи",
+      "qty": "1/2 кг",
+      "id": 16
+    },
+    {
+      "name": "кашкавал",
+      "qty": "100 г",
+      "id": 47
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "300 мл.",
+      "id": 14
+    },
+    {
+      "name": "масло",
+      "qty": "80 г",
+      "id": 8
+    },
+    {
+      "name": "магданоз",
+      "qty": "Parsing error",
+      "id": 12
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "лимон",
+      "qty": "1/2",
+      "id": 43
+    }
+  ]
+}

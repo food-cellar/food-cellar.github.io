@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Свежа салата с моркови, краставици и печени скариди със соев сос",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/sveja-salata-s-morkovi-krastavici-i-pecheni-skaridi-sus-soev-sos-1-[3004].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/sveja-salata-s-morkovi-krastavici-i-pecheni-skaridi-sus-soev-sos-1-[3004].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/sveja-salata-s-morkovi-krastavici-i-pecheni-skaridi-sus-soev-sos-1-[3004].jpg"
+    ],
+    "datePublished": "2015-01-08",
+    "cookTime": "PT0H5M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "78 calories",
+      "carbohydrateContent": "13 g",
+      "fatContent": "0 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.27064 g",
+      "cholesterolContent": "27 mg"
+    },
+    "recipeIngredient": [
+      "3  моркова",
+      "1  краставица",
+      "6  скариди",
+      "2  соев сос",
+      "2  зехтин"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Тази салата е на практика традиционна, но скаридите в нея внасят свеж аромат на морски дарове. Заради свежия си вкус и продуктите в нея тя носи на всеки, който я опита, морско настроение - напук на студените дни. Защото времето навън не определя времето в нас самите. Бъдете слънчеви целогодишно!За да приготвите тази лесна, диетична и полезна салата с моркови, краставици и печени скариди, необходимо е да рендосате зеленчуците и да ги овкусите със зехтин и соев сос, да ги разбъркате старателно и да не добавяте сол, тъй като соевият сос е достатъчно солен. Скаридите се поставят в сух тиган и се изпичат от двете страни за няколко минути, докато променят цвета си и са напълно готови. Поставят се върху салатата и тя се сервира веднага. За да спестите време и да улесните ежедневието си, нашият екип ви препоръчва да използвате <a href=http://www.tefal.bg/All+Products/Food+preparation/Shredders/Products/Fresh+Express+MB756/Fresh+Express+MB756.htm?utm_source=1001recepti&utm_medium=blogpost&utm_campaign=1001recepti_FreshExpress>Fresh Express +</a> - уред, с който ще можете буквално за секунди да приготвите не само тази рецепта, но и много други, в които рязането и рендосването са превърнати от усилие в детска игра. А щом спестите време с този уред, инвестирайте го в избиране на морска дестинация, която да посетите."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "моркова",
+      "qty": "3",
+      "id": 13
+    },
+    {
+      "name": "краставица",
+      "qty": "1",
+      "id": 44
+    },
+    {
+      "name": "скариди",
+      "qty": "6",
+      "id": 104
+    },
+    {
+      "name": "соев сос",
+      "qty": "2",
+      "id": 53
+    },
+    {
+      "name": "зехтин",
+      "qty": "2",
+      "id": 10
+    }
+  ]
+}

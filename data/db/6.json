@@ -1,0 +1,104 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пиле по индийски със сметана, ориз и ябълки",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pile-po-indiiski-3-[6].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pile-po-indiiski-3-[6].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pile-po-indiiski-3-[6].jpg"
+    ],
+    "datePublished": "2010-11-06",
+    "cookTime": "PT0H40M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "810 calories",
+      "carbohydrateContent": "82 g",
+      "fatContent": "29 g",
+      "proteinContent": "55 g",
+      "saturatedFatContent": "14 g",
+      "unsaturatedFatContent": "11.53501 g",
+      "cholesterolContent": "207 mg"
+    },
+    "recipeIngredient": [
+      "220 г пилешко месо",
+      "30 мл. сметана",
+      "1 глава лук",
+      "2 с.л. брашно",
+      "2 с.л. червен пипер",
+      "20 г ябълки",
+      "50 г ориз",
+      "сол",
+      "1 с.л. масло",
+      "2 с.л. сок от грейпфрут"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Месото (220 г) се посолява, поставя се в тенджера със загрято масло и се пържи до зачервяване. Изважда се и в същата мазнина се пасират малки парченца лук (1 глава), предварително попарени и подсушени."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Добавят се брашното (2 с.л.) и пиперът (2 с.л.), заливат се с топла вода или бульон, посоляват се, разбъркват се и в получения сос се поставя месото (220 г)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Пожелание към соса се прибавя сок от прясно изцеден грейпфрут (2 с.л.). Поднася се залято с пюрирания сос и гарнирано с ориз (50 г)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешко месо",
+      "qty": "220 г",
+      "id": 49
+    },
+    {
+      "name": "сметана",
+      "qty": "30 мл.",
+      "id": 19
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "брашно",
+      "qty": "2 с.л.",
+      "id": 7
+    },
+    {
+      "name": "червен пипер",
+      "qty": "2 с.л.",
+      "id": 20
+    },
+    {
+      "name": "ябълки",
+      "qty": "20 г",
+      "id": 85
+    },
+    {
+      "name": "ориз",
+      "qty": "50 г",
+      "id": 22
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "масло",
+      "qty": "1 с.л.",
+      "id": 8
+    },
+    {
+      "name": "сок от грейпфрут",
+      "qty": "2 с.л.",
+      "id": 285
+    }
+  ]
+}

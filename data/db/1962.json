@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Паста фузили със сьомга и чери домати",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pasta-sus-sioomga-i-cheri-domati-1-[1962].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pasta-sus-sioomga-i-cheri-domati-1-[1962].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pasta-sus-sioomga-i-cheri-domati-1-[1962].jpg"
+    ],
+    "datePublished": "2012-05-21",
+    "cookTime": "PT0H40M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "368 calories",
+      "carbohydrateContent": "57 g",
+      "fatContent": "5 g",
+      "proteinContent": "19 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "3.4475 g",
+      "cholesterolContent": "26 mg"
+    },
+    "recipeIngredient": [
+      "150 г паста",
+      "100 г сьомга",
+      "50 г чери домати",
+      "1 с.л. зехтин",
+      "1 ч.л. босилек",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пастата (150 г) се сварява в подсолена вода според указанията на опаковката. Изважда се и се отцежда. Сьомгата (100 г) се нарязва на средни по големина кубчета и се запържва до златисто от двете страни в сух тиган с незалепващо покритие. Чери доматите (50 г) се измиват и разполовяват. Щом сьомгата е напълно готова, към нея се добавят чери доматите и се запържват за няколко минути до омекване. Накрая в тигана се добавя пастата, подправките и супена лъжица зехтин. Всичко се разбърква много добре, докато ароматите се смесят и всички продукти се темперират. Пастата се сервира веднага, като по желание се поръсва с настърган пармезан."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "паста",
+      "qty": "150 г",
+      "id": 55
+    },
+    {
+      "name": "сьомга",
+      "qty": "100 г",
+      "id": 114
+    },
+    {
+      "name": "чери домати",
+      "qty": "50 г",
+      "id": 15
+    },
+    {
+      "name": "зехтин",
+      "qty": "1 с.л.",
+      "id": 10
+    },
+    {
+      "name": "босилек",
+      "qty": "1 ч.л.",
+      "id": 25
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

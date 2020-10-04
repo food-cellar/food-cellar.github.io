@@ -1,0 +1,82 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Розов чеснов домашен пастет",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/rozov-chesnov-pastet-3-[701].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/rozov-chesnov-pastet-3-[701].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/rozov-chesnov-pastet-3-[701].jpg"
+    ],
+    "datePublished": "2011-12-10",
+    "cookTime": "PT0H5M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "79 calories",
+      "carbohydrateContent": "7 g",
+      "fatContent": "3 g",
+      "proteinContent": "4 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "2.336895 g",
+      "cholesterolContent": "2 mg"
+    },
+    "recipeIngredient": [
+      "200 г моркови",
+      "100 г извара",
+      "2 с.л. кисело мляко",
+      "2 с.л. зехтин",
+      "6 скилидки чесън",
+      "сол",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Mорковите (200 г) се настъргват на ситното ренде и се смесват с извара (100 г), кисело мляко (2 с.л.) и зехтин (2 с.л.). Сместа се овкусява с чесън, сол и черен пипер. Пасира се до получаване на гладка смес. Подходящ е като гарнитура или предястие за намазване на препечени филийки."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "На снимката от ляво на дясно: пастет от копър, морковен и чеснов пастет."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "моркови",
+      "qty": "200 г",
+      "id": 13
+    },
+    {
+      "name": "извара",
+      "qty": "100 г",
+      "id": 92
+    },
+    {
+      "name": "кисело мляко",
+      "qty": "2 с.л.",
+      "id": 21
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "чесън",
+      "qty": "6 скилидки",
+      "id": 6
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

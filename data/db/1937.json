@@ -1,0 +1,54 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Компот от праскови",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kompot-ot-praskovi-1-[1937].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kompot-ot-praskovi-1-[1937].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kompot-ot-praskovi-1-[1937].jpg"
+    ],
+    "datePublished": "2012-02-20",
+    "cookTime": "PT1H0M",
+    "recipeYield": "60 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "133 calories",
+      "carbohydrateContent": "34 g",
+      "fatContent": "0 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.0375 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "5 кг праскови",
+      "1 1/2 кг захар",
+      "6 л. вода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Кожицата на плодовете се обелва чрез попарване на плодовете. Те се поставят в мрежа и се потапят за минута във вряща вода, след което се изстудяват в студена вода и при тази обработка кожицата им се отстранява много лесно. Плодовете се нареждат с изпъкналата страна към стената на буркана. Заливат се с горещ захарен сироп. Концентрацията на сиропа е в зависимост от зрелостта на плодовете. При по-зелени плодове се приготвя сироп с по-висока концентрация - 40%, а при добре узрели - 35% (на 1 буркан се пада от 130 до 150 г захар). Бурканите се стерилизират в продължение на 15 минути. Продуктите са за 10 буркана от 1 л."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "праскови",
+      "qty": "5 кг",
+      "id": 156
+    },
+    {
+      "name": "захар",
+      "qty": "1 1/2 кг",
+      "id": 9
+    },
+    {
+      "name": "вода",
+      "qty": "6 л.",
+      "id": 11
+    }
+  ]
+}

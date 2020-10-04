@@ -1,0 +1,114 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Постна спаначена мусака с ориз, яйца, лук и прясно мляко на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/spanachena-musaka-2-[413].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/spanachena-musaka-2-[413].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/spanachena-musaka-2-[413].jpg"
+    ],
+    "datePublished": "2010-12-08",
+    "cookTime": "PT0H45M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "317 calories",
+      "carbohydrateContent": "42 g",
+      "fatContent": "11 g",
+      "proteinContent": "14 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "6.6617583333333 g",
+      "cholesterolContent": "136 mg"
+    },
+    "recipeIngredient": [
+      "1 кг спанак",
+      "4  яйца",
+      "1/2 л. прясно мляко",
+      "1 ч.ч. ориз",
+      "2 глави лук",
+      "1 връзка зелен лук",
+      "2 стръкчета пресен чесън",
+      "5 листа дивесил",
+      "сол",
+      "черен пипер",
+      "индийско орехче",
+      "4 с.л. олио",
+      "2 ч.ч. вода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Лукът (2 глави), чесънът (2 стръкчета), спанакът (1 кг), дивесилът (5 листа) се нарязват на ситно и се задушават в нагорещеното олио. Щом омекнат, се прибавя оризът (1 ч.ч.) и се разбърква. Налива се вода (2 ч.ч.) и се оставя да ври, докато течността се изпари. Оризово-спаначената смес се изсипва в тава и се заглажда. Яйцата (4 бр) се разбиват и смесват с прясното мляко (1/2 л.). С тази смес се залива мусаката и се пече до пълна готовност в предварително загрята фурна."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "спанак",
+      "qty": "1 кг",
+      "id": 40
+    },
+    {
+      "name": "яйца",
+      "qty": "4",
+      "id": 5
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "1/2 л.",
+      "id": 14
+    },
+    {
+      "name": "ориз",
+      "qty": "1 ч.ч.",
+      "id": 22
+    },
+    {
+      "name": "лук",
+      "qty": "2 глави",
+      "id": 3
+    },
+    {
+      "name": "зелен лук",
+      "qty": "1 връзка",
+      "id": 24
+    },
+    {
+      "name": "пресен чесън",
+      "qty": "2 стръкчета",
+      "id": 6
+    },
+    {
+      "name": "дивесил",
+      "qty": "5 листа",
+      "id": 167
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "индийско орехче",
+      "qty": "Parsing error",
+      "id": 120
+    },
+    {
+      "name": "олио",
+      "qty": "4 с.л.",
+      "id": 4
+    },
+    {
+      "name": "вода",
+      "qty": "2 ч.ч.",
+      "id": 11
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Кекс с мая и сини сливи",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/keks-s-maia-i-sini-slivi-1-[3317].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/keks-s-maia-i-sini-slivi-1-[3317].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/keks-s-maia-i-sini-slivi-1-[3317].jpg"
+    ],
+    "datePublished": "2018-08-22",
+    "cookTime": "PT1H0M",
+    "recipeYield": "12 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "313 calories",
+      "carbohydrateContent": "52 g",
+      "fatContent": "8 g",
+      "proteinContent": "6 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "2.6109066666667 g",
+      "cholesterolContent": "37 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг брашно",
+      "100 г захар",
+      "100 г масло",
+      "250 мл. прясно мляко",
+      "1  яйце",
+      "20 г прясна мая",
+      "1 кг сливи"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Прясната мая (20 г) се разтваря в част от прясното мляко (250 мл.). Брашното (1/2 кг) се пресява, смесва се със захарта (100 г) и се прави кладенче. В него се слага маята, яйцето (1 бр), разтопеното масло (100 г) и част от млякото. Започва да се меси, като постепенно се добавя и останалото мляко. Трябва да се получи тесто подобно на хляб. При необходимост се добавя и малко вода. Оставя се на топло за да втаса, докато удвои обема си."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Щом тестото втасва, се разстила в намазнена тавичка. Върху него се разпределят разполовените и почистени от костилките сини сливи (1 кг). Кексът се слага във фурна и се пече около 45-50 минути на 160-170 градуса."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "брашно",
+      "qty": "1/2 кг",
+      "id": 7
+    },
+    {
+      "name": "захар",
+      "qty": "100 г",
+      "id": 9
+    },
+    {
+      "name": "масло",
+      "qty": "100 г",
+      "id": 8
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "250 мл.",
+      "id": 14
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    },
+    {
+      "name": "прясна мая",
+      "qty": "20 г",
+      "id": 52
+    },
+    {
+      "name": "сливи",
+      "qty": "1 кг",
+      "id": 188
+    }
+  ]
+}

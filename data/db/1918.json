@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Солени мъфини с топено сирене",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/soleni-mufini-s-topeno-sirene-2-[1918].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/soleni-mufini-s-topeno-sirene-2-[1918].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/soleni-mufini-s-topeno-sirene-2-[1918].jpg"
+    ],
+    "datePublished": "2012-01-30",
+    "cookTime": "PT0H50M",
+    "recipeYield": "12 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "167 calories",
+      "carbohydrateContent": "18 g",
+      "fatContent": "7 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "4.443055 g",
+      "cholesterolContent": "24 mg"
+    },
+    "recipeIngredient": [
+      "250 г брашно",
+      "250 г кисело мляко",
+      "1/2 к.ч. олио",
+      "1  яйце",
+      "1 ч.л. сол",
+      "1 щип. сода",
+      "150 г топено сирене",
+      "40 г слънчогледови семки"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Киселото мляко (250 г), яйцето (1 бр) и олиото (1/2 к.ч.) се изсипват в дълбока купа и се разбиват. Към тях се добавят смесените и пресети брашно (250 г), сол (1 ч.л.) и сода (1 щип.) и всичко се разбива с миксер до получаването на хомогенна смес. Накрая към нея се добавят нарязаното на парченца топено пушено сирене (150 г) и белените слънчогледови семки (40 г). Всичко се разбърква с лъжица и се разпределя във форми за мъфини. Формата трябва да е метална и в нея да се поставят хартиени кошнички.Мъфините се пекат в предварително загрята до 180 градуса фурна за около 35 минути. Изваждат се и се поднасят топли или охладени.  "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "брашно",
+      "qty": "250 г",
+      "id": 7
+    },
+    {
+      "name": "кисело мляко",
+      "qty": "250 г",
+      "id": 21
+    },
+    {
+      "name": "олио",
+      "qty": "1/2 к.ч.",
+      "id": 4
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    },
+    {
+      "name": "сол",
+      "qty": "1 ч.л.",
+      "id": 1
+    },
+    {
+      "name": "сода",
+      "qty": "1 щип.",
+      "id": 56
+    },
+    {
+      "name": "топено сирене",
+      "qty": "150 г",
+      "id": 112
+    },
+    {
+      "name": "слънчогледови семки",
+      "qty": "40 г",
+      "id": 147
+    }
+  ]
+}

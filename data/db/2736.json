@@ -1,0 +1,100 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пържени картофени кюфтета от сварени картофи и тиквички панирани в яйца и галета (без лук)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kufteta-ot-kartofi-i-tikvichki-2-[2736].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kufteta-ot-kartofi-i-tikvichki-2-[2736].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kufteta-ot-kartofi-i-tikvichki-2-[2736].jpg"
+    ],
+    "datePublished": "2014-02-11",
+    "cookTime": "PT1H0M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "256 calories",
+      "carbohydrateContent": "44 g",
+      "fatContent": "3 g",
+      "proteinContent": "10 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "1.6876966666667 g",
+      "cholesterolContent": "125 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг тиквички",
+      "1/2 кг картофи",
+      "4  яйца",
+      "6 стръка магданоз",
+      "8 с.л. галета",
+      "8 с.л. брашно",
+      "черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Картофите (1/2 кг) се сваряват, обелват и намачкват."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Докато се варят, тиквичките (1/2 кг) се измиват и настъргват на едро ренде. Оставят се в гевгир да се отцедят."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Тиквичките и картофите се смесват и към тях се добавят подправките, ситно нарязаният магданоз (6 стръка) и половината от яйцата."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "От сместа се оформят плоски кюфтета, които се овалват първо в галета, после се топят в разбитите яйца, а след това в брашното. Пържат се в сгорещено олио от двете страни до готовност."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Кюфтетата от картофи и тиквички се сервират с подлучено кисело мляко."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "тиквички",
+      "qty": "1/2 кг",
+      "id": 39
+    },
+    {
+      "name": "картофи",
+      "qty": "1/2 кг",
+      "id": 16
+    },
+    {
+      "name": "яйца",
+      "qty": "4",
+      "id": 5
+    },
+    {
+      "name": "магданоз",
+      "qty": "6 стръка",
+      "id": 12
+    },
+    {
+      "name": "галета",
+      "qty": "8 с.л.",
+      "id": 58
+    },
+    {
+      "name": "брашно",
+      "qty": "8 с.л.",
+      "id": 7
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

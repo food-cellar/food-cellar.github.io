@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Козуначен кейк",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kozunachen_keik_2-[612].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kozunachen_keik_2-[612].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kozunachen_keik_2-[612].jpg"
+    ],
+    "datePublished": "2011-04-22",
+    "cookTime": "PT0H40M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "443 calories",
+      "carbohydrateContent": "68 g",
+      "fatContent": "14 g",
+      "proteinContent": "9 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "9.95888 g",
+      "cholesterolContent": "51 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг брашно",
+      "250 мл. прясно мляко",
+      "20 г мая",
+      "2  яйца",
+      "150 г захар",
+      "кората на 1 лимон",
+      "100 мл. олио"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Яйцата (2 бр) се разбиват на пяна със захарта (150 г) с миксер. В яйчената смес се добавят останалите съставки и всичко се разбива до получаването на кейково тесто. То се оставя на топло да втасва, докато удвои обема си. След това се поставя в намазнена и поръсена с галета форма. Намазва се с разбит с малко вода жълтък и се поръсва със захар. По цялата му повърхност се нареждат половинки от орехови ядки, обърнати с разреза надолу. По желание в тестото може да се добавят стафиди и орехи. Формата се оставя на топло, за да втаса тестото още веднъж. Пече се 10 минути в гореща фурна, а след това на умерен огън до готовност."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "брашно",
+      "qty": "1/2 кг",
+      "id": 7
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "250 мл.",
+      "id": 14
+    },
+    {
+      "name": "мая",
+      "qty": "20 г",
+      "id": 52
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "захар",
+      "qty": "150 г",
+      "id": 9
+    },
+    {
+      "name": "кората на 1 лимон",
+      "qty": "Parsing error",
+      "id": 107
+    },
+    {
+      "name": "олио",
+      "qty": "100 мл.",
+      "id": 4
+    }
+  ]
+}

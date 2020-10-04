@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Кус-кус със сушени домати",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kus_kus_sus_susheni_domati_2-[862].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kus_kus_sus_susheni_domati_2-[862].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kus_kus_sus_susheni_domati_2-[862].jpg"
+    ],
+    "datePublished": "2012-04-18",
+    "cookTime": "PT0H20M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "480 calories",
+      "carbohydrateContent": "69 g",
+      "fatContent": "18 g",
+      "proteinContent": "13 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "13.982625 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "250 г кускус",
+      "150 г сушени домати",
+      "1 к.ч. зехтин",
+      "сол",
+      "босилек"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Кускусът (250 г) се сварява и се отцежда. С водата от него се заливат сушените домати (150 г) и се оставят за няколко минути да омекнат. Нарязват се на ситно и се добавят към кускуса. Овкусява се със зехтин (1 к.ч.), сол, пипер и пресен босилек."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "кускус",
+      "qty": "250 г",
+      "id": 160
+    },
+    {
+      "name": "сушени домати",
+      "qty": "150 г",
+      "id": 121
+    },
+    {
+      "name": "зехтин",
+      "qty": "1 к.ч.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "босилек",
+      "qty": "Parsing error",
+      "id": 25
+    }
+  ]
+}

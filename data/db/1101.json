@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Крем супа от гъби печурки и карфиол с кимион",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/krem_supa_ot_gubi_i_karfiol_2-[1101].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/krem_supa_ot_gubi_i_karfiol_2-[1101].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/krem_supa_ot_gubi_i_karfiol_2-[1101].jpg"
+    ],
+    "datePublished": "2010-11-10",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "110 calories",
+      "carbohydrateContent": "16 g",
+      "fatContent": "3 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "2.6225075 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "300 г печурки",
+      "1 глава карфиол",
+      "2 с.л. брашно",
+      "2 с.л. олио",
+      "1 ч.л. червен пипер",
+      "черен пипер",
+      "кимион",
+      "магданоз",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Карфиолът (1 глава) се разделя на розички и се вари в подсолена вода, докато омекне. Нарязаните гъби (300 г) също се сваряват в подсолена вода в друг съд до омекване. Карфиолът и гъбите се прецеждат (без да се изхвърля водата) и се пасират, докато станат на пюре. Запръжката, направена от олиото (2 с.л.), брашното (2 с.л.) и червения пипер (1 ч.л.), се разрежда с водата, в която са врели гъбите. Към запръжката се прибавя пюрето и се разрежда до желаната гъстота с водата, в която се е варил карфиолът. Супата се сервира гореща, поръсена с черен пипер, кимион и ситно нарязан пресен магданоз."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "печурки",
+      "qty": "300 г",
+      "id": 62
+    },
+    {
+      "name": "карфиол",
+      "qty": "1 глава",
+      "id": 91
+    },
+    {
+      "name": "брашно",
+      "qty": "2 с.л.",
+      "id": 7
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    },
+    {
+      "name": "червен пипер",
+      "qty": "1 ч.л.",
+      "id": 20
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "кимион",
+      "qty": "Parsing error",
+      "id": 42
+    },
+    {
+      "name": "магданоз",
+      "qty": "Parsing error",
+      "id": 12
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

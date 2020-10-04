@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пилешки филенца със сметана и кисели краставички",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pileshki-filenca-sus-smetana-i-kiseli-krastavichki-4-[2198].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pileshki-filenca-sus-smetana-i-kiseli-krastavichki-4-[2198].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pileshki-filenca-sus-smetana-i-kiseli-krastavichki-4-[2198].jpg"
+    ],
+    "datePublished": "2012-12-03",
+    "cookTime": "PT0H25M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "379 calories",
+      "carbohydrateContent": "3 g",
+      "fatContent": "18 g",
+      "proteinContent": "47 g",
+      "saturatedFatContent": "8 g",
+      "unsaturatedFatContent": "7.3975 g",
+      "cholesterolContent": "158 mg"
+    },
+    "recipeIngredient": [
+      "800 г пилешки гърди",
+      "150 мл. сметана",
+      "400 г кисели краставички",
+      "1 ч.л. босилек",
+      "2 с.л. зехтин",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилешките гърди (800 г) се нарязват на жулиени и се запържват до златисто в дълбок тиган с малко зехтин (2 с.л.). Щом месото се зачерви, към него се добавя течната готварска сметана (150 мл.), сушеният босилек (1 ч.л.) и солта. Бърка се, докато сметаната изври и се сгъсти. Накрая се добавят и киселите краставички (400 г), старателно отцедени и нарязани на кубчета. Ястието се сервира горещо с гарнитура от свежа салата според сезона."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешки гърди",
+      "qty": "800 г",
+      "id": 79
+    },
+    {
+      "name": "сметана",
+      "qty": "150 мл.",
+      "id": 19
+    },
+    {
+      "name": "кисели краставички",
+      "qty": "400 г",
+      "id": 44
+    },
+    {
+      "name": "босилек",
+      "qty": "1 ч.л.",
+      "id": 25
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

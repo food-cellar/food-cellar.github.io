@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Макарони с магданоз и пармезан",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/makaroni-s-magdanoz-i-parmezan-6-[821].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/makaroni-s-magdanoz-i-parmezan-6-[821].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/makaroni-s-magdanoz-i-parmezan-6-[821].jpg"
+    ],
+    "datePublished": "2011-01-15",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "411 calories",
+      "carbohydrateContent": "50 g",
+      "fatContent": "15 g",
+      "proteinContent": "18 g",
+      "saturatedFatContent": "8 g",
+      "unsaturatedFatContent": "4.945325 g",
+      "cholesterolContent": "32 mg"
+    },
+    "recipeIngredient": [
+      "250 г макарони",
+      "100 г пармезан",
+      "4 връзки магданоз",
+      "1 с.л. зехтин",
+      "2 с.л. масло",
+      "сол",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Макароните (250 г) се пускат във вряща подсолена вода. Варят се до полуготовност, отцеждат се и се измиват със студена вода. Магданозът (4 връзки) се нарязва на ситно и се задушава в голяма тенджера за 1-2 минути в загрятата смес от зехтин (1 с.л.) и масло (2 с.л.) заедно със солта и черния пипер. Прибавят се макароните и пармезанът (100 г). Разбърква се и тенджерата се захлупва и оставя на котлона за 3 минути. Ястието се поднася топло."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "макарони",
+      "qty": "250 г",
+      "id": 129
+    },
+    {
+      "name": "пармезан",
+      "qty": "100 г",
+      "id": 59
+    },
+    {
+      "name": "магданоз",
+      "qty": "4 връзки",
+      "id": 12
+    },
+    {
+      "name": "зехтин",
+      "qty": "1 с.л.",
+      "id": 10
+    },
+    {
+      "name": "масло",
+      "qty": "2 с.л.",
+      "id": 8
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

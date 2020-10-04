@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Ориз с моркови, праз и сирене пармезан на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/oriz-s-morkovi-i-praz-na-furna-1-[1210].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/oriz-s-morkovi-i-praz-na-furna-1-[1210].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/oriz-s-morkovi-i-praz-na-furna-1-[1210].jpg"
+    ],
+    "datePublished": "2010-12-07",
+    "cookTime": "PT0H50M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "286 calories",
+      "carbohydrateContent": "42 g",
+      "fatContent": "8 g",
+      "proteinContent": "10 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "3.503115 g",
+      "cholesterolContent": "12 mg"
+    },
+    "recipeIngredient": [
+      "1 ч.ч. ориз",
+      "1 стрък праз",
+      "1  морков",
+      "5 с.л. пармезан",
+      "2 с.л. зехтин",
+      "3 ч.ч. вода",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Празът (1 стрък) се нарязва на колелца, а морковът (1 бр) на кубчета. Зеленчуците се поставят в малка тавичка заедно с ориза (1 ч.ч.) и се заливат с подсолена вода (3 ч.ч.). Към ястието се добавя зехтин (2 с.л.) и се изпича във фурната за 40 минути, или докато оризът поеме водата. Накрая се поръсва с настърган пармезан (5 с.л.) и се запича за още няколко минути, докато пармезанът придобие златист цвят. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "ориз",
+      "qty": "1 ч.ч.",
+      "id": 22
+    },
+    {
+      "name": "праз",
+      "qty": "1 стрък",
+      "id": 51
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "пармезан",
+      "qty": "5 с.л.",
+      "id": 59
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "вода",
+      "qty": "3 ч.ч.",
+      "id": 11
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

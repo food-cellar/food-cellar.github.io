@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Манхатън коктейл (Manhattan Cocktail)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/manhatun-kokteil--1-[1685].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/manhatun-kokteil--1-[1685].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/manhatun-kokteil--1-[1685].jpg"
+    ],
+    "datePublished": "2013-02-20",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Коктейли",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "225 calories",
+      "carbohydrateContent": "4 g",
+      "fatContent": "0 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.00275 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "30 мл. вермут",
+      "75 мл. уиски",
+      "1 с.л. битер",
+      "1  коктейлна черешка",
+      "1 резен портокал",
+      "натрошен лед"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Вермутът (30 мл.), уискито (75 мл.) и битера (1 с.л.) се смесват в шейкър с лед. Коктейлът се сервира в чаша за мартини и се украсява с резен портокал и коктейлна черешка. Сипва се натрошен лед преди сервиране. Този известен коктейл е силен и почти толкова популярен, колкото и коктейлът мартини."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "вермут",
+      "qty": "30 мл.",
+      "id": 190
+    },
+    {
+      "name": "уиски",
+      "qty": "75 мл.",
+      "id": 206
+    },
+    {
+      "name": "битер",
+      "qty": "1 с.л.",
+      "id": 27
+    },
+    {
+      "name": "коктейлна черешка",
+      "qty": "1",
+      "id": 126
+    },
+    {
+      "name": "портокал",
+      "qty": "1 резен",
+      "id": 122
+    },
+    {
+      "name": "натрошен лед",
+      "qty": "Parsing error",
+      "id": 281
+    }
+  ]
+}

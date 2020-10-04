@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Хрупкава панирана пържена бяла риба мерлуза в галета и царевично брашно",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/panirana-merluza-1-[310].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/panirana-merluza-1-[310].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/panirana-merluza-1-[310].jpg"
+    ],
+    "datePublished": "2011-10-18",
+    "cookTime": "PT0H15M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "387 calories",
+      "carbohydrateContent": "16 g",
+      "fatContent": "15 g",
+      "proteinContent": "42 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "10.79792 g",
+      "cholesterolContent": "120 mg"
+    },
+    "recipeIngredient": [
+      "400 г мерлуза",
+      "сол",
+      "1  белтък",
+      "2 с.л. галета",
+      "2 с.л. царевично брашно",
+      "2 ч.л. куркума",
+      "черен пипер",
+      "2 с.л. лимонов сок",
+      "1 с.л. зехтин"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Рибата (400 г) се разрязва на две по дължина. Измива се и се оставя да се подсуши. Галетата (2 с.л.), царевичното брашно (2 с.л.), куркумата (2 ч.л.), солта, черният пипер, лимоновият сок и зехтинът (1 с.л.) се смесват за панировка. Белтъкът се разбива на пяна. Порциите риба се топят последователно в белтък, панировка, белтък. Пържат се в предварително сгорещен тиган грил без мазнина."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "мерлуза",
+      "qty": "400 г",
+      "id": 102
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "белтък",
+      "qty": "1",
+      "id": 157
+    },
+    {
+      "name": "галета",
+      "qty": "2 с.л.",
+      "id": 58
+    },
+    {
+      "name": "царевично брашно",
+      "qty": "2 с.л.",
+      "id": 169
+    },
+    {
+      "name": "куркума",
+      "qty": "2 ч.л.",
+      "id": 118
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "2 с.л.",
+      "id": 17
+    },
+    {
+      "name": "зехтин",
+      "qty": "1 с.л.",
+      "id": 10
+    }
+  ]
+}

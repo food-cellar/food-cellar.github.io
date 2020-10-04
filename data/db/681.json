@@ -1,0 +1,102 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Вегетариански карфиол огретен с прясно мляко, яйца, сирене и кашкавал на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/karfiol-na-furna-2-[681].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/karfiol-na-furna-2-[681].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/karfiol-na-furna-2-[681].jpg"
+    ],
+    "datePublished": "2010-11-28",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "478 calories",
+      "carbohydrateContent": "29 g",
+      "fatContent": "28 g",
+      "proteinContent": "28 g",
+      "saturatedFatContent": "16 g",
+      "unsaturatedFatContent": "8.4966025 g",
+      "cholesterolContent": "273 mg"
+    },
+    "recipeIngredient": [
+      "1 глава карфиол",
+      "1/2 л. прясно мляко",
+      "4 с.л. брашно",
+      "1/2 връзка копър",
+      "1/2 връзка магданоз",
+      "сол",
+      "черен пипер",
+      "6 скилидки чесън",
+      "4  яйца",
+      "150 г сирене",
+      "150 г кашкавал"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Карфиолът (1 глава) се нарязва на розички, които се бланшират във вряща подосолена вода. Изваждат се с решетъчна лъжица и се отцеждат. В намазнена тава се слага ред карфиол. Поръсва се със ситно нарязаните копър и магданоз, сол, черен пипер, чесън, натрошено сирене. Слага се втори ред карфиол и се поръсва със същите продукти. Яйцата (4 бр) се разбиват с млякото (1/2 л.) и брашното (4 с.л.). С тях се залива карфиолът, поръсва се с настърган кашкавал (150 г)и се пече до пълна готовност в предварително загрята фурна. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "карфиол",
+      "qty": "1 глава",
+      "id": 91
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "1/2 л.",
+      "id": 14
+    },
+    {
+      "name": "брашно",
+      "qty": "4 с.л.",
+      "id": 7
+    },
+    {
+      "name": "копър",
+      "qty": "1/2 връзка",
+      "id": 28
+    },
+    {
+      "name": "магданоз",
+      "qty": "1/2 връзка",
+      "id": 12
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "чесън",
+      "qty": "6 скилидки",
+      "id": 6
+    },
+    {
+      "name": "яйца",
+      "qty": "4",
+      "id": 5
+    },
+    {
+      "name": "сирене",
+      "qty": "150 г",
+      "id": 32
+    },
+    {
+      "name": "кашкавал",
+      "qty": "150 г",
+      "id": 47
+    }
+  ]
+}

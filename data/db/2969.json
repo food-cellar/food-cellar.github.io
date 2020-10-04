@@ -1,0 +1,80 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Запечени броколи и карфиол (вегетарианска запеканка) с прясно мляко, яйца и кашкавал на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zapecheni-brokoli-i-karfiol-s-priasno-mliako-iaica-i-kashkaval-1-[2969].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zapecheni-brokoli-i-karfiol-s-priasno-mliako-iaica-i-kashkaval-1-[2969].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zapecheni-brokoli-i-karfiol-s-priasno-mliako-iaica-i-kashkaval-1-[2969].jpg"
+    ],
+    "datePublished": "2014-10-24",
+    "cookTime": "PT0H45M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "268 calories",
+      "carbohydrateContent": "20 g",
+      "fatContent": "14 g",
+      "proteinContent": "19 g",
+      "saturatedFatContent": "7 g",
+      "unsaturatedFatContent": "5.13973 g",
+      "cholesterolContent": "174 mg"
+    },
+    "recipeIngredient": [
+      "1 глава карфиол",
+      "1 глава броколи",
+      "3  яйца",
+      "300 мл. прясно мляко",
+      "100 г кашкавал",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Карфиолът (1 глава) и броколите [2]] се накъсват на розички и се пускат във вряща подсолена вода, докато омекнат. След това се отцеждат старателно."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Поставят се в касерола или друг огнеупорен съд и се заливат със смес от разбитите яйца (3 бр) и прясно мляко (300 мл.). Тази смес е добре предварително да се посоли."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Ястието се поставя във фурната и се пече около половин час при 180 градуса. След това се поръсва с настърган кашкавал (100 г) и се връща за още няколко минути в горещата фурна. Сервира се топло."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "карфиол",
+      "qty": "1 глава",
+      "id": 91
+    },
+    {
+      "name": "броколи",
+      "qty": "1 глава",
+      "id": 57
+    },
+    {
+      "name": "яйца",
+      "qty": "3",
+      "id": 5
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "300 мл.",
+      "id": 14
+    },
+    {
+      "name": "кашкавал",
+      "qty": "100 г",
+      "id": 47
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Паниран червен лук",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/paniran-cherven-luk-1-[3324].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/paniran-cherven-luk-1-[3324].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/paniran-cherven-luk-1-[3324].jpg"
+    ],
+    "datePublished": "2018-09-06",
+    "cookTime": "PT0H25M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "734 calories",
+      "carbohydrateContent": "20 g",
+      "fatContent": "70 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "7 g",
+      "unsaturatedFatContent": "58.6879125 g",
+      "cholesterolContent": "94 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг червен лук",
+      "2  яйца",
+      "3 с.л. брашно",
+      "150 мл. бира",
+      "300 мл. олио за пържене"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Червеният лук (1/2 кг) се нарязва на кръгчета, с дебелина малко по-голяма от половин сантиметър. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Яйцата (2 бр), брашното (3 с.л.) и бирата (150 мл.) се разбиват, като трябва да се получи гладко тесто, подобно на такова за палачинки. Ако е необходимо се добавя още брашно."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Лучените кръгчета се посоляват, потапят се в яйчената панировка и се пържат в нагорещената мазнина. Изваждат се, щом панировката придобие златист цвят."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "червен лук",
+      "qty": "1/2 кг",
+      "id": 3
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "брашно",
+      "qty": "3 с.л.",
+      "id": 7
+    },
+    {
+      "name": "бира",
+      "qty": "150 мл.",
+      "id": 137
+    },
+    {
+      "name": "олио за пържене",
+      "qty": "300 мл.",
+      "id": 4
+    }
+  ]
+}

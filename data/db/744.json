@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печен маринован цял телешки джолан с бяло вино и лют червен пипер под фолио на фурна с гарнитура от картофено и спаначено пюре на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pechen-djolan-4-[744].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pechen-djolan-4-[744].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pechen-djolan-4-[744].jpg"
+    ],
+    "datePublished": "2010-12-11",
+    "cookTime": "PT1H20M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "1366 calories",
+      "carbohydrateContent": "24 g",
+      "fatContent": "32 g",
+      "proteinContent": "213 g",
+      "saturatedFatContent": "12 g",
+      "unsaturatedFatContent": "13.91061 g",
+      "cholesterolContent": "781 mg"
+    },
+    "recipeIngredient": [
+      "2 кг телешко месо",
+      "сол",
+      "черен пипер",
+      "лют червен пипер",
+      "1 ч.ч. бяло вино",
+      "100 г бяло зеле",
+      "1  морков",
+      "2 глави лук",
+      "100 г картофено пюре",
+      "15 г бейби царевички"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Телешкият джолан (2 кг) се маринова с бялото вино (1 ч.ч.) и подправките 4 часа на студено. След това се увива в готварско фолио и се пече на фурна 4 часа. Фолиото се маха и джоланът се допича, докато получи златиста коричка. Поднася се със салата от зеле (100 г) и морков (1 бр), пълнен печен лук (2 глави) с картофено пюре (100 г), бейби царевички (15 г) и спаначено пюре. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "телешко месо",
+      "qty": "2 кг",
+      "id": 110
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "лют червен пипер",
+      "qty": "Parsing error",
+      "id": 132
+    },
+    {
+      "name": "бяло вино",
+      "qty": "1 ч.ч.",
+      "id": 41
+    },
+    {
+      "name": "бяло зеле",
+      "qty": "100 г",
+      "id": 94
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "лук",
+      "qty": "2 глави",
+      "id": 3
+    },
+    {
+      "name": "картофено пюре",
+      "qty": "100 г",
+      "id": 291
+    },
+    {
+      "name": "бейби царевички",
+      "qty": "15 г",
+      "id": 78
+    }
+  ]
+}

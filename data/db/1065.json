@@ -1,0 +1,60 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Коктейл Mint Julep",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kokteil--1-[1065].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kokteil--1-[1065].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kokteil--1-[1065].jpg"
+    ],
+    "datePublished": "2012-07-14",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Коктейли",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "261 calories",
+      "carbohydrateContent": "8 g",
+      "fatContent": "0 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.004 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "100 мл. уиски",
+      "1 с.л. вода",
+      "1 с.л. пудра захар",
+      "4 листенца мента"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "В старомодна чаша (old-fashioned) се слагат ментовите листенца (4 листенца), пудрата захар (1 с.л.) и водата (1 с.л.). Намачкват се, така че ментата да изпусне аромата си, а пудрата захар да се разтвори. Добавят се ледът и уискито (100 мл.)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "уиски",
+      "qty": "100 мл.",
+      "id": 206
+    },
+    {
+      "name": "вода",
+      "qty": "1 с.л.",
+      "id": 11
+    },
+    {
+      "name": "пудра захар",
+      "qty": "1 с.л.",
+      "id": 34
+    },
+    {
+      "name": "мента",
+      "qty": "4 листенца",
+      "id": 90
+    }
+  ]
+}

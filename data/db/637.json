@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Планински омлет с брашно",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/planinski-omlet-2-[637].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/planinski-omlet-2-[637].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/planinski-omlet-2-[637].jpg"
+    ],
+    "datePublished": "2011-01-11",
+    "cookTime": "PT0H10M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "503 calories",
+      "carbohydrateContent": "41 g",
+      "fatContent": "25 g",
+      "proteinContent": "24 g",
+      "saturatedFatContent": "12 g",
+      "unsaturatedFatContent": "10.208395 g",
+      "cholesterolContent": "516 mg"
+    },
+    "recipeIngredient": [
+      "6 с.л. брашно",
+      "5  яйца",
+      "1 1/2 ч.ч. прясно мляко",
+      "1 щип. сол",
+      "20 г масло"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Яйцата (5 бр) се разбиват. Прибавя се брашното (6 с.л.) и пак се разбива. Полученото тесто се разрежда с прясното мляко (1 1/2 ч.ч.) и се разбива до еднородна смес. Посолява се и пак се разбива. В нагорещен тиган се слага малко масло и след като се разтопи, с него се облива дъното. Половината от тестото се излива в тигана и омлетът се пече от едната страна. Щом се отлепи от дъното, се обръща от другата страна и се пече до пълна готовност. Поднася се със салата според сезона."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "брашно",
+      "qty": "6 с.л.",
+      "id": 7
+    },
+    {
+      "name": "яйца",
+      "qty": "5",
+      "id": 5
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "1 1/2 ч.ч.",
+      "id": 14
+    },
+    {
+      "name": "сол",
+      "qty": "1 щип.",
+      "id": 1
+    },
+    {
+      "name": "масло",
+      "qty": "20 г",
+      "id": 8
+    }
+  ]
+}

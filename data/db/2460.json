@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата айсберг с моркови и репички",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-aisberg-s-morkovi-i-repichki-1-[2460].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-aisberg-s-morkovi-i-repichki-1-[2460].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-aisberg-s-morkovi-i-repichki-1-[2460].jpg"
+    ],
+    "datePublished": "2013-03-28",
+    "cookTime": "PT0H10M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "59 calories",
+      "carbohydrateContent": "6 g",
+      "fatContent": "3 g",
+      "proteinContent": "1 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "2.435675 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1 глава айсберг",
+      "2  моркова",
+      "1 връзка репички",
+      "4 стръка магданоз",
+      "2 с.л. зехтин",
+      "1 с.л. лимонов сок",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Салатата айсберг (1 глава) се измива и нарязва на средни по големина парченца. Към нея се добавят нарязаните на много тънки колелца моркови (2 бр) и нарязаните на колелца репички (1 връзка). Към салатата се добавя ситно нарязан магданоз (4 стръка) и се овкусява със зехтин (2 с.л.), лимонов сок (1 с.л.) и сол. Разбърква се старателно и се сервира веднага."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "айсберг",
+      "qty": "1 глава",
+      "id": 101
+    },
+    {
+      "name": "моркова",
+      "qty": "2",
+      "id": 13
+    },
+    {
+      "name": "репички",
+      "qty": "1 връзка",
+      "id": 218
+    },
+    {
+      "name": "магданоз",
+      "qty": "4 стръка",
+      "id": 12
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

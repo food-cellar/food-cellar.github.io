@@ -1,0 +1,98 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Класически кебапчета на скара с телешка и свинска кайма",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/klasicheski-kebapcheta-na-skara-1-[3003].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/klasicheski-kebapcheta-na-skara-1-[3003].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/klasicheski-kebapcheta-na-skara-1-[3003].jpg"
+    ],
+    "datePublished": "2014-11-06",
+    "cookTime": "PT0H40M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "573 calories",
+      "carbohydrateContent": "0 g",
+      "fatContent": "42 g",
+      "proteinContent": "44 g",
+      "saturatedFatContent": "15 g",
+      "unsaturatedFatContent": "21.713505 g",
+      "cholesterolContent": "188 mg"
+    },
+    "recipeIngredient": [
+      "700 г свинска кайма",
+      "300 г телешка кайма",
+      "1/2 ч.л. кимион",
+      "1/2 ч.л. черен пипер",
+      "сол",
+      "150 мл. газирана вода",
+      "1 щип. сода",
+      "1 к.ч. вода",
+      "1 к.ч. оцет"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Телешката и свинската кайма се смесват в купа и към тях се добавят газираната вода (150 мл.), кимионът (1/2 ч.л.), черният пипер (1/2 ч.л.), содата (1 щип.) и солта на вкус. Каймата се омесва много добре и се оставя за една нощ в хладилник."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "На следващия ден каймата се оформя на кебапчета с мокри ръце, потопени във вода и оцет в равни количества. Кебапчетата се пекат на максимално сгорещена скара, като се обръщат, за да се изпекат от всички страни."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "При печенето се търкалят само в една посока на три пъти."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "свинска кайма",
+      "qty": "700 г",
+      "id": 54
+    },
+    {
+      "name": "телешка кайма",
+      "qty": "300 г",
+      "id": 134
+    },
+    {
+      "name": "кимион",
+      "qty": "1/2 ч.л.",
+      "id": 42
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1/2 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "газирана вода",
+      "qty": "150 мл.",
+      "id": 199
+    },
+    {
+      "name": "сода",
+      "qty": "1 щип.",
+      "id": 56
+    },
+    {
+      "name": "вода",
+      "qty": "1 к.ч.",
+      "id": 11
+    },
+    {
+      "name": "оцет",
+      "qty": "1 к.ч.",
+      "id": 61
+    }
+  ]
+}

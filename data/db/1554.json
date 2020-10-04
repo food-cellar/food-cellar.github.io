@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Свински ребърца в меден сос",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/svinski-reburca-v-meden-sos-2-[1554].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/svinski-reburca-v-meden-sos-2-[1554].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/svinski-reburca-v-meden-sos-2-[1554].jpg"
+    ],
+    "datePublished": "2011-07-24",
+    "cookTime": "PT0H50M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "1140 calories",
+      "carbohydrateContent": "20 g",
+      "fatContent": "68 g",
+      "proteinContent": "101 g",
+      "saturatedFatContent": "23 g",
+      "unsaturatedFatContent": "37.2584825 g",
+      "cholesterolContent": "300 mg"
+    },
+    "recipeIngredient": [
+      "2 кг свински ребърца",
+      "100 мл. мед",
+      "4 с.л. соев сос",
+      "100 мл. бяло вино",
+      "100 мл. вода",
+      "3 скилидки чесън",
+      "червен пипер",
+      "черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Ребърцата (2 кг) се нарязват поотделно или се оставят на парчета по няколко. Подреждат се в тавичка и се поливат със соса, получен от разбиването на течния мед (100 мл.), соевия сос (4 с.л.), бялото вино (100 мл.), водата (100 мл.), пресования чесън (3 скилидки) и подправките. Пекат се при температура 180-200 градуса до пълна готовност. Поднасят се топли с гарнитура от зеленчуци или свежа салата."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "свински ребърца",
+      "qty": "2 кг",
+      "id": 216
+    },
+    {
+      "name": "мед",
+      "qty": "100 мл.",
+      "id": 38
+    },
+    {
+      "name": "соев сос",
+      "qty": "4 с.л.",
+      "id": 53
+    },
+    {
+      "name": "бяло вино",
+      "qty": "100 мл.",
+      "id": 41
+    },
+    {
+      "name": "вода",
+      "qty": "100 мл.",
+      "id": 11
+    },
+    {
+      "name": "чесън",
+      "qty": "3 скилидки",
+      "id": 6
+    },
+    {
+      "name": "червен пипер",
+      "qty": "Parsing error",
+      "id": 20
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

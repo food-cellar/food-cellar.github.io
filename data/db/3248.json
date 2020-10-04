@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Диетични пържени кюфтета без мазнина от бяло пилешко месо, гъби и пармезан в AirFryer",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/dietichni-purjeni-kufteta-bez-maznina-ot-bialo-pileshko-meso-gubi-i-parmezan-2-[3248].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/dietichni-purjeni-kufteta-bez-maznina-ot-bialo-pileshko-meso-gubi-i-parmezan-2-[3248].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/dietichni-purjeni-kufteta-bez-maznina-ot-bialo-pileshko-meso-gubi-i-parmezan-2-[3248].jpg"
+    ],
+    "datePublished": "2017-11-13",
+    "cookTime": "PT0H35M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "384 calories",
+      "carbohydrateContent": "7 g",
+      "fatContent": "14 g",
+      "proteinContent": "54 g",
+      "saturatedFatContent": "6 g",
+      "unsaturatedFatContent": "5.93262 g",
+      "cholesterolContent": "241 mg"
+    },
+    "recipeIngredient": [
+      "400 г пилешко филе",
+      "50 г печурки",
+      "50 г пармезан",
+      "1/2 глава лук",
+      "1  яйце",
+      "1 връзка магданоз",
+      "1 щип. риган",
+      "1 щип. босилек",
+      "1 щип. черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Всички продукти се режат на парчета и се поставят в кухненски робот. Пасират се до получаване на гъста кайма, от която с мокри ръце се оформят средни по големина кюфтета.  Поставят се в <a href=http://www.philips.bg/c-m-ho/cooking/fritiurnik-airfryer.html?origin=5_bg_bg_airfryer_1001recipes____recipe3>AirFryer</a> на Philips и уредът се включва на 180 градуса за 25 минути. Хрупкавите кюфтета от пилешко месо се готвят без никаква мазнина и се сервират със свежа салата според сезона. Не са сухи, а сочни, въпреки, че за тях се използва най-сухото месо от пилето."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешко филе",
+      "qty": "400 г",
+      "id": 49
+    },
+    {
+      "name": "печурки",
+      "qty": "50 г",
+      "id": 62
+    },
+    {
+      "name": "пармезан",
+      "qty": "50 г",
+      "id": 59
+    },
+    {
+      "name": "лук",
+      "qty": "1/2 глава",
+      "id": 3
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    },
+    {
+      "name": "магданоз",
+      "qty": "1 връзка",
+      "id": 12
+    },
+    {
+      "name": "риган",
+      "qty": "1 щип.",
+      "id": 65
+    },
+    {
+      "name": "босилек",
+      "qty": "1 щип.",
+      "id": 25
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 щип.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

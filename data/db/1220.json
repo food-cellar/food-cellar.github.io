@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Гювече с тиква, грах, сирене, кашкавал и яйца на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/guveche-s-tikva-i-grah-4-[1220].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/guveche-s-tikva-i-grah-4-[1220].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/guveche-s-tikva-i-grah-4-[1220].jpg"
+    ],
+    "datePublished": "2010-12-04",
+    "cookTime": "PT0H40M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "549 calories",
+      "carbohydrateContent": "25 g",
+      "fatContent": "40 g",
+      "proteinContent": "23 g",
+      "saturatedFatContent": "24 g",
+      "unsaturatedFatContent": "12.95841 g",
+      "cholesterolContent": "297 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг тиква",
+      "400 г грах",
+      "120 г сирене",
+      "120 г кашкавал",
+      "4  яйца",
+      "100 г масло",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "На дъното на всяко гювече се поставят натрошено сирене (120 г) и настърган кашкавал (120 г). Грахът от консерва (400 г) се смесва с нарязаната на малки кубчета сурова тиква (1/2 кг). Посоляват се и се изсипват в гювечетата. Във всяка порция се чуква по едно яйце и се поставят парченца масло (100 г). Гювечетата се пекат с капак 40 минути при 200 градуса.Може да се приготви и с боб от консерва."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "тиква",
+      "qty": "1/2 кг",
+      "id": 116
+    },
+    {
+      "name": "грах",
+      "qty": "400 г",
+      "id": 68
+    },
+    {
+      "name": "сирене",
+      "qty": "120 г",
+      "id": 32
+    },
+    {
+      "name": "кашкавал",
+      "qty": "120 г",
+      "id": 47
+    },
+    {
+      "name": "яйца",
+      "qty": "4",
+      "id": 5
+    },
+    {
+      "name": "масло",
+      "qty": "100 г",
+      "id": 8
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Маринован гъши дроб на тиган",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/marinovan_gushi_drob_3-[256].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/marinovan_gushi_drob_3-[256].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/marinovan_gushi_drob_3-[256].jpg"
+    ],
+    "datePublished": "2010-12-11",
+    "cookTime": "PT0H30M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "323 calories",
+      "carbohydrateContent": "15 g",
+      "fatContent": "10 g",
+      "proteinContent": "35 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "2.59355 g",
+      "cholesterolContent": "1036 mg"
+    },
+    "recipeIngredient": [
+      "400 г гъши дроб",
+      "6 с.л. червено вино",
+      "2 скилидки чесън",
+      "4 с.л. соев сос",
+      "черен пипер",
+      "сол",
+      "дафинов лист",
+      "25 г топено сирене"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Гъшият дроб  (400 г)се измива и подсушава. Чесънът (2 скилидки) се счуква със сол. Виното (6 с.л.), соевият сос (4 с.л.) и подправките се разбъркват. С тази марината се заливат дробчетата и престояват 2 часа на студено. Отцеждат се и се задушават в тиган грил заедно с маринатата. Добавя се топеното сирене (25 г) и се разбърква, докато се разтопи. Дробчетата се поднасят върху картофено пюре, гарнирани със задушени в масло броколи и поръсени със семки от нар."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "гъши дроб",
+      "qty": "400 г",
+      "id": 326
+    },
+    {
+      "name": "червено вино",
+      "qty": "6 с.л.",
+      "id": 98
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "соев сос",
+      "qty": "4 с.л.",
+      "id": 53
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "дафинов лист",
+      "qty": "Parsing error",
+      "id": 70
+    },
+    {
+      "name": "топено сирене",
+      "qty": "25 г",
+      "id": 112
+    }
+  ]
+}

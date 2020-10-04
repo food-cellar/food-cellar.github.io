@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Десертни кремчета от пшеничен грис, прясно мляко, течна готварска сметана и малини",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/krem-ot-gris-i-malini-1-[1531].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/krem-ot-gris-i-malini-1-[1531].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/krem-ot-gris-i-malini-1-[1531].jpg"
+    ],
+    "datePublished": "2011-08-31",
+    "cookTime": "PT0H20M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "286 calories",
+      "carbohydrateContent": "33 g",
+      "fatContent": "14 g",
+      "proteinContent": "6 g",
+      "saturatedFatContent": "8 g",
+      "unsaturatedFatContent": "4.56545 g",
+      "cholesterolContent": "52 mg"
+    },
+    "recipeIngredient": [
+      "50 г бял пшеничен грис",
+      "125 мл. течна сметана",
+      "1/2 л. прясно мляко",
+      "60 г захар",
+      "1 опак. ванилия",
+      "100 г малини"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Прясното мляко (1/2 л.), течната сметана (125 мл.), ванилията (1 опак.) и захарта (60 г) се изсипват в малка тенджерка и се оставят да заврят на слаб огън на котлона. След това към тях се добавя грисът (50 г) и се бърка непрекъснато, докато се разтвори и сгъсти. Котлонът се намалява още и кашата се оставя да покъкри още няколко минути. Разпределя се в десертни купички, оставя се леко да се охлади и се посипва с пресни плодове по избор (100 г). "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "бял пшеничен грис",
+      "qty": "50 г",
+      "id": 140
+    },
+    {
+      "name": "течна сметана",
+      "qty": "125 мл.",
+      "id": 19
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "1/2 л.",
+      "id": 14
+    },
+    {
+      "name": "захар",
+      "qty": "60 г",
+      "id": 9
+    },
+    {
+      "name": "ванилия",
+      "qty": "1 опак.",
+      "id": 23
+    },
+    {
+      "name": "малини",
+      "qty": "100 г",
+      "id": 141
+    }
+  ]
+}

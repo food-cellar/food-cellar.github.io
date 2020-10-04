@@ -1,0 +1,100 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пикантен сос от чушки, пресен кориандър, чесън, мед, кориандър и лимон",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pikanten-sos-ot-presen-koriandur-i-limon-1-[1787].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pikanten-sos-ot-presen-koriandur-i-limon-1-[1787].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pikanten-sos-ot-presen-koriandur-i-limon-1-[1787].jpg"
+    ],
+    "datePublished": "2012-01-23",
+    "cookTime": "PT0H15M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Сосове",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "101 calories",
+      "carbohydrateContent": "7 g",
+      "fatContent": "8 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "6.7628875 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1  червена чушка",
+      "1 скилидка чесън",
+      "1 г джинджифил",
+      "3 с.л. лимонов сок",
+      "3 с.л. мед",
+      "10 мл. ябълков оцет",
+      "1 връзка кориандър",
+      "5 с.л. зехтин",
+      "1 щип. лют червен пипер",
+      "1 щип. сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "С помощта на блендер или кухненски робот се нарязват добре червените чушки (1 бр), чесънът (1 скилидка), коренът от джинджифил (1 г) и листата от кориандър (1 връзка). Наливат се лимоновият сок (3 с.л.), медът (3 с.л.), оцетът (10 мл.). Добавят се солта (1 щип.) и лютият червен пипер (1 щип.), и за още няколко секунди се разбъркват добре. Най-накрая се добавя зехтинът (5 с.л.) и се разбърква на най-ниска степен."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Сосът има леко пикантен, сладко-кисел вкус - идеалната добавка за свежи летни салати."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "червена чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "чесън",
+      "qty": "1 скилидка",
+      "id": 6
+    },
+    {
+      "name": "джинджифил",
+      "qty": "1 г",
+      "id": 84
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "3 с.л.",
+      "id": 17
+    },
+    {
+      "name": "мед",
+      "qty": "3 с.л.",
+      "id": 38
+    },
+    {
+      "name": "ябълков оцет",
+      "qty": "10 мл.",
+      "id": 236
+    },
+    {
+      "name": "кориандър",
+      "qty": "1 връзка",
+      "id": 97
+    },
+    {
+      "name": "зехтин",
+      "qty": "5 с.л.",
+      "id": 10
+    },
+    {
+      "name": "лют червен пипер",
+      "qty": "1 щип.",
+      "id": 132
+    },
+    {
+      "name": "сол",
+      "qty": "1 щип.",
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Задушени броколи със зехтин, кокосова сметана и кашу на тиган",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/brokoli-s-kokosova-smetana-i-kashu-1-[677].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/brokoli-s-kokosova-smetana-i-kashu-1-[677].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/brokoli-s-kokosova-smetana-i-kashu-1-[677].jpg"
+    ],
+    "datePublished": "2010-12-12",
+    "cookTime": "PT0H10M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "287 calories",
+      "carbohydrateContent": "17 g",
+      "fatContent": "23 g",
+      "proteinContent": "7 g",
+      "saturatedFatContent": "8 g",
+      "unsaturatedFatContent": "13.148215 g",
+      "cholesterolContent": "14 mg"
+    },
+    "recipeIngredient": [
+      "600 г броколи",
+      "40 г кашу",
+      "1 с.л. оцет",
+      "1 1/2 л. вода",
+      "сол",
+      "30 мл. зехтин",
+      "100 г зелен лук",
+      "15 мл. зехтин",
+      "50 мл. кокосова сметана",
+      "50 мл. сметана",
+      "1 ч.л. лют пипер",
+      "1 с.л. кленов сироп"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Ядките кашу (40 г) се разполовяват. Лукът (100 г) се нарязва на колелца. Броколите (600 г) се накъсват на розички и се бланшират във вряща подослена вода за 2-3 минути, след което се отцеждат. Зехтин се нагорещяват в тиган. Прибавя се лукът и се пържи до омекване. Добавят се розичките броколи, посоляват се и се разбърква. Наливат се двата вида сметана и кленовият сироп (1 с.л.). Ястието се поръсва с лютия пипер (1 ч.л.) и ври, докато 2/3 от течността изврят. Броколите се поднасят поръсени с изпържено в зехтин кашу."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "броколи",
+      "qty": "600 г",
+      "id": 57
+    },
+    {
+      "name": "кашу",
+      "qty": "40 г",
+      "id": 200
+    },
+    {
+      "name": "оцет",
+      "qty": "1 с.л.",
+      "id": 61
+    },
+    {
+      "name": "вода",
+      "qty": "1 1/2 л.",
+      "id": 11
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "зехтин",
+      "qty": "30 мл.",
+      "id": 10
+    },
+    {
+      "name": "зелен лук",
+      "qty": "100 г",
+      "id": 24
+    },
+    {
+      "name": "зехтин",
+      "qty": "15 мл.",
+      "id": 10
+    },
+    {
+      "name": "кокосова сметана",
+      "qty": "50 мл.",
+      "id": 100
+    },
+    {
+      "name": "сметана",
+      "qty": "50 мл.",
+      "id": 19
+    },
+    {
+      "name": "лют пипер",
+      "qty": "1 ч.л.",
+      "id": 132
+    },
+    {
+      "name": "кленов сироп",
+      "qty": "1 с.л.",
+      "id": 356
+    }
+  ]
+}

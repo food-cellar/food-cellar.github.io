@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пълнена сьомгова пъстърва с ароматни подправки печена на фурна с картофи и розмарин",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pulnena-sioomgova-pusturva-s-aromatni-podpravki-6-[2311].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pulnena-sioomgova-pusturva-s-aromatni-podpravki-6-[2311].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pulnena-sioomgova-pusturva-s-aromatni-podpravki-6-[2311].jpg"
+    ],
+    "datePublished": "2013-02-11",
+    "cookTime": "PT1H30M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "284 calories",
+      "carbohydrateContent": "37 g",
+      "fatContent": "9 g",
+      "proteinContent": "13 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "6.7374016666667 g",
+      "cholesterolContent": "22 mg"
+    },
+    "recipeIngredient": [
+      "1  сьомгова пъстърва",
+      "1 кг картофи",
+      "1 връзка зелен лук",
+      "1  лимон",
+      "3 стръка розмарин",
+      "4 с.л. галета",
+      "сол",
+      "50 мл. олио",
+      "1 ч.ч. вода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Картофите (1 кг) се измиват, обелват и нарязват на колелца. Рибата (1 бр) се почиства и измива. Посолява се отвътре и отвън. Отвътре се поръсва обилно с галета (4 с.л.) и се напълва с резени пресен лимон (1 бр), стръкове пресен розмарин (3 стръка) и ситно нарязан пресен лук (1 връзка). Рибата се зашива с подходящ конец и се поставя в тавичка, като около нея се подреждат картофите. Всичко се поръсва със сол и се полива с олио (50 мл.) и вода (1 ч.ч.). Ястието се поставя в гореща фурна и се пече час - час и половина при температура от 200 градуса.Рибата се декорира със стръкове пресен лук и розмарин и се сервира гореща."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "сьомгова пъстърва",
+      "qty": "1",
+      "id": 114
+    },
+    {
+      "name": "картофи",
+      "qty": "1 кг",
+      "id": 16
+    },
+    {
+      "name": "зелен лук",
+      "qty": "1 връзка",
+      "id": 24
+    },
+    {
+      "name": "лимон",
+      "qty": "1",
+      "id": 43
+    },
+    {
+      "name": "розмарин",
+      "qty": "3 стръка",
+      "id": 77
+    },
+    {
+      "name": "галета",
+      "qty": "4 с.л.",
+      "id": 58
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "олио",
+      "qty": "50 мл.",
+      "id": 4
+    },
+    {
+      "name": "вода",
+      "qty": "1 ч.ч.",
+      "id": 11
+    }
+  ]
+}

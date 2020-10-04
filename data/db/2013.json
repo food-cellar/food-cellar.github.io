@@ -1,0 +1,60 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Млечен десерт с шоколад и какаови бисквити",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/mlechen-desert-s-shokolad-i-kakaovi-biskviti-2-[2013].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/mlechen-desert-s-shokolad-i-kakaovi-biskviti-2-[2013].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/mlechen-desert-s-shokolad-i-kakaovi-biskviti-2-[2013].jpg"
+    ],
+    "datePublished": "2012-06-29",
+    "cookTime": "PT0H5M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "175 calories",
+      "carbohydrateContent": "18 g",
+      "fatContent": "10 g",
+      "proteinContent": "4 g",
+      "saturatedFatContent": "5 g",
+      "unsaturatedFatContent": "3.69988 g",
+      "cholesterolContent": "13 mg"
+    },
+    "recipeIngredient": [
+      "400 г кисело мляко",
+      "4 с.л. течен шоколад",
+      "4  какаови бисквити",
+      "1 с.л. шоколадови капчици"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "На дъното на десертни купички се изсипва течен шоколад (4 с.л.). Върху него се поставят начупени на малки парченца какаови бисквити (4 бр) и десертът се залива с добре охладено пълномаслено кисело мляко (400 г). Заглажда се с лъжица и се декорира с шоколадови капчици (1 с.л.) (готов продукт) или с настърган шоколад."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "кисело мляко",
+      "qty": "400 г",
+      "id": 21
+    },
+    {
+      "name": "течен шоколад",
+      "qty": "4 с.л.",
+      "id": 48
+    },
+    {
+      "name": "какаови бисквити",
+      "qty": "4",
+      "id": 95
+    },
+    {
+      "name": "шоколадови капчици",
+      "qty": "1 с.л.",
+      "id": 48
+    }
+  ]
+}

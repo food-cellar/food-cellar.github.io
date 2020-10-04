@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Солени бисквити със спанак",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/soleni-biskviti-sus-spanak-3-[1343].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/soleni-biskviti-sus-spanak-3-[1343].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/soleni-biskviti-sus-spanak-3-[1343].jpg"
+    ],
+    "datePublished": "2011-06-27",
+    "cookTime": "PT0H45M",
+    "recipeYield": "30 servings",
+    "recipeCategory": "Хлебни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "100 calories",
+      "carbohydrateContent": "10 g",
+      "fatContent": "5 g",
+      "proteinContent": "1 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "1.285472 g",
+      "cholesterolContent": "21 mg"
+    },
+    "recipeIngredient": [
+      "400 г брашно",
+      "200 г масло",
+      "200 г спанак",
+      "1  яйце",
+      "1 щип. сода",
+      "1 ч.л. сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Брашното (400 г), содата (1 щип.) и солта (1 ч.л.) се пресяват в голяма купа. Прибавят се разбитото яйце (1 бр) и мекото масло (200 г). От тези продукти се омесва тесто. Спанакът (200 г) се бланшира в подсолена вода, отцежда се, подсушава се и се нарязва на много ситно. Прибавя се към тестото и то се омесва много добре. Разточва се на кора и с чаша се отрязват кръгли бисквити. Те се слагат в тавичка, на дъното на която е поставена хартия за печене. Бисквитите се пекат за 30 минути при 180 градуса."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "брашно",
+      "qty": "400 г",
+      "id": 7
+    },
+    {
+      "name": "масло",
+      "qty": "200 г",
+      "id": 8
+    },
+    {
+      "name": "спанак",
+      "qty": "200 г",
+      "id": 40
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    },
+    {
+      "name": "сода",
+      "qty": "1 щип.",
+      "id": 56
+    },
+    {
+      "name": "сол",
+      "qty": "1 ч.л.",
+      "id": 1
+    }
+  ]
+}

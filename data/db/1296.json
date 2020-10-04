@@ -1,0 +1,108 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Яхния от зелен фасул (зелен боб) с лук, моркови, домати и чесън",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/iahniia-ot-zelen-fasul-1-[1296].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/iahniia-ot-zelen-fasul-1-[1296].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/iahniia-ot-zelen-fasul-1-[1296].jpg"
+    ],
+    "datePublished": "2012-07-02",
+    "cookTime": "PT0H45M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "133 calories",
+      "carbohydrateContent": "23 g",
+      "fatContent": "3 g",
+      "proteinContent": "4 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "2.5359075 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг зелен фасул",
+      "1 глава лук",
+      "2  моркова",
+      "4 скилидки чесън",
+      "2  домата",
+      "2 с.л. брашно",
+      "сол",
+      "черен пипер",
+      "червен пипер",
+      "чубрица",
+      "магданоз",
+      "2 с.л. олио"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Зеленият фасул (1/2 кг) се измива и нарязва. Задушават се лукът (1 глава), морковите (2 бр) и чесънът (4 скилидки). Щом омекнат, се добавят зеленият фасул и червеният пипер. Залива се с малко вода и се оставя да се задуши на слаб огън. Овкусява се със сол и пипер. Щом сосът намалее, се добавят доматите (2 бр), нарязани на дребни кубчета или рендосани. Разбърква се и когато заври, се сгъстява с брашното (2 с.л.), разтворено в малко вода. Готви се още няколко минути при постоянно бъркане и накрая се овкусява с чубрица и магданоз."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "зелен фасул",
+      "qty": "1/2 кг",
+      "id": 99
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "моркова",
+      "qty": "2",
+      "id": 13
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "домата",
+      "qty": "2",
+      "id": 15
+    },
+    {
+      "name": "брашно",
+      "qty": "2 с.л.",
+      "id": 7
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "червен пипер",
+      "qty": "Parsing error",
+      "id": 20
+    },
+    {
+      "name": "чубрица",
+      "qty": "Parsing error",
+      "id": 36
+    },
+    {
+      "name": "магданоз",
+      "qty": "Parsing error",
+      "id": 12
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    }
+  ]
+}

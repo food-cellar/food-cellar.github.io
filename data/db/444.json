@@ -1,0 +1,88 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Морковена крем супа със сметана, пащърнак и крутони",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/morkovena-krem-supa-2-[444].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/morkovena-krem-supa-2-[444].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/morkovena-krem-supa-2-[444].jpg"
+    ],
+    "datePublished": "2010-11-08",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "351 calories",
+      "carbohydrateContent": "57 g",
+      "fatContent": "9 g",
+      "proteinContent": "8 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "4.035095 g",
+      "cholesterolContent": "21 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг моркови",
+      "1 к.ч. сметана",
+      "сол",
+      "черен пипер",
+      "1 ч.ч. крутони",
+      "2 с.л. лимонов сок",
+      "1 щип. майоран",
+      "1/4 ч.л. индийско орехче"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Морковите (1/2 кг) се обелват и сваряват цели в подсолена вода. След това се изваждат от водата, пасират се заедно със сметаната (1 к.ч.) и полученото пюре се връща в подсолената вода. Разбърква се и супата ври още 3 минути. Подправя се с майоран (1 щип.), черен пипер  и индийско орехче (1/4 ч.л.). Поднася се гореща, поръсена с крутони. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Съвет: Тази супа може да стане още по-интересна на вкус, ако заедно с морковите сварите и едно парченце (20 г) целина или пащърнак. Или да пюрирате 1 авокадо и да прибавите полученото пюре във вече готовата супа. Не е нужно да я кипвате отново. Витаминната й стойност ще бъде по-голяма, ако авокадото бъде сурово."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "моркови",
+      "qty": "1/2 кг",
+      "id": 13
+    },
+    {
+      "name": "сметана",
+      "qty": "1 к.ч.",
+      "id": 19
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "крутони",
+      "qty": "1 ч.ч.",
+      "id": 139
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "2 с.л.",
+      "id": 17
+    },
+    {
+      "name": "майоран",
+      "qty": "1 щип.",
+      "id": 261
+    },
+    {
+      "name": "индийско орехче",
+      "qty": "1/4 ч.л.",
+      "id": 120
+    }
+  ]
+}

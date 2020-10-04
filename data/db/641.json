@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Задушена бяла риба с доматен сос и сирене",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/biala_riba_s_domaten_sos_i_sirene_2-[641].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/biala_riba_s_domaten_sos_i_sirene_2-[641].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/biala_riba_s_domaten_sos_i_sirene_2-[641].jpg"
+    ],
+    "datePublished": "2010-11-03",
+    "cookTime": "PT0H45M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "597 calories",
+      "carbohydrateContent": "21 g",
+      "fatContent": "28 g",
+      "proteinContent": "63 g",
+      "saturatedFatContent": "10 g",
+      "unsaturatedFatContent": "14.448655 g",
+      "cholesterolContent": "258 mg"
+    },
+    "recipeIngredient": [
+      "4 филета бяла риба",
+      "200 г домати от консерва",
+      "босилек",
+      "сол",
+      "1 с.л. зехтин",
+      "5 скилидки чесън",
+      "4 с.л. сусамово брашно",
+      "1  яйце",
+      "100 г сирене"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Рибата се посолява, топи в разбито яйце и овалва в сусамово брашно (4 с.л.), след което се пече на тиган без мазнина. Доматите (200 г) се пасират и слагат на котлона да поврят 4-5 минути на слаб огън. Посоляват се и се овкусяват с босилек, счукан чесън (5 скилидки) и зехтин. Щом се сгъстят, се прибавя намачканото сирене (100 г) и се разбърква. В този сос се слага и рибата и се оставя да поври 3 минути на слаб огън. Поднася се върху пържени картофи и зелена салата."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "бяла риба",
+      "qty": "4 филета",
+      "id": 102
+    },
+    {
+      "name": "домати от консерва",
+      "qty": "200 г",
+      "id": 86
+    },
+    {
+      "name": "босилек",
+      "qty": "Parsing error",
+      "id": 25
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "зехтин",
+      "qty": "1 с.л.",
+      "id": 10
+    },
+    {
+      "name": "чесън",
+      "qty": "5 скилидки",
+      "id": 6
+    },
+    {
+      "name": "сусамово брашно",
+      "qty": "4 с.л.",
+      "id": 268
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    },
+    {
+      "name": "сирене",
+      "qty": "100 г",
+      "id": 32
+    }
+  ]
+}

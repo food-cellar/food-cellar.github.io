@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Зимна салата с краставица и грейпфрут",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zimna-salata-s-krastavica-i-greipfrut-4-[1360].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zimna-salata-s-krastavica-i-greipfrut-4-[1360].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zimna-salata-s-krastavica-i-greipfrut-4-[1360].jpg"
+    ],
+    "datePublished": "2011-02-05",
+    "cookTime": "PT0H10M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "101 calories",
+      "carbohydrateContent": "12 g",
+      "fatContent": "5 g",
+      "proteinContent": "2 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "3.5909825 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "200 г айсберг",
+      "200 г радичио",
+      "1  краставица",
+      "1  грейпфрут",
+      "1 глава червен лук",
+      "2 стръка пресен лук",
+      "3 с.л. зехтин",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Салатите се нарязват на средно големи парчета, пресният лук (2 стръка), червеният лук (1 глава) и краставицата (1 бр) се нарязват на тънки колелца, а грейпфрутът (1 бр) се обелва и всяко парче се почиства от ципата и се накъсва на по-малки. Продуктите се изсипват в дълбока купа и се заливат със зехтин (3 с.л.). Салатата се посолява на вкус и се разбърква много добре. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "айсберг",
+      "qty": "200 г",
+      "id": 101
+    },
+    {
+      "name": "радичио",
+      "qty": "200 г",
+      "id": 308
+    },
+    {
+      "name": "краставица",
+      "qty": "1",
+      "id": 44
+    },
+    {
+      "name": "грейпфрут",
+      "qty": "1",
+      "id": 286
+    },
+    {
+      "name": "червен лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "пресен лук",
+      "qty": "2 стръка",
+      "id": 24
+    },
+    {
+      "name": "зехтин",
+      "qty": "3 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

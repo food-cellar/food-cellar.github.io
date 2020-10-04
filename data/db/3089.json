@@ -1,0 +1,68 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Италиански хляб с ементал и песто от сушени домати",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/italianski-hliab-s-emental-i-pesto-ot-susheni-domati-1-[3089].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/italianski-hliab-s-emental-i-pesto-ot-susheni-domati-1-[3089].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/italianski-hliab-s-emental-i-pesto-ot-susheni-domati-1-[3089].jpg"
+    ],
+    "datePublished": "2016-09-07",
+    "cookTime": "PT0H15M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "401 calories",
+      "carbohydrateContent": "9 g",
+      "fatContent": "27 g",
+      "proteinContent": "28 g",
+      "saturatedFatContent": "15 g",
+      "unsaturatedFatContent": "10.0535225 g",
+      "cholesterolContent": "265 mg"
+    },
+    "recipeIngredient": [
+      "1  черен хляб",
+      "300 г сирене Ементал",
+      "200 г песто от сушени домати",
+      "1 връзка босилек"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Тази рецепта е част от <a href=https://www.facebook.com/hapkasvejest>Хапка свежест</a> - кулинарната рубрика в сутрешния блок на <a href=http://bnt.bg/>БНТ1</a> <a href=https://www.facebook.com/start.BNT>Денят започва</a>, в която водеща е Сандра Алексиева от нашия екип. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Хлябът се разрязва на филий, като само се правят разрези, без да се разделя на отделни филийки. Във всеки разрез се поставя лъжичка песто от сушени домати, като се разпределя равномерно. Поставят се и резени сирене Ементал, а също и листенца пресен босилек. Пълненият хляб се увива в алуминиево фолио и се поставя на барбекюто за няколко минути, докато се стопли и задуши равномерно и сиренето се разтопи. Сервира се горещ."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Не пропускайте и <a href=https://www.facebook.com/hapkasvejest/videos/1380572105305829/>видео презентацията</a> на тази апетитна рецепта. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "черен хляб",
+      "qty": "1",
+      "id": 267
+    },
+    {
+      "name": "сирене Ементал",
+      "qty": "300 г",
+      "id": 179
+    },
+    {
+      "name": "песто от сушени домати",
+      "qty": "200 г",
+      "id": 322
+    },
+    {
+      "name": "босилек",
+      "qty": "1 връзка",
+      "id": 25
+    }
+  ]
+}

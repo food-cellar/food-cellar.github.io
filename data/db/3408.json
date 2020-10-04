@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печени смачкани картофи с кората (обелка) на фурна с масло и мащерка",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pecheni-smachkani-kartofi-na-furna-s-maslo-i-mashterka-1-[3408].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pecheni-smachkani-kartofi-na-furna-s-maslo-i-mashterka-1-[3408].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pecheni-smachkani-kartofi-na-furna-s-maslo-i-mashterka-1-[3408].jpg"
+    ],
+    "datePublished": "2020-03-22",
+    "cookTime": "PT0H50M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Гарнитури",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "207 calories",
+      "carbohydrateContent": "26 g",
+      "fatContent": "10 g",
+      "proteinContent": "3 g",
+      "saturatedFatContent": "6 g",
+      "unsaturatedFatContent": "2.48235 g",
+      "cholesterolContent": "27 mg"
+    },
+    "recipeIngredient": [
+      "600 г картофи",
+      "50 г масло",
+      "1 ч.л. червен пипер",
+      "4 стръка мащерка",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Желателно е да се изберат по-дребни картофи, но стари, а не пресни. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Измиват се старателно и се поставят в дълбока тенджера. Заливат се с вода и се поставят на котлона за 20 до 30 минути, докато се сварят напълно. Важно е да не се преваряват, за да не се разкашкат на следващ етап от приготвянето на тази рецепта. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Щом картофите се сварят, се отцеждат и се подреждат на разстояние сантиметър един от друг в огнеупорна тава. Пристикат се с преса, така че да се разпукат, но не да се превърнат в пюре. Поръсват се със сол и червен пипер, върху тях се подреждат парченца твърдо масло и се поръсват с прясна или замразена мащерка. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Тавата с картофи се поставя във фурна при 200 градуса за 20 минути, докато те се позлатят и хванат хрупкава коричка. Сервират се топли и са чудесна гарнитура към месо."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "картофи",
+      "qty": "600 г",
+      "id": 16
+    },
+    {
+      "name": "масло",
+      "qty": "50 г",
+      "id": 8
+    },
+    {
+      "name": "червен пипер",
+      "qty": "1 ч.л.",
+      "id": 20
+    },
+    {
+      "name": "мащерка",
+      "qty": "4 стръка",
+      "id": 75
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

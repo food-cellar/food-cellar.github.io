@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Ориз със сметана и рулца от раци",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/oriz-sus-smetana-i-rulca-ot-raci-1-[169].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/oriz-sus-smetana-i-rulca-ot-raci-1-[169].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/oriz-sus-smetana-i-rulca-ot-raci-1-[169].jpg"
+    ],
+    "datePublished": "2010-12-10",
+    "cookTime": "PT0H20M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "510 calories",
+      "carbohydrateContent": "87 g",
+      "fatContent": "9 g",
+      "proteinContent": "17 g",
+      "saturatedFatContent": "5 g",
+      "unsaturatedFatContent": "2.7253825 g",
+      "cholesterolContent": "46 mg"
+    },
+    "recipeIngredient": [
+      "400 г ориз",
+      "100 мл. сметана",
+      "250 г рулца от раци",
+      "1  краставица",
+      "сол",
+      "черен пипер",
+      "1 л. вода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Оризът (400 г) се вари докато поеме водата (1 л.). Щом остане съвсем малко количество течност се добавят нарязани на кръгчета рулцата от раци (250 г) и краставиците (1 бр). Залива се със сметаната (100 мл.) и се добавя солта и черния пипер."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "ориз",
+      "qty": "400 г",
+      "id": 22
+    },
+    {
+      "name": "сметана",
+      "qty": "100 мл.",
+      "id": 19
+    },
+    {
+      "name": "рулца от раци",
+      "qty": "250 г",
+      "id": 198
+    },
+    {
+      "name": "краставица",
+      "qty": "1",
+      "id": 44
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "вода",
+      "qty": "1 л.",
+      "id": 11
+    }
+  ]
+}

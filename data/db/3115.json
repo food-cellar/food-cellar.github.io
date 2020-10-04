@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печени свински вратни пържоли в зелев лист на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pecheni-svinski-vratni-purjoli-v-zelev-list-na-furna-1-[3115].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pecheni-svinski-vratni-purjoli-v-zelev-list-na-furna-1-[3115].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pecheni-svinski-vratni-purjoli-v-zelev-list-na-furna-1-[3115].jpg"
+    ],
+    "datePublished": "2016-12-03",
+    "cookTime": "PT1H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "1206 calories",
+      "carbohydrateContent": "98 g",
+      "fatContent": "69 g",
+      "proteinContent": "65 g",
+      "saturatedFatContent": "21 g",
+      "unsaturatedFatContent": "39.47002 g",
+      "cholesterolContent": "180 mg"
+    },
+    "recipeIngredient": [
+      "4  свински вратни пържоли",
+      "8  зелеви листа",
+      "2 ч.ч. зелев сок",
+      "20 мл. олио",
+      "сол",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Вратните пържоли леко се начукват и овкусяват с черен пипер. Увиват се в 2-3 зелеви листа. Ако по листата има жилки, предварително се отстраняват.Подреждат се в намазнена тавичка и се заливат със зелевия сок. Покриват се с фолио и се пекат около час и половина на 200 градуса. Малко преди да са готови, фолиото се отстранява за да се запече зелето."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "свински вратни пържоли",
+      "qty": "4",
+      "id": 67
+    },
+    {
+      "name": "зелеви листа",
+      "qty": "8",
+      "id": 94
+    },
+    {
+      "name": "зелев сок",
+      "qty": "2 ч.ч.",
+      "id": 27
+    },
+    {
+      "name": "олио",
+      "qty": "20 мл.",
+      "id": 4
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

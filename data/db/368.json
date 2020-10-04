@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пиян пъпеш",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/piian-pupesh-1-[368].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/piian-pupesh-1-[368].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/piian-pupesh-1-[368].jpg"
+    ],
+    "datePublished": "2011-04-04",
+    "cookTime": "PT0H30M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "303 calories",
+      "carbohydrateContent": "53 g",
+      "fatContent": "9 g",
+      "proteinContent": "4 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "7.80952 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1  пъпеш",
+      "2 с.л. мед",
+      "2 с.л. орехи",
+      "1/2 к.ч. мента",
+      "2 с.л. тъмен ром",
+      "бадеми"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пъпешът се разрязва на две половинки. Вътрешността му се отстранява и допълнително се издълбава с лъжица. Дупките се напълват със смес от меда (2 с.л.), ментата (1/2 к.ч.), рома (2 с.л.) и счуканите орехи (2 с.л.). Двете половинки се слагат във форма за печене с незалепващо покритие. Пекат се до пълна готовност. Поднасят се охладени, украсени с цели бадемови ядки."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пъпеш",
+      "qty": "1",
+      "id": 252
+    },
+    {
+      "name": "мед",
+      "qty": "2 с.л.",
+      "id": 38
+    },
+    {
+      "name": "орехи",
+      "qty": "2 с.л.",
+      "id": 31
+    },
+    {
+      "name": "мента",
+      "qty": "1/2 к.ч.",
+      "id": 90
+    },
+    {
+      "name": "тъмен ром",
+      "qty": "2 с.л.",
+      "id": 74
+    },
+    {
+      "name": "бадеми",
+      "qty": "Parsing error",
+      "id": 82
+    }
+  ]
+}

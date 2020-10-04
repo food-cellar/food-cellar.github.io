@@ -1,0 +1,86 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Зелена салата с пилешки филенца, праскови, джинджифил и соев сос",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-s-pile-praskovi-i-djindjifil-1-[1631].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-s-pile-praskovi-i-djindjifil-1-[1631].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-s-pile-praskovi-i-djindjifil-1-[1631].jpg"
+    ],
+    "datePublished": "2012-04-17",
+    "cookTime": "PT0H25M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "310 calories",
+      "carbohydrateContent": "16 g",
+      "fatContent": "9 g",
+      "proteinContent": "40 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "6.53599 g",
+      "cholesterolContent": "87 mg"
+    },
+    "recipeIngredient": [
+      "2  пилешки филенца",
+      "1  зелена салата",
+      "1  праскова",
+      "10 г джинджифил",
+      "2 с.л. олио",
+      "1 с.л. соев сос",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилешките филенца (2 бр) се запържват в тиган, докато порозовеят. Салатата (1 бр) се накъсва и поставя в порционна чиния. Пилешкото се поставя върху нея. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Нарязва се прасковата (1 бр) на тънки резенчета, които се подреждат в салатата. Настъргва се на най-ситно ренде малко коренче джинджифил (10 г). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Салатата се овкусява с олио, соев сос и сол."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешки филенца",
+      "qty": "2",
+      "id": 79
+    },
+    {
+      "name": "зелена салата",
+      "qty": "1",
+      "id": 87
+    },
+    {
+      "name": "праскова",
+      "qty": "1",
+      "id": 156
+    },
+    {
+      "name": "джинджифил",
+      "qty": "10 г",
+      "id": 84
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    },
+    {
+      "name": "соев сос",
+      "qty": "1 с.л.",
+      "id": 53
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

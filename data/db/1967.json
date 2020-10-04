@@ -1,0 +1,60 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Сандвич с пушена сьомга и сирене Крема",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/sandvich-s-pushena-sioomga-i-sirene-krema-1-[1967].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/sandvich-s-pushena-sioomga-i-sirene-krema-1-[1967].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/sandvich-s-pushena-sioomga-i-sirene-krema-1-[1967].jpg"
+    ],
+    "datePublished": "2012-05-22",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Сандвичи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "344 calories",
+      "carbohydrateContent": "47 g",
+      "fatContent": "9 g",
+      "proteinContent": "22 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "3.8998 g",
+      "cholesterolContent": "27 mg"
+    },
+    "recipeIngredient": [
+      "1  пълнозърнеста питка",
+      "1 с.л. сирене Крема",
+      "50 г пушена сьомга",
+      "1 лист айсберг"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Питката (1 бр) се разрязва на две, намазва се със сиренето Крема (1 с.л.) и върху него се разполагат филетата пушена сьомга (50 г). Сандвичът е пълни и със свежи листа старателно измита салата айсберг (1 лист). Сервира се веднага."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пълнозърнеста питка",
+      "qty": "1",
+      "id": 175
+    },
+    {
+      "name": "сирене Крема",
+      "qty": "1 с.л.",
+      "id": 103
+    },
+    {
+      "name": "пушена сьомга",
+      "qty": "50 г",
+      "id": 215
+    },
+    {
+      "name": "айсберг",
+      "qty": "1 лист",
+      "id": 101
+    }
+  ]
+}

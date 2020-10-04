@@ -1,0 +1,48 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Шотове Сомбреро (Sombrero)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kokteil-sombrero--2-[1072].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kokteil-sombrero--2-[1072].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kokteil-sombrero--2-[1072].jpg"
+    ],
+    "datePublished": "2012-08-08",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Коктейли",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "167 calories",
+      "carbohydrateContent": "13 g",
+      "fatContent": "7 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "2.2504 g",
+      "cholesterolContent": "28 mg"
+    },
+    "recipeIngredient": [
+      "25 мл. kahlua",
+      "25 мл. сметана"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "В малки чашки за шотове се сипва кафееният ликьор калуа (25 мл.) и върху него внимателно се сипва сладка течна сметана (25 мл.). Както всеки друг коктейл от този тип, и този се пие на екс. Наздраве!"
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "kahlua",
+      "qty": "25 мл.",
+      "id": 334
+    },
+    {
+      "name": "сметана",
+      "qty": "25 мл.",
+      "id": 19
+    }
+  ]
+}

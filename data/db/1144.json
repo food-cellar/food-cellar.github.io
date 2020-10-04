@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печено пилешко филе с печени червени чушки на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pileshko-s-pecheni-chushki-na-furna-2-[1144].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pileshko-s-pecheni-chushki-na-furna-2-[1144].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pileshko-s-pecheni-chushki-na-furna-2-[1144].jpg"
+    ],
+    "datePublished": "2011-03-19",
+    "cookTime": "PT0H45M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "454 calories",
+      "carbohydrateContent": "29 g",
+      "fatContent": "23 g",
+      "proteinContent": "33 g",
+      "saturatedFatContent": "11 g",
+      "unsaturatedFatContent": "9.05671 g",
+      "cholesterolContent": "290 mg"
+    },
+    "recipeIngredient": [
+      "1  пилешко филе",
+      "5  печени чушки",
+      "1 глава червен лук",
+      "2  яйца",
+      "150 г кисело мляко",
+      "100 г сирене",
+      "1 с.л. зехтин",
+      "черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилешкото филе (1 бр) се нарязва на хапки, лукът (1 глава) на колелца, а печените белени червени чушки (5 бр) - на дребни парченца. Всичко се запържва в тиган със зехтин (1 с.л.). Когато пилешкото месо е готово, а лукът омекне, ястието се овкусява със сол и черен пипер. Сиренето (100 г) се натрошава, смесва се с яйцата (2 бр) и киселото мляко (150 г) и сместа се разбърква много добре. Прибавя се към пилешкото и всичко се изсипва с малка тавичка. Пече се на 200 градуса за 30 минути. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешко филе",
+      "qty": "1",
+      "id": 49
+    },
+    {
+      "name": "печени чушки",
+      "qty": "5",
+      "id": 18
+    },
+    {
+      "name": "червен лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "кисело мляко",
+      "qty": "150 г",
+      "id": 21
+    },
+    {
+      "name": "сирене",
+      "qty": "100 г",
+      "id": 32
+    },
+    {
+      "name": "зехтин",
+      "qty": "1 с.л.",
+      "id": 10
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

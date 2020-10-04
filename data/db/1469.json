@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата айсберг с дробчета и чери домати",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-aisberg-s-drobcheta-i-cheri-domati-1-[1469].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-aisberg-s-drobcheta-i-cheri-domati-1-[1469].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-aisberg-s-drobcheta-i-cheri-domati-1-[1469].jpg"
+    ],
+    "datePublished": "2011-05-23",
+    "cookTime": "PT0H30M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "98 calories",
+      "carbohydrateContent": "5 g",
+      "fatContent": "5 g",
+      "proteinContent": "7 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "2.61725 g",
+      "cholesterolContent": "151 mg"
+    },
+    "recipeIngredient": [
+      "1 глава айсберг",
+      "250 г чери домати",
+      "200 г пилешки дробчета",
+      "1 с.л. масло",
+      "1 щип. черен пипер",
+      "1 с.л. лимонов сок",
+      "2 с.л. зехтин",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Дробчетата (200 г) се размразяват, измиват и се поставят в малка тавичка. Овкусяват се със сол и черен пипер (1 щип.) и се пекат с масло (1 с.л.) от двете страни до пълна готовност. Салатата айсберг (1 глава) се измива и нарязва на тънки ивички. Чери доматите (250 г) се измиват и разполовяват. Добавят се към салатата и тя се овкусява със сол, зехтин (2 с.л.) и лимонов сок (1 с.л.). Върху нея се разполагат печените дробчета. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "айсберг",
+      "qty": "1 глава",
+      "id": 101
+    },
+    {
+      "name": "чери домати",
+      "qty": "250 г",
+      "id": 15
+    },
+    {
+      "name": "пилешки дробчета",
+      "qty": "200 г",
+      "id": 191
+    },
+    {
+      "name": "масло",
+      "qty": "1 с.л.",
+      "id": 8
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 щип.",
+      "id": 2
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

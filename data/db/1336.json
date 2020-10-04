@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Бутер ролца с царевица и сирене",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/IMG_9446-[1336].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/IMG_9446-[1336].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/IMG_9446-[1336].jpg"
+    ],
+    "datePublished": "2011-03-04",
+    "cookTime": "PT0H25M",
+    "recipeYield": "20 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "166 calories",
+      "carbohydrateContent": "13 g",
+      "fatContent": "11 g",
+      "proteinContent": "3 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "6.361451 g",
+      "cholesterolContent": "26 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг бутер тесто",
+      "120 г царевица",
+      "1 глава червен лук",
+      "100 г сирене",
+      "2 с.л. мед",
+      "1 щип. сол",
+      "2  жълтъка"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Бутер тестото (1/2 кг) се нарязва на квадратчета със страна около 5-6 см. Червеният лук (1 глава) се нарязва на много ситни кубчета и се смесва със сладката царевица от консерва (120 г), натрошеното сирене (100 г), меда (2 с.л.) и солта (1 щип.). Плънката се разбърква и се нея се пълнят квадратчетата. Завиват се на руло и се поставят в тавичка. Намазват се с разбит жълтък (2 бр) и се пекат в предварително загрята фурна на 200 градуса до златисто. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "бутер тесто",
+      "qty": "1/2 кг",
+      "id": 117
+    },
+    {
+      "name": "царевица",
+      "qty": "120 г",
+      "id": 78
+    },
+    {
+      "name": "червен лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "сирене",
+      "qty": "100 г",
+      "id": 32
+    },
+    {
+      "name": "мед",
+      "qty": "2 с.л.",
+      "id": 38
+    },
+    {
+      "name": "сол",
+      "qty": "1 щип.",
+      "id": 1
+    },
+    {
+      "name": "жълтъка",
+      "qty": "2",
+      "id": 33
+    }
+  ]
+}

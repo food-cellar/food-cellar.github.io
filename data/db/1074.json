@@ -1,0 +1,70 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Коктейл Кисело Уиски (Whiskey Sour)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kokteil-kiselo-uiski--2-[1074].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kokteil-kiselo-uiski--2-[1074].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kokteil-kiselo-uiski--2-[1074].jpg"
+    ],
+    "datePublished": "2012-06-24",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Коктейли",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "147 calories",
+      "carbohydrateContent": "12 g",
+      "fatContent": "0 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.00275 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "45 мл. бърбън",
+      "30 мл. лимонов сок",
+      "15 мл. захарен сироп",
+      "1  коктейлна черешка",
+      "лимонова кора"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Бърбънът (45 мл.), лимоновият сок (30 мл.) и захарният сироп (15 мл.) се разбиват добре в шейкър с лед. В  изстудена чаша с лед се изсипва напитката. Коктейлът се украсява с коктейлна черешка и тънка ивица лимонова кора."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Забележки: Не преизползвайте леда от шейкъра (това важи за всички коктейли). Вместо захарен сироп, който се прави от равни количества захар и вода като се вари на котлона, можете да използвате пудра захар, защотото тя се разбива лесно в шейкър, или течен подсладител."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "бърбън",
+      "qty": "45 мл.",
+      "id": 206
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "30 мл.",
+      "id": 17
+    },
+    {
+      "name": "захарен сироп",
+      "qty": "15 мл.",
+      "id": 282
+    },
+    {
+      "name": "коктейлна черешка",
+      "qty": "1",
+      "id": 126
+    },
+    {
+      "name": "лимонова кора",
+      "qty": "Parsing error",
+      "id": 107
+    }
+  ]
+}

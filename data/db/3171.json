@@ -1,0 +1,74 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата Колсло от зеле и майонеза",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-kolslo-ot-zele-i-maioneza-1-[3171].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-kolslo-ot-zele-i-maioneza-1-[3171].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-kolslo-ot-zele-i-maioneza-1-[3171].jpg"
+    ],
+    "datePublished": "2017-03-08",
+    "cookTime": "PT0H15M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "228 calories",
+      "carbohydrateContent": "17 g",
+      "fatContent": "16 g",
+      "proteinContent": "2 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "12.9002125 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1/2 зелка зеле",
+      "1  морков",
+      "200 г майонеза",
+      "50 мл. бял оцет",
+      "2 с.л. захар"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Зелето и морковите се настъргват и смесват в голяма купа."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "В малка купа се приготвя дресинг от майонезата, оцета, захарта, сол и пипер."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Всичко се смесва и разбърква добре, след което се оставя в хладилник за да се изстуди и ароматите да се смесят."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "зеле",
+      "qty": "1/2 зелка",
+      "id": 94
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "майонеза",
+      "qty": "200 г",
+      "id": 80
+    },
+    {
+      "name": "бял оцет",
+      "qty": "50 мл.",
+      "id": 61
+    },
+    {
+      "name": "захар",
+      "qty": "2 с.л.",
+      "id": 9
+    }
+  ]
+}

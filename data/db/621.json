@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Айран с газирана вода",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/airan-2-[621].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/airan-2-[621].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/airan-2-[621].jpg"
+    ],
+    "datePublished": "2011-01-06",
+    "cookTime": "PT0H5M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Напитки",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "92 calories",
+      "carbohydrateContent": "6 g",
+      "fatContent": "4 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "1.138 g",
+      "cholesterolContent": "20 mg"
+    },
+    "recipeIngredient": [
+      "300 г кисело мляко",
+      "300 мл. газирана вода",
+      "1 ч.л. сол",
+      "2 листенца мента",
+      "магданоз"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Киселото мляко (300 г) и солтa (1 ч.л.) се разбиват в миксера. Налива се газираната вода (300 мл.) и разбиването продължава до получаването на хомогенна смес. Напитката се украсява с листенца мента (2 листенца) и пресен магданоз."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "кисело мляко",
+      "qty": "300 г",
+      "id": 21
+    },
+    {
+      "name": "газирана вода",
+      "qty": "300 мл.",
+      "id": 199
+    },
+    {
+      "name": "сол",
+      "qty": "1 ч.л.",
+      "id": 1
+    },
+    {
+      "name": "мента",
+      "qty": "2 листенца",
+      "id": 90
+    },
+    {
+      "name": "магданоз",
+      "qty": "Parsing error",
+      "id": 12
+    }
+  ]
+}

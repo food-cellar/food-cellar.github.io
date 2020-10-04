@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Гювече с боб, кренвирши и чушки",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/guveche-s-bob-krenvirshi-i-chushki-2-[1231].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/guveche-s-bob-krenvirshi-i-chushki-2-[1231].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/guveche-s-bob-krenvirshi-i-chushki-2-[1231].jpg"
+    ],
+    "datePublished": "2011-01-06",
+    "cookTime": "PT0H25M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "830 calories",
+      "carbohydrateContent": "101 g",
+      "fatContent": "26 g",
+      "proteinContent": "50 g",
+      "saturatedFatContent": "9 g",
+      "unsaturatedFatContent": "15.3577925 g",
+      "cholesterolContent": "224 mg"
+    },
+    "recipeIngredient": [
+      "600 г боб",
+      "4  кренвирши",
+      "4  печени чушки",
+      "4  яйца",
+      "1  домат",
+      "4 стръка магданоз",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Свареният и отцеден боб (600 г) се смесва с настъргания домат (1 бр) и се осолява на вкус. С боба, нарязаните кренвирши (4 бр) и печените белени червени чушки (4 бр) се пълнят глинени съдове. Поръсват се с магданоз (4 стръка)и във всяка порция се чуква по едно яйце (4 бр). Гювечетата се запичат с капак за 25 минути и се сервират горещи."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "боб",
+      "qty": "600 г",
+      "id": 63
+    },
+    {
+      "name": "кренвирши",
+      "qty": "4",
+      "id": 161
+    },
+    {
+      "name": "печени чушки",
+      "qty": "4",
+      "id": 18
+    },
+    {
+      "name": "яйца",
+      "qty": "4",
+      "id": 5
+    },
+    {
+      "name": "домат",
+      "qty": "1",
+      "id": 15
+    },
+    {
+      "name": "магданоз",
+      "qty": "4 стръка",
+      "id": 12
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

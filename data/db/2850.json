@@ -1,0 +1,102 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печени солени макарони (пене) с броколи, яйца, прясно мляко, пармезан и сметана на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pene-s-brokoli-na-furna-iaica-priasno-mliako-i-smetana-1-[2850].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pene-s-brokoli-na-furna-iaica-priasno-mliako-i-smetana-1-[2850].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pene-s-brokoli-na-furna-iaica-priasno-mliako-i-smetana-1-[2850].jpg"
+    ],
+    "datePublished": "2014-03-05",
+    "cookTime": "PT1H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "947 calories",
+      "carbohydrateContent": "92 g",
+      "fatContent": "49 g",
+      "proteinContent": "37 g",
+      "saturatedFatContent": "20 g",
+      "unsaturatedFatContent": "24.92329 g",
+      "cholesterolContent": "235 mg"
+    },
+    "recipeIngredient": [
+      "400 г пене",
+      "1 глава броколи",
+      "3  яйца",
+      "1 ч.ч. прясно мляко",
+      "1 ч.ч. течна сметана",
+      "1 ч.л. черен пипер",
+      "сол",
+      "100 г пармезан",
+      "100 г орехи"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Макароните (400 г) се сварява в подсолена вода според указанията на опаковката. Отцежда се и се изплаква."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Броколите (1 глава) се накъсват на розички и се пускат във вряща подсолена вода за няколко минути, докато омекнат. След това се пускат в ледено студена вода. Това шоково охлаждане е необходимо, за да запазят свежия си зелен цвят."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Яйцата (3 бр) се разбиват с прясното мляко (1 ч.ч.), сол и черен пипер (1 ч.л.). След това към тях се добавя течната готварска сметана (1 ч.ч.) и сместа се разбърква."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Пастата и броколите се поставят в огнеупорна тавичка и се заливат с яйчената смес. Поставят се във фурна и се запичат при 180 градуса за около половин час. След това се поръсват с настърган пармезан (100 г) и нарязани орехи (100 г) и се връщат обратно във фурната за още 15 минути. Ястието се сервира горещо."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пене",
+      "qty": "400 г",
+      "id": 129
+    },
+    {
+      "name": "броколи",
+      "qty": "1 глава",
+      "id": 57
+    },
+    {
+      "name": "яйца",
+      "qty": "3",
+      "id": 5
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "1 ч.ч.",
+      "id": 14
+    },
+    {
+      "name": "течна сметана",
+      "qty": "1 ч.ч.",
+      "id": 19
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "пармезан",
+      "qty": "100 г",
+      "id": 59
+    },
+    {
+      "name": "орехи",
+      "qty": "100 г",
+      "id": 31
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Коктейл Карибско шампанско (Carribean Champagne)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kokteil-karibsko-shampansko-2-[816].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kokteil-karibsko-shampansko-2-[816].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kokteil-karibsko-shampansko-2-[816].jpg"
+    ],
+    "datePublished": "2013-02-17",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Коктейли",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "188 calories",
+      "carbohydrateContent": "16 g",
+      "fatContent": "0 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "10 мл. ром",
+      "10 мл. ликьор банан",
+      "1 с.л. битер",
+      "100 мл. шампанско"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Ромът (10 мл.), ликьорът от банан (10 мл.), битерът (1 с.л.) и шампанското (100 мл.) се изсипват в коктейлна чаша. Внимателно се разбъркват с бъркалка. Слага се лед и коктейлът се украсява с резен банан и мента."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "ром",
+      "qty": "10 мл.",
+      "id": 74
+    },
+    {
+      "name": "ликьор банан",
+      "qty": "10 мл.",
+      "id": 305
+    },
+    {
+      "name": "битер",
+      "qty": "1 с.л.",
+      "id": 27
+    },
+    {
+      "name": "шампанско",
+      "qty": "100 мл.",
+      "id": 265
+    }
+  ]
+}

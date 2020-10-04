@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Зелена салата с бейби моцарела и босилеково песто",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zelena-salata-s-beibi-mocarela-i-pesto-2-[1820].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zelena-salata-s-beibi-mocarela-i-pesto-2-[1820].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zelena-salata-s-beibi-mocarela-i-pesto-2-[1820].jpg"
+    ],
+    "datePublished": "2017-03-20",
+    "cookTime": "PT0H25M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "129 calories",
+      "carbohydrateContent": "6 g",
+      "fatContent": "9 g",
+      "proteinContent": "7 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "4.661045 g",
+      "cholesterolContent": "20 mg"
+    },
+    "recipeIngredient": [
+      "1 връзка зелена салата",
+      "100 г бейби моцарела",
+      "2 с.л. зехтин",
+      "2 с.л. лимонов сок",
+      "1/2 връзка босилек",
+      "1 връзка магданоз",
+      "сол",
+      "2 скилидки чесън"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "От зехтина (2 с.л.), лимоновия сок (2 с.л.), солта, босилекa (1/2 връзка), магданозa (1 връзка) и чесънa (2 скилидки) се прави песто, като се пасират в кухненски робот. В соса се овалват топчетата моцарела и се оставят да престоят за 10-15 минути. Салатата (1 връзка) се накъсва на едри парчета. Може да се добави и айсберг, рукола или бейби спанак в зависимост от предпочитанията ви. Овскусява се с малко зехтин, лимонов сок и сол, и се поднася с оваляните в песто топчета моцарела. Може да се добавят и разполовени чери доматчета."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "зелена салата",
+      "qty": "1 връзка",
+      "id": 87
+    },
+    {
+      "name": "бейби моцарела",
+      "qty": "100 г",
+      "id": 93
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "2 с.л.",
+      "id": 17
+    },
+    {
+      "name": "босилек",
+      "qty": "1/2 връзка",
+      "id": 25
+    },
+    {
+      "name": "магданоз",
+      "qty": "1 връзка",
+      "id": 12
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    }
+  ]
+}

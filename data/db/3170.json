@@ -1,0 +1,102 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Постни сарми от лозов лист с булгур на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/postni-lozovi-sarmi-s-bulgur-3-[3170].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/postni-lozovi-sarmi-s-bulgur-3-[3170].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/postni-lozovi-sarmi-s-bulgur-3-[3170].jpg"
+    ],
+    "datePublished": "2017-01-28",
+    "cookTime": "PT0H50M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "203 calories",
+      "carbohydrateContent": "31 g",
+      "fatContent": "7 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "6.0370425 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1 връзка лозови листа",
+      "1 ч.ч. булгур",
+      "1  морков",
+      "1/2 глава лук",
+      "1 ч.ч. вода",
+      "1 ч.л. сол",
+      "2 ч.л. целина",
+      "2 ч.л. чубрица",
+      "4 с.л. олио"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Плънката се приготвя като се запържва лукът (1/2 глава) в олиото, докато омекне и промени цвета си. Прибавя се настърган морков (1 бр) и той също се готви за 2-3 минути. След това се добавя булгурът (1 ч.ч.) и водата и се овкусява със сол, пипер, чубрица и сушена целина. Котлонът се намалява и се оставя водата да се поеме от булгура. Щом водата бъде поета, плънката се сваля от котлона и се оставя да изстине."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "През това време се бланшират лозовите листа (1 връзка), като се потапят за кратко във вряща подсолена вода. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Във всеки лист се слага по 1 супена лъжица от плънката и се завива. Сармите се подреждат в тава, заливат се с чаша вода и се добавят 2-3 супени лъжици олио. Пекат се за около 20-25 минути на фурна, докато водата се изпари."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Подходящо е да се сервират с кисело мляко"
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "лозови листа",
+      "qty": "1 връзка",
+      "id": 240
+    },
+    {
+      "name": "булгур",
+      "qty": "1 ч.ч.",
+      "id": 128
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "лук",
+      "qty": "1/2 глава",
+      "id": 3
+    },
+    {
+      "name": "вода",
+      "qty": "1 ч.ч.",
+      "id": 11
+    },
+    {
+      "name": "сол",
+      "qty": "1 ч.л.",
+      "id": 1
+    },
+    {
+      "name": "целина",
+      "qty": "2 ч.л.",
+      "id": 30
+    },
+    {
+      "name": "чубрица",
+      "qty": "2 ч.л.",
+      "id": 36
+    },
+    {
+      "name": "олио",
+      "qty": "4 с.л.",
+      "id": 4
+    }
+  ]
+}

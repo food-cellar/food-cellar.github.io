@@ -1,0 +1,82 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печени патладжани на рулца пълнени със сирене крема, майонеза, чесън и копър",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pecheni-patladjani-sus-sirene-krema-chesun-i-kopur-1-[2911].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pecheni-patladjani-sus-sirene-krema-chesun-i-kopur-1-[2911].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pecheni-patladjani-sus-sirene-krema-chesun-i-kopur-1-[2911].jpg"
+    ],
+    "datePublished": "2014-04-09",
+    "cookTime": "PT1H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "529 calories",
+      "carbohydrateContent": "25 g",
+      "fatContent": "44 g",
+      "proteinContent": "10 g",
+      "saturatedFatContent": "19 g",
+      "unsaturatedFatContent": "21.95371 g",
+      "cholesterolContent": "87 mg"
+    },
+    "recipeIngredient": [
+      "2  патладжана",
+      "300 г сирене крема",
+      "150 г кисело мляко",
+      "200 г майонеза",
+      "4 скилидки чесън",
+      "1 връзка копър",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Патладжаните (2 бр) се нарязват на тънки филийки, посоляват се и се оставят за половин час да престоят, докато пуснат горчивия си сок. След това се измиват и подсушават. Изпичат се до пълна готовност с малко зехтин."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Сиренето (300 г) се смесва с киселото мляко (150 г), майонезата (200 г), пресования чесън (4 скилидки), ситно нарязания копър (1 връзка) и солта. С тази плънка на ролца се завиват патладжановите филийки, като се фиксират с клечки за зъби."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "патладжана",
+      "qty": "2",
+      "id": 71
+    },
+    {
+      "name": "сирене крема",
+      "qty": "300 г",
+      "id": 103
+    },
+    {
+      "name": "кисело мляко",
+      "qty": "150 г",
+      "id": 21
+    },
+    {
+      "name": "майонеза",
+      "qty": "200 г",
+      "id": 80
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "копър",
+      "qty": "1 връзка",
+      "id": 28
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Заленчуци на тиган",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/esenno_plato2-[91].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/esenno_plato2-[91].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/esenno_plato2-[91].jpg"
+    ],
+    "datePublished": "2010-10-12",
+    "cookTime": "PT0H50M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "177 calories",
+      "carbohydrateContent": "37 g",
+      "fatContent": "2 g",
+      "proteinContent": "7 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "1.1070675 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "3  тиквички",
+      "3  патладжана",
+      "100 г моркови",
+      "100 г червено зеле",
+      "100 г червено цвекло",
+      "2 с.л. царевица",
+      "1 щипка магданоз",
+      "1  лимон",
+      "1 с.л. сол",
+      "1 с.л. олио"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Тиквичките (3 бр) и патладжаните (3 бр) се нарязват на колелца, осоляват се и се оставят за половин час в отделни съдове.  "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Измиват се, подсушават се и се изпичат на тиган без мазнина. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Зелето (100 г), цвеклото (100 г) и морковите (100 г) се настъргват на ситното ренде поотделно. Овкусяват се със сол, олио и лимонов сок. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Тиквичките и патладжаните се нареждат в платото кръгообразно и се поръсват в средата със сварената царевица. Отстрани се оформят купчинки от приготвените салати от зеле, цвекло и моркови."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "тиквички",
+      "qty": "3",
+      "id": 39
+    },
+    {
+      "name": "патладжана",
+      "qty": "3",
+      "id": 71
+    },
+    {
+      "name": "моркови",
+      "qty": "100 г",
+      "id": 13
+    },
+    {
+      "name": "червено зеле",
+      "qty": "100 г",
+      "id": 288
+    },
+    {
+      "name": "червено цвекло",
+      "qty": "100 г",
+      "id": 131
+    },
+    {
+      "name": "царевица",
+      "qty": "2 с.л.",
+      "id": 78
+    },
+    {
+      "name": "магданоз",
+      "qty": "1 щипка",
+      "id": 12
+    },
+    {
+      "name": "лимон",
+      "qty": "1",
+      "id": 43
+    },
+    {
+      "name": "сол",
+      "qty": "1 с.л.",
+      "id": 1
+    },
+    {
+      "name": "олио",
+      "qty": "1 с.л.",
+      "id": 4
+    }
+  ]
+}

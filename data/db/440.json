@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата с авокадо, сушени домати и кълнове",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata--2-[440].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata--2-[440].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata--2-[440].jpg"
+    ],
+    "datePublished": "2010-10-30",
+    "cookTime": "PT0H10M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "531 calories",
+      "carbohydrateContent": "18 g",
+      "fatContent": "50 g",
+      "proteinContent": "9 g",
+      "saturatedFatContent": "8 g",
+      "unsaturatedFatContent": "38.9177 g",
+      "cholesterolContent": "6 mg"
+    },
+    "recipeIngredient": [
+      "1/2 ч.ч. сушени домати",
+      "1/4 ч.ч. зехтин",
+      "босилек",
+      "розмарин",
+      "риган",
+      "1  авокадо",
+      "сол",
+      "1 с.л. тиквени семки",
+      "1 с.л. сирене",
+      "50 г кълнове"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Доматите (1/2 ч.ч.) се попарват за 15 минути и се накисват в зехтина (1/4 ч.ч.) заедно с подправките за 2 часа. Почистеното авокадо се нарязва на кубчета или тънки резени и се смесва с отцедените домати. Салатата се поръсва с тиквени семки и настъргано сирене. Украсява се с кълнове"
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "сушени домати",
+      "qty": "1/2 ч.ч.",
+      "id": 121
+    },
+    {
+      "name": "зехтин",
+      "qty": "1/4 ч.ч.",
+      "id": 10
+    },
+    {
+      "name": "босилек",
+      "qty": "Parsing error",
+      "id": 25
+    },
+    {
+      "name": "розмарин",
+      "qty": "Parsing error",
+      "id": 77
+    },
+    {
+      "name": "риган",
+      "qty": "Parsing error",
+      "id": 65
+    },
+    {
+      "name": "авокадо",
+      "qty": "1",
+      "id": 83
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "тиквени семки",
+      "qty": "1 с.л.",
+      "id": 189
+    },
+    {
+      "name": "сирене",
+      "qty": "1 с.л.",
+      "id": 32
+    },
+    {
+      "name": "кълнове",
+      "qty": "50 г",
+      "id": 181
+    }
+  ]
+}

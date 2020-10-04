@@ -1,0 +1,100 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печени малки телешки кюфтенца с доматен сос в тава на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pecheni-teleshki-kuftenca-s-domaten-sos-1-[2882].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pecheni-teleshki-kuftenca-s-domaten-sos-1-[2882].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pecheni-teleshki-kuftenca-s-domaten-sos-1-[2882].jpg"
+    ],
+    "datePublished": "2014-03-17",
+    "cookTime": "PT1H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "537 calories",
+      "carbohydrateContent": "39 g",
+      "fatContent": "18 g",
+      "proteinContent": "51 g",
+      "saturatedFatContent": "7 g",
+      "unsaturatedFatContent": "8.4563013349515 g",
+      "cholesterolContent": "254 mg"
+    },
+    "recipeIngredient": [
+      "1 кг телешка кайма",
+      "1  яйце",
+      "1 филия хляб",
+      "50 мл. прясно мляко",
+      "1/2 ч.л. кимион",
+      "1/2 ч.л. черен пипер",
+      "50 мл. кетчуп",
+      "40 мл. доматено пюре",
+      "20 с.л. мед",
+      "4 с.л. соев сос"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Телешката кайма (1 кг) се омесва с разбитото сурово яйце (1 бр), киснатия в прясното мляко (50 мл.) хляб (1 филия) и подправките. Оставя се за 20 минути в хладилник да попие от ароматите на подправките, след което с мокри ръце се оформят малки кюфтенца, които се поставят в тавичка и се изпичат при 200 градуса за половин час. Важно е по време на печенето да се обръщат, за да се изпекат от всички страни. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Кюфтенцата се сервират топли със сос, получен oт разбиването на кетчупа (50 мл.), доматеното пюре (40 мл.), течният мед (20 с.л.) и соевият сос (4 с.л.)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "телешка кайма",
+      "qty": "1 кг",
+      "id": 134
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    },
+    {
+      "name": "хляб",
+      "qty": "1 филия",
+      "id": 66
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "50 мл.",
+      "id": 14
+    },
+    {
+      "name": "кимион",
+      "qty": "1/2 ч.л.",
+      "id": 42
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1/2 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "кетчуп",
+      "qty": "50 мл.",
+      "id": 193
+    },
+    {
+      "name": "доматено пюре",
+      "qty": "40 мл.",
+      "id": 35
+    },
+    {
+      "name": "мед",
+      "qty": "20 с.л.",
+      "id": 38
+    },
+    {
+      "name": "соев сос",
+      "qty": "4 с.л.",
+      "id": 53
+    }
+  ]
+}

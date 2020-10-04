@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печен шаран на фурна за Никулден (без плънка)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pechen-sharan-na-furna-za-nikulden-1-[3009].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pechen-sharan-na-furna-za-nikulden-1-[3009].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pechen-sharan-na-furna-za-nikulden-1-[3009].jpg"
+    ],
+    "datePublished": "2014-12-05",
+    "cookTime": "PT1H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "277 calories",
+      "carbohydrateContent": "2 g",
+      "fatContent": "25 g",
+      "proteinContent": "10 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "20.83103 g",
+      "cholesterolContent": "36 mg"
+    },
+    "recipeIngredient": [
+      "1  шаран",
+      "100 мл. олио",
+      "2  лимона",
+      "1/2 ч.л. черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Шаранът се почиства добре, измива се с вода и люспите му се отстраняват. Реже се на филета и се поставя в огнеупорна тава. Залива се с олиото и подправките. Полива се с прясно изцеден лимонов сок. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Завива се с фолио и се оставя да се пече за около 40 минути при 180 градуса температура, след което фолиото се отстранява и се пече още 15 минути без фолио, докато се позлати. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Накрая по желание се поръсва със ситно нарязан пресен магданоз и се сервира горещо. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Важно е да се внимава, когато се яде, тъй като шаранът е риба с много на брой дребни кости."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "шаран",
+      "qty": "1",
+      "id": 178
+    },
+    {
+      "name": "олио",
+      "qty": "100 мл.",
+      "id": 4
+    },
+    {
+      "name": "лимона",
+      "qty": "2",
+      "id": 43
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1/2 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Карамелизирани (сладки) картофи соте с краве масло, кафява захар и портокалова кора",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/karamelizirani-kartofi-2-[574].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/karamelizirani-kartofi-2-[574].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/karamelizirani-kartofi-2-[574].jpg"
+    ],
+    "datePublished": "2010-11-05",
+    "cookTime": "PT0H45M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "371 calories",
+      "carbohydrateContent": "70 g",
+      "fatContent": "8 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "5 g",
+      "unsaturatedFatContent": "2.42405 g",
+      "cholesterolContent": "23 mg"
+    },
+    "recipeIngredient": [
+      "1 кг картофи",
+      "3 с.л. масло",
+      "1/2 ч.ч. кафява захар",
+      "1 с.л. портокалова кора",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Картофите (1 кг) се обелват и сваряват в подсолена вода. Отцеждат се и се нарязват. Разтопява се маслото (3 с.л.) в тиган и се добавят картофите, захарта (1/2 ч.ч.) и портокаловата кора (1 с.л.). Пържат се 6-7 минути, докато захарта се карамелизира и картофите се позлатят."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "картофи",
+      "qty": "1 кг",
+      "id": 16
+    },
+    {
+      "name": "масло",
+      "qty": "3 с.л.",
+      "id": 8
+    },
+    {
+      "name": "кафява захар",
+      "qty": "1/2 ч.ч.",
+      "id": 9
+    },
+    {
+      "name": "портокалова кора",
+      "qty": "1 с.л.",
+      "id": 159
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

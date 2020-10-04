@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Тиквено желирано парфе с извара",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/tikveno-parfe-2-[657].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/tikveno-parfe-2-[657].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/tikveno-parfe-2-[657].jpg"
+    ],
+    "datePublished": "2010-11-28",
+    "cookTime": "PT1H30M",
+    "recipeYield": "16 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "109 calories",
+      "carbohydrateContent": "16 g",
+      "fatContent": "2 g",
+      "proteinContent": "6 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "1.4856325 g",
+      "cholesterolContent": "1 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг извара",
+      "1/2 кг тиква",
+      "1 ч.ч. захар",
+      "1 опак. ванилия",
+      "кората на 1 лимон",
+      "кората на 1 портокал",
+      "30 г желатин",
+      "50 г орехи",
+      "200 мл. вода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Тиквата (1/2 кг) се обелва, нарязва на кубчета и сварява на пара. Щом изстине, се разбива в пасатора заедно със захарта (1 ч.ч.). Прибавят се изварата (1/2 кг), ванилията (1 опак.), 2/3 от настърганите кори на цитрусовите плодове и отново се разбива до получаването на хомогенна смес. Желатинът (30 г) се залива с водата (200 мл.) и се разтваря на водна баня. Щом се охлади, се налива в сместа за парфето - всичко се разбърква и излива във форма за торта с пръстен. Отгоре се поръсва с останалата част от настърганите кори от лимона и портокала и със счуканите орехови ядки. Поднася се на порции добре охладено. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "извара",
+      "qty": "1/2 кг",
+      "id": 92
+    },
+    {
+      "name": "тиква",
+      "qty": "1/2 кг",
+      "id": 116
+    },
+    {
+      "name": "захар",
+      "qty": "1 ч.ч.",
+      "id": 9
+    },
+    {
+      "name": "ванилия",
+      "qty": "1 опак.",
+      "id": 23
+    },
+    {
+      "name": "кората на 1 лимон",
+      "qty": "Parsing error",
+      "id": 107
+    },
+    {
+      "name": "кората на 1 портокал",
+      "qty": "Parsing error",
+      "id": 159
+    },
+    {
+      "name": "желатин",
+      "qty": "30 г",
+      "id": 124
+    },
+    {
+      "name": "орехи",
+      "qty": "50 г",
+      "id": 31
+    },
+    {
+      "name": "вода",
+      "qty": "200 мл.",
+      "id": 11
+    }
+  ]
+}

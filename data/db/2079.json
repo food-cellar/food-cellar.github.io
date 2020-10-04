@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Баба Гануш - ливанско ястие с патладжан и сусамов тахан",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/baba-ganush-1-[2079].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/baba-ganush-1-[2079].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/baba-ganush-1-[2079].jpg"
+    ],
+    "datePublished": "2012-09-14",
+    "cookTime": "PT0H40M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "78 calories",
+      "carbohydrateContent": "18 g",
+      "fatContent": "0 g",
+      "proteinContent": "3 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.21571 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "2  патладжана",
+      "4 с.л. тахан",
+      "4 скилидки чесън",
+      "4 с.л. лимонов сок",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Патладжанът (2 бр) се изпича в гореща фурна, докато кората почернее и стане на мехури или се напука. Изважда се и се увива във фолио. Пече се още 10-15 минути, докато омекне и стане лесна за обелване. След като се обели, се нарязва на ситни парчета и се смесва със смачкания чесън (4 скилидки), лимонов сок (4 с.л.), сол и тахан (4 с.л.). Добре е да не се използва пасатор, защото семената на патладжана ще придадат горчив вкус."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "патладжана",
+      "qty": "2",
+      "id": 71
+    },
+    {
+      "name": "тахан",
+      "qty": "4 с.л.",
+      "id": 247
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "4 с.л.",
+      "id": 17
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

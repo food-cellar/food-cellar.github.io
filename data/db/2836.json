@@ -1,0 +1,98 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пържени панирани кюфтета от тиквички и магданоз",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/panirani-kufteta-ot-tikvichki-1-[2836].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/panirani-kufteta-ot-tikvichki-1-[2836].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/panirani-kufteta-ot-tikvichki-1-[2836].jpg"
+    ],
+    "datePublished": "2014-02-28",
+    "cookTime": "PT1H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "378 calories",
+      "carbohydrateContent": "49 g",
+      "fatContent": "15 g",
+      "proteinContent": "13 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "11.297055 g",
+      "cholesterolContent": "51 mg"
+    },
+    "recipeIngredient": [
+      "6  тиквички",
+      "4 филии хляб",
+      "1/2 ч.ч. прясно мляко",
+      "1 връзка магданоз",
+      "6 скилидки чесън",
+      "1  яйце",
+      "50 г галета",
+      "50 г брашно",
+      "50 мл. олио"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Тиквичките (6 бр) се измиват и рендосват, след което се оставят в гевгир за поне час, за да се отцедят много добре. После се смесват с пресования чесън (6 скилидки) и ситно накълцания магданоз (1 връзка). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Към сместа от тиквички се прибавя и накиснатия в прясно мляко (1/2 ч.ч.) хляб (4 филии), който се смачква със зеленчуковата смес до получаване на гъста каша. Тя се посолява и от нея с мокри ръце се оформят плоски кюфтета. Те се овалват в разбито сурово яйце, а след това в смес от равни количества брашно и галета."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Кюфтетата се пържат в сгорещено олио, като се обръщат внимателно с решетъчна лъжица, за да се изпържат  от двете страни.  "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "тиквички",
+      "qty": "6",
+      "id": 39
+    },
+    {
+      "name": "хляб",
+      "qty": "4 филии",
+      "id": 66
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "1/2 ч.ч.",
+      "id": 14
+    },
+    {
+      "name": "магданоз",
+      "qty": "1 връзка",
+      "id": 12
+    },
+    {
+      "name": "чесън",
+      "qty": "6 скилидки",
+      "id": 6
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    },
+    {
+      "name": "галета",
+      "qty": "50 г",
+      "id": 58
+    },
+    {
+      "name": "брашно",
+      "qty": "50 г",
+      "id": 7
+    },
+    {
+      "name": "олио",
+      "qty": "50 мл.",
+      "id": 4
+    }
+  ]
+}

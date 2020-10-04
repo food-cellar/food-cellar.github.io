@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Огретен с тиквички и сирене",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/ogreten-s-tikvichki-i-sirene-1-[1125].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/ogreten-s-tikvichki-i-sirene-1-[1125].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/ogreten-s-tikvichki-i-sirene-1-[1125].jpg"
+    ],
+    "datePublished": "2011-04-22",
+    "cookTime": "PT0H45M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "339 calories",
+      "carbohydrateContent": "13 g",
+      "fatContent": "23 g",
+      "proteinContent": "21 g",
+      "saturatedFatContent": "13 g",
+      "unsaturatedFatContent": "7.98425 g",
+      "cholesterolContent": "300 mg"
+    },
+    "recipeIngredient": [
+      "6  тиквички",
+      "5  яйца",
+      "300 г сирене",
+      "1 с.л. олио",
+      "1 връзка пресен лук",
+      "1/2 връзка копър",
+      "1/2 връзка магданоз",
+      "черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Тиквичките (6 бр) се нарязват на по-едри кубчета и се задушават във вряща подсолена вода, докато леко омекнат. Изцеждат се, смесват се със ситно нарязаните зелени подправки, олиото (1 с.л.), натрошеното сирене (300 г) и разбитите яйца (5 бр), овкусяват се с черен пипер и сол, и всичко се изсипва в тавичка. Запича се до златисто."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "тиквички",
+      "qty": "6",
+      "id": 39
+    },
+    {
+      "name": "яйца",
+      "qty": "5",
+      "id": 5
+    },
+    {
+      "name": "сирене",
+      "qty": "300 г",
+      "id": 32
+    },
+    {
+      "name": "олио",
+      "qty": "1 с.л.",
+      "id": 4
+    },
+    {
+      "name": "пресен лук",
+      "qty": "1 връзка",
+      "id": 24
+    },
+    {
+      "name": "копър",
+      "qty": "1/2 връзка",
+      "id": 28
+    },
+    {
+      "name": "магданоз",
+      "qty": "1/2 връзка",
+      "id": 12
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

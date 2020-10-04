@@ -1,0 +1,80 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Лесна бисквитена торта с баварски крем от сметана, жълтък и ванилия",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/biskvitena-torta-s-bavarski-krem-2-[2154].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/biskvitena-torta-s-bavarski-krem-2-[2154].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/biskvitena-torta-s-bavarski-krem-2-[2154].jpg"
+    ],
+    "datePublished": "2012-11-12",
+    "cookTime": "PT1H0M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "478 calories",
+      "carbohydrateContent": "37 g",
+      "fatContent": "32 g",
+      "proteinContent": "9 g",
+      "saturatedFatContent": "15 g",
+      "unsaturatedFatContent": "13.79309 g",
+      "cholesterolContent": "247 mg"
+    },
+    "recipeIngredient": [
+      "250 г бисквити",
+      "600 мл. прясно мляко",
+      "2 опак. ванилов пудинг",
+      "6  жълтъка",
+      "2 ч.ч. сметана",
+      "50 г захар"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Първо се приготвя кремът. За целта пудингът (2 опак.) се сварява с прясното мляко (600 мл.) и захарта (50 г). Щом се охлади, към него се добавят жълтъците (6 бр) и сметаната (2 ч.ч.) и пак се разбива. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Бисквитите (250 г) се потапят в сгорещено мляко за няколко секунди, подреждат се на дъното на правоъгълна тава и се заливат с част от крема. След това следва отново ред бисквити и ред крем и така до изчерпване на количествата. Бисквитената торта се завършва с крем и се поръсва обилно със смлени бисквити. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Декорира се с шоколадови капки (готов продукт) и се оставя в хладилник за няколко часа да стегне. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "бисквити",
+      "qty": "250 г",
+      "id": 95
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "600 мл.",
+      "id": 14
+    },
+    {
+      "name": "ванилов пудинг",
+      "qty": "2 опак.",
+      "id": 234
+    },
+    {
+      "name": "жълтъка",
+      "qty": "6",
+      "id": 33
+    },
+    {
+      "name": "сметана",
+      "qty": "2 ч.ч.",
+      "id": 19
+    },
+    {
+      "name": "захар",
+      "qty": "50 г",
+      "id": 9
+    }
+  ]
+}

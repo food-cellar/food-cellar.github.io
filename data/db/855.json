@@ -1,0 +1,120 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Венецианска пица с кренвирши, кашкавал и домати",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/venetian-pizza-[855].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/venetian-pizza-[855].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/venetian-pizza-[855].jpg"
+    ],
+    "datePublished": "2012-07-06",
+    "cookTime": "PT0H45M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "597 calories",
+      "carbohydrateContent": "48 g",
+      "fatContent": "34 g",
+      "proteinContent": "23 g",
+      "saturatedFatContent": "14 g",
+      "unsaturatedFatContent": "18.0678525 g",
+      "cholesterolContent": "66 mg"
+    },
+    "recipeIngredient": [
+      "200 г брашно",
+      "15 г мая",
+      "200 мл. вода",
+      "2 с.л. олио",
+      "1 щип. захар",
+      "1 щип. сол",
+      "1  лук",
+      "3 скилидки чесън",
+      "300 г домати",
+      "3 с.л. олио",
+      "1 ч.л. риган",
+      "2  кренвирши",
+      "200 г кашкавал",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Замесва се тесто за пица с брашното (200 г) и мая (15 г) и се разточва според размера на тавата. Тавата се намазва с олио, в нея се слага разточеното тесто, също намазано с олио. Върху него се слагат нарязаната на колелца глава лук (1 бр), запържени със счукания чесън (3 скилидки) и колелца домати (300 г), кренвирши (2 бр) и кашкавал (200 г). Отгоре се поръсва с подправки. Слага се във фурната и се пече 20-30 минути при 200°С. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "брашно",
+      "qty": "200 г",
+      "id": 7
+    },
+    {
+      "name": "мая",
+      "qty": "15 г",
+      "id": 52
+    },
+    {
+      "name": "вода",
+      "qty": "200 мл.",
+      "id": 11
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    },
+    {
+      "name": "захар",
+      "qty": "1 щип.",
+      "id": 9
+    },
+    {
+      "name": "сол",
+      "qty": "1 щип.",
+      "id": 1
+    },
+    {
+      "name": "лук",
+      "qty": "1",
+      "id": 3
+    },
+    {
+      "name": "чесън",
+      "qty": "3 скилидки",
+      "id": 6
+    },
+    {
+      "name": "домати",
+      "qty": "300 г",
+      "id": 15
+    },
+    {
+      "name": "олио",
+      "qty": "3 с.л.",
+      "id": 4
+    },
+    {
+      "name": "риган",
+      "qty": "1 ч.л.",
+      "id": 65
+    },
+    {
+      "name": "кренвирши",
+      "qty": "2",
+      "id": 161
+    },
+    {
+      "name": "кашкавал",
+      "qty": "200 г",
+      "id": 47
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

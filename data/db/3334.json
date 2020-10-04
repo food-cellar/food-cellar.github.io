@@ -1,0 +1,106 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Крехки свински ребра в меден сос с печени картофи",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/krehki-svinski-rebra-v-meden-sos-s-pecheni-kartofi-1-[3334].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/krehki-svinski-rebra-v-meden-sos-s-pecheni-kartofi-1-[3334].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/krehki-svinski-rebra-v-meden-sos-s-pecheni-kartofi-1-[3334].jpg"
+    ],
+    "datePublished": "2018-11-06",
+    "cookTime": "PT2H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "892 calories",
+      "carbohydrateContent": "55 g",
+      "fatContent": "44 g",
+      "proteinContent": "66 g",
+      "saturatedFatContent": "16 g",
+      "unsaturatedFatContent": "23.707115 g",
+      "cholesterolContent": "188 mg"
+    },
+    "recipeIngredient": [
+      "1 1/4 кг свински ребра",
+      "6 с.л. мед",
+      "4 с.л. соев сос Kikkoman",
+      "10 с.л. доматено пюре",
+      "1 с.л. червен пипер",
+      "1 щип. черен пипер",
+      "сол",
+      "1 кг картофи",
+      "1 с.л. масло"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Цялото парче свински ребра (1 1/4 кг) се сварява за около час в тенджера или до пълна готовност на месото. По желание се разрязва на две или повече парчета."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "След това се приготвя маринатата за месото. За целта в купа се разбиват доматеното пюре (10 с.л.), течният мед (6 с.л.), <a href=http://kikkofood.bg/>соевият сос Kikkoman </a> (4 с.л.), червеният пипер (1 с.л.) и черният пипер (1 щип.). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Свинските ребра се поставят в тава, заливат се със соса и се пекат още час, докато сосът се сгъсти и месото стане съвсем крехко и с апетитна коричка."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "През това време картофите (1 кг) се сваряват цели, обелват се и се нарязват на колелца с дебелина един сантиметър. Овкусяват се със сол и се намазват с разтопено масло с помощта на четка. Поставят се в силно сгорещен оребрен тиган, като се пекат за няколко минути от всяка страна, докато придобият апетитен цвят. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Повече за полезните съставки на соевия сос, както и всичко за разнообразните продукти на <a href=http://kikkofood.bg/>Kikkoman </a> може да научите на официалния сайт на кампанията <a href=http://kikkofood.bg/>Вкусната храна обича Kikkoman!</a>, където ви очакват и страхотни награди! Следете и <a href=https://www.facebook.com/OishiiSanCuisine/>страницата на Kikkoman във Facebook</a>, където ви очакват допълнителни подаръци. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "свински ребра",
+      "qty": "1 1/4 кг",
+      "id": 216
+    },
+    {
+      "name": "мед",
+      "qty": "6 с.л.",
+      "id": 38
+    },
+    {
+      "name": "соев сос Kikkoman",
+      "qty": "4 с.л.",
+      "id": 53
+    },
+    {
+      "name": "доматено пюре",
+      "qty": "10 с.л.",
+      "id": 35
+    },
+    {
+      "name": "червен пипер",
+      "qty": "1 с.л.",
+      "id": 20
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 щип.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "картофи",
+      "qty": "1 кг",
+      "id": 16
+    },
+    {
+      "name": "масло",
+      "qty": "1 с.л.",
+      "id": 8
+    }
+  ]
+}

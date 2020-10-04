@@ -1,0 +1,102 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печени пилешки хапки с домати, сметана и сушени кайсии на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pile-s-kaisii-3-[1440].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pile-s-kaisii-3-[1440].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pile-s-kaisii-3-[1440].jpg"
+    ],
+    "datePublished": "2011-05-10",
+    "cookTime": "PT0H45M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "414 calories",
+      "carbohydrateContent": "46 g",
+      "fatContent": "14 g",
+      "proteinContent": "27 g",
+      "saturatedFatContent": "8 g",
+      "unsaturatedFatContent": "4.99211 g",
+      "cholesterolContent": "100 mg"
+    },
+    "recipeIngredient": [
+      "400 г пилешки гърди",
+      "200 г сушени кайсии",
+      "4 глави лук",
+      "400 г домати",
+      "125 г сметана",
+      "червен пипер",
+      "черен пипер",
+      "кимион",
+      "1 с.л. масло",
+      "1 стрък магданоз",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Кайсиите (200 г) се заливат с вряла вода и се оставтя да престоят, докато омекнат. Пилешкото месо (400 г) се нарязва на хапки и се подправя със сол, кимион, черен и червен пипер. Лукът (4 глави) се нарязва на едри полумесеци и се задушава в маслото (1 с.л.) до омекване. Към него се добавя месото и се пържи от всички страни до златисто. Добавят се белените и нарязани на кубчета домати от консерва (400 г) и сметаната (125 г).  Сместа се разбърква много добре и след няколко минути се премества от котлона. Изсипва се в тавичка и се пече около 20 минути при температура от 180 градуса. Ястието се украсява с листенца пресен магданоз."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешки гърди",
+      "qty": "400 г",
+      "id": 79
+    },
+    {
+      "name": "сушени кайсии",
+      "qty": "200 г",
+      "id": 149
+    },
+    {
+      "name": "лук",
+      "qty": "4 глави",
+      "id": 3
+    },
+    {
+      "name": "домати",
+      "qty": "400 г",
+      "id": 15
+    },
+    {
+      "name": "сметана",
+      "qty": "125 г",
+      "id": 19
+    },
+    {
+      "name": "червен пипер",
+      "qty": "Parsing error",
+      "id": 20
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "кимион",
+      "qty": "Parsing error",
+      "id": 42
+    },
+    {
+      "name": "масло",
+      "qty": "1 с.л.",
+      "id": 8
+    },
+    {
+      "name": "магданоз",
+      "qty": "1 стрък",
+      "id": 12
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

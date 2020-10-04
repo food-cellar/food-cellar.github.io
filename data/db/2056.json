@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата с чушки, авокадо и копър",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-s-chushki-avokado-i-kopur-1-[2056].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-s-chushki-avokado-i-kopur-1-[2056].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-s-chushki-avokado-i-kopur-1-[2056].jpg"
+    ],
+    "datePublished": "2012-08-14",
+    "cookTime": "PT0H10M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "203 calories",
+      "carbohydrateContent": "18 g",
+      "fatContent": "14 g",
+      "proteinContent": "2 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "10.7485075 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "2  зелени чушки",
+      "2  червени чушки",
+      "2  жълти чушки",
+      "1  авокадо",
+      "1 глава червен лук",
+      "1/4 връзка копър",
+      "2 с.л. балсамов оцет",
+      "4 с.л. зехтин",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Трите цвята чушки се измиват старателно и се почистват от дръжките и семките. Нарязват се на ситни кубчета и се смесват с нарязаното на кубчета авокадо, ситно нарязания червен лук и копъра. Салатата се овкусява със сол, балсамов оцет и зехтин, разбърква се и се сервира веднага."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "зелени чушки",
+      "qty": "2",
+      "id": 18
+    },
+    {
+      "name": "червени чушки",
+      "qty": "2",
+      "id": 18
+    },
+    {
+      "name": "жълти чушки",
+      "qty": "2",
+      "id": 18
+    },
+    {
+      "name": "авокадо",
+      "qty": "1",
+      "id": 83
+    },
+    {
+      "name": "червен лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "копър",
+      "qty": "1/4 връзка",
+      "id": 28
+    },
+    {
+      "name": "балсамов оцет",
+      "qty": "2 с.л.",
+      "id": 142
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

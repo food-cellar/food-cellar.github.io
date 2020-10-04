@@ -1,0 +1,108 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Гръцка салата домати, краставици и маруля със сирене Фета",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-elas-2-[264].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-elas-2-[264].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-elas-2-[264].jpg"
+    ],
+    "datePublished": "2011-01-01",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "391 calories",
+      "carbohydrateContent": "19 g",
+      "fatContent": "33 g",
+      "proteinContent": "7 g",
+      "saturatedFatContent": "13 g",
+      "unsaturatedFatContent": "18.28112 g",
+      "cholesterolContent": "55 mg"
+    },
+    "recipeIngredient": [
+      "1/2  краставица",
+      "1  домат",
+      "1/2 глава лук",
+      "5  черни маслини",
+      "1/2  маруля",
+      "50 г сирене “Фета”",
+      "3 стръчета мента",
+      "2 с.л. зехтин",
+      "1 с.л. вода",
+      "1 с.л. лимонов сок",
+      "сол",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Марулята (1/2 бр) се накъсва. Ментата (3 стръчета) се нарязва на ситно. Краставицата (1/2 бр) се реже на дълги овални парчета. Доматът (1 бр)- на 6 полукръгчета. Лукът (1/2 глава) - на тънки колелца. В салатена чиния се поставя накъсаната маруля. Около нея се нареждат порчетата от домата и краставицата. В средата се слага нарязаното на кубчета сирене. Върху него се поставят лучените кръгчета. Салатата се декорира с черните маслини (5 бр) и се поръсва с дресинга, приготвен от посочените продукти с разбиване."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "краставица",
+      "qty": "1/2",
+      "id": 44
+    },
+    {
+      "name": "домат",
+      "qty": "1",
+      "id": 15
+    },
+    {
+      "name": "лук",
+      "qty": "1/2 глава",
+      "id": 3
+    },
+    {
+      "name": "черни маслини",
+      "qty": "5",
+      "id": 50
+    },
+    {
+      "name": "маруля",
+      "qty": "1/2",
+      "id": 176
+    },
+    {
+      "name": "сирене “Фета”",
+      "qty": "50 г",
+      "id": 150
+    },
+    {
+      "name": "мента",
+      "qty": "3 стръчета",
+      "id": 90
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "вода",
+      "qty": "1 с.л.",
+      "id": 11
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

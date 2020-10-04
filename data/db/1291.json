@@ -1,0 +1,94 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Парти хапки с тиквички и сусам",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/hapki-s-tikvichki-i-susam-4-[1291].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/hapki-s-tikvichki-i-susam-4-[1291].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/hapki-s-tikvichki-i-susam-4-[1291].jpg"
+    ],
+    "datePublished": "2011-01-30",
+    "cookTime": "PT0H45M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "217 calories",
+      "carbohydrateContent": "34 g",
+      "fatContent": "7 g",
+      "proteinContent": "6 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "4.59005375 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "2  тиквичка",
+      "2  морков",
+      "2  чушка",
+      "2  картоф",
+      "4 с.л. сусам",
+      "8 филии хляб",
+      "4 с.л. зехтин"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Сусамът (4 с.л.) се запича на тиган около 3-4 минути. Трябва да получи кафеникав загар."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Картофите (2 бр) се сваряват и нарязват грубо на парчета."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Хлябът (8 филии) се нарязва на хапки и се изпича на фурна. За най-добър резултат, хапките трябва да са по-малки. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Тиквичките (2 бр), чушките (2 бр) и морковите (2 бр) се нарязват на ситно и се задушават в зехтин (4 с.л.), докато значително намалят обема си."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Всичко освен сусамът се слага в купа и се намачква, така че да стане на пюре. Добавя се и сусамът и се разбърква с лъжица. Сместа се нанася върху филийките."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "тиквичка",
+      "qty": "2",
+      "id": 39
+    },
+    {
+      "name": "морков",
+      "qty": "2",
+      "id": 13
+    },
+    {
+      "name": "чушка",
+      "qty": "2",
+      "id": 18
+    },
+    {
+      "name": "картоф",
+      "qty": "2",
+      "id": 16
+    },
+    {
+      "name": "сусам",
+      "qty": "4 с.л.",
+      "id": 113
+    },
+    {
+      "name": "хляб",
+      "qty": "8 филии",
+      "id": 66
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    }
+  ]
+}

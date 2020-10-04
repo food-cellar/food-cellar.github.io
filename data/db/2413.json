@@ -1,0 +1,88 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Таратор с орехи",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/tarator-s-orehi-2-[2413].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/tarator-s-orehi-2-[2413].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/tarator-s-orehi-2-[2413].jpg"
+    ],
+    "datePublished": "2013-03-08",
+    "cookTime": "PT0H10M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "123 calories",
+      "carbohydrateContent": "6 g",
+      "fatContent": "9 g",
+      "proteinContent": "4 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "6.891995 g",
+      "cholesterolContent": "9 mg"
+    },
+    "recipeIngredient": [
+      "400 г кисело мляко",
+      "400 мл. вода",
+      "1  краставица",
+      "2 скилидки чесън",
+      "1/2 връзка копър",
+      "2 с.л. олио",
+      "сол",
+      "50 г орехи"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Киселото мляко (400 г) се разбива с олиото (2 с.л.), солта и студената вода (400 мл.). Към него се добавят счуканият чесън (2 скилидки), ситно нарязаният копър (1/2 връзка) и рендосаната или нарязана на кубчета необелена краставица (1 бр). (По желание може краставицата да се обели.) Тараторът се разбърква и се сервира в купички. Всяка порция се поднася, като най-отгоре се посипва със смлени или натрошени орехи (50 г)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Тараторът е студена супа, която се сервира най-често през лятото и е част от националната кухня на България. Тя е нискокалорично предложение за лятото, което всеки у нас познава."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "кисело мляко",
+      "qty": "400 г",
+      "id": 21
+    },
+    {
+      "name": "вода",
+      "qty": "400 мл.",
+      "id": 11
+    },
+    {
+      "name": "краставица",
+      "qty": "1",
+      "id": 44
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "копър",
+      "qty": "1/2 връзка",
+      "id": 28
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "орехи",
+      "qty": "50 г",
+      "id": 31
+    }
+  ]
+}

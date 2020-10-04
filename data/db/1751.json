@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пикантен доматен сос с люти чушки и уорчестър",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pikanten-domaten-sos-1-[1751].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pikanten-domaten-sos-1-[1751].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pikanten-domaten-sos-1-[1751].jpg"
+    ],
+    "datePublished": "2011-11-16",
+    "cookTime": "PT0H20M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Сосове",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "96 calories",
+      "carbohydrateContent": "13 g",
+      "fatContent": "4 g",
+      "proteinContent": "1 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "3.5395466666667 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг домати",
+      "1 глава лук",
+      "4  люти чушки",
+      "4 скилидки чесън",
+      "4 с.л. зехтин",
+      "2 с.л. захар",
+      "1 с.л. сос Уорчестър",
+      "1 с.л. сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Лукът (1 глава) се наязва на ситно и се запържва в зехтина (4 с.л.), заедно с чесъна (4 скилидки) и лютите чушки (4 бр). След 4-5 минути, щом лукът омекне, се добавят предварително пасираните домати (1/2 кг), солта, захарта (2 с.л.) и сосът Уорчестър (1 с.л.)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "домати",
+      "qty": "1/2 кг",
+      "id": 15
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "люти чушки",
+      "qty": "4",
+      "id": 105
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "захар",
+      "qty": "2 с.л.",
+      "id": 9
+    },
+    {
+      "name": "сос Уорчестър",
+      "qty": "1 с.л.",
+      "id": 207
+    },
+    {
+      "name": "сол",
+      "qty": "1 с.л.",
+      "id": 1
+    }
+  ]
+}

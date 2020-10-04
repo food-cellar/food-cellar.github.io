@@ -1,0 +1,92 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пълнена ципура във фолио",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pulnena-cipura-vuv-folio-3-[2407].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pulnena-cipura-vuv-folio-3-[2407].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pulnena-cipura-vuv-folio-3-[2407].jpg"
+    ],
+    "datePublished": "2013-03-07",
+    "cookTime": "PT1H0M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "397 calories",
+      "carbohydrateContent": "14 g",
+      "fatContent": "19 g",
+      "proteinContent": "40 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "13.02397 g",
+      "cholesterolContent": "120 mg"
+    },
+    "recipeIngredient": [
+      "2  ципури",
+      "1  лимон",
+      "2 стръка розмарин",
+      "2 с.л. галета",
+      "1 връзка зелен лук",
+      "1 щип. черен пипер",
+      "сол",
+      "2 с.л. зехтин"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Рибите (2 бр) се почистват старателно, след което се изплакват и отцеждат. Вътрешността на всяка ципура се натрива със сол, черен пипер (1 щип.) и галета (2 с.л.) и в нея се поставят ситно нарязан пресен лук (1 връзка), резени лимон (1 бр) и стрък пресен розмарин (2 стръка). Рибите се зашиват с подходящ конец, намазват се със зехтин (2 с.л.) и се увиват във фолио. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Пекат се при 180 градуса 30 минути с фолио, а след това без него, за да хванат хрупкава коричка. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Рибите се сервират горещи с подходяща салата според сезона. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "ципури",
+      "qty": "2",
+      "id": 102
+    },
+    {
+      "name": "лимон",
+      "qty": "1",
+      "id": 43
+    },
+    {
+      "name": "розмарин",
+      "qty": "2 стръка",
+      "id": 77
+    },
+    {
+      "name": "галета",
+      "qty": "2 с.л.",
+      "id": 58
+    },
+    {
+      "name": "зелен лук",
+      "qty": "1 връзка",
+      "id": 24
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 щип.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    }
+  ]
+}

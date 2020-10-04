@@ -1,0 +1,94 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Спагети с аншоа и сушени домати",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/spageti-s-anshoa-i-susheni-domati-1-[1686].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/spageti-s-anshoa-i-susheni-domati-1-[1686].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/spageti-s-anshoa-i-susheni-domati-1-[1686].jpg"
+    ],
+    "datePublished": "2011-11-16",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "702 calories",
+      "carbohydrateContent": "105 g",
+      "fatContent": "21 g",
+      "proteinContent": "21 g",
+      "saturatedFatContent": "10 g",
+      "unsaturatedFatContent": "8.89227 g",
+      "cholesterolContent": "63 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг спагети",
+      "50 г аншоа",
+      "50 г сушени домати",
+      "4 скилидки чесън",
+      "1 глава лук",
+      "200 мл. сметана",
+      "2 с.л. зехтин",
+      "г сол",
+      "босилек"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Спагетите (1/2 кг) се сваряват, отцеждат и измиват от нишестето за да не залепват."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "В друга тенджера се запържва малко аншоа (50 г) със сушени домати (50 г). Ако се използват консервирани в зехтин домати се слага и малко от соса им. Добавя се счукан чесън (4 скилидки), ситно нарязан лук (1 глава), сол и пипер. Щом лукът поомекне се залива със сметана, разбърква се добре и се прибавят спагетите. Готви се още 4-5 минути докато пастата се затопли от ново и ароматите се смесят."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "спагети",
+      "qty": "1/2 кг",
+      "id": 72
+    },
+    {
+      "name": "аншоа",
+      "qty": "50 г",
+      "id": 253
+    },
+    {
+      "name": "сушени домати",
+      "qty": "50 г",
+      "id": 121
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "сметана",
+      "qty": "200 мл.",
+      "id": 19
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "г",
+      "id": 1
+    },
+    {
+      "name": "босилек",
+      "qty": "Parsing error",
+      "id": 25
+    }
+  ]
+}

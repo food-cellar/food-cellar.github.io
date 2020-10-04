@@ -1,0 +1,112 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Рибник от тесто с шаран, орехи, лук, магданоз, босилек и копър на фурна за Никулден",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/ribnik-s-kopur-1-[305].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/ribnik-s-kopur-1-[305].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/ribnik-s-kopur-1-[305].jpg"
+    ],
+    "datePublished": "2010-11-23",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "934 calories",
+      "carbohydrateContent": "59 g",
+      "fatContent": "41 g",
+      "proteinContent": "78 g",
+      "saturatedFatContent": "6 g",
+      "unsaturatedFatContent": "30.79447 g",
+      "cholesterolContent": "248 mg"
+    },
+    "recipeIngredient": [
+      "1 1/2 кг шаран",
+      "250 г брашно",
+      "1 ч.ч. вода",
+      "1 щип. сол",
+      "2 с.л. олио",
+      "100 г орехи",
+      "3 глави лук",
+      "1 връзка магданоз",
+      "1 връзка копър",
+      "1 с.л. босилек",
+      "сол",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Лукът (3 глави), магданозът (1 връзка) и копърът (1 връзка) се нарязват на ситно. Орехите (100 г) се счукват със сол. Тази смес се задушава за 3-4 минути в сгорещеното олио (2 с.л.). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Шаранът (1 1/2 кг) се напълва с плънката и зашива с конец. Омесва се тесто с посочените продукти. Намазва се с олио и престоява 15 минути. Разточва се на тънка кора, в която се увива шаранът. Намазва се с олио. Слага се в намазнена тава и се пече в предварително загрята фурна до готовност."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "шаран",
+      "qty": "1 1/2 кг",
+      "id": 178
+    },
+    {
+      "name": "брашно",
+      "qty": "250 г",
+      "id": 7
+    },
+    {
+      "name": "вода",
+      "qty": "1 ч.ч.",
+      "id": 11
+    },
+    {
+      "name": "сол",
+      "qty": "1 щип.",
+      "id": 1
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    },
+    {
+      "name": "орехи",
+      "qty": "100 г",
+      "id": 31
+    },
+    {
+      "name": "лук",
+      "qty": "3 глави",
+      "id": 3
+    },
+    {
+      "name": "магданоз",
+      "qty": "1 връзка",
+      "id": 12
+    },
+    {
+      "name": "копър",
+      "qty": "1 връзка",
+      "id": 28
+    },
+    {
+      "name": "босилек",
+      "qty": "1 с.л.",
+      "id": 25
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

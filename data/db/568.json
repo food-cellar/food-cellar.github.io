@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Ябълкови тарталетки със сметана",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/iabulkovi-tartaletki-sus-smetana-3-[568].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/iabulkovi-tartaletki-sus-smetana-3-[568].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/iabulkovi-tartaletki-sus-smetana-3-[568].jpg"
+    ],
+    "datePublished": "2010-11-05",
+    "cookTime": "PT0H20M",
+    "recipeYield": "3 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "223 calories",
+      "carbohydrateContent": "23 g",
+      "fatContent": "14 g",
+      "proteinContent": "1 g",
+      "saturatedFatContent": "8 g",
+      "unsaturatedFatContent": "4.7468133333333 g",
+      "cholesterolContent": "36 mg"
+    },
+    "recipeIngredient": [
+      "3 с.л. брашно",
+      "3 с.л. масло",
+      "1/2 с.л. течен подсладител",
+      "1  ябълка",
+      "15 пръскания сметана в спрей",
+      "1 с.л. кокосови стърготини"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "От брашното (3 с.л.), маслото (3 с.л.) и течния подсладител (1/2 с.л.) се омесва гладко тесто. С него се запълват предварително намазнените формички за тарталетки. С помощта на остър нож тестото се отрязва така, че да не стърчи от формичките. Във всяка формичка се пръска сметана и отгоре се слагат кубчета или резени ябълка. Тарталетките се пекат 15 мин на 200 градуса. Сервират се поръсени с различни по цвят кокосови стърготини. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "брашно",
+      "qty": "3 с.л.",
+      "id": 7
+    },
+    {
+      "name": "масло",
+      "qty": "3 с.л.",
+      "id": 8
+    },
+    {
+      "name": "течен подсладител",
+      "qty": "1/2 с.л.",
+      "id": 173
+    },
+    {
+      "name": "ябълка",
+      "qty": "1",
+      "id": 85
+    },
+    {
+      "name": "сметана в спрей",
+      "qty": "15 пръскания",
+      "id": 19
+    },
+    {
+      "name": "кокосови стърготини",
+      "qty": "1 с.л.",
+      "id": 100
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Сладко от моркови",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/sladko-ot-morkovi-2-[1925].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/sladko-ot-morkovi-2-[1925].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/sladko-ot-morkovi-2-[1925].jpg"
+    ],
+    "datePublished": "2012-01-26",
+    "cookTime": "PT3H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Други",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "1184 calories",
+      "carbohydrateContent": "300 g",
+      "fatContent": "0 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.38765 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "2 кг моркови",
+      "1 кг захар",
+      "1 л. вода",
+      "1 ч.л. канела"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Морковите (2 кг) се измиват и настъргват на едро ренде. Изсипват се в дълбока тенджера и към тях се добавят водата (1 л.) и захарта (1 кг). Продуктите се варят на силен огън в началото, а след като морковите омекнат - на тих огън. Сладкото е готово тогава, когато се образува път на лъжицата, когато преминава през сместа. Отнема около 2 часа и половина. Накрая се добавя канелата (1 ч.л.), разбърква се и сладкото, още докато е топло, се разпределя в буркани. Те се затварят и не се стерилизират."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "моркови",
+      "qty": "2 кг",
+      "id": 13
+    },
+    {
+      "name": "захар",
+      "qty": "1 кг",
+      "id": 9
+    },
+    {
+      "name": "вода",
+      "qty": "1 л.",
+      "id": 11
+    },
+    {
+      "name": "канела",
+      "qty": "1 ч.л.",
+      "id": 46
+    }
+  ]
+}

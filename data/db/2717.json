@@ -1,0 +1,92 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печена вегетарианска леща на фурна със заливка от прясно мляко и яйца",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/leshta-na-furna-sus-zalivka-ot-priasno-mliako-i-iaica-1-[2717].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/leshta-na-furna-sus-zalivka-ot-priasno-mliako-i-iaica-1-[2717].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/leshta-na-furna-sus-zalivka-ot-priasno-mliako-i-iaica-1-[2717].jpg"
+    ],
+    "datePublished": "2017-03-20",
+    "cookTime": "PT1H30M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "147 calories",
+      "carbohydrateContent": "18 g",
+      "fatContent": "3 g",
+      "proteinContent": "10 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "1.4266925 g",
+      "cholesterolContent": "77 mg"
+    },
+    "recipeIngredient": [
+      "1 ч.ч. леща",
+      "1  морков",
+      "1  домат",
+      "4 скилидки чесън",
+      "4 стръка магданоз",
+      "3  яйца",
+      "1 1/2 ч.ч. прясно мляко",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Лещата (1 ч.ч.) се сварява до пълна готовност, заедно с нарязаните на ситно морков (1 бр) и чесън (4 скилидки). Накрая към нея се прибавя нарязаният на кубчета белен домат (1 бр). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Лещата се отцежда напълно от водата, в която се е варила, заедно със зеленчуците. Овкусява се със сол и ситно нарязан магданоз (4 стръка). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Прясното мляко (1 1/2 ч.ч.) се смесва с разбитите яйца (3 бр) и с тази смес се залива лещата, след като се постави в тавичка. Запича се за около 20-30 минути при 180 градуса."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "леща",
+      "qty": "1 ч.ч.",
+      "id": 106
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "домат",
+      "qty": "1",
+      "id": 15
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "магданоз",
+      "qty": "4 стръка",
+      "id": 12
+    },
+    {
+      "name": "яйца",
+      "qty": "3",
+      "id": 5
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "1 1/2 ч.ч.",
+      "id": 14
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

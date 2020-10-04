@@ -1,0 +1,86 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Броколи с ананас сос от авокадо и песто от босилек",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/brokoli-s-ananas-sos-ot-avokado-i-pesto-1-[1821].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/brokoli-s-ananas-sos-ot-avokado-i-pesto-1-[1821].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/brokoli-s-ananas-sos-ot-avokado-i-pesto-1-[1821].jpg"
+    ],
+    "datePublished": "2012-01-23",
+    "cookTime": "PT0H10M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "253 calories",
+      "carbohydrateContent": "26 g",
+      "fatContent": "15 g",
+      "proteinContent": "10 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "11.15438 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "2 глави броколи",
+      "200 г ананас",
+      "1  авокадо",
+      "1 връзка босилек",
+      "4 с.л. зехтин",
+      "2 с.л. лимонов сок",
+      "1 ч.л. сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Броколите (2 глави) се нарязват на дребни розички и се нареждат в порционни чинии. Отгоре се слагат резенчета ананас (200 г)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Отделно се приготвя сос за салатата: Авокадото (1 бр), босилекът (1 връзка), зехтинът (4 с.л.), лимоновият сок (2 с.л.) и солта (1 ч.л.) се пасират с блендер до получаването на еднородна смес. Ако сосът е твърде гъст, може да се разреди с малко вода."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Салатата се залива със соса и се поднася неразбъркана."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "броколи",
+      "qty": "2 глави",
+      "id": 57
+    },
+    {
+      "name": "ананас",
+      "qty": "200 г",
+      "id": 146
+    },
+    {
+      "name": "авокадо",
+      "qty": "1",
+      "id": 83
+    },
+    {
+      "name": "босилек",
+      "qty": "1 връзка",
+      "id": 25
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "2 с.л.",
+      "id": 17
+    },
+    {
+      "name": "сол",
+      "qty": "1 ч.л.",
+      "id": 1
+    }
+  ]
+}

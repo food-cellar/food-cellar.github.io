@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Оризови спагети с гъби, сушени домати и босилеково песто",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/orizovi-spageti-s-gubi-susheni-domati-i-bosilekovo-pesto-1-[2090].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/orizovi-spageti-s-gubi-susheni-domati-i-bosilekovo-pesto-1-[2090].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/orizovi-spageti-s-gubi-susheni-domati-i-bosilekovo-pesto-1-[2090].jpg"
+    ],
+    "datePublished": "2012-09-28",
+    "cookTime": "PT0H30M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "770 calories",
+      "carbohydrateContent": "139 g",
+      "fatContent": "21 g",
+      "proteinContent": "7 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "16.36911 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "300 г оризови спагети",
+      "8  печурки",
+      "8  сушени домата",
+      "1/2 връзка босилек",
+      "2 скилидки чесън",
+      "4 с.л. зехтин",
+      "2 с.л. кедрови ядки",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Оризовите спагети (300 г) се сваряват до готовност според указанията на опаковката. През това време се приготвя босилековото песто, като за целта се пасират в блендер пресният босилек (1/2 връзка), чесънът (2 скилидки), зехтинът (4 с.л.), кедровите ядки (2 с.л.) и солта. В дълбок тиган се задушават нарязаните на парченца мариновани сушени домати (8 бр) и нарязаните на полумесеци печурки (8 бр). Щом гъбите омекнат, към тях се прибавят оризовите спагети и всичко се разбърква, докато ароматите се смесят и продуктите изравнят температурата си. Накрая тиганът се премества от котлона и към спагетите се добавя босилековото песто. Всичко се разбърква старателно и се сервира веднагa. По желание се поръсва с черен пипер. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "оризови спагети",
+      "qty": "300 г",
+      "id": 279
+    },
+    {
+      "name": "печурки",
+      "qty": "8",
+      "id": 62
+    },
+    {
+      "name": "сушени домата",
+      "qty": "8",
+      "id": 121
+    },
+    {
+      "name": "босилек",
+      "qty": "1/2 връзка",
+      "id": 25
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "кедрови ядки",
+      "qty": "2 с.л.",
+      "id": 125
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

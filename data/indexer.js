@@ -1,5 +1,6 @@
 const fs = require('fs');
 
+/*
 const categories = JSON.parse(fs.readFileSync('./ingredientCategories.json'));
 const parsed = {};
 
@@ -10,10 +11,24 @@ for (let id in categories) {
 }
 
 fs.writeFileSync('./ingredientCategories-new.json', JSON.stringify(parsed, null, 2));
+*/
 
+const files = fs.readdirSync('./recipes');
+
+for (let file of files) {
+    const index = {};
+    const recipes = JSON.parse(fs.readFileSync('./recipes/' + file));
+
+    for (let id in recipes) {
+        const current = recipes[id];
+        index[id] = current.ingredients.map(i => i.id);
+        fs.writeFileSync('./db/' + id +'.json', JSON.stringify(current, null, 2));
+    }
+
+    fs.writeFileSync('./index/' + file, JSON.stringify(index, null, 2));
+}
 
 /*
-//const files = fs.readdirSync('./recipes');
 const ingredients = JSON.parse(fs.readFileSync('./ingredients.json'));
 
 const parsed = {};
@@ -26,22 +41,6 @@ for (let id in ingredients) {
 
 fs.writeFileSync('./ingredientIndex.json', JSON.stringify(parsed, null, 2));
 */
-
-/*
-for (let file of files) {
-    const recipes = JSON.parse(fs.readFileSync('./recipes/' + file));
-
-    for (let id in recipes) {
-        const current = recipes[id];
-        for (let ingredient of current.ingredients) {
-            ingredient.id = ingredients[ingredient.id].id;
-        }
-    }
-
-    fs.writeFileSync('./' + file, JSON.stringify(recipes, null, 2));
-}
-*/
-
 
 /*
 fs.writeFileSync('./ingredientCategories.json', JSON.stringify(categories, null, 2));

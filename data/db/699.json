@@ -1,0 +1,76 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Бежов чеснов пастет от кяфява леща",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/bejov-chesnov-pastet-2-[699].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/bejov-chesnov-pastet-2-[699].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/bejov-chesnov-pastet-2-[699].jpg"
+    ],
+    "datePublished": "2010-11-14",
+    "cookTime": "PT0H25M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Сосове",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "105 calories",
+      "carbohydrateContent": "9 g",
+      "fatContent": "5 g",
+      "proteinContent": "4 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "4.5383875 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1 к.ч. кафява леща",
+      "5 скилидки чесън",
+      "10 ч.л. зехтин",
+      "1 с.л. лимонов сок",
+      "сол",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Сварява се кафява леща (1 к.ч.) в гореща подсолена вода. Отцежда се и се пасира заедно с чесън, зехтин, лимонов сок, сол и черен пипер. На 1 с. л. от лещата се падат 1/2 скилидка чесън, 1 ч. л. зехтин. Солта и черният пипер се добавят на вкус."
+      },
+      {
+        "@type": "HowToStep",
+        "text": ""
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "кафява леща",
+      "qty": "1 к.ч.",
+      "id": 106
+    },
+    {
+      "name": "чесън",
+      "qty": "5 скилидки",
+      "id": 6
+    },
+    {
+      "name": "зехтин",
+      "qty": "10 ч.л.",
+      "id": 10
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

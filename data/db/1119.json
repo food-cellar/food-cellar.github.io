@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата с манго",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-s-mango-1-[1119].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-s-mango-1-[1119].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-s-mango-1-[1119].jpg"
+    ],
+    "datePublished": "2011-04-22",
+    "cookTime": "PT0H5M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "119 calories",
+      "carbohydrateContent": "13 g",
+      "fatContent": "6 g",
+      "proteinContent": "3 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "2.8134625 g",
+      "cholesterolContent": "10 mg"
+    },
+    "recipeIngredient": [
+      "1  салата айсберг",
+      "1 консерва манго",
+      "5 с.л. течна сметана",
+      "3 с.л. лимонов сок",
+      "30 г тиквени семки",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Салатата (1 бр) се нарязва на тънки ивички, посолява се и се намачква. Мангото (1 консерва) се накъсва на дребни парченца. Салатата и мангото се смесват се в голяма купа и се овкусяват с течната сметана (5 с.л.) и лимоновия сок (3 с.л.). Салатата се сервира, поръсена с тиквени семки (30 г) и парче манго  на върха. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "салата айсберг",
+      "qty": "1",
+      "id": 101
+    },
+    {
+      "name": "манго",
+      "qty": "1 консерва",
+      "id": 336
+    },
+    {
+      "name": "течна сметана",
+      "qty": "5 с.л.",
+      "id": 19
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "3 с.л.",
+      "id": 17
+    },
+    {
+      "name": "тиквени семки",
+      "qty": "30 г",
+      "id": 189
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата с паста фарфале, чери домати и зелени маслини",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-s-pasta-cheri-domati-i-zeleni-maslini-1-[2860].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-s-pasta-cheri-domati-i-zeleni-maslini-1-[2860].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-s-pasta-cheri-domati-i-zeleni-maslini-1-[2860].jpg"
+    ],
+    "datePublished": "2014-03-05",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "289 calories",
+      "carbohydrateContent": "42 g",
+      "fatContent": "10 g",
+      "proteinContent": "7 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "8.198655 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "200 г паста",
+      "200 г чери домати",
+      "100 г зелени маслини",
+      "4 с.л. зехтин",
+      "сол",
+      "1  лимон"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пастата се сварява във вряща подсолена вода според указанията на опаковката. След това се изплаква и отцежда. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Щом се охлади, към нея се прибавят зехтинът, нарязаните чери домати и нарязаните маслини. Салатата се разбърква и овкусява с лимонов сок и сол. По желание се добавя и пресен босилек.   "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "паста",
+      "qty": "200 г",
+      "id": 55
+    },
+    {
+      "name": "чери домати",
+      "qty": "200 г",
+      "id": 15
+    },
+    {
+      "name": "зелени маслини",
+      "qty": "100 г",
+      "id": 50
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "лимон",
+      "qty": "1",
+      "id": 43
+    }
+  ]
+}

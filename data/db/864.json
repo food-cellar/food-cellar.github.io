@@ -1,0 +1,60 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Коктейл Морски бриз (Seabreeze)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kokteil-morski-briz--1-[864].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kokteil-morski-briz--1-[864].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kokteil-morski-briz--1-[864].jpg"
+    ],
+    "datePublished": "2013-02-20",
+    "cookTime": "PT0H35M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Коктейли",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "47 calories",
+      "carbohydrateContent": "5 g",
+      "fatContent": "0 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.01566 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "50 мл. водка",
+      "120 мл. сок от боровинки",
+      "30 мл. сок от грейпфрут",
+      "1 стрък мента"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Водката (50 мл.), сокът от боровинки (120 мл.) и сокът от грейпфрут (30 мл.) се разбиват в шейкър с лед. Коктейлът се изсипва във висока чаша с лед. Украсява се с мента и се сервира със сламка."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "водка",
+      "qty": "50 мл.",
+      "id": 154
+    },
+    {
+      "name": "сок от боровинки",
+      "qty": "120 мл.",
+      "id": 297
+    },
+    {
+      "name": "сок от грейпфрут",
+      "qty": "30 мл.",
+      "id": 285
+    },
+    {
+      "name": "мента",
+      "qty": "1 стрък",
+      "id": 90
+    }
+  ]
+}

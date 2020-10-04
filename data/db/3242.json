@@ -1,0 +1,88 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Маслени кифлички с мармалад с кисело мляко и сода (без яйца, мая и прясно мляко)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/masleni-kiflichki-s-marmalad-s-kiselo-mliako-i-soda-bez-iaica-maia-i-priasno-mliako-1-[3242].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/masleni-kiflichki-s-marmalad-s-kiselo-mliako-i-soda-bez-iaica-maia-i-priasno-mliako-1-[3242].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/masleni-kiflichki-s-marmalad-s-kiselo-mliako-i-soda-bez-iaica-maia-i-priasno-mliako-1-[3242].jpg"
+    ],
+    "datePublished": "2017-09-25",
+    "cookTime": "PT0H45M",
+    "recipeYield": "16 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "225 calories",
+      "carbohydrateContent": "38 g",
+      "fatContent": "5 g",
+      "proteinContent": "4 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "1.3531875 g",
+      "cholesterolContent": "15 mg"
+    },
+    "recipeIngredient": [
+      "600 г брашно",
+      "150 г кисело мляко",
+      "100 г масло",
+      "10 г сода бикарбонат",
+      "150 г мармалад",
+      "50 г пудра захар"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "За приготвянето на маслените кифлички маслото (100 г) се нарязва на кубчета и се оставя да поомекне. Останалите продукти се оставят, за да станат на стайна температура."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Приготвя се тесто, като за целта се омесват брашното (600 г), бакпулверът (10 г), кубчетата масло (100 г) и киселото мляко (150 г). Щом е готово се разделя на няколко топки, в зависимост от желаната големина на кифличките. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Всяка от тях се разточва и разрязва на осминки, които се намазват с мармалад (150 г). Може да се използва от шипки, сливи или друг по избор. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Оформят се кифлички, като дългата страна на триъгълниците се навива по посока на върха. Поставят се в тавичка, покрита с хартия за печене и се слагат във фурната за 15 минути на 200 градуса фурна. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Щом се опекат се оставят да изстинат и се поръсват с пудра захар."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "брашно",
+      "qty": "600 г",
+      "id": 7
+    },
+    {
+      "name": "кисело мляко",
+      "qty": "150 г",
+      "id": 21
+    },
+    {
+      "name": "масло",
+      "qty": "100 г",
+      "id": 8
+    },
+    {
+      "name": "сода бикарбонат",
+      "qty": "10 г",
+      "id": 56
+    },
+    {
+      "name": "мармалад",
+      "qty": "150 г",
+      "id": 89
+    },
+    {
+      "name": "пудра захар",
+      "qty": "50 г",
+      "id": 34
+    }
+  ]
+}

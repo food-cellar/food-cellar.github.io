@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печено пилешко филе по италиански с домати, пармезан и сирене моцарела на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pecheno-pileshko-po-italianski-2-[1502].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pecheno-pileshko-po-italianski-2-[1502].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pecheno-pileshko-po-italianski-2-[1502].jpg"
+    ],
+    "datePublished": "2011-06-16",
+    "cookTime": "PT0H50M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "420 calories",
+      "carbohydrateContent": "2 g",
+      "fatContent": "20 g",
+      "proteinContent": "53 g",
+      "saturatedFatContent": "8 g",
+      "unsaturatedFatContent": "9.024575 g",
+      "cholesterolContent": "167 mg"
+    },
+    "recipeIngredient": [
+      "800 г пилешко филе",
+      "125 г моцарела",
+      "75 г пармезан",
+      "1  домат",
+      "1 стрък босилек",
+      "2 с.л. зехтин",
+      "черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилешките гърди (800 г) се измиват, подсушават и овкусяват с черен пипер и сол. Изпичат се до порозовяване и от двете страни в силно нагорещен тиган с малко зехтин (2 с.л.). След това се поставят в тавичка и върху тях се подреждат листа пресен босилек (1 стрък), след това тънки резени домат (1 бр), а накрая настъргани моцарела (125 г) и пармезан (75 г). Ястието се поставя в предварително загрята силна фурна и се пече до разтапянето на сирената. Сервира се горещо с гарнитура от свежа салата."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешко филе",
+      "qty": "800 г",
+      "id": 49
+    },
+    {
+      "name": "моцарела",
+      "qty": "125 г",
+      "id": 93
+    },
+    {
+      "name": "пармезан",
+      "qty": "75 г",
+      "id": 59
+    },
+    {
+      "name": "домат",
+      "qty": "1",
+      "id": 15
+    },
+    {
+      "name": "босилек",
+      "qty": "1 стрък",
+      "id": 25
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

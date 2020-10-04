@@ -1,0 +1,102 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Спагети със сос от шпроти и каперси",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/spageti-sus-sos-sofi-1-[301].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/spageti-sus-sos-sofi-1-[301].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/spageti-sus-sos-sofi-1-[301].jpg"
+    ],
+    "datePublished": "2010-11-23",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "565 calories",
+      "carbohydrateContent": "87 g",
+      "fatContent": "14 g",
+      "proteinContent": "21 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "11.0147975 g",
+      "cholesterolContent": "15 mg"
+    },
+    "recipeIngredient": [
+      "450 г спагети",
+      "4 с.л. магданоз",
+      "1 скилидка чесън",
+      "2 с.л. орехи",
+      "100 г шпроти",
+      "15  маслини",
+      "2 ч.л. каперси",
+      "1/2 глава лук",
+      "3 с.л. зехтин",
+      "сол",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Лукът (1/2 глава) се нарязва на ситно. Пасират се лукът, магданозът (4 с.л.), чесънът (1 скилидка), рибата (100 г), каперсите (2 ч.л.) и орехите (2 с.л.). При пюрирането на сместа в нея се налива зехтин, докато стане еднородна. Поръсва се с черен пипер. Маслините (15 бр) се разрязват на половинки. Спагетите (450 г) се слагат във вряща подсолена вода, варят се 10 минути и се отцеждат. Пържат се в останалата мазнина до златист цвят (5-7 минути). Подправят се със соса и се декорират с маcлините."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "спагети",
+      "qty": "450 г",
+      "id": 72
+    },
+    {
+      "name": "магданоз",
+      "qty": "4 с.л.",
+      "id": 12
+    },
+    {
+      "name": "чесън",
+      "qty": "1 скилидка",
+      "id": 6
+    },
+    {
+      "name": "орехи",
+      "qty": "2 с.л.",
+      "id": 31
+    },
+    {
+      "name": "шпроти",
+      "qty": "100 г",
+      "id": 253
+    },
+    {
+      "name": "маслини",
+      "qty": "15",
+      "id": 50
+    },
+    {
+      "name": "каперси",
+      "qty": "2 ч.л.",
+      "id": 162
+    },
+    {
+      "name": "лук",
+      "qty": "1/2 глава",
+      "id": 3
+    },
+    {
+      "name": "зехтин",
+      "qty": "3 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата от соеви кълнове, краставица и чушки",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-ot-soevi-kulnove-krastavica-i-chushki-2-[2321].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-ot-soevi-kulnove-krastavica-i-chushki-2-[2321].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-ot-soevi-kulnove-krastavica-i-chushki-2-[2321].jpg"
+    ],
+    "datePublished": "2013-02-17",
+    "cookTime": "PT0H5M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "137 calories",
+      "carbohydrateContent": "14 g",
+      "fatContent": "7 g",
+      "proteinContent": "9 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "5.663515 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "100 г соеви кълнове",
+      "1  краставица",
+      "1  червена чушка",
+      "20 г кълнове от люцерна",
+      "1 с.л. соев сос",
+      "1 с.л. зехтин",
+      "1 ч.л. оцет"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Краставицата (1 бр) се обелва и настъргва на ренде, а чушката се нарязва на ситни ивици. Кълновете (100 г) се измиват и подсушават. Всички продукти се смесват в купа и се овкусяват със зехтин (1 с.л.), оцет (1 ч.л.) и соев сос (1 с.л.). По желание може да замените кълновете от люцерна с кълнове от броколи, сминдух или други по ваш избор."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "соеви кълнове",
+      "qty": "100 г",
+      "id": 225
+    },
+    {
+      "name": "краставица",
+      "qty": "1",
+      "id": 44
+    },
+    {
+      "name": "червена чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "кълнове от люцерна",
+      "qty": "20 г",
+      "id": 181
+    },
+    {
+      "name": "соев сос",
+      "qty": "1 с.л.",
+      "id": 53
+    },
+    {
+      "name": "зехтин",
+      "qty": "1 с.л.",
+      "id": 10
+    },
+    {
+      "name": "оцет",
+      "qty": "1 ч.л.",
+      "id": 61
+    }
+  ]
+}

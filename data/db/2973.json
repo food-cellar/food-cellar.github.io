@@ -1,0 +1,58 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Страшна рецепта за кренвиршки за Хелоуин",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/strashna-recepta-za-krenvirshi-za-helouin-1-[2973].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/strashna-recepta-za-krenvirshi-za-helouin-1-[2973].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/strashna-recepta-za-krenvirshi-za-helouin-1-[2973].jpg"
+    ],
+    "datePublished": "2014-10-30",
+    "cookTime": "PT0H20M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "410 calories",
+      "carbohydrateContent": "16 g",
+      "fatContent": "33 g",
+      "proteinContent": "11 g",
+      "saturatedFatContent": "11 g",
+      "unsaturatedFatContent": "20.683691666667 g",
+      "cholesterolContent": "38 mg"
+    },
+    "recipeIngredient": [
+      "6  кренвирши",
+      "200 г бутер тесто",
+      "1 ч.л. горчица"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Тази забавна рецепта за Хелоуин можете да си направите за броени минути. Достатъчно е да нарежете добре охладеното бутер тесто на тънки ивици и да ги увиете върху кренвиршите, така че те да изглеждат като завързани. Сложете им шапчица от тесто, изпечете ги в предварително загрята на 180 градуса фурна до позлатяване, а след като се охладят, сложете очички от горчица. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "За най-добри резултати екипът на 1001 рецепти препоръчва да приготвите тази рецепта с истински кренвирши - <a href=https://www.facebook.com/GradusChicken>пилешки кренвирши Градус</a>."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "кренвирши",
+      "qty": "6",
+      "id": 161
+    },
+    {
+      "name": "бутер тесто",
+      "qty": "200 г",
+      "id": 117
+    },
+    {
+      "name": "горчица",
+      "qty": "1 ч.л.",
+      "id": 64
+    }
+  ]
+}

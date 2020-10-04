@@ -1,0 +1,106 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печена риба ципура с хрупкава коричка на керемида във фурна с доматен сос с кориандър, розмарин и копър",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/cipura-na-keremida-2-[1800].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/cipura-na-keremida-2-[1800].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/cipura-na-keremida-2-[1800].jpg"
+    ],
+    "datePublished": "2011-11-13",
+    "cookTime": "PT0H50M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "365 calories",
+      "carbohydrateContent": "9 g",
+      "fatContent": "18 g",
+      "proteinContent": "39 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "13.055335 g",
+      "cholesterolContent": "120 mg"
+    },
+    "recipeIngredient": [
+      "4  ципури",
+      "6 скилидки чесън",
+      "4 стръка розмарин",
+      "2 с.л. кориандър",
+      "1  лимон",
+      "2  домата",
+      "10  черни маслини",
+      "3 с.л. зехтин",
+      "1/2 връзка копър",
+      "2 щип. риган",
+      "1 щип. сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Ципурите (4 бр) се почистват от вътрешностите и се пълнят със смес от счукан чесън (6 скилидки), розмарин (4 стръка), кориандър (2 с.л.) и резени лимон. Намазват се с малко зехтин и се поръсват със сол, черен и червен пипер. Пекат се покрити с фолио около 30 минути и още 10-15 минути без фолио на горна фурна до получаване на хрупкава коричка."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Сосът се приготвя като всичките продукти се пасират в блендeр, след което се оставя да се охлади в хладилник."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "ципури",
+      "qty": "4",
+      "id": 102
+    },
+    {
+      "name": "чесън",
+      "qty": "6 скилидки",
+      "id": 6
+    },
+    {
+      "name": "розмарин",
+      "qty": "4 стръка",
+      "id": 77
+    },
+    {
+      "name": "кориандър",
+      "qty": "2 с.л.",
+      "id": 97
+    },
+    {
+      "name": "лимон",
+      "qty": "1",
+      "id": 43
+    },
+    {
+      "name": "домата",
+      "qty": "2",
+      "id": 15
+    },
+    {
+      "name": "черни маслини",
+      "qty": "10",
+      "id": 50
+    },
+    {
+      "name": "зехтин",
+      "qty": "3 с.л.",
+      "id": 10
+    },
+    {
+      "name": "копър",
+      "qty": "1/2 връзка",
+      "id": 28
+    },
+    {
+      "name": "риган",
+      "qty": "2 щип.",
+      "id": 65
+    },
+    {
+      "name": "сол",
+      "qty": "1 щип.",
+      "id": 1
+    }
+  ]
+}

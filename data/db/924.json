@@ -1,0 +1,114 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Канелони със сирене и шунка, яйца, домати и кашкавал на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kaneloni-sus-sirene-i-shunka-2-[924].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kaneloni-sus-sirene-i-shunka-2-[924].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kaneloni-sus-sirene-i-shunka-2-[924].jpg"
+    ],
+    "datePublished": "2010-11-08",
+    "cookTime": "PT1H0M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "670 calories",
+      "carbohydrateContent": "70 g",
+      "fatContent": "28 g",
+      "proteinContent": "31 g",
+      "saturatedFatContent": "16 g",
+      "unsaturatedFatContent": "9.1665866666667 g",
+      "cholesterolContent": "157 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг канелони",
+      "400 г сирене",
+      "100 г шунка",
+      "2  яйца",
+      "400 г домати",
+      "150 г кашкавал",
+      "1 с.л. олио",
+      "1 глава лук",
+      "черен пипер",
+      "копър",
+      "магданоз",
+      "босилек",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Яйцата се разбиват. Към тях се прибавят натрошеното сирене, нарязаната на малки кубчета шунка, нарязаните на ситно копър и магданоз, солта, черният пипер. С получената смес се пълнят канелоните. Нареждат се в намазнена тавичка. Маслото се разтопява в тиган и в него се задушава ситно нарязаният лук. Добавят се доматите и се оставя да поври около 5 минути. Подправя се с босилек. Канелоните се заливат с доматения сос и се пекат в предварително загрята до 200 градуса фурна около 40 минути.Накрая канелоните се поръсват с настъргания кашкавал и се допичат още 3 минути."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "канелони",
+      "qty": "1/2 кг",
+      "id": 55
+    },
+    {
+      "name": "сирене",
+      "qty": "400 г",
+      "id": 32
+    },
+    {
+      "name": "шунка",
+      "qty": "100 г",
+      "id": 76
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "домати",
+      "qty": "400 г",
+      "id": 15
+    },
+    {
+      "name": "кашкавал",
+      "qty": "150 г",
+      "id": 47
+    },
+    {
+      "name": "олио",
+      "qty": "1 с.л.",
+      "id": 4
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "копър",
+      "qty": "Parsing error",
+      "id": 28
+    },
+    {
+      "name": "магданоз",
+      "qty": "Parsing error",
+      "id": 12
+    },
+    {
+      "name": "босилек",
+      "qty": "Parsing error",
+      "id": 25
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

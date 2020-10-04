@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Препечени филийки с маслинова паста и хамон",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/prepecheni-filiiki-s-maslinova-pasta-i-hamon-2-[2391].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/prepecheni-filiiki-s-maslinova-pasta-i-hamon-2-[2391].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/prepecheni-filiiki-s-maslinova-pasta-i-hamon-2-[2391].jpg"
+    ],
+    "datePublished": "2013-03-04",
+    "cookTime": "PT0H10M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Сандвичи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "424 calories",
+      "carbohydrateContent": "42 g",
+      "fatContent": "23 g",
+      "proteinContent": "15 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "17.299656084933 g",
+      "cholesterolContent": "21 mg"
+    },
+    "recipeIngredient": [
+      "8 филии хляб",
+      "50 г маслини",
+      "50 г орехи",
+      "4 с.л. зехтин",
+      "1 с.л. мед",
+      "100 г хамон"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Филийките (8 филии) се изрязват с помощта на чаша, за да се получат кръгчета. Изпичат се в гореща фурна до златисто. Намазват се с маслинова паста, която се приготвя по следния начин: зелените маслини (50 г) се почистват от костилките и заедно със зехтина (4 с.л.), почистените орехи (50 г) и течния мед (1 с.л.) се поставят в блендер. Всичко се пасира до получаването на маслиново-орехова паста.Филийките се поднасят веднага, заедно с тънки резени хамон (100 г), прошуто или друг вид шунка. Тази закуска е чудесен старт на деня или здравословно следобедно хапване. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "хляб",
+      "qty": "8 филии",
+      "id": 66
+    },
+    {
+      "name": "маслини",
+      "qty": "50 г",
+      "id": 50
+    },
+    {
+      "name": "орехи",
+      "qty": "50 г",
+      "id": 31
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "мед",
+      "qty": "1 с.л.",
+      "id": 38
+    },
+    {
+      "name": "хамон",
+      "qty": "100 г",
+      "id": 208
+    }
+  ]
+}

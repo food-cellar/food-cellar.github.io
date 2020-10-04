@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Джанкова чорба с коприва по плевенски",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/2584-djankova-chorba-po-plevenski-1-[349].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/2584-djankova-chorba-po-plevenski-1-[349].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/2584-djankova-chorba-po-plevenski-1-[349].jpg"
+    ],
+    "datePublished": "2013-06-13",
+    "cookTime": "PT0H25M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "310 calories",
+      "carbohydrateContent": "39 g",
+      "fatContent": "9 g",
+      "proteinContent": "17 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "2.84085 g",
+      "cholesterolContent": "205 mg"
+    },
+    "recipeIngredient": [
+      "1 връзка пресен лук",
+      "1/2 кг коприва",
+      "20  зелени джанки",
+      "1 връзка магданоз",
+      "1 връзка джоджен",
+      "1 ч.ч. мляко",
+      "2  яйца",
+      "черен пипер",
+      "сол",
+      "6 ч.ч. вода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Лукът (1 връзка) се нарязва на ситно и се задушава с няколко супени лъжици вода, за да поомекне. Доливат се с гореща вода (1 връзка). Прибавят се изчистените, измити и ситно нарязани коприва (1/2 кг), магданоз (1 връзка), джоджен (1 връзка) и джанките (20 бр). Чорбата се посолява на вкус. След като се отстрани от огъня, се застройва с разбитите с млякото (1 ч.ч.) яйца (2 бр). Поръсва се със смлян черен пипер."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пресен лук",
+      "qty": "1 връзка",
+      "id": 24
+    },
+    {
+      "name": "коприва",
+      "qty": "1/2 кг",
+      "id": 130
+    },
+    {
+      "name": "зелени джанки",
+      "qty": "20",
+      "id": 243
+    },
+    {
+      "name": "магданоз",
+      "qty": "1 връзка",
+      "id": 12
+    },
+    {
+      "name": "джоджен",
+      "qty": "1 връзка",
+      "id": 60
+    },
+    {
+      "name": "мляко",
+      "qty": "1 ч.ч.",
+      "id": 14
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "вода",
+      "qty": "6 ч.ч.",
+      "id": 11
+    }
+  ]
+}

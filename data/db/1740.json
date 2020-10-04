@@ -1,0 +1,104 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Яхния от нахут",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/iahniia-ot-nahut-2-[1740].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/iahniia-ot-nahut-2-[1740].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/iahniia-ot-nahut-2-[1740].jpg"
+    ],
+    "datePublished": "2012-07-02",
+    "cookTime": "PT1H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "301 calories",
+      "carbohydrateContent": "47 g",
+      "fatContent": "7 g",
+      "proteinContent": "13 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "5.0195675 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "250 г нахут",
+      "1 л. вода",
+      "1 глава лук",
+      "1  морков",
+      "2 скилидки чесън",
+      "2 стръка целина",
+      "2 с.л. зехтин",
+      "2 с.л. брашно",
+      "червен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Нахутът (250 г) се сварява. Малко преди да е напълно готов се добавят нарязани на кубчета лук (1 глава), моркови (1 бр), чесън (2 скилидки) и целина (2 стръка). Щом е готов, по желание, може да се отдели част водата, за да стане яхнията по-гъста. Добавя се червеният пипер и се овкусява със сол."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "В тиган се запържа брашното (2 с.л.) до златисто. Добавя се част от течността на тънка струя, при постоянно бъркане. Накрая получената каша се сипва при нахута, за да се сгъсти и се разбърква. След няколко минути се сваля от огъня."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Ако се използва тенджера под налягане, са необходими около 40 минути. След това тенджерата се отваря и се продължава с готвенето според горните инструкции."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "нахут",
+      "qty": "250 г",
+      "id": 145
+    },
+    {
+      "name": "вода",
+      "qty": "1 л.",
+      "id": 11
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "целина",
+      "qty": "2 стръка",
+      "id": 30
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "брашно",
+      "qty": "2 с.л.",
+      "id": 7
+    },
+    {
+      "name": "червен пипер",
+      "qty": "Parsing error",
+      "id": 20
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

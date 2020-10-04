@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата с чери домати, чушки, сурови гъби, сьомга и зехтин ",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-s-cheri-domati-sioomga-i-zehtin-1-[2122].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-s-cheri-domati-sioomga-i-zehtin-1-[2122].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-s-cheri-domati-sioomga-i-zehtin-1-[2122].jpg"
+    ],
+    "datePublished": "2012-10-24",
+    "cookTime": "PT0H5M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "204 calories",
+      "carbohydrateContent": "12 g",
+      "fatContent": "15 g",
+      "proteinContent": "7 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "11.66823 g",
+      "cholesterolContent": "6 mg"
+    },
+    "recipeIngredient": [
+      "200 г чери домати",
+      "4  гъби",
+      "1  жълта чушка",
+      "50 г пушена сьомга",
+      "1/2  краставица",
+      "4 с.л. зехтин",
+      "1 стрък копър",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Чери доматите (200 г) се измиват и разрязват на четвъртинки. Смесват се в дълбока купа с нарязаната на кубчета чушка (1 бр), нарязаните на полумесеци сурови печурки (4 бр) и нарязаната на полумесеци необелена краставица (1/2 бр). Салатата се посолява, разбърква и разпределя в порционни чинии. Върху всяка порция се полага парче пушена сьомга (50 г), декорира се с връхче свеж копър и салатата се овкусява със струйка зехтин."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "чери домати",
+      "qty": "200 г",
+      "id": 15
+    },
+    {
+      "name": "гъби",
+      "qty": "4",
+      "id": 37
+    },
+    {
+      "name": "жълта чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "пушена сьомга",
+      "qty": "50 г",
+      "id": 215
+    },
+    {
+      "name": "краставица",
+      "qty": "1/2",
+      "id": 44
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "копър",
+      "qty": "1 стрък",
+      "id": 28
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

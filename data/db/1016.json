@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Картофено пюре на фурна с риба тон",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kartofeno-pure-na-furna-s-riba-ton-1-[1016].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kartofeno-pure-na-furna-s-riba-ton-1-[1016].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kartofeno-pure-na-furna-s-riba-ton-1-[1016].jpg"
+    ],
+    "datePublished": "2017-03-20",
+    "cookTime": "PT0H40M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "255 calories",
+      "carbohydrateContent": "31 g",
+      "fatContent": "7 g",
+      "proteinContent": "16 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "3.1129916666667 g",
+      "cholesterolContent": "18 mg"
+    },
+    "recipeIngredient": [
+      "1 кг картофи",
+      "1 консерва риба тон",
+      "300 г гъби",
+      "сол",
+      "черен пипер",
+      "20 г масло",
+      "50 г пармезан",
+      "1 стрък пресен лук"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Картофите (1 кг) се сваряват, обелват и пасират. Към пюрето, още докато е горещо, се добавя малко масло (20 г) и се разбърква, за да се разтопи. Гъбите (300 г) се нарязват на полумесеци и се задушават в мазнината от рибената консерва. Подправят се със сол и черен пипер. Смесват се с рибата. Половината от пюрето се изсипва в намазнена тавичка и се заглажда. Въху него се разпределя плънката от гъби и риба и върху нея отново се изсипва пюре. Заглажда се внимателно и се поръсва с настърган пармезан (50 г). Пече се в умерена фурна до получаването на златиста коричка. Преди поднасяне се поръсва със ситно нарязан пресен лук (1 стрък)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "картофи",
+      "qty": "1 кг",
+      "id": 16
+    },
+    {
+      "name": "риба тон",
+      "qty": "1 консерва",
+      "id": 127
+    },
+    {
+      "name": "гъби",
+      "qty": "300 г",
+      "id": 37
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "масло",
+      "qty": "20 г",
+      "id": 8
+    },
+    {
+      "name": "пармезан",
+      "qty": "50 г",
+      "id": 59
+    },
+    {
+      "name": "пресен лук",
+      "qty": "1 стрък",
+      "id": 24
+    }
+  ]
+}

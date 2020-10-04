@@ -1,0 +1,118 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пикантно свинско месо с ориз, зелечуци и куркума",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pikantno-svinsko-meso-s-oriz-kurkuma-i-morkovi-1-[2811].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pikantno-svinsko-meso-s-oriz-kurkuma-i-morkovi-1-[2811].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pikantno-svinsko-meso-s-oriz-kurkuma-i-morkovi-1-[2811].jpg"
+    ],
+    "datePublished": "2014-02-23",
+    "cookTime": "PT1H0M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "638 calories",
+      "carbohydrateContent": "44 g",
+      "fatContent": "37 g",
+      "proteinContent": "28 g",
+      "saturatedFatContent": "11 g",
+      "unsaturatedFatContent": "21.40096 g",
+      "cholesterolContent": "96 mg"
+    },
+    "recipeIngredient": [
+      "1 1/2 ч.ч. ориз",
+      "800 г свинско месо",
+      "2  моркова",
+      "1 глава лук",
+      "4 скилидки чесън",
+      "4 с.л. олио",
+      "4 1/2 ч.ч. бульон",
+      "1 с.л. куркума",
+      "1 ч.л. черен пипер",
+      "1  сушена люта чушка",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Свинското месо (800 г) се нарязва на хапки и се сварява до пълната му готовност."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "В дълбок тиган се задушават в олиото (4 с.л.) ситно нарязаните лук (1 глава) и чесън (4 скилидки). Щом омекнат, се добавят нарязаните на пръчици моркови (2 бр), като тиганът се похлупва с капак и морковите се задушават. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Щом поомекнат морковите, се добавя оризът (1 1/2 ч.ч.) и се пържи, докато стане прозрачен. След това се добавя на порции от бульона (4 1/2 ч.ч.), в който се е варило свинското месо. Бульонът се добавя на порции, докато оризът го поеме напълно. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "През това време постепенно се добавят куркумата (1 с.л.), черният пипер (1 ч.л.) и солта. Накрая се прибавя и накълцаната сушена люта чушка (1 бр), а също и свинското месо. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Ястието се сервира горещо и по желание се поръсва със ситно нарязан пресен магданоз."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "ориз",
+      "qty": "1 1/2 ч.ч.",
+      "id": 22
+    },
+    {
+      "name": "свинско месо",
+      "qty": "800 г",
+      "id": 67
+    },
+    {
+      "name": "моркова",
+      "qty": "2",
+      "id": 13
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "олио",
+      "qty": "4 с.л.",
+      "id": 4
+    },
+    {
+      "name": "бульон",
+      "qty": "4 1/2 ч.ч.",
+      "id": 26
+    },
+    {
+      "name": "куркума",
+      "qty": "1 с.л.",
+      "id": 118
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "сушена люта чушка",
+      "qty": "1",
+      "id": 105
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

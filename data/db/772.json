@@ -1,0 +1,108 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Задушени картофи с карфиол, грах от консерва, праз лук и куркума (постна яхния)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zadusheni-kartofi-s-karfiol-grah-i-praz-4-[772].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zadusheni-kartofi-s-karfiol-grah-i-praz-4-[772].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zadusheni-kartofi-s-karfiol-grah-i-praz-4-[772].jpg"
+    ],
+    "datePublished": "2010-11-13",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "170 calories",
+      "carbohydrateContent": "28 g",
+      "fatContent": "4 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "2.5123525 g",
+      "cholesterolContent": "3 mg"
+    },
+    "recipeIngredient": [
+      "300 г картофи",
+      "200 г карфиол",
+      "100 г грах от консерва",
+      "2 стръка праз",
+      "2 с.л. зехтин",
+      "сол",
+      "черен пипер",
+      "куркума",
+      "мащерка",
+      "червен пипер",
+      "1 с.л. брашно",
+      "1 к.ч. прясно мляко"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Празът (2 стръка) се нарязва на колелца и се задушава в горещия зехтин (2 с.л.) с подправките. Прибавят се предварително нарязаните на кубчета и сварени картофи (300 г), бланшираните розички карфиол (200 г) и грахът (100 г). Разбърква се и се готви 3 минути. Налива се прясното мляко (1 к.ч.) и ястието ври още 3 минути. Прибавя се разбитото в студена вода брашно (1 с.л.). Готви се при непрекъснато разбъркване, докато се изгуби брашненият вкус."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "картофи",
+      "qty": "300 г",
+      "id": 16
+    },
+    {
+      "name": "карфиол",
+      "qty": "200 г",
+      "id": 91
+    },
+    {
+      "name": "грах от консерва",
+      "qty": "100 г",
+      "id": 68
+    },
+    {
+      "name": "праз",
+      "qty": "2 стръка",
+      "id": 51
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "куркума",
+      "qty": "Parsing error",
+      "id": 118
+    },
+    {
+      "name": "мащерка",
+      "qty": "Parsing error",
+      "id": 75
+    },
+    {
+      "name": "червен пипер",
+      "qty": "Parsing error",
+      "id": 20
+    },
+    {
+      "name": "брашно",
+      "qty": "1 с.л.",
+      "id": 7
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "1 к.ч.",
+      "id": 14
+    }
+  ]
+}

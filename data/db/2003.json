@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Палачинки от прясно мляко с ягоди и маскарпоне",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/palachinki-s-iagodi-i-maskarpone-1-[2003].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/palachinki-s-iagodi-i-maskarpone-1-[2003].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/palachinki-s-iagodi-i-maskarpone-1-[2003].jpg"
+    ],
+    "datePublished": "2012-06-26",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "656 calories",
+      "carbohydrateContent": "61 g",
+      "fatContent": "38 g",
+      "proteinContent": "15 g",
+      "saturatedFatContent": "23 g",
+      "unsaturatedFatContent": "12.875421097561 g",
+      "cholesterolContent": "184 mg"
+    },
+    "recipeIngredient": [
+      "1/2 л. прясно мляко",
+      "250 г брашно",
+      "1  яйце",
+      "1 щип. сол",
+      "1 с.л. масло",
+      "200 г ягоди",
+      "250 г маскарпоне",
+      "6 с.л. кондензирано мляко"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Прясното мляко (1/2 л.), брашното (250 г), солта (1 щип.), яйцето (1 бр) и разтопеното масло (1 с.л.) се изсипват в дълбока купа и се разбиват до получаването на гладка смес за палачинки. От нея се изпържват палачинките до изчерпване на сместа.Маскарпонето (250 г) се смесва с подсладеното кондензирано мляко (6 с.л.) и продуктите се разбиват до получаването на гладък крем. С него се намазват палачинките и се завиват на рула. Върху тях се подрежда измитите и разполовени пресни ягоди (200 г)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "прясно мляко",
+      "qty": "1/2 л.",
+      "id": 14
+    },
+    {
+      "name": "брашно",
+      "qty": "250 г",
+      "id": 7
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    },
+    {
+      "name": "сол",
+      "qty": "1 щип.",
+      "id": 1
+    },
+    {
+      "name": "масло",
+      "qty": "1 с.л.",
+      "id": 8
+    },
+    {
+      "name": "ягоди",
+      "qty": "200 г",
+      "id": 109
+    },
+    {
+      "name": "маскарпоне",
+      "qty": "250 г",
+      "id": 115
+    },
+    {
+      "name": "кондензирано мляко",
+      "qty": "6 с.л.",
+      "id": 174
+    }
+  ]
+}

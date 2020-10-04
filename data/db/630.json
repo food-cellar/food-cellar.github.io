@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Кашкавалена супа",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kashkavalena-supa-2-[630].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kashkavalena-supa-2-[630].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kashkavalena-supa-2-[630].jpg"
+    ],
+    "datePublished": "2011-05-16",
+    "cookTime": "PT0H45M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "345 calories",
+      "carbohydrateContent": "13 g",
+      "fatContent": "25 g",
+      "proteinContent": "16 g",
+      "saturatedFatContent": "15 g",
+      "unsaturatedFatContent": "7.831152173913 g",
+      "cholesterolContent": "81 mg"
+    },
+    "recipeIngredient": [
+      "2 ч.ч. прясно мляко",
+      "1 глава лук",
+      "1 г корени от магданоз",
+      "1  корени от целина",
+      "2  морков",
+      "1 връзка магданоз",
+      "200 г кашкавал",
+      "сол",
+      "черен пипер",
+      "30 г масло"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Лукът (1 глава) и корените се сваряват в подсолена вода, отцеждат се и се пасират заедно с млякото (2 ч.ч.), половината от пресния магданоз и маслото (30 г). Полученото пюре се връща в бульона и се кипва отново. Щом заври, се прибавя настърганият наситно кашкавал (200 г) и се вари, докато той се разтопи. Супата се поднася топла, обилно поръсена с едро нарязан пресен магданоз (1 връзка) и овкусена с черен пипер."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "прясно мляко",
+      "qty": "2 ч.ч.",
+      "id": 14
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "корени от магданоз",
+      "qty": "1 г",
+      "id": 12
+    },
+    {
+      "name": "корени от целина",
+      "qty": "1",
+      "id": 30
+    },
+    {
+      "name": "морков",
+      "qty": "2",
+      "id": 13
+    },
+    {
+      "name": "магданоз",
+      "qty": "1 връзка",
+      "id": 12
+    },
+    {
+      "name": "кашкавал",
+      "qty": "200 г",
+      "id": 47
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "масло",
+      "qty": "30 г",
+      "id": 8
+    }
+  ]
+}

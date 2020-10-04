@@ -1,0 +1,104 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пържени патладжани на фурна с панирани пилешки филенца, чери домати и моцарела",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/purjeni-patladjani-na-furna-s-panirani-pileshki-filenca-cheri-domati-i-mocarela-1-[2780].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/purjeni-patladjani-na-furna-s-panirani-pileshki-filenca-cheri-domati-i-mocarela-1-[2780].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/purjeni-patladjani-na-furna-s-panirani-pileshki-filenca-cheri-domati-i-mocarela-1-[2780].jpg"
+    ],
+    "datePublished": "2014-02-17",
+    "cookTime": "PT1H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "789 calories",
+      "carbohydrateContent": "60 g",
+      "fatContent": "35 g",
+      "proteinContent": "58 g",
+      "saturatedFatContent": "11 g",
+      "unsaturatedFatContent": "21.6378625 g",
+      "cholesterolContent": "183 mg"
+    },
+    "recipeIngredient": [
+      "600 г пилешки гърди",
+      "3  патладжана",
+      "300 г чери домати",
+      "250 г моцарела",
+      "1 к.ч. олио",
+      "6 с.л. галета",
+      "6 с.л. брашно",
+      "1  яйце",
+      "черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Патладжаните (3 бр) се режат на колелца, посоляват се и се оставят да пуснат горчивия си сок. След това се изплакват и подсушават. Поставят се в тиган и се пържат в сгорещена мазнина под капак, за да омекнат."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Пилешките гърди (600 г) се начукват, за да станат по-крехки и по-тънки, след което се натриват със сол и черен пипер. Овалват се в разбито яйце, а след това се овалват в смес от галета и брашно. Пържат се от двете страни до готовност."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "В тавичка се подреждат ред пържени патладжани, ред пилешко месо, а между тях чери домати (300 г). Ястието се поръсва с настъргана моцарела (250 г). Поставя се във фурна при 180 градуса и се пече до омекване на доматите и разтопяване на сиренето. Сервира се горещо."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешки гърди",
+      "qty": "600 г",
+      "id": 79
+    },
+    {
+      "name": "патладжана",
+      "qty": "3",
+      "id": 71
+    },
+    {
+      "name": "чери домати",
+      "qty": "300 г",
+      "id": 15
+    },
+    {
+      "name": "моцарела",
+      "qty": "250 г",
+      "id": 93
+    },
+    {
+      "name": "олио",
+      "qty": "1 к.ч.",
+      "id": 4
+    },
+    {
+      "name": "галета",
+      "qty": "6 с.л.",
+      "id": 58
+    },
+    {
+      "name": "брашно",
+      "qty": "6 с.л.",
+      "id": 7
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

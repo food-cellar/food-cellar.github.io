@@ -1,0 +1,118 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Вкусни пържени панирани хапки от филе от риба пастърва в галета и яйца с майонезен сос с каперси на тиган",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/1-fish fingers-[3114].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/1-fish fingers-[3114].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/1-fish fingers-[3114].jpg"
+    ],
+    "datePublished": "2016-12-02",
+    "cookTime": "PT0H40M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "1225 calories",
+      "carbohydrateContent": "49 g",
+      "fatContent": "89 g",
+      "proteinContent": "52 g",
+      "saturatedFatContent": "11 g",
+      "unsaturatedFatContent": "73.067875 g",
+      "cholesterolContent": "210 mg"
+    },
+    "recipeIngredient": [
+      "800 г филе от пъстърва",
+      "100 г брашно",
+      "2  яйца",
+      "150 г галета",
+      "250 мл. олио",
+      "сол",
+      "черен пипер",
+      "200 г майонеза",
+      "2 с.л. каперси",
+      "магданоз",
+      "1 с.л. лимонов сок"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Филетата от пъстърва (800 г) се разполовяват и нарязват на дълги хапки с размерите на пръсти."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "В купа се смесват брашното (100 г), сол и пресен черен пипер, а в дълбока купа се разбиват яйцата"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Олиото се загрява дотолкова, че хлебна троха да стане златиста за около 40 секунди."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Хапките се овалват в овкусено брашно, след това в яйцата и накрая в галетата, така че да полепне равномерно. Запържват се в олиото на порции, така че температурата да не спадне рязко."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Сервират се със сос от майонеза (200 г) с каперси (2 с.л.), магданоз и лимонов сок."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "филе от пъстърва",
+      "qty": "800 г",
+      "id": 263
+    },
+    {
+      "name": "брашно",
+      "qty": "100 г",
+      "id": 7
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "галета",
+      "qty": "150 г",
+      "id": 58
+    },
+    {
+      "name": "олио",
+      "qty": "250 мл.",
+      "id": 4
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "майонеза",
+      "qty": "200 г",
+      "id": 80
+    },
+    {
+      "name": "каперси",
+      "qty": "2 с.л.",
+      "id": 162
+    },
+    {
+      "name": "магданоз",
+      "qty": "Parsing error",
+      "id": 12
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    }
+  ]
+}

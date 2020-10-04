@@ -1,0 +1,100 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Зелен боб яхния",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zelen-bob-1-[2043].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zelen-bob-1-[2043].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zelen-bob-1-[2043].jpg"
+    ],
+    "datePublished": "2017-03-20",
+    "cookTime": "PT0H45M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "293 calories",
+      "carbohydrateContent": "53 g",
+      "fatContent": "8 g",
+      "proteinContent": "12 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "6.3224125 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "500  зелен фасул",
+      "1 глава лук",
+      "1  морков",
+      "4 скилидки чесън",
+      "2  домата",
+      "1 с.л. червен пипер",
+      "1/2 ч.л. черен пипер",
+      "1 ч.л. чубрица",
+      "сол",
+      "4 с.л. олио"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Зеленият фасул (500 бр) се измива и нарязва. В малко количество олио (4 с.л.) се задушават ситно нарязаните лук (1 глава), моркови (1 бр) и чесън (4 скилидки). Щом омекнат, се добавят зеленият фасул и червеният пипер (1 с.л.). Ястието се залива с малко вода и се оставя да се задуши на слаб огън. Овкусява се със сол и черен пипер (1/2 ч.л.). Щом сосът намалее, се добавят доматите (2 бр), нарязани на дребни кубчета или рендосани. Ястието се оставя да покъкри десетина минути и след това се овкусява с чубрица (1 ч.л.) и по желание се поръсва със ситно нарязан магданоз.  "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Зеленият боб е чудесен, сервиран с лъжица пълномаслено кисело мляко."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "зелен фасул",
+      "qty": "500",
+      "id": 99
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "домата",
+      "qty": "2",
+      "id": 15
+    },
+    {
+      "name": "червен пипер",
+      "qty": "1 с.л.",
+      "id": 20
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1/2 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "чубрица",
+      "qty": "1 ч.л.",
+      "id": 36
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "олио",
+      "qty": "4 с.л.",
+      "id": 4
+    }
+  ]
+}

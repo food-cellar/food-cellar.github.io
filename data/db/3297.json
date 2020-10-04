@@ -1,0 +1,104 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Ригатони с чесън, червен лук, жълтък, сметана и кренвирши ",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/rigatoni-s-chesun-cherven-luk-jultuk-smetana-i-krenvirshi-1-[3297].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/rigatoni-s-chesun-cherven-luk-jultuk-smetana-i-krenvirshi-1-[3297].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/rigatoni-s-chesun-cherven-luk-jultuk-smetana-i-krenvirshi-1-[3297].jpg"
+    ],
+    "datePublished": "2018-05-17",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "677 calories",
+      "carbohydrateContent": "48 g",
+      "fatContent": "45 g",
+      "proteinContent": "18 g",
+      "saturatedFatContent": "22 g",
+      "unsaturatedFatContent": "20.505075 g",
+      "cholesterolContent": "218 mg"
+    },
+    "recipeIngredient": [
+      "200 г паста ригатони",
+      "4  кренвирша",
+      "2 глави червен лук",
+      "4 скилидки чесън",
+      "30 г масло",
+      "200 мл. течна сметана",
+      "2  жълтъка",
+      "200 г чери домати",
+      "черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пастата (200 г) се сварява в подсолена вода според указанията на опаковката. Докато тя се вари, в дълбока тенджера се разтопява маслото (30 г) и в него се пускат накълцаният чесън (4 скилидки) и нарязаният на полумесеци червен лук (2 глави). Щом омекнат, към тях се прибавят нарязаните на кубчета кренвирши (4 бр). След около пет минути се добавят отцедената сварена паста ригатони, течната готварска сметана (200 мл.) и разбитите с малко вода сурови яйчени жълтъци (2 бр). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Ястието се разбърква старателно, докато жълтъците стегнат. Овкусява се със сол и черен пипер на вкус и се сервира с нарязани на половинки или четвъртинки чери домати (200 г). По желание се декорира с пресен босилек.Пастата е вкусна както топла, така и студена, и е чудесно предложение за домашно приготвен обяд в офиса.   "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Най-апетитен резултат ще постигнете с кренвирши <a href=http://www.azyam.bg/>Аз ям!</a>. С гаранция от <a href=http://www.gradus.bg/>Градус</a>."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "паста ригатони",
+      "qty": "200 г",
+      "id": 55
+    },
+    {
+      "name": "кренвирша",
+      "qty": "4",
+      "id": 161
+    },
+    {
+      "name": "червен лук",
+      "qty": "2 глави",
+      "id": 3
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "масло",
+      "qty": "30 г",
+      "id": 8
+    },
+    {
+      "name": "течна сметана",
+      "qty": "200 мл.",
+      "id": 19
+    },
+    {
+      "name": "жълтъка",
+      "qty": "2",
+      "id": 33
+    },
+    {
+      "name": "чери домати",
+      "qty": "200 г",
+      "id": 15
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

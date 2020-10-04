@@ -1,0 +1,76 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Картофено пюре с ябълки, течна сметана и масло",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kartofeno-pure-s-iabulki-techna-smetana-i-maslo-1-[3352].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kartofeno-pure-s-iabulki-techna-smetana-i-maslo-1-[3352].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kartofeno-pure-s-iabulki-techna-smetana-i-maslo-1-[3352].jpg"
+    ],
+    "datePublished": "2019-02-26",
+    "cookTime": "PT0H30M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Гарнитури",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "172 calories",
+      "carbohydrateContent": "24 g",
+      "fatContent": "8 g",
+      "proteinContent": "2 g",
+      "saturatedFatContent": "5 g",
+      "unsaturatedFatContent": "2.3738666666667 g",
+      "cholesterolContent": "24 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг картофи",
+      "2  ябълки",
+      "50 мл. течна сметана",
+      "40 г краве масло",
+      "сол",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Ябълките (2 бр) и картофите (1/2 кг) се обелват, измиват се и се нарязват на кубчета. Варят се докато омекнат, след което се пасират още горещи. Към тях се добавят маслото и сметаната, посоляват се и всичко се разбърква. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Гарнитурата е подходяща за бяло месо и риба."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "картофи",
+      "qty": "1/2 кг",
+      "id": 16
+    },
+    {
+      "name": "ябълки",
+      "qty": "2",
+      "id": 85
+    },
+    {
+      "name": "течна сметана",
+      "qty": "50 мл.",
+      "id": 19
+    },
+    {
+      "name": "краве масло",
+      "qty": "40 г",
+      "id": 8
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

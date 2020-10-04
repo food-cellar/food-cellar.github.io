@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печени пилешки бонфиленца със свежа салата",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pecheni-pileshki-bonfilenca-sus-sveja-salata-2-[2039].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pecheni-pileshki-bonfilenca-sus-sveja-salata-2-[2039].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pecheni-pileshki-bonfilenca-sus-sveja-salata-2-[2039].jpg"
+    ],
+    "datePublished": "2012-07-26",
+    "cookTime": "PT0H20M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "427 calories",
+      "carbohydrateContent": "6 g",
+      "fatContent": "11 g",
+      "proteinContent": "70 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "7.796305 g",
+      "cholesterolContent": "174 mg"
+    },
+    "recipeIngredient": [
+      "600 г пилешки бон филенца",
+      "1  домат",
+      "1/2  краставица",
+      "2 резена лимон",
+      "2 с.л. зехтин",
+      "1 щип. черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилешките бон филенца (600 г) се посоляват и поръсват с черен пипер. Изпичат се в тиган в малко количество зехтин (2 с.л.), докато станат златисти и от двете страни. Сервират се топли, поднесени с нарязани на кубчета домати и краставица, а по желание се поливат с прясно изцеден лимонов сок."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешки бон филенца",
+      "qty": "600 г",
+      "id": 79
+    },
+    {
+      "name": "домат",
+      "qty": "1",
+      "id": 15
+    },
+    {
+      "name": "краставица",
+      "qty": "1/2",
+      "id": 44
+    },
+    {
+      "name": "лимон",
+      "qty": "2 резена",
+      "id": 43
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 щип.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

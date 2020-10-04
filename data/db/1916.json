@@ -1,0 +1,60 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Домашни шоколадови бонбони",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/domashni-shokoladovi-bonboni-2-[1916].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/domashni-shokoladovi-bonboni-2-[1916].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/domashni-shokoladovi-bonboni-2-[1916].jpg"
+    ],
+    "datePublished": "2012-01-30",
+    "cookTime": "PT0H20M",
+    "recipeYield": "15 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "51 calories",
+      "carbohydrateContent": "5 g",
+      "fatContent": "3 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "1.1082933333333 g",
+      "cholesterolContent": "3 mg"
+    },
+    "recipeIngredient": [
+      "90 г натурален шоколад",
+      "40 г млечен шоколад",
+      "35 мл. течна сметана",
+      "1/2 ч.л. есенция ром"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Течната сладкарска сметана (35 мл.) се изсипва в малка тенджерка и се загрява на котлона, заедно с есенцията ром (1/2 ч.л.). Докато кипне, двата вида твърд шоколад се начупват на малки парченца. След като сметаната кипне, се премества от котлона и в нея се изсипва твърдият шоколад. Бърка се непрекъснато, докато стане гъст и гладък крем. Докато е още топъл, той се разпределя в малки алуминиеви формички за бонбони с помощта на малка чаена лъжичка. Заглажда се отгоре и бонбоните се подреждат в чиния. Поставят се в хладилник да стегнат за няколко часа."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "натурален шоколад",
+      "qty": "90 г",
+      "id": 48
+    },
+    {
+      "name": "млечен шоколад",
+      "qty": "40 г",
+      "id": 48
+    },
+    {
+      "name": "течна сметана",
+      "qty": "35 мл.",
+      "id": 19
+    },
+    {
+      "name": "есенция ром",
+      "qty": "1/2 ч.л.",
+      "id": 74
+    }
+  ]
+}

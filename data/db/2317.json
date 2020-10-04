@@ -1,0 +1,60 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Сандвичи с праз, яйца и сирене",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/sandvichi-s-praz-iaica-i-sirene-3-[2317].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/sandvichi-s-praz-iaica-i-sirene-3-[2317].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/sandvichi-s-praz-iaica-i-sirene-3-[2317].jpg"
+    ],
+    "datePublished": "2013-02-11",
+    "cookTime": "PT0H20M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Сандвичи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "423 calories",
+      "carbohydrateContent": "47 g",
+      "fatContent": "17 g",
+      "proteinContent": "20 g",
+      "saturatedFatContent": "9 g",
+      "unsaturatedFatContent": "6.48873 g",
+      "cholesterolContent": "232 mg"
+    },
+    "recipeIngredient": [
+      "4 филии хляб",
+      "1 стрък праз",
+      "2  яйца",
+      "100 г сирене"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Празът (1 стрък) се нарязва на колелца и се смесва с натрошеното сирене (100 г) и разбитите яйца (2 бр). Сместа се разбърква много добре и се разпределя старателно върху филиите хляб (4 филии). Сандвичите се пекат на горен реотан до готовност. Сервират се топли."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "хляб",
+      "qty": "4 филии",
+      "id": 66
+    },
+    {
+      "name": "праз",
+      "qty": "1 стрък",
+      "id": 51
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "сирене",
+      "qty": "100 г",
+      "id": 32
+    }
+  ]
+}

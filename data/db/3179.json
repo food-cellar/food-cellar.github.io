@@ -1,0 +1,92 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Кюфтенца от замразен спанак с лук и пармезан печени на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kuftenca-ot-spanak-s-luk-i-parmezan-pecheni-na-furna-1-[3179].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kuftenca-ot-spanak-s-luk-i-parmezan-pecheni-na-furna-1-[3179].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kuftenca-ot-spanak-s-luk-i-parmezan-pecheni-na-furna-1-[3179].jpg"
+    ],
+    "datePublished": "2017-03-15",
+    "cookTime": "PT1H0M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "308 calories",
+      "carbohydrateContent": "24 g",
+      "fatContent": "19 g",
+      "proteinContent": "10 g",
+      "saturatedFatContent": "11 g",
+      "unsaturatedFatContent": "5.9119025 g",
+      "cholesterolContent": "50 mg"
+    },
+    "recipeIngredient": [
+      "400 г замразен спанак",
+      "150 г масло",
+      "1 глава лук",
+      "100 г пармезан",
+      "1/2 ч.л. чесън на прах",
+      "1 ч.ч. галета",
+      "сол",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Спанакът (400 г) се размразява, маслото се разтопява на водна баня или в микровълнова фурна, а лукът (1 глава) се нарязва на ситно."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "В голяма купа се смесват всички съставки и се разбъркват до получаване на еднородна смес. Оформят се кюфтенца с диаметър около 5-6 см и се  оставят в хладилник за 2 часа за да стегнат."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "В тава, покрита с хартия за печене, се подреждат кюфтенцата и се пекат за 20 минути на 180 градуса."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "замразен спанак",
+      "qty": "400 г",
+      "id": 40
+    },
+    {
+      "name": "масло",
+      "qty": "150 г",
+      "id": 8
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "пармезан",
+      "qty": "100 г",
+      "id": 59
+    },
+    {
+      "name": "чесън на прах",
+      "qty": "1/2 ч.л.",
+      "id": 6
+    },
+    {
+      "name": "галета",
+      "qty": "1 ч.ч.",
+      "id": 58
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

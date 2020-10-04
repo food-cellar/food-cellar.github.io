@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печени пилешки крилца на скара в марината от шипков мармалад и бира на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pile-na-skara-s-marmalad-i-bira-1-[2529].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pile-na-skara-s-marmalad-i-bira-1-[2529].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pile-na-skara-s-marmalad-i-bira-1-[2529].jpg"
+    ],
+    "datePublished": "2013-06-02",
+    "cookTime": "PT0H45M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "714 calories",
+      "carbohydrateContent": "22 g",
+      "fatContent": "40 g",
+      "proteinContent": "47 g",
+      "saturatedFatContent": "10 g",
+      "unsaturatedFatContent": "23.42584 g",
+      "cholesterolContent": "193 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг пилешки крилца",
+      "1/2 л. тъмна бира",
+      "4 с.л. мармалад от шипки",
+      "4 скилидки чесън",
+      "1 с.л. червен пипер",
+      "1 ч.л. черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилешките крилца (1/2 кг) се сваряват до готовност на месото. След това се отцеждат и се потапят в марината, получена от смесените добре бира (1/2 л.), шипков мармалад (4 с.л.), пресован чесън (4 скилидки), червен пипер (1 с.л.), черен пипер (1 ч.л.) и сол. Оставят се в хладилник да киснат в маринатата за половин час, след което се пекат за кратко от двете страни на силно загрята скара. Могат да се изпекат и на фурна. Сервират се топли и декорирани със стръкчета пресен розмарин за аромат."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешки крилца",
+      "qty": "1/2 кг",
+      "id": 197
+    },
+    {
+      "name": "тъмна бира",
+      "qty": "1/2 л.",
+      "id": 137
+    },
+    {
+      "name": "мармалад от шипки",
+      "qty": "4 с.л.",
+      "id": 89
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "червен пипер",
+      "qty": "1 с.л.",
+      "id": 20
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Вегетарианска лазаня с готови кори, сирене, кашкавал и сушени домати (без месо)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/lazania-sus-sirene-i-domati-2-[1003].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/lazania-sus-sirene-i-domati-2-[1003].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/lazania-sus-sirene-i-domati-2-[1003].jpg"
+    ],
+    "datePublished": "2010-12-14",
+    "cookTime": "PT0H45M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "686 calories",
+      "carbohydrateContent": "73 g",
+      "fatContent": "30 g",
+      "proteinContent": "29 g",
+      "saturatedFatContent": "14 g",
+      "unsaturatedFatContent": "13.193136666667 g",
+      "cholesterolContent": "197 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг готови кори за лазаня",
+      "300 г сирене",
+      "100 г кашкавал",
+      "50 г сушени домати",
+      "50 мл. зехтин",
+      "сол",
+      "черен пипер",
+      "босилек",
+      "4  яйца",
+      "1/2 л. прясно мляко"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Всяка кора за лазаня (1/2 кг) се пуска за малко във вряща подсолена вода, изважда се и се отцежда. В намазнена правоъгълна тава се нарежда пласт от корите. Поръсват се със зехтин, натрошено сирене (300 г) и настърган кашкавал (100 г), босилек, черен пипер и парченца предварително изкиснати в зехтин и отцедени сушени домати (50 г). Реди се втори пласт кори и се повтаря същата плънка. И така - до изчерпване на количествата. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Разбива се яйцата (4 бр) и към тях се добавя млякото (1/2 л.). Лазанята се залива с получената смес, поръсва се с настърган кашкавал и се пече на фурна до пълна готовност."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "готови кори за лазаня",
+      "qty": "1/2 кг",
+      "id": 55
+    },
+    {
+      "name": "сирене",
+      "qty": "300 г",
+      "id": 32
+    },
+    {
+      "name": "кашкавал",
+      "qty": "100 г",
+      "id": 47
+    },
+    {
+      "name": "сушени домати",
+      "qty": "50 г",
+      "id": 121
+    },
+    {
+      "name": "зехтин",
+      "qty": "50 мл.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "босилек",
+      "qty": "Parsing error",
+      "id": 25
+    },
+    {
+      "name": "яйца",
+      "qty": "4",
+      "id": 5
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "1/2 л.",
+      "id": 14
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пържени телешки кюфтета с яйца на незалепващ тефлонов тиган",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/purjeni-teleshki-kufteta-s-iaica-1-[3362].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/purjeni-teleshki-kufteta-s-iaica-1-[3362].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/purjeni-teleshki-kufteta-s-iaica-1-[3362].jpg"
+    ],
+    "datePublished": "2019-02-28",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "377 calories",
+      "carbohydrateContent": "11 g",
+      "fatContent": "20 g",
+      "proteinContent": "34 g",
+      "saturatedFatContent": "5 g",
+      "unsaturatedFatContent": "11.941175 g",
+      "cholesterolContent": "263 mg"
+    },
+    "recipeIngredient": [
+      "600 г телешка кайма",
+      "3  яйца",
+      "4 с.л. брашно",
+      "1 скилидка чесън",
+      "4 с.л. олио",
+      "1 ч.л. сол",
+      "1 ч.л. черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Телешката кайма (600 г) се омесва с яйцата (3 бр) и брашното (4 с.л.). Чесънът се счуква и заедно със солта и черния пипер се прибавя към каймата. При необходимост може да се добави малко вода или прясно мляко. Всичко се разбърква, докато сместа стане еднородна."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "В тефлонов тиган се загрява олиото. От каймата се оформят кюфтенца и се запържват от всички страни, докато станат златисти."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "телешка кайма",
+      "qty": "600 г",
+      "id": 134
+    },
+    {
+      "name": "яйца",
+      "qty": "3",
+      "id": 5
+    },
+    {
+      "name": "брашно",
+      "qty": "4 с.л.",
+      "id": 7
+    },
+    {
+      "name": "чесън",
+      "qty": "1 скилидка",
+      "id": 6
+    },
+    {
+      "name": "олио",
+      "qty": "4 с.л.",
+      "id": 4
+    },
+    {
+      "name": "сол",
+      "qty": "1 ч.л.",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 ч.л.",
+      "id": 2
+    }
+  ]
+}

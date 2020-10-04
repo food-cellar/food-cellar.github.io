@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Лесна салата с нахут от консерва, домати, краставици и зелени чушки",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/lesna-salata-s-nahut-2-[2162].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/lesna-salata-s-nahut-2-[2162].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/lesna-salata-s-nahut-2-[2162].jpg"
+    ],
+    "datePublished": "2012-11-20",
+    "cookTime": "PT0H5M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "275 calories",
+      "carbohydrateContent": "37 g",
+      "fatContent": "10 g",
+      "proteinContent": "11 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "7.0750025 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "200 г нахут от консерва",
+      "2  домата",
+      "1  краставица",
+      "1  зелена чушка",
+      "1/2 връзка магданоз",
+      "4 с.л. зехтин",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Зеленчуците се измиват старателно, почистват се и се нарязват на средни по големина кубчета. Смесват се с отцедения от консервата сварен нахут, ситно нарязания магданоз, зехтина и солта. Салатата се разбърква добре и се сервира веднага. Тази салата е не само лесна, но и хранителна и полезна!"
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "нахут от консерва",
+      "qty": "200 г",
+      "id": 145
+    },
+    {
+      "name": "домата",
+      "qty": "2",
+      "id": 15
+    },
+    {
+      "name": "краставица",
+      "qty": "1",
+      "id": 44
+    },
+    {
+      "name": "зелена чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "магданоз",
+      "qty": "1/2 връзка",
+      "id": 12
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Спанак с ориз и стафиди",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/spanak-s-oriz-i-stafidi-1-[1475].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/spanak-s-oriz-i-stafidi-1-[1475].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/spanak-s-oriz-i-stafidi-1-[1475].jpg"
+    ],
+    "datePublished": "2011-05-23",
+    "cookTime": "PT0H40M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "154 calories",
+      "carbohydrateContent": "28 g",
+      "fatContent": "3 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "1.45549375 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1 кг спанак",
+      "1 ч.ч. ориз",
+      "1 к.ч. стафиди",
+      "5 стръка зелен лук",
+      "3 с.л. зехтин",
+      "5 с.л. лимонов сок",
+      "1 ч.л. куркума",
+      "черен пипер",
+      "сол",
+      "3 ч.ч. вода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Лукът (5 стръка) се нарязва на колелца и заедно с измития и нарязан на едро спанак (1 кг) се задушава за кратко в зехтин (3 с.л.). Добавя се оризът (1 ч.ч.) и всичко се запържва за няколко минути. Добавя се водата (3 ч.ч.) и всичко се разбърква. Готви се, докато оризът поеме течността. Малко преди това се добавят стафидите (1 к.ч.), лимоновият сок (5 с.л.) и подправките, и всичко се разбърква много добре. Ястието се сервира горещо, но и студено е великолепно на вкус. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "спанак",
+      "qty": "1 кг",
+      "id": 40
+    },
+    {
+      "name": "ориз",
+      "qty": "1 ч.ч.",
+      "id": 22
+    },
+    {
+      "name": "стафиди",
+      "qty": "1 к.ч.",
+      "id": 69
+    },
+    {
+      "name": "зелен лук",
+      "qty": "5 стръка",
+      "id": 24
+    },
+    {
+      "name": "зехтин",
+      "qty": "3 с.л.",
+      "id": 10
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "5 с.л.",
+      "id": 17
+    },
+    {
+      "name": "куркума",
+      "qty": "1 ч.л.",
+      "id": 118
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "вода",
+      "qty": "3 ч.ч.",
+      "id": 11
+    }
+  ]
+}

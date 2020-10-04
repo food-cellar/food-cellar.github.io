@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печено гнездо от свинска кайма с яйце и гъби",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/iastrebovo-gnezdo-1-[355].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/iastrebovo-gnezdo-1-[355].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/iastrebovo-gnezdo-1-[355].jpg"
+    ],
+    "datePublished": "2010-11-26",
+    "cookTime": "PT0H15M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "486 calories",
+      "carbohydrateContent": "9 g",
+      "fatContent": "35 g",
+      "proteinContent": "30 g",
+      "saturatedFatContent": "13 g",
+      "unsaturatedFatContent": "18.3691 g",
+      "cholesterolContent": "334 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг кайма",
+      "1 глава лук",
+      "2 с.л. галета",
+      "5  яйца",
+      "черен пипер",
+      "кимион",
+      "1/2 връзка магданоз",
+      "чесън на прах",
+      "4  печурки",
+      "4 ч.л. масло"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Каймата (1/2 кг) се омесва със ситно нарязания магданоз (1/2 връзка), 1 яйце, галетата (2 с.л.), подправките и настъргания лук (1 глава). Оставя се на студено за час. Взема се една шапка от печурка и се овалва плътно с кайма откъм външната част. Каймата трябва да прехвърли и ръбчето на гъбата. Притиска се от всички страни и така облечената шапка се слага с горната част надолу върху тава с незалепващо покритие. Нареждат се и останалите три шапки, облепени с кайма. Слага се по парченце масло във всяка гъба и ястребовите гнезда се пекат до готовност. Чуква се по 1 яйце във всяко гнездо и се допича на горен реотан, докато белтъкът побелее."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "кайма",
+      "qty": "1/2 кг",
+      "id": 54
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "галета",
+      "qty": "2 с.л.",
+      "id": 58
+    },
+    {
+      "name": "яйца",
+      "qty": "5",
+      "id": 5
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "кимион",
+      "qty": "Parsing error",
+      "id": 42
+    },
+    {
+      "name": "магданоз",
+      "qty": "1/2 връзка",
+      "id": 12
+    },
+    {
+      "name": "чесън на прах",
+      "qty": "Parsing error",
+      "id": 6
+    },
+    {
+      "name": "печурки",
+      "qty": "4",
+      "id": 62
+    },
+    {
+      "name": "масло",
+      "qty": "4 ч.л.",
+      "id": 8
+    }
+  ]
+}

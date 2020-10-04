@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пържено пълнено пилешко филе с плънка от пушено топено сирене, панирано с яйца, сусам, брашно и галета",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pileshko-pane-2-[477].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pileshko-pane-2-[477].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pileshko-pane-2-[477].jpg"
+    ],
+    "datePublished": "2010-11-04",
+    "cookTime": "PT0H40M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "747 calories",
+      "carbohydrateContent": "26 g",
+      "fatContent": "48 g",
+      "proteinContent": "46 g",
+      "saturatedFatContent": "9 g",
+      "unsaturatedFatContent": "35.42472 g",
+      "cholesterolContent": "298 mg"
+    },
+    "recipeIngredient": [
+      "1  пилешко филе",
+      "1  яйце",
+      "2 с.л. сусам",
+      "1 с.л. галета",
+      "1 с.л. брашно",
+      "30 г топено-пушено сирене",
+      "сол",
+      "черен пипер",
+      "4 с.л. олио",
+      "4 с.л. бира"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилешкото филе (1 бр) се разделя на две и леко се начуква. Посолява се и се овкусява с черен пипер. Върху едното парче се слагат парченца топено-пушено сирене (30 г), а върху тях - второто парче месо и се притиска. Полученият “стек” се топи в разбито с бира (4 с.л.) яйце (1 бр), а след това в смес от галета, брашно и сусам (2 с.л.). Отново се топи в разбитото с бира яйце и се пържи в горещо олио до пълна готовност. Поднася се веднага с печени шапки от печурки с топено-пушено сирене и пържени или задушени картофи."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешко филе",
+      "qty": "1",
+      "id": 49
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    },
+    {
+      "name": "сусам",
+      "qty": "2 с.л.",
+      "id": 113
+    },
+    {
+      "name": "галета",
+      "qty": "1 с.л.",
+      "id": 58
+    },
+    {
+      "name": "брашно",
+      "qty": "1 с.л.",
+      "id": 7
+    },
+    {
+      "name": "топено-пушено сирене",
+      "qty": "30 г",
+      "id": 112
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "олио",
+      "qty": "4 с.л.",
+      "id": 4
+    },
+    {
+      "name": "бира",
+      "qty": "4 с.л.",
+      "id": 137
+    }
+  ]
+}

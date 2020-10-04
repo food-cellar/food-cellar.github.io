@@ -1,0 +1,108 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Панирана бяла риба гренадир с домати и моцарела",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/grenadir-s-domati-i-mocarela-1-[306].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/grenadir-s-domati-i-mocarela-1-[306].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/grenadir-s-domati-i-mocarela-1-[306].jpg"
+    ],
+    "datePublished": "2010-11-23",
+    "cookTime": "PT0H15M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "547 calories",
+      "carbohydrateContent": "17 g",
+      "fatContent": "33 g",
+      "proteinContent": "43 g",
+      "saturatedFatContent": "9 g",
+      "unsaturatedFatContent": "21.232775 g",
+      "cholesterolContent": "129 mg"
+    },
+    "recipeIngredient": [
+      "300 г бяла риба (гренадир)",
+      "2 с.л. олио",
+      "2  домат",
+      "100 г моцарела",
+      "1 с.л. брашно",
+      "1 с.л. галета",
+      "1  белтък",
+      "10 г спанак",
+      "10 г босилек",
+      "2 с.л. зехтин",
+      "1/2 ч.л. сусамово олио",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Рибата (300 г), нарязана на шайби, се топи в белтък и в смес от брашно (1 с.л.), галета (1 с.л.) и сол. Пържи се в предварително сгорещеното олио до златисто. Доматът се нарязва на средно дебели шайби. Шайбите и моцарелата (100 г), нарязана на триъгълници, се нареждат в кръг със застъпване в порционна чиния. Поливат се с дресинга. По средата на чинията се слага рибата и се украсява с перца зелен лук."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "бяла риба (гренадир)",
+      "qty": "300 г",
+      "id": 102
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    },
+    {
+      "name": "домат",
+      "qty": "2",
+      "id": 15
+    },
+    {
+      "name": "моцарела",
+      "qty": "100 г",
+      "id": 93
+    },
+    {
+      "name": "брашно",
+      "qty": "1 с.л.",
+      "id": 7
+    },
+    {
+      "name": "галета",
+      "qty": "1 с.л.",
+      "id": 58
+    },
+    {
+      "name": "белтък",
+      "qty": "1",
+      "id": 157
+    },
+    {
+      "name": "спанак",
+      "qty": "10 г",
+      "id": 40
+    },
+    {
+      "name": "босилек",
+      "qty": "10 г",
+      "id": 25
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сусамово олио",
+      "qty": "1/2 ч.л.",
+      "id": 329
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

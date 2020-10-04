@@ -1,0 +1,102 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Чорба с гъби пачи крак",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/chorba-s-gubi-pachi-krak-2-[2841].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/chorba-s-gubi-pachi-krak-2-[2841].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/chorba-s-gubi-pachi-krak-2-[2841].jpg"
+    ],
+    "datePublished": "2014-03-03",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "115 calories",
+      "carbohydrateContent": "7 g",
+      "fatContent": "9 g",
+      "proteinContent": "1 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "4.5182725 g",
+      "cholesterolContent": "21 mg"
+    },
+    "recipeIngredient": [
+      "300 г гъби пачи крак",
+      "1 глава лук",
+      "3 скилидки чесън",
+      "1 к.ч. сметана",
+      "4 стръка зелен лук",
+      "6 стръка копър",
+      "6 стръка магданоз",
+      "2 с.л. олио",
+      "1 с.л. брашно",
+      "сол",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Гъбите (300 г) се почистват, нарязват на тънки парченца и задушават в нагорещеното олио (2 с.л.) под капак. Щом леко поомекнат, при тях се добавя нарязаният на ситно лук (1 глава) и задушаването продължава още 2-3 минути. Тази смес се поръсва с брашното (1 с.л.), разбърква се. Налива се вода и супата се оставя да поври до омекването на лука и гъбите. Посолява се, подправя се с черен пипер. В края на готвенето се прибавят и счуканият чесън (3 скилидки), и сметаната (1 к.ч.). Супата се разбърква, снема се от котлона и се поднася гореща, поръсена обилно със ситно нарязани лук (4 стръка), магданоз (6 стръка) и копър (6 стръка)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "гъби пачи крак",
+      "qty": "300 г",
+      "id": 27
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "чесън",
+      "qty": "3 скилидки",
+      "id": 6
+    },
+    {
+      "name": "сметана",
+      "qty": "1 к.ч.",
+      "id": 19
+    },
+    {
+      "name": "зелен лук",
+      "qty": "4 стръка",
+      "id": 24
+    },
+    {
+      "name": "копър",
+      "qty": "6 стръка",
+      "id": 28
+    },
+    {
+      "name": "магданоз",
+      "qty": "6 стръка",
+      "id": 12
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    },
+    {
+      "name": "брашно",
+      "qty": "1 с.л.",
+      "id": 7
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

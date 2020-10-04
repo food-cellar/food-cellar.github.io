@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Специална морковена салата",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/specialna-morkovena-salata-3-[1117].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/specialna-morkovena-salata-3-[1117].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/specialna-morkovena-salata-3-[1117].jpg"
+    ],
+    "datePublished": "2011-04-22",
+    "cookTime": "PT0H10M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "317 calories",
+      "carbohydrateContent": "24 g",
+      "fatContent": "23 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "19.109625 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "300 г моркови",
+      "3 с.л. майонеза",
+      "2 с.л. лимонов сок",
+      "50 г орехи",
+      "1/2  портокал",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Морковите (300 г) се настъргват на едрото ренде и към тях се прибавят обеленият портокал (1/2 бр), нарязан наситно, и счуканите орехи (50 г). Салатата се овкусява с майонезата (3 с.л.), лимоновия сок (2 с.л.) и солта. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "моркови",
+      "qty": "300 г",
+      "id": 13
+    },
+    {
+      "name": "майонеза",
+      "qty": "3 с.л.",
+      "id": 80
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "2 с.л.",
+      "id": 17
+    },
+    {
+      "name": "орехи",
+      "qty": "50 г",
+      "id": 31
+    },
+    {
+      "name": "портокал",
+      "qty": "1/2",
+      "id": 122
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

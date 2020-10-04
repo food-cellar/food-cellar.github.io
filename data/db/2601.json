@@ -1,0 +1,94 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Тайландска патешка супа",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/tailandska-pateshka-supa-2-[2601].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/tailandska-pateshka-supa-2-[2601].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/tailandska-pateshka-supa-2-[2601].jpg"
+    ],
+    "datePublished": "2013-06-21",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "447 calories",
+      "carbohydrateContent": "28 g",
+      "fatContent": "31 g",
+      "proteinContent": "13 g",
+      "saturatedFatContent": "14 g",
+      "unsaturatedFatContent": "15.5394725 g",
+      "cholesterolContent": "48 mg"
+    },
+    "recipeIngredient": [
+      "250 г патешко месо",
+      "1 л. бульон",
+      "75 г кокосова сметана",
+      "1  зелен лук",
+      "2 скилидки чесън",
+      "1 с.л. ребен сос",
+      "2 с.л. червен пипер",
+      "лют червен пипер",
+      "100 г оризови спагети"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Патешкото месо (250 г) се запържва с чесъна (2 скилидки) докато получи златиста коричка."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Бульон (1 л.) се загрява и се смесва със кокосовата сметана (75 г). Добавя се към патешкото и се оставя да къкри половин час. Добавя се ребения сос (1 с.л.), червен пипер (2 с.л.) и по желание лют пипер. Добавят се натрошените оризови спагети, нарязаният на ситно зелен лук (1 бр) и се овкусява със сол и пипер. След 3-4 минути се сваля от огъня."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "патешко месо",
+      "qty": "250 г",
+      "id": 210
+    },
+    {
+      "name": "бульон",
+      "qty": "1 л.",
+      "id": 26
+    },
+    {
+      "name": "кокосова сметана",
+      "qty": "75 г",
+      "id": 100
+    },
+    {
+      "name": "зелен лук",
+      "qty": "1",
+      "id": 24
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "ребен сос",
+      "qty": "1 с.л.",
+      "id": 256
+    },
+    {
+      "name": "червен пипер",
+      "qty": "2 с.л.",
+      "id": 20
+    },
+    {
+      "name": "лют червен пипер",
+      "qty": "Parsing error",
+      "id": 132
+    },
+    {
+      "name": "оризови спагети",
+      "qty": "100 г",
+      "id": 279
+    }
+  ]
+}

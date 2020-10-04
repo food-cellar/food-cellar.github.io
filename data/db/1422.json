@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Бърза торта с бишкоти, праскови (от компот) и крем от извара и сирене маскарпоне",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/burza-torta-s-bishkoti-praskovi-i-maskarpone-1-[1422].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/burza-torta-s-bishkoti-praskovi-i-maskarpone-1-[1422].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/burza-torta-s-bishkoti-praskovi-i-maskarpone-1-[1422].jpg"
+    ],
+    "datePublished": "2011-05-10",
+    "cookTime": "PT0H7M",
+    "recipeYield": "10 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "379 calories",
+      "carbohydrateContent": "33 g",
+      "fatContent": "24 g",
+      "proteinContent": "7 g",
+      "saturatedFatContent": "14 g",
+      "unsaturatedFatContent": "8.2107498780488 g",
+      "cholesterolContent": "158 mg"
+    },
+    "recipeIngredient": [
+      "200 г бишкоти",
+      "800 г праскови",
+      "1/2 кг маскарпоне",
+      "300 г извара",
+      "100 г пудра захар",
+      "2 с.л. лимонов сок",
+      "1 с.л. лимонова кора"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Изварата (300 г), маскарпонето (1/2 кг), половината захар, лимоновият сок (2 с.л.) и настърганата лимонова кора (1 с.л.) се изсипват в дълбока купа и се бъркат до получаването на гладък крем. Прасковите (800 г), ако са пресни, се попарват, обелват и пасират заедно с останалата захар. (Могат да се използват и праскови от компот - с тях десертът става божествен.)Половината от бишкотите се подреждат в квадратна тавичка и се заливат с половината плодов крем. Заглаждат се и се намазват с изварен крем. Отгоре се подреждат останалите бишкоти и отново се заливат с плодов и изварен крем. Тортата се заглажда отгоре и се оставя в хлaдилника за няколко часа да стегне. По желание се декорира с връхче свежа мента."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "бишкоти",
+      "qty": "200 г",
+      "id": 133
+    },
+    {
+      "name": "праскови",
+      "qty": "800 г",
+      "id": 156
+    },
+    {
+      "name": "маскарпоне",
+      "qty": "1/2 кг",
+      "id": 115
+    },
+    {
+      "name": "извара",
+      "qty": "300 г",
+      "id": 92
+    },
+    {
+      "name": "пудра захар",
+      "qty": "100 г",
+      "id": 34
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "2 с.л.",
+      "id": 17
+    },
+    {
+      "name": "лимонова кора",
+      "qty": "1 с.л.",
+      "id": 107
+    }
+  ]
+}

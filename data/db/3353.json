@@ -1,0 +1,86 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Паста фузили със спанак, течна готварска сметана и риба тон от консерва",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pasta-fuzili-sus-spanak-i-riba-ton-1-[3353].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pasta-fuzili-sus-spanak-i-riba-ton-1-[3353].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pasta-fuzili-sus-spanak-i-riba-ton-1-[3353].jpg"
+    ],
+    "datePublished": "2019-02-26",
+    "cookTime": "PT0H30M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "476 calories",
+      "carbohydrateContent": "65 g",
+      "fatContent": "13 g",
+      "proteinContent": "22 g",
+      "saturatedFatContent": "5 g",
+      "unsaturatedFatContent": "5.6365833333333 g",
+      "cholesterolContent": "44 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг паста фузили",
+      "250 г риба тон от консерва",
+      "400 г спанак",
+      "150 мл. течна сметана",
+      "2 с.л. зехтин",
+      "сол",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пастата (1/2 кг) се сварява в подсолена вода според указанията на опаковката."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Спанакът (400 г) се накисва във вода за няколко минути и се измива добре. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Зехтинът (2 с.л.) се загрява и към него се добавят спанакът и отцедената риба тон (250 г). След няколко минути се излива сметаната. Всичко се разбърква и към сместа се прибавя сварената паста. Разбърква се и се готви още 2-3 минути, докато ароматите се смесят. Сервира се веднага."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "паста фузили",
+      "qty": "1/2 кг",
+      "id": 55
+    },
+    {
+      "name": "риба тон от консерва",
+      "qty": "250 г",
+      "id": 127
+    },
+    {
+      "name": "спанак",
+      "qty": "400 г",
+      "id": 40
+    },
+    {
+      "name": "течна сметана",
+      "qty": "150 мл.",
+      "id": 19
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Спагети със заешко рагу",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/spageti-sus-zaeshko-ragu-2-[1757].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/spageti-sus-zaeshko-ragu-2-[1757].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/spageti-sus-zaeshko-ragu-2-[1757].jpg"
+    ],
+    "datePublished": "2011-10-17",
+    "cookTime": "PT1H40M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "552 calories",
+      "carbohydrateContent": "69 g",
+      "fatContent": "8 g",
+      "proteinContent": "36 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "3.9786683333333 g",
+      "cholesterolContent": "71 mg"
+    },
+    "recipeIngredient": [
+      "1  заек",
+      "2 глави лук",
+      "1  морков",
+      "2 скилидки чесън",
+      "200 г домати",
+      "1 1/2 ч.ч. червено вино",
+      "1  дафинов лист",
+      "1/2 кг спагети"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Заешкото месо (1 бр) се сварява за 1 час, след което се отцежда, охлажда, обезкостява и се нарязва на малки парченца. В тенджера се запържват ситно нарязан лук (2 глави), чесън (2 скилидки) и морков (1 бр). След 3-4 минути, щом поомекнат, се добавя виното (1 1/2 ч.ч.), заешкото месо и дафинов лист. Оставя се да къкри 3-4 минути и се добавят нарязаните на ситно домати. Овкусява се със сол и черен пипер. След още 3-4 минути се добавят и предварително сварените спегети. Бърка се добре и се готви още няколко минути, докато спагетите се затоплят и ароматите се смесят."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "заек",
+      "qty": "1",
+      "id": 223
+    },
+    {
+      "name": "лук",
+      "qty": "2 глави",
+      "id": 3
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "домати",
+      "qty": "200 г",
+      "id": 15
+    },
+    {
+      "name": "червено вино",
+      "qty": "1 1/2 ч.ч.",
+      "id": 98
+    },
+    {
+      "name": "дафинов лист",
+      "qty": "1",
+      "id": 70
+    },
+    {
+      "name": "спагети",
+      "qty": "1/2 кг",
+      "id": 72
+    }
+  ]
+}

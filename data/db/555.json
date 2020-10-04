@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Бункис кетжаб - зелен фасул със соев сос, сусамово и фъстъчено масло",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/bunkis-ketjab-zelen-fasul-sus-soev-sos-1-[555].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/bunkis-ketjab-zelen-fasul-sus-soev-sos-1-[555].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/bunkis-ketjab-zelen-fasul-sus-soev-sos-1-[555].jpg"
+    ],
+    "datePublished": "2010-11-05",
+    "cookTime": "PT0H15M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "534 calories",
+      "carbohydrateContent": "33 g",
+      "fatContent": "38 g",
+      "proteinContent": "28 g",
+      "saturatedFatContent": "5 g",
+      "unsaturatedFatContent": "30.07569 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1 с.л. фъстъчено масло",
+      "1 с.л. сусамово масло",
+      "1 скилидка чесън",
+      "1 глава лук",
+      "300 г зелен фасул",
+      "2 с.л. соев сос",
+      "2 с.л. вода",
+      "100 г бобени кълнове",
+      "1/2 ч.ч. фъстъци"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Сусамовото (1 с.л.) и фъстъченото (1 с.л.) масло се загряват в дълбок тиган с незалепващо покритие. В него се слагат чесънът (1 скилидка), ситно нарязаният лук (1 глава) и вареният зелен фасул (300 г). Пържи се 2-3 минути. Добавят се соевият сос (2 с.л.) и водата (2 с.л.) и се готви още 3-4 минути. Прибавят се бобените кълнове (100 г) и печените фъстъци (1/2 ч.ч.) в ястието и се разбърква."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "фъстъчено масло",
+      "qty": "1 с.л.",
+      "id": 278
+    },
+    {
+      "name": "сусамово масло",
+      "qty": "1 с.л.",
+      "id": 295
+    },
+    {
+      "name": "чесън",
+      "qty": "1 скилидка",
+      "id": 6
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "зелен фасул",
+      "qty": "300 г",
+      "id": 99
+    },
+    {
+      "name": "соев сос",
+      "qty": "2 с.л.",
+      "id": 53
+    },
+    {
+      "name": "вода",
+      "qty": "2 с.л.",
+      "id": 11
+    },
+    {
+      "name": "бобени кълнове",
+      "qty": "100 г",
+      "id": 181
+    },
+    {
+      "name": "фъстъци",
+      "qty": "1/2 ч.ч.",
+      "id": 196
+    }
+  ]
+}

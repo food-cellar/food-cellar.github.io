@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Постна содена питка за Бъдни вечер",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/postna-sodena-pitka-za-budni-vecher-1-[2727].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/postna-sodena-pitka-za-budni-vecher-1-[2727].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/postna-sodena-pitka-za-budni-vecher-1-[2727].jpg"
+    ],
+    "datePublished": "2014-01-31",
+    "cookTime": "PT1H20M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Хлебни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "474 calories",
+      "carbohydrateContent": "89 g",
+      "fatContent": "6 g",
+      "proteinContent": "12 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "4.6873333333333 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "3 ч.ч. брашно",
+      "1 ч.ч. вода",
+      "1 ч.л. сода",
+      "1 ч.л. сол",
+      "1 с.л. оцет",
+      "5 с.л. олио"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Брашното (3 ч.ч.) се пресява и се прави кладенче. В него се слагат погасената в оцета (1 с.л.) сода (1 ч.л.), солта (1 ч.л.) и олиото (5 с.л.) и при бавно добавяне на хладката вода (1 ч.ч.) се замесва меко тесто. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Оставя се да почива 10 минути. В намазана с олио тавичка с ръце се оформя питка. Тя се намазва с олио и се пече 30-35 минути на 180 С. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Ако искате да направите украса върху питката, отделете малко тесто, преди да я оформите. След това украсете по желание, намажете с олио и изпечете."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Когато се извади от фурната, питката се напръсква с вода и се завива с кърпа, за да омекне."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "брашно",
+      "qty": "3 ч.ч.",
+      "id": 7
+    },
+    {
+      "name": "вода",
+      "qty": "1 ч.ч.",
+      "id": 11
+    },
+    {
+      "name": "сода",
+      "qty": "1 ч.л.",
+      "id": 56
+    },
+    {
+      "name": "сол",
+      "qty": "1 ч.л.",
+      "id": 1
+    },
+    {
+      "name": "оцет",
+      "qty": "1 с.л.",
+      "id": 61
+    },
+    {
+      "name": "олио",
+      "qty": "5 с.л.",
+      "id": 4
+    }
+  ]
+}

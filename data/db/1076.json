@@ -1,0 +1,60 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Коктейл Рай (Eden)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kokteil-rai--1-[1076].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kokteil-rai--1-[1076].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kokteil-rai--1-[1076].jpg"
+    ],
+    "datePublished": "2012-08-08",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Коктейли",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "229 calories",
+      "carbohydrateContent": "4 g",
+      "fatContent": "0 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.0626 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "100 мл. джин",
+      "25 мл. кампари",
+      "25 мл. лимонов сок",
+      "20 г малини"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "В шейкър кана (или кухненски робот) се пасират няколко малини (20 г) и се прецеждат от семките. Връщат се обратно в каната и се разбиват заедно с джин (100 мл.), кампари (25 мл.), лимонов сок (25 мл.) и лед. Коктейлът се сервира в чаша за уиски, пълна с лед."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "джин",
+      "qty": "100 мл.",
+      "id": 192
+    },
+    {
+      "name": "кампари",
+      "qty": "25 мл.",
+      "id": 27
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "25 мл.",
+      "id": 17
+    },
+    {
+      "name": "малини",
+      "qty": "20 г",
+      "id": 141
+    }
+  ]
+}

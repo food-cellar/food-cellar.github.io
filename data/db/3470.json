@@ -1,0 +1,60 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Здравословно зеленчуково зелено детокс смути с авокадо, рукола и портокалов и лимонов сок за закуска",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zdravoslovno-zelenchukovo-zeleno-detoks-smuti-s-avokado-rukola-i-portokalov-i-limonov-sok-za-zakuska-1-[3470].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zdravoslovno-zelenchukovo-zeleno-detoks-smuti-s-avokado-rukola-i-portokalov-i-limonov-sok-za-zakuska-1-[3470].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zdravoslovno-zelenchukovo-zeleno-detoks-smuti-s-avokado-rukola-i-portokalov-i-limonov-sok-za-zakuska-1-[3470].jpg"
+    ],
+    "datePublished": "2020-08-09",
+    "cookTime": "PT0H10M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "238 calories",
+      "carbohydrateContent": "26 g",
+      "fatContent": "15 g",
+      "proteinContent": "4 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "11.10926 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1/2  авокадо",
+      "30 г рукола",
+      "1  портокал",
+      "1/2  лимон"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Авокадото (1/2 бр) се обелва, нарязва се и се поставя в блендер. Руколата (30 г) се измива и също се поставя в бледера. Портокалът (1 бр) се изцежда на сок или се слагат цял, като предварително са отстранени семките и ципите. Лимонът (1/2 бр) се изстисква и добавя към сместа. Всичко се пасира до получаване на еднородна напитка. По желание, може да се направи и с повече течност."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "авокадо",
+      "qty": "1/2",
+      "id": 83
+    },
+    {
+      "name": "рукола",
+      "qty": "30 г",
+      "id": 155
+    },
+    {
+      "name": "портокал",
+      "qty": "1",
+      "id": 122
+    },
+    {
+      "name": "лимон",
+      "qty": "1/2",
+      "id": 43
+    }
+  ]
+}

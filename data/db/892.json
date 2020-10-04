@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Млечна супа с целина, гъби печурки",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/supa-s-celina-i-gubi-2-[892].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/supa-s-celina-i-gubi-2-[892].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/supa-s-celina-i-gubi-2-[892].jpg"
+    ],
+    "datePublished": "2010-12-11",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "291 calories",
+      "carbohydrateContent": "25 g",
+      "fatContent": "16 g",
+      "proteinContent": "13 g",
+      "saturatedFatContent": "6 g",
+      "unsaturatedFatContent": "8.61216 g",
+      "cholesterolContent": "35 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг целина",
+      "250 г печурки",
+      "1 кг прясно мляко",
+      "1 глава  лук",
+      "2 скилидки чесън",
+      "2 с.л. олио",
+      "сол",
+      "черен пипер",
+      "50 г ленено семе",
+      "1 л. вода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Целината (1/2 кг) се обелва и нарязва на кубчета. Сварява се в подсолена вода, отцежда се и се пюрира. Лукът се нарязва на ситно и се задушава в сгорещеното олио. Прибавят се печурките (250 г), нарязани на полумесеци. Готви се, докато те омекнат. Прибавя се счуканият чесън (2 скилидки). Задушените зеленчуци се смесват с пюрето от целината, горещото прясно мляко (1 кг) и топла вода (1 л.). Супата ври 4-5 минути. Поднася се топла, поръсена с черен пипер и ленено семе."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "целина",
+      "qty": "1/2 кг",
+      "id": 30
+    },
+    {
+      "name": "печурки",
+      "qty": "250 г",
+      "id": 62
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "1 кг",
+      "id": 14
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "ленено семе",
+      "qty": "50 г",
+      "id": 245
+    },
+    {
+      "name": "вода",
+      "qty": "1 л.",
+      "id": 11
+    }
+  ]
+}

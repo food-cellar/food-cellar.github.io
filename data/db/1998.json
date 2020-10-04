@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата айсберг с пармезан и слънчоглед",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-aisberg-s-parmezan-i-slunchogled-2-[1998].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-aisberg-s-parmezan-i-slunchogled-2-[1998].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-aisberg-s-parmezan-i-slunchogled-2-[1998].jpg"
+    ],
+    "datePublished": "2012-06-21",
+    "cookTime": "PT0H5M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "176 calories",
+      "carbohydrateContent": "11 g",
+      "fatContent": "12 g",
+      "proteinContent": "7 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "8.5777825 g",
+      "cholesterolContent": "7 mg"
+    },
+    "recipeIngredient": [
+      "1 глава айсберг",
+      "1  краставица",
+      "40 г пармезан",
+      "100 г царевица",
+      "20 г слънчогледови семки",
+      "2 с.л. лимонов сок",
+      "4 с.л. зехтин",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Салатата айсберг (1 глава) се измива и накъсва на парчета. Краставицата (1 бр) се измива старателно и се нарязва на полумесеци. Добавя се отцедената от консервата царевица (100 г) и салатата се овкусява със сол, зехтин (4 с.л.) и лимонов сок (2 с.л.). Сервира се веднага, като се поръсва с белени слънчогледови семки (20 г) и настърган пармезан (40 г). "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "айсберг",
+      "qty": "1 глава",
+      "id": 101
+    },
+    {
+      "name": "краставица",
+      "qty": "1",
+      "id": 44
+    },
+    {
+      "name": "пармезан",
+      "qty": "40 г",
+      "id": 59
+    },
+    {
+      "name": "царевица",
+      "qty": "100 г",
+      "id": 78
+    },
+    {
+      "name": "слънчогледови семки",
+      "qty": "20 г",
+      "id": 147
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "2 с.л.",
+      "id": 17
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

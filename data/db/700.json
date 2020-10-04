@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Чеснов пастет от печени червени чушки и извара",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/cherven-chesnov-pastet-2-[700].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/cherven-chesnov-pastet-2-[700].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/cherven-chesnov-pastet-2-[700].jpg"
+    ],
+    "datePublished": "2011-06-03",
+    "cookTime": "PT0H5M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Сосове",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "88 calories",
+      "carbohydrateContent": "8 g",
+      "fatContent": "2 g",
+      "proteinContent": "7 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "1.31397 g",
+      "cholesterolContent": "2 mg"
+    },
+    "recipeIngredient": [
+      "400 г червени чушки",
+      "4 скилидки чесън",
+      "4 ч.л. зехтин",
+      "1 с.л. лимонов сок",
+      "сол",
+      "200 г извара"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Чушките (400 г) се изпичат и се пасират с извара (200 г) чесън (4 скилидки), зехтин (4 ч.л.), лимонов сок  (1 с.л.) и сол. На 1 чушка се падат 1 скилидка чесън и 1 ч.л. зехтин. Лимоновият сок и солта се добавят на вкус. В този пастет могат да се добавят смлени орехови ядки. Може да се предложи и като предястие или дип за топене, ако се направи малко по рядко (с повече чушки)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "червени чушки",
+      "qty": "400 г",
+      "id": 18
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 ч.л.",
+      "id": 10
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "извара",
+      "qty": "200 г",
+      "id": 92
+    }
+  ]
+}

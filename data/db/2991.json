@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Ориз с хапки от пилешко филе, зеленчуци и соев сос на тиган по китайски",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/oriz-s-pile-zelenchuci-i-soev-sos-1-[2991].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/oriz-s-pile-zelenchuci-i-soev-sos-1-[2991].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/oriz-s-pile-zelenchuci-i-soev-sos-1-[2991].jpg"
+    ],
+    "datePublished": "2014-10-31",
+    "cookTime": "PT0H40M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "318 calories",
+      "carbohydrateContent": "45 g",
+      "fatContent": "3 g",
+      "proteinContent": "25 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.8463575 g",
+      "cholesterolContent": "65 mg"
+    },
+    "recipeIngredient": [
+      "1 ч.ч. ориз",
+      "2  червени чушки",
+      "2  моркова",
+      "400 г пилешко филе",
+      "50 мл. соев сос",
+      "3 ч.ч. вода",
+      "черен пипер",
+      "2 стръка зелен лук"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Най-напред оризът (1 ч.ч.) се сварява до готовност в подсолената вода (3 ч.ч.). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "През това време морковите (2 бр), чушките (2 бр) и пилешкото филе (400 г) се измиват, почистват и нарязват на кубчета. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Зеленчуците и месото се поставят в дълбок тиган с капак и се задушават в малко мазнина до омекване. Подправят се със сол и черен пипер и към тях се добавя оризът. Всичко се разбърква много добре, докато ароматите се смесят. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Накрая се добавят нарязаният зелен лук (2 стръка) и соевият сос (50 мл.). Оризът се сервира горещ, но и охладен е чудесен на вкус."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "ориз",
+      "qty": "1 ч.ч.",
+      "id": 22
+    },
+    {
+      "name": "червени чушки",
+      "qty": "2",
+      "id": 18
+    },
+    {
+      "name": "моркова",
+      "qty": "2",
+      "id": 13
+    },
+    {
+      "name": "пилешко филе",
+      "qty": "400 г",
+      "id": 49
+    },
+    {
+      "name": "соев сос",
+      "qty": "50 мл.",
+      "id": 53
+    },
+    {
+      "name": "вода",
+      "qty": "3 ч.ч.",
+      "id": 11
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "зелен лук",
+      "qty": "2 стръка",
+      "id": 24
+    }
+  ]
+}

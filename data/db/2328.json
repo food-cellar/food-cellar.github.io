@@ -1,0 +1,82 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата с целина, тиквички и магданоз",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-s-celina-tikvichki-i-magdanoz-3-[2328].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-s-celina-tikvichki-i-magdanoz-3-[2328].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-s-celina-tikvichki-i-magdanoz-3-[2328].jpg"
+    ],
+    "datePublished": "2013-02-26",
+    "cookTime": "PT0H20M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "31 calories",
+      "carbohydrateContent": "6 g",
+      "fatContent": "0 g",
+      "proteinContent": "1 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.1276075 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1 глава целина",
+      "2  тиквички",
+      "1  магданоз",
+      "2 с.л. горчица",
+      "3 с.л. сос уорчестър",
+      "1 с.л. оцет",
+      "1 щип. сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Целината (1 глава) и тиквичките (2 бр) се рендосват на едро ренде. Добавя се магданоз (1 бр), накълцан на ситно. За салатата се приготвя сос отделно - в купа се разбъркват горчицата (2 с.л.), сосът уорчестър (3 с.л.), оцетът (1 с.л.) и солта (1 щип.)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Салатата се поднася с купичка от приготвения сос."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "целина",
+      "qty": "1 глава",
+      "id": 30
+    },
+    {
+      "name": "тиквички",
+      "qty": "2",
+      "id": 39
+    },
+    {
+      "name": "магданоз",
+      "qty": "1",
+      "id": 12
+    },
+    {
+      "name": "горчица",
+      "qty": "2 с.л.",
+      "id": 64
+    },
+    {
+      "name": "сос уорчестър",
+      "qty": "3 с.л.",
+      "id": 207
+    },
+    {
+      "name": "оцет",
+      "qty": "1 с.л.",
+      "id": 61
+    },
+    {
+      "name": "сол",
+      "qty": "1 щип.",
+      "id": 1
+    }
+  ]
+}

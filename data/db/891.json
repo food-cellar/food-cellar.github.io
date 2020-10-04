@@ -1,0 +1,114 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Селска лучена супа",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/selska-luchena-supa-1-[891].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/selska-luchena-supa-1-[891].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/selska-luchena-supa-1-[891].jpg"
+    ],
+    "datePublished": "2011-05-11",
+    "cookTime": "PT0H40M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "433 calories",
+      "carbohydrateContent": "42 g",
+      "fatContent": "18 g",
+      "proteinContent": "16 g",
+      "saturatedFatContent": "7 g",
+      "unsaturatedFatContent": "9.561375 g",
+      "cholesterolContent": "132 mg"
+    },
+    "recipeIngredient": [
+      "10 глави лук",
+      "1 връзка зелен лук",
+      "3 скилидки чесън",
+      "1  морков",
+      "1 л. прясно мляко",
+      "2  яйца",
+      "1 връзка магданоз",
+      "4 с.л. олио",
+      "1 к.ч. ракия",
+      "сол",
+      "черен пипер",
+      "1 с.л. брашно",
+      "6 с.л. кисело мляко"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Лукът (10 глави) се нарязва на едро. Пресният зелен лук (1 връзка) и пресният чесън (3 скилидки) се нарязват на ситно. Морковът се настъргва (1 бр). Зеленчуците се задушават в загрятото олио. Щом омекнат, се добавя ракията (1 к.ч.) и се разбърква. Поръсват се със солта и с брашното (1 с.л.). Разбърква се. Налива се горещото прясно мляко (1 л.). Ако супата се окаже прекалено гъста, се налива и топла вода. Ястието ври 5 минути. Застройва се с разбитите киселото мляко (6 с.л.) и яйца (2 бр). Поднася се поръсена със ситно нарязан магданоз (1 връзка). "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "лук",
+      "qty": "10 глави",
+      "id": 3
+    },
+    {
+      "name": "зелен лук",
+      "qty": "1 връзка",
+      "id": 24
+    },
+    {
+      "name": "чесън",
+      "qty": "3 скилидки",
+      "id": 6
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "1 л.",
+      "id": 14
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "магданоз",
+      "qty": "1 връзка",
+      "id": 12
+    },
+    {
+      "name": "олио",
+      "qty": "4 с.л.",
+      "id": 4
+    },
+    {
+      "name": "ракия",
+      "qty": "1 к.ч.",
+      "id": 250
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "брашно",
+      "qty": "1 с.л.",
+      "id": 7
+    },
+    {
+      "name": "кисело мляко",
+      "qty": "6 с.л.",
+      "id": 21
+    }
+  ]
+}

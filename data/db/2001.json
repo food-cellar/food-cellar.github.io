@@ -1,0 +1,60 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Сандвич с пастет от риба тон, айсберг и царевица",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/sandvich-s-pastet-ot-riba-ton-aisberg-i-carevica-1-[2001].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/sandvich-s-pastet-ot-riba-ton-aisberg-i-carevica-1-[2001].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/sandvich-s-pastet-ot-riba-ton-aisberg-i-carevica-1-[2001].jpg"
+    ],
+    "datePublished": "2012-06-22",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Сандвичи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "349 calories",
+      "carbohydrateContent": "46 g",
+      "fatContent": "6 g",
+      "proteinContent": "27 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "3.53132 g",
+      "cholesterolContent": "10 mg"
+    },
+    "recipeIngredient": [
+      "1  чабата",
+      "4 с.л. пастет от риба тон",
+      "1 лист айсберг",
+      "1 с.л. царевица"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Чабатата (1 бр) се разполовява и се намазва с пастета от риба тон (4 с.л.). В сандвича се поставя свежа салата айсберг (1 лист) и отцедена царевица от консерва (1 с.л.). Сандвичът се сервира веднага."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "чабата",
+      "qty": "1",
+      "id": 175
+    },
+    {
+      "name": "пастет от риба тон",
+      "qty": "4 с.л.",
+      "id": 127
+    },
+    {
+      "name": "айсберг",
+      "qty": "1 лист",
+      "id": 101
+    },
+    {
+      "name": "царевица",
+      "qty": "1 с.л.",
+      "id": 78
+    }
+  ]
+}

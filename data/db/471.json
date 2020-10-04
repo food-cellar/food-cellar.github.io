@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Спаначена супа със скариди, картофи и ориз",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/spanachena-supa-sus-skaridi-1-[471].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/spanachena-supa-sus-skaridi-1-[471].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/spanachena-supa-sus-skaridi-1-[471].jpg"
+    ],
+    "datePublished": "2010-11-05",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "235 calories",
+      "carbohydrateContent": "29 g",
+      "fatContent": "7 g",
+      "proteinContent": "12 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "6.1677925 g",
+      "cholesterolContent": "57 mg"
+    },
+    "recipeIngredient": [
+      "1 връзка спанак",
+      "1  картоф",
+      "1  морков",
+      "1 глава лук",
+      "150 г скариди",
+      "1/3 ч.ч. ориз",
+      "сол",
+      "черен пипер",
+      "4 с.л. олио",
+      "2 скилидки чесън"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Спанакът (1 връзка) се нарязва на едро, лукът (1 глава) - на ситно. Обеленият картоф се настъргва, както и морковът. Всички тези зеленчуци се заливат с вода и с олио и се варят до полуготовност. Супата се посолява и подправя с черен пипер. Слага се оризът (1/3 ч.ч.) и продължава да ври, докато той стане готов. Прибавят се скаридите (150 г) и ястието ври още 1 минута. Овкусява се със счуканите скилидки чесън (2 скилидки)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "спанак",
+      "qty": "1 връзка",
+      "id": 40
+    },
+    {
+      "name": "картоф",
+      "qty": "1",
+      "id": 16
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "скариди",
+      "qty": "150 г",
+      "id": 104
+    },
+    {
+      "name": "ориз",
+      "qty": "1/3 ч.ч.",
+      "id": 22
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "олио",
+      "qty": "4 с.л.",
+      "id": 4
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    }
+  ]
+}

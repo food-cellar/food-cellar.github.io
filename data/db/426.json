@@ -1,0 +1,76 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Вегетарианска яхния от картофи, гъби печурки и топено пушено сирене",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kartofki_s_gubki_i_topeno_pusheno_sirence_2-[426].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kartofki_s_gubki_i_topeno_pusheno_sirence_2-[426].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kartofki_s_gubki_i_topeno_pusheno_sirence_2-[426].jpg"
+    ],
+    "datePublished": "2010-10-23",
+    "cookTime": "PT0H40M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "373 calories",
+      "carbohydrateContent": "51 g",
+      "fatContent": "10 g",
+      "proteinContent": "16 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "4.86125 g",
+      "cholesterolContent": "23 mg"
+    },
+    "recipeIngredient": [
+      "1 кг картофи",
+      "600 г печурки",
+      "200 г топено-пушено сирене",
+      "сол",
+      "черен пипер",
+      "2 с.л. олио"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Картофите (1 кг) се обелват и нарязват на парченца, гъбите (600 г) - също. Картофите се слагат в тенджера, заливат се с вода, колкото да ги покрие, посоляват се и се сваряват. Гъбите се изпържват в горещо олио и се изваждат с решетъчна лъжица. Слагат се при картофите. Добавя се топено-пушеното сирене (200 г), накъсано на парчета и ястието се оставя да ври до пълното разтопяване на сиренето. Трябва да се получи еднороден бял сос. Подправя се с черен пипер. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Съвет: Това ястие обикновено се приготвя с рокфор, но е достатъчно вкусно и с българско топено-пушено сирене."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "картофи",
+      "qty": "1 кг",
+      "id": 16
+    },
+    {
+      "name": "печурки",
+      "qty": "600 г",
+      "id": 62
+    },
+    {
+      "name": "топено-пушено сирене",
+      "qty": "200 г",
+      "id": 112
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    }
+  ]
+}

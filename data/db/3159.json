@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Сусамови топчета от сирене и кашкавал",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/susamovi-topcheta-ot-sirene-i-kashkaval-2-[3159].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/susamovi-topcheta-ot-sirene-i-kashkaval-2-[3159].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/susamovi-topcheta-ot-sirene-i-kashkaval-2-[3159].jpg"
+    ],
+    "datePublished": "2017-01-08",
+    "cookTime": "PT0H25M",
+    "recipeYield": "12 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "479 calories",
+      "carbohydrateContent": "11 g",
+      "fatContent": "39 g",
+      "proteinContent": "21 g",
+      "saturatedFatContent": "18 g",
+      "unsaturatedFatContent": "18.941620833333 g",
+      "cholesterolContent": "108 mg"
+    },
+    "recipeIngredient": [
+      "1 кг сирене",
+      "1  жълтък",
+      "200 г кашкавал",
+      "400 г сусам",
+      "2 скилидки чесън",
+      "черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Кашкавалът (200 г) се настъргва на ситното ренде, а чесънът (2 скилидки) се счуква. Тези продукти се смесват с натрошеното сирене (1 кг), суровия жълтък (1 бр), черния пипер и лимоновия сок. Всичко се омесва добре и се оформят топки - малко по-големи от орех. Всяка топка се овалва в сусамови семена (400 г). "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "сирене",
+      "qty": "1 кг",
+      "id": 32
+    },
+    {
+      "name": "жълтък",
+      "qty": "1",
+      "id": 33
+    },
+    {
+      "name": "кашкавал",
+      "qty": "200 г",
+      "id": 47
+    },
+    {
+      "name": "сусам",
+      "qty": "400 г",
+      "id": 113
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

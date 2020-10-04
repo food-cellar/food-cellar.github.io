@@ -1,0 +1,54 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Смути от банани, ягоди и портокалов сок",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/smuti--1-[1598].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/smuti--1-[1598].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/smuti--1-[1598].jpg"
+    ],
+    "datePublished": "2012-07-14",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Напитки",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "224 calories",
+      "carbohydrateContent": "54 g",
+      "fatContent": "1 g",
+      "proteinContent": "3 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.32692 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1  банан",
+      "75 г ягоди",
+      "200 мл. портокалов сок"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Бананът (1 бр) и ягодите (75 г) се замразяват за 1 нощ. На следващия ден се слагат в кухненски робот заедно с портокаловия сок (200 мл.) и се пасират. Сервира се във висока чаша с плуващи тънки резенчета ягоди."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "банан",
+      "qty": "1",
+      "id": 123
+    },
+    {
+      "name": "ягоди",
+      "qty": "75 г",
+      "id": 109
+    },
+    {
+      "name": "портокалов сок",
+      "qty": "200 мл.",
+      "id": 177
+    }
+  ]
+}

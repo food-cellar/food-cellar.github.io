@@ -1,0 +1,60 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Коктейл Amore Dolce",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kokteil--1-[1599].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kokteil--1-[1599].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kokteil--1-[1599].jpg"
+    ],
+    "datePublished": "2012-07-14",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Коктейли",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "186 calories",
+      "carbohydrateContent": "22 g",
+      "fatContent": "0 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.0399 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1  лайм",
+      "50 мл. водка",
+      "50 мл. кампари",
+      "2 с.л. пудра захар"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Лаймът (1 бр) се нарязва на 8 кубчета, слага се в чаша заедно с пудрата захар (2 с.л.) и се намачква, така че да изпусне сока си. Добавя се натрошен лед, водка (50 мл.), по възможност с вкус на малина, и кампари (50 мл.)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "лайм",
+      "qty": "1",
+      "id": 204
+    },
+    {
+      "name": "водка",
+      "qty": "50 мл.",
+      "id": 154
+    },
+    {
+      "name": "кампари",
+      "qty": "50 мл.",
+      "id": 27
+    },
+    {
+      "name": "пудра захар",
+      "qty": "2 с.л.",
+      "id": 34
+    }
+  ]
+}

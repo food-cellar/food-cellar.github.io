@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Карамелен флан",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/karamelen-flan-2-[1136].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/karamelen-flan-2-[1136].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/karamelen-flan-2-[1136].jpg"
+    ],
+    "datePublished": "2010-11-27",
+    "cookTime": "PT0H30M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "194 calories",
+      "carbohydrateContent": "28 g",
+      "fatContent": "6 g",
+      "proteinContent": "4 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "2.7871266666667 g",
+      "cholesterolContent": "225 mg"
+    },
+    "recipeIngredient": [
+      "300 мл. прясно мляко",
+      "1  лимон",
+      "6  жълтъка",
+      "100 г захар",
+      "2 с.л. нишесте",
+      "1 опак. ванилия",
+      "6 ч.л. пудра захар"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Млякото (300 мл.) престоява на тих огън 15 минути с обелената лимонова кора и ванилията (1 опак.). Изважда се кората, сипват се бавно жълтъците (6 бр), разбити със захарта (100 г) и нишестето (2 с.л.), и се оставя на тих огън 5 минути до сгъстяване. Кремът се разпределя в 6 купички и се оставя за десетина минути да стегне. Във всяка купичка се изсипва по 1 ч.л. пудра захар и купичките се поставят в силна фурна на горен реотан, докато захарта се разтопи и карамелизира.  "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "прясно мляко",
+      "qty": "300 мл.",
+      "id": 14
+    },
+    {
+      "name": "лимон",
+      "qty": "1",
+      "id": 43
+    },
+    {
+      "name": "жълтъка",
+      "qty": "6",
+      "id": 33
+    },
+    {
+      "name": "захар",
+      "qty": "100 г",
+      "id": 9
+    },
+    {
+      "name": "нишесте",
+      "qty": "2 с.л.",
+      "id": 96
+    },
+    {
+      "name": "ванилия",
+      "qty": "1 опак.",
+      "id": 23
+    },
+    {
+      "name": "пудра захар",
+      "qty": "6 ч.л.",
+      "id": 9
+    }
+  ]
+}

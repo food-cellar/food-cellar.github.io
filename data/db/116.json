@@ -1,0 +1,106 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Солена млечнокисела торта с извара, червено цвекло, моркови и стафиди",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/mlechnokisela-torta-2-[116].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/mlechnokisela-torta-2-[116].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/mlechnokisela-torta-2-[116].jpg"
+    ],
+    "datePublished": "2010-11-22",
+    "cookTime": "PT0H20M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "378 calories",
+      "carbohydrateContent": "31 g",
+      "fatContent": "18 g",
+      "proteinContent": "24 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "11.95612 g",
+      "cholesterolContent": "192 mg"
+    },
+    "recipeIngredient": [
+      "250 г извара",
+      "2  яйца",
+      "50 г маргарин",
+      "2 стръка зелен лук",
+      "250 г червено цвекло",
+      "25 г моркови",
+      "20 г стафиди",
+      "50 г царевица",
+      "1 скилидка чесън",
+      "сол",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Изварата (250 г) се разбива с маргарина (50 г), солта, черния пипер и счукания чесън (1 скилидка) в миксера. Яйцата (2 бр) се сваряват и белтъците се настъргват на ситното ренде и се добавят към изварената смес. Всичко се разбърква. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "В салатена чиния от сместа се оформя торта. Страните й се облепват с настъргани моркови (25 г) и червено цвекло (250 г). Отстрани се окантява със зрънца варена царевица. По-горният бял слой се декорира със стафиди (20 г). Отгоре се поръсва с нарязан на колелца зелен лук (2 стръка) и зрънца царевица. В средата на тортата се поставя 1 черна маслина за украса."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "извара",
+      "qty": "250 г",
+      "id": 92
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "маргарин",
+      "qty": "50 г",
+      "id": 202
+    },
+    {
+      "name": "зелен лук",
+      "qty": "2 стръка",
+      "id": 24
+    },
+    {
+      "name": "червено цвекло",
+      "qty": "250 г",
+      "id": 131
+    },
+    {
+      "name": "моркови",
+      "qty": "25 г",
+      "id": 13
+    },
+    {
+      "name": "стафиди",
+      "qty": "20 г",
+      "id": 69
+    },
+    {
+      "name": "царевица",
+      "qty": "50 г",
+      "id": 78
+    },
+    {
+      "name": "чесън",
+      "qty": "1 скилидка",
+      "id": 6
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пълнени гъби печурки с печени чушки, сирене Бри и кашкавал, запечени на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pulneni-pechurki-s-pecheni-chushki-i-sirene-bri-2-[3174].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pulneni-pechurki-s-pecheni-chushki-i-sirene-bri-2-[3174].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pulneni-pechurki-s-pecheni-chushki-i-sirene-bri-2-[3174].jpg"
+    ],
+    "datePublished": "2017-03-11",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "197 calories",
+      "carbohydrateContent": "11 g",
+      "fatContent": "12 g",
+      "proteinContent": "13 g",
+      "saturatedFatContent": "7 g",
+      "unsaturatedFatContent": "3.594925 g",
+      "cholesterolContent": "39 mg"
+    },
+    "recipeIngredient": [
+      "600 г печурки",
+      "2  чесън",
+      "2  печена чушка",
+      "80 г сирене бри",
+      "80 г кашкавал"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Печурките (600 г) се измиват, а пънчетата им се отстраняват. Добре е да се използат по-едри гъби. Сиренето Бри (80 г) и печените чушки (2 бр) се нарязват на ситно. Овкусяват се със сол, пипер и счукан чесън (2 бр). С получената смес се пълнят гъбите, а отгоре се поръсват с настърган кашкавал (80 г). Изпичат се до готовност в силна фурна и се поднасят топли.  "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "печурки",
+      "qty": "600 г",
+      "id": 62
+    },
+    {
+      "name": "чесън",
+      "qty": "2",
+      "id": 6
+    },
+    {
+      "name": "печена чушка",
+      "qty": "2",
+      "id": 18
+    },
+    {
+      "name": "сирене бри",
+      "qty": "80 г",
+      "id": 228
+    },
+    {
+      "name": "кашкавал",
+      "qty": "80 г",
+      "id": 47
+    }
+  ]
+}

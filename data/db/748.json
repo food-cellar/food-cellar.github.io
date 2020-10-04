@@ -1,0 +1,114 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пикантно пилешко руло с миди",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pikantno-pileshko-rulo-s-midi-1-[748].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pikantno-pileshko-rulo-s-midi-1-[748].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pikantno-pileshko-rulo-s-midi-1-[748].jpg"
+    ],
+    "datePublished": "2010-12-13",
+    "cookTime": "PT0H35M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "443 calories",
+      "carbohydrateContent": "16 g",
+      "fatContent": "22 g",
+      "proteinContent": "44 g",
+      "saturatedFatContent": "5 g",
+      "unsaturatedFatContent": "13.779415 g",
+      "cholesterolContent": "226 mg"
+    },
+    "recipeIngredient": [
+      "300 г пилешко филе",
+      "50 г миди ядки",
+      "30 г синьо сирене",
+      "1 скилидка чесън",
+      "20 г сусам",
+      "20 г черен синап",
+      "3  домата",
+      "1 стрък зелен лук",
+      "сол",
+      "черен пипер",
+      "1 с.л. зехтин",
+      "1 ч.л. лимонов сок",
+      "1  жълтък"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Филето (300 г) се разрязва с остър нож през средата така, че да се получат два тънки пласта месо. Те се начукват, за да станат още по-тънки - не повече от 5 мм, и се посоляват. Върху половинките от филето се слагат счукан чесън (1 скилидка), натрошено синьо сирене (30 г), синап на зърна (20 г) и сусам на зърна (20 г). Оформят се рула. Фиксират се с клечки за зъби. Намазват се с разбит жълтък (1 бр) и се поръсват със зрънца сусам и синап. Пекат се на фурна до пълна готовност. Поднасят се със салата от домати (3 бр), миди (50 г), лук (1 стрък), зехтин (1 с.л.) и лимонов сок (1 ч.л.)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешко филе",
+      "qty": "300 г",
+      "id": 49
+    },
+    {
+      "name": "миди ядки",
+      "qty": "50 г",
+      "id": 168
+    },
+    {
+      "name": "синьо сирене",
+      "qty": "30 г",
+      "id": 108
+    },
+    {
+      "name": "чесън",
+      "qty": "1 скилидка",
+      "id": 6
+    },
+    {
+      "name": "сусам",
+      "qty": "20 г",
+      "id": 113
+    },
+    {
+      "name": "черен синап",
+      "qty": "20 г",
+      "id": 284
+    },
+    {
+      "name": "домата",
+      "qty": "3",
+      "id": 15
+    },
+    {
+      "name": "зелен лук",
+      "qty": "1 стрък",
+      "id": 24
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "зехтин",
+      "qty": "1 с.л.",
+      "id": 10
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 ч.л.",
+      "id": 17
+    },
+    {
+      "name": "жълтък",
+      "qty": "1",
+      "id": 33
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Зеленчуков кренбъл с патладжани, чушки и лук",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zelenchukov-krenbul-2-[680].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zelenchukov-krenbul-2-[680].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zelenchukov-krenbul-2-[680].jpg"
+    ],
+    "datePublished": "2010-11-28",
+    "cookTime": "PT0H45M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "557 calories",
+      "carbohydrateContent": "110 g",
+      "fatContent": "6 g",
+      "proteinContent": "15 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "4.543285 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1  патладжан",
+      "3  чушки",
+      "2 глави лук",
+      "1  морков",
+      "1 глава целина",
+      "3 скилидки чесън",
+      "2 ч.ч. брашно",
+      "сол",
+      "20 мл. олио",
+      "1 с.л. сода",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "В нагорещеното олио се слагат нарязаните на ситно лук (2 глави), целина (1 глава), морков (1 бр) и чесън (3 скилидки). Зеленчуците се готвят около 10 минути и се изваждат от тигана. Запържват се чушките (3 бр) и патладжанът (1 бр) (предварително осолен и оставен да си пусне горчивия сок) за 5-6 минути. Всички зеленчуци се слагат в намазнена купа за печене и се овкусяват със сол и черен пипер. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "От брашното (2 ч.ч.), содата за хляб (1 с.л.), олиото (20 мл.), малко вода и подправките се омесва тесто, което се разстила върху зеленчуците. Не е важно дали повърхността му ще бъде гладка."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Ястието се пече на фурна 25 минути при 200 градуса. Преди сервиране се оставя да изстине за 10-15 минути."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "патладжан",
+      "qty": "1",
+      "id": 71
+    },
+    {
+      "name": "чушки",
+      "qty": "3",
+      "id": 18
+    },
+    {
+      "name": "лук",
+      "qty": "2 глави",
+      "id": 3
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "целина",
+      "qty": "1 глава",
+      "id": 30
+    },
+    {
+      "name": "чесън",
+      "qty": "3 скилидки",
+      "id": 6
+    },
+    {
+      "name": "брашно",
+      "qty": "2 ч.ч.",
+      "id": 7
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "олио",
+      "qty": "20 мл.",
+      "id": 4
+    },
+    {
+      "name": "сода",
+      "qty": "1 с.л.",
+      "id": 56
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

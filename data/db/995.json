@@ -1,0 +1,102 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Гъбена чорба с манатарки, картофи и топено сирене",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/manatarkova_supa_1-[995].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/manatarkova_supa_1-[995].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/manatarkova_supa_1-[995].jpg"
+    ],
+    "datePublished": "2010-10-22",
+    "cookTime": "PT0H25M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "117 calories",
+      "carbohydrateContent": "20 g",
+      "fatContent": "3 g",
+      "proteinContent": "3 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "1.2732433333333 g",
+      "cholesterolContent": "2 mg"
+    },
+    "recipeIngredient": [
+      "30 г сушени манатарки",
+      "1 глава лук",
+      "2  моркова",
+      "2  картофа",
+      "30 г топено сирене",
+      "сол",
+      "черен пипер",
+      "2 скилидки чесън",
+      "лимонов сок",
+      "2 с.л. зехтин",
+      "1 1/2 л. вода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Манатарките (30 г) се накисват в студена вода, за да възвърнат формата си и се измиват. Във водата (1 1/2 л.) се сваряват обелените, но цели моркови (2 бр), картофи (2 бр) и лук (1 глава). Изваждат се от водата, отцеждат се и се пасират. Връщат се обратно в тенджерата. Добавят се манатарките, сиренето (30 г), подправките  и зехтина (2 с.л.). Супата ври, докато сиренето се стопи и гъбите се сварят. Най-накрая супата се подправя със счукан със сол чесън (2 скилидки), разбърква се и се отстранява от котлона. Поднася се топла, но е вкусна и студена."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "сушени манатарки",
+      "qty": "30 г",
+      "id": 219
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "моркова",
+      "qty": "2",
+      "id": 13
+    },
+    {
+      "name": "картофа",
+      "qty": "2",
+      "id": 16
+    },
+    {
+      "name": "топено сирене",
+      "qty": "30 г",
+      "id": 112
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "Parsing error",
+      "id": 17
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "вода",
+      "qty": "1 1/2 л.",
+      "id": 11
+    }
+  ]
+}

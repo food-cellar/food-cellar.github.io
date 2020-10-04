@@ -1,0 +1,60 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Кроасани от бутер тесто с киви ",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kroasani_s_kivi_2-[549].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kroasani_s_kivi_2-[549].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kroasani_s_kivi_2-[549].jpg"
+    ],
+    "datePublished": "2010-10-12",
+    "cookTime": "PT0H20M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "632 calories",
+      "carbohydrateContent": "61 g",
+      "fatContent": "39 g",
+      "proteinContent": "9 g",
+      "saturatedFatContent": "10 g",
+      "unsaturatedFatContent": "27.213205 g",
+      "cholesterolContent": "47 mg"
+    },
+    "recipeIngredient": [
+      "4  кивита",
+      "400 г бутер тесто",
+      "3 с.л. пудра захар",
+      "1  яйце"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "От бутер тестото (400 г) се отрязват 8 триъгълника. Кивитата (4 бр) се обелват и разполовяват по дължина. Всяка половинка киви се поставя в основата на триъгълника и той се завива към върха така, че да се получи кроасан. Кроасаните се намазват с разбито яйце (1 бр) и се пекат в предварително загрята фурна, докато получат златиста коричка. Могат да се сервират както топли, така и охладени, поръсени с пудра захар (3 с.л.)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "кивита",
+      "qty": "4",
+      "id": 186
+    },
+    {
+      "name": "бутер тесто",
+      "qty": "400 г",
+      "id": 117
+    },
+    {
+      "name": "пудра захар",
+      "qty": "3 с.л.",
+      "id": 34
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    }
+  ]
+}

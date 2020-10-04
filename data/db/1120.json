@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Сладък кекс с орехи и ябълки без захар",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/sladuk-keks-bez-zahar-4-[1120].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/sladuk-keks-bez-zahar-4-[1120].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/sladuk-keks-bez-zahar-4-[1120].jpg"
+    ],
+    "datePublished": "2011-04-22",
+    "cookTime": "PT0H50M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "437 calories",
+      "carbohydrateContent": "51 g",
+      "fatContent": "22 g",
+      "proteinContent": "11 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "17.4712975 g",
+      "cholesterolContent": "94 mg"
+    },
+    "recipeIngredient": [
+      "3  ябълки",
+      "1 1/2 ч.ч. брашно",
+      "1 ч.ч. орехи",
+      "4  яйца",
+      "4 с.л. течен подсладител",
+      "1 с.л. пудра захар"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Яйцата (4 бр) се разбиват с брашното (1 1/2 ч.ч.) и течния подсладител (4 с.л.). Към сместа се добавят настърганите ябълки (3 бр) и смлените орехи (1 ч.ч.). Разбърква се добре и сместа се изсипва във форма за кекс с незалепващо покритие. Пече се 40 мин при 200 гардуса. Оставя се да се охлади и се поръсва с пудра захар (1 с.л.).  "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "ябълки",
+      "qty": "3",
+      "id": 85
+    },
+    {
+      "name": "брашно",
+      "qty": "1 1/2 ч.ч.",
+      "id": 7
+    },
+    {
+      "name": "орехи",
+      "qty": "1 ч.ч.",
+      "id": 31
+    },
+    {
+      "name": "яйца",
+      "qty": "4",
+      "id": 5
+    },
+    {
+      "name": "течен подсладител",
+      "qty": "4 с.л.",
+      "id": 173
+    },
+    {
+      "name": "пудра захар",
+      "qty": "1 с.л.",
+      "id": 34
+    }
+  ]
+}

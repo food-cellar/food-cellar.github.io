@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Коктейлни хапки - пълнени гъби печурки с кускус, шунка и босилек",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pulneni-pechurki-s-kuskus-shunka-i-bosilek-1-[1540].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pulneni-pechurki-s-kuskus-shunka-i-bosilek-1-[1540].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pulneni-pechurki-s-kuskus-shunka-i-bosilek-1-[1540].jpg"
+    ],
+    "datePublished": "2011-08-29",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "197 calories",
+      "carbohydrateContent": "22 g",
+      "fatContent": "7 g",
+      "proteinContent": "12 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "3.9780625 g",
+      "cholesterolContent": "18 mg"
+    },
+    "recipeIngredient": [
+      "800 г печурки",
+      "75 г кускус",
+      "100 г шунка",
+      "1 стрък босилек",
+      "1 с.л. зехтин",
+      "черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Печурките (800 г) се измиват, пънчетата им се отстраняват, посоляват се и за около 15-20 минути се поставят в силна фурна, за да се изпекат. През това време кускусът (75 г) се сварява според указанията на опаковката (използваният в тази рецепта едър кускус е сварен в подсолена вода в пропорция 1:4). Щом кускусът поеме цялата вода и е напълно готов, към него се прибавят ситно нарязаният босилек (1 стрък) и нарязаната на малки кубчета шунка (100 г). Плънката се разбърква и се овкусява със зехтин (1 с.л.), черен пипер и сол. Печурките се изваждат от фурната и сокът, който са отделили, се изхвърля. Гъбите се пълнят с кускуса и се връщат обратно във фурната за още десетина минути. Поднасят се топли."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "печурки",
+      "qty": "800 г",
+      "id": 62
+    },
+    {
+      "name": "кускус",
+      "qty": "75 г",
+      "id": 160
+    },
+    {
+      "name": "шунка",
+      "qty": "100 г",
+      "id": 76
+    },
+    {
+      "name": "босилек",
+      "qty": "1 стрък",
+      "id": 25
+    },
+    {
+      "name": "зехтин",
+      "qty": "1 с.л.",
+      "id": 10
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

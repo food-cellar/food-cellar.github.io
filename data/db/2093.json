@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печено свинско месо от плешка с кисело зеле в тава на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/svinsko-s-kiselo-zele-na-furna-1-[2093].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/svinsko-s-kiselo-zele-na-furna-1-[2093].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/svinsko-s-kiselo-zele-na-furna-1-[2093].jpg"
+    ],
+    "datePublished": "2012-10-02",
+    "cookTime": "PT1H30M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "154 calories",
+      "carbohydrateContent": "11 g",
+      "fatContent": "11 g",
+      "proteinContent": "2 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "9.810925 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "800 г свинско месо от плешка",
+      "1 1/2 кг кисело зеле",
+      "1 глава лук",
+      "100 мл. олио",
+      "1 с.л. червен пипер",
+      "сол",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Свинската плешка (800 г) се измива, нарязва се и се запържва в малко олио от всички страни, докато промени цвета си. След това се изважда и в същата мазнина се запържва нарязаният на ситни кубчета лук (1 глава). Прибавя се червеният пипер (1 с.л.), месото се връща обратно и се залива с гореща вода. Оставя се да ври на умерен огън до пълното омекване на месото.Зелето (1 1/2 кг) се почиства от твърдите части и се нарязва на тънки ивици. Изсипва се в тава заедно с останалата част от мазнината и се задушава във фурната до омекване. Накрая се прибавят свареното месо и солта и ястието се слага отново във фурната да се пече до готовност. По желание се поръсва с черен пипер."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "свинско месо от плешка",
+      "qty": "800 г",
+      "id": 27
+    },
+    {
+      "name": "кисело зеле",
+      "qty": "1 1/2 кг",
+      "id": 94
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "олио",
+      "qty": "100 мл.",
+      "id": 4
+    },
+    {
+      "name": "червен пипер",
+      "qty": "1 с.л.",
+      "id": 20
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

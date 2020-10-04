@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Питки с грис и бяло брашно (със суха мая)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pitki-s-gris-4-[2459].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pitki-s-gris-4-[2459].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pitki-s-gris-4-[2459].jpg"
+    ],
+    "datePublished": "2013-04-23",
+    "cookTime": "PT3H20M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Хлебни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "308 calories",
+      "carbohydrateContent": "62 g",
+      "fatContent": "1 g",
+      "proteinContent": "9 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.6406875 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "450 г бяло брашно",
+      "200 г грис",
+      "2 1/2 ч.л. суха мая",
+      "1 1/2 ч.л. захар",
+      "1 1/2 ч.л. сол",
+      "250 мл. вода",
+      "1 с.л. олио"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "В тавичката на хлебопекарната се слагат продуктите в реда, указан от производителя: водата (250 мл.), брашното (450 г), грисът (200 г), солта (1 1/2 ч.л.), захарта (1 1/2 ч.л.) и най-накрая сухата мая (2 1/2 ч.л.). Машината за хляб се включва в режим на месене и втасване на тесто за хляб. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "След края на програмата тестото се изважда и се разделя на 8 части. От всяка от тях се оформя топка, която се намазва отгоре с олио и се слага върху тавичка, покрита с хартия за печене. Питките се покриват с фолио и се оставят на топло за половин час. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Пекат се 25 минути на 200 градуса, като фурната трябва да е загрята предварително."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Резултатът е питки с хрупкава коричка, които са идеални за сандвичи."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "бяло брашно",
+      "qty": "450 г",
+      "id": 7
+    },
+    {
+      "name": "грис",
+      "qty": "200 г",
+      "id": 140
+    },
+    {
+      "name": "суха мая",
+      "qty": "2 1/2 ч.л.",
+      "id": 52
+    },
+    {
+      "name": "захар",
+      "qty": "1 1/2 ч.л.",
+      "id": 9
+    },
+    {
+      "name": "сол",
+      "qty": "1 1/2 ч.л.",
+      "id": 1
+    },
+    {
+      "name": "вода",
+      "qty": "250 мл.",
+      "id": 11
+    },
+    {
+      "name": "олио",
+      "qty": "1 с.л.",
+      "id": 4
+    }
+  ]
+}

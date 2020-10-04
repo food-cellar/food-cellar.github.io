@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Лесен сандвич с царевица и риба тон",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/lesen-sandvich-s-carevica-i-riba-ton-1-[1133].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/lesen-sandvich-s-carevica-i-riba-ton-1-[1133].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/lesen-sandvich-s-carevica-i-riba-ton-1-[1133].jpg"
+    ],
+    "datePublished": "2010-11-27",
+    "cookTime": "PT0H10M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Сандвичи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "373 calories",
+      "carbohydrateContent": "31 g",
+      "fatContent": "13 g",
+      "proteinContent": "30 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "9.78486 g",
+      "cholesterolContent": "15 mg"
+    },
+    "recipeIngredient": [
+      "1  франзела",
+      "1 консерва риба тон",
+      "1/2 консерва царевица",
+      "4 листа айсберг",
+      "2 с.л. майонеза",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Хлябът (1 бр) се разрязва на две по дължина и получените продълговати питки се разрязват на широчина, за да се постави плънка в тях. Консервите риба тон (1 консерва) и царевица (1/2 консерва) се смесват, овкусяват със сол и майонеза (2 с.л.) и с тази плънка се пълнят сандвичите, предварително украсени с листа от салата айсберг (4 листа). Сандвичите се сервират веднага, а няй-важното условие, за да бъдат вкусни, е хлябът да е пресен. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "франзела",
+      "qty": "1",
+      "id": 249
+    },
+    {
+      "name": "риба тон",
+      "qty": "1 консерва",
+      "id": 127
+    },
+    {
+      "name": "царевица",
+      "qty": "1/2 консерва",
+      "id": 78
+    },
+    {
+      "name": "айсберг",
+      "qty": "4 листа",
+      "id": 101
+    },
+    {
+      "name": "майонеза",
+      "qty": "2 с.л.",
+      "id": 80
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

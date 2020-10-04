@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Зелена салата с риба тон и царевица",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zelena-salata-s-riba-ton-2-[266].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zelena-salata-s-riba-ton-2-[266].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zelena-salata-s-riba-ton-2-[266].jpg"
+    ],
+    "datePublished": "2010-10-09",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "229 calories",
+      "carbohydrateContent": "23 g",
+      "fatContent": "14 g",
+      "proteinContent": "7 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "10.86933 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1/2  зелена салата",
+      "1  домат",
+      "50 г царевица",
+      "1 консерва  риба тон",
+      "2 с.л. зехтин",
+      "1 с.л. лимонов сок",
+      "сол",
+      "3 листенца мента"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Зелената салата (1/2 бр) се накъсва. Посолява се и се поръсва със зехтина (2 с.л.) и лимоновия сок (1 с.л.). Разбърква се и се слага в салатена чиния. Върху нея в средата се слагат царевичните зрънца (50 г), а върху тях рибата тон (1 консерва). По средата се поставя черната маслина. Доматът се нарязва на полукръгчета, които се нареждат отстрани на салатата. Подходящи напитки за нея са ракия, узо, водка, мастика."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "зелена салата",
+      "qty": "1/2",
+      "id": 87
+    },
+    {
+      "name": "домат",
+      "qty": "1",
+      "id": 15
+    },
+    {
+      "name": "царевица",
+      "qty": "50 г",
+      "id": 78
+    },
+    {
+      "name": "риба тон",
+      "qty": "1 консерва",
+      "id": 127
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "мента",
+      "qty": "3 листенца",
+      "id": 90
+    }
+  ]
+}

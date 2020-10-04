@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Зелена салата с орехи, авокадо и синьо сирене",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zelena-salata-s-orehi-avokado-i-sinioo-sirene-1-[2081].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zelena-salata-s-orehi-avokado-i-sinioo-sirene-1-[2081].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zelena-salata-s-orehi-avokado-i-sinioo-sirene-1-[2081].jpg"
+    ],
+    "datePublished": "2012-09-16",
+    "cookTime": "PT0H10M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "273 calories",
+      "carbohydrateContent": "9 g",
+      "fatContent": "24 g",
+      "proteinContent": "7 g",
+      "saturatedFatContent": "5 g",
+      "unsaturatedFatContent": "17.5326775 g",
+      "cholesterolContent": "9 mg"
+    },
+    "recipeIngredient": [
+      "1 връзка зелена салата",
+      "1  авокадо",
+      "50 г синьо сирене",
+      "40 г орехи",
+      "4 с.л. зехтин",
+      "2 с.л. лимонов сок",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Зелената салата (1 връзка) се измива, подсушава и накъсва на едри парчета. Авокадото (1 бр) се измива, обелва, костилката му се отстранява и ядливата му част се реже на полумесеци, след което веднага се напръсква с лимонов сок (2 с.л.), за да не промени цвета си. Салатата и авокадото се изсипват в купа и се овкусяват със зехтин (4 с.л.) и сол. Разбъркват се старателно и се поръсват с препечени орехи (40 г) и парченца синьо сирене (50 г)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "зелена салата",
+      "qty": "1 връзка",
+      "id": 87
+    },
+    {
+      "name": "авокадо",
+      "qty": "1",
+      "id": 83
+    },
+    {
+      "name": "синьо сирене",
+      "qty": "50 г",
+      "id": 108
+    },
+    {
+      "name": "орехи",
+      "qty": "40 г",
+      "id": 31
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "2 с.л.",
+      "id": 17
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

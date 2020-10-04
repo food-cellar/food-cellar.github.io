@@ -1,0 +1,110 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печено пиле по ловджийски с наденица на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/2546-zaeshko-s-bamia-po-lovdjiiski-1-[1759].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/2546-zaeshko-s-bamia-po-lovdjiiski-1-[1759].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/2546-zaeshko-s-bamia-po-lovdjiiski-1-[1759].jpg"
+    ],
+    "datePublished": "2013-06-04",
+    "cookTime": "PT1H20M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "664 calories",
+      "carbohydrateContent": "22 g",
+      "fatContent": "42 g",
+      "proteinContent": "49 g",
+      "saturatedFatContent": "11 g",
+      "unsaturatedFatContent": "25.9133925 g",
+      "cholesterolContent": "177 mg"
+    },
+    "recipeIngredient": [
+      "1  пиле",
+      "150 г наденица",
+      "1/2 кг бамя",
+      "2  червени чушки",
+      "2  моркова",
+      "2 глави лук",
+      "1  чесън",
+      "2 с.л. олио",
+      "лют пипер",
+      "сол",
+      "чубрица"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилето (1 бр) се сварява в тенджера под налягане (около 30 минути след завъртане на клапана), след което се отцежда, охлажда, обезкостява и се нарязва на малки парченца. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Наденицата (150 г) се нарязва на кръгчета, а бамята (1/2 кг) на малки парчета.  Чушките (2 бр), морковите (2 бр), чесънът (1 бр) и лукът (2 глави) се нарязват на ситно и се задушават в малко олио. Поставят се в тава, заедно със свареното месо, бамята и наденицата и се поръсват с малко лют пипер или люта сушена чушка, чубрица и сол."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Ястието се пече на фурна за 30-40 минути."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пиле",
+      "qty": "1",
+      "id": 111
+    },
+    {
+      "name": "наденица",
+      "qty": "150 г",
+      "id": 148
+    },
+    {
+      "name": "бамя",
+      "qty": "1/2 кг",
+      "id": 255
+    },
+    {
+      "name": "червени чушки",
+      "qty": "2",
+      "id": 18
+    },
+    {
+      "name": "моркова",
+      "qty": "2",
+      "id": 13
+    },
+    {
+      "name": "лук",
+      "qty": "2 глави",
+      "id": 3
+    },
+    {
+      "name": "чесън",
+      "qty": "1",
+      "id": 6
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    },
+    {
+      "name": "лют пипер",
+      "qty": "Parsing error",
+      "id": 132
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "чубрица",
+      "qty": "Parsing error",
+      "id": 36
+    }
+  ]
+}

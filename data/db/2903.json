@@ -1,0 +1,100 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пъстра зелена салата с маслини и сирене фета",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pustra-zelena-salata-s-maslini-i-sirene-feta-1-[2903].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pustra-zelena-salata-s-maslini-i-sirene-feta-1-[2903].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pustra-zelena-salata-s-maslini-i-sirene-feta-1-[2903].jpg"
+    ],
+    "datePublished": "2014-04-08",
+    "cookTime": "PT0H15M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "316 calories",
+      "carbohydrateContent": "13 g",
+      "fatContent": "27 g",
+      "proteinContent": "7 g",
+      "saturatedFatContent": "12 g",
+      "unsaturatedFatContent": "12.7157975 g",
+      "cholesterolContent": "55 mg"
+    },
+    "recipeIngredient": [
+      "1 връзка зелена салата",
+      "1  жълта чушка",
+      "1  домат",
+      "100 г чери домати",
+      "1 глава червен лук",
+      "100 г маслини",
+      "200 г сирене фета",
+      "4 с.л. зехтин",
+      "2 с.л. лимонов сок",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Всички зеленчуци се измиват, почистват и подсушават."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Зелената салата (1 връзка) се накъсва и поставя в дълбока купа. Към нея се добавят обезкостените и нарязани на колелца маслини (100 г), нарязаната на кубчета чушка (1 бр), разполовените чери домати (100 г) и нарязаният на кубчета домат (1 бр). Прибавя се и нарязаният на колелца червен лук (1 глава). Салатата се овкусява с лимонов сок (2 с.л.), сол и зехтин (4 с.л.) и се разбърква. Накрая отгоре се поставят кубчета сирене фета (200 г) и салатата се сервира."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "зелена салата",
+      "qty": "1 връзка",
+      "id": 87
+    },
+    {
+      "name": "жълта чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "домат",
+      "qty": "1",
+      "id": 15
+    },
+    {
+      "name": "чери домати",
+      "qty": "100 г",
+      "id": 15
+    },
+    {
+      "name": "червен лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "маслини",
+      "qty": "100 г",
+      "id": 50
+    },
+    {
+      "name": "сирене фета",
+      "qty": "200 г",
+      "id": 150
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "2 с.л.",
+      "id": 17
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

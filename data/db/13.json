@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печена цяла риба скумрия на фурна с гарнитура от варена паста с форма на ориз (орзо)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/skumriia-na-skara-2-[13].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/skumriia-na-skara-2-[13].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/skumriia-na-skara-2-[13].jpg"
+    ],
+    "datePublished": "2010-11-18",
+    "cookTime": "PT0H30M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "448 calories",
+      "carbohydrateContent": "39 g",
+      "fatContent": "19 g",
+      "proteinContent": "27 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "12.36568 g",
+      "cholesterolContent": "78 mg"
+    },
+    "recipeIngredient": [
+      "2  скумрии",
+      "100 г паста с форма на ориз",
+      "2 шайби лимон",
+      "2  лозови листа",
+      "стръкче копър",
+      "сол",
+      "1 с.л. зехтин",
+      "2 с.л. лимонов сок"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Рибата (2 бр) се намазва отвътре и отвън със сол и лимонов сок и се оставя на студено за 2 часа."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Пече се в предварително загрята фурна до готовност."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Пастата се сварява във вряща подсолена вода. Отцежда се и се добавя зехтина (1 с.л.)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Двете скумрии се настаняват в плато върху лозови листа, а помежду им се слага овкусената паста, декорирана със стръкче копър. Лимоновите шайби се поставят между главите и опашките на скумриите."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "скумрии",
+      "qty": "2",
+      "id": 287
+    },
+    {
+      "name": "паста с форма на ориз",
+      "qty": "100 г",
+      "id": 55
+    },
+    {
+      "name": "лимон",
+      "qty": "2 шайби",
+      "id": 43
+    },
+    {
+      "name": "лозови листа",
+      "qty": "2",
+      "id": 240
+    },
+    {
+      "name": "копър",
+      "qty": "стръкче",
+      "id": 28
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "зехтин",
+      "qty": "1 с.л.",
+      "id": 10
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "2 с.л.",
+      "id": 17
+    }
+  ]
+}

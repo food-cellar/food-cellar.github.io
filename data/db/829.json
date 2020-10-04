@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Яйчен пастет - разядка с извара и яйца",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/iaichen-pastet-s-izvara-1-[829].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/iaichen-pastet-s-izvara-1-[829].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/iaichen-pastet-s-izvara-1-[829].jpg"
+    ],
+    "datePublished": "2013-02-06",
+    "cookTime": "PT0H30M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "159 calories",
+      "carbohydrateContent": "2 g",
+      "fatContent": "11 g",
+      "proteinContent": "10 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "7.2575216666667 g",
+      "cholesterolContent": "189 mg"
+    },
+    "recipeIngredient": [
+      "250 г извара",
+      "6  яйца",
+      "6 с.л. зехтин",
+      "1 скилидка чесън",
+      "2 с.л. лимонов сок",
+      "сол",
+      "1 с.л. червен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Яйцата (6 бр) се сваряват. Поставят се в пасатор заедно с изварата (250 г), зехтина (6 с.л.), чесънa (1 скилидка), лимоновия сок (2 с.л.), солта и червения пипер. Пасира се първо на ниски обороти, а след това на пълна мощност. Ако сместа е прекалено суха и не се разбива, се добавя още зехтин и малко вода."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "извара",
+      "qty": "250 г",
+      "id": 92
+    },
+    {
+      "name": "яйца",
+      "qty": "6",
+      "id": 5
+    },
+    {
+      "name": "зехтин",
+      "qty": "6 с.л.",
+      "id": 10
+    },
+    {
+      "name": "чесън",
+      "qty": "1 скилидка",
+      "id": 6
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "2 с.л.",
+      "id": 17
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "червен пипер",
+      "qty": "1 с.л.",
+      "id": 20
+    }
+  ]
+}

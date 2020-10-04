@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Панирани червени чушки бюрек с яйца и сирене на тиган - класическа рецепта",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/panirani-cherveni-chushki-burek-klasicheska-recepta-1-[3191].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/panirani-cherveni-chushki-burek-klasicheska-recepta-1-[3191].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/panirani-cherveni-chushki-burek-klasicheska-recepta-1-[3191].jpg"
+    ],
+    "datePublished": "2017-04-10",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "729 calories",
+      "carbohydrateContent": "40 g",
+      "fatContent": "55 g",
+      "proteinContent": "21 g",
+      "saturatedFatContent": "16 g",
+      "unsaturatedFatContent": "35.0347775 g",
+      "cholesterolContent": "254 mg"
+    },
+    "recipeIngredient": [
+      "8  печени чушки",
+      "300 г сирене",
+      "4  яйца",
+      "8 с.л. брашно",
+      "150 мл. олио",
+      "магданоз"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Половината от яйцата с еразбивта с вилица и се смесват с натрошеното сирене. С получената плънка се напълват подсушените печени белени червени чушки. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "След това се разбиват останалите яйца, нужни за панировката. В друга купичка се поставя брашното."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Всяка една от чушките се топи от двете страни първо в яйчената смес, а после в брашното. Веднага след това се слага в нагорещен тиган с олио."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Чушките се запържват до златисто на силен огън за около 1-2 минути всяка, след което се сервират горещи и поръсени с пресен магданоз."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "печени чушки",
+      "qty": "8",
+      "id": 18
+    },
+    {
+      "name": "сирене",
+      "qty": "300 г",
+      "id": 32
+    },
+    {
+      "name": "яйца",
+      "qty": "4",
+      "id": 5
+    },
+    {
+      "name": "брашно",
+      "qty": "8 с.л.",
+      "id": 7
+    },
+    {
+      "name": "олио",
+      "qty": "150 мл.",
+      "id": 4
+    },
+    {
+      "name": "магданоз",
+      "qty": "Parsing error",
+      "id": 12
+    }
+  ]
+}

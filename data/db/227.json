@@ -1,0 +1,80 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Запържени задушени пилешки гърди със сос от гъби, сметана и синьо сирене на тиган",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pile-s-gubi-smetana-i-sinioo-sirene-2-[227].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pile-s-gubi-smetana-i-sinioo-sirene-2-[227].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pile-s-gubi-smetana-i-sinioo-sirene-2-[227].jpg"
+    ],
+    "datePublished": "2010-12-19",
+    "cookTime": "PT0H40M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "445 calories",
+      "carbohydrateContent": "5 g",
+      "fatContent": "28 g",
+      "proteinContent": "43 g",
+      "saturatedFatContent": "12 g",
+      "unsaturatedFatContent": "12.92599 g",
+      "cholesterolContent": "122 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг пилешки гърди",
+      "200 г гъби",
+      "200 г синьо сирене",
+      "6 с.л. сметана",
+      "50 г орехи",
+      "олио"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилешкото месо (1/2 кг) се нарязва на парчета и се задушава в тиган с малко олио. Гъбите (200 г) се нарязват и се добавят в тигана с пилешкото. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "След като месото е почти готово, а гъбите са омекнали, се добавят натрошеното наситно синьо сирене (200 г) и сметаната за готвене (6 с.л.). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Ястието е готово, когато сосът към пилето се е сгъстил, а сиренето е напълно разтопено. Поднася се поръсено с натрошени орехи (50 г).  "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешки гърди",
+      "qty": "1/2 кг",
+      "id": 79
+    },
+    {
+      "name": "гъби",
+      "qty": "200 г",
+      "id": 37
+    },
+    {
+      "name": "синьо сирене",
+      "qty": "200 г",
+      "id": 108
+    },
+    {
+      "name": "сметана",
+      "qty": "6 с.л.",
+      "id": 19
+    },
+    {
+      "name": "орехи",
+      "qty": "50 г",
+      "id": 31
+    },
+    {
+      "name": "олио",
+      "qty": "Parsing error",
+      "id": 4
+    }
+  ]
+}

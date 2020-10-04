@@ -1,0 +1,60 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Коктейл Operation Recoverer с водка, ликьор от праскови и сок от мандарини",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kokteil--1-[1711].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kokteil--1-[1711].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kokteil--1-[1711].jpg"
+    ],
+    "datePublished": "2012-07-26",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Коктейли",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "387 calories",
+      "carbohydrateContent": "37 g",
+      "fatContent": "0 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.0408 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "50 мл. водка",
+      "50 мл. ликьор от праскови",
+      "100 мл. сок от мандарина",
+      "1 с.л. гренадин"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Водката (50 мл.), ликьорът (50 мл.) и сокът от мандарина (100 мл.) се разбиват в шейкър, пълен с лед. Изсипват се в широка чаша, пълна с лед, и се капва гренадинът, който е по-тежък и отива на дъното, образувайки червен градиент."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "водка",
+      "qty": "50 мл.",
+      "id": 154
+    },
+    {
+      "name": "ликьор от праскови",
+      "qty": "50 мл.",
+      "id": 320
+    },
+    {
+      "name": "сок от мандарина",
+      "qty": "100 мл.",
+      "id": 397
+    },
+    {
+      "name": "гренадин",
+      "qty": "1 с.л.",
+      "id": 222
+    }
+  ]
+}

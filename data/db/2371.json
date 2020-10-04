@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Прясно постно зеле на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/priasno-zele-na-furna-2-[2371].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/priasno-zele-na-furna-2-[2371].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/priasno-zele-na-furna-2-[2371].jpg"
+    ],
+    "datePublished": "2013-02-25",
+    "cookTime": "PT0H40M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "47 calories",
+      "carbohydrateContent": "7 g",
+      "fatContent": "2 g",
+      "proteinContent": "1 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.8639075 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1 глава зеле",
+      "2 с.л. олио",
+      "1 ч.л. черен пипер на зърна",
+      "1 с.л. червен пипер",
+      "1  дафинов лист",
+      "1 ч.ч. вода",
+      "1 с.л. сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Зелето (1 глава) се нарязва на тънки ивички и се размачква с подправките - сол (1 с.л.), червен пипер (1 с.л.) и черен пипер (1 ч.л.). Слага се на котлона в дълбока тенджера и се добавят вода (1 ч.ч.), олио (2 с.л.) и дафинов лист (1 бр). Бърка се за около 10 минути. След като омекне, зелето се слага във фурната на 190 градуса за половин час."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "зеле",
+      "qty": "1 глава",
+      "id": 94
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    },
+    {
+      "name": "черен пипер на зърна",
+      "qty": "1 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "червен пипер",
+      "qty": "1 с.л.",
+      "id": 20
+    },
+    {
+      "name": "дафинов лист",
+      "qty": "1",
+      "id": 70
+    },
+    {
+      "name": "вода",
+      "qty": "1 ч.ч.",
+      "id": 11
+    },
+    {
+      "name": "сол",
+      "qty": "1 с.л.",
+      "id": 1
+    }
+  ]
+}

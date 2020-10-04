@@ -1,0 +1,112 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Яйчени крокети",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/iaicheni_kroketi_1-[766].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/iaicheni_kroketi_1-[766].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/iaicheni_kroketi_1-[766].jpg"
+    ],
+    "datePublished": "2010-10-22",
+    "cookTime": "PT0H30M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "967 calories",
+      "carbohydrateContent": "78 g",
+      "fatContent": "56 g",
+      "proteinContent": "35 g",
+      "saturatedFatContent": "19 g",
+      "unsaturatedFatContent": "31.27028 g",
+      "cholesterolContent": "628 mg"
+    },
+    "recipeIngredient": [
+      "2 с.л. масло",
+      "4 с.л. брашно",
+      "1 ч.ч. прясно мляко",
+      "сол",
+      "черен пипер",
+      "кимион",
+      "1 с.л. лимонов сок",
+      "6  яйца",
+      "3 с.л. сирене",
+      "6 с.л. хлебни трохи",
+      "6 с.л. олио",
+      "50 г галета"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Маслото (2 с.л.) се загрява в тиган и в него се пасира брашното (4 с.л.), докато стане златисто. Налива се прясното мляко (1 ч.ч.) и се бърка, докато сосът стане гладък. Подправя се с посочените подправки."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Яйцата (6 бр) се сваряват до твърдо, след което се обелват и намачкват с вилица. Смесват се с настърганото сирене (3 с.л.), хлебните трохи (6 с.л.), лимоновия сок (1 с.л.) и приготвения сос бешамел. От получената смес се оформят крокети. (За да станат гладки, ръцете трябва да се мокрят в студена вода.) Крокетите се овалват в галета (50 г) и се пържат в горещото олио (6 с.л.) от всички страни."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "масло",
+      "qty": "2 с.л.",
+      "id": 8
+    },
+    {
+      "name": "брашно",
+      "qty": "4 с.л.",
+      "id": 7
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "1 ч.ч.",
+      "id": 14
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "кимион",
+      "qty": "Parsing error",
+      "id": 42
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    },
+    {
+      "name": "яйца",
+      "qty": "6",
+      "id": 5
+    },
+    {
+      "name": "сирене",
+      "qty": "3 с.л.",
+      "id": 32
+    },
+    {
+      "name": "хлебни трохи",
+      "qty": "6 с.л.",
+      "id": 66
+    },
+    {
+      "name": "олио",
+      "qty": "6 с.л.",
+      "id": 4
+    },
+    {
+      "name": "галета",
+      "qty": "50 г",
+      "id": 58
+    }
+  ]
+}

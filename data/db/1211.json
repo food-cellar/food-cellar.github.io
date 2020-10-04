@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пълнени тиквички с праз, яйца и сирене на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pulneni-tikvichki-s-praz-iaica-i-sirene-1-[1211].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pulneni-tikvichki-s-praz-iaica-i-sirene-1-[1211].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pulneni-tikvichki-s-praz-iaica-i-sirene-1-[1211].jpg"
+    ],
+    "datePublished": "2010-12-07",
+    "cookTime": "PT0H35M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "291 calories",
+      "carbohydrateContent": "11 g",
+      "fatContent": "20 g",
+      "proteinContent": "16 g",
+      "saturatedFatContent": "10 g",
+      "unsaturatedFatContent": "7.36088 g",
+      "cholesterolContent": "240 mg"
+    },
+    "recipeIngredient": [
+      "2  тиквички",
+      "1/2 стрък праз",
+      "120 г сирене",
+      "2  яйца",
+      "1 с.л. зехтин"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Тиквичките (2 бр) се измиват, разполовяват по дължина и издълбават, за да се получат лодки. Празът (1/2 стрък) се нарязва на колелца и се смесва с натрошеното сирене (120 г) и яйцата (2 бр). С тази смес се пълнят тиквичките, поставят се в намазнена тавичка и се изпичат на фурна до златисто."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "тиквички",
+      "qty": "2",
+      "id": 39
+    },
+    {
+      "name": "праз",
+      "qty": "1/2 стрък",
+      "id": 51
+    },
+    {
+      "name": "сирене",
+      "qty": "120 г",
+      "id": 32
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "зехтин",
+      "qty": "1 с.л.",
+      "id": 10
+    }
+  ]
+}

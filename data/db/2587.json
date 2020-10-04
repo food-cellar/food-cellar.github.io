@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пролетна чорба с коприва",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/proletna-chorba-s-kopriva-3-[2587].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/proletna-chorba-s-kopriva-3-[2587].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/proletna-chorba-s-kopriva-3-[2587].jpg"
+    ],
+    "datePublished": "2013-06-14",
+    "cookTime": "PT0H20M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "97 calories",
+      "carbohydrateContent": "13 g",
+      "fatContent": "3 g",
+      "proteinContent": "3 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "2.34821 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "400 г коприва",
+      "2  моркова",
+      "1 глава лук",
+      "2 скилидки чесън",
+      "корени от магданоз",
+      "1 стрък целина",
+      "2 с.л. олио",
+      "сол",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Морковите (2 бр) се настъргват на ситното ренде и се задушават в горещото олио под капак. Прибавят се ситно нарязаният лук (1 глава), наситнените корени от магданоз, нарязаното стръкче целина. Залива се вода и всичко това се вари до омекването на корените. Супата се пасира и връща на котлона да поври 2-3 минути. Овкусява се с подправките и солта, както и със счукания чесън (2 скилидки). Отделно копривата (400 г) на цели листа се задушава в горещо олио под капак. Супата се поднася гореща, гарнирана със задушена коприва."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "коприва",
+      "qty": "400 г",
+      "id": 130
+    },
+    {
+      "name": "моркова",
+      "qty": "2",
+      "id": 13
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "корени от магданоз",
+      "qty": "Parsing error",
+      "id": 12
+    },
+    {
+      "name": "целина",
+      "qty": "1 стрък",
+      "id": 30
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

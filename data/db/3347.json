@@ -1,0 +1,128 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Крила в медено-пикантен сос от майонеза, лимон, соев сос, чесън и горчица",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/krila-v-medeno-pikanten-sos-ot-maioneza-limon-soev-sos-chesun-i-gorchica-1-[3347].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/krila-v-medeno-pikanten-sos-ot-maioneza-limon-soev-sos-chesun-i-gorchica-1-[3347].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/krila-v-medeno-pikanten-sos-ot-maioneza-limon-soev-sos-chesun-i-gorchica-1-[3347].jpg"
+    ],
+    "datePublished": "2019-02-11",
+    "cookTime": "PT1H15M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "651 calories",
+      "carbohydrateContent": "6 g",
+      "fatContent": "45 g",
+      "proteinContent": "46 g",
+      "saturatedFatContent": "11 g",
+      "unsaturatedFatContent": "28.442669951456 g",
+      "cholesterolContent": "193 mg"
+    },
+    "recipeIngredient": [
+      "1 кг пилешки крилца",
+      "4 скилидки чесън",
+      "1 к.ч. червено вино",
+      "1 к.ч. бира",
+      "2 с.л. кетчуп",
+      "1 с.л. лимонов сок",
+      "4 с.л. майонеза",
+      "1 с.л. горчица",
+      "1 с.л. мед",
+      "1 с.л. сусам",
+      "мащерка",
+      "розмарин",
+      "сол",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилешките крила (1 кг) се почистват и мариноват с бирата (1 к.ч.), виното (1 к.ч.), кетчупа (2 с.л.), лимоновия сок (1 с.л.), малко сол, розмарин, мащерка, черен пипер, горчицата (1 с.л.), майонезата (4 с.л.) и мед (1 с.л.). Оставят се да престоят за едно денонощие в марината."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Маринованите пилешки крилца се нареждат в тава и върху тях се посипва част от марината. Отгоре се покриват с фолио. Пекат се в предварително загрята фурна на 200 градуса за 45-50 минути."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Накрая фолиото се отстранява, намазват се с част от останалата марината и се поръсват със сусам. Връщат се във фурната за още 2-3 минути, като се внимава сусамът да не загори."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешки крилца",
+      "qty": "1 кг",
+      "id": 197
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "червено вино",
+      "qty": "1 к.ч.",
+      "id": 98
+    },
+    {
+      "name": "бира",
+      "qty": "1 к.ч.",
+      "id": 137
+    },
+    {
+      "name": "кетчуп",
+      "qty": "2 с.л.",
+      "id": 193
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    },
+    {
+      "name": "майонеза",
+      "qty": "4 с.л.",
+      "id": 80
+    },
+    {
+      "name": "горчица",
+      "qty": "1 с.л.",
+      "id": 64
+    },
+    {
+      "name": "мед",
+      "qty": "1 с.л.",
+      "id": 38
+    },
+    {
+      "name": "сусам",
+      "qty": "1 с.л.",
+      "id": 113
+    },
+    {
+      "name": "мащерка",
+      "qty": "Parsing error",
+      "id": 75
+    },
+    {
+      "name": "розмарин",
+      "qty": "Parsing error",
+      "id": 77
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

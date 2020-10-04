@@ -1,0 +1,102 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Сос хиляда острова (Thousand Island) с уорчестър, горчица, кетчуп и майонеза",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/sos-hiliada-ostrova--1-[1783].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/sos-hiliada-ostrova--1-[1783].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/sos-hiliada-ostrova--1-[1783].jpg"
+    ],
+    "datePublished": "2012-01-23",
+    "cookTime": "PT0H20M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Сосове",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "84 calories",
+      "carbohydrateContent": "2 g",
+      "fatContent": "7 g",
+      "proteinContent": "2 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "5.1308466343042 g",
+      "cholesterolContent": "62 mg"
+    },
+    "recipeIngredient": [
+      "6 с.л. майонеза",
+      "2 с.л. кетчуп",
+      "1 с.л. горчица",
+      "1 с.л. сос уорчестър",
+      "1 с.л. лимонов сок",
+      "10  черни маслини",
+      "1 щип. сол",
+      "1 щип. червен пипер",
+      "2  яйца"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Сваряват се яйцата (2 бр). Обелват се и заедно с майонезата (6 с.л.), кетчупa (2 с.л.), горчицата (1 с.л.), сосa Уорчестър (1 с.л.), лимоновия сок (1 с.л.) и обезкостените черни маслини (10 бр) се разбиват с помощта на кухненски робот или пасатор до получаване на еднородна смес. Сосът се посолява и се добавя червен пипер. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Може да се съхранява дълго време в стъклен буркан в хладилника."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Сосът Хиляда острова е подходящ за свежи салати."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Прочутият салатен сос е известен повече от сто години. Името му идва от архипелага Хиляда острова между САЩ и Канада в реката Сейнт Лорънс. Нашият екип нарича тази рецепта Хиляда и един острова :)"
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "майонеза",
+      "qty": "6 с.л.",
+      "id": 80
+    },
+    {
+      "name": "кетчуп",
+      "qty": "2 с.л.",
+      "id": 193
+    },
+    {
+      "name": "горчица",
+      "qty": "1 с.л.",
+      "id": 64
+    },
+    {
+      "name": "сос уорчестър",
+      "qty": "1 с.л.",
+      "id": 207
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    },
+    {
+      "name": "черни маслини",
+      "qty": "10",
+      "id": 50
+    },
+    {
+      "name": "сол",
+      "qty": "1 щип.",
+      "id": 1
+    },
+    {
+      "name": "червен пипер",
+      "qty": "1 щип.",
+      "id": 20
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    }
+  ]
+}

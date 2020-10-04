@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата от краставици, скариди и авокадо",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-ot-krastavici-skaridi-i-avokado-5-[1308].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-ot-krastavici-skaridi-i-avokado-5-[1308].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-ot-krastavici-skaridi-i-avokado-5-[1308].jpg"
+    ],
+    "datePublished": "2011-01-30",
+    "cookTime": "PT0H25M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "192 calories",
+      "carbohydrateContent": "8 g",
+      "fatContent": "12 g",
+      "proteinContent": "13 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "8.72819 g",
+      "cholesterolContent": "89 mg"
+    },
+    "recipeIngredient": [
+      "2  краставици",
+      "1  авокадо",
+      "1 ч.ч. скариди",
+      "2 с.л. зехтин",
+      "2 с.л. лимонов сок",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Скаридите (1 ч.ч.) се сваряват в подсолена вода зa десетина минути, докато омекнат. Отцеждат се и се оставят да се охладят. Краставиците (2 бр) се обелват и нарязват на едри кубчета. Авокадото (1 бр) също се обелва, костилката му се отстранява и се нарязва на кубчета. Полива се с лимонов сок (2 с.л.), за да не промени цвета си. Смесва се с краставиците и скаридите в голяма купа и получената салата се овкусява със зехтин (2 с.л.) и сол."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "краставици",
+      "qty": "2",
+      "id": 44
+    },
+    {
+      "name": "авокадо",
+      "qty": "1",
+      "id": 83
+    },
+    {
+      "name": "скариди",
+      "qty": "1 ч.ч.",
+      "id": 104
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "2 с.л.",
+      "id": 17
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

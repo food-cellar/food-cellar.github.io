@@ -1,0 +1,124 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Класическа картофена мусака с кайма и заливка с кисело мляко",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/klasicheska-kartofena-musaka-s-kaima-i-zalivka-s-kiselo-mliako-1-[2960].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/klasicheska-kartofena-musaka-s-kaima-i-zalivka-s-kiselo-mliako-1-[2960].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/klasicheska-kartofena-musaka-s-kaima-i-zalivka-s-kiselo-mliako-1-[2960].jpg"
+    ],
+    "datePublished": "2014-10-21",
+    "cookTime": "PT1H0M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "390 calories",
+      "carbohydrateContent": "18 g",
+      "fatContent": "25 g",
+      "proteinContent": "21 g",
+      "saturatedFatContent": "9 g",
+      "unsaturatedFatContent": "12.8558125 g",
+      "cholesterolContent": "124 mg"
+    },
+    "recipeIngredient": [
+      "600 г картофи",
+      "800 г кайма",
+      "1 глава лук",
+      "2  домата",
+      "4 скилидки чесън",
+      "2 с.л. олио",
+      "1 ч.л. червен пипер",
+      "1 ч.л. черен пипер",
+      "1 ч.л. сол",
+      "300 г кисело мляко",
+      "2  яйца",
+      "1 щип. сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Картофите (600 г) се нарязват на малки кубчета. Лукът (1 глава) също се нарязва на ситни кубчета и се задушава в олиото (2 с.л.) до омекване. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "След това се прибавя каймата (600 г) и се пържи, докато тя стане на трохи."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Накрая се прибавят настърганите домати (2 бр) и подправките. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Ястието се оставя да къкри още няколко минути. Сместа се прибавя към картофите и всичко се изсипва в тавичка. Залива се с вода почти до нивото на картофите и се пече във фурна до извирането &#1117;. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Накрая се залива с разбитите яйца (2 бр), кисело мляко (300 г) и сол (1 щип.)и се запича за още 20 минути, докато заливката хване коричка."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "картофи",
+      "qty": "600 г",
+      "id": 16
+    },
+    {
+      "name": "кайма",
+      "qty": "800 г",
+      "id": 54
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "домата",
+      "qty": "2",
+      "id": 15
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    },
+    {
+      "name": "червен пипер",
+      "qty": "1 ч.л.",
+      "id": 20
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "1 ч.л.",
+      "id": 1
+    },
+    {
+      "name": "кисело мляко",
+      "qty": "300 г",
+      "id": 21
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "сол",
+      "qty": "1 щип.",
+      "id": 1
+    }
+  ]
+}

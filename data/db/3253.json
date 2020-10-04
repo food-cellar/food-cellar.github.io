@@ -1,0 +1,68 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Лесна лютеница без патладжани",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/lesna-lutenica-bez-patladjani-1-[3253].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/lesna-lutenica-bez-patladjani-1-[3253].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/lesna-lutenica-bez-patladjani-1-[3253].jpg"
+    ],
+    "datePublished": "2017-10-02",
+    "cookTime": "PT2H0M",
+    "recipeYield": "16 servings",
+    "recipeCategory": "Други",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "242 calories",
+      "carbohydrateContent": "27 g",
+      "fatContent": "15 g",
+      "proteinContent": "4 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "12.1938125 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "5 кг червени чушки",
+      "2 1/2 кг домати",
+      "250 мл. олио",
+      "50 г сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "За направата на тази лесна лютеница, първо се попарват доматите (2 1/2 кг) и се обелват. След това чушките (5 кг) се почистват от семената и също се попарват, за 2-3 минути, докато омекнат. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Зеленчуците се прекарат през месомелачка и се смесват в дълбока тенджера. Прибавят се олиото (250 мл.) и солта (50 г) и се варят на слаб огън, като периодично се разбъркват. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Готви се докато лютеницата се сгъсти, до желаната консистенция. Щом сместа поизстине се прехвърля в бурканчета, които се затварят и се стерилизират за 20 минути."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "червени чушки",
+      "qty": "5 кг",
+      "id": 18
+    },
+    {
+      "name": "домати",
+      "qty": "2 1/2 кг",
+      "id": 15
+    },
+    {
+      "name": "олио",
+      "qty": "250 мл.",
+      "id": 4
+    },
+    {
+      "name": "сол",
+      "qty": "50 г",
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печена агнешка плешка с гъби и синьо сирене на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/agneshko-s-gubi-1-[616].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/agneshko-s-gubi-1-[616].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/agneshko-s-gubi-1-[616].jpg"
+    ],
+    "datePublished": "2011-04-04",
+    "cookTime": "PT3H0M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "951 calories",
+      "carbohydrateContent": "13 g",
+      "fatContent": "70 g",
+      "proteinContent": "60 g",
+      "saturatedFatContent": "29 g",
+      "unsaturatedFatContent": "34.4017425 g",
+      "cholesterolContent": "228 mg"
+    },
+    "recipeIngredient": [
+      "1  агнешка плешка",
+      "2 кг печурки",
+      "1 връзка пресен лук",
+      "1 връзка пресен чесън",
+      "1 връзка магданоз",
+      "1 глава лук",
+      "1 ч.ч. бяло вино",
+      "30 г синьо сирене",
+      "сол",
+      "2 с.л. олио",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Агнешката плешка се натрива със сол и черен пипер. Слага се в тава, покрива се с фолио и се пече до пълна готовност. В образувалия се при печенето сос в тенджера под капак на слаб огън се задушават нарязаните на полумесеци гъби (2 кг) със ситно нарязаните лук (1 глава), чесън (1 връзка) и магданоз (1 връзка). Щом гъбите поомекнат, се налива виното (1 ч.ч.) и се оставят да поврят, докато течността се изпари наполовина. Тогава се добавя натрошеното синьо сирене (30 г), разбърква се и тенджерата остава на котлона, докато то се разтопи. Месото се поднася гарнирано с гъбите."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "агнешка плешка",
+      "qty": "1",
+      "id": 316
+    },
+    {
+      "name": "печурки",
+      "qty": "2 кг",
+      "id": 62
+    },
+    {
+      "name": "пресен лук",
+      "qty": "1 връзка",
+      "id": 24
+    },
+    {
+      "name": "пресен чесън",
+      "qty": "1 връзка",
+      "id": 6
+    },
+    {
+      "name": "магданоз",
+      "qty": "1 връзка",
+      "id": 12
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "бяло вино",
+      "qty": "1 ч.ч.",
+      "id": 41
+    },
+    {
+      "name": "синьо сирене",
+      "qty": "30 г",
+      "id": 108
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

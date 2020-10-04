@@ -1,0 +1,104 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Супа от розова треска",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/supa-ot-rozova-treska-3-[60].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/supa-ot-rozova-treska-3-[60].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/supa-ot-rozova-treska-3-[60].jpg"
+    ],
+    "datePublished": "2010-11-13",
+    "cookTime": "PT0H35M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "92 calories",
+      "carbohydrateContent": "3 g",
+      "fatContent": "2 g",
+      "proteinContent": "14 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.8057275 g",
+      "cholesterolContent": "32 mg"
+    },
+    "recipeIngredient": [
+      "300 г треска",
+      "1 глава лук",
+      "3 стръка пресен лук",
+      "3 скилидки чесън",
+      "сол",
+      "черен пипер",
+      "дафинов лист",
+      "дивесил",
+      "1 с.л. олио",
+      "1 1/2 л. вода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Лукът (300 г) се нарязва на ситно и се задушава в загрятото олио. Щом омекне, се добавя рибата (300 г), нарязана на малки парченца."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Задушава се 2-3 минути и се налива вода. Оставя се на котлона да поври 5 минути."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Посолява се, подправя се с черния пипер, дивесила и дафиновия лист. Ври още 2-3 минути. Прибавя се счуканият със сол чесън (3 скилидки) и се разбърква. Поднася се гореща, поръсена с нарязан на ситно зелен лук (3 стръка)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "треска",
+      "qty": "300 г",
+      "id": 323
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "пресен лук",
+      "qty": "3 стръка",
+      "id": 24
+    },
+    {
+      "name": "чесън",
+      "qty": "3 скилидки",
+      "id": 6
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "дафинов лист",
+      "qty": "Parsing error",
+      "id": 70
+    },
+    {
+      "name": "дивесил",
+      "qty": "Parsing error",
+      "id": 167
+    },
+    {
+      "name": "олио",
+      "qty": "1 с.л.",
+      "id": 4
+    },
+    {
+      "name": "вода",
+      "qty": "1 1/2 л.",
+      "id": 11
+    }
+  ]
+}

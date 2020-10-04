@@ -1,0 +1,106 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Домашен маринован патладжан с чесън, оцет и магданоз в бурканчета за зимата (зимнина)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/domashen-marinovan-patladjan-v-burkancheta-za-zimata-zimnina-1-[3343].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/domashen-marinovan-patladjan-v-burkancheta-za-zimata-zimnina-1-[3343].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/domashen-marinovan-patladjan-v-burkancheta-za-zimata-zimnina-1-[3343].jpg"
+    ],
+    "datePublished": "2019-02-08",
+    "cookTime": "PT1H30M",
+    "recipeYield": "16 servings",
+    "recipeCategory": "Други",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "386 calories",
+      "carbohydrateContent": "30 g",
+      "fatContent": "28 g",
+      "proteinContent": "3 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "23.5801525 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "4 кг патладжан",
+      "1/2 л. олио",
+      "800 мл. оцет",
+      "100 г сол",
+      "200 г захар",
+      "2 глави чесън",
+      "4 връзки магданоз",
+      "1 глава целина",
+      "1 с.л. бахар"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Патладжанът (4 кг) се нарязва на кубчета. Бланшира се на порции в леко подсолена вода, за няколко секунди. Изважда се и се отцежда."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Чесънът (2 глави) и магданозът (4 връзки) се нарязват. Патладжанът се слага в буркани, като се редува следната последователност – ред патладжан, ред чесън, магданоз и целина. Реденето продължава, докато се запълни буркана. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Накрая се изсипва марината, направена от смесването на оцет (800 мл.), захар (200 г), олио (1/2 л.) и бахар (1 с.л.)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Напълнените буркани се поставят в тенджера, сипва се вода и се включва котлонът. Когато заври, част от водата се сипва в тях, така че да се напълнят почти до ръба. Затварят се и се варят за няколко минути, така че да се стерилизират."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Горещите буркани се изваждат и обръщат с капачките надолу. Покриват се с кърпа, така че да останат топли. Щом изстинат са готови за складиране."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "патладжан",
+      "qty": "4 кг",
+      "id": 71
+    },
+    {
+      "name": "олио",
+      "qty": "1/2 л.",
+      "id": 4
+    },
+    {
+      "name": "оцет",
+      "qty": "800 мл.",
+      "id": 61
+    },
+    {
+      "name": "сол",
+      "qty": "100 г",
+      "id": 1
+    },
+    {
+      "name": "захар",
+      "qty": "200 г",
+      "id": 9
+    },
+    {
+      "name": "чесън",
+      "qty": "2 глави",
+      "id": 6
+    },
+    {
+      "name": "магданоз",
+      "qty": "4 връзки",
+      "id": 12
+    },
+    {
+      "name": "целина",
+      "qty": "1 глава",
+      "id": 30
+    },
+    {
+      "name": "бахар",
+      "qty": "1 с.л.",
+      "id": 158
+    }
+  ]
+}

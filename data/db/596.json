@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Сръбска бутер баница с бутер тесто, кайма и гъби печурки",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/srubska_banica_s_kaima_i_gubi_1-[596].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/srubska_banica_s_kaima_i_gubi_1-[596].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/srubska_banica_s_kaima_i_gubi_1-[596].jpg"
+    ],
+    "datePublished": "2010-10-12",
+    "cookTime": "PT0H45M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "543 calories",
+      "carbohydrateContent": "32 g",
+      "fatContent": "38 g",
+      "proteinContent": "16 g",
+      "saturatedFatContent": "11 g",
+      "unsaturatedFatContent": "24.9733 g",
+      "cholesterolContent": "45 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг бутер тесто",
+      "1/2 кг кайма",
+      "2 глави лук",
+      "300 г печурки",
+      "2 с.л. олио",
+      "сол",
+      "черен пипер",
+      "кимион"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Каймата (1/2 кг), нарязаният на ситно лук (2 глави) и гъбите (300 г), нарязани на кубчета, се задушават в горещо олио. Посоляват се и се овкусяват с подправките. Бутер тестото (1/2 кг) се нарязва на кръгчета. Всяко кръгче облепва дъното и стените на формичка за крем карамел. Вътрешността се изпълва с плънка. Баниците се пекат на фурна до пълна готовност. Поднасят се топли, извадени от формичките."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "бутер тесто",
+      "qty": "1/2 кг",
+      "id": 117
+    },
+    {
+      "name": "кайма",
+      "qty": "1/2 кг",
+      "id": 54
+    },
+    {
+      "name": "лук",
+      "qty": "2 глави",
+      "id": 3
+    },
+    {
+      "name": "печурки",
+      "qty": "300 г",
+      "id": 62
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "кимион",
+      "qty": "Parsing error",
+      "id": 42
+    }
+  ]
+}

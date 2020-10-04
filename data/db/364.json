@@ -1,0 +1,102 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Задушени гъби печурки с масло, пресни лук и чесън, магданоз, копър и течна готварска сметана на тиган",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pechurki-marina-1-[364].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pechurki-marina-1-[364].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pechurki-marina-1-[364].jpg"
+    ],
+    "datePublished": "2011-01-06",
+    "cookTime": "PT0H20M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "230 calories",
+      "carbohydrateContent": "16 g",
+      "fatContent": "16 g",
+      "proteinContent": "8 g",
+      "saturatedFatContent": "10 g",
+      "unsaturatedFatContent": "4.93126 g",
+      "cholesterolContent": "48 mg"
+    },
+    "recipeIngredient": [
+      "1 кг печурки",
+      "1 глава лук",
+      "4 стръка пресен лук",
+      "1 стрък пресен чесън",
+      "магданоз",
+      "копър",
+      "1  морков",
+      "1 к.ч. сметана",
+      "сол",
+      "черен пипер",
+      "50 г масло"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Гъбите (1 кг) се нарязват на полумесеци, а пънчетата им - на колелца. Старият лук (1 глава), пресният лук (4 стръка) и пресният чесън (1 стрък), както и зелените подправки, се нарязват на ситно. Морковът се настъргва на средното ренде. Всичко се смесва и задушава под капак в горещо масло. Щом омекнат гъбите, се посолява и подправя с черен пипер. Добавя се сметаната (1 к.ч.) и ястието ври още 2-3 минути на тих огън. Поднася се горещо, гарнирано с варени броколи."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "печурки",
+      "qty": "1 кг",
+      "id": 62
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "пресен лук",
+      "qty": "4 стръка",
+      "id": 24
+    },
+    {
+      "name": "пресен чесън",
+      "qty": "1 стрък",
+      "id": 6
+    },
+    {
+      "name": "магданоз",
+      "qty": "Parsing error",
+      "id": 12
+    },
+    {
+      "name": "копър",
+      "qty": "Parsing error",
+      "id": 28
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "сметана",
+      "qty": "1 к.ч.",
+      "id": 19
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "масло",
+      "qty": "50 г",
+      "id": 8
+    }
+  ]
+}

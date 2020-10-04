@@ -1,0 +1,94 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печени котлети от сьомга на грил тиган с розмарин и копъров сос със сметана",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/sioomga-s-kopurov-sos-1-[728].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/sioomga-s-kopurov-sos-1-[728].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/sioomga-s-kopurov-sos-1-[728].jpg"
+    ],
+    "datePublished": "2012-07-02",
+    "cookTime": "PT0H45M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "411 calories",
+      "carbohydrateContent": "5 g",
+      "fatContent": "19 g",
+      "proteinContent": "51 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "12.13627 g",
+      "cholesterolContent": "144 mg"
+    },
+    "recipeIngredient": [
+      "4 котлета сьомга",
+      "4 с.л. зехтин",
+      "4 с.л. лимонов сок",
+      "4 стръка розмарин",
+      "100 г копър",
+      "4 скилидки чесън",
+      "50 мл. сметана",
+      "2 с.л. лимонов сок",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Стековете от сьомга (4 котлета) се мариноват в малко лимонов сок (4 с.л.), зехтин (4 с.л.) и розмарин (4 стръка) за 15 минути и се изпичат на оребрен тиган за 7-8 минути от всяка страна."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Копърът (100 г), чесънът (4 скилидки), сметаната (50 мл.), лимоновият сок (2 с.л.) и солта се слагат в блендер и се пасират до получаване на гладка смес."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "сьомга",
+      "qty": "4 котлета",
+      "id": 114
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "4 с.л.",
+      "id": 17
+    },
+    {
+      "name": "розмарин",
+      "qty": "4 стръка",
+      "id": 77
+    },
+    {
+      "name": "копър",
+      "qty": "100 г",
+      "id": 28
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "сметана",
+      "qty": "50 мл.",
+      "id": 19
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "2 с.л.",
+      "id": 17
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

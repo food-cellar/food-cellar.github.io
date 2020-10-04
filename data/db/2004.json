@@ -1,0 +1,74 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Паста фузили със сьомга печена на тиган и босилек",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pasta-sus-sioomga-i-bosilek-2-[2004].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pasta-sus-sioomga-i-bosilek-2-[2004].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pasta-sus-sioomga-i-bosilek-2-[2004].jpg"
+    ],
+    "datePublished": "2012-06-25",
+    "cookTime": "PT0H30M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "522 calories",
+      "carbohydrateContent": "75 g",
+      "fatContent": "10 g",
+      "proteinContent": "28 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "7.305 g",
+      "cholesterolContent": "39 mg"
+    },
+    "recipeIngredient": [
+      "200 г фузили",
+      "150 г сьомга",
+      "2 с.л. зехтин",
+      "2 стръка босилек",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Цветните фузили се сваряват във вряща посолена вода според указанията на опаковката. Изваждат се, изплакват се със студена вода и се отцеждат. Оставят се настрани."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Сьомгата се подправя със сол и се пържи в сух тиган с незалепващо покрити до златисто. След това се накъсва на парченца и в същия тиган се добавят фузилите и зехтина. Всичко се бърка, докато продуктите смесят ароматите си и се темперират. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Накрая се добавят измитите и подсушени листенца пресен босилек, ястието се разбърква и се поднася горещо. По желание се поръсва с черен пипер или настърган пармезан."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "фузили",
+      "qty": "200 г",
+      "id": 55
+    },
+    {
+      "name": "сьомга",
+      "qty": "150 г",
+      "id": 114
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "босилек",
+      "qty": "2 стръка",
+      "id": 25
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

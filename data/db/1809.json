@@ -1,0 +1,64 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Майонезен сладко-кисел сос за салати",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/maionezen-sladko-kisel-sos-2-[1809].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/maionezen-sladko-kisel-sos-2-[1809].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/maionezen-sladko-kisel-sos-2-[1809].jpg"
+    ],
+    "datePublished": "2011-11-08",
+    "cookTime": "PT0H5M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Сосове",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "29 calories",
+      "carbohydrateContent": "1 g",
+      "fatContent": "2 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "1.41375 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "2 с.л. майонеза",
+      "2 с.л. ябълков оцет",
+      "1 ч.л. захар",
+      "1 щип. сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Майонезата (2 с.л.), оцетът (2 с.л.), захарта (1 ч.л.) и солта (1 щип.) се разбиват с блендер. Ако сосът е прекалено гъст, може да се добави чаена лъжичка вода и да се разбие отново."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Сосът е подходящ за летни салати. Комбинира се добре и с варени картофи."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "майонеза",
+      "qty": "2 с.л.",
+      "id": 80
+    },
+    {
+      "name": "ябълков оцет",
+      "qty": "2 с.л.",
+      "id": 236
+    },
+    {
+      "name": "захар",
+      "qty": "1 ч.л.",
+      "id": 9
+    },
+    {
+      "name": "сол",
+      "qty": "1 щип.",
+      "id": 1
+    }
+  ]
+}

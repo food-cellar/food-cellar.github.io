@@ -1,0 +1,86 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Оризови спагети със смокини и раци",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/560-blue-moon-[560].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/560-blue-moon-[560].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/560-blue-moon-[560].jpg"
+    ],
+    "datePublished": "2010-11-05",
+    "cookTime": "PT0H15M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "552 calories",
+      "carbohydrateContent": "109 g",
+      "fatContent": "10 g",
+      "proteinContent": "7 g",
+      "saturatedFatContent": "5 g",
+      "unsaturatedFatContent": "3.6964975 g",
+      "cholesterolContent": "39 mg"
+    },
+    "recipeIngredient": [
+      "400 г оризови спагети",
+      "150 г рулца от раци",
+      "8 броя смокини",
+      "2 скилидки чесън",
+      "1 стрък розмарин",
+      "100 мл. сметана",
+      "1 с.л. зехтин"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Оризовите спагети (400 г) се заливат с гореща вода и се киснат в продължение на 5 минути."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "В дълбок тиган се запържва нарязано на ситно рачешко месо (150 г) (или рулца от раци) с малко чесън (2 скилидки) и розмарин. Добавя се сметаната (100 мл.) и разполовените смокини (8 броя). След около 2 минути се дабавят и омекналите спагети. Готви се още около 5 минути."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "А ако нямате време или настроение сами да сготвите тази вкусна рецепта, може да се доверите на изкусителните специалитети в единствения тайландски ресторант в София - <a href=https://www.facebook.com/bluemoon.bg>Blue Moon Thai</a> на ул. Г. С. Раковски 127, който нашият екип е посещавал неведнъж и препоръчва на драго сърце!"
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "оризови спагети",
+      "qty": "400 г",
+      "id": 279
+    },
+    {
+      "name": "рулца от раци",
+      "qty": "150 г",
+      "id": 198
+    },
+    {
+      "name": "смокини",
+      "qty": "8 броя",
+      "id": 244
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "розмарин",
+      "qty": "1 стрък",
+      "id": 77
+    },
+    {
+      "name": "сметана",
+      "qty": "100 мл.",
+      "id": 19
+    },
+    {
+      "name": "зехтин",
+      "qty": "1 с.л.",
+      "id": 10
+    }
+  ]
+}

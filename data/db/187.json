@@ -1,0 +1,110 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Задушени зеленчуци с доматено пюре",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zadusheni-zelenchuci-s-domateno-pure-1-[187].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zadusheni-zelenchuci-s-domateno-pure-1-[187].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zadusheni-zelenchuci-s-domateno-pure-1-[187].jpg"
+    ],
+    "datePublished": "2010-11-13",
+    "cookTime": "PT0H50M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "320 calories",
+      "carbohydrateContent": "42 g",
+      "fatContent": "7 g",
+      "proteinContent": "7 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "6.166015 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1  патладжан",
+      "2  червени чушки",
+      "2  зелени чушки",
+      "1  тиквичка",
+      "1 глава лук",
+      "3 скилидки чесън",
+      "1 ч.ч. бяло вино",
+      "2 с.л. доматено пюре",
+      "2 с.л. олио",
+      "сол",
+      "магданоз"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Патладжанът (1 бр) се нарязва на парченца. Посолява се и се оставя да се отцеди, след което се измива и отцежда. Чушките се нарязват на парченца, а лукът (1 глава) - на ситно. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Зеленчуците се задушават в горещо олио с малко сол под капак до омекване. Налива се виното (1 ч.ч.) и задушаването продължава още 5 минути. Прибавя се доматеното пюре (2 с.л.) и ястието ври на тих огън още 3 минути. Накрая се прибавят счуканият чесън (3 скилидки) и ситно нарязаният магданоз. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Може да се поднесе както топло, така и студено."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "патладжан",
+      "qty": "1",
+      "id": 71
+    },
+    {
+      "name": "червени чушки",
+      "qty": "2",
+      "id": 18
+    },
+    {
+      "name": "зелени чушки",
+      "qty": "2",
+      "id": 18
+    },
+    {
+      "name": "тиквичка",
+      "qty": "1",
+      "id": 39
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "чесън",
+      "qty": "3 скилидки",
+      "id": 6
+    },
+    {
+      "name": "бяло вино",
+      "qty": "1 ч.ч.",
+      "id": 41
+    },
+    {
+      "name": "доматено пюре",
+      "qty": "2 с.л.",
+      "id": 35
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "магданоз",
+      "qty": "Parsing error",
+      "id": 12
+    }
+  ]
+}

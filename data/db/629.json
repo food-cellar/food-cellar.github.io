@@ -1,0 +1,102 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Гъбено-картофена крем супа с рижики, сърненки и лимонки",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/gubena-krem-supa-1-[629].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/gubena-krem-supa-1-[629].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/gubena-krem-supa-1-[629].jpg"
+    ],
+    "datePublished": "2011-04-04",
+    "cookTime": "PT0H45M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "161 calories",
+      "carbohydrateContent": "15 g",
+      "fatContent": "10 g",
+      "proteinContent": "3 g",
+      "saturatedFatContent": "6 g",
+      "unsaturatedFatContent": "2.455275 g",
+      "cholesterolContent": "30 mg"
+    },
+    "recipeIngredient": [
+      "3  гъби рижики",
+      "3  гъби лимонки",
+      "3  гъби сърненки",
+      "1  картоф",
+      "1  морков",
+      "1 глава лук",
+      "1 стръкче целина",
+      "30 г масло",
+      "сол",
+      "черен пипер",
+      "50 мл. сметана"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Гъбите се почистват и нарязват. Сваряват се заедно с картофа, моркова, лука (1 глава) и стръкчето целина. Отцеждат се. От цялата смес зеленчуци се отделят картофите, морковът, лукът и половината от гъбите. Те се пасират заедно с маслото (30 г) и сметаната (50 мл.). Полученото пюре се връща в бульона и се кипва отново. В него се връщат и парчетата гъби. Посолява се и се подправя с черен пипер."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "гъби рижики",
+      "qty": "3",
+      "id": 37
+    },
+    {
+      "name": "гъби лимонки",
+      "qty": "3",
+      "id": 37
+    },
+    {
+      "name": "гъби сърненки",
+      "qty": "3",
+      "id": 37
+    },
+    {
+      "name": "картоф",
+      "qty": "1",
+      "id": 16
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "целина",
+      "qty": "1 стръкче",
+      "id": 30
+    },
+    {
+      "name": "масло",
+      "qty": "30 г",
+      "id": 8
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сметана",
+      "qty": "50 мл.",
+      "id": 19
+    }
+  ]
+}

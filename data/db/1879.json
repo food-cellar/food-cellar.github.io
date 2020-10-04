@@ -1,0 +1,92 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пилешки дробчета с ориз печени на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/drobcheta-s-oriz-na-furna-1-[1879].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/drobcheta-s-oriz-na-furna-1-[1879].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/drobcheta-s-oriz-na-furna-1-[1879].jpg"
+    ],
+    "datePublished": "2011-12-16",
+    "cookTime": "PT1H0M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "370 calories",
+      "carbohydrateContent": "34 g",
+      "fatContent": "12 g",
+      "proteinContent": "28 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "7.6161483333333 g",
+      "cholesterolContent": "585 mg"
+    },
+    "recipeIngredient": [
+      "800 г пилешки дробчета",
+      "1 ч.ч. ориз",
+      "1 глава лук",
+      "2  моркова",
+      "3 ч.ч. бульон",
+      "сол",
+      "1/2 ч.л. черен пипер",
+      "6 с.л. олио"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Лукът (1 глава) и морковите (2 бр) се нарязват на ситни кубчета и се задушават до омекване в олиото (6 с.л.). След това към тях се добавят дробчетата (800 г) и се запържват леко от всички страни, докато променят цвета си. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Оризът (1 ч.ч.) се измива и се поставя в тавичка. Върху него се подреждат дробчетата със зеленчуците и ястието се залива с пилешки бульон (3 ч.ч.), подправен със сол и черен пипер (1/2 ч.л.). Ястието се пече при температура 180 градуса, докато оризът поеме течността. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Дробчетата с ориз на фурна се сервират топли, но и охладени са много вкусни."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешки дробчета",
+      "qty": "800 г",
+      "id": 191
+    },
+    {
+      "name": "ориз",
+      "qty": "1 ч.ч.",
+      "id": 22
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "моркова",
+      "qty": "2",
+      "id": 13
+    },
+    {
+      "name": "бульон",
+      "qty": "3 ч.ч.",
+      "id": 26
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1/2 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "олио",
+      "qty": "6 с.л.",
+      "id": 4
+    }
+  ]
+}

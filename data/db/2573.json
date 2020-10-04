@@ -1,0 +1,88 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Кекс с пресни праскови",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/keks-s-presni-praskovi-2-[2573].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/keks-s-presni-praskovi-2-[2573].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/keks-s-presni-praskovi-2-[2573].jpg"
+    ],
+    "datePublished": "2013-06-11",
+    "cookTime": "PT0H50M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "398 calories",
+      "carbohydrateContent": "58 g",
+      "fatContent": "16 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "13.04417875 g",
+      "cholesterolContent": "70 mg"
+    },
+    "recipeIngredient": [
+      "1 ч.ч. брашно",
+      "3  яйца",
+      "1/2 ч.ч. олио",
+      "1 ч.ч. захар",
+      "1 ч.л. ванилия",
+      "1 ч.л. бакпулвер",
+      "4  праскови",
+      "2 с.л. пудра захар"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Яйцата (3 бр) се разбиват със захарта (1 ч.ч.) до получаването на гладка и пухкава смес. След това към нея се прибавят брашното (1 ч.ч.), бакпулверът (1 ч.л.), ванилията (1 ч.л.) и олиото (1/2 ч.ч.). Всичко се разбива отлично, докато се получи хомогенна смес. Тя се изсипва в намазана с олио и поръсена с брашно тавичка и върху нея се разпределят нарязаните на половинки пресни праскови, като костилката им е отстранена, а те се поставят с облата част нагоре."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Кексът се поставя в предварително загрята до 180 градуса фурна и се пече около 35 минути. Изважда се от фурната и се оставя напълно да се охлади. След това се поръсва обилно с пудра захар и се сервира."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "брашно",
+      "qty": "1 ч.ч.",
+      "id": 7
+    },
+    {
+      "name": "яйца",
+      "qty": "3",
+      "id": 5
+    },
+    {
+      "name": "олио",
+      "qty": "1/2 ч.ч.",
+      "id": 4
+    },
+    {
+      "name": "захар",
+      "qty": "1 ч.ч.",
+      "id": 9
+    },
+    {
+      "name": "ванилия",
+      "qty": "1 ч.л.",
+      "id": 23
+    },
+    {
+      "name": "бакпулвер",
+      "qty": "1 ч.л.",
+      "id": 29
+    },
+    {
+      "name": "праскови",
+      "qty": "4",
+      "id": 156
+    },
+    {
+      "name": "пудра захар",
+      "qty": "2 с.л.",
+      "id": 34
+    }
+  ]
+}

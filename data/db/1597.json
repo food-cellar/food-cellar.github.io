@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печено филе от пъстърва със сметана, копър и розмарин в тава на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pusturva-sus-smetana-3-[1597].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pusturva-sus-smetana-3-[1597].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pusturva-sus-smetana-3-[1597].jpg"
+    ],
+    "datePublished": "2011-09-11",
+    "cookTime": "PT0H45M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "333 calories",
+      "carbohydrateContent": "1 g",
+      "fatContent": "21 g",
+      "proteinContent": "32 g",
+      "saturatedFatContent": "8 g",
+      "unsaturatedFatContent": "10.586995 g",
+      "cholesterolContent": "129 mg"
+    },
+    "recipeIngredient": [
+      "4 филета пъстърва",
+      "150 мл. сметана",
+      "2 с.л. копър",
+      "2 с.л. розмарин",
+      "сол",
+      "пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Филетата от пъстърва (4 филета) се подправят със сол и пипер и се поставят в тава. Поръсват се с нарязан на ситно копър (2 с.л.) и стръкчета розмарин (2 с.л.). Заливат се със сметаната (150 мл.) и се пекат около 40 минути на 190 градуса."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пъстърва",
+      "qty": "4 филета",
+      "id": 263
+    },
+    {
+      "name": "сметана",
+      "qty": "150 мл.",
+      "id": 19
+    },
+    {
+      "name": "копър",
+      "qty": "2 с.л.",
+      "id": 28
+    },
+    {
+      "name": "розмарин",
+      "qty": "2 с.л.",
+      "id": 77
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

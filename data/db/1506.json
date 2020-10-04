@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Постни пълнени чушки с кус-кус и стафиди",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pulneni-chushki-s-kus-kus-i-stafidi-2-[1506].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pulneni-chushki-s-kus-kus-i-stafidi-2-[1506].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pulneni-chushki-s-kus-kus-i-stafidi-2-[1506].jpg"
+    ],
+    "datePublished": "2011-06-16",
+    "cookTime": "PT0H50M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "256 calories",
+      "carbohydrateContent": "43 g",
+      "fatContent": "6 g",
+      "proteinContent": "6 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "2.5653133333333 g",
+      "cholesterolContent": "10 mg"
+    },
+    "recipeIngredient": [
+      "6  червени чушки",
+      "1 глава лук",
+      "250 г кус-кус",
+      "300 мл. вода",
+      "2 с.л. стафиди",
+      "2 с.л. зехтин",
+      "2 с.л. масло",
+      "6 листенца мента",
+      "черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Чушките (6 бр) се измиват и внимателно се разрязват по дължина. Почистват се от семките без да се отстраняват дръжките им. Лукът (1 глава) се наряязва на ситно и се задушава до омекване в маслото (2 с.л.). В малка тенджерка се кипва водата (300 мл.), добавя се сол и се отстранява от котлона. В нея се изсипва кус-кусът (250 г) и се оставя за няколко минути да набъбне. След това към него се добавят стафидите (2 с.л.), ситно нарязаната свежа мента (6 листенца), зехтинът (2 с.л.), черният пипер и запърженият лук. Сместа се разбърква добре и с нея се пълнят чушките. Те се подреждат в намаслена тавичка и се пекат в предварителнo загрята до 200 градуса фурна около 40 минути. Сервират се топли.  "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "червени чушки",
+      "qty": "6",
+      "id": 18
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "кус-кус",
+      "qty": "250 г",
+      "id": 160
+    },
+    {
+      "name": "вода",
+      "qty": "300 мл.",
+      "id": 11
+    },
+    {
+      "name": "стафиди",
+      "qty": "2 с.л.",
+      "id": 69
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "масло",
+      "qty": "2 с.л.",
+      "id": 8
+    },
+    {
+      "name": "мента",
+      "qty": "6 листенца",
+      "id": 90
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

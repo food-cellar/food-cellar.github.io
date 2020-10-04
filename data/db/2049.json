@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата с белени домати и песто от копър",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-s-beleni-domati-i-pesto-ot-kopur-2-[2049].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-s-beleni-domati-i-pesto-ot-kopur-2-[2049].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-s-beleni-domati-i-pesto-ot-kopur-2-[2049].jpg"
+    ],
+    "datePublished": "2012-08-14",
+    "cookTime": "PT0H5M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "55 calories",
+      "carbohydrateContent": "6 g",
+      "fatContent": "3 g",
+      "proteinContent": "1 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "2.421785 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "2  розови домата",
+      "4 стръка копър",
+      "1 с.л. зехтин",
+      "1 с.л. лимонов сок",
+      "1 скилидка чесън",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Розовите домати (2 бр) се обелват и нарязват на полумесеци. Подреждат се в порционни чинии и се заливат с песто, приготвено от смлените в блендер копър (4 стръка), чесън (1 скилидка), зехтин (1 с.л.), лимонов сок (1 с.л.) и сол. Салатата се сервира веднага."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "розови домата",
+      "qty": "2",
+      "id": 15
+    },
+    {
+      "name": "копър",
+      "qty": "4 стръка",
+      "id": 28
+    },
+    {
+      "name": "зехтин",
+      "qty": "1 с.л.",
+      "id": 10
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    },
+    {
+      "name": "чесън",
+      "qty": "1 скилидка",
+      "id": 6
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

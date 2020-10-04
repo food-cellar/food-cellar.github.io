@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Фалшив октопод от патладжан",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/falshiv-oktopod-ot-patladjan-2-[535].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/falshiv-oktopod-ot-patladjan-2-[535].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/falshiv-oktopod-ot-patladjan-2-[535].jpg"
+    ],
+    "datePublished": "2010-12-12",
+    "cookTime": "PT0H40M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "348 calories",
+      "carbohydrateContent": "25 g",
+      "fatContent": "20 g",
+      "proteinContent": "18 g",
+      "saturatedFatContent": "10 g",
+      "unsaturatedFatContent": "7.18843 g",
+      "cholesterolContent": "238 mg"
+    },
+    "recipeIngredient": [
+      "1  патладжан",
+      "2  яйца",
+      "100 г сирене",
+      "1 скилидка чесън",
+      "черен пипер",
+      "1 с.л. галета",
+      "1 с.л. кашкавал",
+      "1 с.л. сусам"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Патладжанът (1 бр) се разрязва на 8 части по дължина, като ножът не стига до края. Основата му се издълбава. Издълбаната мека част се нарязва на ситно, посолява се и след като си пусне сока, се измива. Така се постъпва и с разрязания патладжан. Полученият “октопод” се изпича във фурна. Намазва се със смес от задушената вътрешна част от патладжана, яйцата (2 бр), сиренето (100 г), чесъна (1 скилидка) и галетата. Поръсва се с настърган кашкавал и сусам и се пече на фурна да порозовяване."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "патладжан",
+      "qty": "1",
+      "id": 71
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "сирене",
+      "qty": "100 г",
+      "id": 32
+    },
+    {
+      "name": "чесън",
+      "qty": "1 скилидка",
+      "id": 6
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "галета",
+      "qty": "1 с.л.",
+      "id": 58
+    },
+    {
+      "name": "кашкавал",
+      "qty": "1 с.л.",
+      "id": 47
+    },
+    {
+      "name": "сусам",
+      "qty": "1 с.л.",
+      "id": 113
+    }
+  ]
+}

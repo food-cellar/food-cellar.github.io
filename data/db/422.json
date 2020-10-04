@@ -1,0 +1,106 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печено агнешко бутче върху ориз с джинджифил и естрагон на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pecheno-agunce-s-bialo-orizche-i-magdanozec-1-[422].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pecheno-agunce-s-bialo-orizche-i-magdanozec-1-[422].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pecheno-agunce-s-bialo-orizche-i-magdanozec-1-[422].jpg"
+    ],
+    "datePublished": "2011-04-04",
+    "cookTime": "PT2H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "646 calories",
+      "carbohydrateContent": "76 g",
+      "fatContent": "19 g",
+      "proteinContent": "27 g",
+      "saturatedFatContent": "8 g",
+      "unsaturatedFatContent": "9.717865 g",
+      "cholesterolContent": "78 mg"
+    },
+    "recipeIngredient": [
+      "1  агнешко бутче",
+      "2 ч.ч. ориз",
+      "1 връзка магданоз",
+      "1 щип. джинджифил",
+      "1 щип. естрагон",
+      "черен пипер",
+      "сол",
+      "1 ч.ч. бяло вино",
+      "2 с.л. лимонов сок",
+      "1 с.л. соев сос",
+      "4 ч.ч. вода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Бялото вино (1 ч.ч.), лимоновият сок и соевият сос (1 с.л.) се разбиват до еднородна смес, с която се намазва осоленото и натрито с черен пипер месо. То се оставя да престои 2 часа на студено, след което се пече увито във фолио. Щом омекне напълно, фолиото се маха и месото се допича до получаването на златиста коричка. Оризът (2 ч.ч.) се залива с вода (4 ч.ч.), подправя се със сол, джинджифил (1 щип.), естрагон (1 щип.) и черен пипер и се вари, докато поеме цялата течност. Магданозът (1 връзка) се нарязва на ситно и се смесва с ориза. Добавят се 3-4 с.л. от отделения сос при печенето на месото в ориза."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Рецептата е подходяща за празниците Великден и Гергьовден."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "агнешко бутче",
+      "qty": "1",
+      "id": 260
+    },
+    {
+      "name": "ориз",
+      "qty": "2 ч.ч.",
+      "id": 22
+    },
+    {
+      "name": "магданоз",
+      "qty": "1 връзка",
+      "id": 12
+    },
+    {
+      "name": "джинджифил",
+      "qty": "1 щип.",
+      "id": 84
+    },
+    {
+      "name": "естрагон",
+      "qty": "1 щип.",
+      "id": 183
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "бяло вино",
+      "qty": "1 ч.ч.",
+      "id": 41
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "2 с.л.",
+      "id": 17
+    },
+    {
+      "name": "соев сос",
+      "qty": "1 с.л.",
+      "id": 53
+    },
+    {
+      "name": "вода",
+      "qty": "4 ч.ч.",
+      "id": 11
+    }
+  ]
+}

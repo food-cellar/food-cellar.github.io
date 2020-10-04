@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Зелева салата с пилешко месо и ананас",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-s-duh-na-ananas-1-[323].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-s-duh-na-ananas-1-[323].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-s-duh-na-ananas-1-[323].jpg"
+    ],
+    "datePublished": "2010-11-23",
+    "cookTime": "PT0H10M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "375 calories",
+      "carbohydrateContent": "59 g",
+      "fatContent": "7 g",
+      "proteinContent": "22 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "4.64515 g",
+      "cholesterolContent": "65 mg"
+    },
+    "recipeIngredient": [
+      "200 г пилешко месо",
+      "100 г червено зеле",
+      "1  ананас",
+      "сол",
+      "2 с.л. лимонов сок",
+      "1 с.л. зехтин"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Месото (200 г) се сварява в подсолена вода. Отцежда се и се накъсва. Зелето (100 г) се настъргва на ситното ренде. Половината от ананаса се нарязва на шайби, а другата – на кубчета. Месото, зелето и кубчетата ананас се смесват и овкусяват със сол, зехтин и лимонов сок. Салата се поднася върху салатен лист, декорирана с ананасови шайби и маслини."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешко месо",
+      "qty": "200 г",
+      "id": 49
+    },
+    {
+      "name": "червено зеле",
+      "qty": "100 г",
+      "id": 288
+    },
+    {
+      "name": "ананас",
+      "qty": "1",
+      "id": 146
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "2 с.л.",
+      "id": 17
+    },
+    {
+      "name": "зехтин",
+      "qty": "1 с.л.",
+      "id": 10
+    }
+  ]
+}

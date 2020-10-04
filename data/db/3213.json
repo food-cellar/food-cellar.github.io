@@ -1,0 +1,86 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Закуска от просо със сладък картоф",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zakuska-ot-proso-sus-sladuk-kartof-1-[3213].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zakuska-ot-proso-sus-sladuk-kartof-1-[3213].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zakuska-ot-proso-sus-sladuk-kartof-1-[3213].jpg"
+    ],
+    "datePublished": "2017-09-19",
+    "cookTime": "PT0H45M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "322 calories",
+      "carbohydrateContent": "53 g",
+      "fatContent": "8 g",
+      "proteinContent": "7 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "3.6031 g",
+      "cholesterolContent": "15 mg"
+    },
+    "recipeIngredient": [
+      "250 г просо",
+      "1  сладък картоф",
+      "700 мл. вода",
+      "1 ч.л. смлян анасон",
+      "2 с.л. масло",
+      "1 щип. сол",
+      "канела"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Просото(250 г) се накисва във вода за 8 часа, след което се отцежда и измива."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Отцеденото просо се слага в тенджера. Добавя се нарязаният на ситни кубчета сладък картоф (1 бр). Посолява се и се залива с вода (700 мл.). Кипва се, след което котлонът се намалява и се вари 30-35 минути. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Свареното и още топло просо се смесва с маслото (2 с.л.), така че да се разтопи. Овкусява се с анасон и канела."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "просо",
+      "qty": "250 г",
+      "id": 310
+    },
+    {
+      "name": "сладък картоф",
+      "qty": "1",
+      "id": 311
+    },
+    {
+      "name": "вода",
+      "qty": "700 мл.",
+      "id": 11
+    },
+    {
+      "name": "смлян анасон",
+      "qty": "1 ч.л.",
+      "id": 340
+    },
+    {
+      "name": "масло",
+      "qty": "2 с.л.",
+      "id": 8
+    },
+    {
+      "name": "сол",
+      "qty": "1 щип.",
+      "id": 1
+    },
+    {
+      "name": "канела",
+      "qty": "Parsing error",
+      "id": 46
+    }
+  ]
+}

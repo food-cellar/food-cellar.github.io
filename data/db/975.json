@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печени рибни рулца от мерлуза на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/ribni-rulca-3-[975].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/ribni-rulca-3-[975].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/ribni-rulca-3-[975].jpg"
+    ],
+    "datePublished": "2017-03-20",
+    "cookTime": "PT0H0M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "257 calories",
+      "carbohydrateContent": "7 g",
+      "fatContent": "12 g",
+      "proteinContent": "28 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "5.656215 g",
+      "cholesterolContent": "164 mg"
+    },
+    "recipeIngredient": [
+      "2 филета мерлуза",
+      "1 твърдо сварено яйце",
+      "2  мариновани краставици",
+      "1 сварен морков",
+      "3 бланширани гъби",
+      "2 скилидки чесън",
+      "сол",
+      "черен пипер",
+      "30 г пармезан"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Обеленото яйце (1 твърдо сварено), краставичките (2 бр), морковът (1 сварен) и гъбите (3 бланширани) се нарязват на дребно. Овкусяват се със сол, черен пипер и счукан чесън (2 скилидки). Тази смес се нанася върху рибите (2 филета), които се навиват на рула и се фиксират с парчета от дървени клечки за зъби. Рулата се слагат в намазнена тава и се пекат до готовност. Поръсват се с нарязан пресен пармезан и се връщат във фурната до неговото разтопяване. Поднасят се със зелена салата."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "мерлуза",
+      "qty": "2 филета",
+      "id": 102
+    },
+    {
+      "name": "яйце",
+      "qty": "1 твърдо сварено",
+      "id": 5
+    },
+    {
+      "name": "мариновани краставици",
+      "qty": "2",
+      "id": 289
+    },
+    {
+      "name": "морков",
+      "qty": "1 сварен",
+      "id": 13
+    },
+    {
+      "name": "гъби",
+      "qty": "3 бланширани",
+      "id": 37
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "пармезан",
+      "qty": "30 г",
+      "id": 59
+    }
+  ]
+}

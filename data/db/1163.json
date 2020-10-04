@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Сметанов десерт с крем от сметана, кисело мляко и ягоди",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/smetanov-desert-s-iagodi-4-[1163].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/smetanov-desert-s-iagodi-4-[1163].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/smetanov-desert-s-iagodi-4-[1163].jpg"
+    ],
+    "datePublished": "2011-02-12",
+    "cookTime": "PT0H10M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "449 calories",
+      "carbohydrateContent": "28 g",
+      "fatContent": "36 g",
+      "proteinContent": "6 g",
+      "saturatedFatContent": "21 g",
+      "unsaturatedFatContent": "12.7032 g",
+      "cholesterolContent": "121 mg"
+    },
+    "recipeIngredient": [
+      "400 мл. течна сметана",
+      "300 г кисело мляко",
+      "5 с.л. захар",
+      "300 г ягоди",
+      "20 г бадеми",
+      "4 листенца мента"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Сладката течна готварска сметана (400 мл.) се разбива с миксер до получаването на гъста, пухкава смес. Киселото мляко (300 г) и захарта (5 с.л.) също се разбиват и внимателно се прибавят към сметаната. Сместа се разбърква с голяма лъжица и в нея се изсипват нарязаните на четвъртинки пресни ягоди (300 г). Десертът се разпределя в купички или десертни чаши и се декорира с ягоди, бадеми (20 г) и листенца мента (4 листенца). Ако се охлади преди сервиране, десертът е още по-вкусен."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "течна сметана",
+      "qty": "400 мл.",
+      "id": 19
+    },
+    {
+      "name": "кисело мляко",
+      "qty": "300 г",
+      "id": 21
+    },
+    {
+      "name": "захар",
+      "qty": "5 с.л.",
+      "id": 9
+    },
+    {
+      "name": "ягоди",
+      "qty": "300 г",
+      "id": 109
+    },
+    {
+      "name": "бадеми",
+      "qty": "20 г",
+      "id": 82
+    },
+    {
+      "name": "мента",
+      "qty": "4 листенца",
+      "id": 90
+    }
+  ]
+}

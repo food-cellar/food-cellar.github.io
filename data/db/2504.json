@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Лесни триъгълни сандвичи",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/lesni-triugulni-sandvichi-1-[2504].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/lesni-triugulni-sandvichi-1-[2504].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/lesni-triugulni-sandvichi-1-[2504].jpg"
+    ],
+    "datePublished": "2013-05-10",
+    "cookTime": "PT0H15M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Сандвичи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "604 calories",
+      "carbohydrateContent": "75 g",
+      "fatContent": "22 g",
+      "proteinContent": "32 g",
+      "saturatedFatContent": "8 g",
+      "unsaturatedFatContent": "11.041165 g",
+      "cholesterolContent": "145 mg"
+    },
+    "recipeIngredient": [
+      "6 филии хляб",
+      "2 листа зелена салата",
+      "100 г шунка",
+      "1  яйце",
+      "1  домат",
+      "1 с.л. масло",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Квадратните филии хляб се нарязват на триъгълници. Изпичат се, докато станат хрупкави. Докато са още топли, се намазват с масло. Между три триъгълника се поставят резен яйце, парче шунка, резен домат и зелена салата. Сандвичите се притискат, посоляват се и се прикрепят с клечки за зъби. Сервират се веднага, докато са още свежи. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "хляб",
+      "qty": "6 филии",
+      "id": 66
+    },
+    {
+      "name": "зелена салата",
+      "qty": "2 листа",
+      "id": 87
+    },
+    {
+      "name": "шунка",
+      "qty": "100 г",
+      "id": 76
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    },
+    {
+      "name": "домат",
+      "qty": "1",
+      "id": 15
+    },
+    {
+      "name": "масло",
+      "qty": "1 с.л.",
+      "id": 8
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

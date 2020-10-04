@@ -1,0 +1,98 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Свински котлет / каре на тиган с бяло вино, горчица, гъби и аспержи",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/svinski-kotlet-na-tigan-s-bialo-vino-gorchica-gubi-i-asperji-1-[3189].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/svinski-kotlet-na-tigan-s-bialo-vino-gorchica-gubi-i-asperji-1-[3189].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/svinski-kotlet-na-tigan-s-bialo-vino-gorchica-gubi-i-asperji-1-[3189].jpg"
+    ],
+    "datePublished": "2017-04-10",
+    "cookTime": "PT0H45M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "734 calories",
+      "carbohydrateContent": "13 g",
+      "fatContent": "48 g",
+      "proteinContent": "47 g",
+      "saturatedFatContent": "23 g",
+      "unsaturatedFatContent": "20.88123 g",
+      "cholesterolContent": "195 mg"
+    },
+    "recipeIngredient": [
+      "2  свински котлети",
+      "250 г аспержи",
+      "250 г гъби",
+      "2 скилидки чесън",
+      "200 мл. бяло вино",
+      "1 с.л. горчица",
+      "4 с.л. масло",
+      "черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Свинските котлети (2 бр) се начукват леко и се овкусяват с черен пипер и сол. Намазват се обилно с горчица (1 с.л.) и се поливат с бялото вино (200 мл.). Оставят се в хладилник за половин час да се мариноват. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "След това се изваждат и се поставят в тиган с капак, заедно с маслото (4 с.л.), чесъна (2 скилидки) и с маринатата. Похлупват се с капак и се пекат за половин час, докато месото омекне и виното се поизпари. Накрая капакът се отстранява и се добавят гъбите (250 г), старателно измити и нарязани на дребно. Котлетите се обръщат, за да се изпекат и от двете страни и се готвят, докато станат сочни и виното се изпари напълно. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Сервират се с аспержи (250 г), приготвени на пара."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "свински котлети",
+      "qty": "2",
+      "id": 303
+    },
+    {
+      "name": "аспержи",
+      "qty": "250 г",
+      "id": 270
+    },
+    {
+      "name": "гъби",
+      "qty": "250 г",
+      "id": 37
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "бяло вино",
+      "qty": "200 мл.",
+      "id": 41
+    },
+    {
+      "name": "горчица",
+      "qty": "1 с.л.",
+      "id": 64
+    },
+    {
+      "name": "масло",
+      "qty": "4 с.л.",
+      "id": 8
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

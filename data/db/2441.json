@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата айсберг с варени яйца, моркви и риган",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-aisberg-s-iaica-morkvi-i-rigan-1-[2441].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-aisberg-s-iaica-morkvi-i-rigan-1-[2441].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-aisberg-s-iaica-morkvi-i-rigan-1-[2441].jpg"
+    ],
+    "datePublished": "2013-03-27",
+    "cookTime": "PT0H10M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "150 calories",
+      "carbohydrateContent": "12 g",
+      "fatContent": "9 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "6.20719 g",
+      "cholesterolContent": "94 mg"
+    },
+    "recipeIngredient": [
+      "1 глава айсберг",
+      "2  моркова",
+      "4  чери домата",
+      "2  яйца",
+      "1 ч.л. риган",
+      "4 с.л. зехтин",
+      "2 с.л. лимонов сок",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Салатата айсберг (1 глава) се измива, подсушава и нарязва на ситно. Поставя се в купа и на върха се рендосват морковите (2 бр). Върху тях се разпределят срязани на четвъртинки чери домати (4 бр) и салатата се декорира с разрязани твърдо сварени яйца (2 бр). Посипва се със сол и сушен риган (1 ч.л.) и се залива със зехтин (4 с.л.) и лимонов сок (2 с.л.). Поднася се веднага."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "айсберг",
+      "qty": "1 глава",
+      "id": 101
+    },
+    {
+      "name": "моркова",
+      "qty": "2",
+      "id": 13
+    },
+    {
+      "name": "чери домата",
+      "qty": "4",
+      "id": 15
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "риган",
+      "qty": "1 ч.л.",
+      "id": 65
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "2 с.л.",
+      "id": 17
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

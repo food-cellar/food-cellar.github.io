@@ -1,0 +1,86 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Цял пълнен патладжан ветрило на пара запечен с домати и моцарела на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/patladjan-na-para-zapechen-s-domati-i-mocarela-na-furna-1-[2920].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/patladjan-na-para-zapechen-s-domati-i-mocarela-na-furna-1-[2920].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/patladjan-na-para-zapechen-s-domati-i-mocarela-na-furna-1-[2920].jpg"
+    ],
+    "datePublished": "2014-04-15",
+    "cookTime": "PT1H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "426 calories",
+      "carbohydrateContent": "37 g",
+      "fatContent": "24 g",
+      "proteinContent": "20 g",
+      "saturatedFatContent": "10 g",
+      "unsaturatedFatContent": "11.640255 g",
+      "cholesterolContent": "59 mg"
+    },
+    "recipeIngredient": [
+      "4  патладжана",
+      "300 г моцарела",
+      "2  домата",
+      "4 с.л. зехтин",
+      "черен пипер",
+      "риган",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Патладжаните се разрязват на филии, като не се стига до дръжката им, за да остане все патладжан цял. Дръжките им не се отстраняват, те се посоляват и се оставят за половин час да пуснат горчивия си сок. След това се изплакват и подсушават."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Патладжаните се готвят в уред на пара до омекване. След това се подреждат в тавичка, намазана с мазнина, и между всеки две филийки патладжан се поставя резен моцарела или резен домат. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Патладжаните се поръсват със зехтин и подправки - сол, черен пипер и сушен риган, и се поставят във фурна. Пекат се около 20 минути при 200 градуса. Сервират се горещи и по желание се декорират с връхчета свеж босилек."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "патладжана",
+      "qty": "4",
+      "id": 71
+    },
+    {
+      "name": "моцарела",
+      "qty": "300 г",
+      "id": 93
+    },
+    {
+      "name": "домата",
+      "qty": "2",
+      "id": 15
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "риган",
+      "qty": "Parsing error",
+      "id": 65
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Бобена яхния от домати, чесън и босилек без запръжка",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/bob-s-domati-1-[316].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/bob-s-domati-1-[316].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/bob-s-domati-1-[316].jpg"
+    ],
+    "datePublished": "2010-11-23",
+    "cookTime": "PT1H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "253 calories",
+      "carbohydrateContent": "47 g",
+      "fatContent": "1 g",
+      "proteinContent": "16 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.5031025 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "250 г боб",
+      "800 г домати",
+      "3 скилидки чесън",
+      "сол",
+      "босилек",
+      "магданоз"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Бобът (250 г) залива със студена вода и се вари без сол до полуомекване. След това се отцежда, измива със студена вода, посолява се и се вари до пълна готовност. Отново се отцежда. От доматите (800 г) се пържи сос, който се подправя със счукан със сол чесън (3 скилидки), ситно нарязан магданоз и сушен босилек, след като се снеме от огъня. Бобът се смесва със соса и се оставя да поври 1-2 минути."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "боб",
+      "qty": "250 г",
+      "id": 63
+    },
+    {
+      "name": "домати",
+      "qty": "800 г",
+      "id": 15
+    },
+    {
+      "name": "чесън",
+      "qty": "3 скилидки",
+      "id": 6
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "босилек",
+      "qty": "Parsing error",
+      "id": 25
+    },
+    {
+      "name": "магданоз",
+      "qty": "Parsing error",
+      "id": 12
+    }
+  ]
+}

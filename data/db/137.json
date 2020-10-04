@@ -1,0 +1,60 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Кренвиршки с бутер тесто на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kremvirshki-[137].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kremvirshki-[137].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kremvirshki-[137].jpg"
+    ],
+    "datePublished": "2010-11-22",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Хлебни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "931 calories",
+      "carbohydrateContent": "57 g",
+      "fatContent": "69 g",
+      "proteinContent": "19 g",
+      "saturatedFatContent": "20 g",
+      "unsaturatedFatContent": "45.31504 g",
+      "cholesterolContent": "84 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг бутер тесто",
+      "4  кренвирша",
+      "кимион",
+      "1  яйце"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Бутер тестото (1/2 кг) се нарязва на правоъгълници (12х12 см), а кренвиршите (4 бр) на половинки. Всеки правоъгълник се поръсва с малко кимион. Поставят се две половинки от кренвирш една до друга и се „пакетират”. „Пакетчетата” се намазват с разбитото яйце и се нареждат в суха тава с незалепващо покритие. Пекат се в предварително загрята фурна, докато получат златиста коричка."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "бутер тесто",
+      "qty": "1/2 кг",
+      "id": 117
+    },
+    {
+      "name": "кренвирша",
+      "qty": "4",
+      "id": 161
+    },
+    {
+      "name": "кимион",
+      "qty": "Parsing error",
+      "id": 42
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    }
+  ]
+}

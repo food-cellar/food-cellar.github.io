@@ -1,0 +1,80 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Задушени тиквички със соя",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zadusheni-tikvichki-sus-soia-2-[2327].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zadusheni-tikvichki-sus-soia-2-[2327].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zadusheni-tikvichki-sus-soia-2-[2327].jpg"
+    ],
+    "datePublished": "2013-02-17",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "289 calories",
+      "carbohydrateContent": "16 g",
+      "fatContent": "8 g",
+      "proteinContent": "43 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "6.601495 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "200 г соева кайма",
+      "1/2 кг тиквички",
+      "1/2 л. доматен сос",
+      "200 мл. вода",
+      "2 скилидки чесън",
+      "4 с.л. зехтин"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Тиквичките (1/2 кг) се измиват и нарязват на полумесеци. Запържват се в зехтин, докато омекнат и придобият златист цвят. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Междувременно се загрява вода (200 мл.) до кипване, с която се залива соевата кайма (200 г). Докато тиквичките се готвят, каймата се оставя да абсорбира течността."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Щом тиквичките са готови, се заливат с доматен сос (1/2 л.) и котлонът леко се намалява. Добавя се соевата кайма и счукан чесън (2 скилидки) и се разбърква. Овкусява се със сол, черен пипер и по желание с бахар или дафинов лист. Готви се още 7-8 минути. Преди да се прекрати готвенето, се проверява дали каймата е омекнала."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "соева кайма",
+      "qty": "200 г",
+      "id": 224
+    },
+    {
+      "name": "тиквички",
+      "qty": "1/2 кг",
+      "id": 39
+    },
+    {
+      "name": "доматен сос",
+      "qty": "1/2 л.",
+      "id": 86
+    },
+    {
+      "name": "вода",
+      "qty": "200 мл.",
+      "id": 11
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    }
+  ]
+}

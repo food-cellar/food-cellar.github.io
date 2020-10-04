@@ -1,0 +1,60 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Коктейл Бренди Зум (Brandy Zoom)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kokteil-brendi-zum--1-[1650].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kokteil-brendi-zum--1-[1650].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kokteil-brendi-zum--1-[1650].jpg"
+    ],
+    "datePublished": "2012-07-20",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Коктейли",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "186 calories",
+      "carbohydrateContent": "12 g",
+      "fatContent": "15 g",
+      "proteinContent": "1 g",
+      "saturatedFatContent": "9 g",
+      "unsaturatedFatContent": "4.442 g",
+      "cholesterolContent": "56 mg"
+    },
+    "recipeIngredient": [
+      "75 мл. бренди",
+      "50 мл. сметана",
+      "2 с.л. мед",
+      "лед"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Всички продукти се поставят в шейкър и се разбиват добре. Коктейлът се сервира, поръсен с шоколадови или цветни пръчици."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "бренди",
+      "qty": "75 мл.",
+      "id": 27
+    },
+    {
+      "name": "сметана",
+      "qty": "50 мл.",
+      "id": 19
+    },
+    {
+      "name": "мед",
+      "qty": "2 с.л.",
+      "id": 38
+    },
+    {
+      "name": "лед",
+      "qty": "Parsing error",
+      "id": 11
+    }
+  ]
+}

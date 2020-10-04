@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Запеканка от карфиол с наденица, брашно, масло и червен пипер на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/karfiol-s-nadenica-na-furna-3-[1448].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/karfiol-s-nadenica-na-furna-3-[1448].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/karfiol-s-nadenica-na-furna-3-[1448].jpg"
+    ],
+    "datePublished": "2011-05-10",
+    "cookTime": "PT0H45M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "290 calories",
+      "carbohydrateContent": "22 g",
+      "fatContent": "17 g",
+      "proteinContent": "13 g",
+      "saturatedFatContent": "8 g",
+      "unsaturatedFatContent": "6.2211566666667 g",
+      "cholesterolContent": "51 mg"
+    },
+    "recipeIngredient": [
+      "1 кг карфиол",
+      "200 г наденица",
+      "50 г брашно",
+      "50 г масло",
+      "750 мл. прясно мляко",
+      "1 ч.л. черен пипер",
+      "1 с.л. червен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Карфиолът (1 кг) се измива и накъсва на розички, след коетo се сварява до омекване във вряща подсолена вода. Изважда се и се отцежда. Маслото (50 г) се разтопява в дълбока тенджерка и към него се добавя брашното (50 г), което леко се запържва. Прибавят се прясното мляко (750 мл.), черният (1 ч.л.) и червеният пипер (1 с.л.) и сосът се бърка, докато се сгъсти. Подправя се със сол на вкус. Наденицата (200 г) се нарязва на колеца и заедно с розичките карфиол се подрежда в тавичка. Залива се със соса и се запича на фурна за около половин час при температура от 180 градуса. Ястието се поднася горещо. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "карфиол",
+      "qty": "1 кг",
+      "id": 91
+    },
+    {
+      "name": "наденица",
+      "qty": "200 г",
+      "id": 148
+    },
+    {
+      "name": "брашно",
+      "qty": "50 г",
+      "id": 7
+    },
+    {
+      "name": "масло",
+      "qty": "50 г",
+      "id": 8
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "750 мл.",
+      "id": 14
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "червен пипер",
+      "qty": "1 с.л.",
+      "id": 20
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

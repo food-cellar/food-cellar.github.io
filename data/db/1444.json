@@ -1,0 +1,108 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Фарфале паста с чери домати, царевица и тиквички на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/farfale-s-cheri-domati-carevica-i-tikvichki-1-[1444].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/farfale-s-cheri-domati-carevica-i-tikvichki-1-[1444].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/farfale-s-cheri-domati-carevica-i-tikvichki-1-[1444].jpg"
+    ],
+    "datePublished": "2011-05-16",
+    "cookTime": "PT1H10M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "335 calories",
+      "carbohydrateContent": "39 g",
+      "fatContent": "13 g",
+      "proteinContent": "15 g",
+      "saturatedFatContent": "7 g",
+      "unsaturatedFatContent": "4.07116375 g",
+      "cholesterolContent": "107 mg"
+    },
+    "recipeIngredient": [
+      "300 г фарфале",
+      "250 г тиквички",
+      "250 г чери домати",
+      "300 г царевица",
+      "3  яйца",
+      "125 мл. сметана",
+      "125 мл. прясно мляко",
+      "125 г моцарела",
+      "4 с.л. пармезан",
+      "1 с.л. риган",
+      "1 ч.л. черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Макароните (300 г) се сваряват в подсолена вода според указанията на опаковката. Отцеждат се и се изплакват със студена вода. Тиквичките (250 г) се измиват, почистват и нарязват на тънки ивици. Чери доматите (250 г) се измиват и разполовяват. Царевицата от консерва (300 г) се отцежда. Сметаната (125 мл.), яйцата (3 бр) и прясното мляко (125 мл.) се разбиват и се подправят със сол, черен пипер (1 ч.л.) и риган (1 с.л.). Зеленчуците и макароните се смесват, разбъркват и изсипват в тавичка. Заливат се с яйчената смес и се поръсват с настъргана моцарела (125 г) и настърган пармезан (4 с.л.). Пекат се в предварително загрята до 180 градуса фурна до златисто. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "фарфале",
+      "qty": "300 г",
+      "id": 55
+    },
+    {
+      "name": "тиквички",
+      "qty": "250 г",
+      "id": 39
+    },
+    {
+      "name": "чери домати",
+      "qty": "250 г",
+      "id": 15
+    },
+    {
+      "name": "царевица",
+      "qty": "300 г",
+      "id": 78
+    },
+    {
+      "name": "яйца",
+      "qty": "3",
+      "id": 5
+    },
+    {
+      "name": "сметана",
+      "qty": "125 мл.",
+      "id": 19
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "125 мл.",
+      "id": 14
+    },
+    {
+      "name": "моцарела",
+      "qty": "125 г",
+      "id": 93
+    },
+    {
+      "name": "пармезан",
+      "qty": "4 с.л.",
+      "id": 59
+    },
+    {
+      "name": "риган",
+      "qty": "1 с.л.",
+      "id": 65
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

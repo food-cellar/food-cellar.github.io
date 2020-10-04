@@ -1,0 +1,106 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Леща с наденица, картофи, моркови и дафинов лист",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/leshta-s-nadenica-kartofi-morkovi-i-dafinov-list-1-[2846].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/leshta-s-nadenica-kartofi-morkovi-i-dafinov-list-1-[2846].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/leshta-s-nadenica-kartofi-morkovi-i-dafinov-list-1-[2846].jpg"
+    ],
+    "datePublished": "2014-03-05",
+    "cookTime": "PT0H50M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "335 calories",
+      "carbohydrateContent": "52 g",
+      "fatContent": "7 g",
+      "proteinContent": "16 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "6.1869375 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1 ч.ч. леща",
+      "1  морков",
+      "2  картофа",
+      "4  наденица",
+      "4 скилидки чесън",
+      "1 с.л. чубрица",
+      "1 с.л. червен пипер",
+      "1 ч.л. черен пипер",
+      "4 листа дафинов лист",
+      "4 с.л. олио",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Лещата (1 ч.ч.) се сварява заедно с нарязаните картофи (2 бр) морков (1 бр), сол и олио. Щом омекне, се прибавя счуканият със сол чесън (4 скилидки)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "След това се прибавят нарязаните на колелца наденици (4 бр), а също и подправките. Ястието се готви до пълното омекване на лещата и готовност на месото. Сервира се гореща, като дафиновите листа се отстраняват след готвенето."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "леща",
+      "qty": "1 ч.ч.",
+      "id": 106
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "картофа",
+      "qty": "2",
+      "id": 16
+    },
+    {
+      "name": "наденица",
+      "qty": "4",
+      "id": 148
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "чубрица",
+      "qty": "1 с.л.",
+      "id": 36
+    },
+    {
+      "name": "червен пипер",
+      "qty": "1 с.л.",
+      "id": 20
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "дафинов лист",
+      "qty": "4 листа",
+      "id": 70
+    },
+    {
+      "name": "олио",
+      "qty": "4 с.л.",
+      "id": 4
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

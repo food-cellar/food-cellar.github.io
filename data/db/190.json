@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Соеви хапки с моркови и царевица",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/soevi-hapki-s-morkovi-i-carevica-1-[190].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/soevi-hapki-s-morkovi-i-carevica-1-[190].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/soevi-hapki-s-morkovi-i-carevica-1-[190].jpg"
+    ],
+    "datePublished": "2010-12-02",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "400 calories",
+      "carbohydrateContent": "43 g",
+      "fatContent": "3 g",
+      "proteinContent": "56 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "1.845405 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "250 г соеви хапки",
+      "1/2 кг моркови",
+      "1 кутия варена царевица",
+      "сол",
+      "олио",
+      "1 с.л. горчица",
+      "1 ч.ч. бира",
+      "чесън на прах",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Соевите хапки (250 г) се заливат с гореща вода и се оставят да набъбнат. След това се смесват с разбитата с бира (1 ч.ч.) горчица (1 с.л.) и подправките, изсипват се в тава, поръсват се с олио и се пекат на фурна до пълна готовност. Морковите (1/2 кг) се нарязват на пръчици и се задушават във вода и масло с малко сол и черен пипер. Щом станат готови, се смесват с царевицата (1 кутия). Соевите хапки се поднасят топли с гарнитура от задушени моркови и варена царевица."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "соеви хапки",
+      "qty": "250 г",
+      "id": 224
+    },
+    {
+      "name": "моркови",
+      "qty": "1/2 кг",
+      "id": 13
+    },
+    {
+      "name": "варена царевица",
+      "qty": "1 кутия",
+      "id": 78
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "олио",
+      "qty": "Parsing error",
+      "id": 4
+    },
+    {
+      "name": "горчица",
+      "qty": "1 с.л.",
+      "id": 64
+    },
+    {
+      "name": "бира",
+      "qty": "1 ч.ч.",
+      "id": 137
+    },
+    {
+      "name": "чесън на прах",
+      "qty": "Parsing error",
+      "id": 6
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

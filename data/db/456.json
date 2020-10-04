@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Панирана пикантна риба херинга",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pikantna-riba-2-[456].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pikantna-riba-2-[456].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pikantna-riba-2-[456].jpg"
+    ],
+    "datePublished": "2010-12-09",
+    "cookTime": "PT0H25M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "564 calories",
+      "carbohydrateContent": "12 g",
+      "fatContent": "25 g",
+      "proteinContent": "47 g",
+      "saturatedFatContent": "5 g",
+      "unsaturatedFatContent": "16.634195 g",
+      "cholesterolContent": "150 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг филе от херинга",
+      "2 с.л. лимонов сок",
+      "1 ч.ч. бяло вино",
+      "2 с.л. галета",
+      "1 скилидки чесън",
+      "черен пипер",
+      "сол",
+      "1 с.л. олио",
+      "2 с.л. соев сос",
+      "брашно"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Филето (1/2 кг) се нарязва на ивици по диагонал, овалва се в брашно и се изпържва в нагорещеното олио. Изважда се и се оставя на страна. В олиото (1 с.л.) се запържва галетата. Налива се виното (1 ч.ч.), добавят се лимоновият сок (2 с.л.), чесънът (1 скилидки), подправките и соевият сос (2 с.л.). Сосът ври до сгъстяване. С него се полива рибата преди да се поднесе. Подxодящата гарнитура за това ястие са вареният бял ориз, варените картофи и салата от зеленчуци според сезона. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "филе от херинга",
+      "qty": "1/2 кг",
+      "id": 269
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "2 с.л.",
+      "id": 17
+    },
+    {
+      "name": "бяло вино",
+      "qty": "1 ч.ч.",
+      "id": 41
+    },
+    {
+      "name": "галета",
+      "qty": "2 с.л.",
+      "id": 58
+    },
+    {
+      "name": "чесън",
+      "qty": "1 скилидки",
+      "id": 6
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "олио",
+      "qty": "1 с.л.",
+      "id": 4
+    },
+    {
+      "name": "соев сос",
+      "qty": "2 с.л.",
+      "id": 53
+    },
+    {
+      "name": "брашно",
+      "qty": "Parsing error",
+      "id": 7
+    }
+  ]
+}

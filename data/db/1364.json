@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Фаршировани (пълнени) яйца с авокадо, майонеза и горчица",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/farshirovani-iaica-s-avokado-2-[1364].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/farshirovani-iaica-s-avokado-2-[1364].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/farshirovani-iaica-s-avokado-2-[1364].jpg"
+    ],
+    "datePublished": "2011-05-23",
+    "cookTime": "PT0H10M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "113 calories",
+      "carbohydrateContent": "2 g",
+      "fatContent": "8 g",
+      "proteinContent": "6 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "5.4390725 g",
+      "cholesterolContent": "187 mg"
+    },
+    "recipeIngredient": [
+      "8  яйца",
+      "1  авокадо",
+      "1 ч.л. горчица",
+      "1 с.л. лимонов сок",
+      "1 с.л. майонеза",
+      "1 щип. черен пипер",
+      "сол",
+      "4 стръка копър"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Твърдо сварените яйца (8 бр) се разполовяват по дължина и жълтъците им се отстраняват. Мекото авокадо (1 бр) се обелва, костилката му се премахва и то се поставя в блендер. Пасира се заедно с жълтъците, майонезата (1 с.л.), горчицата (1 ч.л.), лимоновия сок (1 с.л.), копъра и подправките. С получената смес се пълнят яйцата. За напълването им може да се използва шприц. Яйцата се поднасят, поръсени с черен пипер и украсени със свежи стръкчета копър (4 стръка). "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "яйца",
+      "qty": "8",
+      "id": 5
+    },
+    {
+      "name": "авокадо",
+      "qty": "1",
+      "id": 83
+    },
+    {
+      "name": "горчица",
+      "qty": "1 ч.л.",
+      "id": 64
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    },
+    {
+      "name": "майонеза",
+      "qty": "1 с.л.",
+      "id": 80
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 щип.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "копър",
+      "qty": "4 стръка",
+      "id": 28
+    }
+  ]
+}

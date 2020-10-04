@@ -1,0 +1,92 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пържени картофени кюфтета в галета с топено сирене и чесън",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kartofeni-kufteta-s-topeno-sirene-i-chesun-2-[2555].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kartofeni-kufteta-s-topeno-sirene-i-chesun-2-[2555].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kartofeni-kufteta-s-topeno-sirene-i-chesun-2-[2555].jpg"
+    ],
+    "datePublished": "2017-06-13",
+    "cookTime": "PT1H0M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "193 calories",
+      "carbohydrateContent": "28 g",
+      "fatContent": "4 g",
+      "proteinContent": "8 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "1.342555 g",
+      "cholesterolContent": "58 mg"
+    },
+    "recipeIngredient": [
+      "1 1/4 кг картофи",
+      "2  яйца",
+      "200 г топено сирене",
+      "6 скилидки чесън",
+      "1/2 ч.л. черен пипер",
+      "сол",
+      "галета",
+      "олио"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Картофите (1 1/4 кг) се сваряват, обелват и намачкват с вилица. Към получената смес се добавя суровите яйца (2 бр), черният пипер (1/2 ч.л.), солта и счуканият чесън (6 скилидки). Всичко се омесва и оставя за половин час да престои в хладилник."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "От картофената смес се оформят кюфтета, като в центъра им се поставя парченце топено сирене (200 г). Най-лесно е с мокри ръце да се хване сиренето и около него да се оформи картофената смес до получаване на кюфте."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Картофените кюфтета се намазват с олио и се овалват в галета и се пържат в предварително загрято олио до готовност. Поднасят се както топли, така и студени."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "картофи",
+      "qty": "1 1/4 кг",
+      "id": 16
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "топено сирене",
+      "qty": "200 г",
+      "id": 112
+    },
+    {
+      "name": "чесън",
+      "qty": "6 скилидки",
+      "id": 6
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1/2 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "галета",
+      "qty": "Parsing error",
+      "id": 58
+    },
+    {
+      "name": "олио",
+      "qty": "Parsing error",
+      "id": 4
+    }
+  ]
+}

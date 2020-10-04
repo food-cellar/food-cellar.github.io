@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Солена палачинка с моркови и тиквени семки",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/palachinka-s-morkovi-i-tikveni-semki-5-[1433].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/palachinka-s-morkovi-i-tikveni-semki-5-[1433].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/palachinka-s-morkovi-i-tikveni-semki-5-[1433].jpg"
+    ],
+    "datePublished": "2011-05-10",
+    "cookTime": "PT0H30M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "756 calories",
+      "carbohydrateContent": "66 g",
+      "fatContent": "38 g",
+      "proteinContent": "36 g",
+      "saturatedFatContent": "14 g",
+      "unsaturatedFatContent": "20.28752 g",
+      "cholesterolContent": "444 mg"
+    },
+    "recipeIngredient": [
+      "4  яйца",
+      "250 мл. прясно мляко",
+      "120 г брашно",
+      "200 г моркови",
+      "100 г шунка",
+      "3 с.л. тиквени семки",
+      "черен пипер",
+      "сол",
+      "1 с.л. масло"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Тиквените семки (3 с.л.) се изпичат в сух тиган за кратко. В дълбока купа се разбиват яйцата (4 бр), прясното мляко (250 мл.) и брашното (120 г). Щом се получи гладка смес, се добавят настърганите на ситното ренде моркови (200 г), нарязаната на кубчета шунка (100 г) и тиквените семки. Сместа се подправя с черен пипер и сол на вкус. Маслото (1 с.л.) се загрява в тиган и се изсипва 1/2 от тестото. Пържи се около 5 минути на слаб огън, след което се обръща, за да се изпържи и от другата страна. По същия начин се приготвя и останалата част от тестото. Палачинките се сервират топли. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "яйца",
+      "qty": "4",
+      "id": 5
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "250 мл.",
+      "id": 14
+    },
+    {
+      "name": "брашно",
+      "qty": "120 г",
+      "id": 7
+    },
+    {
+      "name": "моркови",
+      "qty": "200 г",
+      "id": 13
+    },
+    {
+      "name": "шунка",
+      "qty": "100 г",
+      "id": 76
+    },
+    {
+      "name": "тиквени семки",
+      "qty": "3 с.л.",
+      "id": 189
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "масло",
+      "qty": "1 с.л.",
+      "id": 8
+    }
+  ]
+}

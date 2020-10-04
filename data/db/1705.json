@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Коктейл Мидори Маргарита",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kokteil-midori-margarita-2-[1705].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kokteil-midori-margarita-2-[1705].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kokteil-midori-margarita-2-[1705].jpg"
+    ],
+    "datePublished": "2013-02-20",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Коктейли",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "246 calories",
+      "carbohydrateContent": "15 g",
+      "fatContent": "0 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.011461764705882 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "50 мл. текила",
+      "15 мл. трипъл сек",
+      "30 мл. сок от лайм",
+      "15 мл. ликьор от пъпеш Мидори",
+      "1 щип. сол",
+      "1  коктейлна черешка",
+      "резен лайм"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Текилата (50 мл.), ликьорът трипъл сек (15 мл.), сокът от лайм (30 мл.) и ликьорът от пъпеш Мидори (15 мл.) се разбъркват в шейкър. Коктейлът се изсипва в чаша за маргарита, ръбчето на която предварително е украсена със сол. Преди поднасяне коктейлът се украсява с коктейлна черешка и резен лайм."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "текила",
+      "qty": "50 мл.",
+      "id": 283
+    },
+    {
+      "name": "трипъл сек",
+      "qty": "15 мл.",
+      "id": 209
+    },
+    {
+      "name": "сок от лайм",
+      "qty": "30 мл.",
+      "id": 212
+    },
+    {
+      "name": "ликьор от пъпеш Мидори",
+      "qty": "15 мл.",
+      "id": 305
+    },
+    {
+      "name": "сол",
+      "qty": "1 щип.",
+      "id": 1
+    },
+    {
+      "name": "коктейлна черешка",
+      "qty": "1",
+      "id": 126
+    },
+    {
+      "name": "лайм",
+      "qty": "резен",
+      "id": 204
+    }
+  ]
+}

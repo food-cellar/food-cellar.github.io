@@ -1,0 +1,102 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Шиш кебап",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/shish-kebap-1-[1015].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/shish-kebap-1-[1015].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/shish-kebap-1-[1015].jpg"
+    ],
+    "datePublished": "2011-06-03",
+    "cookTime": "PT0H40M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "314 calories",
+      "carbohydrateContent": "22 g",
+      "fatContent": "8 g",
+      "proteinContent": "36 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "4.6767966666667 g",
+      "cholesterolContent": "108 mg"
+    },
+    "recipeIngredient": [
+      "4 глави лук",
+      "1 кг пилешко месо",
+      "800 г печени чушки",
+      "3 с.л. доматено пюре",
+      "4 с.л. брашно",
+      "джоджен",
+      "1 скилидка чесън",
+      "магданоз",
+      "3 с.л. олио",
+      "дафинов лист",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилешкото месо (1 кг) се нарязва на хапки, а лукът (4 глави) на филийки. Запържват се заедно с доматеното пюре (3 с.л.). Изсипват се в тавичка и към тях се добавят подправките. Брашното (4 с.л.) се разбива в студена вода и с него се залива ястието, така че течността да покрие месото. Ястието се пече в умерена фурна до готовност."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "лук",
+      "qty": "4 глави",
+      "id": 3
+    },
+    {
+      "name": "пилешко месо",
+      "qty": "1 кг",
+      "id": 49
+    },
+    {
+      "name": "печени чушки",
+      "qty": "800 г",
+      "id": 18
+    },
+    {
+      "name": "доматено пюре",
+      "qty": "3 с.л.",
+      "id": 35
+    },
+    {
+      "name": "брашно",
+      "qty": "4 с.л.",
+      "id": 7
+    },
+    {
+      "name": "джоджен",
+      "qty": "Parsing error",
+      "id": 60
+    },
+    {
+      "name": "чесън",
+      "qty": "1 скилидка",
+      "id": 6
+    },
+    {
+      "name": "магданоз",
+      "qty": "Parsing error",
+      "id": 12
+    },
+    {
+      "name": "олио",
+      "qty": "3 с.л.",
+      "id": 4
+    },
+    {
+      "name": "дафинов лист",
+      "qty": "Parsing error",
+      "id": 70
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

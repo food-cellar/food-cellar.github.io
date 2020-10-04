@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Гювечета с картофи и праз",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/guvecheta-s-kartofi-i-praz-3-[1181].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/guvecheta-s-kartofi-i-praz-3-[1181].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/guvecheta-s-kartofi-i-praz-3-[1181].jpg"
+    ],
+    "datePublished": "2011-04-22",
+    "cookTime": "PT0H40M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "431 calories",
+      "carbohydrateContent": "52 g",
+      "fatContent": "14 g",
+      "proteinContent": "19 g",
+      "saturatedFatContent": "8 g",
+      "unsaturatedFatContent": "5.09868 g",
+      "cholesterolContent": "225 mg"
+    },
+    "recipeIngredient": [
+      "1 кг картофи",
+      "2 стръка праз лук",
+      "100 г сирене",
+      "140 г топено сирене",
+      "4  яйца",
+      "черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Картофите (1 кг) се обелват, нарязват се на кубчета и се задушават във вряща подсолена вода. Десет минути преди да се сварят се добавя празът (2 стръка), нарязан на колелца. Когато зеленчуците омекнат, се изваждат и отцеждат добре. Разбъркват се с топеното сирене (140 г), посоляват се и се подправят с черен пипер. С тях се пълнят гювечета, в чието дъно е поставено натрошено сирене (100 г). Във всяко гювече се чуква по едно яйце и ястието се запича в предварително загрята фурна за половин час."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "картофи",
+      "qty": "1 кг",
+      "id": 16
+    },
+    {
+      "name": "праз лук",
+      "qty": "2 стръка",
+      "id": 51
+    },
+    {
+      "name": "сирене",
+      "qty": "100 г",
+      "id": 32
+    },
+    {
+      "name": "топено сирене",
+      "qty": "140 г",
+      "id": 112
+    },
+    {
+      "name": "яйца",
+      "qty": "4",
+      "id": 5
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

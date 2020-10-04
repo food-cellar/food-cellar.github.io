@@ -1,0 +1,102 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Чеснова крем супа с картофи и заквасена сметана",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/chesnova-krem-supa-1-[694].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/chesnova-krem-supa-1-[694].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/chesnova-krem-supa-1-[694].jpg"
+    ],
+    "datePublished": "2010-11-28",
+    "cookTime": "PT0H40M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "472 calories",
+      "carbohydrateContent": "45 g",
+      "fatContent": "26 g",
+      "proteinContent": "15 g",
+      "saturatedFatContent": "16 g",
+      "unsaturatedFatContent": "8.1224225 g",
+      "cholesterolContent": "66 mg"
+    },
+    "recipeIngredient": [
+      "100 г заквасена сметана",
+      "3 глави чесън",
+      "3 с.л. бяло вино",
+      "2 л. пилешки бульон",
+      "3  картофа",
+      "100 г масло",
+      "100 г лук",
+      "сол",
+      "черен пипер",
+      "дафинов лист",
+      "куркума"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "В тенджера се разтопява маслото (100 г), прибавят се счуканият чесън (3 глави), нарязаният на ситно лук (100 г) и дафиновият лист. Готвят се на слаб огън 20 минути. Добавят се бульонът (2 л.), куркумата, довежда се до кипене, слагат се картофите (3 бр), нарязани на неголеми кубчета и ястието се вари 15 минути. Налива се виното (3 с.л.) и дафиновият лист се изважда. В блендера супата се пюрира. Налива се обратно в тенджерата, прибавя се сметаната (100 г) и се загрява, без да се допуска завиране."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "заквасена сметана",
+      "qty": "100 г",
+      "id": 73
+    },
+    {
+      "name": "чесън",
+      "qty": "3 глави",
+      "id": 6
+    },
+    {
+      "name": "бяло вино",
+      "qty": "3 с.л.",
+      "id": 41
+    },
+    {
+      "name": "пилешки бульон",
+      "qty": "2 л.",
+      "id": 26
+    },
+    {
+      "name": "картофа",
+      "qty": "3",
+      "id": 16
+    },
+    {
+      "name": "масло",
+      "qty": "100 г",
+      "id": 8
+    },
+    {
+      "name": "лук",
+      "qty": "100 г",
+      "id": 3
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "дафинов лист",
+      "qty": "Parsing error",
+      "id": 70
+    },
+    {
+      "name": "куркума",
+      "qty": "Parsing error",
+      "id": 118
+    }
+  ]
+}

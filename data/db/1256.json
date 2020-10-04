@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Паприкаш със свински бут",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/paprikash-sus-svinsko-2-[1256].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/paprikash-sus-svinsko-2-[1256].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/paprikash-sus-svinsko-2-[1256].jpg"
+    ],
+    "datePublished": "2011-04-22",
+    "cookTime": "PT1H10M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "318 calories",
+      "carbohydrateContent": "10 g",
+      "fatContent": "23 g",
+      "proteinContent": "16 g",
+      "saturatedFatContent": "7 g",
+      "unsaturatedFatContent": "13.626403333333 g",
+      "cholesterolContent": "60 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг свински бут",
+      "1/2 кг печени чушки",
+      "2 глави лук",
+      "3 с.л. зехтин",
+      "2 с.л. доматено пюре",
+      "1 с.л. червен пипер",
+      "черен пипер",
+      "сол",
+      "1/2 л. месен бульон"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Свинското месо от бут (1/2 кг) се нарязва на хапки и се вари до омекване. Лукът (2 глави) се нарязва на малки кубчета и се задушава в зехтина (3 с.л.) до златисто. Към него се прибавят месото, нарязаните на едри парчета печени белени червени чушки (1/2 кг), доматеното пюре (2 с.л.), подправките и горещият бульон (1/2 л.). Ястието се вари до готовност. Поднася се топло, поръсено с пресен копър или магданоз. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "свински бут",
+      "qty": "1/2 кг",
+      "id": 67
+    },
+    {
+      "name": "печени чушки",
+      "qty": "1/2 кг",
+      "id": 18
+    },
+    {
+      "name": "лук",
+      "qty": "2 глави",
+      "id": 3
+    },
+    {
+      "name": "зехтин",
+      "qty": "3 с.л.",
+      "id": 10
+    },
+    {
+      "name": "доматено пюре",
+      "qty": "2 с.л.",
+      "id": 35
+    },
+    {
+      "name": "червен пипер",
+      "qty": "1 с.л.",
+      "id": 20
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "месен бульон",
+      "qty": "1/2 л.",
+      "id": 26
+    }
+  ]
+}

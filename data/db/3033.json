@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Картофени рьощи - лесни картофени кюфтета на ренде без яйца и без лук на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kartofeni-riooshti-lesni-kartofeni-kufteta-na-furna-1-[3033].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kartofeni-riooshti-lesni-kartofeni-kufteta-na-furna-1-[3033].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kartofeni-riooshti-lesni-kartofeni-kufteta-na-furna-1-[3033].jpg"
+    ],
+    "datePublished": "2015-01-08",
+    "cookTime": "PT0H40M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "292 calories",
+      "carbohydrateContent": "43 g",
+      "fatContent": "11 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "9.61875 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1 кг картофи",
+      "50 мл. олио",
+      "1/2 ч.л. сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Картофите (1 кг) се настъргват на ренде. Отцеждат се добре в тензухена кърпа или марля, докато отделят колкото е възможно повече от сока си."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "След това се омесват с олио (50 мл.) и сол (1/2 ч.л.) и от сместа се оформят плоски кюфтета. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Пекат се върху хартия за печене във фурна, загрята до 190 градуса, около 40 минути, като се обръщат и от другата страна. Трябва да добият златист загар."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Рьощи е другото име на това ястие и идва от швейцарската национална кухня."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "картофи",
+      "qty": "1 кг",
+      "id": 16
+    },
+    {
+      "name": "олио",
+      "qty": "50 мл.",
+      "id": 4
+    },
+    {
+      "name": "сол",
+      "qty": "1/2 ч.л.",
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Постна ябълкова вита баница с орехи и канела",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/postna-iabulkova-banica-2-[1151].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/postna-iabulkova-banica-2-[1151].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/postna-iabulkova-banica-2-[1151].jpg"
+    ],
+    "datePublished": "2010-12-18",
+    "cookTime": "PT0H45M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "336 calories",
+      "carbohydrateContent": "43 g",
+      "fatContent": "17 g",
+      "proteinContent": "4 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "13.250933333333 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "6  кори за баница",
+      "3  ябълки",
+      "1 к.ч. орехи",
+      "1 к.ч. захар",
+      "100 г маргарин",
+      "1 ч.л. канела",
+      "1 с.л. пудра захар"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Разгънатите кори за баница (6 бр) се намазват с маргарин (100 г) (необходимо е той да бъде със стайна температура), поръсват се със захар (1 к.ч.), настъргани ябълки (3 бр), смлени орехи (1 к.ч.) и канела (1 ч.л.). Завиват се на руло и с тях се оформя вита баница в кръгла намазнена тавичка. Изпича се на силна фурна до позлатяване. Когато изстине, ябълковата баница се поръсва с пудра захар (1 с.л.)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "кори за баница",
+      "qty": "6",
+      "id": 138
+    },
+    {
+      "name": "ябълки",
+      "qty": "3",
+      "id": 85
+    },
+    {
+      "name": "орехи",
+      "qty": "1 к.ч.",
+      "id": 31
+    },
+    {
+      "name": "захар",
+      "qty": "1 к.ч.",
+      "id": 9
+    },
+    {
+      "name": "маргарин",
+      "qty": "100 г",
+      "id": 202
+    },
+    {
+      "name": "канела",
+      "qty": "1 ч.л.",
+      "id": 46
+    },
+    {
+      "name": "пудра захар",
+      "qty": "1 с.л.",
+      "id": 34
+    }
+  ]
+}

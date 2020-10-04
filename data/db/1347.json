@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Сандвич с пушена сьомга и сирене Крема",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/sandvich-sus-sioomga-i-sirene-krema-4-[1347].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/sandvich-sus-sioomga-i-sirene-krema-4-[1347].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/sandvich-sus-sioomga-i-sirene-krema-4-[1347].jpg"
+    ],
+    "datePublished": "2011-01-26",
+    "cookTime": "PT0H5M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Сандвичи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "530 calories",
+      "carbohydrateContent": "52 g",
+      "fatContent": "25 g",
+      "proteinContent": "25 g",
+      "saturatedFatContent": "14 g",
+      "unsaturatedFatContent": "9.062935 g",
+      "cholesterolContent": "80 mg"
+    },
+    "recipeIngredient": [
+      "2  питки хляб",
+      "100 г пушена сьомга",
+      "2 листа айсберг",
+      "2 листа радичио",
+      "125 г сирене Крема"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Питките (2 бр) се разполовяват на две по дължина. Най-добре е те да бъдат пресни и от черен хляб. Намазват се със сиренето Крема (125 г) и върху него се подреждат по един лист салата айсберг и радичио, и по две филета пушена сьомга (100 г). Сандвичите се захлупват и сервират веднага."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "питки хляб",
+      "qty": "2",
+      "id": 175
+    },
+    {
+      "name": "пушена сьомга",
+      "qty": "100 г",
+      "id": 215
+    },
+    {
+      "name": "айсберг",
+      "qty": "2 листа",
+      "id": 101
+    },
+    {
+      "name": "радичио",
+      "qty": "2 листа",
+      "id": 308
+    },
+    {
+      "name": "сирене Крема",
+      "qty": "125 г",
+      "id": 103
+    }
+  ]
+}

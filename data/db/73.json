@@ -1,0 +1,98 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Бяла риба със спанак, макарони и чедър",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/biala-riba-sus-spanak-i-makaroni-3-[73].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/biala-riba-sus-spanak-i-makaroni-3-[73].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/biala-riba-sus-spanak-i-makaroni-3-[73].jpg"
+    ],
+    "datePublished": "2010-12-04",
+    "cookTime": "PT0H40M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "476 calories",
+      "carbohydrateContent": "52 g",
+      "fatContent": "14 g",
+      "proteinContent": "32 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "8.09388 g",
+      "cholesterolContent": "73 mg"
+    },
+    "recipeIngredient": [
+      "400 г бяла риба",
+      "1 пакет спанак",
+      "250 пакет макарони",
+      "50 г чедър",
+      "6 скилидки  чесън",
+      "1 глава  лук",
+      "2 с.л. олио",
+      "сол",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Рибата (400 г) се посолява и подправя с черен пипер. Изпича се в тиган без мазнина."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Спанакът (1 пакет) се задушава в олиото заедно със ситно нарязания лук (1 глава) и малко сол. Малко преди да се отстрани от огъня, му се добавя счуканият със сол чесън (6 скилидки) и се разбърква."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Макароните (250 пакет) се сваряват в подсолена вода и се отцеждат. В порционни чинии се нареждат сварените макарони. Покриват се със задушения спанак. Върху тях се слага опечената риба и се поръсва с настърган чедър (50 г)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "бяла риба",
+      "qty": "400 г",
+      "id": 102
+    },
+    {
+      "name": "спанак",
+      "qty": "1 пакет",
+      "id": 40
+    },
+    {
+      "name": "макарони",
+      "qty": "250 пакет",
+      "id": 129
+    },
+    {
+      "name": "чедър",
+      "qty": "50 г",
+      "id": 153
+    },
+    {
+      "name": "чесън",
+      "qty": "6 скилидки",
+      "id": 6
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

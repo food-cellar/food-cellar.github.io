@@ -1,0 +1,108 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Супа от патешки фенери",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/supa-ot-pateshki-feneri-1-[3152].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/supa-ot-pateshki-feneri-1-[3152].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/supa-ot-pateshki-feneri-1-[3152].jpg"
+    ],
+    "datePublished": "2017-01-06",
+    "cookTime": "PT0H50M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "700 calories",
+      "carbohydrateContent": "11 g",
+      "fatContent": "45 g",
+      "proteinContent": "59 g",
+      "saturatedFatContent": "16 g",
+      "unsaturatedFatContent": "22.7902075 g",
+      "cholesterolContent": "308 mg"
+    },
+    "recipeIngredient": [
+      "2  патешки фенера",
+      "1 глава лук",
+      "1  морков",
+      "2  червени чушки",
+      "50 г глава от целина",
+      "100 мл. доматен сок",
+      "1  яйце",
+      "100 г кисело мляко",
+      "1 връзка магданоз",
+      "100 г патешка мазнина"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Патешките фенери (2 бр) се измиват и почистват, след което се сваряват в подсолена вода. Готови са, щом останалото месо се отделя лесно."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Фенерите се обезкостяват. Месото се отделя и накъсва на парченца, а бульонът се прецежда. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Зеленчуците се нарязват на ситно и заедно с месото и патешката мазнина (100 г) се добавят при прецедения бульон. Слага се да ври на тих огън за около 20 минути. Малко преди да това се слага доматеният сок (100 мл.)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "От киселото мляко (100 г) и яйцето (1 бр) се прави застройка. Сипва се при супата и се оставя на изключен котлон 5-10 минути. Прибавя се и нарязаният на ситно магданоз."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "патешки фенера",
+      "qty": "2",
+      "id": 210
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "червени чушки",
+      "qty": "2",
+      "id": 18
+    },
+    {
+      "name": "глава от целина",
+      "qty": "50 г",
+      "id": 30
+    },
+    {
+      "name": "доматен сок",
+      "qty": "100 мл.",
+      "id": 201
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    },
+    {
+      "name": "кисело мляко",
+      "qty": "100 г",
+      "id": 21
+    },
+    {
+      "name": "магданоз",
+      "qty": "1 връзка",
+      "id": 12
+    },
+    {
+      "name": "патешка мазнина",
+      "qty": "100 г",
+      "id": 364
+    }
+  ]
+}

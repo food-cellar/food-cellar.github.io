@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Заешко задушено по средиземноморски",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zaeshko-zadusheno-po-sredizemnomorski-2-[1758].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zaeshko-zadusheno-po-sredizemnomorski-2-[1758].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zaeshko-zadusheno-po-sredizemnomorski-2-[1758].jpg"
+    ],
+    "datePublished": "2011-10-17",
+    "cookTime": "PT2H0M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "469 calories",
+      "carbohydrateContent": "56 g",
+      "fatContent": "7 g",
+      "proteinContent": "32 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "2.6128283333333 g",
+      "cholesterolContent": "71 mg"
+    },
+    "recipeIngredient": [
+      "1  заек",
+      "1 1/4 кг картофи",
+      "4  моркова",
+      "2 ч.ч. червено вино",
+      "4 ч.ч. вода",
+      "4 ч.ч. доматено пюре",
+      "2 броя дафинов лист",
+      "1 с.л. бахар"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Заешкото месо (1 бр) се сварява за 1 час, след което се отцежда, охлажда, обезкостява и се нарязва на малки парченца. Картофите (1 1/4 кг) се обелват и нарязват на големи кубчета, а морковите (4 бр) се измиват и нарязват на кръгчета. Слагат се в голяма тенджера, заедно със заешкото месо, дафиновия лист (2 броя) и бахара (1 с.л.), заливат се с вода (4 ч.ч.) и червено вино (2 ч.ч.), и се оставят да къкрят 40-45 минути, или докато картофите поомекнат. Ако е необходимо, се добавя още вода. Накрая се слага доматеното пюре (4 ч.ч.) и се овкусява със сол и черен пипер на вкус. При сервиране дафиновият лист се отстранява. По желание може да се добави и лют пипер."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "заек",
+      "qty": "1",
+      "id": 223
+    },
+    {
+      "name": "картофи",
+      "qty": "1 1/4 кг",
+      "id": 16
+    },
+    {
+      "name": "моркова",
+      "qty": "4",
+      "id": 13
+    },
+    {
+      "name": "червено вино",
+      "qty": "2 ч.ч.",
+      "id": 98
+    },
+    {
+      "name": "вода",
+      "qty": "4 ч.ч.",
+      "id": 11
+    },
+    {
+      "name": "доматено пюре",
+      "qty": "4 ч.ч.",
+      "id": 35
+    },
+    {
+      "name": "дафинов лист",
+      "qty": "2 броя",
+      "id": 70
+    },
+    {
+      "name": "бахар",
+      "qty": "1 с.л.",
+      "id": 158
+    }
+  ]
+}

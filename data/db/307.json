@@ -1,0 +1,120 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Панирана маслена риба в пшеничен грис със соев сос",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/maslena-riba-sus-soev-sos-1-[307].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/maslena-riba-sus-soev-sos-1-[307].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/maslena-riba-sus-soev-sos-1-[307].jpg"
+    ],
+    "datePublished": "2010-11-23",
+    "cookTime": "PT0H10M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "728 calories",
+      "carbohydrateContent": "66 g",
+      "fatContent": "26 g",
+      "proteinContent": "55 g",
+      "saturatedFatContent": "10 g",
+      "unsaturatedFatContent": "12.9958 g",
+      "cholesterolContent": "170 mg"
+    },
+    "recipeIngredient": [
+      "1 кг маслена риба",
+      "2 ч.л. олио",
+      "4 к.ч. пшеничен грис",
+      "сол",
+      "2 с.л. соев сос",
+      "черен пипер",
+      "1 глава карфиол",
+      "2  картофа",
+      "1 стрък зелен лук",
+      "1 с.л. олио",
+      "сол",
+      "1 с.л. лимонов сок",
+      "200 г тиква “цигулка”",
+      "1 с.л. масло"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Рибата (1 кг) се разрязва по дължина на две. Всяка половинка се посолява и подправя с млян черен пипер. Овалва се в пшеничен грис и се пържи до готовност в предварително загрят тиган грил, в който е капнато малко олио. Поднася се гарнирана с картофена салата, задушен карфиол, пържена в масло тиква, и полята със соев сос."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "маслена риба",
+      "qty": "1 кг",
+      "id": 102
+    },
+    {
+      "name": "олио",
+      "qty": "2 ч.л.",
+      "id": 4
+    },
+    {
+      "name": "пшеничен грис",
+      "qty": "4 к.ч.",
+      "id": 140
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "соев сос",
+      "qty": "2 с.л.",
+      "id": 53
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "карфиол",
+      "qty": "1 глава",
+      "id": 91
+    },
+    {
+      "name": "картофа",
+      "qty": "2",
+      "id": 16
+    },
+    {
+      "name": "зелен лук",
+      "qty": "1 стрък",
+      "id": 24
+    },
+    {
+      "name": "олио",
+      "qty": "1 с.л.",
+      "id": 4
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    },
+    {
+      "name": "тиква “цигулка”",
+      "qty": "200 г",
+      "id": 116
+    },
+    {
+      "name": "масло",
+      "qty": "1 с.л.",
+      "id": 8
+    }
+  ]
+}

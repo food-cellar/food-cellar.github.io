@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Тортияс - лесен вариант",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/tortiias-lesen-variant-1-[831].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/tortiias-lesen-variant-1-[831].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/tortiias-lesen-variant-1-[831].jpg"
+    ],
+    "datePublished": "2011-01-15",
+    "cookTime": "PT0H30M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Хлебни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "261 calories",
+      "carbohydrateContent": "47 g",
+      "fatContent": "4 g",
+      "proteinContent": "8 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "2.37758 g",
+      "cholesterolContent": "94 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг царевично брашно",
+      "4  яйца",
+      "150 мл. вода",
+      "сол",
+      "1 ч.л. сода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Яйцата (4 бр) се разбиват на пяна. Прибавя се брашното (1/2 кг) заедно със содата (1 ч.л.) и солта и разбърква. Тестото се разрежда постепенно с водата (150 мл.) при непрекъснато бъркане. Трябва да се получи консистенция като на боза. В нагорещен тиган с незалепващо покритие се налива 1 черпак от течното тесто и се изпича от двете страни. Това се прави до изчерпване на количеството."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "царевично брашно",
+      "qty": "1/2 кг",
+      "id": 169
+    },
+    {
+      "name": "яйца",
+      "qty": "4",
+      "id": 5
+    },
+    {
+      "name": "вода",
+      "qty": "150 мл.",
+      "id": 11
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "сода",
+      "qty": "1 ч.л.",
+      "id": 56
+    }
+  ]
+}

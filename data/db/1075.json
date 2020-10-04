@@ -1,0 +1,74 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Коктейл Манхатън (Manhattan)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/-kokteil-manhatun-1-[1075].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/-kokteil-manhatun-1-[1075].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/-kokteil-manhatun-1-[1075].jpg"
+    ],
+    "datePublished": "2011-05-16",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Коктейли",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "312 calories",
+      "carbohydrateContent": "27 g",
+      "fatContent": "0 g",
+      "proteinContent": "1 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.0465 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "25 мл. вермут",
+      "75 мл. уиски",
+      "5 мл. Angostura bitters",
+      "1 резенче портокал",
+      "5  коктейлни черешки"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Този класически коктейл е измислен в Манхатън клуб в Ню Йорк през 1847 година от майката на Уинстън Чърчил – лейди Рандолф Чърчил."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Шейкъра се напълва с лед. Всички продукти се добавят и се смесват добре. Сервира се в чаша за мартини."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Коктейлът Манхатън се украсява с коктейлни черешки и резенчета портокал."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "вермут",
+      "qty": "25 мл.",
+      "id": 190
+    },
+    {
+      "name": "уиски",
+      "qty": "75 мл.",
+      "id": 206
+    },
+    {
+      "name": "Angostura bitters",
+      "qty": "5 мл.",
+      "id": 27
+    },
+    {
+      "name": "портокал",
+      "qty": "1 резенче",
+      "id": 122
+    },
+    {
+      "name": "коктейлни черешки",
+      "qty": "5",
+      "id": 126
+    }
+  ]
+}

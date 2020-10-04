@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печени патладжани с домати и скариди на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pecheni-patladjani-s-domati-i-skaridi-1-[1552].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pecheni-patladjani-s-domati-i-skaridi-1-[1552].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pecheni-patladjani-s-domati-i-skaridi-1-[1552].jpg"
+    ],
+    "datePublished": "2011-07-24",
+    "cookTime": "PT1H20M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "185 calories",
+      "carbohydrateContent": "20 g",
+      "fatContent": "8 g",
+      "proteinContent": "11 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "6.1334525 g",
+      "cholesterolContent": "57 mg"
+    },
+    "recipeIngredient": [
+      "4  патладжана",
+      "4  домата",
+      "300 г коктейлни скариди",
+      "2 стръка босилек",
+      "сол",
+      "8 с.л. зехтин"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Патладжаните (4 бр) се нарязват на филийки по дължина, посоляват се и се оставят за половин час да пуснат горчивия си сок. След това се измиват, подсушават, намазват се със зехтин (8 с.л.) и се пекат от двете страни до пълна готовност (около 40-50 минути при 180 градуса). След това върху вече опечените и крехки патладжани се подреждат колелца домати (4 бр) и върху тях се поставят размразените, изплакнати и отцедени коктейлни скариди (300 г). Предястието се посолява и се пече на силна фурна още 10-15 минути. Поднася се с пресни листа босилек (2 стръка) и е вкусно както топло, така и студено."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "патладжана",
+      "qty": "4",
+      "id": 71
+    },
+    {
+      "name": "домата",
+      "qty": "4",
+      "id": 15
+    },
+    {
+      "name": "коктейлни скариди",
+      "qty": "300 г",
+      "id": 104
+    },
+    {
+      "name": "босилек",
+      "qty": "2 стръка",
+      "id": 25
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "зехтин",
+      "qty": "8 с.л.",
+      "id": 10
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печени картофени кюфтета с бекон и розмарин на фурна (без пържене, без лук)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pecheni-kartofeni-kufteta-s-bekon-i-rozmarin-1-[2739].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pecheni-kartofeni-kufteta-s-bekon-i-rozmarin-1-[2739].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pecheni-kartofeni-kufteta-s-bekon-i-rozmarin-1-[2739].jpg"
+    ],
+    "datePublished": "2014-02-11",
+    "cookTime": "PT1H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "635 calories",
+      "carbohydrateContent": "64 g",
+      "fatContent": "36 g",
+      "proteinContent": "12 g",
+      "saturatedFatContent": "11 g",
+      "unsaturatedFatContent": "22.3608225 g",
+      "cholesterolContent": "34 mg"
+    },
+    "recipeIngredient": [
+      "1 кг картофи",
+      "200 г бекон",
+      "2 стръка розмарин",
+      "4 с.л. брашно",
+      "4 с.л. галета",
+      "4 с.л. олио",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Картофите (1 кг) се сваряват до пълна готовност, обелват се и се намачкват. Посоляват се и се оформят на кюфтета. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Кюфтетата се намазват с олио (4 с.л.) и се овалват в брашно (4 с.л.) и галета (4 с.л.). Увиват се с бекон (200 г) и се поставят в намазана с олио тавичка. Пекат се около половин час при 180 градуса, като десетина минути преди ястието да е готово, в тавата се добавя розмарин (2 стръка)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Картофените кюфтета с бекон се сервират топли."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "картофи",
+      "qty": "1 кг",
+      "id": 16
+    },
+    {
+      "name": "бекон",
+      "qty": "200 г",
+      "id": 88
+    },
+    {
+      "name": "розмарин",
+      "qty": "2 стръка",
+      "id": 77
+    },
+    {
+      "name": "брашно",
+      "qty": "4 с.л.",
+      "id": 7
+    },
+    {
+      "name": "галета",
+      "qty": "4 с.л.",
+      "id": 58
+    },
+    {
+      "name": "олио",
+      "qty": "4 с.л.",
+      "id": 4
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

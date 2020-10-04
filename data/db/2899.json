@@ -1,0 +1,88 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Мариновани свински ребра със захар и кимион на скара",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/marinovani-svinski-rebra-sus-zahar-i-kimion-2-[2899].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/marinovani-svinski-rebra-sus-zahar-i-kimion-2-[2899].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/marinovani-svinski-rebra-sus-zahar-i-kimion-2-[2899].jpg"
+    ],
+    "datePublished": "2014-04-08",
+    "cookTime": "PT1H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "1172 calories",
+      "carbohydrateContent": "30 g",
+      "fatContent": "68 g",
+      "proteinContent": "103 g",
+      "saturatedFatContent": "23 g",
+      "unsaturatedFatContent": "37.33567 g",
+      "cholesterolContent": "300 mg"
+    },
+    "recipeIngredient": [
+      "2 кг свински ребра",
+      "8 скилидки чесън",
+      "16 с.л. соев сос",
+      "8 с.л. захар",
+      "1 ч.л. кимион",
+      "1 ч.л. лют червен пипер",
+      "1 ч.л. черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Чесънът (8 скилидки) се пресова и се смесва със соевия сос (16 с.л.), захарта (8 с.л.), кимиона (1 ч.л.), лютия червен пипер (1 ч.л.), черния пипер (1 ч.л.) и солта. С получената марината се намазват ребрата (2 кг) и се оставят за един час в хладилник да се мариноват. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "След час се изваждат от хладилника и се поставят върху сгорещена скара. Изпичат се до пълна готовност. Сервират се горещи и по желание се поднасят с чили сос."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "свински ребра",
+      "qty": "2 кг",
+      "id": 216
+    },
+    {
+      "name": "чесън",
+      "qty": "8 скилидки",
+      "id": 6
+    },
+    {
+      "name": "соев сос",
+      "qty": "16 с.л.",
+      "id": 53
+    },
+    {
+      "name": "захар",
+      "qty": "8 с.л.",
+      "id": 9
+    },
+    {
+      "name": "кимион",
+      "qty": "1 ч.л.",
+      "id": 42
+    },
+    {
+      "name": "лют червен пипер",
+      "qty": "1 ч.л.",
+      "id": 132
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

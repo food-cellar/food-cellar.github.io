@@ -1,0 +1,118 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Киш с филе от сьомга, броколи, яйца и заквасена сметана",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kish-sus-sioomga-brokoli-iaica-i-zakvasena-smetana-1-[2851].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kish-sus-sioomga-brokoli-iaica-i-zakvasena-smetana-1-[2851].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kish-sus-sioomga-brokoli-iaica-i-zakvasena-smetana-1-[2851].jpg"
+    ],
+    "datePublished": "2014-03-05",
+    "cookTime": "PT1H0M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "411 calories",
+      "carbohydrateContent": "28 g",
+      "fatContent": "23 g",
+      "proteinContent": "21 g",
+      "saturatedFatContent": "12 g",
+      "unsaturatedFatContent": "8.11840625 g",
+      "cholesterolContent": "197 mg"
+    },
+    "recipeIngredient": [
+      "250 г брашно",
+      "100 г масло",
+      "1  жълтък",
+      "1/2 ч.л. сол",
+      "1 с.л. вода",
+      "1/2 кг сьомга",
+      "400 г броколи",
+      "4  яйца",
+      "300 г заквасена сметана",
+      "1 ч.л. черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Приготвя се тестото. Брашното (250 г), солта (1/2 ч.л.), нарязаното на кубчета масло (100 г), жълтъкът (1 бр) и водата (1 с.л.) се смесват в дълбока купа и от тях се омесва средно твърдо тесто. То се увива в готварско фолио и се поставя в хладилника за половин час. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Накъсаните на розички броколи (400 г) се сваряват за няколко минути във вряща подсолена вода и се отцеждат. Филето от сьомга (1/2 кг) се нарязва на парченца."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Яйцата (4 бр) се разбиват с малко сол, черен пипер (1 ч.л.) и заквасената сметана (300 г). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Тестото се разточва на кора по-голяма от диаметъра на тавата, в която ще печем киша, за да покрие не само дъното, но и стените на формата. Върху тестото се поставят броколите и рибното филе и се заливат с разбитите яйца и заквасена сметана. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Кишът се пече в предварително загрята до 180 градуса фурна за около 40-50 минути. Преди да се разреже, се оставя да се охлади."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "брашно",
+      "qty": "250 г",
+      "id": 7
+    },
+    {
+      "name": "масло",
+      "qty": "100 г",
+      "id": 8
+    },
+    {
+      "name": "жълтък",
+      "qty": "1",
+      "id": 33
+    },
+    {
+      "name": "сол",
+      "qty": "1/2 ч.л.",
+      "id": 1
+    },
+    {
+      "name": "вода",
+      "qty": "1 с.л.",
+      "id": 11
+    },
+    {
+      "name": "сьомга",
+      "qty": "1/2 кг",
+      "id": 114
+    },
+    {
+      "name": "броколи",
+      "qty": "400 г",
+      "id": 57
+    },
+    {
+      "name": "яйца",
+      "qty": "4",
+      "id": 5
+    },
+    {
+      "name": "заквасена сметана",
+      "qty": "300 г",
+      "id": 73
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Лесна салата с моркови, репички и авокадо",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/lesna-salata-s-morkovi-repichki-i-avokado-2-[2458].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/lesna-salata-s-morkovi-repichki-i-avokado-2-[2458].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/lesna-salata-s-morkovi-repichki-i-avokado-2-[2458].jpg"
+    ],
+    "datePublished": "2013-03-28",
+    "cookTime": "PT0H10M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "249 calories",
+      "carbohydrateContent": "14 g",
+      "fatContent": "22 g",
+      "proteinContent": "2 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "16.569945 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "2  моркова",
+      "1 връзка репички",
+      "1  авокадо",
+      "1 с.л. лимонов сок",
+      "2 с.л. зехтин",
+      "1 щип. черен пипер",
+      "1 щип. сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Морковите (2 бр) се измиват, обелват и настъргват на едрото ренде. Авокадото (1 бр) се обелва, костилката му се отстранява, а ядливата му част се нарязва на кубчета. Веднага след това се полива с лимонов сок (1 с.л.), за да не промени цвета си. Смесва се с настърганите моркови и към продуктите се добавят измитите и нарязани на четвъртинки репички (1 връзка). Салатата се овкусява със зехтин (2 с.л.) и сол, и се разпределя в порционни чинии. По желание за по-интересен и пикантен вкус се поръсва с черен пипер. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "моркова",
+      "qty": "2",
+      "id": 13
+    },
+    {
+      "name": "репички",
+      "qty": "1 връзка",
+      "id": 218
+    },
+    {
+      "name": "авокадо",
+      "qty": "1",
+      "id": 83
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 щип.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "1 щип.",
+      "id": 1
+    }
+  ]
+}

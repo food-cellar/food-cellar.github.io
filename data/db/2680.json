@@ -1,0 +1,60 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печена бяла риба със соев сос и чесън",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pechena-biala-riba-sus-soev-sos-i-chesun-1-[2680].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pechena-biala-riba-sus-soev-sos-i-chesun-1-[2680].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pechena-biala-riba-sus-soev-sos-i-chesun-1-[2680].jpg"
+    ],
+    "datePublished": "2014-01-16",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "153 calories",
+      "carbohydrateContent": "3 g",
+      "fatContent": "5 g",
+      "proteinContent": "20 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "4.17526 g",
+      "cholesterolContent": "60 mg"
+    },
+    "recipeIngredient": [
+      "4 филета бяла риба",
+      "8 скилидки чесън",
+      "8 с.л. соев сос",
+      "1 щип. черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Рибните филета (4 филета) се натъркват с пресован чесън (8 скилидки) и се поливат с малко количество соев сос (8 с.л.) . Оставят се в хладилник да попият соевия сос добре и след това се изваждат. Изпичат се на сух тиган или в силна фурна. Поднасят се, поръсени с черен пипер и салата от свежи зеленчуци според сезона."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "бяла риба",
+      "qty": "4 филета",
+      "id": 102
+    },
+    {
+      "name": "чесън",
+      "qty": "8 скилидки",
+      "id": 6
+    },
+    {
+      "name": "соев сос",
+      "qty": "8 с.л.",
+      "id": 53
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 щип.",
+      "id": 2
+    }
+  ]
+}

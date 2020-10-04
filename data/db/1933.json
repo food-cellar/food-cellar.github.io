@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Морковена салата със синьо сирене, майонеза и лимонов сок",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/morkovena-salata-sus-sinioo-sirene-1-[1933].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/morkovena-salata-sus-sinioo-sirene-1-[1933].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/morkovena-salata-sus-sinioo-sirene-1-[1933].jpg"
+    ],
+    "datePublished": "2013-01-21",
+    "cookTime": "PT0H15M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "166 calories",
+      "carbohydrateContent": "21 g",
+      "fatContent": "7 g",
+      "proteinContent": "4 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "3.35025 g",
+      "cholesterolContent": "9 mg"
+    },
+    "recipeIngredient": [
+      "800 г моркови",
+      "50 г синьо сирене",
+      "3 с.л. майонеза",
+      "1 щип. сол",
+      "1 с.л. лимонов сок"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Морковите (800 г) се рендосват на ситно. Синьото сирене (50 г) се натрошава на малки парчета и се добавя към морковите. Добавя се майонезата (3 с.л.), заедно със солта и лимоновия сок (1 с.л.), и всичко се разбърква добре. По желание салатата се поръсва с малко количество смлени орехи."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "моркови",
+      "qty": "800 г",
+      "id": 13
+    },
+    {
+      "name": "синьо сирене",
+      "qty": "50 г",
+      "id": 108
+    },
+    {
+      "name": "майонеза",
+      "qty": "3 с.л.",
+      "id": 80
+    },
+    {
+      "name": "сол",
+      "qty": "1 щип.",
+      "id": 1
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Канелени кюфтета от свинска и телешка кайма с ракия",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kaneleni-kufteta-s-rakiia-1-[2972].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kaneleni-kufteta-s-rakiia-1-[2972].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kaneleni-kufteta-s-rakiia-1-[2972].jpg"
+    ],
+    "datePublished": "2014-10-24",
+    "cookTime": "PT1H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "559 calories",
+      "carbohydrateContent": "7 g",
+      "fatContent": "32 g",
+      "proteinContent": "48 g",
+      "saturatedFatContent": "12 g",
+      "unsaturatedFatContent": "15.86738 g",
+      "cholesterolContent": "242 mg"
+    },
+    "recipeIngredient": [
+      "600 г телешка кайма",
+      "400 г свинска кайма",
+      "1  яйце",
+      "1 филия хляб",
+      "50 мл. ракия",
+      "1 глава лук",
+      "1/2 ч.л. канела",
+      "1/2 ч.л. черен пипер",
+      "сол",
+      "4 стръка магданоз"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Двата вида кайма се смесват със ситно нарязаните магданоз (4 стръка), лук (1 глава), сурово яйце (1 бр), канела (1/2 ч.л.), сол, черен пипер (1/2 ч.л.), предварително накиснатия във вода хляб (1 филия) и ракията (50 мл.). Ракията се добавя, за да станат кюфтетата пухкави и да имат неповторим аромат."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Сместа за кюфтета се размесва много добре. Оформят се кюфтета с големина на яйце, които се пържат в тиган, като се обръщат от време на време. След това се пръсват със ситно нарязан пресен магданоз и се сервират."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "телешка кайма",
+      "qty": "600 г",
+      "id": 134
+    },
+    {
+      "name": "свинска кайма",
+      "qty": "400 г",
+      "id": 54
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    },
+    {
+      "name": "хляб",
+      "qty": "1 филия",
+      "id": 66
+    },
+    {
+      "name": "ракия",
+      "qty": "50 мл.",
+      "id": 250
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "канела",
+      "qty": "1/2 ч.л.",
+      "id": 46
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1/2 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "магданоз",
+      "qty": "4 стръка",
+      "id": 12
+    }
+  ]
+}

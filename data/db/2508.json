@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Бърз козунак в тенджера",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/burz-kozunak-v-tendjera-1-[2508].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/burz-kozunak-v-tendjera-1-[2508].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/burz-kozunak-v-tendjera-1-[2508].jpg"
+    ],
+    "datePublished": "2013-06-11",
+    "cookTime": "PT1H10M",
+    "recipeYield": "12 servings",
+    "recipeCategory": "Хлебни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "232 calories",
+      "carbohydrateContent": "36 g",
+      "fatContent": "7 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "2.504965 g",
+      "cholesterolContent": "62 mg"
+    },
+    "recipeIngredient": [
+      "430 г бяло брашно",
+      "2 ч.л. суха мая",
+      "100 г захар",
+      "80 г масло",
+      "1 ч.л. сол",
+      "3  яйца",
+      "60 мл. мляко"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Приготвя се козуначено тесто като брашното (430 г), млякото (60 мл.), яйцата (3 бр), разтопеното масло (80 г), захарта (100 г), солта (1 ч.л.) и маята (2 ч.л.) се смесват с помощта на хлебопекарна на режим месене на тесто или на ръка - за около 15 минути, докато се получи еднородно тесто."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Приготвя се малка тенджера, която е с метални дръжки и може да се слага във фурната. От хартия за печене се изрязват кръгло дъно и правоъгълна обиколка с размерите на тенджерата - целта е цялата да се покрите с хартия за печене от вътрешната страна."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Тестото се изсипва в тенджерата и се слага във фурната на 50 градуса, за да втаса за половин час."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Когато си удвои обема, козуначеното тесто се изпича на 180 градуса за 40 минути. Може да се намаже с жълтък и да се поръси със захар, но в такъв случай козунакът трябва да се наблюдава и да се покрие с фолио, за да не изгори отгоре."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "бяло брашно",
+      "qty": "430 г",
+      "id": 7
+    },
+    {
+      "name": "суха мая",
+      "qty": "2 ч.л.",
+      "id": 52
+    },
+    {
+      "name": "захар",
+      "qty": "100 г",
+      "id": 9
+    },
+    {
+      "name": "масло",
+      "qty": "80 г",
+      "id": 8
+    },
+    {
+      "name": "сол",
+      "qty": "1 ч.л.",
+      "id": 1
+    },
+    {
+      "name": "яйца",
+      "qty": "3",
+      "id": 5
+    },
+    {
+      "name": "мляко",
+      "qty": "60 мл.",
+      "id": 14
+    }
+  ]
+}

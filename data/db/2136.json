@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пържени филийки с яйца и бекон",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/purjeni-filiiki-s-iaica-i-bekon-5-[2136].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/purjeni-filiiki-s-iaica-i-bekon-5-[2136].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/purjeni-filiiki-s-iaica-i-bekon-5-[2136].jpg"
+    ],
+    "datePublished": "2012-11-06",
+    "cookTime": "PT0H15M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Сандвичи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "986 calories",
+      "carbohydrateContent": "39 g",
+      "fatContent": "80 g",
+      "proteinContent": "26 g",
+      "saturatedFatContent": "31 g",
+      "unsaturatedFatContent": "42.89092 g",
+      "cholesterolContent": "472 mg"
+    },
+    "recipeIngredient": [
+      "4 филии хляб",
+      "4  яйца",
+      "200 г бекон",
+      "2 с.л. масло",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "С малък ринг се изрязват дупки в центъра на всяка филийка. В нагорещен тиган, в който е разтопено маслото (2 с.л.), се поставят посолените филийки (4 филии) и във всяка се поставя по едно яйце (4 бр). Филийките се пържат от двете страни, като се обръщат с шпатула внимателно, за да не се разлее или отдели яйцето. Беконът (200 г) се нарязва на ивици и също се запържва, докато стане златист и хрупкав. Пържените филийки с яйце в тях се сервират топли, заедно с бекона.Тази рецепта е идеална както за закуска, така и за вечеря. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "хляб",
+      "qty": "4 филии",
+      "id": 66
+    },
+    {
+      "name": "яйца",
+      "qty": "4",
+      "id": 5
+    },
+    {
+      "name": "бекон",
+      "qty": "200 г",
+      "id": 88
+    },
+    {
+      "name": "масло",
+      "qty": "2 с.л.",
+      "id": 8
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

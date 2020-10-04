@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Доматена тортиля",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/domatena-tortilia-1-[1398].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/domatena-tortilia-1-[1398].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/domatena-tortilia-1-[1398].jpg"
+    ],
+    "datePublished": "2011-03-30",
+    "cookTime": "PT0H20M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "389 calories",
+      "carbohydrateContent": "10 g",
+      "fatContent": "30 g",
+      "proteinContent": "19 g",
+      "saturatedFatContent": "16 g",
+      "unsaturatedFatContent": "11.2398 g",
+      "cholesterolContent": "440 mg"
+    },
+    "recipeIngredient": [
+      "125 г чери домати",
+      "2  яйца",
+      "20 г сирене ементал",
+      "2 с.л. сметана",
+      "1 с.л. масло",
+      "2 стръка магданоз",
+      "1 стръка босилек",
+      "1 щип. черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Доматите (125 г) се измиват и разполовяват. Магданозът (2 стръка) се измива и нарязва наситно. Яйцата (2 бр) се разбиват със сметаната (2 с.л.) и магданоза и се подправят със сол и черен пипер. Сиренето ементал (20 г) се настъргва. Маслото (1 с.л.) се стопява в сгорещен тиган и в него се задушават доматите за около 3 минути. Отгоре се излива яйчената смес и се поръсва с настъргания ементал. Температурата се намалява и тортилята се заглупва с капак за около 10 минути, докато стегне. Преди сервиране, тортилята се украсява с листенца пресен босилек (1 стръка).  "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "чери домати",
+      "qty": "125 г",
+      "id": 15
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "сирене ементал",
+      "qty": "20 г",
+      "id": 179
+    },
+    {
+      "name": "сметана",
+      "qty": "2 с.л.",
+      "id": 19
+    },
+    {
+      "name": "масло",
+      "qty": "1 с.л.",
+      "id": 8
+    },
+    {
+      "name": "магданоз",
+      "qty": "2 стръка",
+      "id": 12
+    },
+    {
+      "name": "босилек",
+      "qty": "1 стръка",
+      "id": 25
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 щип.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

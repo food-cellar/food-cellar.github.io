@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салца с черен боб, царевица, лук, домати и люти чушки",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salca-s-cheren-bob-2-[1739].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salca-s-cheren-bob-2-[1739].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salca-s-cheren-bob-2-[1739].jpg"
+    ],
+    "datePublished": "2012-12-19",
+    "cookTime": "PT0H10M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "274 calories",
+      "carbohydrateContent": "39 g",
+      "fatContent": "11 g",
+      "proteinContent": "10 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "7.677435 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "150 г черен боб",
+      "1/2 кг царевица",
+      "1  авокадо",
+      "1 глава червен лук",
+      "2  зелени чушки",
+      "1  домат",
+      "1  люта чушка",
+      "2 с.л. лимонов сок",
+      "4 с.л. зехтин",
+      "кориандър"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Доматите (1 бр), зелените чушки (2 бр), лютите чушки (1 бр) и лукът (1 глава) се нарязват на малки кубчета и се смесват със накълцания на ситно кориандър в голяма купа. Авокадото (1 бр) се обелва и нарязва на кубчета, които след това се поръсват със сол и лимонов сок (2 с.л.). Разбъркват се добре и се добавят при другите зеленчуци. Добавят се отцедената царевица (1/2 кг) и свареният боб (150 г). Овкусява се със сол и зехтин (4 с.л.) и се сервира с тортила или препечени филийки."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "черен боб",
+      "qty": "150 г",
+      "id": 63
+    },
+    {
+      "name": "царевица",
+      "qty": "1/2 кг",
+      "id": 78
+    },
+    {
+      "name": "авокадо",
+      "qty": "1",
+      "id": 83
+    },
+    {
+      "name": "червен лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "зелени чушки",
+      "qty": "2",
+      "id": 18
+    },
+    {
+      "name": "домат",
+      "qty": "1",
+      "id": 15
+    },
+    {
+      "name": "люта чушка",
+      "qty": "1",
+      "id": 105
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "2 с.л.",
+      "id": 17
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "кориандър",
+      "qty": "Parsing error",
+      "id": 97
+    }
+  ]
+}

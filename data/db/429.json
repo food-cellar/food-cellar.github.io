@@ -1,0 +1,120 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Зеленчуков солен кекс (кейк) с картофи, моркови, спанак, яйца и червена леща",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zelenchukov-keik-2-[429].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zelenchukov-keik-2-[429].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zelenchukov-keik-2-[429].jpg"
+    ],
+    "datePublished": "2010-11-13",
+    "cookTime": "PT0H45M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "432 calories",
+      "carbohydrateContent": "55 g",
+      "fatContent": "18 g",
+      "proteinContent": "12 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "13.37843125 g",
+      "cholesterolContent": "97 mg"
+    },
+    "recipeIngredient": [
+      "2  картофа",
+      "2  моркова",
+      "1 връзка спанак",
+      "1 ч.ч. червена леща",
+      "1 глава лук",
+      "4  яйца",
+      "1 ч.ч. кисело мляко",
+      "сода за хляб",
+      "1 ч.ч. царевично нишесте",
+      "сол",
+      "черен пипер",
+      "чесън на прах",
+      "мащерка",
+      "1/2 ч.ч. олио"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Картофите (2 бр), морковите (2 бр) и лукът (1 глава) се настаргват на едрото ренде. Спанакът (1 връзка) се нарязва на едро. Яйцата (4 бр) се разбиват на пяна. Прибавя се киселото мляко (1 ч.ч.), разбито със содата. Пак се разбива. Прибавя се царевичното нишесте (1 ч.ч.) и се разбива. Прибавя се олиото (1/2 ч.ч.)и пак се разбива. Към полученото кейковото тесто се прибавят сварената леща и останалите продукти. Разбърква се добре и се изсипва в правоъгълна форма за печене. Пече се до пълна готовност. Зеленчуковият кейк е чудесно мезе за бяло вино."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "картофа",
+      "qty": "2",
+      "id": 16
+    },
+    {
+      "name": "моркова",
+      "qty": "2",
+      "id": 13
+    },
+    {
+      "name": "спанак",
+      "qty": "1 връзка",
+      "id": 40
+    },
+    {
+      "name": "червена леща",
+      "qty": "1 ч.ч.",
+      "id": 151
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "яйца",
+      "qty": "4",
+      "id": 5
+    },
+    {
+      "name": "кисело мляко",
+      "qty": "1 ч.ч.",
+      "id": 21
+    },
+    {
+      "name": "сода за хляб",
+      "qty": "Parsing error",
+      "id": 56
+    },
+    {
+      "name": "царевично нишесте",
+      "qty": "1 ч.ч.",
+      "id": 96
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "чесън на прах",
+      "qty": "Parsing error",
+      "id": 6
+    },
+    {
+      "name": "мащерка",
+      "qty": "Parsing error",
+      "id": 75
+    },
+    {
+      "name": "олио",
+      "qty": "1/2 ч.ч.",
+      "id": 4
+    }
+  ]
+}

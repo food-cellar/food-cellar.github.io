@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата от зелен боб с бял дресинг / сос от сусамов тахан",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zelen-bob-sus-susamov-dresing-1-[675].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zelen-bob-sus-susamov-dresing-1-[675].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zelen-bob-sus-susamov-dresing-1-[675].jpg"
+    ],
+    "datePublished": "2010-11-28",
+    "cookTime": "PT0H10M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "241 calories",
+      "carbohydrateContent": "44 g",
+      "fatContent": "1 g",
+      "proteinContent": "8 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.56524 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "300 г зелен боб",
+      "1 1/2 л. вода",
+      "2 ч.л. сол",
+      "6 с.л. тахан",
+      "4 ч.л. захар",
+      "4 с.л. соев сос",
+      "4 с.л. саке",
+      "2 с.л. оризов оцет",
+      "1 ч.л. даши на прах",
+      "4 ч.л. бяло мисо"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Ако се ползва пресен зелен боб, трябва да му се отрежат връхчетата и всяко стръкче да се нареже на парчета по 5 см дължина. Нарязаните бобчета се кипват във вряща подсолена вода за 3-5 минути - колкото да променят цвета си и да поомекнат, след което се пускат в ледена вода за кратко, отцеждат се и се подсушават. Таханът (6 с.л.), захарта (4 ч.л.), соевият сос (4 с.л.), сакето (4 с.л.), дашито (1 ч.л.) и мисото (4 ч.л.) се смесват в голяма купа и се разбиват. Прибавя се зеленият боб (300 г). Салатата се поднася топла или със стайна температура."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "зелен боб",
+      "qty": "300 г",
+      "id": 99
+    },
+    {
+      "name": "вода",
+      "qty": "1 1/2 л.",
+      "id": 11
+    },
+    {
+      "name": "сол",
+      "qty": "2 ч.л.",
+      "id": 1
+    },
+    {
+      "name": "тахан",
+      "qty": "6 с.л.",
+      "id": 247
+    },
+    {
+      "name": "захар",
+      "qty": "4 ч.л.",
+      "id": 9
+    },
+    {
+      "name": "соев сос",
+      "qty": "4 с.л.",
+      "id": 53
+    },
+    {
+      "name": "саке",
+      "qty": "4 с.л.",
+      "id": 383
+    },
+    {
+      "name": "оризов оцет",
+      "qty": "2 с.л.",
+      "id": 221
+    },
+    {
+      "name": "даши на прах",
+      "qty": "1 ч.л.",
+      "id": 328
+    },
+    {
+      "name": "бяло мисо",
+      "qty": "4 ч.л.",
+      "id": 354
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Солени палачинки със сьомга и крема сирене",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/soleni-palachinki-sus-sioomga-i-krema-sirene-1-[1881].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/soleni-palachinki-sus-sioomga-i-krema-sirene-1-[1881].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/soleni-palachinki-sus-sioomga-i-krema-sirene-1-[1881].jpg"
+    ],
+    "datePublished": "2011-12-16",
+    "cookTime": "PT0H40M",
+    "recipeYield": "12 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "189 calories",
+      "carbohydrateContent": "18 g",
+      "fatContent": "8 g",
+      "proteinContent": "8 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "2.6397258333333 g",
+      "cholesterolContent": "73 mg"
+    },
+    "recipeIngredient": [
+      "1/2 л. прясно мляко",
+      "250 г брашно",
+      "3  яйца",
+      "2 с.л. масло",
+      "1 щип. сол",
+      "180 г пушена сьомга",
+      "125 г сирене крема"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Прясното мляко (1/2 л.), яйцата (3 бр) и предварително смесените и пресяти брашно  (250 г) и сол (1 щип.) се смесват в дълбока купа и се разбиват, заедно с разтопеното масло (2 с.л.), до получаването на гладка смес. От нея в равен тиган с незалепващо покритие се опичат палачинки. След като леко се охладят, палачинките се намазват с крема сирене (125 г), в тях се поставя парченце пушена сьомга и се завиват на рула. Поднасят се цели или нарязани на парчета. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "прясно мляко",
+      "qty": "1/2 л.",
+      "id": 14
+    },
+    {
+      "name": "брашно",
+      "qty": "250 г",
+      "id": 7
+    },
+    {
+      "name": "яйца",
+      "qty": "3",
+      "id": 5
+    },
+    {
+      "name": "масло",
+      "qty": "2 с.л.",
+      "id": 8
+    },
+    {
+      "name": "сол",
+      "qty": "1 щип.",
+      "id": 1
+    },
+    {
+      "name": "пушена сьомга",
+      "qty": "180 г",
+      "id": 215
+    },
+    {
+      "name": "сирене крема",
+      "qty": "125 г",
+      "id": 103
+    }
+  ]
+}

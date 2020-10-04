@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Здравословна зелена салата айсберг с орехи, сушени домати, авокадо и сирене пармезан (или кашкавал)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-aisberg-s-orehi-i-susheni-domati-1-[1995].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-aisberg-s-orehi-i-susheni-domati-1-[1995].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-aisberg-s-orehi-i-susheni-domati-1-[1995].jpg"
+    ],
+    "datePublished": "2012-06-21",
+    "cookTime": "PT0H10M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "449 calories",
+      "carbohydrateContent": "19 g",
+      "fatContent": "40 g",
+      "proteinContent": "11 g",
+      "saturatedFatContent": "5 g",
+      "unsaturatedFatContent": "31.663475 g",
+      "cholesterolContent": "3 mg"
+    },
+    "recipeIngredient": [
+      "1 глава айсберг",
+      "10 г сушени домати",
+      "50 г орехи",
+      "1  авокадо",
+      "10 г пармезан",
+      "1 с.л. лимонов сок",
+      "2 с.л. зехтин",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Сушените домати (10 г) се заливат с вряла вода и се оставят да покиснат в нея около 5-10 минути, след това се изваждат, отцеждат и нарязват на кубчета.Салатата айсберг (1 глава) се измива и накъсва на парчета. Авокадото (1 бр) се обелва, костилката му се отстранява, а ядливата част се нарязва на полумесеци. Овкусява се с прясно изцеден лимонов сок (1 с.л.) веднага, за да не потъмнее.Салатата айсберг се овкусява със сол, зехтин (2 с.л.) и лимонов сок (1 с.л.) и се поставя в купа. Върху нея се разполагат авокадото, ореховите ядки (50 г), сушените домати и парченца рендосан пармезан (10 г). Сервира се веднага."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "айсберг",
+      "qty": "1 глава",
+      "id": 101
+    },
+    {
+      "name": "сушени домати",
+      "qty": "10 г",
+      "id": 121
+    },
+    {
+      "name": "орехи",
+      "qty": "50 г",
+      "id": 31
+    },
+    {
+      "name": "авокадо",
+      "qty": "1",
+      "id": 83
+    },
+    {
+      "name": "пармезан",
+      "qty": "10 г",
+      "id": 59
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

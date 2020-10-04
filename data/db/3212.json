@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Лесни и вкусни варено печени свински джолани",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/lesni-i-vareno-pecheni-svinski-djolani-1-[3212].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/lesni-i-vareno-pecheni-svinski-djolani-1-[3212].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/lesni-i-vareno-pecheni-svinski-djolani-1-[3212].jpg"
+    ],
+    "datePublished": "2017-09-14",
+    "cookTime": "PT1H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "1108 calories",
+      "carbohydrateContent": "8 g",
+      "fatContent": "90 g",
+      "proteinContent": "60 g",
+      "saturatedFatContent": "31 g",
+      "unsaturatedFatContent": "49.808985 g",
+      "cholesterolContent": "270 mg"
+    },
+    "recipeIngredient": [
+      "1 1/2 кг свински джолан",
+      "2 глави лук",
+      "6 скилидки чесън",
+      "4  дафинови листа",
+      "2 зърна карамфил",
+      "1 ч.л. зърна от бахар",
+      "1/2 ч.л. зърна от кимион"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Свинските джолани (1 1/2 кг) се поставят в тенджера, заливат се с вода и към тях се добавят нарязаният на едро лук (2 глави), счуканият чесън (6 скилидки), зърната карамфил (2 зърна), бахар (1 ч.л.) и кимион (1/2 ч.л.), както и дафиновите листа (4 бр). Месото се вари, докато е почти готово, след което се прехвърля в тавичка. Сипва се част от бульона и се печене на умерена фурна, докато придобие златист цвят."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "свински джолан",
+      "qty": "1 1/2 кг",
+      "id": 67
+    },
+    {
+      "name": "лук",
+      "qty": "2 глави",
+      "id": 3
+    },
+    {
+      "name": "чесън",
+      "qty": "6 скилидки",
+      "id": 6
+    },
+    {
+      "name": "дафинови листа",
+      "qty": "4",
+      "id": 70
+    },
+    {
+      "name": "карамфил",
+      "qty": "2 зърна",
+      "id": 180
+    },
+    {
+      "name": "зърна от бахар",
+      "qty": "1 ч.л.",
+      "id": 158
+    },
+    {
+      "name": "зърна от кимион",
+      "qty": "1/2 ч.л.",
+      "id": 42
+    }
+  ]
+}

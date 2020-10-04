@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пържени филийки с вода",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/purjeni-filiiki-s-voda-4-[2437].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/purjeni-filiiki-s-voda-4-[2437].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/purjeni-filiiki-s-voda-4-[2437].jpg"
+    ],
+    "datePublished": "2013-03-27",
+    "cookTime": "PT0H15M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "561 calories",
+      "carbohydrateContent": "69 g",
+      "fatContent": "25 g",
+      "proteinContent": "15 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "19.450935 g",
+      "cholesterolContent": "187 mg"
+    },
+    "recipeIngredient": [
+      "4 филии хляб",
+      "1 к.ч. вода",
+      "4 с.л. брашно",
+      "2  яйца",
+      "40 мл. олио",
+      "4 с.л. мармалад от шипки"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Филиите хляб (4 филии) се потапят в горещата вода (1 к.ч.) за кратко, след което се отцеждат и се овалват в брашно (4 с.л.) от двете страни. Потапят се в разбитите яйца (2 бр) и се пържат в сгорещено олио (40 мл.) до златисто. Поднасят се с мармалад от шипки (4 с.л.) или друго сладко по избор."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "хляб",
+      "qty": "4 филии",
+      "id": 66
+    },
+    {
+      "name": "вода",
+      "qty": "1 к.ч.",
+      "id": 11
+    },
+    {
+      "name": "брашно",
+      "qty": "4 с.л.",
+      "id": 7
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "олио",
+      "qty": "40 мл.",
+      "id": 4
+    },
+    {
+      "name": "мармалад от шипки",
+      "qty": "4 с.л.",
+      "id": 89
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Патладжани с моцарела и песто",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/patladjani-s-mocarela-i-pesto-1-[68].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/patladjani-s-mocarela-i-pesto-1-[68].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/patladjani-s-mocarela-i-pesto-1-[68].jpg"
+    ],
+    "datePublished": "2010-12-04",
+    "cookTime": "PT0H50M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "519 calories",
+      "carbohydrateContent": "24 g",
+      "fatContent": "33 g",
+      "proteinContent": "32 g",
+      "saturatedFatContent": "19 g",
+      "unsaturatedFatContent": "11.473912733333 g",
+      "cholesterolContent": "117 mg"
+    },
+    "recipeIngredient": [
+      "600 г патладжан",
+      "2 с.л. песто",
+      "300 г моцарела",
+      "6 скилидки  чесън",
+      "сол",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Патладжаните (600 г) се нарязват на шайби, посоляват се и се оставят да престоят, докато си пуснат черния сок. Измиват се и се слагат в голяма купа."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Прибавят им се пестото (2 с.л.), счуканият със сол чесън (6 скилидки) и черният пипер. Разбъркват се и се слагат в намазнена тава. Пекат се 15 минути в гореща фурна, след което се изваждат от нея."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Покриват се с топки моцарела (300 г) и тавата се връща във фурната. Пекат се, докато моцарелата се разтопи. Поднасят се веднага върху салатен лист."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Песто се приготвя като се пасират свежи листа босилек, зехтин, чесън, лимонов сок, кедрови ядки, сол и пармезан. Пропорциите варират в зависимост от предпочитанията, като трябва да се избягва прекаляване с кедровите ядки и чесъна."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "патладжан",
+      "qty": "600 г",
+      "id": 71
+    },
+    {
+      "name": "песто",
+      "qty": "2 с.л.",
+      "id": 290
+    },
+    {
+      "name": "моцарела",
+      "qty": "300 г",
+      "id": 93
+    },
+    {
+      "name": "чесън",
+      "qty": "6 скилидки",
+      "id": 6
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

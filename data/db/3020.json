@@ -1,0 +1,94 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Кюфтенца ИКЕА с гарнитура от картофено пюре, бял сметанов сос и сладко от червени боровинки",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kuftenca-ikea-s-kartofeno-pure-sos-i-sladko-ot-cherveni-borovinki-1-[3020].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kuftenca-ikea-s-kartofeno-pure-sos-i-sladko-ot-cherveni-borovinki-1-[3020].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kuftenca-ikea-s-kartofeno-pure-sos-i-sladko-ot-cherveni-borovinki-1-[3020].jpg"
+    ],
+    "datePublished": "2014-12-12",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "484 calories",
+      "carbohydrateContent": "27 g",
+      "fatContent": "30 g",
+      "proteinContent": "24 g",
+      "saturatedFatContent": "12 g",
+      "unsaturatedFatContent": "14.57791 g",
+      "cholesterolContent": "101 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг готови кюфтета ИКЕА",
+      "1/2 кг картофи",
+      "100 мл. прясно мляко",
+      "1 с.л. масло",
+      "1 щип. сол",
+      "1 опак. готов сметанов сос ИКЕА",
+      "4 с.л. сладко от червени боровинки"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Популярните кюфтенца <a href=https://www.facebook.com/ikeabulgaria>ИКЕА</a> можете да опитате не само в ресторанта на магазина, но и у дома. За целта е необходимо да размразите готовите кюфтенца закупени от <a href=http://www.ikea.bg/ikea-hrani/ikea-magazin-za-shvedska-hrana/>ИКЕА магазин за шведска храна</a> и да ги поставите в сгорещен сух тиган. След около 15 минути, в които периодично кюфтенцата се обръщат, са готови."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Докато те се приготвят в тиган, е необходимо да се пасират добре сварени картофи и да се смесят с прясно мляко, масло и сол. Полученото картофено пюре е класическа гарнитура за кюфтетата."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Сосът за кюфтенцата е готов продукт, който също може да закупите от <a href=http://www.ikea.bg/ikea-hrani/ikea-magazin-za-shvedska-hrana/>ИКЕА магазин за шведска храна</a> и да го приготвите според указанията на опаковката. Това е лесно като детска игра и ще ви отнеме само няколко минути."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Накрая не забравяйте да добавите и супена лъжица конфитюр от червени боровинки и пресен стрък магданоз. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Вечерята ви е готова за по-малко от половин час и не е необходимо да полагате никакви кулинарни усилия. В натоварени дни, в които не можете да отделите време за готвене, доверете се на тази достъпна възможност."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "готови кюфтета ИКЕА",
+      "qty": "1/2 кг",
+      "id": 54
+    },
+    {
+      "name": "картофи",
+      "qty": "1/2 кг",
+      "id": 16
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "100 мл.",
+      "id": 14
+    },
+    {
+      "name": "масло",
+      "qty": "1 с.л.",
+      "id": 8
+    },
+    {
+      "name": "сол",
+      "qty": "1 щип.",
+      "id": 1
+    },
+    {
+      "name": "готов сметанов сос ИКЕА",
+      "qty": "1 опак.",
+      "id": 19
+    },
+    {
+      "name": "сладко от червени боровинки",
+      "qty": "4 с.л.",
+      "id": 89
+    }
+  ]
+}

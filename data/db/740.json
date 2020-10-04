@@ -1,0 +1,102 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Задушени гъби печурки с бяло вино, масло, зехтин и доматено пюре",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zadusheni_pechurki_s_bialo_vino_2-[740].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zadusheni_pechurki_s_bialo_vino_2-[740].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zadusheni_pechurki_s_bialo_vino_2-[740].jpg"
+    ],
+    "datePublished": "2010-12-11",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "201 calories",
+      "carbohydrateContent": "17 g",
+      "fatContent": "8 g",
+      "proteinContent": "8 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "3.825545 g",
+      "cholesterolContent": "11 mg"
+    },
+    "recipeIngredient": [
+      "1 кг печурки",
+      "1 ч.ч. бяло вино",
+      "20 г масло",
+      "2 с.л. зехтин",
+      "1 с.л. брашно",
+      "1 с.л. доматено пюре",
+      "1 връзка магданоз",
+      "4 скилидки чесън",
+      "1 глава лук",
+      "сол",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Печурките (1 кг) се почистват, нарязват на едри парчета и бланшират във вряща подсолена вода. Лукът (1 глава) се нарязва на ситно и се задушава заедно с нарязания чесън (4 скилидки) в сгорещените зехтин (2 с.л.) и масло (20 г). Щом омекнат, се поръсват с брашното (1 с.л.) и се разбъркват. Добавят се отцедените гъби и пак се разбърква. Налива се чаша от бульона, в който са врели за кратко. Налива се и виното (1 ч.ч.). Огънят се намалява и ястието ври, докато алкохолът се изпари и течността стане наполовина. Прибавя се и доматеното пюре (1 с.л.), разбърква се и ястието се готви още 3-5 минути. Посолява се, подправя се с черен пипер. Снема се от котлона и се прибавя ситно нарязаният магданоз (1 връзка)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "печурки",
+      "qty": "1 кг",
+      "id": 62
+    },
+    {
+      "name": "бяло вино",
+      "qty": "1 ч.ч.",
+      "id": 41
+    },
+    {
+      "name": "масло",
+      "qty": "20 г",
+      "id": 8
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "брашно",
+      "qty": "1 с.л.",
+      "id": 7
+    },
+    {
+      "name": "доматено пюре",
+      "qty": "1 с.л.",
+      "id": 35
+    },
+    {
+      "name": "магданоз",
+      "qty": "1 връзка",
+      "id": 12
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пилешко руло от бонфиле с бекон",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pileshko_rulo_2-[459].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pileshko_rulo_2-[459].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pileshko_rulo_2-[459].jpg"
+    ],
+    "datePublished": "2010-10-07",
+    "cookTime": "PT0H40M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "775 calories",
+      "carbohydrateContent": "5 g",
+      "fatContent": "60 g",
+      "proteinContent": "47 g",
+      "saturatedFatContent": "23 g",
+      "unsaturatedFatContent": "33.1373 g",
+      "cholesterolContent": "162 mg"
+    },
+    "recipeIngredient": [
+      "300 г пилешко бонфиле",
+      "5 резена бекон",
+      "6 стръка зелен лук",
+      "1/2 връзка магданоз",
+      "50 г топено сирене",
+      "сол",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Резените бекон (5 резена) се нареждат върху готварско фолио така, че да се застъпват. Върху тях се нареждат пилешките филенца (300 г). Поръсват се със сол, черен пипер, ситно нарязан лук (6 стръка) и магданоз (1/2 връзка). Топеното сирене (50 г) се нарязва на парченца, които се слагат върху филенцата. С помощта на фолиото всичко това се навива на руло. Рулото се пече, увито във фолиото 20 минути, след което се развива. От соса, който се е отделил при печенето, се взема с лъжичка и се намазва горната повърхност на рулото. Допича се до получаването на златиста коричка."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешко бонфиле",
+      "qty": "300 г",
+      "id": 79
+    },
+    {
+      "name": "бекон",
+      "qty": "5 резена",
+      "id": 88
+    },
+    {
+      "name": "зелен лук",
+      "qty": "6 стръка",
+      "id": 24
+    },
+    {
+      "name": "магданоз",
+      "qty": "1/2 връзка",
+      "id": 12
+    },
+    {
+      "name": "топено сирене",
+      "qty": "50 г",
+      "id": 112
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

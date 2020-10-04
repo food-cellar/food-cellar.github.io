@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печени пилешки дробчета на фурна с доматен сос, гъби и лук в тава на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/drobcheta-na-furna-s-domati-i-luk-3-[1471].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/drobcheta-na-furna-s-domati-i-luk-3-[1471].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/drobcheta-na-furna-s-domati-i-luk-3-[1471].jpg"
+    ],
+    "datePublished": "2011-05-23",
+    "cookTime": "PT1H0M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "330 calories",
+      "carbohydrateContent": "23 g",
+      "fatContent": "12 g",
+      "proteinContent": "30 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "7.69281 g",
+      "cholesterolContent": "659 mg"
+    },
+    "recipeIngredient": [
+      "300 г пилешки дробчета",
+      "2 глави лук",
+      "100 г гъби",
+      "150 г доматено пюре",
+      "3 стръка магданоз",
+      "3 стръка копър",
+      "черен пипер",
+      "сол",
+      "2 с.л. зехтин"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Лукът (2 глави) и гъбите (100 г) се нарязват на полумесеци и се задушават в зехтин (2 с.л.) до омекване. Прибавят се измитите и отцедени пилешки дробчета (300 г) и се запържват от всички страни за няколко минути. Преместват се от котлона. Към тях се прибавят ситно нарязаните магданоз (3 стръка) и копър (3 стръка), доматеното пюре (150 г) и подправките. Всичко се разбърква добре и се поставя в малка тавичка. Пече се в умерена фурна до извиране на доматения сос.  "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешки дробчета",
+      "qty": "300 г",
+      "id": 191
+    },
+    {
+      "name": "лук",
+      "qty": "2 глави",
+      "id": 3
+    },
+    {
+      "name": "гъби",
+      "qty": "100 г",
+      "id": 37
+    },
+    {
+      "name": "доматено пюре",
+      "qty": "150 г",
+      "id": 35
+    },
+    {
+      "name": "магданоз",
+      "qty": "3 стръка",
+      "id": 12
+    },
+    {
+      "name": "копър",
+      "qty": "3 стръка",
+      "id": 28
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    }
+  ]
+}

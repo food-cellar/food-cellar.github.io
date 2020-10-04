@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пияни спагети със спанак, червено вино и сирене пармезан",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/piiani_spageti_1-[895].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/piiani_spageti_1-[895].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/piiani_spageti_1-[895].jpg"
+    ],
+    "datePublished": "2010-10-28",
+    "cookTime": "PT0H40M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "626 calories",
+      "carbohydrateContent": "79 g",
+      "fatContent": "14 g",
+      "proteinContent": "23 g",
+      "saturatedFatContent": "8 g",
+      "unsaturatedFatContent": "5.13 g",
+      "cholesterolContent": "33 mg"
+    },
+    "recipeIngredient": [
+      "400 г спагети",
+      "200 г спанак",
+      "1/2 л. червено вино",
+      "30 г масло",
+      "1 ч.л. зехтин",
+      "100 г пармезан",
+      "сол",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Спагетите (400 г) се пускат във вряща подсолена вода, в която са капнати няколко капки зехтин и се варят до полуготовност. Отцеждат се и се слагат в тенджера с нагорещено масло (30 г), в която е пасиран ситно нарязаният спанак (200 г). Разбъркват се. Подправят се с черен пипер. Налива се виното (1/2 л.) и спагетите врят, докато го поемат напълно. Поднасят се топли и обилно поръсени с настърган пармезан (100 г)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "спагети",
+      "qty": "400 г",
+      "id": 72
+    },
+    {
+      "name": "спанак",
+      "qty": "200 г",
+      "id": 40
+    },
+    {
+      "name": "червено вино",
+      "qty": "1/2 л.",
+      "id": 98
+    },
+    {
+      "name": "масло",
+      "qty": "30 г",
+      "id": 8
+    },
+    {
+      "name": "зехтин",
+      "qty": "1 ч.л.",
+      "id": 10
+    },
+    {
+      "name": "пармезан",
+      "qty": "100 г",
+      "id": 59
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

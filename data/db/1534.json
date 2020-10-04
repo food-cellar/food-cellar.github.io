@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата със скариди, чушки и авокадо в листа от айсберг",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-sus-skaridi-v-lista-ot-aisberg-1-[1534].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-sus-skaridi-v-lista-ot-aisberg-1-[1534].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-sus-skaridi-v-lista-ot-aisberg-1-[1534].jpg"
+    ],
+    "datePublished": "2011-07-17",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "259 calories",
+      "carbohydrateContent": "7 g",
+      "fatContent": "16 g",
+      "proteinContent": "21 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "12.2626525 g",
+      "cholesterolContent": "152 mg"
+    },
+    "recipeIngredient": [
+      "400 г коктейлни скариди",
+      "1  авокадо",
+      "1  червена чушка",
+      "2 стръка зелен лук",
+      "2 стръка магданоз",
+      "сол",
+      "4 с.л. зехтин",
+      "2 с.л. лимонов сок",
+      "4 листа айсберг",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Коктейлните скариди (400 г) се овкусяват със сол и черен пипер, поставят се в тавичка, на чието дъно има хартия за печене,  и се слагат в силна фурна за около 20 минути. През това време червената чушка (1 бр) се нарязва на много синтни кубчета, авокадото (1 бр) се обелва, костилката му се отстранява и вътрешността се нарязва на средни по големина кубчета, зеленият лук (2 стръка) и магданозът (2 стръка) се нарязват на ситно. Зеленчуците се поставят в купа и се овкусяват с лимонов сок (2 с.л.), зехтин (4 с.л.) и сол. Разбъркват се и щом скаридите се опекат и леко изстинат, се прибавят към тях. Получената салата се сервира, разположена върху цели листа от айсберг (4 листа)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "коктейлни скариди",
+      "qty": "400 г",
+      "id": 104
+    },
+    {
+      "name": "авокадо",
+      "qty": "1",
+      "id": 83
+    },
+    {
+      "name": "червена чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "зелен лук",
+      "qty": "2 стръка",
+      "id": 24
+    },
+    {
+      "name": "магданоз",
+      "qty": "2 стръка",
+      "id": 12
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "2 с.л.",
+      "id": 17
+    },
+    {
+      "name": "айсберг",
+      "qty": "4 листа",
+      "id": 101
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

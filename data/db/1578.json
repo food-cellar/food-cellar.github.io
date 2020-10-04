@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Свинско с кисели краставички и доматен сос",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/svinsko-s-kiseli-krastavichki-i-domaten-sos-3-[1578].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/svinsko-s-kiseli-krastavichki-i-domaten-sos-3-[1578].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/svinsko-s-kiseli-krastavichki-i-domaten-sos-3-[1578].jpg"
+    ],
+    "datePublished": "2011-08-01",
+    "cookTime": "PT0H50M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "795 calories",
+      "carbohydrateContent": "9 g",
+      "fatContent": "65 g",
+      "proteinContent": "41 g",
+      "saturatedFatContent": "21 g",
+      "unsaturatedFatContent": "36.938251666667 g",
+      "cholesterolContent": "180 mg"
+    },
+    "recipeIngredient": [
+      "1 1/2 кг свинско месо",
+      "800 г кисели краставички",
+      "400 мл. доматено пюре",
+      "4 с.л. зехтин",
+      "черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Свинското месо (1 1/2 кг) се нарязва на малки кубчета, които се пържат в зехтин (4 с.л.) до златисто. След това към тях се добавя доматеното пюре (400 мл.) и огънят се намалява. Ястието се оставя да къкри до извиране на почти цялата течност от пюрето. Малко преди да е готово, свинското се подправя със сол и черен пипер на вкус и към него се добавят нарязаните на кубчета кисели краставички (800 г)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "свинско месо",
+      "qty": "1 1/2 кг",
+      "id": 67
+    },
+    {
+      "name": "кисели краставички",
+      "qty": "800 г",
+      "id": 44
+    },
+    {
+      "name": "доматено пюре",
+      "qty": "400 мл.",
+      "id": 35
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

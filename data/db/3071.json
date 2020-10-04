@@ -1,0 +1,82 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Медени пилешки крилца",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/medeni-pileshki-krilca-1-[3071].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/medeni-pileshki-krilca-1-[3071].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/medeni-pileshki-krilca-1-[3071].jpg"
+    ],
+    "datePublished": "2016-01-21",
+    "cookTime": "PT0H45M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "906 calories",
+      "carbohydrateContent": "10 g",
+      "fatContent": "60 g",
+      "proteinContent": "69 g",
+      "saturatedFatContent": "16 g",
+      "unsaturatedFatContent": "35.254845 g",
+      "cholesterolContent": "289 mg"
+    },
+    "recipeIngredient": [
+      "1 1/2 кг пилешки крилца",
+      "6 с.л. доматено пюре",
+      "200 мл. червено вино",
+      "6 с.л. мед",
+      "1 с.л. горчица",
+      "1/2 ч.л. черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "В купа се смесват червеното вино, течният мед, горчицата и доматеното пюре и сместа се разбива и овкусява с черен пипер и сол на вкус. С нея се заливат пилешките крилца, поставени в съда на уреда. <a href=http://www.philips.bg/c-m-ho/cooking/multicooker.html?origin=1_bg_bg_multicookerq4_sandra____recipe2_blog>Мултикукърът</a> се включва на режим Bake за 60 минути."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "След това крилцата се изваждат и поставят в чиния или плато. Образувалият се в купата на уреда сос се поставя в купичка и с четка се намазва месото от всички страни. По желание крилцата се сервират с бейби морковчета, задушени в Мултикукъра на режим Stew за 20 минути, като те се поставят върху приставката за готвене на пара, а в съда се сипва вода. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешки крилца",
+      "qty": "1 1/2 кг",
+      "id": 197
+    },
+    {
+      "name": "доматено пюре",
+      "qty": "6 с.л.",
+      "id": 35
+    },
+    {
+      "name": "червено вино",
+      "qty": "200 мл.",
+      "id": 98
+    },
+    {
+      "name": "мед",
+      "qty": "6 с.л.",
+      "id": 38
+    },
+    {
+      "name": "горчица",
+      "qty": "1 с.л.",
+      "id": 64
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1/2 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

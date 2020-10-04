@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Задушени пилешки хапки с броколи и сметанов сос",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pileshko-s-brokoli-i-smetanov-sos-1-[1416].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pileshko-s-brokoli-i-smetanov-sos-1-[1416].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pileshko-s-brokoli-i-smetanov-sos-1-[1416].jpg"
+    ],
+    "datePublished": "2011-04-02",
+    "cookTime": "PT0H50M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "435 calories",
+      "carbohydrateContent": "12 g",
+      "fatContent": "28 g",
+      "proteinContent": "33 g",
+      "saturatedFatContent": "16 g",
+      "unsaturatedFatContent": "9.8077483333333 g",
+      "cholesterolContent": "171 mg"
+    },
+    "recipeIngredient": [
+      "800 г пилешко месо",
+      "400 г броколи",
+      "200 г грах",
+      "2 с.л. масло",
+      "400 мл. течна сметана",
+      "1 ч.ч. зеленчуков бульон",
+      "1 с.л. брашно",
+      "черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Размразените зеленчуци се бланшират за около 5 минути във вряща подсолена вода. Изваждат се с решетъчна лъжица и се обливат с леденостудена вода.Пилешкото месо (800 г) се нарязва на хапки и се запържва за кратко от всички страни в маслото (2 с.л.). Добавя се бульонът (1 ч.ч.) и щом заври, се добавят сметаната (400 мл.), солта и черният пипер. Брашното (1 с.л.) се разтваря в малко студена вода и също се добавя. Разбърква се, докато сосът се сгъсти. Накрая се добавят зеленчуците и всичко се разбърква много добре. Ястието се сервира горещо."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешко месо",
+      "qty": "800 г",
+      "id": 49
+    },
+    {
+      "name": "броколи",
+      "qty": "400 г",
+      "id": 57
+    },
+    {
+      "name": "грах",
+      "qty": "200 г",
+      "id": 68
+    },
+    {
+      "name": "масло",
+      "qty": "2 с.л.",
+      "id": 8
+    },
+    {
+      "name": "течна сметана",
+      "qty": "400 мл.",
+      "id": 19
+    },
+    {
+      "name": "зеленчуков бульон",
+      "qty": "1 ч.ч.",
+      "id": 26
+    },
+    {
+      "name": "брашно",
+      "qty": "1 с.л.",
+      "id": 7
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Бърз и лесен сладкиш без печене от бишкоти с праскови от консерва, извара (или рикота) и сирене маскарпоне",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/lesen-sladkish-s-praskovi-izvara-i-maskarpone-1-[3107].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/lesen-sladkish-s-praskovi-izvara-i-maskarpone-1-[3107].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/lesen-sladkish-s-praskovi-izvara-i-maskarpone-1-[3107].jpg"
+    ],
+    "datePublished": "2016-11-22",
+    "cookTime": "PT0H20M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "364 calories",
+      "carbohydrateContent": "44 g",
+      "fatContent": "19 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "11 g",
+      "unsaturatedFatContent": "6.0443536585366 g",
+      "cholesterolContent": "154 mg"
+    },
+    "recipeIngredient": [
+      "200 г бишкоти",
+      "1/2 кг компот от праскови",
+      "300 г маскарпоне",
+      "150 г захар",
+      "100 г извара",
+      "шоколадов топинг"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Компотът от праскови (1/2 кг) се разделя на плодове и сок от компота. В сока от компота се потопаяват бишкотите (200 г) за секунда и се подреждат на дъното на тава. Течността, която остава от компота, се запазва."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Плодовете от компота се пасират в блендер и получената смес се разпределя равномерно върху бишкотите. В купа се разбиват маскарпонето (300 г), изварата (100 г), захарта (150 г) и течността, останала от компота след потапянето на бишкотите. Сместа се разбива с миксер до получаването на гъст крем. Кремът се излива в тавата и се разпределя равномерно. Заглажда се с лъжица и десертът се поставя в хладилник да стегне за няколко часа. Преди сервиране се полива с шоколадов топинг."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Рецептата е част от кулинарната рубрика <a href=https://www.facebook.com/SupermarketCBA/photos/?tab=album&album_id=586993531488996>Какво да сготвя довечера?</a> на  <a href=https://www.facebook.com/SupermarketCBA/>Супермаркети CBA</a> и е създадена с продукти, закупени от техните магазини."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "бишкоти",
+      "qty": "200 г",
+      "id": 133
+    },
+    {
+      "name": "компот от праскови",
+      "qty": "1/2 кг",
+      "id": 309
+    },
+    {
+      "name": "маскарпоне",
+      "qty": "300 г",
+      "id": 115
+    },
+    {
+      "name": "захар",
+      "qty": "150 г",
+      "id": 9
+    },
+    {
+      "name": "извара",
+      "qty": "100 г",
+      "id": 92
+    },
+    {
+      "name": "шоколадов топинг",
+      "qty": "Parsing error",
+      "id": 152
+    }
+  ]
+}

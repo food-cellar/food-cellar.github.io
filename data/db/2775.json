@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата със спанак, ягоди, кашу, орехи и козе сирене",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-sus-spanak-iagodi-kashu-orehi-i-koze-sirene-1-[2775].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-sus-spanak-iagodi-kashu-orehi-i-koze-sirene-1-[2775].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-sus-spanak-iagodi-kashu-orehi-i-koze-sirene-1-[2775].jpg"
+    ],
+    "datePublished": "2014-02-17",
+    "cookTime": "PT0H10M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "422 calories",
+      "carbohydrateContent": "13 g",
+      "fatContent": "34 g",
+      "proteinContent": "18 g",
+      "saturatedFatContent": "12 g",
+      "unsaturatedFatContent": "20.06875 g",
+      "cholesterolContent": "39 mg"
+    },
+    "recipeIngredient": [
+      "400 г спанак",
+      "200 г ягоди",
+      "50 г кашу",
+      "50 г орехи",
+      "150 г козе сирене",
+      "4 с.л. зехтин",
+      "2 с.л. оцет балсамико",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Бейби спанакът се измива и подсушава. Към него се добавят ядките, резените ягоди и парченцата козе сирене. Салатата се овкусява със зехтин, сол и оцет балсамико."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "спанак",
+      "qty": "400 г",
+      "id": 40
+    },
+    {
+      "name": "ягоди",
+      "qty": "200 г",
+      "id": 109
+    },
+    {
+      "name": "кашу",
+      "qty": "50 г",
+      "id": 200
+    },
+    {
+      "name": "орехи",
+      "qty": "50 г",
+      "id": 31
+    },
+    {
+      "name": "козе сирене",
+      "qty": "150 г",
+      "id": 227
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "оцет балсамико",
+      "qty": "2 с.л.",
+      "id": 142
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

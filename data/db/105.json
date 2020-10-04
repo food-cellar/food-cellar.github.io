@@ -1,0 +1,126 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Панирани котлети от пилешко месо и бекон по френски",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kotleti-po-frenski-1-[105].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kotleti-po-frenski-1-[105].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kotleti-po-frenski-1-[105].jpg"
+    ],
+    "datePublished": "2010-12-02",
+    "cookTime": "PT1H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "545 calories",
+      "carbohydrateContent": "44 g",
+      "fatContent": "29 g",
+      "proteinContent": "23 g",
+      "saturatedFatContent": "10 g",
+      "unsaturatedFatContent": "16.8318825 g",
+      "cholesterolContent": "232 mg"
+    },
+    "recipeIngredient": [
+      "100 г сурово пушен бекон",
+      "100 г пилешко месо",
+      "100 г макарони",
+      "50 г кашкавал",
+      "1 с.л. олио",
+      "2 с.л. зехтин",
+      "4 стръкчета магданоз",
+      "босилек",
+      "сол",
+      "черен пипер",
+      "2  яйца",
+      "3 с.л. галета",
+      "1 ч.л. горчица",
+      "2  яйца",
+      "100 г галета"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Месото (100 г) и макароните (100 г) се сваряват предварително и заедно с беконът се нарязват на ситно. Добавят се настърганият кашкавал (50 г), разбитите яйца (2 бр), ситно нарязаният магданоз (4 стръкчета), галетата (3 с.л.), горчицата (1 ч.л.), солта, черния пипер, босилека и всичко се омесва добре. От получената кайма се оформят котлети, панират се в яйце и галета. Пържат се до готовност в олиото и зехтина. Поднасят се топли, залети с винен сос."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "сурово пушен бекон",
+      "qty": "100 г",
+      "id": 88
+    },
+    {
+      "name": "пилешко месо",
+      "qty": "100 г",
+      "id": 49
+    },
+    {
+      "name": "макарони",
+      "qty": "100 г",
+      "id": 129
+    },
+    {
+      "name": "кашкавал",
+      "qty": "50 г",
+      "id": 47
+    },
+    {
+      "name": "олио",
+      "qty": "1 с.л.",
+      "id": 4
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "магданоз",
+      "qty": "4 стръкчета",
+      "id": 12
+    },
+    {
+      "name": "босилек",
+      "qty": "Parsing error",
+      "id": 25
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "галета",
+      "qty": "3 с.л.",
+      "id": 58
+    },
+    {
+      "name": "горчица",
+      "qty": "1 ч.л.",
+      "id": 64
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "галета",
+      "qty": "100 г",
+      "id": 58
+    }
+  ]
+}

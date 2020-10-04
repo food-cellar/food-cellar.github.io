@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Руло със свинска кайма, гъби и царевица",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/rulo-za-speshen-sluchai-2-[528].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/rulo-za-speshen-sluchai-2-[528].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/rulo-za-speshen-sluchai-2-[528].jpg"
+    ],
+    "datePublished": "2010-12-10",
+    "cookTime": "PT0H20M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "484 calories",
+      "carbohydrateContent": "25 g",
+      "fatContent": "30 g",
+      "proteinContent": "28 g",
+      "saturatedFatContent": "10 g",
+      "unsaturatedFatContent": "16.674715 g",
+      "cholesterolContent": "137 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг свинска кайма",
+      "1  яйце",
+      "1 глава лук",
+      "черен пипер",
+      "кимион",
+      "250 г гъби",
+      "250 г царевица",
+      "50 г галета",
+      "1 с.л. олио"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Каймата (1/2 кг) се омесва с яйцето (1 бр) и подпраките. В нея се добавят нарязаните гъби и царевицата. Тази смес се изсипва във форма, покрита с хартия за печене, намазнена и поръсена с галета. Отгоре се поръсва с църевица и гъби. Пече се до готовност. Поднася се на порции с варени картофи."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "свинска кайма",
+      "qty": "1/2 кг",
+      "id": 54
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "кимион",
+      "qty": "Parsing error",
+      "id": 42
+    },
+    {
+      "name": "гъби",
+      "qty": "250 г",
+      "id": 37
+    },
+    {
+      "name": "царевица",
+      "qty": "250 г",
+      "id": 78
+    },
+    {
+      "name": "галета",
+      "qty": "50 г",
+      "id": 58
+    },
+    {
+      "name": "олио",
+      "qty": "1 с.л.",
+      "id": 4
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Витаминозна салата с червено цвекло, моркови, зеле и царевица",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/vitaminozna-salata-2-[21].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/vitaminozna-salata-2-[21].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/vitaminozna-salata-2-[21].jpg"
+    ],
+    "datePublished": "2011-05-11",
+    "cookTime": "PT0H20M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "295 calories",
+      "carbohydrateContent": "26 g",
+      "fatContent": "19 g",
+      "proteinContent": "9 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "16.0893225 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "200 г червено цвекло",
+      "200 г моркови",
+      "200 г червено зеле",
+      "100 г варена царевица",
+      "100 г слънчогледови семки",
+      "2  лимона",
+      "сол",
+      "4 с.л. зехтин",
+      "1  домат",
+      "1 стръкче дивесил"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Цвеклото (200 г) и морковите (200 г) се обелват и настъргват на средното ренде, червеното зеле (200 г) също се настъргва на него."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Смесват се, овкусяват се със солта, сокът на лимона и зехтина и се разбъркват добре."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Салатата се поръсва със зрънца царевица (100 г) и слънчогледови семки (100 г). Украсява се с резенчета домат и стръкче дивесил."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Тази салата е чудесна гарнитура към печена или пържена риба."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "червено цвекло",
+      "qty": "200 г",
+      "id": 131
+    },
+    {
+      "name": "моркови",
+      "qty": "200 г",
+      "id": 13
+    },
+    {
+      "name": "червено зеле",
+      "qty": "200 г",
+      "id": 288
+    },
+    {
+      "name": "варена царевица",
+      "qty": "100 г",
+      "id": 78
+    },
+    {
+      "name": "слънчогледови семки",
+      "qty": "100 г",
+      "id": 147
+    },
+    {
+      "name": "лимона",
+      "qty": "2",
+      "id": 43
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "домат",
+      "qty": "1",
+      "id": 15
+    },
+    {
+      "name": "дивесил",
+      "qty": "1 стръкче",
+      "id": 167
+    }
+  ]
+}

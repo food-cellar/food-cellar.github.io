@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Марината за вратни пържоли с олио, соев сос, чили и пипер",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/marinata-za-vratni-purjoli-s-olio-soev-sos-chili-i-piper-1-[3118].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/marinata-za-vratni-purjoli-s-olio-soev-sos-chili-i-piper-1-[3118].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/marinata-za-vratni-purjoli-s-olio-soev-sos-chili-i-piper-1-[3118].jpg"
+    ],
+    "datePublished": "2016-12-03",
+    "cookTime": "PT0H5M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Сосове",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "65 calories",
+      "carbohydrateContent": "1 g",
+      "fatContent": "6 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "5.75104 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "2 с.л. соев сос",
+      "4 с.л. олио",
+      "1 ч.л. чили",
+      "1 ч.л. черен пипер",
+      "1 ч.л. чубрица",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Чилито, пиперът, чубрицата и солта се смесват в малка купа. След това, лъжица по лъжица се добавят соевият сос и олиото, като непрекъснато се бърка. Маринатата е подходяща за свински врат, котлети и ребърца."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "соев сос",
+      "qty": "2 с.л.",
+      "id": 53
+    },
+    {
+      "name": "олио",
+      "qty": "4 с.л.",
+      "id": 4
+    },
+    {
+      "name": "чили",
+      "qty": "1 ч.л.",
+      "id": 105
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "чубрица",
+      "qty": "1 ч.л.",
+      "id": 36
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

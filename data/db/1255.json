@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печени патладжани на фурна с доматен сос и кашкавал",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/patladjani-na-furna-s-domaten-sos-2-[1255].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/patladjani-na-furna-s-domaten-sos-2-[1255].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/patladjani-na-furna-s-domaten-sos-2-[1255].jpg"
+    ],
+    "datePublished": "2011-04-22",
+    "cookTime": "PT1H30M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "275 calories",
+      "carbohydrateContent": "38 g",
+      "fatContent": "11 g",
+      "proteinContent": "10 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "6.1499316666667 g",
+      "cholesterolContent": "16 mg"
+    },
+    "recipeIngredient": [
+      "5  патладжана",
+      "800 г домати",
+      "2 глави лук",
+      "5 скилидки чесън",
+      "100 г кашкавал",
+      "черен пипер",
+      "сол",
+      "6 стръка магданоз",
+      "5 с.л. зехтин"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Патладжаните (5 бр) се измиват, почистват и нарязват на кубчета. Посоляват се и се оставят за половин час да пуснат горчивия си сок. След това се измиват и подсушават. Задушват се в зехтина (5 с.л.) до омекване (около 20 минути), заедно със счукания чесън (5 скилидки) и ситно нарязания лук (2 глави). Преместват се в тавичка и се смесват с настърганите домати (800 г), ситно нарязания пресен магданоз (6 стръка) и подправките. Ястието се пече за 40 минути в силна фурна. Накрая се поръсва с настърган кашкавал (100 г) и се връща във фурната за още няколко минути, докато се разтопи кашкавалът."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "патладжана",
+      "qty": "5",
+      "id": 71
+    },
+    {
+      "name": "домати",
+      "qty": "800 г",
+      "id": 15
+    },
+    {
+      "name": "лук",
+      "qty": "2 глави",
+      "id": 3
+    },
+    {
+      "name": "чесън",
+      "qty": "5 скилидки",
+      "id": 6
+    },
+    {
+      "name": "кашкавал",
+      "qty": "100 г",
+      "id": 47
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "магданоз",
+      "qty": "6 стръка",
+      "id": 12
+    },
+    {
+      "name": "зехтин",
+      "qty": "5 с.л.",
+      "id": 10
+    }
+  ]
+}

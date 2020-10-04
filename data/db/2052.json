@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата с домати, краставици и гъби",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-s-domati-krastavici-i-gubi-1-[2052].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-s-domati-krastavici-i-gubi-1-[2052].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-s-domati-krastavici-i-gubi-1-[2052].jpg"
+    ],
+    "datePublished": "2012-08-14",
+    "cookTime": "PT0H10M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "194 calories",
+      "carbohydrateContent": "15 g",
+      "fatContent": "14 g",
+      "proteinContent": "4 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "11.47398 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "2  домата",
+      "1/2  краставица",
+      "8  гъби",
+      "1 глава червен лук",
+      "1/4 връзка копър",
+      "4 с.л. зехтин",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Зеленчуците се измиват старателно и се отцеждат. Краставицата (1/2 бр) се обелва и нарязва на полумесеци. Доматите (2 бр) се нарязват на средни по големина парчета, а лукът (1 глава) се обелва и нарязва на колелца. Гъбите (8 бр) се режат на тънки полумесеци и се смесват със зеленчуците в дълбока купа. Всички продукти се овкусяват със зехтин (4 с.л.), ситно нарязан копър (1/4 връзка) и сол. Салатата се разбърква добре и се сервира веднага."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "домата",
+      "qty": "2",
+      "id": 15
+    },
+    {
+      "name": "краставица",
+      "qty": "1/2",
+      "id": 44
+    },
+    {
+      "name": "гъби",
+      "qty": "8",
+      "id": 37
+    },
+    {
+      "name": "червен лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "копър",
+      "qty": "1/4 връзка",
+      "id": 28
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

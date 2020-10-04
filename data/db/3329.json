@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Крем супа от домати, червени чушки и лук поднесена с крутони",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/krem-supa-ot-domati-cherveni-chushki-i-luk-1-[3329].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/krem-supa-ot-domati-cherveni-chushki-i-luk-1-[3329].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/krem-supa-ot-domati-cherveni-chushki-i-luk-1-[3329].jpg"
+    ],
+    "datePublished": "2018-09-11",
+    "cookTime": "PT0H30M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "188 calories",
+      "carbohydrateContent": "27 g",
+      "fatContent": "8 g",
+      "proteinContent": "4 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "6.1131933333333 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "12  домата",
+      "6  червени чушки",
+      "2 глави лук",
+      "4 скилидки чесън",
+      "50 мл. зехтин",
+      "2 с.л. захар",
+      "1 ч.л. сушен босилек",
+      "1 ч.ч. зеленчуков бульон"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Доматите (12 бр) се цепват в краищата и се пускат във вряща вода за 1 минута. Изваждат се и се слагат в студена вода. Обелват се, разрязват се на две и вътрешността със семките се отстранява. Останалата част се нарязва на едро."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Червените чушки (6 бр) се измиват, семената се отстраняват и също се нарязват на едро. Лукът (2 глави) се нарязва на ситно, а чесънът се счуква (4 скилидки)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "В дълбока тенджера се загрява зехтинът (50 мл.) и в него се задушават лукът, чесънът и чушките. Щом омекнат, в тенджерата се слагат и нарязаните домати, бульонът (1 ч.ч.), захарта (2 с.л.) и босилекът (1 ч.л.). Овкусява се със сол и пипер."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Супата се готви около 10 минути, след което се оставя малко да изстине и се пасира. Сервира се украсена с пресен босилек. Може да се поднесе и с крутони."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "домата",
+      "qty": "12",
+      "id": 15
+    },
+    {
+      "name": "червени чушки",
+      "qty": "6",
+      "id": 18
+    },
+    {
+      "name": "лук",
+      "qty": "2 глави",
+      "id": 3
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "зехтин",
+      "qty": "50 мл.",
+      "id": 10
+    },
+    {
+      "name": "захар",
+      "qty": "2 с.л.",
+      "id": 9
+    },
+    {
+      "name": "сушен босилек",
+      "qty": "1 ч.л.",
+      "id": 25
+    },
+    {
+      "name": "зеленчуков бульон",
+      "qty": "1 ч.ч.",
+      "id": 26
+    }
+  ]
+}

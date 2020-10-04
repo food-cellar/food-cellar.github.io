@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата с рукола, хамон (или прошуто), смокини и кедрови ядки",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-s-rukola-hamon-i-smokini-1-[2785].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-s-rukola-hamon-i-smokini-1-[2785].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-s-rukola-hamon-i-smokini-1-[2785].jpg"
+    ],
+    "datePublished": "2014-02-18",
+    "cookTime": "PT0H10M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "644 calories",
+      "carbohydrateContent": "51 g",
+      "fatContent": "36 g",
+      "proteinContent": "38 g",
+      "saturatedFatContent": "10 g",
+      "unsaturatedFatContent": "22.71142433973 g",
+      "cholesterolContent": "82 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг рукола",
+      "200 г хамон",
+      "8  смокини",
+      "40 г кедрови ядки",
+      "2 с.л. зехтин",
+      "1 с.л. балсамов оцет",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Руколата се измива, подсушава и поставя в порционни чинии. Върху нея се разполагат разполовените смокини, парчета хамон и кедрови ядки. Салатата се посолява и овкусява с балсамов оцет и зехтин. Вместо хамон, може да се използва и прошуто."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "рукола",
+      "qty": "1/2 кг",
+      "id": 155
+    },
+    {
+      "name": "хамон",
+      "qty": "200 г",
+      "id": 208
+    },
+    {
+      "name": "смокини",
+      "qty": "8",
+      "id": 244
+    },
+    {
+      "name": "кедрови ядки",
+      "qty": "40 г",
+      "id": 125
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "балсамов оцет",
+      "qty": "1 с.л.",
+      "id": 142
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

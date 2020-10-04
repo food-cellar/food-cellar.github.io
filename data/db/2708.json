@@ -1,0 +1,104 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печено агнешко бутче на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pecheno-agneshko-butche-2-[2708].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pecheno-agneshko-butche-2-[2708].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pecheno-agneshko-butche-2-[2708].jpg"
+    ],
+    "datePublished": "2014-01-27",
+    "cookTime": "PT2H0M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "288 calories",
+      "carbohydrateContent": "3 g",
+      "fatContent": "24 g",
+      "proteinContent": "13 g",
+      "saturatedFatContent": "7 g",
+      "unsaturatedFatContent": "14.970553333333 g",
+      "cholesterolContent": "52 mg"
+    },
+    "recipeIngredient": [
+      "1  агнешко бутче",
+      "4 скилидки чесън",
+      "2 с.л. доматено пюре",
+      "1 с.л. горчица",
+      "1 с.л. захар",
+      "5 с.л. бяло вино",
+      "1 к.ч. зехтин",
+      "червен пипер",
+      "черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "С помощта на нож се направят разрези по цялата повърхност а агнешкото бутче. Във всеки се пъхна по парченце от скилидка чесън. Бутчето се натърква обилно със сол, черен и червен пипер."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Зехтинът (1 к.ч.) се загрява на котлона и към него се добавя захарта (1 к.ч.). Разбърква се и се сипват доматеното пюре (2 с.л.), горчицата (1 с.л.) и виното (5 с.л.). Оставят се да къкрят, докато течността се изпари, като равномерно се разбърква. С тази смес се намазва изцяло агнешкото бутче от всички страни. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Пече се в намазнена тава, в която е добавена около чаша гореща вода. Бутчето се покрива внимателно с фолио в предварително загряна фурна на 200 градуса. Пече се за около час и половина, след което се маха фолиото и се доизпича до апетитна коричка."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "агнешко бутче",
+      "qty": "1",
+      "id": 260
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "доматено пюре",
+      "qty": "2 с.л.",
+      "id": 35
+    },
+    {
+      "name": "горчица",
+      "qty": "1 с.л.",
+      "id": 64
+    },
+    {
+      "name": "захар",
+      "qty": "1 с.л.",
+      "id": 9
+    },
+    {
+      "name": "бяло вино",
+      "qty": "5 с.л.",
+      "id": 41
+    },
+    {
+      "name": "зехтин",
+      "qty": "1 к.ч.",
+      "id": 10
+    },
+    {
+      "name": "червен пипер",
+      "qty": "Parsing error",
+      "id": 20
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

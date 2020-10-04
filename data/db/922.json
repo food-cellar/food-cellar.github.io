@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Коктейл Син секс на плажа",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kokteil-sin-seks-na-plaja-1-[922].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kokteil-sin-seks-na-plaja-1-[922].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kokteil-sin-seks-na-plaja-1-[922].jpg"
+    ],
+    "datePublished": "2012-08-16",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Коктейли",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "245 calories",
+      "carbohydrateContent": "17 g",
+      "fatContent": "0 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.0010352941176471 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "25 мл. водка",
+      "25 мл. ликьор от праскови",
+      "25 мл. синьо кюрасо",
+      "75  сок от ананас",
+      "лед"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "В шейкър, пълен с лед, се разбиват водката (25 мл.), ликьорите (25 мл.) и сокът от ананас (75). Сервира се в чаша, пълна с лед, украсен с резенчета портокал и черешка."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "водка",
+      "qty": "25 мл.",
+      "id": 154
+    },
+    {
+      "name": "ликьор от праскови",
+      "qty": "25 мл.",
+      "id": 320
+    },
+    {
+      "name": "синьо кюрасо",
+      "qty": "25 мл.",
+      "id": 209
+    },
+    {
+      "name": "сок от ананас",
+      "qty": "75",
+      "id": 213
+    },
+    {
+      "name": "лед",
+      "qty": "Parsing error",
+      "id": 11
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Коктейл Кенгуру",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kokteil-kenguru-1-[1458].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kokteil-kenguru-1-[1458].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kokteil-kenguru-1-[1458].jpg"
+    ],
+    "datePublished": "2011-05-16",
+    "cookTime": "PT0H10M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Коктейли",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "148 calories",
+      "carbohydrateContent": "1 g",
+      "fatContent": "0 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.03644 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "50 мл. водка",
+      "25 мл. вермут",
+      "1  маслина"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Този коктейл е известен още под името водкатини (vodkatini)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Шейкъра се напълва с лед. Всички продукти се добавят и се смесват добре. Сервира се в чаша за мартини и потопена маслинка."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "водка",
+      "qty": "50 мл.",
+      "id": 154
+    },
+    {
+      "name": "вермут",
+      "qty": "25 мл.",
+      "id": 190
+    },
+    {
+      "name": "маслина",
+      "qty": "1",
+      "id": 50
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Вкусен домашен хумус / пастет с нахут от консерва, чесън и сусамов тахан",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/domashen-humus-s-nahut-i-susamov-tahan-1-[3130].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/domashen-humus-s-nahut-i-susamov-tahan-1-[3130].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/domashen-humus-s-nahut-i-susamov-tahan-1-[3130].jpg"
+    ],
+    "datePublished": "2016-12-08",
+    "cookTime": "PT0H10M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "870 calories",
+      "carbohydrateContent": "62 g",
+      "fatContent": "62 g",
+      "proteinContent": "19 g",
+      "saturatedFatContent": "6 g",
+      "unsaturatedFatContent": "52.354235 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "400 г нахут от консерва",
+      "2 скилидки  чесън",
+      "1/4 ч.ч. лимонов сок",
+      "1/4 ч.ч. вода",
+      "1 ч.ч. олио",
+      "1/2 ч.ч. сусамов тахан",
+      "червен пипер",
+      "черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Нахутът (400 г) се отцежда от консервата и се поставя в кухненски робот. Разбива се заедно с подправките, чесъна (2 скилидки), водата (1/4 ч.ч.), лимоновия сок (1/4 ч.ч.), и сусамовия тахан (1/2 ч.ч.)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Ако желаете вашият хумус да бъде с по-гладка консистенция и по-сладък - добавете му две до 4 печени белени червени чушки и го пасирайте с тях."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Разядката от хумус е много полезна и вкусна. Може да се поднася намазана върху препечени филийки или като гарнитура към печено и пържено месо или риба."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Рецептата е част от кулинарната рубрика <a href=https://www.facebook.com/SupermarketCBA/photos/?tab=album&album_id=586993531488996>Какво да сготвя довечера?</a> на  <a href=https://www.facebook.com/SupermarketCBA/>Супермаркети CBA</a> и е създадена с продукти, закупени от техните магазини."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "нахут от консерва",
+      "qty": "400 г",
+      "id": 145
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1/4 ч.ч.",
+      "id": 17
+    },
+    {
+      "name": "вода",
+      "qty": "1/4 ч.ч.",
+      "id": 11
+    },
+    {
+      "name": "олио",
+      "qty": "1 ч.ч.",
+      "id": 4
+    },
+    {
+      "name": "сусамов тахан",
+      "qty": "1/2 ч.ч.",
+      "id": 247
+    },
+    {
+      "name": "червен пипер",
+      "qty": "Parsing error",
+      "id": 20
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

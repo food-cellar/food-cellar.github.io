@@ -1,0 +1,86 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пуешко бутче пълнено с гъби и краставички",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pueshko-butche-pulneno-s-gubi-i-krastavichki-2-[1834].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pueshko-butche-pulneno-s-gubi-i-krastavichki-2-[1834].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pueshko-butche-pulneno-s-gubi-i-krastavichki-2-[1834].jpg"
+    ],
+    "datePublished": "2017-03-20",
+    "cookTime": "PT1H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "483 calories",
+      "carbohydrateContent": "10 g",
+      "fatContent": "20 g",
+      "proteinContent": "61 g",
+      "saturatedFatContent": "6 g",
+      "unsaturatedFatContent": "11.6880075 g",
+      "cholesterolContent": "213 mg"
+    },
+    "recipeIngredient": [
+      "4  пуешки бутчета",
+      "4  кисели краставички",
+      "4  печурки",
+      "6 скилидки чесън",
+      "1 с.л. розмарин",
+      "сол",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пуешките бутчета (4 бр) се разрязват странично и се изважда костта. Поставят се в леко намазнена тавичка."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Краставичките (4 бр) и гъбите (4 бр) се нарязват на малки кубчета, а чесънът (6 скилидки) на кръгчета. Разбъркват се добре заедно с розмарина, солта и пипера и с получената смес се пълнят бутчетата. След това се зашиват или се защипват с клечки за зъби. Пекат се около 30 минути, покрити с алуминиево фолио, и още 10-15 минути без него до получаване на златиста коричка."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Ако остане плънка, се слага да се изпече около бутчетата. Може да се направи и по-голямо количество и да се сервира като гарнитура."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пуешки бутчета",
+      "qty": "4",
+      "id": 235
+    },
+    {
+      "name": "кисели краставички",
+      "qty": "4",
+      "id": 44
+    },
+    {
+      "name": "печурки",
+      "qty": "4",
+      "id": 62
+    },
+    {
+      "name": "чесън",
+      "qty": "6 скилидки",
+      "id": 6
+    },
+    {
+      "name": "розмарин",
+      "qty": "1 с.л.",
+      "id": 77
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

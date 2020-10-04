@@ -1,0 +1,48 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Шот Червена текила",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/shot-chervena-tekila-1-[897].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/shot-chervena-tekila-1-[897].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/shot-chervena-tekila-1-[897].jpg"
+    ],
+    "datePublished": "2012-08-16",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Коктейли",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "51 calories",
+      "carbohydrateContent": "12 g",
+      "fatContent": "0 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "15 мл. гренадин",
+      "20 мл. златиста текила"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "В чаша за шот се сипва гренадинът (15 мл.). Потапя се лъжица с изпъкналата част нагоре, която леко да докосва течността. На малка струйка се изсипва текилата (20 мл.) върху лъжицата, така че да не се смеси с гренадина. Както всеки друг шот се пие на екс."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "гренадин",
+      "qty": "15 мл.",
+      "id": 222
+    },
+    {
+      "name": "златиста текила",
+      "qty": "20 мл.",
+      "id": 27
+    }
+  ]
+}

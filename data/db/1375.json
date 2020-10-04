@@ -1,0 +1,86 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Спагети Карбонара с яйца, бекон, сирене пармезан и сметана",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/spageti-karbonara-1-[1375].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/spageti-karbonara-1-[1375].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/spageti-karbonara-1-[1375].jpg"
+    ],
+    "datePublished": "2011-08-01",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "765 calories",
+      "carbohydrateContent": "94 g",
+      "fatContent": "30 g",
+      "proteinContent": "25 g",
+      "saturatedFatContent": "9 g",
+      "unsaturatedFatContent": "17.75115 g",
+      "cholesterolContent": "214 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг спагети",
+      "100 г бекон",
+      "2 скилидки чесън",
+      "4 с.л. зехтин",
+      "4  яйца",
+      "1 с.л. пармезан",
+      "4 с.л. сметана"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Спагетите (1/2 кг) се сваряват според инструкциите на опаковката, отцеждат се и се измиват."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Беконът (100 г) се нарязва на малки парчета и се за запържва в зехтин (4 с.л.) за няколко минути. Добавя се и счукан на ситно чесън (2 скилидки). След това се добавя пастата и се готви за 3-4 минути докато се затопли повторно. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "От яйцата (4 бр), сиренето (1 с.л.) и сметаната (4 с.л.) се прави еднородна смес. Овкусява се със сол и пипер. С тази смес се заливат запържените паста и бекон, разбъркват се и се отстраняват от котлона, така че яйцата да не се втвърдят. Оставя се да престои за няколко минути."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "спагети",
+      "qty": "1/2 кг",
+      "id": 72
+    },
+    {
+      "name": "бекон",
+      "qty": "100 г",
+      "id": 88
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "яйца",
+      "qty": "4",
+      "id": 5
+    },
+    {
+      "name": "пармезан",
+      "qty": "1 с.л.",
+      "id": 59
+    },
+    {
+      "name": "сметана",
+      "qty": "4 с.л.",
+      "id": 19
+    }
+  ]
+}

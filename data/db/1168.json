@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печени пилешки гърди с картофи и гъби в гювече на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pileshki-gurdi-v-glinen-sud-1-[1168].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pileshki-gurdi-v-glinen-sud-1-[1168].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pileshki-gurdi-v-glinen-sud-1-[1168].jpg"
+    ],
+    "datePublished": "2010-11-27",
+    "cookTime": "PT0H50M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "302 calories",
+      "carbohydrateContent": "28 g",
+      "fatContent": "3 g",
+      "proteinContent": "40 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.76692 g",
+      "cholesterolContent": "87 mg"
+    },
+    "recipeIngredient": [
+      "4  пилешки гърди",
+      "300 г гъби",
+      "1/2 кг картофи",
+      "1 глава лук",
+      "2 щип. черен пипер",
+      "2 щип. къри",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Картофите (1/2 кг) се режат на малки кубчета, месото (4 бр)- на хапки, лукът (1 глава) - на ситно, а гъбите (300 г)- на тънки полумесеци. Всички продукти се смесват и подправят със сол, черен пипер (2 щип.) и къри (2 щип.) и се поставят в гювечета. Всяка порция се залива с вода, за да не загорят продуктите. Гювечетата се захлупват с капак и се пекат във фурна за 40 минути. Сеервират се горещи."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешки гърди",
+      "qty": "4",
+      "id": 79
+    },
+    {
+      "name": "гъби",
+      "qty": "300 г",
+      "id": 37
+    },
+    {
+      "name": "картофи",
+      "qty": "1/2 кг",
+      "id": 16
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "черен пипер",
+      "qty": "2 щип.",
+      "id": 2
+    },
+    {
+      "name": "къри",
+      "qty": "2 щип.",
+      "id": 143
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

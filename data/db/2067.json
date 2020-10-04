@@ -1,0 +1,76 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Папарделе паста с тиквички и сметана",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/papardele-s-tikvichki-1-[2067].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/papardele-s-tikvichki-1-[2067].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/papardele-s-tikvichki-1-[2067].jpg"
+    ],
+    "datePublished": "2017-03-20",
+    "cookTime": "PT0H30M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "360 calories",
+      "carbohydrateContent": "65 g",
+      "fatContent": "5 g",
+      "proteinContent": "12 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "1.7046466666667 g",
+      "cholesterolContent": "14 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг папарделе",
+      "1/2 кг тиквички",
+      "1 к.ч. сметана",
+      "4 скилидки чесън",
+      "сол",
+      "босилек"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пастата (1/2 кг) се сварява според инструкциите, след което се измива и оставя в студена вода, докато се приготви сосът. Част от горещата вода се запазва за соса."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Тиквичките (1/2 кг) се нарязват на едри парчета и се запържват с малко счукан чесън (4 скилидки). Щом станат златисти, се добавя сметаната (1 к.ч.) и малко от водата и се разбърква. Добавя се и отцедената паста и се разбърква добре. Добавят се жълтъците и се готви още 3-4 минути, докато сосът се сгъсти. Овкусява се със сол, черен пипер и пресен босилек."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "папарделе",
+      "qty": "1/2 кг",
+      "id": 55
+    },
+    {
+      "name": "тиквички",
+      "qty": "1/2 кг",
+      "id": 39
+    },
+    {
+      "name": "сметана",
+      "qty": "1 к.ч.",
+      "id": 19
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "босилек",
+      "qty": "Parsing error",
+      "id": 25
+    }
+  ]
+}

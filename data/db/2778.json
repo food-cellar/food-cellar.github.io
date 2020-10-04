@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Хрупкави пържени тиквички с панировка от галета и брашно",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/hrupkavi-purjeni-tikvichki-s-panirovka-ot-galeta-i-brashno-1-[2778].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/hrupkavi-purjeni-tikvichki-s-panirovka-ot-galeta-i-brashno-1-[2778].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/hrupkavi-purjeni-tikvichki-s-panirovka-ot-galeta-i-brashno-1-[2778].jpg"
+    ],
+    "datePublished": "2014-02-17",
+    "cookTime": "PT0H30M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "218 calories",
+      "carbohydrateContent": "24 g",
+      "fatContent": "11 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "9.76285 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "8  тиквички",
+      "100 г брашно",
+      "100 г галета",
+      "сол",
+      "100 мл. олио"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Тиквичките (8 бр) се измиват и нарязват на много тънки колелца, които се овалват първо в смес от брашно (100 г) после и в галета (100 г). Пържат се от двете страни в сгорещено олио (100 мл.) и след това се поставят върху готварска хартия, за да може тя да поеме от излишната по тях мазнина. Посоляват се и се сервират топли."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "тиквички",
+      "qty": "8",
+      "id": 39
+    },
+    {
+      "name": "брашно",
+      "qty": "100 г",
+      "id": 7
+    },
+    {
+      "name": "галета",
+      "qty": "100 г",
+      "id": 58
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "олио",
+      "qty": "100 мл.",
+      "id": 4
+    }
+  ]
+}

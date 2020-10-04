@@ -1,0 +1,100 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Леща със спаначени кюфтенца",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/3176-leshta-s-bosilekovi-knedli-3-[601].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/3176-leshta-s-bosilekovi-knedli-3-[601].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/3176-leshta-s-bosilekovi-knedli-3-[601].jpg"
+    ],
+    "datePublished": "2017-03-20",
+    "cookTime": "PT0H45M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "402 calories",
+      "carbohydrateContent": "51 g",
+      "fatContent": "13 g",
+      "proteinContent": "21 g",
+      "saturatedFatContent": "7 g",
+      "unsaturatedFatContent": "4.1281925 g",
+      "cholesterolContent": "121 mg"
+    },
+    "recipeIngredient": [
+      "1 ч.ч. леща",
+      "1 глава лук",
+      "4 скилидки чесън",
+      "1  морков",
+      "50 г масло",
+      "сол",
+      "2  яйца",
+      "80 г брашно",
+      "сол",
+      "300 връзка спанак"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Лукът, морковите и чесънът се нарязват на ситно и се задушават в маслото. Заливат се с вода, добавя се лещата и се вари докато омекне. Овкусява се със сол и пипер"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Междувременно, спанакът [[11] се бланшира, отцежда и нарязва на много ситно. В малка купа се смесват брашно (80 г), яйца (2 бр) и сол. Добавя се и спанакът и се забърква тесто, което трябва да бъде гъста и лепкаво. При необходимост се добавя още брашно. С помощта на две лъжици се правят топчета. Първо с едната лъжица се загребва част от сместа. После тази смес се прехвърля последователно от едната лъжица в другата, докато се оформи топче. Кюфтенцата се пускат във врящата леща и се готвят докато изплуват на повърхността. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "леща",
+      "qty": "1 ч.ч.",
+      "id": 106
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "масло",
+      "qty": "50 г",
+      "id": 8
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "брашно",
+      "qty": "80 г",
+      "id": 7
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "спанак",
+      "qty": "300 връзка",
+      "id": 40
+    }
+  ]
+}

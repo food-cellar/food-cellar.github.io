@@ -1,0 +1,102 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Солен кекс с бира, куркума, фъстъци и сушени домати",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/solen-keks-s-kurkuma-fustuci-i-susheni-domati-4-[2424].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/solen-keks-s-kurkuma-fustuci-i-susheni-domati-4-[2424].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/solen-keks-s-kurkuma-fustuci-i-susheni-domati-4-[2424].jpg"
+    ],
+    "datePublished": "2013-03-11",
+    "cookTime": "PT1H30M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Хлебни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "379 calories",
+      "carbohydrateContent": "52 g",
+      "fatContent": "14 g",
+      "proteinContent": "9 g",
+      "saturatedFatContent": "6 g",
+      "unsaturatedFatContent": "5.766975 g",
+      "cholesterolContent": "27 mg"
+    },
+    "recipeIngredient": [
+      "400 г брашно",
+      "350 мл. бира",
+      "100 г масло",
+      "150 г сушени домати",
+      "50 г фъстъци",
+      "1/2 ч.л. куркума",
+      "3 ч.л. захар",
+      "1 щип. сол",
+      "1 ч.л. бакпулвер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Брашното (400 г) се пресява с бакпулвера (1 ч.л.) и се поставя в купа. Към него се добавят куркумата (1/2 ч.л.), захарта (3 ч.л.) и солта (1 щип.), и сместа се разбърква. На тънка струйка се добавя бирата (350 мл.) при непрекъснато бъркане."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Щом се получи хомогенна смес, се добавят нарязаните на ситно мариновани сушени домати и натрошените фъстъци (50 г)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "На дъното и стените на правоъгълна дълбока форма за кекс се постила хартия за печене така, че краищата на хартията да стърчат. Маслото (100 г) се разтопява и половината от него си изсипва и разпределя във формата. Отгоре се изсипва кексовата смес и се разстила равномерно с помощта на шпатула. Върху нея се разпределя останалото масло. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Соленият кекс с бира, куркума, фъстъци и сушени домати се пече около час при температура 180 градуса."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "брашно",
+      "qty": "400 г",
+      "id": 7
+    },
+    {
+      "name": "бира",
+      "qty": "350 мл.",
+      "id": 137
+    },
+    {
+      "name": "масло",
+      "qty": "100 г",
+      "id": 8
+    },
+    {
+      "name": "сушени домати",
+      "qty": "150 г",
+      "id": 121
+    },
+    {
+      "name": "фъстъци",
+      "qty": "50 г",
+      "id": 196
+    },
+    {
+      "name": "куркума",
+      "qty": "1/2 ч.л.",
+      "id": 118
+    },
+    {
+      "name": "захар",
+      "qty": "3 ч.л.",
+      "id": 9
+    },
+    {
+      "name": "сол",
+      "qty": "1 щип.",
+      "id": 1
+    },
+    {
+      "name": "бакпулвер",
+      "qty": "1 ч.л.",
+      "id": 29
+    }
+  ]
+}

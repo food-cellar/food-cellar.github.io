@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Оризова салата с пушена сьомга и краставици и дресин от зехтин и лимон",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/orizova-salata-sus-sioomga-2-[877].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/orizova-salata-sus-sioomga-2-[877].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/orizova-salata-sus-sioomga-2-[877].jpg"
+    ],
+    "datePublished": "2010-11-07",
+    "cookTime": "PT0H35M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "474 calories",
+      "carbohydrateContent": "78 g",
+      "fatContent": "9 g",
+      "proteinContent": "16 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "6.28699 g",
+      "cholesterolContent": "12 mg"
+    },
+    "recipeIngredient": [
+      "1 ч.ч. ориз",
+      "100 г пушена сьомга",
+      "1  краставица",
+      "връзка копър",
+      "сол",
+      "черен пипер",
+      "1 с.л. лимонов сок",
+      "2 с.л. зехтин"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Оризът (1 ч.ч.) се сварява и след като изстине, се смесва с краставиците (1 бр) и сьомгата (100 г), нарязани на кубчета. Лимоновият сок (1 с.л.), зехтинът (2 с.л.) и солта се разбиват. С получения дресинг се овкусява салата. Поръсва се със ситно нарязан копър и млян черен пипер. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "ориз",
+      "qty": "1 ч.ч.",
+      "id": 22
+    },
+    {
+      "name": "пушена сьомга",
+      "qty": "100 г",
+      "id": 215
+    },
+    {
+      "name": "краставица",
+      "qty": "1",
+      "id": 44
+    },
+    {
+      "name": "копър",
+      "qty": "връзка",
+      "id": 28
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Лесен и бърз сладкиш с пресни сини сливи и пудра захар",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/lesen-i-burz-sladkish-s-presni-sini-slivi-i-pudra-zahar-5-[3480].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/lesen-i-burz-sladkish-s-presni-sini-slivi-i-pudra-zahar-5-[3480].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/lesen-i-burz-sladkish-s-presni-sini-slivi-i-pudra-zahar-5-[3480].jpg"
+    ],
+    "datePublished": "2020-09-26",
+    "cookTime": "PT0H45M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "457 calories",
+      "carbohydrateContent": "79 g",
+      "fatContent": "12 g",
+      "proteinContent": "7 g",
+      "saturatedFatContent": "7 g",
+      "unsaturatedFatContent": "3.77279 g",
+      "cholesterolContent": "77 mg"
+    },
+    "recipeIngredient": [
+      "1 1/2 ч.ч. брашно",
+      "2  яйца",
+      "1 1/2 ч.ч. захар",
+      "200 г кисело мляко",
+      "100 г масло",
+      "1 опак. бакпулвер",
+      "250 г сини сливи",
+      "2 с.л. пудра захар"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Първа стъпка от рецептата е яйцата (2 бр) да се разбивят в купата на миксера заедно със захарта (1 1/2 ч.ч.) до получаването на гладка и пухкава смес. След това към нея се прибавят брашното (1 1/2 ч.ч.), бакпулверът (1 опак.), киселото мляко (200 г) и разтопеното масло (100 г). Всичко се разбива много добре, докато се получи хомогенна смес. По желание в сместа се добавят ванилия на прах или есенция ром, бадем или лимон. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Следваща стъпка е фурната да се загрее до 180 градуса без вентилатор при печене отгоре и отдолу. Сместа се изсипва в кръгла тавичка и върху нея се разпределят нарязаните на половинки пресни сини сливи, като те се поставят с разрязаната част нагоре. В снимката е използвана най-подходящата тава - <a href=https://www.welhome.bg/product/emile-henry-keramichna-forma-za-tart>керамична кръгла форма за тарт на Emile Henry</a> с диаметър 28 сантиметра от <a href=https://www.welhome.bg/>WelHome BG</a>. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Сладкишът се поставя в предварително загрятата фурна и се пече около 35 минути. Изважда се от фурната и се оставя напълно да се охлади. След това се поръсва обилно с пудра захар и се сервира. По желание се декорира с връхче свежа мента или свеж босилек, а най-добре се сервира с топка ванилов сладолед върху всяко парче."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "брашно",
+      "qty": "1 1/2 ч.ч.",
+      "id": 7
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "захар",
+      "qty": "1 1/2 ч.ч.",
+      "id": 9
+    },
+    {
+      "name": "кисело мляко",
+      "qty": "200 г",
+      "id": 21
+    },
+    {
+      "name": "масло",
+      "qty": "100 г",
+      "id": 8
+    },
+    {
+      "name": "бакпулвер",
+      "qty": "1 опак.",
+      "id": 29
+    },
+    {
+      "name": "сини сливи",
+      "qty": "250 г",
+      "id": 188
+    },
+    {
+      "name": "пудра захар",
+      "qty": "2 с.л.",
+      "id": 34
+    }
+  ]
+}

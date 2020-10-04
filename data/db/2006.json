@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печена сьомгова пъстърва с копър и босилек на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/sioomgova-pusturva-s-kopur-i-bosilek-na-furna-1-[2006].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/sioomgova-pusturva-s-kopur-i-bosilek-na-furna-1-[2006].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/sioomgova-pusturva-s-kopur-i-bosilek-na-furna-1-[2006].jpg"
+    ],
+    "datePublished": "2012-06-26",
+    "cookTime": "PT0H30M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "289 calories",
+      "carbohydrateContent": "2 g",
+      "fatContent": "16 g",
+      "proteinContent": "32 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "11.947 g",
+      "cholesterolContent": "87 mg"
+    },
+    "recipeIngredient": [
+      "1  филе от сьомгова пъстърва",
+      "2 стръка босилек",
+      "4 стръка копър",
+      "1  лимон",
+      "1 с.л. зехтин",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пресният босилек (2 стръка) и копър (4 стръка) се поставят в блендер, заедно със зехтина (1 с.л.) и солта и се пасират до получаването на пюре. С тази смес се намазва филето (1 бр) откъм розовата му страна. Поставя се в намаслена тавичка и върху него се подреждат тънки резени лимон (1). Рибата се покрива с фолио и се пече 15 минути при 200 градуса и след това още 15 минути на 180 градуса с отстранено фолио. Сьомговата пъстърва се поднася веднага с гарнитура от свежа салата според сезона."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "филе от сьомгова пъстърва",
+      "qty": "1",
+      "id": 263
+    },
+    {
+      "name": "босилек",
+      "qty": "2 стръка",
+      "id": 25
+    },
+    {
+      "name": "копър",
+      "qty": "4 стръка",
+      "id": 28
+    },
+    {
+      "name": "лимон",
+      "qty": "1",
+      "id": 43
+    },
+    {
+      "name": "зехтин",
+      "qty": "1 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата от попарена коприва, морков и краставица и сос от кисело мляко, сирене фета, чесън, копър и орехи",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-ot-kopriva-morkov-i-krastavica-1-[235].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-ot-kopriva-morkov-i-krastavica-1-[235].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-ot-kopriva-morkov-i-krastavica-1-[235].jpg"
+    ],
+    "datePublished": "2010-12-19",
+    "cookTime": "PT0H20M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "580 calories",
+      "carbohydrateContent": "52 g",
+      "fatContent": "33 g",
+      "proteinContent": "22 g",
+      "saturatedFatContent": "16 g",
+      "unsaturatedFatContent": "13.784135 g",
+      "cholesterolContent": "84 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг коприва",
+      "1  морков",
+      "1  краставица",
+      "2 стръка пресен лук",
+      "30 г тъмни стафиди",
+      "1 кофичка кисело мляко",
+      "1 връзка копър",
+      "1 стрък чесън",
+      "100 г сирене Фета",
+      "15 г орехи",
+      "бадеми",
+      "сол",
+      "1 с.л. зехтин",
+      "1 с.л. лимонов сок"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Копривата (1/2 кг) се почиства от дръжките и се попарва в подсолена вряща вода, след което се отцежда и нарязва на ситно. Добавят се настърганите морков и краставица, стафидите (30 г), нарязаният на ситно пресен лук (2 стръка). Всичко това се овкусява със сол, зехтин и лимонов сок и се разбърква."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Сиренето (100 г) се намачква с вилица. Към него се добавят счуканите орехови ядки (15 г), ситно нарязаните чесън (1 стрък) и копър (1 връзка) и киселото мляко (1 кофичка). Сместа се разбърква добре."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "В салатена чиния се оформя гнездо от копривената смес. Средата му се запълва с млечната смес, която се украсява с цели бадеми."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "коприва",
+      "qty": "1/2 кг",
+      "id": 130
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "краставица",
+      "qty": "1",
+      "id": 44
+    },
+    {
+      "name": "пресен лук",
+      "qty": "2 стръка",
+      "id": 24
+    },
+    {
+      "name": "тъмни стафиди",
+      "qty": "30 г",
+      "id": 69
+    },
+    {
+      "name": "кисело мляко",
+      "qty": "1 кофичка",
+      "id": 21
+    },
+    {
+      "name": "копър",
+      "qty": "1 връзка",
+      "id": 28
+    },
+    {
+      "name": "чесън",
+      "qty": "1 стрък",
+      "id": 6
+    },
+    {
+      "name": "сирене Фета",
+      "qty": "100 г",
+      "id": 150
+    },
+    {
+      "name": "орехи",
+      "qty": "15 г",
+      "id": 31
+    },
+    {
+      "name": "бадеми",
+      "qty": "Parsing error",
+      "id": 82
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "зехтин",
+      "qty": "1 с.л.",
+      "id": 10
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Соеви хапки с картофи и зеленчуци",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/soevi-hapki-sus-zelenchuci-2-[294].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/soevi-hapki-sus-zelenchuci-2-[294].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/soevi-hapki-sus-zelenchuci-2-[294].jpg"
+    ],
+    "datePublished": "2011-01-01",
+    "cookTime": "PT0H25M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "586 calories",
+      "carbohydrateContent": "43 g",
+      "fatContent": "5 g",
+      "proteinContent": "108 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "3.4511975 g",
+      "cholesterolContent": "2 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг соеви хапки",
+      "1 глава лук",
+      "1 глава броколи",
+      "2  картофа",
+      "1  морков",
+      "1  зелена чушка",
+      "100 г зелен фасул",
+      "2 с.л. доматено пюре",
+      "1 с.л. сметана",
+      "черен пипер",
+      "сол",
+      "чесън на прах",
+      "кимион",
+      "олио"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Соевите хапки (1/2 кг) се заливат с гореща вода съгласно указанията на пакета и се изчакват да я поемат. Лукът (1 глава) се нарязва на ситно и се задушава в нагорещеното олио. Морковът, картофът, чушката се нарязват на средни по големина парчета. Смесват се с лука и сеовите хапки, посоляват се и се варят до готовност. Броколите (1 глава) се накъсват на розички и се бланшират във вряща подсолена вода 3 минути, след което се отцеждат и прибавят към ястието. Слага се и бобът (100 г), нарязан на средни парчета. Ястието се оставя да поври на тих огън 2-3 минути. Малко преди да се снеме от котлона, се добавят доматеното пюре (2 с.л.), сметаната (1 с.л.) и подправките."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "соеви хапки",
+      "qty": "1/2 кг",
+      "id": 224
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "броколи",
+      "qty": "1 глава",
+      "id": 57
+    },
+    {
+      "name": "картофа",
+      "qty": "2",
+      "id": 16
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "зелена чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "зелен фасул",
+      "qty": "100 г",
+      "id": 99
+    },
+    {
+      "name": "доматено пюре",
+      "qty": "2 с.л.",
+      "id": 35
+    },
+    {
+      "name": "сметана",
+      "qty": "1 с.л.",
+      "id": 19
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "чесън на прах",
+      "qty": "Parsing error",
+      "id": 6
+    },
+    {
+      "name": "кимион",
+      "qty": "Parsing error",
+      "id": 42
+    },
+    {
+      "name": "олио",
+      "qty": "Parsing error",
+      "id": 4
+    }
+  ]
+}

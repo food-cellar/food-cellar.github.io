@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Мъфини с мариновани сушени домати",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/mufini-s-marinovani-susheni-domati-1-[1557].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/mufini-s-marinovani-susheni-domati-1-[1557].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/mufini-s-marinovani-susheni-domati-1-[1557].jpg"
+    ],
+    "datePublished": "2011-09-11",
+    "cookTime": "PT0H40M",
+    "recipeYield": "12 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "194 calories",
+      "carbohydrateContent": "31 g",
+      "fatContent": "4 g",
+      "proteinContent": "6 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "2.5576016666667 g",
+      "cholesterolContent": "34 mg"
+    },
+    "recipeIngredient": [
+      "1 1/2 ч.ч. бяло брашно",
+      "1/2 ч.ч. царевично брашно",
+      "1/2 к.ч. олио",
+      "1 ч.ч. прясно мляко",
+      "2  яйца",
+      "100 г мариновани сушени домати",
+      "1 ч.л. бакпулвер",
+      "1 щип. сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Бялото брашно (1 1/2 ч.ч.) и царевичното брашно (1/2 ч.ч.) се смесват със солта (1 щип.) и бакпулвера (1 ч.л.) в дълбока купа. Към тях се прибавят разбитите с прясното мляко (1 ч.ч.) яйца (2 бр) и олиото (1/2 к.ч.). Всички продукти се разбиват до получаването на гладка смес. Маринованите сушени домати (готов продукт) (100 г) се отцеждат от маринатата и се нарязват на малки кубчета. Добавят се към сместа за мъфините и всичко се разбърква. Сместа се разпределя във форми за мъфини с помощта на лъжица. Мъфините се пекат в предварително загрята ддо 180 градуса фурна около 20 минути. Преди да се извядят, се оставят леко да се охладят. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "бяло брашно",
+      "qty": "1 1/2 ч.ч.",
+      "id": 7
+    },
+    {
+      "name": "царевично брашно",
+      "qty": "1/2 ч.ч.",
+      "id": 169
+    },
+    {
+      "name": "олио",
+      "qty": "1/2 к.ч.",
+      "id": 4
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "1 ч.ч.",
+      "id": 14
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "мариновани сушени домати",
+      "qty": "100 г",
+      "id": 121
+    },
+    {
+      "name": "бакпулвер",
+      "qty": "1 ч.л.",
+      "id": 29
+    },
+    {
+      "name": "сол",
+      "qty": "1 щип.",
+      "id": 1
+    }
+  ]
+}

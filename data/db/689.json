@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пълнени печени патладжани с кайма на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pulneni-patladjani-4-[689].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pulneni-patladjani-4-[689].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pulneni-patladjani-4-[689].jpg"
+    ],
+    "datePublished": "2010-11-27",
+    "cookTime": "PT1H0M",
+    "recipeYield": "5 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "383 calories",
+      "carbohydrateContent": "39 g",
+      "fatContent": "18 g",
+      "proteinContent": "20 g",
+      "saturatedFatContent": "6 g",
+      "unsaturatedFatContent": "9.074446 g",
+      "cholesterolContent": "58 mg"
+    },
+    "recipeIngredient": [
+      "5  патладжана",
+      "400 г кайма",
+      "3  домата",
+      "4 скилидки чесън",
+      "1/2 връзка магданоз",
+      "сол",
+      "1 глава лук",
+      "1 ч.л. черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Измитите патладжани (5 бр) се обелват, нарязват се на три части по дължина, потапят се в силно подсолена вода и се оставят да киснат в нея 30 минути. В каймата (400 г) се прибавят настърганият лук (1 глава), пресованият чесън (4 скилидки), ситно нарязаният магданоз (1/2 връзка) и черният пипер (1 ч.л.). Каймата се омесва добре. Между изцедените и подсушени филийки патладжани се поставя кайма и се притиска добре. Отстрани патладжаните се набождат с клечки за зъби, за да не се разпаднат. Подреждат се в намазнена тава и се пекат на умерена фурна до получаването на златист загар. Изваждат се и се заливат с предварително обелените и настъргани червени домати (3 бр) и се запичат отново за още 10-15 минути."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "патладжана",
+      "qty": "5",
+      "id": 71
+    },
+    {
+      "name": "кайма",
+      "qty": "400 г",
+      "id": 54
+    },
+    {
+      "name": "домата",
+      "qty": "3",
+      "id": 15
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "магданоз",
+      "qty": "1/2 връзка",
+      "id": 12
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 ч.л.",
+      "id": 2
+    }
+  ]
+}

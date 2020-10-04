@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Гарнитура от задушен ориз с домати и пресен лук",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/oriz_s_domati_i_presen_luk_2-[1108].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/oriz_s_domati_i_presen_luk_2-[1108].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/oriz_s_domati_i_presen_luk_2-[1108].jpg"
+    ],
+    "datePublished": "2011-04-22",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Гарнитури",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "212 calories",
+      "carbohydrateContent": "40 g",
+      "fatContent": "3 g",
+      "proteinContent": "3 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "2.4709125 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1 ч.ч. ориз",
+      "1 връзка пресен лук",
+      "2  домата",
+      "черен пипер",
+      "сол",
+      "2 с.л. олио",
+      "2 ч.ч. вода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Доматите (2 бр) се измиват и нарязват на кубчета и заедно със ситно нарязания  пресен лук (1 връзка) се задушава в олиото (2 с.л.). Когато лукът омекне, се добавя оризът (1 ч.ч.), подправките и водата (2 ч.ч.). Когато оризът омекне и поеме водата, гарнитурата е готова. Поднася се гореща и е подходяща за печено пилешко с ароматни подправки."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "ориз",
+      "qty": "1 ч.ч.",
+      "id": 22
+    },
+    {
+      "name": "пресен лук",
+      "qty": "1 връзка",
+      "id": 24
+    },
+    {
+      "name": "домата",
+      "qty": "2",
+      "id": 15
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    },
+    {
+      "name": "вода",
+      "qty": "2 ч.ч.",
+      "id": 11
+    }
+  ]
+}

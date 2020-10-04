@@ -1,0 +1,58 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Смути с авокадо, прясно мляко и мед",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/smuti-s-avokado-1-[1900].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/smuti-s-avokado-1-[1900].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/smuti-s-avokado-1-[1900].jpg"
+    ],
+    "datePublished": "2012-01-05",
+    "cookTime": "PT0H10M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Напитки",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "274 calories",
+      "carbohydrateContent": "19 g",
+      "fatContent": "20 g",
+      "proteinContent": "7 g",
+      "saturatedFatContent": "5 g",
+      "unsaturatedFatContent": "13.153255 g",
+      "cholesterolContent": "21 mg"
+    },
+    "recipeIngredient": [
+      "1  авокадо",
+      "300 мл. прясно мляко",
+      "2 с.л. мед"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Авокадото (1 бр) трябва да е добре узряло. След като махнете кората и семката, се пасира. Добавя се и млякото (300 мл.) и се подслажда с мед (2 с.л.). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Тази напитка е изключително вкусна и приятна, както за деца, така и за възрастни. Авокадото е чудесен източник на незаменимите омега мастни киселини и тази напитка е добър начин да си ги набавяте."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "авокадо",
+      "qty": "1",
+      "id": 83
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "300 мл.",
+      "id": 14
+    },
+    {
+      "name": "мед",
+      "qty": "2 с.л.",
+      "id": 38
+    }
+  ]
+}

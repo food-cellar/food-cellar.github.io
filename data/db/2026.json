@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Запържени лимонови скариди на тиган",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/limonovi-skaridi-na-tigan-1-[2026].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/limonovi-skaridi-na-tigan-1-[2026].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/limonovi-skaridi-na-tigan-1-[2026].jpg"
+    ],
+    "datePublished": "2017-03-20",
+    "cookTime": "PT0H15M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "417 calories",
+      "carbohydrateContent": "11 g",
+      "fatContent": "18 g",
+      "proteinContent": "52 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "12.88797 g",
+      "cholesterolContent": "380 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг скариди",
+      "6 скилидки чесън",
+      "2  лимона",
+      "4 с.л. зехтин",
+      "1/4 връзка магданоз",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Скаридите (1/2 кг) се изплакват и главите им се отстраняват. Поставят се в тиган с незалепващо покритие, заедно с почистения и нарязан на ситно чесън (6 скилидки) и зехтина (4 с.л.). Скаридите се захлупват с капак и се готвят на тих огън, докато променят цвета си. Важно е да се разбъркват и обръщат често. Минута преди да станат напълно готови, към тях се добавя прясно изцеден лимонов сок (2 бр), ситно нарязан магданоз (1/4 връзка) и сол. Всичко се разбърква, докато сосът промени консистенцията си. Скаридите се сервират топли.За най-добри резултати екипът на 1001 рецепти препоръчва да използвате качествен тиган <a href=http://shop.gamaelit.bg/?module=viewProduct&id=741>Clean Cooking</a>, който можете да закупите от един от любимите магазини на екипа ни - <a href=http://shop.gamaelit.bg/index.php>Гама Елит</a>."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "скариди",
+      "qty": "1/2 кг",
+      "id": 104
+    },
+    {
+      "name": "чесън",
+      "qty": "6 скилидки",
+      "id": 6
+    },
+    {
+      "name": "лимона",
+      "qty": "2",
+      "id": 43
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "магданоз",
+      "qty": "1/4 връзка",
+      "id": 12
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

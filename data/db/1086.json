@@ -1,0 +1,60 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Коктейл Американо (Americano)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/-kokteil-amerikano-1-[1086].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/-kokteil-amerikano-1-[1086].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/-kokteil-amerikano-1-[1086].jpg"
+    ],
+    "datePublished": "2011-05-16",
+    "cookTime": "PT0H10M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Коктейли",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "99 calories",
+      "carbohydrateContent": "17 g",
+      "fatContent": "0 g",
+      "proteinContent": "1 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.03275 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "25 мл. вермут",
+      "25 мл. кампари",
+      "15 мл. газирана вода",
+      "1 резенче портокал"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Шейкърът се напълва с лед. Всички продукти без газираната вода се добавят и се разбиват добре. Сипват се във висока чаша, пълна с лед, и се долива с газирана вода. За украса се използва резенче лимон."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "вермут",
+      "qty": "25 мл.",
+      "id": 190
+    },
+    {
+      "name": "кампари",
+      "qty": "25 мл.",
+      "id": 27
+    },
+    {
+      "name": "газирана вода",
+      "qty": "15 мл.",
+      "id": 199
+    },
+    {
+      "name": "портокал",
+      "qty": "1 резенче",
+      "id": 122
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата с броколи, стафиди и шунка",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-s-brokoli-stafidi-i-shunka-2-[1810].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-s-brokoli-stafidi-i-shunka-2-[1810].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-s-brokoli-stafidi-i-shunka-2-[1810].jpg"
+    ],
+    "datePublished": "2011-11-13",
+    "cookTime": "PT0H20M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "454 calories",
+      "carbohydrateContent": "39 g",
+      "fatContent": "25 g",
+      "proteinContent": "25 g",
+      "saturatedFatContent": "6 g",
+      "unsaturatedFatContent": "16.16118 g",
+      "cholesterolContent": "55 mg"
+    },
+    "recipeIngredient": [
+      "2 глави броколи",
+      "300 г шунка",
+      "100 г стафиди",
+      "40 г слънчогледови семки",
+      "4 с.л. майонеза",
+      "4 с.л. ябълков оцет",
+      "2 ч.л. захар",
+      "2 щип. сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Броколите (2 глави) се измиват, нарязват се на розички и се поставят в порционни чинии. Шунката (300 г) се нарязва на лентички, запържва се до златист цвят и се поставя върху броколите в салатата. Отгоре се поръсва със стафиди (100 г) и слънчогледови семки (40 г)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Отделно се приготвя сос - майонеза (4 с.л.) и ябълков оцет (4 с.л.) се подправят със захар (2 ч.л.) и сол (2 щип.) и се разбиват с кухненски робот. По желание може да се добави и черен пипер. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Салатата се сервира, полята с охладения сос."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "броколи",
+      "qty": "2 глави",
+      "id": 57
+    },
+    {
+      "name": "шунка",
+      "qty": "300 г",
+      "id": 76
+    },
+    {
+      "name": "стафиди",
+      "qty": "100 г",
+      "id": 69
+    },
+    {
+      "name": "слънчогледови семки",
+      "qty": "40 г",
+      "id": 147
+    },
+    {
+      "name": "майонеза",
+      "qty": "4 с.л.",
+      "id": 80
+    },
+    {
+      "name": "ябълков оцет",
+      "qty": "4 с.л.",
+      "id": 236
+    },
+    {
+      "name": "захар",
+      "qty": "2 ч.л.",
+      "id": 9
+    },
+    {
+      "name": "сол",
+      "qty": "2 щип.",
+      "id": 1
+    }
+  ]
+}

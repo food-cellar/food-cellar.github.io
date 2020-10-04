@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Зелена салата със синьо сирене, картофи и кедрови ядки",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zelena-salata-sus-sinioo-sirene-i-kartofi-3-[1521].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zelena-salata-sus-sinioo-sirene-i-kartofi-3-[1521].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zelena-salata-sus-sinioo-sirene-i-kartofi-3-[1521].jpg"
+    ],
+    "datePublished": "2011-06-10",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "219 calories",
+      "carbohydrateContent": "18 g",
+      "fatContent": "13 g",
+      "proteinContent": "8 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "9.39844 g",
+      "cholesterolContent": "8 mg"
+    },
+    "recipeIngredient": [
+      "1 връзка зелена салата",
+      "40 г синьо сирене",
+      "250 г пресни картофи",
+      "2 с.л. кедрови ядки",
+      "4 с.л. зехтин",
+      "1 ч.л. червен пипер",
+      "1 с.л. галета",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Картофите (250 г) се измиват старателно, разполовяват се и се сваряват във вряща подсолена вода, докато омекнат. След това се изваждат, отцеждат и запържват в сгорещения зехтин (4 с.л.). Към тях се добавят галетата (1 с.л.), червеният пипер (1 ч.л.) и солта, и всичко се разбърква много добре.Зелената салата (1 връзка) се измива и нарязва на средни по дебелина ивици. Поставя се в купа и се овкусява със сол и зехтин. Върху нея се поставят картофите, кедровите ядки (2 с.л.) и кубчетата синьо сирене (40 г)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "зелена салата",
+      "qty": "1 връзка",
+      "id": 87
+    },
+    {
+      "name": "синьо сирене",
+      "qty": "40 г",
+      "id": 108
+    },
+    {
+      "name": "пресни картофи",
+      "qty": "250 г",
+      "id": 16
+    },
+    {
+      "name": "кедрови ядки",
+      "qty": "2 с.л.",
+      "id": 125
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "червен пипер",
+      "qty": "1 ч.л.",
+      "id": 20
+    },
+    {
+      "name": "галета",
+      "qty": "1 с.л.",
+      "id": 58
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

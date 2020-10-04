@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Лесен маслен кекс без мляко",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/lesen-maslen-keks-1-[2536].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/lesen-maslen-keks-1-[2536].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/lesen-maslen-keks-1-[2536].jpg"
+    ],
+    "datePublished": "2013-06-03",
+    "cookTime": "PT0H45M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "540 calories",
+      "carbohydrateContent": "66 g",
+      "fatContent": "27 g",
+      "proteinContent": "6 g",
+      "saturatedFatContent": "16 g",
+      "unsaturatedFatContent": "9.3956 g",
+      "cholesterolContent": "162 mg"
+    },
+    "recipeIngredient": [
+      "300 г брашно",
+      "250 г масло",
+      "300 г захар",
+      "4  яйца",
+      "1 ч.л. бакпулвер",
+      "1 ч.л. ванилия"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Маслото (250 г) и захарта (300 г) се разбиват в дълбока купа с миксер до получаването на пухкав крем. След това към тях постепенно и на малки порции се добавят яйцата (4 бр), а след това предварително смесените и пресяти два пъти брашно (300 г), ванилия (1 ч.л.) и бакпулвер (1 ч.л.). Щом се получи гладка смес, тя се разпределя равномерно в  намазана с малко и поръсена с брашно правоъгълна тавичка. Масленият кекс се пече в предварително загрята на 180 градуса фурна за около 30-45 минути. След това се изважда, охлажда се, нарязва се на парчета и се поръсва с пудра захар. По желание се декорира с връхчета свежа мента. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "брашно",
+      "qty": "300 г",
+      "id": 7
+    },
+    {
+      "name": "масло",
+      "qty": "250 г",
+      "id": 8
+    },
+    {
+      "name": "захар",
+      "qty": "300 г",
+      "id": 9
+    },
+    {
+      "name": "яйца",
+      "qty": "4",
+      "id": 5
+    },
+    {
+      "name": "бакпулвер",
+      "qty": "1 ч.л.",
+      "id": 29
+    },
+    {
+      "name": "ванилия",
+      "qty": "1 ч.л.",
+      "id": 23
+    }
+  ]
+}

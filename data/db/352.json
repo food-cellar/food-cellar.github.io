@@ -1,0 +1,102 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Магданозена супа с картофи, пащърнак, топено сирене и сметана",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/magdanozena-supa-2-[352].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/magdanozena-supa-2-[352].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/magdanozena-supa-2-[352].jpg"
+    ],
+    "datePublished": "2011-01-01",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "156 calories",
+      "carbohydrateContent": "27 g",
+      "fatContent": "3 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "0.2109225 g",
+      "cholesterolContent": "10 mg"
+    },
+    "recipeIngredient": [
+      "2 връзки магданоз",
+      "1  морков",
+      "250 г пащърнак",
+      "1  картоф",
+      "1 глава лук",
+      "2 стръка пресен лук",
+      "1 стрък пресен чесън",
+      "50 г топено сирене",
+      "2 с.л. сметана",
+      "сол",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Морковът, картофът, старият лук (1 глава) и пащърнакът се сваряват цели, след което се разбиват в пасатора. Към полученото пюре се добавят ситно нарязаните пресен лук (2 стръка) и пресен чесън (1 стрък). Долива се вода. Прибавя се течната сметана (2 с.л.), солта, черният пипер и се оставя на котлона да поври 2-3 минути. След това се прибавя топеното сирене (50 г) и супата ври до пълното му разтопяване. Магданозът (2 връзки) се нарязва на ситно и се добавя, когато котлонът вече е изключен. Супата се поднася веднага. По желание може да се поръси с настъргано синьо или обикновено краве сирене."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "магданоз",
+      "qty": "2 връзки",
+      "id": 12
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "пащърнак",
+      "qty": "250 г",
+      "id": 170
+    },
+    {
+      "name": "картоф",
+      "qty": "1",
+      "id": 16
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "пресен лук",
+      "qty": "2 стръка",
+      "id": 24
+    },
+    {
+      "name": "пресен чесън",
+      "qty": "1 стрък",
+      "id": 6
+    },
+    {
+      "name": "топено сирене",
+      "qty": "50 г",
+      "id": 112
+    },
+    {
+      "name": "сметана",
+      "qty": "2 с.л.",
+      "id": 19
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

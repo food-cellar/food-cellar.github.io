@@ -1,0 +1,114 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Супа с телешки топчета и палачинка",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/supa-s-teleshki-topki-i-palachinka-2-[850].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/supa-s-teleshki-topki-i-palachinka-2-[850].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/supa-s-teleshki-topki-i-palachinka-2-[850].jpg"
+    ],
+    "datePublished": "2011-10-15",
+    "cookTime": "PT0H45M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "350 calories",
+      "carbohydrateContent": "29 g",
+      "fatContent": "18 g",
+      "proteinContent": "16 g",
+      "saturatedFatContent": "6 g",
+      "unsaturatedFatContent": "9.983555 g",
+      "cholesterolContent": "61 mg"
+    },
+    "recipeIngredient": [
+      "1 глава лук",
+      "1 стрък праз",
+      "1  зелена чушка",
+      "1  телешки бульон",
+      "300 телешка кайма",
+      "1  картоф",
+      "1  палачинка",
+      "сол",
+      "черен пипер",
+      "1 с.л. зехтин",
+      "40 г брашно",
+      "1  морков",
+      "2 л. вода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Лукът (1 глава), празът (1 стрък), морковът (1 бр) и зелената чушка (1 бр) се нарязват на ситно, заливат се с вода (2 л.) и се сваряват заедно с кубчето телешки бульон (1 бр) и зехтина (1 с.л.). През това време каймата (300 телешка) се омесва заедно с настъргания картоф (1 бр) и овкусява със сол и черен пипер. От нея се оформят топки, които се овалват в брашно (1 глава) и се пускат да врят в супата. След като изплуват на повърхността, трябва да врят още 5 минути. В края на готвенето се слага нарязаната на тънки ленти палачинка (1 глава). Супата се поднася гореща."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "праз",
+      "qty": "1 стрък",
+      "id": 51
+    },
+    {
+      "name": "зелена чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "телешки бульон",
+      "qty": "1",
+      "id": 26
+    },
+    {
+      "name": "кайма",
+      "qty": "300 телешка",
+      "id": 54
+    },
+    {
+      "name": "картоф",
+      "qty": "1",
+      "id": 16
+    },
+    {
+      "name": "палачинка",
+      "qty": "1",
+      "id": 333
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "зехтин",
+      "qty": "1 с.л.",
+      "id": 10
+    },
+    {
+      "name": "брашно",
+      "qty": "40 г",
+      "id": 7
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "вода",
+      "qty": "2 л.",
+      "id": 11
+    }
+  ]
+}

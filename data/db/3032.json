@@ -1,0 +1,70 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Класическа рецепта за кебапчета на скара",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/klasicheska-recepta-za-kebapcheta-na-skara-1-[3032].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/klasicheska-recepta-za-kebapcheta-na-skara-1-[3032].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/klasicheska-recepta-za-kebapcheta-na-skara-1-[3032].jpg"
+    ],
+    "datePublished": "2015-01-08",
+    "cookTime": "PT0H30M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "440 calories",
+      "carbohydrateContent": "0 g",
+      "fatContent": "35 g",
+      "proteinContent": "28 g",
+      "saturatedFatContent": "13 g",
+      "unsaturatedFatContent": "18.198006666667 g",
+      "cholesterolContent": "120 mg"
+    },
+    "recipeIngredient": [
+      "1 кг свинска кайма",
+      "100 мл. вода",
+      "1 ч.л. кимион",
+      "1 ч.л. черен пипер",
+      "1/2 ч.л. сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Каймата се смесва и овкусява с подправките - кимион, черен пипер и сол. Меси се и постепенно се добавя водата. След като се размеси добре, се разстила в тава и се завива с фолио. Оставя се за една нощ в хладилник. На другия ден се размесва отново и се оставя за 2–3 часа отново на студено."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "С мокри ръце се оформят кебапчета с размер по желание и се пекат на силно загрята скара. При печенето се въртят само на една страна."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "свинска кайма",
+      "qty": "1 кг",
+      "id": 54
+    },
+    {
+      "name": "вода",
+      "qty": "100 мл.",
+      "id": 11
+    },
+    {
+      "name": "кимион",
+      "qty": "1 ч.л.",
+      "id": 42
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "1/2 ч.л.",
+      "id": 1
+    }
+  ]
+}

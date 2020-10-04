@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Запечени картофи с яйце, кашкавал и рулца от раци",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zapecheni-kartofi-s-iaice-kashkaval-i-rulca-ot-raci-1-[1854].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zapecheni-kartofi-s-iaice-kashkaval-i-rulca-ot-raci-1-[1854].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zapecheni-kartofi-s-iaice-kashkaval-i-rulca-ot-raci-1-[1854].jpg"
+    ],
+    "datePublished": "2011-12-18",
+    "cookTime": "PT1H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "472 calories",
+      "carbohydrateContent": "49 g",
+      "fatContent": "19 g",
+      "proteinContent": "25 g",
+      "saturatedFatContent": "6 g",
+      "unsaturatedFatContent": "9.89791 g",
+      "cholesterolContent": "229 mg"
+    },
+    "recipeIngredient": [
+      "1 кг картофи",
+      "250 г рулца от раци",
+      "4  яйца",
+      "100 г кашкавал",
+      "4 с.л. олио",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Картофите (1 кг) се сваряват, обелват и нарязват на едри кубчета. Смесват се с олиото (4 с.л.) и нарязаните на малки колелца рулца от раци (250 г). Посоляват се и се разпределят в огнеупорни съдове. Могат да се използват глинени гювечета. На върха на всяка порция се чуква по едно яйце и се поръсва настърган кашкавал (100 г). Ястието се пече в гореща фурна до готовност на яйцата (4 бр). "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "картофи",
+      "qty": "1 кг",
+      "id": 16
+    },
+    {
+      "name": "рулца от раци",
+      "qty": "250 г",
+      "id": 198
+    },
+    {
+      "name": "яйца",
+      "qty": "4",
+      "id": 5
+    },
+    {
+      "name": "кашкавал",
+      "qty": "100 г",
+      "id": 47
+    },
+    {
+      "name": "олио",
+      "qty": "4 с.л.",
+      "id": 4
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Яйчена салата с майонеза, горчица, босилек и яйца Багрянка",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/iaichena-salata-s-maioneza-gorchica-bosilek-i-iaica-bagrianka-3-[1850].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/iaichena-salata-s-maioneza-gorchica-bosilek-i-iaica-bagrianka-3-[1850].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/iaichena-salata-s-maioneza-gorchica-bosilek-i-iaica-bagrianka-3-[1850].jpg"
+    ],
+    "datePublished": "2011-12-08",
+    "cookTime": "PT0H20M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "300 calories",
+      "carbohydrateContent": "4 g",
+      "fatContent": "25 g",
+      "proteinContent": "11 g",
+      "saturatedFatContent": "5 g",
+      "unsaturatedFatContent": "17.9632575 g",
+      "cholesterolContent": "374 mg"
+    },
+    "recipeIngredient": [
+      "8  яйца Багрянка",
+      "200 г майонеза",
+      "1 ч.л. горчица",
+      "1 стрък босилек",
+      "1 щип. черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Една от тънкостите при приготвянето на това прдястие е изборът на пресни яйца. За най-добри резултати екипът на 1001 рецепти препоръчва български <a href=https://www.facebook.com/bagrianka/>яйца Багрянка</a>, размер L, защото жълтъкът е с ярко оранжев цвят и ще направи салатата вкусна и свежа на цвят. Освен това яйцата са с натурално добавен ограничен селен, което ги прави не само вкусни, но и полезни."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Яйцата (8 бр) се сваряват, така че жълтъкът да остане леко рохък. Това отнема около 5-6 минути от завирането на водата. Яйцата се поставят в студена вода, защото при пускане във вече гореща, черупките могат да се пукнат от рязката смяна на температурата. След това се слагат в ледена вода, за да се спре термичната обработка и да се обелят по-лесно. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Нарязват се на кубчета и се смесват с майонезата (200 г), горчицата (1 ч.л.), и подправките. За най-добри и здравословни резултати се добавя домашна майонеза, която се приготвя от сурови жълтъци на пресни яйца Багрянка. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Салатата се разбърква много добре и се декорира с връхчета свеж босилек."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Освен, че приготвя бързо, яйчената салата е и чудесно предложение, когато е поднесена с чаша бяло вино или препечени хлебчета."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "яйца Багрянка",
+      "qty": "8",
+      "id": 5
+    },
+    {
+      "name": "майонеза",
+      "qty": "200 г",
+      "id": 80
+    },
+    {
+      "name": "горчица",
+      "qty": "1 ч.л.",
+      "id": 64
+    },
+    {
+      "name": "босилек",
+      "qty": "1 стрък",
+      "id": 25
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 щип.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

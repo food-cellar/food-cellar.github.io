@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Макарони със сметана, домати и хайвер",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/makaroni-sus-smetana-domati-i-haiver-1-[1434].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/makaroni-sus-smetana-domati-i-haiver-1-[1434].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/makaroni-sus-smetana-domati-i-haiver-1-[1434].jpg"
+    ],
+    "datePublished": "2011-05-10",
+    "cookTime": "PT0H45M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "443 calories",
+      "carbohydrateContent": "55 g",
+      "fatContent": "17 g",
+      "proteinContent": "16 g",
+      "saturatedFatContent": "10 g",
+      "unsaturatedFatContent": "5.0602283333333 g",
+      "cholesterolContent": "57 mg"
+    },
+    "recipeIngredient": [
+      "400 г макарони",
+      "200 мл. сметана",
+      "400 г домати",
+      "75 г черен хайвер",
+      "1 връзка пресен лук",
+      "3 скилидки чесън",
+      "черен пипер",
+      "сол",
+      "1 с.л. масло",
+      "6 с.л. пармезан"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Макароните (400 г) се сваряват във вряща подсолена вопда според указанията на опаковката. Отцеждат се и се изплакват със студена вода. Чесънът (3 скилидки) се пресова и заедно с пресния лук (1 връзка), нарязан на колелца, се задушава до омекване в маслото (1 с.л.) в дълбок тиган. Добавят се белените домати на кубчета от консерва (400 г), сметаната (200 мл.) и хайверът (75 г). Всичко се разбърква много добре, подправя се със сол и черен пипер на вкус и към него се добавят макароните. Пастата се разбърква много добре и се оставя да къкри на слаб огън няколко минути, докато сокът от доматите се изпари. Накрая се добавя настърганият пармезан (6 с.л.) и всичко се разбърква добре. Ястието се сервира горещо."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "макарони",
+      "qty": "400 г",
+      "id": 129
+    },
+    {
+      "name": "сметана",
+      "qty": "200 мл.",
+      "id": 19
+    },
+    {
+      "name": "домати",
+      "qty": "400 г",
+      "id": 15
+    },
+    {
+      "name": "черен хайвер",
+      "qty": "75 г",
+      "id": 280
+    },
+    {
+      "name": "пресен лук",
+      "qty": "1 връзка",
+      "id": 24
+    },
+    {
+      "name": "чесън",
+      "qty": "3 скилидки",
+      "id": 6
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "масло",
+      "qty": "1 с.л.",
+      "id": 8
+    },
+    {
+      "name": "пармезан",
+      "qty": "6 с.л.",
+      "id": 59
+    }
+  ]
+}

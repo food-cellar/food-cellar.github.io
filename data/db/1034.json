@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Огретен от настъргани тиквички със сирене, яйца и грис запечен на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/tikvichki-sus-sirene-1-[1034].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/tikvichki-sus-sirene-1-[1034].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/tikvichki-sus-sirene-1-[1034].jpg"
+    ],
+    "datePublished": "2011-01-11",
+    "cookTime": "PT0H25M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "297 calories",
+      "carbohydrateContent": "19 g",
+      "fatContent": "17 g",
+      "proteinContent": "17 g",
+      "saturatedFatContent": "10 g",
+      "unsaturatedFatContent": "5.03037 g",
+      "cholesterolContent": "196 mg"
+    },
+    "recipeIngredient": [
+      "5  тиквички",
+      "250 г сирене",
+      "3  яйца",
+      "5 с.л. грис",
+      "1/2 връзка магданоз",
+      "1/2 връзка копър",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Тиквичките (5 бр) се настъргват на едрото ренде, посоляват се и се оставят в гевгир да се отцедят. Смесват се с разбитите яйца (3 бр), настърганото сирене (250 г), гриса (5 с.л.) и ситно нарязаните зелени подправки. Сместа се изсипва в огнеупорен съд (дебелината на пласта да е около 3 см) и се запича в умерена фурна до порозовяване."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "тиквички",
+      "qty": "5",
+      "id": 39
+    },
+    {
+      "name": "сирене",
+      "qty": "250 г",
+      "id": 32
+    },
+    {
+      "name": "яйца",
+      "qty": "3",
+      "id": 5
+    },
+    {
+      "name": "грис",
+      "qty": "5 с.л.",
+      "id": 140
+    },
+    {
+      "name": "магданоз",
+      "qty": "1/2 връзка",
+      "id": 12
+    },
+    {
+      "name": "копър",
+      "qty": "1/2 връзка",
+      "id": 28
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

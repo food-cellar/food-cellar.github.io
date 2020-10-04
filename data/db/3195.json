@@ -1,0 +1,104 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Паста фарфале с гъби, сметана, мащерка и свежа рукола",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pasta-farfale-s-gubi-smetana-mashterka-i-sveja-rukola-1-[3195].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pasta-farfale-s-gubi-smetana-mashterka-i-sveja-rukola-1-[3195].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pasta-farfale-s-gubi-smetana-mashterka-i-sveja-rukola-1-[3195].jpg"
+    ],
+    "datePublished": "2017-04-11",
+    "cookTime": "PT0H40M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "752 calories",
+      "carbohydrateContent": "79 g",
+      "fatContent": "41 g",
+      "proteinContent": "16 g",
+      "saturatedFatContent": "13 g",
+      "unsaturatedFatContent": "24.2679225 g",
+      "cholesterolContent": "110 mg"
+    },
+    "recipeIngredient": [
+      "400 г паста фарфале",
+      "250 г гъби",
+      "200 мл. сметана",
+      "10 стръка рукола",
+      "4 стръка мащерка",
+      "4 скилидки чесън",
+      "100 мл. зехтин",
+      "1  жълтък",
+      "3 с.л. вода",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пастата фарфале (400 г) се сварява в подсолена вода според указанията на опаковката. След това се отцежда и оставя настрани."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Докато тя се вари, в дълбок тиган в зехтина (100 мл.) се задушава ситно накълцаният чесън (4 скилидки), докато омекне. След това към него се добавят гъбите (250 г), старателно измити и нарязани на полумесеци. Щом гъбите омекнат, се добавят сметаната (200 мл.), отцедената и сварена паста и сол на вкус. Бърка се в продължение на 5 минути, докато ароматите се смесят и сметаната се поизпари. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Накрая се добавят разбитите суров яйчен жълтък (1 бр) и водата (3 с.л.) и всичко се разбърква за минута на котлона. Ястието се премества от огъня и се добавят свежи стръкчета рукола (10 стръка) и връхче прясна мащерка за аромат."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "паста фарфале",
+      "qty": "400 г",
+      "id": 55
+    },
+    {
+      "name": "гъби",
+      "qty": "250 г",
+      "id": 37
+    },
+    {
+      "name": "сметана",
+      "qty": "200 мл.",
+      "id": 19
+    },
+    {
+      "name": "рукола",
+      "qty": "10 стръка",
+      "id": 155
+    },
+    {
+      "name": "мащерка",
+      "qty": "4 стръка",
+      "id": 75
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "зехтин",
+      "qty": "100 мл.",
+      "id": 10
+    },
+    {
+      "name": "жълтък",
+      "qty": "1",
+      "id": 33
+    },
+    {
+      "name": "вода",
+      "qty": "3 с.л.",
+      "id": 11
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

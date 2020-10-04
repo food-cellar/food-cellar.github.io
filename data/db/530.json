@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Домашен зеленчуков кекс с варени яйца и тиквички",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zelenchukov-keks-s-iaica-2-[530].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zelenchukov-keks-s-iaica-2-[530].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zelenchukov-keks-s-iaica-2-[530].jpg"
+    ],
+    "datePublished": "2010-12-12",
+    "cookTime": "PT0H30M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "266 calories",
+      "carbohydrateContent": "33 g",
+      "fatContent": "9 g",
+      "proteinContent": "10 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "5.5231383333333 g",
+      "cholesterolContent": "161 mg"
+    },
+    "recipeIngredient": [
+      "5  яйца",
+      "1  тиквичка",
+      "1 ч.ч. брашно",
+      "1 ч.ч. кисело мляко",
+      "1 ч.л. сода за хляб",
+      "сол",
+      "черен пипер",
+      "4 с.л. олио",
+      "2 скилидки чесън"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Тиквичката се настъргва на ситното ренде и се задушава. Смесва се с приготвеното тесто от половината яйца, мляко (1 ч.ч.), брашно (1 ч.ч.), сода, сол, черен пипер, чесън (2 скилидки) и олио (4 с.л.). Изсипва се в правоъгълна форма за печене. Останалите яйца се сваряват и се слагат в тестото. Кексът се пече до готовност (около 35-40 минути). Поднася се нарязан на парчета."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "яйца",
+      "qty": "5",
+      "id": 5
+    },
+    {
+      "name": "тиквичка",
+      "qty": "1",
+      "id": 39
+    },
+    {
+      "name": "брашно",
+      "qty": "1 ч.ч.",
+      "id": 7
+    },
+    {
+      "name": "кисело мляко",
+      "qty": "1 ч.ч.",
+      "id": 21
+    },
+    {
+      "name": "сода за хляб",
+      "qty": "1 ч.л.",
+      "id": 56
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "олио",
+      "qty": "4 с.л.",
+      "id": 4
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    }
+  ]
+}

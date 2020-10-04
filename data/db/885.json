@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Парфе с кафе и коняк",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/parfe-s-kafe-i-koniak-3-[885].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/parfe-s-kafe-i-koniak-3-[885].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/parfe-s-kafe-i-koniak-3-[885].jpg"
+    ],
+    "datePublished": "2017-03-20",
+    "cookTime": "PT0H20M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "331 calories",
+      "carbohydrateContent": "22 g",
+      "fatContent": "24 g",
+      "proteinContent": "3 g",
+      "saturatedFatContent": "14 g",
+      "unsaturatedFatContent": "8.184805 g",
+      "cholesterolContent": "255 mg"
+    },
+    "recipeIngredient": [
+      "120 г захар",
+      "2 с.л. лимонов сок",
+      "5  жълтъка",
+      "400 мл. сметана",
+      "3 с.л. коняк",
+      "2 с.л. инстантно кафе",
+      "шоколадов топинг"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Захарта (120 г), лимоновият сок (2 с.л.) и жълтъците (5 бр) се изсипват в дълбок съд и се разбъркват добре. Прибавя се сладкарската сметана (400 мл.) и се разбива с миксер до получаването на пухкава смес. Инстантното кафе (2 с.л.) се разтваря в коняка (3 с.л.) и течността се добавя към останалите вече разбити заедно продукти. Сместа се разбърква, докато добие еднороден лек кафеен цвят. Сместа се изсипва в малка продълговата тавичка, покрита с метално фолио. Десертът се поставя във фризер за 6 часа да стегне. Охладеното парфе се разрязва на парчета с дебелина 1 см и се сервира, полято с шоколадов топинг. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "захар",
+      "qty": "120 г",
+      "id": 9
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "2 с.л.",
+      "id": 17
+    },
+    {
+      "name": "жълтъка",
+      "qty": "5",
+      "id": 33
+    },
+    {
+      "name": "сметана",
+      "qty": "400 мл.",
+      "id": 19
+    },
+    {
+      "name": "коняк",
+      "qty": "3 с.л.",
+      "id": 166
+    },
+    {
+      "name": "инстантно кафе",
+      "qty": "2 с.л.",
+      "id": 272
+    },
+    {
+      "name": "шоколадов топинг",
+      "qty": "Parsing error",
+      "id": 152
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Супа от гъби и грах със застройка от жълтък",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/supa-ot-gubi-s-grah-1-[1115].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/supa-ot-gubi-s-grah-1-[1115].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/supa-ot-gubi-s-grah-1-[1115].jpg"
+    ],
+    "datePublished": "2017-03-20",
+    "cookTime": "PT0H40M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "94 calories",
+      "carbohydrateContent": "8 g",
+      "fatContent": "5 g",
+      "proteinContent": "3 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "4.0421333333333 g",
+      "cholesterolContent": "36 mg"
+    },
+    "recipeIngredient": [
+      "200 г гъби",
+      "1 ч.ч. грах",
+      "1 глава лук",
+      "2  моркова",
+      "1  жълтък",
+      "4 с.л. олио",
+      "1 с.л. лимонов сок",
+      "черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Нарязаните наситно гъби (200 г), моркови (2 бр) и лук (1 глава) се задушават в олиото (4 с.л.) и малко вода за 10 минути. Долива се още вода и варенето продължава още 20 минути. Прибавя се грахът (1 ч.ч.) и след като омекне, супата се сваля от огъня. Застройва се с жълтъка (1 бр), разбит в лимоновия сок (1 с.л.). Поръсва се с черен пипер и сол на вкус."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "гъби",
+      "qty": "200 г",
+      "id": 37
+    },
+    {
+      "name": "грах",
+      "qty": "1 ч.ч.",
+      "id": 68
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "моркова",
+      "qty": "2",
+      "id": 13
+    },
+    {
+      "name": "жълтък",
+      "qty": "1",
+      "id": 33
+    },
+    {
+      "name": "олио",
+      "qty": "4 с.л.",
+      "id": 4
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

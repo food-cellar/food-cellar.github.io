@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата с краставици, чушки и подправки",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-s-krastavici-chushki-i-podpravki-9-[2506].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-s-krastavici-chushki-i-podpravki-9-[2506].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-s-krastavici-chushki-i-podpravki-9-[2506].jpg"
+    ],
+    "datePublished": "2013-05-10",
+    "cookTime": "PT0H5M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "107 calories",
+      "carbohydrateContent": "11 g",
+      "fatContent": "6 g",
+      "proteinContent": "2 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "4.755805 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1  краставица",
+      "1  червена чушка",
+      "1/2 глава червен лук",
+      "2 с.л. зехтин",
+      "1 с.л. лимонов сок",
+      "1 щип. риган",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Всички зеленчуци се измиват старателно и се подсушават. Краставицата (1 бр) не се бели и се нарязва на ситни кубчета. По същият начин се нарязват почистените червена чушка (1 бр) и червен лук (1/2 глава). Салатата се овкусява с лимонов сок (1 с.л.) и зехтин (2 с.л.) и се подправя със сол и сушен риган (1 щип.). Сервира се веднага. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "краставица",
+      "qty": "1",
+      "id": 44
+    },
+    {
+      "name": "червена чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "червен лук",
+      "qty": "1/2 глава",
+      "id": 3
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    },
+    {
+      "name": "риган",
+      "qty": "1 щип.",
+      "id": 65
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

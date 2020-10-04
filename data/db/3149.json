@@ -1,0 +1,116 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Американски бисквити с бадеми и парченца шоколад",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/amerikanski-biskviti-s-shokolad-1-[3149].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/amerikanski-biskviti-s-shokolad-1-[3149].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/amerikanski-biskviti-s-shokolad-1-[3149].jpg"
+    ],
+    "datePublished": "2017-01-03",
+    "cookTime": "PT0H30M",
+    "recipeYield": "16 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "334 calories",
+      "carbohydrateContent": "47 g",
+      "fatContent": "14 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "6 g",
+      "unsaturatedFatContent": "6.3169675 g",
+      "cholesterolContent": "40 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг брашно",
+      "200 г шоколад",
+      "100 г филирани бадеми",
+      "120 г масло",
+      "140 г захар",
+      "100 г кафява захар",
+      "2  яйца",
+      "1/2 ч.л. сода бикарбонат",
+      "1 ч.л. ванилия",
+      "1/2 ч.л. сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "В купа се смесват пресятото брашно (1/2 кг), содата (1/2 ч.л.) и солта (1/2 ч.л.)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "В друга купа се смесват мекото масло (120 г), захарта (140 г) и ванилията (1 ч.л.). Разбиват се докато стане пухкава смес. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Едно по едно се добавят яйцата (2 бр), а след тях и брашното на порции. При всяко добавяне се бърка добре. Трябва да се получи лепкаво, но не твърде меко брашно. Ако е меко се добавя още малко брашно."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Добавят се бадемите (100 г) и натрошеният на малки парченца шоколад (200 г) и отново се разбърква. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Тестото се оставя в хладилник за 30 минути да стегне. След това с помощта на лъжица се загребва и поставя в тава, покрита с хартия за печене. Не е нужно да се прави правилна форма. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Пече се в предварително загрята до 190 градуса фурна за 11-12 минути. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "брашно",
+      "qty": "1/2 кг",
+      "id": 7
+    },
+    {
+      "name": "шоколад",
+      "qty": "200 г",
+      "id": 48
+    },
+    {
+      "name": "филирани бадеми",
+      "qty": "100 г",
+      "id": 82
+    },
+    {
+      "name": "масло",
+      "qty": "120 г",
+      "id": 8
+    },
+    {
+      "name": "захар",
+      "qty": "140 г",
+      "id": 9
+    },
+    {
+      "name": "кафява захар",
+      "qty": "100 г",
+      "id": 9
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "сода бикарбонат",
+      "qty": "1/2 ч.л.",
+      "id": 56
+    },
+    {
+      "name": "ванилия",
+      "qty": "1 ч.л.",
+      "id": 23
+    },
+    {
+      "name": "сол",
+      "qty": "1/2 ч.л.",
+      "id": 1
+    }
+  ]
+}

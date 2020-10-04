@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Домашна сладоледена торта с какао, обикновени бисквити, крема сирене и течна сметана",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/sladoledena-torta-s-kakao-2-[2100].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/sladoledena-torta-s-kakao-2-[2100].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/sladoledena-torta-s-kakao-2-[2100].jpg"
+    ],
+    "datePublished": "2012-10-02",
+    "cookTime": "PT0H45M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "372 calories",
+      "carbohydrateContent": "32 g",
+      "fatContent": "25 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "14 g",
+      "unsaturatedFatContent": "8.34305875 g",
+      "cholesterolContent": "146 mg"
+    },
+    "recipeIngredient": [
+      "300 г течна сметана",
+      "200 г захар",
+      "3  яйца",
+      "250 г сирене Крема",
+      "50 г бисквити",
+      "4 с.л. какао"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Течната сметана (300 г)  се разбива в дълбока купа на сняг. Към нея се прибавят предварително смесените и разбити жълтъци (3 бр), захар (200 г), сирене Крема (250 г) и какао (4 с.л.), и всичко се разбърква. Накрая се прибавят разбитите на сняг белтъци (3 бр) и сместа се разбърква с лъжица. Изсипва във форма с подвижен ринг, на чието дъно са посипани раздробените на ситни трохи обикновени бисквити (50 г). Сладоледената торта се поставя в камерата за една нощ, докато стегне напълно. Декорира се с цветни захарни топчета или друга захарна декорация по желание. Нарязва се и се сервира веднага."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "течна сметана",
+      "qty": "300 г",
+      "id": 19
+    },
+    {
+      "name": "захар",
+      "qty": "200 г",
+      "id": 9
+    },
+    {
+      "name": "яйца",
+      "qty": "3",
+      "id": 5
+    },
+    {
+      "name": "сирене Крема",
+      "qty": "250 г",
+      "id": 103
+    },
+    {
+      "name": "бисквити",
+      "qty": "50 г",
+      "id": 95
+    },
+    {
+      "name": "какао",
+      "qty": "4 с.л.",
+      "id": 45
+    }
+  ]
+}

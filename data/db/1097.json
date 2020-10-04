@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата от бланширани гъби печурки с карфиол",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-ot-gubi-s-karfiol-2-[1097].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-ot-gubi-s-karfiol-2-[1097].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-ot-gubi-s-karfiol-2-[1097].jpg"
+    ],
+    "datePublished": "2010-12-04",
+    "cookTime": "PT0H25M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "98 calories",
+      "carbohydrateContent": "13 g",
+      "fatContent": "3 g",
+      "proteinContent": "6 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "2.59228 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг печурки",
+      "1 глава карфиол",
+      "2 с.л. зехтин",
+      "2 с.л. лимонов сок",
+      "магданоз",
+      "черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Гъбите (1/2 кг) се нарязват на едри парчета и се бланшират за 5 минути във вряща подсолена вода. Изваждат се, изцеждат се и се оставят да се охладят. Карфиолът (1 глава) се разделя на малки розички и се вари в подсолена вода, докато омекне. Изважда се и също добре се изцежда. Прибавя се към гъбите, полива се със зехтина (2 с.л.) и лимоновия сок (2 с.л.) и се поръсва с черен пипер, сол и ситно нарязан пресен магданоз."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "печурки",
+      "qty": "1/2 кг",
+      "id": 62
+    },
+    {
+      "name": "карфиол",
+      "qty": "1 глава",
+      "id": 91
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "2 с.л.",
+      "id": 17
+    },
+    {
+      "name": "магданоз",
+      "qty": "Parsing error",
+      "id": 12
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

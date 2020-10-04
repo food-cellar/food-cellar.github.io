@@ -1,0 +1,94 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Задушена леща със спанак (за гарнитура или основно)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/leshta-sus-spanak-2-[432].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/leshta-sus-spanak-2-[432].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/leshta-sus-spanak-2-[432].jpg"
+    ],
+    "datePublished": "2010-11-13",
+    "cookTime": "PT0H25M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "240 calories",
+      "carbohydrateContent": "36 g",
+      "fatContent": "4 g",
+      "proteinContent": "17 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "2.707145 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1 ч.ч. леща",
+      "400 г спанак",
+      "1 глава лук",
+      "1  морков",
+      "3 скилидки чесън",
+      "2 с.л. олио",
+      "сол",
+      "мащерка",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Лукът (1 глава) и чесънът (3 скилидки) се нарязват на ситно, морковът (1 бр) се настъргва на ситното ренде. Прибавя се лещата (1 ч.ч.), налива се вода, слага се олио, посолява се и се вари. Щом лещата омекне, се прибавят спаначените листа (400 г), без да се режат. Ястието ври, докато спанакът си промени цвета. Ястието се овкусява с посочените подправки 10 минути преди да стане готово. Поднася се топло. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Съвет: Това ястие може да бъде основно, но също така би могло да играе и ролята на гарнитура към пържена, печена или задушена риба. Много е вкусно!"
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "леща",
+      "qty": "1 ч.ч.",
+      "id": 106
+    },
+    {
+      "name": "спанак",
+      "qty": "400 г",
+      "id": 40
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "чесън",
+      "qty": "3 скилидки",
+      "id": 6
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "мащерка",
+      "qty": "Parsing error",
+      "id": 75
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

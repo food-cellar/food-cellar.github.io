@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Коктейл Скипър",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kokteil-skipur-1-[1459].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kokteil-skipur-1-[1459].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kokteil-skipur-1-[1459].jpg"
+    ],
+    "datePublished": "2011-05-16",
+    "cookTime": "PT0H10M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Коктейли",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "231 calories",
+      "carbohydrateContent": "25 g",
+      "fatContent": "0 g",
+      "proteinContent": "1 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.08712 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "15 мл. вермут",
+      "50 мл. уиски",
+      "1  портокал",
+      "1 ч.л. гренадин",
+      "1  коктейлна черешка",
+      "1 резенче лимон"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Шейкъра се напълва с лед. Всички продукти се добавят и се шейкват добре. Сервира се във висока чаша (highball)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "вермут",
+      "qty": "15 мл.",
+      "id": 190
+    },
+    {
+      "name": "уиски",
+      "qty": "50 мл.",
+      "id": 206
+    },
+    {
+      "name": "портокал",
+      "qty": "1",
+      "id": 122
+    },
+    {
+      "name": "гренадин",
+      "qty": "1 ч.л.",
+      "id": 222
+    },
+    {
+      "name": "коктейлна черешка",
+      "qty": "1",
+      "id": 126
+    },
+    {
+      "name": "лимон",
+      "qty": "1 резенче",
+      "id": 43
+    }
+  ]
+}

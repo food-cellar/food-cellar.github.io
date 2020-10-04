@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пургури - булгур с фиде",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/purguri-bulgur-s-fide-3-[36].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/purguri-bulgur-s-fide-3-[36].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/purguri-bulgur-s-fide-3-[36].jpg"
+    ],
+    "datePublished": "2010-12-11",
+    "cookTime": "PT0H30M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "571 calories",
+      "carbohydrateContent": "110 g",
+      "fatContent": "8 g",
+      "proteinContent": "20 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "6.344425 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "250 г булгур",
+      "1 глава лук",
+      "25 г фиде",
+      "2 с.л. зехтин",
+      "300 мл. пилешки бульон",
+      "сол",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Растителното масло (2 с.л.) се загрява в тенджера с плътно дъно. Добавя се лукът (1 глава), ситно нарязан, и се пържи 1-2 минути, докато омекне, но не до златисто. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Прибавя се фидето (25 г), начупено с ръце. То продължава да се пържи с лука още 2 минути, докато попие цялото масло."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Пургурите (250 г) се измиват със студена вода и се прибавят в тенджерата. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Налива се пилешкият бульон (300 мл.). Прибавят се солта и черният пипер. Тенджерата се захлупва и ястието се вари 8-10 минути или докато целият бульон бъде поет от пургурите. Тенджерата се снема от котлона и се оставя със затворен капак още 10 минути. След това ястието се поднася."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "булгур",
+      "qty": "250 г",
+      "id": 128
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "фиде",
+      "qty": "25 г",
+      "id": 72
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "пилешки бульон",
+      "qty": "300 мл.",
+      "id": 26
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

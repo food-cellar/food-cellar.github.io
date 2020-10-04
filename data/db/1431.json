@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата с целина, грозде, ябълки, синьо сирене и орехи",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-s-celina-grozde-sinioo-sirene-i-orehi-1-[1431].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-s-celina-grozde-sinioo-sirene-i-orehi-1-[1431].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-s-celina-grozde-sinioo-sirene-i-orehi-1-[1431].jpg"
+    ],
+    "datePublished": "2011-05-10",
+    "cookTime": "PT0H30M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "195 calories",
+      "carbohydrateContent": "17 g",
+      "fatContent": "13 g",
+      "proteinContent": "4 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "8.64122 g",
+      "cholesterolContent": "9 mg"
+    },
+    "recipeIngredient": [
+      "1 връзка целина",
+      "250 г бяло грозде",
+      "1 к.ч. орехи",
+      "100 г синьо сирене",
+      "3  ябълки",
+      "4 с.л. зехтин",
+      "2 с.л. лимонов сок",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Стръковете целина (1 връзка) се измиват, почистват и нарязват на колелца. Сваряват се в уред за готвене на пара до омекване, след което се изплакват с ледено студена вода, за да запазят свежия си зелен цвят. (Ако не разполагате с уред за готвене на пара, можете да сварите целината, като след това я отцедите и изплакнете със студена вода.) Гроздето (250 г) се измива и зърната му се разрязват на половинки. Ябълките (3 бр) се измиват, почистват и нарязват на едри кубчета. Орехите (1 к.ч.) се почистват и натрошават. Синьото сирене (100 г) се нарязва на едри кубчета. Всички продукти се смесват в дълбока купа и салатата се овкусява със зехтин (4 с.л.), лимонов сок (2 с.л.) и сол на вкус. Севрира се веднага."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "целина",
+      "qty": "1 връзка",
+      "id": 30
+    },
+    {
+      "name": "бяло грозде",
+      "qty": "250 г",
+      "id": 324
+    },
+    {
+      "name": "орехи",
+      "qty": "1 к.ч.",
+      "id": 31
+    },
+    {
+      "name": "синьо сирене",
+      "qty": "100 г",
+      "id": 108
+    },
+    {
+      "name": "ябълки",
+      "qty": "3",
+      "id": 85
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "2 с.л.",
+      "id": 17
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

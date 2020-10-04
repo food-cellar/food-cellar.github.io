@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Коктейл Синя Маргарита (Blue Margarita)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kokteil-sinia-margarita--1-[1646].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kokteil-sinia-margarita--1-[1646].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kokteil-sinia-margarita--1-[1646].jpg"
+    ],
+    "datePublished": "2012-04-17",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Коктейли",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "292 calories",
+      "carbohydrateContent": "12 g",
+      "fatContent": "0 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.0072652941176471 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "75 мл. текила",
+      "25 мл. синьо кюрасо",
+      "50 мл. лимонов сок",
+      "сол",
+      "1 резен лимон"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Ръбчето на чашата за маргарита се натрива с резенче лимон, а в чинийка се сипва слой едра сол. Чашата се обръща и поставя в чинийката, за да полепне солта по края й. Текилата (75 мл.), синьото кюрасо (25 мл.) и лимоновият сок (50 мл.) се разбиват с лед в шейкър и се изсипват в чашата. Коктейлът Синя Маргарита се сервира украсен с резенче лимон."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "текила",
+      "qty": "75 мл.",
+      "id": 283
+    },
+    {
+      "name": "синьо кюрасо",
+      "qty": "25 мл.",
+      "id": 209
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "50 мл.",
+      "id": 17
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "лимон",
+      "qty": "1 резен",
+      "id": 43
+    }
+  ]
+}

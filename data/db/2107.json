@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Солен кекс с шунка и зелени маслини",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/solen-maslinov-keks-s-shunka-2-[2107].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/solen-maslinov-keks-s-shunka-2-[2107].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/solen-maslinov-keks-s-shunka-2-[2107].jpg"
+    ],
+    "datePublished": "2012-10-07",
+    "cookTime": "PT1H0M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "282 calories",
+      "carbohydrateContent": "40 g",
+      "fatContent": "7 g",
+      "proteinContent": "11 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "3.9516425 g",
+      "cholesterolContent": "106 mg"
+    },
+    "recipeIngredient": [
+      "4  яйца",
+      "200 г кисело мляко",
+      "1/2 ч.л. бакпулвер",
+      "400 г брашно",
+      "100 г шунка",
+      "150 г зелени маслини",
+      "1 с.л. шарена сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Яйцата (4 бр) се разбиват, заедно с киселото мляко (200 г), предварително разбъркано с бакпулвера (1/2 ч.л.). Прибавят се брашното (400 г) и шарената сол (1 с.л.) и се разбърква. Накрая се добавят нарязаните на малки кубчета шунка (100 г) и нарязаните на колелца обезкостени зелени маслини (150 г). Разбърква се. Полученото тесто се изсипва в намазнена тава и се пече на фурна до готовност (около 45 минути при 180 градуса)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "яйца",
+      "qty": "4",
+      "id": 5
+    },
+    {
+      "name": "кисело мляко",
+      "qty": "200 г",
+      "id": 21
+    },
+    {
+      "name": "бакпулвер",
+      "qty": "1/2 ч.л.",
+      "id": 29
+    },
+    {
+      "name": "брашно",
+      "qty": "400 г",
+      "id": 7
+    },
+    {
+      "name": "шунка",
+      "qty": "100 г",
+      "id": 76
+    },
+    {
+      "name": "зелени маслини",
+      "qty": "150 г",
+      "id": 50
+    },
+    {
+      "name": "шарена сол",
+      "qty": "1 с.л.",
+      "id": 1
+    }
+  ]
+}

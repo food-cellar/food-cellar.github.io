@@ -1,0 +1,102 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Марокански сусамени питки за хлебопекарна със сусам, грис и анасон (със суха мая)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/marokanski-susameni-pitki-za-hlebopekarna-6-[2455].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/marokanski-susameni-pitki-za-hlebopekarna-6-[2455].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/marokanski-susameni-pitki-za-hlebopekarna-6-[2455].jpg"
+    ],
+    "datePublished": "2013-04-15",
+    "cookTime": "PT3H20M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Хлебни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "660 calories",
+      "carbohydrateContent": "127 g",
+      "fatContent": "6 g",
+      "proteinContent": "19 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "4.83212 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "200 мл. вода",
+      "250 г бяло брашно",
+      "75 г грис",
+      "1 ч.л. анасон",
+      "1 1/2 ч.л. сол",
+      "1 1/2 ч.л. захар",
+      "1 ч.л. суха мая",
+      "1 с.л. зехтин",
+      "1 с.л. сусам"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Мароканските питки стават изключително вкусни с хрупкава коричка, благодарение на гриса. Анасонът им придава специфичен аромат."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "В тавичката на хлебопекарната се изсипват водата (200 мл.), брашното (250 г), грисът (75 г), анасонът (1 ч.л.), солта (1 1/2 ч.л.), захарта (1 1/2 ч.л.) и сухата мая (1 ч.л.). Машината се пуска в режим за месене и втасване на бял хляб. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "След приключване на цикъла, тестото се изважда и се разделя на две парчета, от които се оформят питки с дебелина 2 см. Намазват се със зехтин (1 с.л.) и се покриват с фолио. Оставят се да втасват за 30 минути. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Поръсват се със сусам (1 с.л.) и се надупчват с вилица. Пекат се в предварително загрята фурна на 200 градуса за 25 минути. Преди да се сервират се оставят да починат за десетина минути върху кухненска решетка."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "вода",
+      "qty": "200 мл.",
+      "id": 11
+    },
+    {
+      "name": "бяло брашно",
+      "qty": "250 г",
+      "id": 7
+    },
+    {
+      "name": "грис",
+      "qty": "75 г",
+      "id": 140
+    },
+    {
+      "name": "анасон",
+      "qty": "1 ч.л.",
+      "id": 340
+    },
+    {
+      "name": "сол",
+      "qty": "1 1/2 ч.л.",
+      "id": 1
+    },
+    {
+      "name": "захар",
+      "qty": "1 1/2 ч.л.",
+      "id": 9
+    },
+    {
+      "name": "суха мая",
+      "qty": "1 ч.л.",
+      "id": 52
+    },
+    {
+      "name": "зехтин",
+      "qty": "1 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сусам",
+      "qty": "1 с.л.",
+      "id": 113
+    }
+  ]
+}

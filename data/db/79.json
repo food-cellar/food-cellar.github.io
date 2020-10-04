@@ -1,0 +1,80 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Турнедо „Росини”",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/turnedo_rosini_2-[79].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/turnedo_rosini_2-[79].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/turnedo_rosini_2-[79].jpg"
+    ],
+    "datePublished": "2010-10-06",
+    "cookTime": "PT0H40M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "495 calories",
+      "carbohydrateContent": "47 g",
+      "fatContent": "18 g",
+      "proteinContent": "35 g",
+      "saturatedFatContent": "9 g",
+      "unsaturatedFatContent": "7.3704 g",
+      "cholesterolContent": "128 mg"
+    },
+    "recipeIngredient": [
+      "250 г телешко филе",
+      "200 г хляб",
+      "2 с.л. масло",
+      "магданоз",
+      "сол",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Филето (250 г) се нарязва на парчета напречно на влакната и леко се начуква."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Хлябът (200 г) се нарязва на филии. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "В тиган се загрява 1 супена лъжица масло, в което се запържва хлябът. Месото се посолява и се изпържва от двете страни в останалото масло. След това се поставя върху хляба. Отгоре се поставят парченца пастет. Ястието се украсява с четвъртинки домати, парченца лимон и стръкчета магданоз."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "телешко филе",
+      "qty": "250 г",
+      "id": 110
+    },
+    {
+      "name": "хляб",
+      "qty": "200 г",
+      "id": 66
+    },
+    {
+      "name": "масло",
+      "qty": "2 с.л.",
+      "id": 8
+    },
+    {
+      "name": "магданоз",
+      "qty": "Parsing error",
+      "id": 12
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

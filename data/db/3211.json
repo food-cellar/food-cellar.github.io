@@ -1,0 +1,98 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Малки магданозени кюфтенца със сирене пармезан печени на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/magdanozeni-kuftenca-s-parmezan-pecheni-na-furna-1-[3211].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/magdanozeni-kuftenca-s-parmezan-pecheni-na-furna-1-[3211].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/magdanozeni-kuftenca-s-parmezan-pecheni-na-furna-1-[3211].jpg"
+    ],
+    "datePublished": "2017-08-24",
+    "cookTime": "PT1H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "428 calories",
+      "carbohydrateContent": "20 g",
+      "fatContent": "34 g",
+      "proteinContent": "8 g",
+      "saturatedFatContent": "21 g",
+      "unsaturatedFatContent": "11.456 g",
+      "cholesterolContent": "137 mg"
+    },
+    "recipeIngredient": [
+      "200 г маганоз",
+      "150 г масло",
+      "50 г пармезан",
+      "100 г брашно",
+      "50 мл. вода",
+      "1  яйце",
+      "сол",
+      "черен пипер",
+      "1 ч.л. чесън на прах"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "От брашното, водата и яйцето се омесва гъста смес. Добавя се нарязаният на ситно магданоз и се овкусява със сол, пипер, пармезан и чесън на прах."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Оформят се малки кюфтенца и се оставят в хладилник за няколко часа, за да стегнат."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "В тава, покрита с хартия за печене, се подреждат кюфтенцата и се пекат за 20 минути на 180 градуса."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "маганоз",
+      "qty": "200 г",
+      "id": 27
+    },
+    {
+      "name": "масло",
+      "qty": "150 г",
+      "id": 8
+    },
+    {
+      "name": "пармезан",
+      "qty": "50 г",
+      "id": 59
+    },
+    {
+      "name": "брашно",
+      "qty": "100 г",
+      "id": 7
+    },
+    {
+      "name": "вода",
+      "qty": "50 мл.",
+      "id": 11
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "чесън на прах",
+      "qty": "1 ч.л.",
+      "id": 6
+    }
+  ]
+}

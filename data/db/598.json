@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Зелена салата с мариновани малки бейби калмари от консерва и маслини",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-s-kalmari-1-[598].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-s-kalmari-1-[598].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-s-kalmari-1-[598].jpg"
+    ],
+    "datePublished": "2010-12-11",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "180 calories",
+      "carbohydrateContent": "6 g",
+      "fatContent": "9 g",
+      "proteinContent": "16 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "7.30497 g",
+      "cholesterolContent": "233 mg"
+    },
+    "recipeIngredient": [
+      "100 г мариновани бейби калмари",
+      "5  маслини",
+      "1/2 глава маруля",
+      "1 с.л. лимонов сок",
+      "сол",
+      "1 с.л. зехтин"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Листата от маруля се накъсват на едро. Маслините (5 бр) се нарязват на колелца, калмарите също (100 г). Три калмара се оставят цели. Върху марулите се нареждат парченцата маслини и калмари. Маринатата се разбива с лимонов сок и с нея се овкусява салатата."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "мариновани бейби калмари",
+      "qty": "100 г",
+      "id": 187
+    },
+    {
+      "name": "маслини",
+      "qty": "5",
+      "id": 50
+    },
+    {
+      "name": "маруля",
+      "qty": "1/2 глава",
+      "id": 176
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1 с.л.",
+      "id": 17
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "зехтин",
+      "qty": "1 с.л.",
+      "id": 10
+    }
+  ]
+}

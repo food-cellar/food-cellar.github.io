@@ -1,0 +1,100 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Бистра пилешка супа със зеленчуци - картофи, карфиол, моркови, грах от консерва и зелен боб поръсена с копър (без застройка)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pileshka-supa-s-karfiol-i-morkovi-2-[2725].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pileshka-supa-s-karfiol-i-morkovi-2-[2725].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pileshka-supa-s-karfiol-i-morkovi-2-[2725].jpg"
+    ],
+    "datePublished": "2014-01-31",
+    "cookTime": "PT1H0M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "160 calories",
+      "carbohydrateContent": "16 g",
+      "fatContent": "2 g",
+      "proteinContent": "18 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.61430125 g",
+      "cholesterolContent": "49 mg"
+    },
+    "recipeIngredient": [
+      "600 г пилешко месо",
+      "1/2  карфиол",
+      "1  морков",
+      "2  картофа",
+      "200 г зелен боб",
+      "100 г грах от консерва",
+      "1 глава лук",
+      "4 стръка копър",
+      "2 1/2 л. вода",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилешкото месо (600 г) се поставя е тенджера и се залива с вода (2 1/2 л.). Вари се, докато се образува пяна. След това тя се отстранява с решетъчна лъжица и към пилето се добавят нарязаните картофи (2 бр), нарязаните моркови (1 бр), ситно нарязаният лук (1 глава), накъсаният на розички карфиол (1/2 бр) и зеленият боб (200 г)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Щом месото се свари напълно, а зеленчуците омекнат, се добавят грахът (100 г) от консерва, ситно нарязаният копър (4 стръка) и солта. Супата се сервира гореща, като по желание може да се обогати, като се добави кубче пилешки бульон."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешко месо",
+      "qty": "600 г",
+      "id": 49
+    },
+    {
+      "name": "карфиол",
+      "qty": "1/2",
+      "id": 91
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "картофа",
+      "qty": "2",
+      "id": 16
+    },
+    {
+      "name": "зелен боб",
+      "qty": "200 г",
+      "id": 99
+    },
+    {
+      "name": "грах от консерва",
+      "qty": "100 г",
+      "id": 68
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "копър",
+      "qty": "4 стръка",
+      "id": 28
+    },
+    {
+      "name": "вода",
+      "qty": "2 1/2 л.",
+      "id": 11
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

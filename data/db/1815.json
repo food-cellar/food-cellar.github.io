@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пуешко филе с боровинков сос",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pueshko-file-s-borovinkov-sos-2-[1815].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pueshko-file-s-borovinkov-sos-2-[1815].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pueshko-file-s-borovinkov-sos-2-[1815].jpg"
+    ],
+    "datePublished": "2011-11-08",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "429 calories",
+      "carbohydrateContent": "29 g",
+      "fatContent": "3 g",
+      "proteinContent": "47 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "0.8519225 g",
+      "cholesterolContent": "120 mg"
+    },
+    "recipeIngredient": [
+      "800 г пуешко месо",
+      "1  портокал",
+      "1/2 л. червено вино",
+      "100 г сладко от боровинки",
+      "2 скилидки чесън",
+      "лют пипер",
+      "сол",
+      "черен пипер",
+      "2 с.л. захар"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пуешкото месо (800 г) се нарязва на филета с дебелина около 1 сантиметър, които след това се начукват до получаване на тънки пържоли. Овкусяват се със сол и пипер, и се запържват в тиган, докато получат златиста коричка. Изваждат се от тигана и в него се налива виното (1/2 л.). Добавят се сладкото от боровинки (100 г), чесънът (2 скилидки), лют пипер, сол, захар (2 с.л.) и черен пипер. Щом заври, се добавят и портокалите (1 бр), нарязани на полумесеци. Готви се до получаване на гъст сос. С него се заливат пържолите и се сервират заедно с резенчета портокал."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пуешко месо",
+      "qty": "800 г",
+      "id": 195
+    },
+    {
+      "name": "портокал",
+      "qty": "1",
+      "id": 122
+    },
+    {
+      "name": "червено вино",
+      "qty": "1/2 л.",
+      "id": 98
+    },
+    {
+      "name": "сладко от боровинки",
+      "qty": "100 г",
+      "id": 89
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "лют пипер",
+      "qty": "Parsing error",
+      "id": 132
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "захар",
+      "qty": "2 с.л.",
+      "id": 9
+    }
+  ]
+}

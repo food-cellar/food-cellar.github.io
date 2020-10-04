@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Тиквички и патладжани на тиган с мариновани сушени домати",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/tikvichki-i-patladjani-na-tigan-s-marinovani-susheni-domati-1-[1642].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/tikvichki-i-patladjani-na-tigan-s-marinovani-susheni-domati-1-[1642].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/tikvichki-i-patladjani-na-tigan-s-marinovani-susheni-domati-1-[1642].jpg"
+    ],
+    "datePublished": "2011-08-21",
+    "cookTime": "PT1H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "327 calories",
+      "carbohydrateContent": "62 g",
+      "fatContent": "6 g",
+      "proteinContent": "8 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "3.8364525 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "2  патладжана",
+      "2  тиквички",
+      "2 глави лук",
+      "6  мариновани сушени домата",
+      "3 с.л. зехтин",
+      "черен пипер",
+      "сол",
+      "1 ч.ч. ориз",
+      "3 ч.ч. вода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Патладжаните (2 бр) се измиват, нарязват се на едри кубчета, посоляват се и се оставят за половин час да пуснат горчивия си сок. След това се изплакват и отцеждат.Тиквичките (2 бр) се измиват и нарязват на едри кубчета. Лукът (2 глави) се почиства и се нарязва на четвъртинки. В тиган с незалeпващо покритие се сгорещява зехтинът (3 с.л.) и се поставят патладжаните и лукът. Пържат се, докато леко омекнат, като периодично се разбъркват. След това към тях се добавят тиквичките и всичко се разбърква. Пърженето продължава, докато всички зеленчуци станат съвсем крехки. Малко преди това се добавят нарязаните на ситни парчета мариновани сушени домати (6 бр) и ястието се подправя със сол и черен пипер на вкус. Поднася се горещо с гарнитура от варен ориз (1 ч.ч.)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "патладжана",
+      "qty": "2",
+      "id": 71
+    },
+    {
+      "name": "тиквички",
+      "qty": "2",
+      "id": 39
+    },
+    {
+      "name": "лук",
+      "qty": "2 глави",
+      "id": 3
+    },
+    {
+      "name": "мариновани сушени домата",
+      "qty": "6",
+      "id": 121
+    },
+    {
+      "name": "зехтин",
+      "qty": "3 с.л.",
+      "id": 10
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "ориз",
+      "qty": "1 ч.ч.",
+      "id": 22
+    },
+    {
+      "name": "вода",
+      "qty": "3 ч.ч.",
+      "id": 11
+    }
+  ]
+}

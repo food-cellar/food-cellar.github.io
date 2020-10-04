@@ -1,0 +1,120 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пълнено с оризова плънка пиле пържено без мазнина в AirFryer",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pulneno-s-orizova-plunka-pile-purjeno-bez-maznina-v--2-[3252].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pulneno-s-orizova-plunka-pile-purjeno-bez-maznina-v--2-[3252].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pulneno-s-orizova-plunka-pile-purjeno-bez-maznina-v--2-[3252].jpg"
+    ],
+    "datePublished": "2017-11-13",
+    "cookTime": "PT1H20M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "398 calories",
+      "carbohydrateContent": "8 g",
+      "fatContent": "27 g",
+      "proteinContent": "27 g",
+      "saturatedFatContent": "6 g",
+      "unsaturatedFatContent": "18.043 g",
+      "cholesterolContent": "106 mg"
+    },
+    "recipeIngredient": [
+      "1  пиле",
+      "1 щип. розмарин",
+      "1 щип. босилек",
+      "1 щип. кимион",
+      "1 щип. черен пипер",
+      "сол",
+      "50 г ориз",
+      "200 мл. вода",
+      "40 мл. олио",
+      "4  печурки",
+      "1/2 глава лук",
+      "1 щип. джоджен",
+      "1 щип. черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилето (1 бр) се сварява цяло във вода за около 45 минути. През това време се приготвя плънката. За целта в тиган в олиото (40 мл.) се задушава ситно нарязаният лук (1/2 глава) и щом омекне, към него се добавят оризът (50 г) и ситно накълцаните печурки (4 бр). Щом оризът стане прозрачен, се добавят подправките и горещата вода (200 мл.). Плънката е готова, когато оризът напълно поеме водата и омекне. При необходимост се добавя още вода. С получената плънка се пълни пилето отвътре, а отвън се поръсва с подправките розмарин (1 щип.), босилек (1 щип.), кимион (1 щип.), черен пипер (1 щип.) и сол. Поставя се в кошницата на <a href=http://www.philips.bg/c-m-ho/cooking/fritiurnik-airfryer.html?origin=5_bg_bg_airfryer_1001recipes____recipe3>AirFryer</a> на Philips и уредът се включва на 200 градуса за 30 минути. Получава се сочно пиле с хрупкава коричка, като излишната мазнина от пилето остава на дъното на съда. То се пържи без олио, заради специалната технология на пържене с горещ въздух. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пиле",
+      "qty": "1",
+      "id": 111
+    },
+    {
+      "name": "розмарин",
+      "qty": "1 щип.",
+      "id": 77
+    },
+    {
+      "name": "босилек",
+      "qty": "1 щип.",
+      "id": 25
+    },
+    {
+      "name": "кимион",
+      "qty": "1 щип.",
+      "id": 42
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 щип.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "ориз",
+      "qty": "50 г",
+      "id": 22
+    },
+    {
+      "name": "вода",
+      "qty": "200 мл.",
+      "id": 11
+    },
+    {
+      "name": "олио",
+      "qty": "40 мл.",
+      "id": 4
+    },
+    {
+      "name": "печурки",
+      "qty": "4",
+      "id": 62
+    },
+    {
+      "name": "лук",
+      "qty": "1/2 глава",
+      "id": 3
+    },
+    {
+      "name": "джоджен",
+      "qty": "1 щип.",
+      "id": 60
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 щип.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

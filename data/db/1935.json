@@ -1,0 +1,60 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пържени картофи със сирене",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/purjeni-kartofi-1-[1935].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/purjeni-kartofi-1-[1935].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/purjeni-kartofi-1-[1935].jpg"
+    ],
+    "datePublished": "2012-02-20",
+    "cookTime": "PT0H45M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "475 calories",
+      "carbohydrateContent": "45 g",
+      "fatContent": "27 g",
+      "proteinContent": "12 g",
+      "saturatedFatContent": "9 g",
+      "unsaturatedFatContent": "17.22 g",
+      "cholesterolContent": "45 mg"
+    },
+    "recipeIngredient": [
+      "1 кг картофи",
+      "1 к.ч. олио",
+      "сол",
+      "200 г сирене"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Картофите (1 кг) се обелват и нарязват на пръчици. Накисват се за малко в студена вода, за да се премахне част от скорбялата, след което се отцеждат и подсушават добре върху домакинска хартия. Олиото (1 к.ч.) се загрява и в него се слага шепа картофи да се пържи. Не се слага по-голямо количество, за да не се понижи прекалено температурата на олиото. Пържат се, докато станат златисти, като се разбъркват от време на време, за да не залепнат. Изваждат се и се оставят върху кухненска хартия за около 30 минути, за да се отцедят добре. Същото се повтаря и с останалите картофи. Сервират се веднага, поръсени със сол и настъргано сирене (200 г)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "картофи",
+      "qty": "1 кг",
+      "id": 16
+    },
+    {
+      "name": "олио",
+      "qty": "1 к.ч.",
+      "id": 4
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "сирене",
+      "qty": "200 г",
+      "id": 32
+    }
+  ]
+}

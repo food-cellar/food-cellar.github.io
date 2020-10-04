@@ -1,0 +1,122 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Постна зеленчукова мусака със спанак, ориз, орехи, пресен лук и яйца",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zelenchukova-musaka-1-[971].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zelenchukova-musaka-1-[971].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zelenchukova-musaka-1-[971].jpg"
+    ],
+    "datePublished": "2010-12-12",
+    "cookTime": "PT1H0M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "241 calories",
+      "carbohydrateContent": "27 g",
+      "fatContent": "11 g",
+      "proteinContent": "8 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "8.80771625 g",
+      "cholesterolContent": "51 mg"
+    },
+    "recipeIngredient": [
+      "800 г спанак",
+      "1 връзка зелен лук",
+      "2 скилидки чесън",
+      "2 глави лук",
+      "1 ч.ч. ориз",
+      "1 к.ч. орехи",
+      "30 мл. зехтин",
+      "2  яйца",
+      "1 ч.ч. прясно мляко",
+      "сол",
+      "черен пипер",
+      "дивесил",
+      "2 ч.ч. вода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Лукът (пресния (1 връзка) и стария(2 глави)), чесънът (2 скилидки), спанакът (800 г) се почистват и нарязват на ситно. Задушават се в сгорещения зехтин до омекване. Прибавя се измитият ориз (1 ч.ч.) и се разбърква. Овкусява се със сол, черен пипер, дивесил. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Прибавят се орехите (1 к.ч.) и се налива водата (2 ч.ч.). Ястието ври, докато поеме течността напълно. След това се изсипва в тавичка и се изравнява. Залива се с разбитите с млякото (1 ч.ч.) яйца (2 бр) и се пече до пълна готовност. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Може да се консумира както топло, така и студено."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "спанак",
+      "qty": "800 г",
+      "id": 40
+    },
+    {
+      "name": "зелен лук",
+      "qty": "1 връзка",
+      "id": 24
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "лук",
+      "qty": "2 глави",
+      "id": 3
+    },
+    {
+      "name": "ориз",
+      "qty": "1 ч.ч.",
+      "id": 22
+    },
+    {
+      "name": "орехи",
+      "qty": "1 к.ч.",
+      "id": 31
+    },
+    {
+      "name": "зехтин",
+      "qty": "30 мл.",
+      "id": 10
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "1 ч.ч.",
+      "id": 14
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "дивесил",
+      "qty": "Parsing error",
+      "id": 167
+    },
+    {
+      "name": "вода",
+      "qty": "2 ч.ч.",
+      "id": 11
+    }
+  ]
+}

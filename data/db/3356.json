@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Брюкселско зеле с чесън печено на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/brukselsko-zele-s-chesun-pecheno-na-furna-1-[3356].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/brukselsko-zele-s-chesun-pecheno-na-furna-1-[3356].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/brukselsko-zele-s-chesun-pecheno-na-furna-1-[3356].jpg"
+    ],
+    "datePublished": "2019-02-26",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "106 calories",
+      "carbohydrateContent": "16 g",
+      "fatContent": "3 g",
+      "proteinContent": "6 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "2.544485 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "700 г брюкселско зеле",
+      "2 скилидки чесън",
+      "2 с.л. зехтин",
+      "сол",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Горният пласт на брюкселското зеле (700 г) се обелва и така почистените зелки се поставят в тава. Поръсват се със зехтина (2 с.л.) и се овкусяват със солта, черния пипер и счуканите скилидки чесън (2 скилидки). Всичко се омесва хубаво с ръце и се разстила равномерно в тавата. Пече се за двадесетина минути в предварително загрята фурна на 200 градуса."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "брюкселско зеле",
+      "qty": "700 г",
+      "id": 301
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Здравословна салата с варен булгур, настъргани моркови и нахут от консерва",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-s-bulgur-i-nahut-2-[2385].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-s-bulgur-i-nahut-2-[2385].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-s-bulgur-i-nahut-2-[2385].jpg"
+    ],
+    "datePublished": "2013-03-06",
+    "cookTime": "PT0H35M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "237 calories",
+      "carbohydrateContent": "41 g",
+      "fatContent": "4 g",
+      "proteinContent": "9 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "3.2670216666667 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1 ч.ч. булгур",
+      "1 ч.ч. нахут от консерва",
+      "120 г моркови",
+      "1/2 връзка магданоз",
+      "1 с.л. сол",
+      "2 с.л. зехтин",
+      "1/2  лимон",
+      "3 ч.ч. вода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Булгурът (1 ч.ч.) се сварява в подсолена вода (3 ч.ч.). В купички се редят първо свареният булгур, после нахут от консерва (1 ч.ч.), накълцан магданоз (1/2 връзка) и настъргани моркови (120 г). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Салатата се подправя със сол, зехтин и сок от пресен лимон."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "булгур",
+      "qty": "1 ч.ч.",
+      "id": 128
+    },
+    {
+      "name": "нахут от консерва",
+      "qty": "1 ч.ч.",
+      "id": 145
+    },
+    {
+      "name": "моркови",
+      "qty": "120 г",
+      "id": 13
+    },
+    {
+      "name": "магданоз",
+      "qty": "1/2 връзка",
+      "id": 12
+    },
+    {
+      "name": "сол",
+      "qty": "1 с.л.",
+      "id": 1
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "лимон",
+      "qty": "1/2",
+      "id": 43
+    },
+    {
+      "name": "вода",
+      "qty": "3 ч.ч.",
+      "id": 11
+    }
+  ]
+}

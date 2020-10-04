@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Лесна салата с овче сирене",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/lesna-salata-s-ovche-sirene-2-[2524].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/lesna-salata-s-ovche-sirene-2-[2524].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/lesna-salata-s-ovche-sirene-2-[2524].jpg"
+    ],
+    "datePublished": "2013-06-02",
+    "cookTime": "PT0H10M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "271 calories",
+      "carbohydrateContent": "13 g",
+      "fatContent": "20 g",
+      "proteinContent": "11 g",
+      "saturatedFatContent": "10 g",
+      "unsaturatedFatContent": "8.2523260714286 g",
+      "cholesterolContent": "54 mg"
+    },
+    "recipeIngredient": [
+      "1 глава айсберг",
+      "1  краставица",
+      "1  домат",
+      "2  жълти чушки",
+      "4 с.л. зехтин",
+      "2 с.л. лимонов сок",
+      "сол",
+      "1 стрък босилек",
+      "200 г овче сирене"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Айсбергът (1 глава) се нарязва на кубчета, както и необелената, но старателно измита краставица (1 бр). По същия начин се нарязват доматът (1 бр) и почистените и измити жълти чушки (2 бр). Зеленчуците се поставят в дълбока купа и се овкусяват с лимонов сок (2 с.л.), зехтин (4 с.л.) и сол. Салатата се разбърква старателно и се поръсва с парченца овче сирене (200 г). Сервира се веднага, като по желание се декорира с връхчета пресен босилек."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "айсберг",
+      "qty": "1 глава",
+      "id": 101
+    },
+    {
+      "name": "краставица",
+      "qty": "1",
+      "id": 44
+    },
+    {
+      "name": "домат",
+      "qty": "1",
+      "id": 15
+    },
+    {
+      "name": "жълти чушки",
+      "qty": "2",
+      "id": 18
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "2 с.л.",
+      "id": 17
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "босилек",
+      "qty": "1 стрък",
+      "id": 25
+    },
+    {
+      "name": "овче сирене",
+      "qty": "200 г",
+      "id": 349
+    }
+  ]
+}

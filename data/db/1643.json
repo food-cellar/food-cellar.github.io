@@ -1,0 +1,54 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Коктейл Blue Fizz",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kokteil--2-[1643].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kokteil--2-[1643].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kokteil--2-[1643].jpg"
+    ],
+    "datePublished": "2012-07-02",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Коктейли",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "271 calories",
+      "carbohydrateContent": "26 g",
+      "fatContent": "0 g",
+      "proteinContent": "0 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.0090352941176471 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "25 мл. синьо кюрасо",
+      "125 мл. шампанско",
+      "1/4 резен портокал"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Във висока чаша се сипва синьото кюрасо (25 мл.) и след него шампанското (125 мл.). Украсява се с четвърт резен портокал."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "синьо кюрасо",
+      "qty": "25 мл.",
+      "id": 209
+    },
+    {
+      "name": "шампанско",
+      "qty": "125 мл.",
+      "id": 265
+    },
+    {
+      "name": "портокал",
+      "qty": "1/4 резен",
+      "id": 122
+    }
+  ]
+}

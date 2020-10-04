@@ -1,0 +1,76 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Плодова пита за десерт от бутер тесто с киви, праскови и портокал",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/plodova-pita-s-buter-testo-1-[101].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/plodova-pita-s-buter-testo-1-[101].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/plodova-pita-s-buter-testo-1-[101].jpg"
+    ],
+    "datePublished": "2010-12-02",
+    "cookTime": "PT0H30M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "666 calories",
+      "carbohydrateContent": "74 g",
+      "fatContent": "38 g",
+      "proteinContent": "8 g",
+      "saturatedFatContent": "9 g",
+      "unsaturatedFatContent": "26.02727 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "200 г бутер тесто",
+      "1  киви",
+      "1  праскова",
+      "1  портокал",
+      "1 щип. кафява захар",
+      "2 с.л. шоколадов топинг"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "В намазнена правоъгълна тавичка се поставя парче бутер тесто (200 г), отрязано с формата на найното дъно. Върху тестото се подреждат резени праскова (1 бр), киви (1 бр) и портокал (1 бр). От тестото се отрязват тънки ивички, с които се покриват плодовете. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Десертът се поръсва с кафява захар (1 щип.) и се пече до готовност в предварително загрята фурна на 200 градуса. Декорира се с шоколадов топинг (2 с.л.)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "бутер тесто",
+      "qty": "200 г",
+      "id": 117
+    },
+    {
+      "name": "киви",
+      "qty": "1",
+      "id": 186
+    },
+    {
+      "name": "праскова",
+      "qty": "1",
+      "id": 156
+    },
+    {
+      "name": "портокал",
+      "qty": "1",
+      "id": 122
+    },
+    {
+      "name": "кафява захар",
+      "qty": "1 щип.",
+      "id": 9
+    },
+    {
+      "name": "шоколадов топинг",
+      "qty": "2 с.л.",
+      "id": 152
+    }
+  ]
+}

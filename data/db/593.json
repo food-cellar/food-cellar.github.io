@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Постни печени червени чушки пълнени с качамак, сирене, яйца и грах",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/chushki-pulneni-s-kachamak-i-grah-2-[593].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/chushki-pulneni-s-kachamak-i-grah-2-[593].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/chushki-pulneni-s-kachamak-i-grah-2-[593].jpg"
+    ],
+    "datePublished": "2010-12-11",
+    "cookTime": "PT0H25M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "185 calories",
+      "carbohydrateContent": "28 g",
+      "fatContent": "5 g",
+      "proteinContent": "8 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "1.7558916666667 g",
+      "cholesterolContent": "46 mg"
+    },
+    "recipeIngredient": [
+      "12  печени чушки",
+      "1/2 опак. качамак",
+      "200 г грах",
+      "100 г сирене",
+      "1  яйце",
+      "сол",
+      "черен пипер",
+      "олио",
+      "5 стръка босилек",
+      "4 скилидки чесън"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Качамакът (1/2 опак.) се сварява в подослена вода, съгласно указанията на опаковката. Смесва се с яйцето (1 бр), натрошеното сирене (100 г), граха (200 г), солта, черния пипер, ситно нарязания пресен босилек (5 стръка) и счукания чесън (4 скилидки). Прибавя се и малко олио, за да не стане прекалено суха сместа. С нея се напълват печените червени чушки, нареждат се в намазнена тава, поръсват се с олио и се пекат до пълна готовност."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "печени чушки",
+      "qty": "12",
+      "id": 18
+    },
+    {
+      "name": "качамак",
+      "qty": "1/2 опак.",
+      "id": 312
+    },
+    {
+      "name": "грах",
+      "qty": "200 г",
+      "id": 68
+    },
+    {
+      "name": "сирене",
+      "qty": "100 г",
+      "id": 32
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "олио",
+      "qty": "Parsing error",
+      "id": 4
+    },
+    {
+      "name": "босилек",
+      "qty": "5 стръка",
+      "id": 25
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    }
+  ]
+}

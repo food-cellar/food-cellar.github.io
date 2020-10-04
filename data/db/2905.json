@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Домашен яйчен пастет със сирене, горчица и с яйца Багрянка",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/domashen-iaichen-pastet-sus-sirene-i-gorchica-s-iaica-bagrianka-3-[2905].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/domashen-iaichen-pastet-sus-sirene-i-gorchica-s-iaica-bagrianka-3-[2905].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/domashen-iaichen-pastet-sus-sirene-i-gorchica-s-iaica-bagrianka-3-[2905].jpg"
+    ],
+    "datePublished": "2016-04-07",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "385 calories",
+      "carbohydrateContent": "3 g",
+      "fatContent": "33 g",
+      "proteinContent": "18 g",
+      "saturatedFatContent": "11 g",
+      "unsaturatedFatContent": "17.9222575 g",
+      "cholesterolContent": "419 mg"
+    },
+    "recipeIngredient": [
+      "8  яйца Багрянка",
+      "200 г сирене",
+      "60 мл. олио",
+      "1 ч.л. горчица",
+      "1 щип. черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Една от тънкостите при приготвянето на това предястие е изборът на пресни яйца. За най-добри резултати екипът на 1001 рецепти препоръчва български <a href=https://www.facebook.com/bagrianka/>яйца Багрянка</a>, размер L, защото жълтъкът е с ярко оранжев цвят и ще направи пастета плътен. Освен това яйцата са с натурално добавен ограничен селен, което ги прави не само вкусни, но и полезни."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Яйцата се сваряват, докато станат рохки. Това отнема 4 до 5 минути, след като водата заври. Яйцата се поставят в студена вода, защото ако се пуснат в гореща, има опасност да се пукнат от рязката промяна в температурата. След това се поставят в студена вода, за да се спре термичната обработка и за да се обелят по-лесно. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Сварените и обелени яйца (8 бр), заедно с натрошеното сирене (200 г), олиото (60 мл.), черният пипер (1 щип.), горчицата (1 ч.л.) и солта се разбиват в блендера и полученият пастет се разбърква. Mаже се върху препечени филийки или цели хлебчета е много вкусно предложение за закуска или следобедно похапване."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "По желание всяка филийка може да се декорира с гриловани тиквички или друг свеж зеленчук. За по-здравословен краен резултат олиото може да се замести със зехтин, а сиренето - с извара."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "яйца Багрянка",
+      "qty": "8",
+      "id": 5
+    },
+    {
+      "name": "сирене",
+      "qty": "200 г",
+      "id": 32
+    },
+    {
+      "name": "олио",
+      "qty": "60 мл.",
+      "id": 4
+    },
+    {
+      "name": "горчица",
+      "qty": "1 ч.л.",
+      "id": 64
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 щип.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

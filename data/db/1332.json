@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Запечени картофки с червена чушка и пармезан",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zapecheni-kartofki-s-chervena-chushka-i-parmezan-1-[1332].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zapecheni-kartofki-s-chervena-chushka-i-parmezan-1-[1332].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zapecheni-kartofki-s-chervena-chushka-i-parmezan-1-[1332].jpg"
+    ],
+    "datePublished": "2011-02-26",
+    "cookTime": "PT0H50M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "317 calories",
+      "carbohydrateContent": "51 g",
+      "fatContent": "8 g",
+      "proteinContent": "10 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "4.80399 g",
+      "cholesterolContent": "8 mg"
+    },
+    "recipeIngredient": [
+      "1 кг картофи",
+      "2  червени чушки",
+      "1 глава червен лук",
+      "3 с.л. зехтин",
+      "1 ч.л. розмарин",
+      "1 с.л. червен пипер",
+      "1/2 ч.л. черен пипер",
+      "сол",
+      "50 г пармезан"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Картофите (1 кг) се сваряват в подсолена вода, обелват се и се нарязват на едри кубчета. Червеният лук (1 глава) се нарязва на полумесеци и заедно с чушките (2 бр), нарязани на ситни кубчета, се задушава в зехтин (3 с.л.) до омекване. Смесва се със сварените картофи и се добавят подправките - розмарин (1 ч.л.), червен пипер (1 с.л.), черен пипер (1/2 ч.л.) и сол. Всичко се разбърква много добре и се разпределя в тавичка. Поръсва се с настърган пармезан (50 г) и се запича за 20 минути при 180 градуса. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "картофи",
+      "qty": "1 кг",
+      "id": 16
+    },
+    {
+      "name": "червени чушки",
+      "qty": "2",
+      "id": 18
+    },
+    {
+      "name": "червен лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "зехтин",
+      "qty": "3 с.л.",
+      "id": 10
+    },
+    {
+      "name": "розмарин",
+      "qty": "1 ч.л.",
+      "id": 77
+    },
+    {
+      "name": "червен пипер",
+      "qty": "1 с.л.",
+      "id": 20
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1/2 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "пармезан",
+      "qty": "50 г",
+      "id": 59
+    }
+  ]
+}

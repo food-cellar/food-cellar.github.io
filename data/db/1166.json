@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Гювеч със сирене, грах, домати, червени чушки и лук на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/guvech-sus-sirene-i-grah-5-[1166].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/guvech-sus-sirene-i-grah-5-[1166].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/guvech-sus-sirene-i-grah-5-[1166].jpg"
+    ],
+    "datePublished": "2011-03-18",
+    "cookTime": "PT0H50M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "344 calories",
+      "carbohydrateContent": "24 g",
+      "fatContent": "20 g",
+      "proteinContent": "17 g",
+      "saturatedFatContent": "9 g",
+      "unsaturatedFatContent": "9.1886 g",
+      "cholesterolContent": "170 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг грах",
+      "250 г сирене",
+      "2 глави лук",
+      "2  червени чушки",
+      "2  домата",
+      "400 г кисело мляко",
+      "4  яйца",
+      "5 стръка магданоз",
+      "5 с.л. олио",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Лукът (2 глави) се нарязва на кубчета и се задушава в олиото (5 с.л.). Когато омекне, към него се добавят настърганите домати (2 бр) и червените чушки (2 бр), нарязани на ивички. Когато чушките омекнат, се прибавя отцеденият грах (1/2 кг) от консерва. Сместа се овкусява със сол и ситно нарязан пресен магданоз (5 стръка), и се поставя в тавичка. Залива се със сос от кисело мляко (400 г), разбити яйца (4 бр) и натрошено сирене (250 г) и гювечът се запича в умерена фурна за 40 минути."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "грах",
+      "qty": "1/2 кг",
+      "id": 68
+    },
+    {
+      "name": "сирене",
+      "qty": "250 г",
+      "id": 32
+    },
+    {
+      "name": "лук",
+      "qty": "2 глави",
+      "id": 3
+    },
+    {
+      "name": "червени чушки",
+      "qty": "2",
+      "id": 18
+    },
+    {
+      "name": "домата",
+      "qty": "2",
+      "id": 15
+    },
+    {
+      "name": "кисело мляко",
+      "qty": "400 г",
+      "id": 21
+    },
+    {
+      "name": "яйца",
+      "qty": "4",
+      "id": 5
+    },
+    {
+      "name": "магданоз",
+      "qty": "5 стръка",
+      "id": 12
+    },
+    {
+      "name": "олио",
+      "qty": "5 с.л.",
+      "id": 4
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

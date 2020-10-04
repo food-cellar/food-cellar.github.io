@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пълнено руло с бекон и извара на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/rulo-s-bekon-i-izvara-2-[537].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/rulo-s-bekon-i-izvara-2-[537].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/rulo-s-bekon-i-izvara-2-[537].jpg"
+    ],
+    "datePublished": "2011-01-01",
+    "cookTime": "PT0H15M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "316 calories",
+      "carbohydrateContent": "2 g",
+      "fatContent": "27 g",
+      "proteinContent": "15 g",
+      "saturatedFatContent": "11 g",
+      "unsaturatedFatContent": "13.798665 g",
+      "cholesterolContent": "86 mg"
+    },
+    "recipeIngredient": [
+      "150 г бекон",
+      "250 г извара",
+      "1  яйце",
+      "черен пипер",
+      "сол",
+      "50 г кашкавал"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Изварата (250 г) се смесва с подправките, настъргания кашкавал и разбитото яйце и се омесва добре. Беконът (150 г) се разрязва на тънки резени и те се нареждат един до друг с прехлупване. Върху тях се слага омесената извара и всичко това се навива на руло, което се изпича на фурна. Рулото се поднася със салата от прясно зеле."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "бекон",
+      "qty": "150 г",
+      "id": 88
+    },
+    {
+      "name": "извара",
+      "qty": "250 г",
+      "id": 92
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "кашкавал",
+      "qty": "50 г",
+      "id": 47
+    }
+  ]
+}

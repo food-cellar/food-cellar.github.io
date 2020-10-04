@@ -1,0 +1,94 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Крем супа от броколи и карфиол със заквасена сметана",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/krem-supa-ot-brokoli-i-karfiol-sus-zakvasena-smetana-1-[3367].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/krem-supa-ot-brokoli-i-karfiol-sus-zakvasena-smetana-1-[3367].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/krem-supa-ot-brokoli-i-karfiol-sus-zakvasena-smetana-1-[3367].jpg"
+    ],
+    "datePublished": "2019-03-21",
+    "cookTime": "PT0H45M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "292 calories",
+      "carbohydrateContent": "30 g",
+      "fatContent": "17 g",
+      "proteinContent": "9 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "10.698925 g",
+      "cholesterolContent": "11 mg"
+    },
+    "recipeIngredient": [
+      "400 г броколи",
+      "400 г карфиол",
+      "100 г заквасена сметана",
+      "4 с.л. зехтин",
+      "150 г хляб",
+      "1 с.л. червен пипер",
+      "2 с.л. олио",
+      "сол",
+      "черен пипер"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Карфиолът (400 г) и броколите (400 г) се сваряват поотделно за 15-20 минути, ако са сурови, и за 10 минути, ако са замразени. Пасират се поотделно, като към всеки се добавят по половината от зехтина, сол и черен пипер на вкус. Сместа с карфиола се изчаква да изстине малко и се добавя заквасената сметана. Супата се пасира до получаване на гладка смес. Малко от сместа с карфиола се изсипва в част от сместа с броколите. Тази процедура се повтаря до изчерпване на продуктите."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Хлябът (150 г) се нарязва на малки кубчета и се запържва в олиото с малко сол. Получените крутони се слагат в супата и се поръсва с червен пипер."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "броколи",
+      "qty": "400 г",
+      "id": 57
+    },
+    {
+      "name": "карфиол",
+      "qty": "400 г",
+      "id": 91
+    },
+    {
+      "name": "заквасена сметана",
+      "qty": "100 г",
+      "id": 73
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "хляб",
+      "qty": "150 г",
+      "id": 66
+    },
+    {
+      "name": "червен пипер",
+      "qty": "1 с.л.",
+      "id": 20
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    }
+  ]
+}

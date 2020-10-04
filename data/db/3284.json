@@ -1,0 +1,88 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Веган лешникови бонбони",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/vegan-leshnikovi-bonboni-1-[3284].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/vegan-leshnikovi-bonboni-1-[3284].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/vegan-leshnikovi-bonboni-1-[3284].jpg"
+    ],
+    "datePublished": "2018-03-23",
+    "cookTime": "PT0H20M",
+    "recipeYield": "12 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "157 calories",
+      "carbohydrateContent": "9 g",
+      "fatContent": "12 g",
+      "proteinContent": "4 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "10.220645 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "100 г сурово кашу",
+      "100 г сурови бадеми",
+      "70 г фурми",
+      "3 с.л. лешников тахан",
+      "3 с.л. какао",
+      "50 г лешници"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Фурмите (70 г) се накисват предварително за 40 минути в топла вода. Обелват се и костилките им се отстраняват."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "В кухненси робот се смилат наситно бадемите (100 г) и кашуто (100 г) и след това се добавят фурмите. Готовата смес се прехвърля в купа, добавят се таханът (3 с.л.) и какаото (3 с.л.). Разбърква се."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "От сместа се оформя тесто с консистенция лесна за моделиране на топчета. Ако е много суха сместа, прибавя се още тахан."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "От готовата смес се оформят малки топчета, които се овалват в смлените на ситно печени лешници (50 г)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Бонбоните се поставят в хартиени кошнички за бонбони и се подреждат в кутия."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "сурово кашу",
+      "qty": "100 г",
+      "id": 200
+    },
+    {
+      "name": "сурови бадеми",
+      "qty": "100 г",
+      "id": 82
+    },
+    {
+      "name": "фурми",
+      "qty": "70 г",
+      "id": 214
+    },
+    {
+      "name": "лешников тахан",
+      "qty": "3 с.л.",
+      "id": 211
+    },
+    {
+      "name": "какао",
+      "qty": "3 с.л.",
+      "id": 45
+    },
+    {
+      "name": "лешници",
+      "qty": "50 г",
+      "id": 194
+    }
+  ]
+}

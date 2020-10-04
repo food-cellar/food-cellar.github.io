@@ -1,0 +1,98 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Мариновани свински пържоли на скара",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/marinovani-svinski-purjoli-na-skara-1-[2928].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/marinovani-svinski-purjoli-na-skara-1-[2928].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/marinovani-svinski-purjoli-na-skara-1-[2928].jpg"
+    ],
+    "datePublished": "2014-05-26",
+    "cookTime": "PT1H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "772 calories",
+      "carbohydrateContent": "6 g",
+      "fatContent": "63 g",
+      "proteinContent": "40 g",
+      "saturatedFatContent": "21 g",
+      "unsaturatedFatContent": "35.7496975 g",
+      "cholesterolContent": "180 mg"
+    },
+    "recipeIngredient": [
+      "4  свински пържоли",
+      "8 с.л. соев сос",
+      "1 ч.л. горчица",
+      "3 с.л. мед",
+      "4 скилидки чесън",
+      "2 с.л. зехтин",
+      "1 ч.л. черен пипер",
+      "сол",
+      "2 стръка магданоз"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Свинските пържоли (4 бр) се начукват старателно и се поставят в малка и плитка тавичка. Изплакват се и се подсушават с кухненска хартия. След това се натъркват с пресования чесън (4 скилидки), черен пипер (1 ч.л.) и сол. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Заливат се с маринатата, получената от разбитите соев сос (8 с.л.), горчица (1 ч.л.), мед (3 с.л.), зехтин (2 с.л.) и малко сол. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Пържолите се завиват в фолио и се оставят най-малко два часа в хладилник. След това се изваждат, леко се отцеждат от маринатата и се изпичат на скара от двете страни до пълна готовност на месото. След това се сервират горещи с гарнитура от свежа салата или пържени картофи. По желание се поръсват със ситно нарязан магданоз. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "свински пържоли",
+      "qty": "4",
+      "id": 67
+    },
+    {
+      "name": "соев сос",
+      "qty": "8 с.л.",
+      "id": 53
+    },
+    {
+      "name": "горчица",
+      "qty": "1 ч.л.",
+      "id": 64
+    },
+    {
+      "name": "мед",
+      "qty": "3 с.л.",
+      "id": 38
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "магданоз",
+      "qty": "2 стръка",
+      "id": 12
+    }
+  ]
+}

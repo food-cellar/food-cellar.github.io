@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печени пилешки бутчета на скара в марината от бира и шипков мармалад",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pile-na-skara-s-bira-2-[2528].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pile-na-skara-s-bira-2-[2528].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pile-na-skara-s-bira-2-[2528].jpg"
+    ],
+    "datePublished": "2013-06-02",
+    "cookTime": "PT0H45M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "464 calories",
+      "carbohydrateContent": "24 g",
+      "fatContent": "9 g",
+      "proteinContent": "52 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "4.3632 g",
+      "cholesterolContent": "193 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг пилешки бутчета",
+      "1/2 л. бира",
+      "3 с.л. шипков мармалад",
+      "1 с.л. захар",
+      "1 с.л. червен пипер",
+      "1 ч.л. черен пипер",
+      "1 щип. риган",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Бирата (1/2 л.) се смесва в дълбока купа с шипковия мармалад (3 с.л.), захарта (1 с.л.), червения пипер (1 с.л.), черния пипер (1 ч.л.), сушения риган (1 щип.) и солта. Разбърква се старателно и в получената марината се поставят пилешките бутчета. Оставят се да се мариноват в хладилник за един час. След това се отцеждат и се пекат на силно загрята скара до готовност на месото. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешки бутчета",
+      "qty": "1/2 кг",
+      "id": 119
+    },
+    {
+      "name": "бира",
+      "qty": "1/2 л.",
+      "id": 137
+    },
+    {
+      "name": "шипков мармалад",
+      "qty": "3 с.л.",
+      "id": 89
+    },
+    {
+      "name": "захар",
+      "qty": "1 с.л.",
+      "id": 9
+    },
+    {
+      "name": "червен пипер",
+      "qty": "1 с.л.",
+      "id": 20
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "риган",
+      "qty": "1 щип.",
+      "id": 65
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

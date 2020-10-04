@@ -1,0 +1,126 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печена риба хек на фурна с портокалов сок и задушени картофи и тиквички под фолио",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pechen-hek-s-portokalov-sok-1-[980].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pechen-hek-s-portokalov-sok-1-[980].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pechen-hek-s-portokalov-sok-1-[980].jpg"
+    ],
+    "datePublished": "2011-07-29",
+    "cookTime": "PT0H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "696 calories",
+      "carbohydrateContent": "64 g",
+      "fatContent": "23 g",
+      "proteinContent": "57 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "17.3859475 g",
+      "cholesterolContent": "150 mg"
+    },
+    "recipeIngredient": [
+      "1 кг хек",
+      "1 ч.ч. портокалов сок",
+      "1/2 к.ч. лимонов сок",
+      "1/2 ч.л. сушен чесън",
+      "черен пипер",
+      "сол",
+      "3 с.л. зехтин",
+      "2 с.л. брашно",
+      "1 кг картофи",
+      "1 кг тиквички",
+      "сол",
+      "2 с.л. зехтин",
+      "3 стръка зелен лук"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Хекът (1 кг) се измива и подсушава. Соковете от портокал (1 ч.ч.) и лимон (1/2 к.ч.) се смесват с подправките и зехтина (3 с.л.). В тази марината рибата престоява на студено 2 часа. След това се отцежда, овалва леко в брашно (2 с.л.) и се изпича на фурна в намазнена тавичка."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Картофите (1 кг) се нарязват на колелца, нареждат се в намазнена тава. Посоляват се. Поръсват се със зехтин (2 с.л.). Заливат се с вода, колкото да ги покрие. Отгоре се слага готварско фолио и те се задушават на фурна до омекване. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Тиквичките (1 кг) се изпичат на тиган без мазнина. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Рибата се поднася топла с тиквичките и картофите, поръсени със ситно нарязан пресен зелен лук (3 стръка)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "хек",
+      "qty": "1 кг",
+      "id": 102
+    },
+    {
+      "name": "портокалов сок",
+      "qty": "1 ч.ч.",
+      "id": 177
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "1/2 к.ч.",
+      "id": 17
+    },
+    {
+      "name": "сушен чесън",
+      "qty": "1/2 ч.л.",
+      "id": 6
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "зехтин",
+      "qty": "3 с.л.",
+      "id": 10
+    },
+    {
+      "name": "брашно",
+      "qty": "2 с.л.",
+      "id": 7
+    },
+    {
+      "name": "картофи",
+      "qty": "1 кг",
+      "id": 16
+    },
+    {
+      "name": "тиквички",
+      "qty": "1 кг",
+      "id": 39
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "зехтин",
+      "qty": "2 с.л.",
+      "id": 10
+    },
+    {
+      "name": "зелен лук",
+      "qty": "3 стръка",
+      "id": 24
+    }
+  ]
+}

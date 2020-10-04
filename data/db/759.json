@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Баварски крем от желиран ванилов пудинг със сметана",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/bavarski-krem-1-[759].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/bavarski-krem-1-[759].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/bavarski-krem-1-[759].jpg"
+    ],
+    "datePublished": "2010-12-20",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "413 calories",
+      "carbohydrateContent": "34 g",
+      "fatContent": "27 g",
+      "proteinContent": "8 g",
+      "saturatedFatContent": "14 g",
+      "unsaturatedFatContent": "9.8370625 g",
+      "cholesterolContent": "245 mg"
+    },
+    "recipeIngredient": [
+      "1 опак. ванилов пудинг",
+      "1 ч.ч. прясно мляко",
+      "3  жълтъка",
+      "6 с.л. захар",
+      "10 г желатин",
+      "1 ч.ч. сметана"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пудингът (1 опак.) се сварява с прясното мляко (1 ч.ч.) и захарта (6 с.л.). Щом се охлади, към него се добавят жълтъците (3 бр) и сметаната (1 ч.ч.) и пак се разбива. Желатинът (10 г) се разтваря на водна баня и се прибавя към крема. Разбърква се добре. Кремът се разпределя в купички и се слага в хладилника да стегне. Поднася се декориран с шоколадови пръчици и сметана."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "ванилов пудинг",
+      "qty": "1 опак.",
+      "id": 234
+    },
+    {
+      "name": "прясно мляко",
+      "qty": "1 ч.ч.",
+      "id": 14
+    },
+    {
+      "name": "жълтъка",
+      "qty": "3",
+      "id": 33
+    },
+    {
+      "name": "захар",
+      "qty": "6 с.л.",
+      "id": 9
+    },
+    {
+      "name": "желатин",
+      "qty": "10 г",
+      "id": 124
+    },
+    {
+      "name": "сметана",
+      "qty": "1 ч.ч.",
+      "id": 19
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Постен печен боб и леща яхния с домати и моркови в тава на фурна - магията на мама",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/bob-s-leshta-na-furna-1-[1245].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/bob-s-leshta-na-furna-1-[1245].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/bob-s-leshta-na-furna-1-[1245].jpg"
+    ],
+    "datePublished": "2010-12-18",
+    "cookTime": "PT2H0M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "217 calories",
+      "carbohydrateContent": "36 g",
+      "fatContent": "2 g",
+      "proteinContent": "14 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.95210625 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1 ч.ч. боб",
+      "1 ч.ч. леща",
+      "2  моркова",
+      "400 г домати",
+      "2 с.л. олио",
+      "2 с.л. брашно",
+      "1 с.л. чубрица",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Морковите (2 бр) се нарязват на кубчета и се сваряват заедно с лещата (1 ч.ч.). Бобът (1 ч.ч.) също се сварява. Продуктите се подправят с чубрица (1 с.л.) и сол на вкус, разбъркват се и се поставят в тавичка. Заливат се с настърганите домати (400 г) и олиото (2 с.л.). Брашното (2 с.л.) се разтваря във вода и с него също се залива ястието. Необходимо е течността само да покрива продуктите. Ястието се пече до готовност (40-50 минути) в умерена фурна. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "боб",
+      "qty": "1 ч.ч.",
+      "id": 63
+    },
+    {
+      "name": "леща",
+      "qty": "1 ч.ч.",
+      "id": 106
+    },
+    {
+      "name": "моркова",
+      "qty": "2",
+      "id": 13
+    },
+    {
+      "name": "домати",
+      "qty": "400 г",
+      "id": 15
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    },
+    {
+      "name": "брашно",
+      "qty": "2 с.л.",
+      "id": 7
+    },
+    {
+      "name": "чубрица",
+      "qty": "1 с.л.",
+      "id": 36
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

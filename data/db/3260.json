@@ -1,0 +1,86 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Млечен патладжанов дип (пастет, разядка) с ядки кашу и цедено кисело мляко",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/mlechen-patladjanov-dip-s-iadki-kashu-i-cedeno-kiselo-mliako-1-[3260].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/mlechen-patladjanov-dip-s-iadki-kashu-i-cedeno-kiselo-mliako-1-[3260].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/mlechen-patladjanov-dip-s-iadki-kashu-i-cedeno-kiselo-mliako-1-[3260].jpg"
+    ],
+    "datePublished": "2017-10-05",
+    "cookTime": "PT0H45M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "163 calories",
+      "carbohydrateContent": "10 g",
+      "fatContent": "13 g",
+      "proteinContent": "2 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "8.3512333333333 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг патладжан",
+      "150 г цедено кисело мляко",
+      "50 г кашу",
+      "6 с.л. зехтин",
+      "1 ч.л. червен пипер",
+      "2 с.л. лимонов сок",
+      "1  скилидка чесън"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Патладжаните (1/2 кг) се разполовяват по дължина, намазват се с част от зехтина (6 с.л.) от вътрешната страна и се слагат в тавичка, покрита с хартия за печене, с кората нагоре. Надупчват се от горната страна и се пекат във фурна за 35-40 минути. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "С помощта на лъжица се издълбава вътрешността им от кората. Раздробява се и се смесва с цеденото кисело мляко (150 г), останалия зехтин (6 с.л.), лимоновият сок (2 с.л.), ядките кашу (50 г), счукания чесън (1 бр) и сол на вкус. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Всичко се поставя в блендер и се пасира до получаване на еднороден пастет. Разядката се поднася към сандвичи или печени филийки."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "патладжан",
+      "qty": "1/2 кг",
+      "id": 71
+    },
+    {
+      "name": "цедено кисело мляко",
+      "qty": "150 г",
+      "id": 163
+    },
+    {
+      "name": "кашу",
+      "qty": "50 г",
+      "id": 200
+    },
+    {
+      "name": "зехтин",
+      "qty": "6 с.л.",
+      "id": 10
+    },
+    {
+      "name": "червен пипер",
+      "qty": "1 ч.л.",
+      "id": 20
+    },
+    {
+      "name": "лимонов сок",
+      "qty": "2 с.л.",
+      "id": 17
+    },
+    {
+      "name": "скилидка чесън",
+      "qty": "1",
+      "id": 27
+    }
+  ]
+}

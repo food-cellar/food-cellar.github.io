@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Смути от банан, ананас и джинджифил",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/smuti-ot-banan-ananas-i-djindjifil-1-[3368].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/smuti-ot-banan-ananas-i-djindjifil-1-[3368].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/smuti-ot-banan-ananas-i-djindjifil-1-[3368].jpg"
+    ],
+    "datePublished": "2019-03-21",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Напитки",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "225 calories",
+      "carbohydrateContent": "46 g",
+      "fatContent": "4 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "1.35842 g",
+      "cholesterolContent": "13 mg"
+    },
+    "recipeIngredient": [
+      "1  банан",
+      "100 г ананас",
+      "10 г джинджифил",
+      "100 г кисело мляко",
+      "100 мл. вода"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Ананасът (100 г) се нарязва на кубчета, а джинджифилът (10 г) се настъргва. Всички продукти се смилат в блендер до гладкост. Слагат се няколко кубчета лед, ако напитката се предпочита студена."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "банан",
+      "qty": "1",
+      "id": 123
+    },
+    {
+      "name": "ананас",
+      "qty": "100 г",
+      "id": 146
+    },
+    {
+      "name": "джинджифил",
+      "qty": "10 г",
+      "id": 84
+    },
+    {
+      "name": "кисело мляко",
+      "qty": "100 г",
+      "id": 21
+    },
+    {
+      "name": "вода",
+      "qty": "100 мл.",
+      "id": 11
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печен свински джолан (цял, с кожа и кост) с тъмна бира и чесън на фурна по баварски",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pechen-svinski-djolan-na-furna-po-bavarski-1-[3122].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pechen-svinski-djolan-na-furna-po-bavarski-1-[3122].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pechen-svinski-djolan-na-furna-po-bavarski-1-[3122].jpg"
+    ],
+    "datePublished": "2016-12-04",
+    "cookTime": "PT3H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "837 calories",
+      "carbohydrateContent": "5 g",
+      "fatContent": "68 g",
+      "proteinContent": "40 g",
+      "saturatedFatContent": "25 g",
+      "unsaturatedFatContent": "35.754735 g",
+      "cholesterolContent": "202 mg"
+    },
+    "recipeIngredient": [
+      "1 кг свински джолан",
+      "40 г масло",
+      "2 скилидки чесън",
+      "1/2 л. тъмна бира"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "За направата на тази баварска рецепта, свинският джолан (1 кг) се изважда от опаковката и се оставя в хладилника открито за през нощта."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Поставя се в тава и леко се намазва с масло. Поръсва се със сол и пипер от всички страни. За по добър вкус може да се натрие и с разрязани скилидки чесън."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "В тавата се сипва малко тъмна бира и се пече няколко часа на тих огън, докато кожата започне да става хрупкава и златиста."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Фурната се усилва и се пече до пълна готовност, като облива с бира на всеки 15-20 минути."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "свински джолан",
+      "qty": "1 кг",
+      "id": 67
+    },
+    {
+      "name": "масло",
+      "qty": "40 г",
+      "id": 8
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "тъмна бира",
+      "qty": "1/2 л.",
+      "id": 137
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Коротоз - предястие с извара",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/korotoz_2-[328].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/korotoz_2-[328].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/korotoz_2-[328].jpg"
+    ],
+    "datePublished": "2010-11-24",
+    "cookTime": "PT0H5M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "291 calories",
+      "carbohydrateContent": "10 g",
+      "fatContent": "22 g",
+      "proteinContent": "14 g",
+      "saturatedFatContent": "13 g",
+      "unsaturatedFatContent": "7.65335 g",
+      "cholesterolContent": "59 mg"
+    },
+    "recipeIngredient": [
+      "400 г извара",
+      "6 с.л. червен пипер",
+      "1 глава лук",
+      "100 г масло",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Лукът (1 глава) се настъргва на ситното ренде и се смесва със солта, паприката (6 с.л.), размекналото се масло (100 г) и изварата (400 г). Всичко това се разбива в пасатора до еднородна смес. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Коротоз е любимият ордьовър на унгарците. Най-често се консумира намазан обилно върху филийки бял хляб. Най-добре е те да са препечени. Но може да се поднесе и като гарнитура към печена или пържена риба или птиче месо. Сервира се и самостоятелно като ордьовър. Това ястие има и вариации. Например лукът в него може да се замести със счукан чесън. За аромат може да му се добави и малко кимион, както и щипка босилек. Отиват му и ситно нарязан пресен магданоз, както и ситно нарязан пресен копър."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "извара",
+      "qty": "400 г",
+      "id": 92
+    },
+    {
+      "name": "червен пипер",
+      "qty": "6 с.л.",
+      "id": 20
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "масло",
+      "qty": "100 г",
+      "id": 8
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

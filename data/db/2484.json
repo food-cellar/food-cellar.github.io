@@ -1,0 +1,106 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пържени италиански кюфтета с телешка кайма, сушени домати и сирене пармезан в бял сос от вино",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/italianski-kufteta-v-bial-sos-2-[2484].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/italianski-kufteta-v-bial-sos-2-[2484].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/italianski-kufteta-v-bial-sos-2-[2484].jpg"
+    ],
+    "datePublished": "2013-04-23",
+    "cookTime": "PT1H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "586 calories",
+      "carbohydrateContent": "16 g",
+      "fatContent": "29 g",
+      "proteinContent": "45 g",
+      "saturatedFatContent": "13 g",
+      "unsaturatedFatContent": "13.7221625 g",
+      "cholesterolContent": "183 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг телешка кайма",
+      "1  яйце",
+      "8  сушени домати",
+      "200 г пармезан",
+      "1 връзка магданоз",
+      "сол",
+      "4 с.л. брашно",
+      "пипер",
+      "2 скилидки чесън",
+      "4 с.л. зехтин",
+      "400 мл. бяло вино"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "В купа се смесват телешката кайма (1/2 кг), яйцето (1 бр), нарязаните на ситно сушени домати (8 бр) пармезанът (200 г) и магданозът (1 връзка). Сместа се овкусява със сол и пипер. Оформят се малки кюфтенца и се овалват в брашно."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "В дълбока тенджера се запържва пресованият чесън (2 скилидки). Добавят се кюфтенцата и се запържват от всички страни. Заливат се с бялото вино (400 мл.) и котлонът се намалява. Готви се, докато виното се изпари на половина."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "телешка кайма",
+      "qty": "1/2 кг",
+      "id": 134
+    },
+    {
+      "name": "яйце",
+      "qty": "1",
+      "id": 5
+    },
+    {
+      "name": "сушени домати",
+      "qty": "8",
+      "id": 121
+    },
+    {
+      "name": "пармезан",
+      "qty": "200 г",
+      "id": 59
+    },
+    {
+      "name": "магданоз",
+      "qty": "1 връзка",
+      "id": 12
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "брашно",
+      "qty": "4 с.л.",
+      "id": 7
+    },
+    {
+      "name": "пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "бяло вино",
+      "qty": "400 мл.",
+      "id": 41
+    }
+  ]
+}

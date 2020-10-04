@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пълнени печени цели картофи с гъби кралска печурка, пресен лук и бекон на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pecheni-kartofi-s-kralska-pechurka-i-bekon-2-[2989].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pecheni-kartofi-s-kralska-pechurka-i-bekon-2-[2989].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pecheni-kartofi-s-kralska-pechurka-i-bekon-2-[2989].jpg"
+    ],
+    "datePublished": "2014-10-31",
+    "cookTime": "PT1H0M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "542 calories",
+      "carbohydrateContent": "68 g",
+      "fatContent": "24 g",
+      "proteinContent": "14 g",
+      "saturatedFatContent": "9 g",
+      "unsaturatedFatContent": "12.815375 g",
+      "cholesterolContent": "30 mg"
+    },
+    "recipeIngredient": [
+      "1 1/2 кг картофи",
+      "150 г кралски печурки",
+      "150 г бекон",
+      "2 стръка зелен лук",
+      "2 стръка розмарин",
+      "черен пипер",
+      "сол",
+      "30 г пармезан"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Картофите (1 1/2 кг) се измиват много старателно и се поставят в намаслена тава цели и без да се белят. Поръсват се със сол и се пекат в силна фурна до пълна готовност. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "През това време беконът (150 г) и кралските печурки (150 г) се нарязват на дребно и се изпичат в сух тиган до готовност."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Щом картофите са готови, се разрязват на четири, но без да се разполовяват. В сърцевината им се разпределя плънката от гъби и месо, добавя се ситно нарязан пресен лук, поръсва се със сол и черен пипер и накрая се посипва настърган пармезан."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Ястието се сервира горещо и по желание се поднася с връхчета пресен розмарин. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "картофи",
+      "qty": "1 1/2 кг",
+      "id": 16
+    },
+    {
+      "name": "кралски печурки",
+      "qty": "150 г",
+      "id": 62
+    },
+    {
+      "name": "бекон",
+      "qty": "150 г",
+      "id": 88
+    },
+    {
+      "name": "зелен лук",
+      "qty": "2 стръка",
+      "id": 24
+    },
+    {
+      "name": "розмарин",
+      "qty": "2 стръка",
+      "id": 77
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "пармезан",
+      "qty": "30 г",
+      "id": 59
+    }
+  ]
+}

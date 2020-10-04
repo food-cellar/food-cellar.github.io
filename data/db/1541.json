@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата с домати и тофу",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata-s-domati-i-tofu-1-[1541].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata-s-domati-i-tofu-1-[1541].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata-s-domati-i-tofu-1-[1541].jpg"
+    ],
+    "datePublished": "2011-07-17",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "253 calories",
+      "carbohydrateContent": "17 g",
+      "fatContent": "17 g",
+      "proteinContent": "11 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "12.79713 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "1  домат",
+      "80 г тофу",
+      "1  червена чушка",
+      "2 стръка магданоз",
+      "1 с.л. зехтин",
+      "1 с.л. кедрови ядки",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Доматът (1 бр) се измива и нарязва на колелца, които се подреждат в порционна чиния. Сиренето тофу (80 г) се поставя в блендер заедно с измития магданоз (2 стръка) и почистената от дръжката и семките червена чушка (1 бр). Пасират се на най-ниската степен, за да не станат на каша, а само да се раздробят. Доматите се посоляват и се поливат с малко зехтин (1 с.л.). Върху тях се разпределя плънката от тофу. Салатата се поръсва с кедрови ядки (1 с.л.) и се поднася.   "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "домат",
+      "qty": "1",
+      "id": 15
+    },
+    {
+      "name": "тофу",
+      "qty": "80 г",
+      "id": 257
+    },
+    {
+      "name": "червена чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "магданоз",
+      "qty": "2 стръка",
+      "id": 12
+    },
+    {
+      "name": "зехтин",
+      "qty": "1 с.л.",
+      "id": 10
+    },
+    {
+      "name": "кедрови ядки",
+      "qty": "1 с.л.",
+      "id": 125
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

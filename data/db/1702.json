@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Селска салата с печени чушки, гъби печурки и краставици",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/selska-salata-1-[1702].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/selska-salata-1-[1702].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/selska-salata-1-[1702].jpg"
+    ],
+    "datePublished": "2011-10-25",
+    "cookTime": "PT0H10M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "118 calories",
+      "carbohydrateContent": "20 g",
+      "fatContent": "3 g",
+      "proteinContent": "3 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "2.553535 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "4  печени чушки",
+      "1  краставица",
+      "1  печурка",
+      "1/2 връзка магданоз",
+      "1 щип. сол",
+      "1 с.л. оцет",
+      "1 с.л. олио"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Печените чушки (4 бр) се нарязват на ситно. Обелва се краставицата (1 бр), нарязва се на едри кубчета и се добавя към чушките. Салатата се овкусява с накълцан магданоз (1/2 връзка), сол, оцет и олио на вкус. Сервира се, украсена с тънки резенчета сурова печурка (1 бр)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "печени чушки",
+      "qty": "4",
+      "id": 18
+    },
+    {
+      "name": "краставица",
+      "qty": "1",
+      "id": 44
+    },
+    {
+      "name": "печурка",
+      "qty": "1",
+      "id": 62
+    },
+    {
+      "name": "магданоз",
+      "qty": "1/2 връзка",
+      "id": 12
+    },
+    {
+      "name": "сол",
+      "qty": "1 щип.",
+      "id": 1
+    },
+    {
+      "name": "оцет",
+      "qty": "1 с.л.",
+      "id": 61
+    },
+    {
+      "name": "олио",
+      "qty": "1 с.л.",
+      "id": 4
+    }
+  ]
+}

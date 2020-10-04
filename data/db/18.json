@@ -1,0 +1,110 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Постни сарми от тиквички с извара, сметана и сирене",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/sarmi-ot-tikvichki-3-[18].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/sarmi-ot-tikvichki-3-[18].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/sarmi-ot-tikvichki-3-[18].jpg"
+    ],
+    "datePublished": "2010-12-13",
+    "cookTime": "PT0H45M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "228 calories",
+      "carbohydrateContent": "10 g",
+      "fatContent": "17 g",
+      "proteinContent": "9 g",
+      "saturatedFatContent": "6 g",
+      "unsaturatedFatContent": "8.47762 g",
+      "cholesterolContent": "31 mg"
+    },
+    "recipeIngredient": [
+      "3  тиквички",
+      "150 г извара",
+      "150 г сирене",
+      "100 г заквасена сметана",
+      "чесън на прах",
+      "копър",
+      "магданоз",
+      "сол",
+      "2 с.л. галета",
+      "50 мл. олио",
+      "1 лист червена маруля"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Тиквичките (3 бр) се нарязват по дължина на много тънки филийки и се пържат в горещото олио от двете страни до омекване."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Сиренето (150 г) се натрошава, смесва се с изварата (150 г), сметаната (100 г), ситно нарязаните подправки и чесънът на прах."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "От всеки три филийки тиквички и пълнежа се оформя “сарма”. От останалия пълнеж се правят за гарнитура топчета, които се овалват в галета или се оставят бели."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "тиквички",
+      "qty": "3",
+      "id": 39
+    },
+    {
+      "name": "извара",
+      "qty": "150 г",
+      "id": 92
+    },
+    {
+      "name": "сирене",
+      "qty": "150 г",
+      "id": 32
+    },
+    {
+      "name": "заквасена сметана",
+      "qty": "100 г",
+      "id": 73
+    },
+    {
+      "name": "чесън на прах",
+      "qty": "Parsing error",
+      "id": 6
+    },
+    {
+      "name": "копър",
+      "qty": "Parsing error",
+      "id": 28
+    },
+    {
+      "name": "магданоз",
+      "qty": "Parsing error",
+      "id": 12
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "галета",
+      "qty": "2 с.л.",
+      "id": 58
+    },
+    {
+      "name": "олио",
+      "qty": "50 мл.",
+      "id": 4
+    },
+    {
+      "name": "червена маруля",
+      "qty": "1 лист",
+      "id": 176
+    }
+  ]
+}

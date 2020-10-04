@@ -1,0 +1,104 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Бял ориз с хапки от пилешко месо, ананас и червени камби по китайски (азиатски)",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/oriz-s-pileshko-meso-ananas-i-cherveni-kambi-1-[2813].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/oriz-s-pileshko-meso-ananas-i-cherveni-kambi-1-[2813].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/oriz-s-pileshko-meso-ananas-i-cherveni-kambi-1-[2813].jpg"
+    ],
+    "datePublished": "2014-02-23",
+    "cookTime": "PT1H0M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "428 calories",
+      "carbohydrateContent": "60 g",
+      "fatContent": "4 g",
+      "proteinContent": "31 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "2.2171216666667 g",
+      "cholesterolContent": "87 mg"
+    },
+    "recipeIngredient": [
+      "1 1/2 ч.ч. ориз",
+      "800 г пилешко месо",
+      "800 г ананас",
+      "2  червени камби",
+      "50 мл. соев сос",
+      "4 1/2  вода",
+      "1 ч.л. черен пипер",
+      "сол",
+      "4 с.л. мед",
+      "150 мл. бяло вино"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилешкото месо (800 г) се нарязва на хапки и се изпържва в сгорещената мазнина до покафеняване, след което се прибавят едро нарязаните камби (2 бр) и се пържат, докато леко омекнат."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Добавя се ананасът от консерва (800 г), заедно с течността от консервата. Плодът е нарязан на парчета с големина на пилешките хапки. Налива се виното (150 мл.), а също и соевият сос (50 мл.) и течният мед (4 с.л.). Слагат се всички останали продукти, без ориза. Ястието ври на тих огън под капак до пълната готовност на месото, като от време на време се разбърква."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Сервира се върху канапе от сварен ориз."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "ориз",
+      "qty": "1 1/2 ч.ч.",
+      "id": 22
+    },
+    {
+      "name": "пилешко месо",
+      "qty": "800 г",
+      "id": 49
+    },
+    {
+      "name": "ананас",
+      "qty": "800 г",
+      "id": 146
+    },
+    {
+      "name": "червени камби",
+      "qty": "2",
+      "id": 18
+    },
+    {
+      "name": "соев сос",
+      "qty": "50 мл.",
+      "id": 53
+    },
+    {
+      "name": "вода",
+      "qty": "4 1/2",
+      "id": 11
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "мед",
+      "qty": "4 с.л.",
+      "id": 38
+    },
+    {
+      "name": "бяло вино",
+      "qty": "150 мл.",
+      "id": 41
+    }
+  ]
+}

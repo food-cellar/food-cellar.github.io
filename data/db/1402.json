@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Талятели с маслинова паста и пармезан",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/taliateli-s-maslinova-pasta-2-[1402].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/taliateli-s-maslinova-pasta-2-[1402].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/taliateli-s-maslinova-pasta-2-[1402].jpg"
+    ],
+    "datePublished": "2017-03-20",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "474 calories",
+      "carbohydrateContent": "81 g",
+      "fatContent": "7 g",
+      "proteinContent": "18 g",
+      "saturatedFatContent": "4 g",
+      "unsaturatedFatContent": "1.90495 g",
+      "cholesterolContent": "16 mg"
+    },
+    "recipeIngredient": [
+      "400 г талятели",
+      "2  зелени чушки",
+      "2 с.л. маслинова паста",
+      "1 глава лук",
+      "2 скилидки чесън",
+      "50 г пармезан",
+      "1 с.л. масло",
+      "черен пипер",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Талятелите (400 г) се пускат във вряща подсолена вода и се сваряват за няколко минути, според указанията на опаковката. Изваждат се, отцеждат се и се измиват със студена вода. В дълбок тиган се задушават в масло (1 с.л.) до омекване нарязаните на тънки ивици зелени чушки (2 бр), лук (1 глава) и счукан чесън (2 скилидки). Щом зеленчуците омекнат, се добавят талятелите и маслиновата паста (2 с.л.) и ястието се разбърква много добре. Подправя се със сол и черен пипер на вкус. Талятелите се сервират топли, поръсени с настърган пармезан (50 г). "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "талятели",
+      "qty": "400 г",
+      "id": 55
+    },
+    {
+      "name": "зелени чушки",
+      "qty": "2",
+      "id": 18
+    },
+    {
+      "name": "маслинова паста",
+      "qty": "2 с.л.",
+      "id": 27
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "пармезан",
+      "qty": "50 г",
+      "id": 59
+    },
+    {
+      "name": "масло",
+      "qty": "1 с.л.",
+      "id": 8
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

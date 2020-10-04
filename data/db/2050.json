@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Лесен крем с извара, маскарпоне и боровинки",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/lesen-krem-s-izvara-maskarpone-i-borovinki-1-[2050].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/lesen-krem-s-izvara-maskarpone-i-borovinki-1-[2050].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/lesen-krem-s-izvara-maskarpone-i-borovinki-1-[2050].jpg"
+    ],
+    "datePublished": "2012-08-14",
+    "cookTime": "PT0H10M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "222 calories",
+      "carbohydrateContent": "10 g",
+      "fatContent": "17 g",
+      "proteinContent": "6 g",
+      "saturatedFatContent": "10 g",
+      "unsaturatedFatContent": "5.7010831707317 g",
+      "cholesterolContent": "65 mg"
+    },
+    "recipeIngredient": [
+      "8 с.л. извара",
+      "8 с.л. маскарпоне",
+      "8 с.л. кондензирано мляко",
+      "1 щип. ванилия",
+      "150 г боровинки",
+      "4 връхчета мента"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Изварата (8 с.л.), маскарпонето (8 с.л.), гъстото подсладено кондензирано мляко (8 с.л.) и ванилията (1 щип.) се разбиват до получаването на гладък крем. В десертни купички се изсипва част от боровинките, заливат се с крема и отново се поръсват пресни плодове. Десертът може да се поръси с пудра захар по желание и да се декорира с връхче свежа мента. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "извара",
+      "qty": "8 с.л.",
+      "id": 92
+    },
+    {
+      "name": "маскарпоне",
+      "qty": "8 с.л.",
+      "id": 115
+    },
+    {
+      "name": "кондензирано мляко",
+      "qty": "8 с.л.",
+      "id": 174
+    },
+    {
+      "name": "ванилия",
+      "qty": "1 щип.",
+      "id": 23
+    },
+    {
+      "name": "боровинки",
+      "qty": "150 г",
+      "id": 184
+    },
+    {
+      "name": "мента",
+      "qty": "4 връхчета",
+      "id": 90
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Салата от рулца от раци, грах, царевица, яйца, сирене моцарела и майонеза",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/salata_na_gosti_pri_raka_2-[489].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/salata_na_gosti_pri_raka_2-[489].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/salata_na_gosti_pri_raka_2-[489].jpg"
+    ],
+    "datePublished": "2010-10-07",
+    "cookTime": "PT0H10M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Салати",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "474 calories",
+      "carbohydrateContent": "34 g",
+      "fatContent": "22 g",
+      "proteinContent": "36 g",
+      "saturatedFatContent": "8 g",
+      "unsaturatedFatContent": "10.81991 g",
+      "cholesterolContent": "256 mg"
+    },
+    "recipeIngredient": [
+      "200 г рулца от раци",
+      "150 г царевица",
+      "2  яйца",
+      "2 с.л. майонеза",
+      "100 г моцарела",
+      "100 г грах",
+      "100 г зелен лук"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Рулцата от раци (200 г) се нарязват на кубчета и се смесват с варената царевица (150 г), граха (100 г), ситно нарязания зелен лук (100 г) и нарязаните на кубчета сварени яйца (2 бр). Прибавя се майонезата (2 с.л.) и всичко се разбърква. Слага се в порционни чинии като “хълм” и се поръсва с настъргана моцарела (100 г)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "рулца от раци",
+      "qty": "200 г",
+      "id": 198
+    },
+    {
+      "name": "царевица",
+      "qty": "150 г",
+      "id": 78
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "майонеза",
+      "qty": "2 с.л.",
+      "id": 80
+    },
+    {
+      "name": "моцарела",
+      "qty": "100 г",
+      "id": 93
+    },
+    {
+      "name": "грах",
+      "qty": "100 г",
+      "id": 68
+    },
+    {
+      "name": "зелен лук",
+      "qty": "100 г",
+      "id": 24
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Зелеви сарми пълни само със свинско месо печени на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/svinsko-v-zele-1-[337].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/svinsko-v-zele-1-[337].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/svinsko-v-zele-1-[337].jpg"
+    ],
+    "datePublished": "2010-11-09",
+    "cookTime": "PT0H50M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "511 calories",
+      "carbohydrateContent": "5 g",
+      "fatContent": "43 g",
+      "proteinContent": "24 g",
+      "saturatedFatContent": "16 g",
+      "unsaturatedFatContent": "23.11223 g",
+      "cholesterolContent": "211 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг свинско месо",
+      "8 листа зеле",
+      "10 скилидки чесън",
+      "черен пипер",
+      "100 мл. сметана",
+      "2  яйца",
+      "2 с.л. олио",
+      "сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Свинскто месо (1/2 кг) се посолява и изпържва в сгорещено олио. Всяко парче се увива в попарен зелев лист, като се поръсва с черен пипер и счукан със сол чесън. Така получените сарми се нареждат в тава. Налива се малко топла вода и ястието се пече да готовност. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Яйцата (2 бр) и сметаната (100 мл.) се разбиват. С тази смес се намазват сармите и се допичат, докато получат златист цвят."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "свинско месо",
+      "qty": "1/2 кг",
+      "id": 67
+    },
+    {
+      "name": "зеле",
+      "qty": "8 листа",
+      "id": 94
+    },
+    {
+      "name": "чесън",
+      "qty": "10 скилидки",
+      "id": 6
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сметана",
+      "qty": "100 мл.",
+      "id": 19
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    }
+  ]
+}

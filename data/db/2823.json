@@ -1,0 +1,92 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пържени пилешки хапки от гърди със зеленчуци (тиквички, моркови, червени чушки и гъби) в соев сос на тиган",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/pileshko-meso-sus-zelenchuci-i-soev-sos-na-tigan-1-[2823].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/pileshko-meso-sus-zelenchuci-i-soev-sos-na-tigan-1-[2823].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/pileshko-meso-sus-zelenchuci-i-soev-sos-na-tigan-1-[2823].jpg"
+    ],
+    "datePublished": "2014-02-24",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "244 calories",
+      "carbohydrateContent": "9 g",
+      "fatContent": "6 g",
+      "proteinContent": "37 g",
+      "saturatedFatContent": "1 g",
+      "unsaturatedFatContent": "4.0143525 g",
+      "cholesterolContent": "87 mg"
+    },
+    "recipeIngredient": [
+      "600 г пилешки гърди",
+      "1  тиквичка",
+      "1  морков",
+      "8  гъби",
+      "1  червена чушка",
+      "1  жълта чушка",
+      "6 с.л. соев сос",
+      "2 с.л. олио"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилешките гърди се начукват и нарязват на хапки. Слагат се в дълбок тиган с капак заедно с олиото и се задушават, докато променят цвета си. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "След това към месото се добавят нарязаните зеленчуци и се задушават до омекване. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Накрая се добавя соевият сос и ястието се готви без капак за 5 минути. сервира се горещо и по желание се поръсва с черен пипер и ситно накълцан магданоз.  "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешки гърди",
+      "qty": "600 г",
+      "id": 79
+    },
+    {
+      "name": "тиквичка",
+      "qty": "1",
+      "id": 39
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "гъби",
+      "qty": "8",
+      "id": 37
+    },
+    {
+      "name": "червена чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "жълта чушка",
+      "qty": "1",
+      "id": 18
+    },
+    {
+      "name": "соев сос",
+      "qty": "6 с.л.",
+      "id": 53
+    },
+    {
+      "name": "олио",
+      "qty": "2 с.л.",
+      "id": 4
+    }
+  ]
+}

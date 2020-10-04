@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Коктейл Бакарди Касис",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/kokteil-bakardi-kasis-1-[1623].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/kokteil-bakardi-kasis-1-[1623].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/kokteil-bakardi-kasis-1-[1623].jpg"
+    ],
+    "datePublished": "2013-02-17",
+    "cookTime": "PT0H5M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Коктейли",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "248 calories",
+      "carbohydrateContent": "21 g",
+      "fatContent": "0 g",
+      "proteinContent": "1 g",
+      "saturatedFatContent": "0 g",
+      "unsaturatedFatContent": "0.036111764705882 g",
+      "cholesterolContent": "0 mg"
+    },
+    "recipeIngredient": [
+      "60 мл. бял ром Бакарди",
+      "15 мл. трипъл сек",
+      "100 мл. сок от касис",
+      "1 резен портокал",
+      "1  коктейлна черешка"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Ромът (60 мл.), ликьорът трипъл сек (15 мл.) и сокът от касис (100 мл.) се разбиват в шейкър. Коктейлът се изсипва във висока чаша. Украсява се с резен портокал и коктейлна черешка."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "бял ром Бакарди",
+      "qty": "60 мл.",
+      "id": 74
+    },
+    {
+      "name": "трипъл сек",
+      "qty": "15 мл.",
+      "id": 209
+    },
+    {
+      "name": "сок от касис",
+      "qty": "100 мл.",
+      "id": 27
+    },
+    {
+      "name": "портокал",
+      "qty": "1 резен",
+      "id": 122
+    },
+    {
+      "name": "коктейлна черешка",
+      "qty": "1",
+      "id": 126
+    }
+  ]
+}

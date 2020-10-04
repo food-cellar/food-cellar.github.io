@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Солен кекс с босилеково песто, шунка и сушени домати",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/solen-keks-s-bosilek-shunka-i-susheni-domati-3-[2116].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/solen-keks-s-bosilek-shunka-i-susheni-domati-3-[2116].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/solen-keks-s-bosilek-shunka-i-susheni-domati-3-[2116].jpg"
+    ],
+    "datePublished": "2012-10-08",
+    "cookTime": "PT1H0M",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "345 calories",
+      "carbohydrateContent": "47 g",
+      "fatContent": "11 g",
+      "proteinContent": "12 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "7.402275 g",
+      "cholesterolContent": "106 mg"
+    },
+    "recipeIngredient": [
+      "4  яйца",
+      "200 г кисело мляко",
+      "400 г брашно",
+      "1/2 ч.л. бакпулвер",
+      "1/2 връзка босилек",
+      "50 мл. зехтин",
+      "4 скилидки чесън",
+      "100 г сушени домати",
+      "100 г шунка"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Яйцата (4 бр) се разбиват, заедно с киселото мляко (200 г), предварително разбъркано с бакпулвера (1/2 ч.л.). Прибавят се брашното (400 г) и босилековото песто, приготвено от пасираните босилек (1/2 връзка), зехтин (50 мл.) и белен чесън (4 скилидки). Накрая се добавят нарязаните на малки кубчета шунка (100 г) и нарязаните на ситно мариновани сушени домати (100 г). Разбърква се. Полученото тесто се изсипва в намазнена тава и се пече на фурна до готовност (около 45 минути при 180 градуса)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "яйца",
+      "qty": "4",
+      "id": 5
+    },
+    {
+      "name": "кисело мляко",
+      "qty": "200 г",
+      "id": 21
+    },
+    {
+      "name": "брашно",
+      "qty": "400 г",
+      "id": 7
+    },
+    {
+      "name": "бакпулвер",
+      "qty": "1/2 ч.л.",
+      "id": 29
+    },
+    {
+      "name": "босилек",
+      "qty": "1/2 връзка",
+      "id": 25
+    },
+    {
+      "name": "зехтин",
+      "qty": "50 мл.",
+      "id": 10
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "сушени домати",
+      "qty": "100 г",
+      "id": 121
+    },
+    {
+      "name": "шунка",
+      "qty": "100 г",
+      "id": 76
+    }
+  ]
+}

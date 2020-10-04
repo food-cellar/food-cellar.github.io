@@ -1,0 +1,102 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печен бахур на фурна с кисело зеле",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/bahur-na-furna-s-kiselo-zele-1-[3046].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/bahur-na-furna-s-kiselo-zele-1-[3046].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/bahur-na-furna-s-kiselo-zele-1-[3046].jpg"
+    ],
+    "datePublished": "2015-01-28",
+    "cookTime": "PT1H20M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "452 calories",
+      "carbohydrateContent": "19 g",
+      "fatContent": "36 g",
+      "proteinContent": "15 g",
+      "saturatedFatContent": "6 g",
+      "unsaturatedFatContent": "26.5768 g",
+      "cholesterolContent": "35 mg"
+    },
+    "recipeIngredient": [
+      "1 кг кисело зеле",
+      "300 г бахур",
+      "1 глава лук",
+      "100 мл. олио",
+      "1 ч.л. захар",
+      "1 ч.л. чубрица",
+      "1 ч.л. червен пипер",
+      "1 ч.л. черен пипер",
+      "1 с.л. сол"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "В загрятото в дълбока тенджера олио (100 мл.) се задушава ситно нарязаният лук (1 глава). Щом омекне, към него се добавя ситно нарязаното кисело зеле (1 кг), разбърква се добре и се захлупва с капак. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Щом стане съвсем крехко, се овкусява с всички подправки и се прехвърля в тава. Поставя се в тава, за да се пече около 30-40 минути. Пече се с фолио, за да не загори отгоре. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "По средата на печенето фолиото се отстранява и върху зелето се поставя готовият бахур. Ястието се допича и се сервира горещо."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Ако не искате да използвате готов продукт, пригответе <a href=http://www.1001recepti.com/recipe/?recipe_id=3045-domashen-bahur-klasicheska-recepta>Домашен бахур</a>."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "кисело зеле",
+      "qty": "1 кг",
+      "id": 94
+    },
+    {
+      "name": "бахур",
+      "qty": "300 г",
+      "id": 148
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "олио",
+      "qty": "100 мл.",
+      "id": 4
+    },
+    {
+      "name": "захар",
+      "qty": "1 ч.л.",
+      "id": 9
+    },
+    {
+      "name": "чубрица",
+      "qty": "1 ч.л.",
+      "id": 36
+    },
+    {
+      "name": "червен пипер",
+      "qty": "1 ч.л.",
+      "id": 20
+    },
+    {
+      "name": "черен пипер",
+      "qty": "1 ч.л.",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "1 с.л.",
+      "id": 1
+    }
+  ]
+}

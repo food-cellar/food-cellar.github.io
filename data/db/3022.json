@@ -1,0 +1,64 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Ръжени крекери със сирене Крема, пушена сьомга и лимонова трева",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/rujeni-krekeri-sus-sirene-krema-pushena-sioomga-i-limonova-treva-1-[3022].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/rujeni-krekeri-sus-sirene-krema-pushena-sioomga-i-limonova-treva-1-[3022].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/rujeni-krekeri-sus-sirene-krema-pushena-sioomga-i-limonova-treva-1-[3022].jpg"
+    ],
+    "datePublished": "2014-12-12",
+    "cookTime": "PT0H5M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Предястия",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "251 calories",
+      "carbohydrateContent": "16 g",
+      "fatContent": "14 g",
+      "proteinContent": "14 g",
+      "saturatedFatContent": "7 g",
+      "unsaturatedFatContent": "5.10415 g",
+      "cholesterolContent": "48 mg"
+    },
+    "recipeIngredient": [
+      "150 г ръжени крекери",
+      "200 г сирене Крема",
+      "300 г пушена сьомга",
+      "2 стръка лимонова трева"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Ръжените крекери са готов продукт, който можете да намерите в <a href=http://www.ikea.bg/ikea-hrani/ikea-magazin-za-shvedska-hrana/>ИКЕА магазин за шведска храна</a>. Те са чудесен избор за вкусно и интересно предястие, което да приготвите за няколко минути и да зарадвате вашите гости."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Ръжените крекери се намазват със сирене Крема, върху него се поставя парче пушена сьомга и за декорация се използва пресен стрък лимонова трева, копър или зелен лук. Сервират се веднага."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "ръжени крекери",
+      "qty": "150 г",
+      "id": 66
+    },
+    {
+      "name": "сирене Крема",
+      "qty": "200 г",
+      "id": 103
+    },
+    {
+      "name": "пушена сьомга",
+      "qty": "300 г",
+      "id": 215
+    },
+    {
+      "name": "лимонова трева",
+      "qty": "2 стръка",
+      "id": 3
+    }
+  ]
+}

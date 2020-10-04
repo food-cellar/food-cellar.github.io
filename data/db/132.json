@@ -1,0 +1,108 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Крем супа от червена леща, картофи, моркови и зелен фасул",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/krem-supa-ot-leshta-i-oshte-neshto-1-[132].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/krem-supa-ot-leshta-i-oshte-neshto-1-[132].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/krem-supa-ot-leshta-i-oshte-neshto-1-[132].jpg"
+    ],
+    "datePublished": "2010-11-17",
+    "cookTime": "PT0H40M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Супи",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "340 calories",
+      "carbohydrateContent": "47 g",
+      "fatContent": "9 g",
+      "proteinContent": "18 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "6.86477 g",
+      "cholesterolContent": "7 mg"
+    },
+    "recipeIngredient": [
+      "1 ч.ч. червена леща",
+      "1 ч.ч. зелен фасул",
+      "1 глава лук",
+      "4 скилидки чесън",
+      "1  морков",
+      "1  картоф",
+      "30 г сирене",
+      "сол",
+      "черен пипер",
+      "30 г печени белени тиквени семки",
+      "30 г сусам",
+      "олио"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Лещата (1 ч.ч.), обелената глава лук (1 глава), обелените и нарязани на малки парченца картофи (1 бр) и моркови (1 бр), скилидките чесън (4 скилидки) се заливат с вода, посоляват се и се сваряват. Тази смес се пюрира. В нея се добавят олиото, свареният зелен фасул (1 ч.ч.) и мекото сирене (30 г). Супата ври, докато сиренето се разтопи. Поднася се гореща, гарнирана с тиквени семки (30 г) и сусамови зрънца (30 г)."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "червена леща",
+      "qty": "1 ч.ч.",
+      "id": 151
+    },
+    {
+      "name": "зелен фасул",
+      "qty": "1 ч.ч.",
+      "id": 99
+    },
+    {
+      "name": "лук",
+      "qty": "1 глава",
+      "id": 3
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "морков",
+      "qty": "1",
+      "id": 13
+    },
+    {
+      "name": "картоф",
+      "qty": "1",
+      "id": 16
+    },
+    {
+      "name": "сирене",
+      "qty": "30 г",
+      "id": 32
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "печени белени тиквени семки",
+      "qty": "30 г",
+      "id": 189
+    },
+    {
+      "name": "сусам",
+      "qty": "30 г",
+      "id": 113
+    },
+    {
+      "name": "олио",
+      "qty": "Parsing error",
+      "id": 4
+    }
+  ]
+}

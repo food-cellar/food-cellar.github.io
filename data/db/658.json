@@ -1,0 +1,90 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Кейк с яйчен ликьор",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/keik-s-iaichen-likioor-4-[658].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/keik-s-iaichen-likioor-4-[658].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/keik-s-iaichen-likioor-4-[658].jpg"
+    ],
+    "datePublished": "2010-11-28",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Десерти",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "415 calories",
+      "carbohydrateContent": "53 g",
+      "fatContent": "18 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "2 g",
+      "unsaturatedFatContent": "14.74148 g",
+      "cholesterolContent": "94 mg"
+    },
+    "recipeIngredient": [
+      "2  яйца",
+      "70 г захар",
+      "70 мл. олио",
+      "40 мл. яйчен ликьор",
+      "110 г брашно",
+      "1 опак. ванилова захар",
+      "1 ч.л. сода за хляб",
+      "3 с.л. мед",
+      "1 с.л. пудра захар"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Яйцата (2 бр), захарта (70 г) и ваниловата захар (1 опак.) се разбиват с миксер. След това към тях внимателно се добавят олиото (70 мл.) и яйченият ликьор (40 мл.). Сместа се разбива отново. Брашното (110 г) и содата за хляб (1 ч.л.) се смесват и също се изсипват в сместа. Разбива се още веднъж до получаването на хомогенна смес. Изсипва се във форма за кейк и се пече на 170 градуса за 25 мин. Кейкът се изважда се от формата и повърхността му се намазва с мед (3 с.л.). Поставя се в тавичка и се запича за още 5 минути. Поднася се охладен и поръсен с пудра захар."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "захар",
+      "qty": "70 г",
+      "id": 9
+    },
+    {
+      "name": "олио",
+      "qty": "70 мл.",
+      "id": 4
+    },
+    {
+      "name": "яйчен ликьор",
+      "qty": "40 мл.",
+      "id": 334
+    },
+    {
+      "name": "брашно",
+      "qty": "110 г",
+      "id": 7
+    },
+    {
+      "name": "ванилова захар",
+      "qty": "1 опак.",
+      "id": 9
+    },
+    {
+      "name": "сода за хляб",
+      "qty": "1 ч.л.",
+      "id": 56
+    },
+    {
+      "name": "мед",
+      "qty": "3 с.л.",
+      "id": 38
+    },
+    {
+      "name": "пудра захар",
+      "qty": "1 с.л.",
+      "id": 9
+    }
+  ]
+}

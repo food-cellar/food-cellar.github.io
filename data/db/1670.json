@@ -1,0 +1,96 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Миш-маш - класическа рецепта със зелени чушки",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/mish-mash-klasicheska-recepta-sus-zeleni-chushki-3-[1670].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/mish-mash-klasicheska-recepta-sus-zeleni-chushki-3-[1670].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/mish-mash-klasicheska-recepta-sus-zeleni-chushki-3-[1670].jpg"
+    ],
+    "datePublished": "2011-08-20",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "414 calories",
+      "carbohydrateContent": "23 g",
+      "fatContent": "27 g",
+      "proteinContent": "21 g",
+      "saturatedFatContent": "11 g",
+      "unsaturatedFatContent": "12.455465 g",
+      "cholesterolContent": "419 mg"
+    },
+    "recipeIngredient": [
+      "400 г зелени чушки",
+      "2 глави лук",
+      "6  домата",
+      "4 скилидки чесън",
+      "200 г сирене",
+      "8  яйца",
+      "4 с.л. зехтин",
+      "чубрица",
+      "босилек",
+      "магданоз"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Чушките (400 г) се изпичат, обелват се и се нарязват на едри парчета. Запържват се в малко зехтин за 2-3 минути. Добавя се нарязан на едро лук (2 глави) и се посолява. При необходимост се сипва още зехтин. Щом лукът омекне се добавят нарязани на едро домати (6 бр) и се задушава 5-10 минути на по-слаб огън. Добавя се нарязано на ситни кубчета или натрошено с вилица сирене (200 г). Чесънът се смила и се добавя към сместа. Щом сиренето се поразтопи и смеси добре с доматите се прибавят яйцата (8 бр) и се разбърква добре. Готви се още 5 минути. Овкусява се с чубрица, босилек и по желание магданоз."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "зелени чушки",
+      "qty": "400 г",
+      "id": 18
+    },
+    {
+      "name": "лук",
+      "qty": "2 глави",
+      "id": 3
+    },
+    {
+      "name": "домата",
+      "qty": "6",
+      "id": 15
+    },
+    {
+      "name": "чесън",
+      "qty": "4 скилидки",
+      "id": 6
+    },
+    {
+      "name": "сирене",
+      "qty": "200 г",
+      "id": 32
+    },
+    {
+      "name": "яйца",
+      "qty": "8",
+      "id": 5
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    },
+    {
+      "name": "чубрица",
+      "qty": "Parsing error",
+      "id": 36
+    },
+    {
+      "name": "босилек",
+      "qty": "Parsing error",
+      "id": 25
+    },
+    {
+      "name": "магданоз",
+      "qty": "Parsing error",
+      "id": 12
+    }
+  ]
+}

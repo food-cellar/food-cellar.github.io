@@ -1,0 +1,72 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Печено гювече с моркови, тиквички, сирене, яйца и копър на фурна",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/guveche-s-morkovi-i-tikvichki-1-[1184].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/guveche-s-morkovi-i-tikvichki-1-[1184].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/guveche-s-morkovi-i-tikvichki-1-[1184].jpg"
+    ],
+    "datePublished": "2010-12-08",
+    "cookTime": "PT0H40M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "252 calories",
+      "carbohydrateContent": "14 g",
+      "fatContent": "15 g",
+      "proteinContent": "15 g",
+      "saturatedFatContent": "8 g",
+      "unsaturatedFatContent": "5.06147 g",
+      "cholesterolContent": "232 mg"
+    },
+    "recipeIngredient": [
+      "4  тиквички",
+      "4  моркова",
+      "200 г сирене",
+      "4 стръка магданоз",
+      "4 стръка копър",
+      "4  яйца"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Тиквичките (4 бр) се нарязват на кубчета и се сваряват в подсолена вода. Морковите (4 бр) се нарязват на колелца и също се сваряват. Когато зеленчуците омекнат, се изваждат и отцеждат. Смесват се с натрошеното сирене (200 г) и ситно нарязаните магданоз (4 стръка) и копър (4 стръка). Разпределят се в гювечета и във всяко се чуква по едно яйце, след което се пекат до пълна готовност - около 25-30 минути"
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "тиквички",
+      "qty": "4",
+      "id": 39
+    },
+    {
+      "name": "моркова",
+      "qty": "4",
+      "id": 13
+    },
+    {
+      "name": "сирене",
+      "qty": "200 г",
+      "id": 32
+    },
+    {
+      "name": "магданоз",
+      "qty": "4 стръка",
+      "id": 12
+    },
+    {
+      "name": "копър",
+      "qty": "4 стръка",
+      "id": 28
+    },
+    {
+      "name": "яйца",
+      "qty": "4",
+      "id": 5
+    }
+  ]
+}

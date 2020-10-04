@@ -1,0 +1,54 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Смуути от киви",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/smuuti-ot-kivi-1-[1084].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/smuuti-ot-kivi-1-[1084].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/smuuti-ot-kivi-1-[1084].jpg"
+    ],
+    "datePublished": "2012-08-08",
+    "cookTime": "PT0H10M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Напитки",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "316 calories",
+      "carbohydrateContent": "46 g",
+      "fatContent": "13 g",
+      "proteinContent": "6 g",
+      "saturatedFatContent": "7 g",
+      "unsaturatedFatContent": "3.80458 g",
+      "cholesterolContent": "51 mg"
+    },
+    "recipeIngredient": [
+      "2  киви",
+      "100 г ванилов сладолед",
+      "50 мл. мляко"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Плодовете киви (2 бр) се обелват и нарязват на четвъртинки. Поставят се в блендер, заедно с прясното мляко (50 мл.) и ваниловият сладолед (100 г) и се пасират. Полученото смути се изсипва в подходяща чаша и се сервира веднага, украсено с пресни плодове киви. "
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "киви",
+      "qty": "2",
+      "id": 186
+    },
+    {
+      "name": "ванилов сладолед",
+      "qty": "100 г",
+      "id": 226
+    },
+    {
+      "name": "мляко",
+      "qty": "50 мл.",
+      "id": 14
+    }
+  ]
+}

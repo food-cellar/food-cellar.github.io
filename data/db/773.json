@@ -1,0 +1,112 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Пържени рибени кюфтета с кайма от бяла риба (пъстърва) с бял сос от кисело мляко и копър",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/ribeni_kufteta_s_mlechen_sos_1-[773].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/ribeni_kufteta_s_mlechen_sos_1-[773].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/ribeni_kufteta_s_mlechen_sos_1-[773].jpg"
+    ],
+    "datePublished": "2010-12-12",
+    "cookTime": "PT0H30M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "421 calories",
+      "carbohydrateContent": "29 g",
+      "fatContent": "17 g",
+      "proteinContent": "35 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "11.2455425 g",
+      "cholesterolContent": "176 mg"
+    },
+    "recipeIngredient": [
+      "1/2 кг бяла риба",
+      "2  яйца",
+      "100 г извара",
+      "1 филия  хляб",
+      "2 с.л. галета",
+      "2 скилидки  чесън",
+      "кимион",
+      "сол",
+      "3 с.л. олио",
+      "6 с.л. брашно",
+      "200 г кисело мляко",
+      "3 стръка копър"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Рибата (1/2 кг) се пуска през месомелачката. Едното яйце се сварява, обелва и настъргва. Хлябът (1 филия) се наронва на трохи. Всичко това се смесва със суровото яйце, галетата (2 с.л.) и подправките. Омесва се “кайма”. От нея се оформят кюфтета, които се овалват в брашно и се изпържват в горещото олио (3 с.л.). Поднасят се топли с подлучено кисело мляко (200 г) с копър (3 стръка). "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Подходящо е да се направят с филе от пъстърва, хек или акула."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "бяла риба",
+      "qty": "1/2 кг",
+      "id": 102
+    },
+    {
+      "name": "яйца",
+      "qty": "2",
+      "id": 5
+    },
+    {
+      "name": "извара",
+      "qty": "100 г",
+      "id": 92
+    },
+    {
+      "name": "хляб",
+      "qty": "1 филия",
+      "id": 66
+    },
+    {
+      "name": "галета",
+      "qty": "2 с.л.",
+      "id": 58
+    },
+    {
+      "name": "чесън",
+      "qty": "2 скилидки",
+      "id": 6
+    },
+    {
+      "name": "кимион",
+      "qty": "Parsing error",
+      "id": 42
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "олио",
+      "qty": "3 с.л.",
+      "id": 4
+    },
+    {
+      "name": "брашно",
+      "qty": "6 с.л.",
+      "id": 7
+    },
+    {
+      "name": "кисело мляко",
+      "qty": "200 г",
+      "id": 21
+    },
+    {
+      "name": "копър",
+      "qty": "3 стръка",
+      "id": 28
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Задушени пилешки сърца с лук и домати върху картофено пюре",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/zadusheni-pileshki-surca-s-luk-i-domati-2-[1466].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/zadusheni-pileshki-surca-s-luk-i-domati-2-[1466].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/zadusheni-pileshki-surca-s-luk-i-domati-2-[1466].jpg"
+    ],
+    "datePublished": "2011-06-27",
+    "cookTime": "PT1H0M",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Основни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "324 calories",
+      "carbohydrateContent": "7 g",
+      "fatContent": "20 g",
+      "proteinContent": "27 g",
+      "saturatedFatContent": "5 g",
+      "unsaturatedFatContent": "11.940451666667 g",
+      "cholesterolContent": "227 mg"
+    },
+    "recipeIngredient": [
+      "1 кг пилешки сърца",
+      "3 глави лук",
+      "3 скилидки чесън",
+      "1 к.ч. доматено пюре",
+      "1 к.ч. пилешки бульон",
+      "черен пипер",
+      "сол",
+      "4 с.л. зехтин"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Пилешките сърца (1 кг) се сваряват в подсолена вода до пълното им омекване. Изваждат се и се отцеждат. Бульонът от тях се запазва. Лукът (3 глави) се нарязва на полумесеци и заедно с пресования чесън (3 скилидки) се задушават в зехтина (4 с.л.), докато лукът стане прозрачен. След това се добавят доматеното пюре (1 к.ч.), част от бульона, в който са се варили сърчицата (1 к.ч.) и самите сърчица. Ястието се разбърква и похлупва. Подправя се със сол и черен пипер и задушаването продължава докато течността от соса изври. Сърчицата се поднасят топли с гарнитура от картофено пюре."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "пилешки сърца",
+      "qty": "1 кг",
+      "id": 306
+    },
+    {
+      "name": "лук",
+      "qty": "3 глави",
+      "id": 3
+    },
+    {
+      "name": "чесън",
+      "qty": "3 скилидки",
+      "id": 6
+    },
+    {
+      "name": "доматено пюре",
+      "qty": "1 к.ч.",
+      "id": 35
+    },
+    {
+      "name": "пилешки бульон",
+      "qty": "1 к.ч.",
+      "id": 26
+    },
+    {
+      "name": "черен пипер",
+      "qty": "Parsing error",
+      "id": 2
+    },
+    {
+      "name": "сол",
+      "qty": "Parsing error",
+      "id": 1
+    },
+    {
+      "name": "зехтин",
+      "qty": "4 с.л.",
+      "id": 10
+    }
+  ]
+}

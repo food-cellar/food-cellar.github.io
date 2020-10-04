@@ -1,0 +1,102 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Точена баница с яйца и сирене",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/tochena-banica-s-iaica-i-sirene-4-[2638].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/tochena-banica-s-iaica-i-sirene-4-[2638].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/tochena-banica-s-iaica-i-sirene-4-[2638].jpg"
+    ],
+    "datePublished": "2013-09-23",
+    "cookTime": "PT1H0M",
+    "recipeYield": "12 servings",
+    "recipeCategory": "Хлебни",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "345 calories",
+      "carbohydrateContent": "39 g",
+      "fatContent": "15 g",
+      "proteinContent": "11 g",
+      "saturatedFatContent": "5 g",
+      "unsaturatedFatContent": "8.6534991666667 g",
+      "cholesterolContent": "114 mg"
+    },
+    "recipeIngredient": [
+      "600 г брашно",
+      "1 с.л. сол",
+      "5 г мая",
+      "100 мл. вода",
+      "1/2 ч.л. сода",
+      "300 мл. вода",
+      "300 мл. сирене",
+      "6  яйца",
+      "100 мл. олио"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Брашното (600 г) се пресява в тавичка, заедно със солта (1 с.л.) и содата (1/2 ч.л.). От него се оформя кладенче, в което на порции се изсипва маята (5 г), разтворена в малко вода (100 мл.). След това бавно и на малки порции се добавя вода (300 мл.) и се омесва гладко тесто. Необходимо е да се омеси много добре, около 10 минути, докато в него се образуват мехури. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Тестото се накъсва на четири топчета, които се разтеглят с точилката до образуването на кори и се намазват с олио. Оставят се за 10-15 минути да починат и след това се теглят върху покривка, докато станат съвсем тънки. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Поръсват се с малко олио и разбитите яйца и натрошено сирене. Корите се навиват на рула и се подреждат в намаслена тава. "
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Точената баница с яйца и сирене се пече 1 час във фурната, като първите 20 минути се пече при температура 250 градуса, а след това на 200 градуса."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "брашно",
+      "qty": "600 г",
+      "id": 7
+    },
+    {
+      "name": "сол",
+      "qty": "1 с.л.",
+      "id": 1
+    },
+    {
+      "name": "мая",
+      "qty": "5 г",
+      "id": 52
+    },
+    {
+      "name": "вода",
+      "qty": "100 мл.",
+      "id": 11
+    },
+    {
+      "name": "сода",
+      "qty": "1/2 ч.л.",
+      "id": 56
+    },
+    {
+      "name": "вода",
+      "qty": "300 мл.",
+      "id": 11
+    },
+    {
+      "name": "сирене",
+      "qty": "300 мл.",
+      "id": 32
+    },
+    {
+      "name": "яйца",
+      "qty": "6",
+      "id": 5
+    },
+    {
+      "name": "олио",
+      "qty": "100 мл.",
+      "id": 4
+    }
+  ]
+}

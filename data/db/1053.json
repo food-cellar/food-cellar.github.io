@@ -1,0 +1,66 @@
+{
+  "recipe": {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Шоколадов шейк",
+    "image": [
+      "http://www.1001recepti.com/images/photos/recipes/size_4/shokoladov-mlechen-sheik--1-[1053].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_2/shokoladov-mlechen-sheik--1-[1053].jpg",
+      "http://www.1001recepti.com/images/photos/recipes/size_3/shokoladov-mlechen-sheik--1-[1053].jpg"
+    ],
+    "datePublished": "2011-10-18",
+    "cookTime": "PT0H10M",
+    "recipeYield": "1 servings",
+    "recipeCategory": "Напитки",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "133 calories",
+      "carbohydrateContent": "18 g",
+      "fatContent": "5 g",
+      "proteinContent": "3 g",
+      "saturatedFatContent": "3 g",
+      "unsaturatedFatContent": "1.19359 g",
+      "cholesterolContent": "20 mg"
+    },
+    "recipeIngredient": [
+      "100 мл. мляко",
+      "2 с.л. шоколадов сладолед",
+      "1 с.л. шоколадов топинг",
+      "сметана",
+      "1  коктейлна черешка"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Празната коктейлна чаша се украсява с шоколадов топинг (1 с.л.) от вътрешната страна като се капва по малко в горния край и се оставя да се разтече по стената на чашата, докато се образуват интересни шарки. Млякото (100 мл.) и сладоледът (2 с.л.) се разбиват в шейкър с лед и се изсипват в украсената чаша. Завършва се с малко сметана отгоре, върху която се поставя коктейлна черешка."
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "мляко",
+      "qty": "100 мл.",
+      "id": 14
+    },
+    {
+      "name": "шоколадов сладолед",
+      "qty": "2 с.л.",
+      "id": 226
+    },
+    {
+      "name": "шоколадов топинг",
+      "qty": "1 с.л.",
+      "id": 152
+    },
+    {
+      "name": "сметана",
+      "qty": "Parsing error",
+      "id": 19
+    },
+    {
+      "name": "коктейлна черешка",
+      "qty": "1",
+      "id": 126
+    }
+  ]
+}
