@@ -6,7 +6,7 @@ import { addStaple, removeStaple, isStaple, isBanned } from './storage.js';
 export default function staplesPage(ingredients) {
     ingredients = ingredients.sort((a, b) => {
         if (isStaple(a.id) == isStaple(b.id)) {
-            return b.popularity - a.popularity;
+            return b.used - a.used;
         } else {
             return isStaple(a.id) ? -1 : 1;
         }

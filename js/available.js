@@ -8,7 +8,7 @@ export default function availablePage(ingredients) {
         .filter(i => (isStaple(i.id) || isBanned(i.id)) == false)
         .sort((a, b) => {
             if (isAvailable(a.id) == isAvailable(b.id)) {
-                return b.popularity - a.popularity;
+                return b.used - a.used;
             } else {
                 return isAvailable(a.id) ? -1 : 1;
             }

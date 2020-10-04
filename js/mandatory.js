@@ -8,7 +8,7 @@ export default function mandatoryPage(ingredients) {
         .filter(i => (isStaple(i.id) || isBanned(i.id)) == false)
         .sort((a, b) => {
             if (isMandatory(a.id) == isMandatory(b.id)) {
-                return b.popularity - a.popularity;
+                return b.used - a.used;
             } else {
                 return isMandatory(a.id) ? -1 : 1;
             }

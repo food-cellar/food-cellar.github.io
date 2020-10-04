@@ -6,7 +6,7 @@ import { addBanned, removeBanned, isBanned, isStaple } from './storage.js';
 export default function bannedPage(ingredients) {
     ingredients = ingredients.sort((a, b) => {
         if (isBanned(a.id) == isBanned(b.id)) {
-            return b.popularity - a.popularity;
+            return b.used - a.used;
         } else {
             return isBanned(a.id) ? -1 : 1;
         }

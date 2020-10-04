@@ -12,6 +12,7 @@ initialize();
 
 async function initialize() {
     const main = document.querySelector('main');
+    main.style.display = 'none';
     const navigation = document.querySelector('#categories');
 
     const { recipeIndex, ingredientsIndex } = await getData();
@@ -32,9 +33,8 @@ async function initialize() {
         const btn = e('button', category.label);
         navigation.appendChild(btn);
 
-        setupSection(btn, staplesSection, sections);
+        setupSection(btn, currentSection, sections);
     }
-    console.log(sections);
     sections.forEach(s => s.style.display = 'none');
     availableSection.style.display = '';
 
@@ -42,6 +42,8 @@ async function initialize() {
     setupSection('#btnBanned', bannedSection, sections);
     setupSection('#btnAvailable', availableSection, sections);
     setupSection('#btnMandatory', mandatorySection, sections);
+
+    main.style.display = '';
 
 
     function setupSection(btnSelector, section, sections) {
