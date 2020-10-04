@@ -3,15 +3,7 @@ import { addAvailable, removeAvailable, isAvailable, isStaple, isBanned } from '
 
 
 export default function availablePage(ingredients) {
-    ingredients = ingredients
-        .filter(i => (isStaple(i.id) || isBanned(i.id)) == false)
-        .sort((a, b) => {
-            if (isAvailable(a.id) == isAvailable(b.id)) {
-                return b.used - a.used;
-            } else {
-                return isAvailable(a.id) ? -1 : 1;
-            }
-        });
+    ingredients = ingredients.filter(i => (isStaple(i.id) || isBanned(i.id)) == false)
 
     const colorId = '#99ff99';
     const table = ingredientList('a-', ingredients, addAvailable, removeAvailable, isAvailable, colorId);

@@ -3,15 +3,7 @@ import { addMandatory, removeMandatory, isMandatory, isStaple, isBanned } from '
 
 
 export default function mandatoryPage(ingredients) {
-    ingredients = ingredients
-        .filter(i => (isStaple(i.id) || isBanned(i.id)) == false)
-        .sort((a, b) => {
-            if (isMandatory(a.id) == isMandatory(b.id)) {
-                return b.used - a.used;
-            } else {
-                return isMandatory(a.id) ? -1 : 1;
-            }
-        });
+    ingredients = ingredients.filter(i => (isStaple(i.id) || isBanned(i.id)) == false)
 
     const colorId = '#99ff99';
     const table = ingredientList('m-', ingredients, addMandatory, removeMandatory, isStaple, colorId);

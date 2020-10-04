@@ -3,7 +3,13 @@ import filterTable from './filterTable.js';
 
 
 export default function ingredientList(name, ingredients, add, remove, is, colorId) {
-    ingredients.forEach(i => {
+    ingredients.sort((a, b) => {
+        if (is(a.id) == is(b.id)) {
+            return b.used - a.used;
+        } else {
+            return is(a.id) ? -1 : 1;
+        }
+    }).forEach(i => {
         const selected = checkbox((ev) => {
             const value = ev.target.checked;
             if (value) {
