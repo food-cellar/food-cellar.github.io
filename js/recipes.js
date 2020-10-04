@@ -1,8 +1,11 @@
 import e, { div, span } from './dom.js';
-import { isStaple, isBanned, isAvailable, hasMandatory } from './data.js';
+import { isStaple, isBanned, isAvailable, hasMandatory } from './storage.js';
 
 
-export default function recipesPage(recipes, ingredientsIndex, showDetails) {
+export default async function recipesPage(category, ingredientsIndex, showDetails) {
+    // TODO data should only be resolved when the page is activated
+    const recipes = Object.values((await category.getData()));
+
     const filtered = recipes
         .filter(r => hasMandatory(r.ingredients))
         .filter(r => r.ingredients.reduce((p, c) => p || isBanned(c.id), false) == false)

@@ -1,6 +1,6 @@
 import e, { checkbox } from './dom.js';
 import filterTable from './filterTable.js';
-import { addAvailable, removeAvailable, isAvailable, isStaple, isBanned } from './data.js';
+import { addAvailable, removeAvailable, isAvailable, isStaple, isBanned } from './storage.js';
 
 
 export default function availablePage(ingredients) {

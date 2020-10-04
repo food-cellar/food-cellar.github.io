@@ -1,96 +1,89 @@
-let staples = localStorage.getItem('staples');
-if (staples === null) {
-    localStorage.setItem('staples', JSON.stringify([]));
-    staples = [];
-} else {
-    staples = JSON.parse(staples);
-}
+const categories = [
+    {
+        name: 'apetizer',
+        label: 'Предястия',
+        src: 'data/recipes/apetizer.json'
+    },
+    {
+        name: 'bread',
+        label: 'Хляб',
+        src: 'data/recipes/bread.json'
+    },
+    {
+        name: 'cocktail',
+        label: 'Коктейли',
+        src: 'data/recipes/cocktail.json'
+    },
+    {
+        name: 'dessert',
+        label: 'Десерти',
+        src: 'data/recipes/dessert.json'
+    },
+    {
+        name: 'drink',
+        label: 'Напитки',
+        src: 'data/recipes/drink.json'
+    },
+    {
+        name: 'main',
+        label: 'Основно',
+        src: 'data/recipes/main.json'
+    },
+    {
+        name: 'other',
+        label: 'Други',
+        src: 'data/recipes/other.json'
+    },
+    {
+        name: 'salad',
+        label: 'Салати',
+        src: 'data/recipes/salad.json'
+    },
+    {
+        name: 'sandwich',
+        label: 'Сандвичи',
+        src: 'data/recipes/sandwich.json'
+    },
+    {
+        name: 'sauce',
+        label: 'Сосове',
+        src: 'data/recipes/sauce.json'
+    },
+    {
+        name: 'side',
+        label: 'Гарнитури',
+        src: 'data/recipes/side.json'
+    },
+    {
+        name: 'soup',
+        label: 'Супи',
+        src: 'data/recipes/soup.json'
+    },
+    {
+        name: 'soup-other',
+        label: 'Супи - други',
+        src: 'data/recipes/soup-other.json'
+    },
+];
 
-export function addStaple(id) {
-    staples.push(id);
-    localStorage.setItem('staples', JSON.stringify(staples));
-}
 
-export function removeStaple(id) {
-    staples = staples.filter(i => i != id);
-    localStorage.setItem('staples', JSON.stringify(staples));
-}
-
-export function isStaple(id) {
-    return staples.includes(id);
-}
-
-let banned = localStorage.getItem('banned');
-if (banned === null) {
-    localStorage.setItem('banned', JSON.stringify([]));
-    banned = [];
-} else {
-    banned = JSON.parse(banned);
-}
-
-export function addBanned(id) {
-    banned.push(id);
-    localStorage.setItem('banned', JSON.stringify(banned));
-}
-
-export function removeBanned(id) {
-    banned = banned.filter(i => i != id);
-    localStorage.setItem('banned', JSON.stringify(banned));
-}
-
-export function isBanned(id) {
-    return banned.includes(id);
-}
-
-let available = localStorage.getItem('available');
-if (available === null) {
-    localStorage.setItem('available', JSON.stringify([]));
-    available = [];
-} else {
-    available = JSON.parse(available);
-}
-
-export function addAvailable(id) {
-    available.push(id);
-    localStorage.setItem('available', JSON.stringify(available));
-}
-
-export function removeAvailable(id) {
-    available = available.filter(i => i != id);
-    localStorage.setItem('available', JSON.stringify(available));
-}
-
-export function isAvailable(id) {
-    return available.includes(id);
-}
-
-
-let mandatory = localStorage.getItem('mandatory');
-if (mandatory === null) {
-    localStorage.setItem('mandatory', JSON.stringify([]));
-    mandatory = [];
-} else {
-    mandatory = JSON.parse(mandatory);
-}
-
-export function addMandatory(id) {
-    mandatory.push(id);
-    localStorage.setItem('mandatory', JSON.stringify(mandatory));
-}
-
-export function removeMandatory(id) {
-    mandatory = mandatory.filter(i => i != id);
-    localStorage.setItem('mandatory', JSON.stringify(mandatory));
-}
-
-export function isMandatory(id) {
-    return mandatory.includes(id);
-}
-
-export function hasMandatory(ingredients) {
-    if (mandatory.length == 0) {
-        return true;
-    } else {
-        return mandatory.reduce((p, c) => p && ingredients.map(i => i.id).includes(c), true);
+export async function getData() {
+    const recipeIndex = {};
+    for (let category of categories) {
+        (() => {
+            let content = null;
+            recipeIndex[category.name] = {
+                label: category.label,
+                getData: async () => {
+                    if (content === null) {
+                        content = await (await fetch(category.src)).json();
+                    }
+                    return content;
+                }
+            };
+        })();
     }
+    const ingredientsIndex = await (await fetch('data/ingredients.json')).json();
+
+    return { recipeIndex, ingredientsIndex };
 }

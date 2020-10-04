@@ -1,6 +1,6 @@
 import e, { checkbox } from './dom.js';
 import filterTable from './filterTable.js';
-import { addMandatory, removeMandatory, isMandatory, isStaple, isBanned } from './data.js';
+import { addMandatory, removeMandatory, isMandatory, isStaple, isBanned } from './storage.js';
 
 
 export default function mandatoryPage(ingredients) {

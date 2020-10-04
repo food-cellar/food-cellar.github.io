@@ -1,30 +1,40 @@
+import e from './dom.js';
+import { getData } from './data.js';
 import staplesPage from './staples.js';
 import bannedPage from './banned.js';
 import availablePage from './available.js';
 import mandatoryPage from './mandatory.js';
 import recipesPage from './recipes.js';
 import detailsPage from './details.js';
-import e from './dom.js';
+
 
 initialize();
 
-
 async function initialize() {
     const main = document.querySelector('main');
+    const navigation = document.querySelector('#categories');
 
-    const { mainIndex, soupIndex, ingredientsIndex } = await getData();
-    const recipesSoup = Object.values(soupIndex);
-    const recipesMain = Object.values(mainIndex);
+    const { recipeIndex, ingredientsIndex } = await getData();
     const ingredients = Object.values(ingredientsIndex);
 
     const staplesSection = staplesPage(ingredients);
     const bannedSection = bannedPage(ingredients);
     const availableSection = availablePage(ingredients);
     const mandatorySection = mandatoryPage(ingredients);
-    const soupsSection = recipesPage(recipesSoup, ingredientsIndex, showDetails);
-    const mainsSeciton = recipesPage(recipesMain, ingredientsIndex, showDetails);
     const detailsSection = e('section');
-    const sections = [staplesSection, bannedSection, availableSection, mandatorySection, soupsSection, mainsSeciton, detailsSection];
+    main.appendChild(detailsSection);
+
+    const sections = [staplesSection, bannedSection, availableSection, mandatorySection, detailsSection];
+    for (let name in recipeIndex) {
+        const category = recipeIndex[name];
+        const currentSection = await recipesPage(category, ingredientsIndex, showDetails);
+        sections.push(currentSection);
+        const btn = e('button', category.label);
+        navigation.appendChild(btn);
+
+        setupSection(btn, staplesSection, sections);
+    }
+    console.log(sections);
     sections.forEach(s => s.style.display = 'none');
     availableSection.style.display = '';
 
@@ -32,12 +42,11 @@ async function initialize() {
     setupSection('#btnBanned', bannedSection, sections);
     setupSection('#btnAvailable', availableSection, sections);
     setupSection('#btnMandatory', mandatorySection, sections);
-    setupSection('#btnSoups', soupsSection, sections);
-    setupSection('#btnMains', mainsSeciton, sections);
-    main.appendChild(detailsSection);
+
 
     function setupSection(btnSelector, section, sections) {
-        document.querySelector(btnSelector).addEventListener('click', () => {
+        const btn = btnSelector instanceof Node ? btnSelector : document.querySelector(btnSelector);
+        btn.addEventListener('click', () => {
             sections.forEach(s => s.style.display = 'none');
             section.style.display = '';
         });
@@ -52,12 +61,4 @@ async function initialize() {
 
         detailsSection.style.display = '';
     }
-}
-
-async function getData() {
-    const mainIndex = await (await fetch('data/recipes-main.json')).json();
-    const soupIndex = await (await fetch('data/recipes-soup.json')).json();
-    const ingredientsIndex = await (await fetch('data/ingredients.json')).json();
-
-    return { mainIndex, soupIndex, ingredientsIndex };
 }

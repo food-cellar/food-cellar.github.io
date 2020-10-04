@@ -1,6 +1,6 @@
 import e, { checkbox, swap } from './dom.js';
 import filterTable from './filterTable.js';
-import { addBanned, removeBanned, isBanned, isStaple } from './data.js';
+import { addBanned, removeBanned, isBanned, isStaple } from './storage.js';
 
 
 export default function bannedPage(ingredients) {

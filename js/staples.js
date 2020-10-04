@@ -1,6 +1,6 @@
 import e, { checkbox, swap } from './dom.js';
 import filterTable from './filterTable.js';
-import { addStaple, removeStaple, isStaple, isBanned } from './data.js';
+import { addStaple, removeStaple, isStaple, isBanned } from './storage.js';
 
 
 export default function staplesPage(ingredients) {
