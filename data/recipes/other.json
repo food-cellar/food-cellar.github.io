@@ -1,0 +1,2782 @@
+{
+  "271": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Ирландска закуска с наденички, яйца, гъби и царевица",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/irlandska-zakuska-2-[271].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/irlandska-zakuska-2-[271].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/irlandska-zakuska-2-[271].jpg"
+      ],
+      "datePublished": "2010-11-07",
+      "cookTime": "PT0H45M",
+      "recipeYield": "1 servings",
+      "recipeCategory": "Други",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "711 calories",
+        "carbohydrateContent": "46 g",
+        "fatContent": "43 g",
+        "proteinContent": "37 g",
+        "saturatedFatContent": "16 g",
+        "unsaturatedFatContent": "23.40765 g",
+        "cholesterolContent": "270 mg"
+      },
+      "recipeIngredient": [
+        "100 г пушени наденички",
+        "1 глава лук",
+        "1  яйце",
+        "3 шайби домат",
+        "80 г варена царевица",
+        "1 лист зелена салата",
+        "6  печурки",
+        "1 скилидка чесън",
+        "1 с.л. брашно",
+        "сол",
+        "черен пипер",
+        "червен пипер",
+        "1/2 с.л. масло",
+        "1 ч.л. доматено пюре"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Наденичките (100 г) се изпичат на скара. Доматените шайби (3 шайби) - също. Яйцето се изпържва в масло. Половината от лука се нарязва на колелца и се изпича на котлон или в тиган. Гъбите (6 бр) се нарязват на дребно, бланшират се в гореща подсолена вода и се отцеждат. Втората половинка от лука се нарязва на ситно и се задушава заедно с гъбите в масло. Долива се бульонът. Добавят се доматеното пюре (1 ч.л.), червеният и черният пипер и размитото в студена вода брашно (1 с.л.). Трябва да се получи каша. Всичко приготвено се поднася в едно плато за закуска."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "пушени наденички",
+        "qty": "100 г",
+        "id": "http://www.1001recepti.com/s/194480-nadenica"
+      },
+      {
+        "name": "лук",
+        "qty": "1 глава",
+        "id": "http://www.1001recepti.com/s/192500-luk"
+      },
+      {
+        "name": "яйце",
+        "qty": "1",
+        "id": "http://www.1001recepti.com/s/213296-iaica"
+      },
+      {
+        "name": "домат",
+        "qty": "3 шайби",
+        "id": "http://www.1001recepti.com/s/185321-domati"
+      },
+      {
+        "name": "варена царевица",
+        "qty": "80 г",
+        "id": "http://www.1001recepti.com/s/211525-carevica"
+      },
+      {
+        "name": "зелена салата",
+        "qty": "1 лист",
+        "id": "http://www.1001recepti.com/s/186809-zelena-salata"
+      },
+      {
+        "name": "печурки",
+        "qty": "6",
+        "id": "http://www.1001recepti.com/s/184366-gubi-pechurki"
+      },
+      {
+        "name": "чесън",
+        "qty": "1 скилидка",
+        "id": "http://www.1001recepti.com/s/212113-chesun"
+      },
+      {
+        "name": "брашно",
+        "qty": "1 с.л.",
+        "id": "http://www.1001recepti.com/s/182466-brashno"
+      },
+      {
+        "name": "сол",
+        "qty": "Parsing error",
+        "id": "http://www.1001recepti.com/s/206867-sol"
+      },
+      {
+        "name": "черен пипер",
+        "qty": "Parsing error",
+        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+      },
+      {
+        "name": "червен пипер",
+        "qty": "Parsing error",
+        "id": "http://www.1001recepti.com/s/211980-cherven-piper"
+      },
+      {
+        "name": "масло",
+        "qty": "1/2 с.л.",
+        "id": "http://www.1001recepti.com/s/193240-maslo"
+      },
+      {
+        "name": "доматено пюре",
+        "qty": "1 ч.л.",
+        "id": "http://www.1001recepti.com/s/185315-domateno-pure"
+      }
+    ]
+  },
+  "289": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Зелник със спанак, коприва, лапад и киселец (с мая)",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/zelnik-3-[289].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/zelnik-3-[289].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/zelnik-3-[289].jpg"
+      ],
+      "datePublished": "2011-02-07",
+      "cookTime": "PT1H0M",
+      "recipeYield": "8 servings",
+      "recipeCategory": "Други",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "812 calories",
+        "carbohydrateContent": "116 g",
+        "fatContent": "24 g",
+        "proteinContent": "31 g",
+        "saturatedFatContent": "11 g",
+        "unsaturatedFatContent": "10.510550887097 g",
+        "cholesterolContent": "174 mg"
+      },
+      "recipeIngredient": [
+        "1 кг брашно",
+        "2  яйца",
+        "25 г мая",
+        "1/2 л. мляко",
+        "1/2 л. вода",
+        "2 с.л. олио",
+        "2 с.л. масло",
+        "1 щип. сол",
+        "1 щип. захар",
+        "3  яйца",
+        "1/2 кг спанак",
+        "300 г коприва",
+        "200 г лапад",
+        "250 г киселец",
+        "1 кофичка кисело мляко",
+        "4 с.л. олио",
+        "1 глава чесън",
+        "3 едри глави  лук",
+        "300 г сирене",
+        "сол"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Преди да се пристъпи към месенето на тестото, маята (25 г) трябва да се разтвори в топло прясно мляко и да шупне. След това в брашното се оформя кладенче. В него се пускат яйцата (2 бр) и останалите продукти и се омесва гладко тесто. Оставя се на топло да втаса. Щом това се случи, тестото трябва да се раздели на три части – 2 големи и 1 малка. Едната голяма част се разточва на кора, с която се покрива дъното на намазнена и поръсена с брашно кръгла тава (среден размер) и не само това – тя трябва да излиза извън тавата, за да може да се обърне навътре, след като се сложи плънката. Другата голяма част също се разточва на кора, която се поръсва с олио, разбити яйца с кисело мляко и натрошено сирене. Кората се увива на руло, което се слага по края на тавата върху голямата кора. Малката част, която също се разточва на кора, е предназначена да покрие плънката на зелника. Върху нея се обръщат краищата на първата и най-голяма кора. Надиплят се като драперия. Малката кора се надупчва с вилица на няколко места. В тях се слагат парченца масло. "
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Плънката на зелника се прави по следния начин: спанакът (1/2 кг), копривата (300 г), лападът (200 г) и киселецът (250 г) се измиват и нарязват на ситно. Лукът (3 едри глави) и чесънът (1 глава) - също. Олиото (4 с.л.) се загрява в голяма тенджера и в него се задушават лукът, чесънът и зеленината. Всичко това се посолява и когато омекне, се добавя натрошеното сирене (300 г). Плънката трябва да остане без течност. Когато се снеме от котлона и се охлади, в нея се чукват яйцата (3 бр) и всичко се разбърква. Плънката вече е готова и ако сте разстлали голямата кора върху тавата и сте сложили рулото, можете да я изсипете и изравните. Върху нея сложете малката кора. Напръскайте я с олио и обърнете навътре и надиплете голямата кора. Поръсете и нея с олио и печете баницата в гореща фурна до пълна готовност. Зелникът се поднася горещ с кисело мляко, но е вкусен и студен. Но... кой ще го чака да изстине..."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "брашно",
+        "qty": "1 кг",
+        "id": "http://www.1001recepti.com/s/182466-brashno"
+      },
+      {
+        "name": "яйца",
+        "qty": "2",
+        "id": "http://www.1001recepti.com/s/213296-iaica"
+      },
+      {
+        "name": "мая",
+        "qty": "25 г",
+        "id": "http://www.1001recepti.com/s/193268-maia"
+      },
+      {
+        "name": "мляко",
+        "qty": "1/2 л.",
+        "id": "http://www.1001recepti.com/s/193842-mliako"
+      },
+      {
+        "name": "вода",
+        "qty": "1/2 л.",
+        "id": "http://www.1001recepti.com/s/183428-voda"
+      },
+      {
+        "name": "олио",
+        "qty": "2 с.л.",
+        "id": "http://www.1001recepti.com/s/195019-olio"
+      },
+      {
+        "name": "масло",
+        "qty": "2 с.л.",
+        "id": "http://www.1001recepti.com/s/193240-maslo"
+      },
+      {
+        "name": "сол",
+        "qty": "1 щип.",
+        "id": "http://www.1001recepti.com/s/206867-sol"
+      },
+      {
+        "name": "захар",
+        "qty": "1 щип.",
+        "id": "http://www.1001recepti.com/s/186585-zahar"
+      },
+      {
+        "name": "яйца",
+        "qty": "3",
+        "id": "http://www.1001recepti.com/s/213296-iaica"
+      },
+      {
+        "name": "спанак",
+        "qty": "1/2 кг",
+        "id": "http://www.1001recepti.com/s/207509-spanak"
+      },
+      {
+        "name": "коприва",
+        "qty": "300 г",
+        "id": "http://www.1001recepti.com/s/190496-kopriva"
+      },
+      {
+        "name": "лапад",
+        "qty": "200 г",
+        "id": "http://www.1001recepti.com/s/192059-lapad"
+      },
+      {
+        "name": "киселец",
+        "qty": "250 г",
+        "id": "http://www.1001recepti.com/s/189757-kiselec"
+      },
+      {
+        "name": "кисело мляко",
+        "qty": "1 кофичка",
+        "id": "http://www.1001recepti.com/s/189828-kiselo-mliako"
+      },
+      {
+        "name": "олио",
+        "qty": "4 с.л.",
+        "id": "http://www.1001recepti.com/s/195019-olio"
+      },
+      {
+        "name": "чесън",
+        "qty": "1 глава",
+        "id": "http://www.1001recepti.com/s/212113-chesun"
+      },
+      {
+        "name": "лук",
+        "qty": "3 едри глави",
+        "id": "http://www.1001recepti.com/s/192500-luk"
+      },
+      {
+        "name": "сирене",
+        "qty": "300 г",
+        "id": "http://www.1001recepti.com/s/205659-sirene"
+      },
+      {
+        "name": "сол",
+        "qty": "Parsing error",
+        "id": "http://www.1001recepti.com/s/206867-sol"
+      }
+    ]
+  },
+  "1743": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Английска закуска с пържени яйца, бекон и боб",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/angliiska-zakuska-2-[1743].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/angliiska-zakuska-2-[1743].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/angliiska-zakuska-2-[1743].jpg"
+      ],
+      "datePublished": "2011-10-19",
+      "cookTime": "PT0H25M",
+      "recipeYield": "2 servings",
+      "recipeCategory": "Други",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "812 calories",
+        "carbohydrateContent": "21 g",
+        "fatContent": "68 g",
+        "proteinContent": "27 g",
+        "saturatedFatContent": "25 g",
+        "unsaturatedFatContent": "38.21968 g",
+        "cholesterolContent": "445 mg"
+      },
+      "recipeIngredient": [
+        "4  яйца",
+        "1 ч.л. масло",
+        "1 к.ч. боб",
+        "200 г бекон",
+        "1 щип. червен пипер",
+        "1 щип. черен пипер",
+        "сол"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Яйцата (4 бр) се пържат до готовност в малко масло. Свареният боб (1 к.ч.) се запържва за кратко, заедно с малко масло, черен, червен пипер и сол.Беконът (200 г) се запържва в тиган с незалепващо покритие, докато стане златен и хрупкав. Яйцата, бобът и беконът се подреждат в порционна чиния и се сервират топли. Чудесна добавка към тази класическа Английска закуска са топлите препечени филийки. "
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "яйца",
+        "qty": "4",
+        "id": "http://www.1001recepti.com/s/213296-iaica"
+      },
+      {
+        "name": "масло",
+        "qty": "1 ч.л.",
+        "id": "http://www.1001recepti.com/s/193240-maslo"
+      },
+      {
+        "name": "боб",
+        "qty": "1 к.ч.",
+        "id": "http://www.1001recepti.com/s/182086-bob"
+      },
+      {
+        "name": "бекон",
+        "qty": "200 г",
+        "id": "http://www.1001recepti.com/s/181657-bekon"
+      },
+      {
+        "name": "червен пипер",
+        "qty": "1 щип.",
+        "id": "http://www.1001recepti.com/s/211980-cherven-piper"
+      },
+      {
+        "name": "черен пипер",
+        "qty": "1 щип.",
+        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+      },
+      {
+        "name": "сол",
+        "qty": "Parsing error",
+        "id": "http://www.1001recepti.com/s/206867-sol"
+      }
+    ]
+  },
+  "1898": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Лютивка със зелени чушки",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/lutivka-2-[1898].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/lutivka-2-[1898].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/lutivka-2-[1898].jpg"
+      ],
+      "datePublished": "2011-12-27",
+      "cookTime": "PT3H0M",
+      "recipeYield": "40 servings",
+      "recipeCategory": "Други",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "205 calories",
+        "carbohydrateContent": "14 g",
+        "fatContent": "16 g",
+        "proteinContent": "1 g",
+        "saturatedFatContent": "1 g",
+        "unsaturatedFatContent": "13.456275 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "3 кг люти чушки",
+        "300 г чесън",
+        "700 мл. олио",
+        "700 мл. оцет",
+        "1 ч.ч. захар",
+        "100 г сол"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Лютите чушки (3 кг) е най-подходящо да бъдат от сорт рибки. Те се изпичат за кратко от двете страни и дръжките им се отстраняват. Семките на чушките се запазват. те се смилат, заедно с почистения чесън (300 г) и се смесват с олиото (700 мл.), оцета (700 мл.), захарта (1 ч.ч.) и солта (100 г). Всичко се разбърква много добре и се разпределя в буркани. Те се затварят, но не се стерилизират.Лютивката е великолепна добавка към всяко ястие и може да се сервира като лют сос, да се добавя в сандвичи или да е онзи апетитен детайл на трапезата ви, който да овкуси месните ястия. Лютивката е много полезна през студените сезони, заради полезните вещества, които съдържат чушките и чесънът. Тази зимнина дори се нарича антигрипал. Три килограма люти чушки рибки, приготвени под формата на Лютивка, са напълно достатъчно количество за четиричленно семейство за цяла зима. "
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "люти чушки",
+        "qty": "3 кг",
+        "id": "http://www.1001recepti.com/s/192577-luti-chushki"
+      },
+      {
+        "name": "чесън",
+        "qty": "300 г",
+        "id": "http://www.1001recepti.com/s/212113-chesun"
+      },
+      {
+        "name": "олио",
+        "qty": "700 мл.",
+        "id": "http://www.1001recepti.com/s/195019-olio"
+      },
+      {
+        "name": "оцет",
+        "qty": "700 мл.",
+        "id": "http://www.1001recepti.com/s/195631-ocet"
+      },
+      {
+        "name": "захар",
+        "qty": "1 ч.ч.",
+        "id": "http://www.1001recepti.com/s/186585-zahar"
+      },
+      {
+        "name": "сол",
+        "qty": "100 г",
+        "id": "http://www.1001recepti.com/s/206867-sol"
+      }
+    ]
+  },
+  "1914": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Мармалад от шипки",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/marmalad-ot-shipki-2-[1914].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/marmalad-ot-shipki-2-[1914].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/marmalad-ot-shipki-2-[1914].jpg"
+      ],
+      "datePublished": "2012-01-02",
+      "cookTime": "PT5H0M",
+      "recipeYield": "40 servings",
+      "recipeCategory": "Други",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "97 calories",
+        "carbohydrateContent": "24 g",
+        "fatContent": "0 g",
+        "proteinContent": "0 g",
+        "saturatedFatContent": "0 g",
+        "unsaturatedFatContent": "0 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "5 кг шипки",
+        "1 кг захар",
+        "4 л. вода"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Шипките (5 кг) се измиват и почистват от дръжките и черния цвят отпред. Разрязват се на две по дължина и се почистват старателно от семките. След това се измиват повторно и се поставят в тенджера под налягане. Заливат се с вода (4 л.), колкото да ги покрие и след като заврат, се оставят на по-слаб огън за около час. След като се сварят, шипките се прецеждат в гевгир и след това се минават през сито, за да се отстранят от тях всички люспи. Получената каша трябва да не е нито твърде рядка, нито гъста. Поставя се в тенджера и към нея се добавя захарта (1 кг). Мармаладът се вари около 3 часа, като непрекъснато се наблюдава да не загори и се разбърква. Готов е, когато сместа прави път на лъжицата, когато преминаваме с нея през мармалада. Накрая, докато е още топъл, мармаладът се изсипва в буркани, които се затварят старателно, но не се стерилизират."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "От 5 килограма шипки излизат около 2 килограма шипков мармалад."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "шипки",
+        "qty": "5 кг",
+        "id": "http://www.1001recepti.com/s/201948-recepta"
+      },
+      {
+        "name": "захар",
+        "qty": "1 кг",
+        "id": "http://www.1001recepti.com/s/186585-zahar"
+      },
+      {
+        "name": "вода",
+        "qty": "4 л.",
+        "id": "http://www.1001recepti.com/s/183428-voda"
+      }
+    ]
+  },
+  "1925": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Сладко от моркови",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/sladko-ot-morkovi-2-[1925].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/sladko-ot-morkovi-2-[1925].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/sladko-ot-morkovi-2-[1925].jpg"
+      ],
+      "datePublished": "2012-01-26",
+      "cookTime": "PT3H0M",
+      "recipeYield": "4 servings",
+      "recipeCategory": "Други",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "1184 calories",
+        "carbohydrateContent": "300 g",
+        "fatContent": "0 g",
+        "proteinContent": "5 g",
+        "saturatedFatContent": "0 g",
+        "unsaturatedFatContent": "0.38765 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "2 кг моркови",
+        "1 кг захар",
+        "1 л. вода",
+        "1 ч.л. канела"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Морковите (2 кг) се измиват и настъргват на едро ренде. Изсипват се в дълбока тенджера и към тях се добавят водата (1 л.) и захарта (1 кг). Продуктите се варят на силен огън в началото, а след като морковите омекнат - на тих огън. Сладкото е готово тогава, когато се образува път на лъжицата, когато преминава през сместа. Отнема около 2 часа и половина. Накрая се добавя канелата (1 ч.л.), разбърква се и сладкото, още докато е топло, се разпределя в буркани. Те се затварят и не се стерилизират."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "моркови",
+        "qty": "2 кг",
+        "id": "http://www.1001recepti.com/s/193952-morkovi"
+      },
+      {
+        "name": "захар",
+        "qty": "1 кг",
+        "id": "http://www.1001recepti.com/s/186585-zahar"
+      },
+      {
+        "name": "вода",
+        "qty": "1 л.",
+        "id": "http://www.1001recepti.com/s/183428-voda"
+      },
+      {
+        "name": "канела",
+        "qty": "1 ч.л.",
+        "id": "http://www.1001recepti.com/s/187922-kanela"
+      }
+    ]
+  },
+  "2192": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Конфитюр от сливи",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/konfitur-ot-slivi-2-[2192].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/konfitur-ot-slivi-2-[2192].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/konfitur-ot-slivi-2-[2192].jpg"
+      ],
+      "datePublished": "2012-12-03",
+      "cookTime": "PT2H0M",
+      "recipeYield": "1 servings",
+      "recipeCategory": "Други",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "5520 calories",
+        "carbohydrateContent": "1389 g",
+        "fatContent": "18 g",
+        "proteinContent": "23 g",
+        "saturatedFatContent": "1 g",
+        "unsaturatedFatContent": "16.02 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "3 кг сини сливи",
+        "1 кг захар",
+        "6 листа индрише"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Сливите (3 кг) се измиват и костилките им се отстраняват. Нарязват се на парченца, поставят се в дълбока тенджера и се поръсват със захарта (1 кг). Добавят се листата от индрише (6 листа). Тъй като плодовете ще пуснат много сок, не е необходимо добавянето на вода. Плодовете се варят на тих огън около 2 часа, като накрая се бъркат по-често, за да не загорят. Когато сместа прави път на лъжицата, с която я разбъркваме, конфитюрът е готов. Листата от индрише се отстранява и плодовата смес се разпределя в буркани, докато е още гореща. Бурканите се затварят старателно и не се стерилизират."
+        },
+        {
+          "@type": "HowToStep",
+          "text": ""
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "сини сливи",
+        "qty": "3 кг",
+        "id": "http://www.1001recepti.com/s/205611-sini-slivi"
+      },
+      {
+        "name": "захар",
+        "qty": "1 кг",
+        "id": "http://www.1001recepti.com/s/186585-zahar"
+      },
+      {
+        "name": "индрише",
+        "qty": "6 листа",
+        "id": "http://www.1001recepti.com/s/201948-recepta"
+      }
+    ]
+  },
+  "2320": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Гарам масала - индийски микс от подправки",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/garam-masala-1-[2320].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/garam-masala-1-[2320].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/garam-masala-1-[2320].jpg"
+      ],
+      "datePublished": "2013-02-13",
+      "cookTime": "PT0H20M",
+      "recipeYield": "8 servings",
+      "recipeCategory": "Други",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "23 calories",
+        "carbohydrateContent": "4 g",
+        "fatContent": "0 g",
+        "proteinContent": "1 g",
+        "saturatedFatContent": "0 g",
+        "unsaturatedFatContent": "0.1597925 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "8 с.л. семена от кориандър",
+        "4 с.л. кимион",
+        "2 ч.л. черен пипер на зърна",
+        "4 с.л. кардамон",
+        "2 ч.л. карамфил",
+        "2 пръчици канела"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Подходящ тиган се загрява на средна степен и в него се слагат кориандърът (8 с.л.), кимионът (4 с.л.), черният пипер (2 ч.л.), кардамонът (4 с.л.), карамфилът (2 ч.л.) и канелата (2 пръчици). Изпичат се, като се разбъркват периодично, за да не загорят. Ако котлонът е прекалено силен, отвътре ще останат сурови. Щом са готови, се отстраняват от котлона и се оставят да изстинат. Кардамонът се обелва и заедно с другите подправки се смила в машина или в хаванче до получаване на ситна смес. Така получената подправка трябва да е съхранява в добре затворен съд."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Гарам масалата е в основата на множество индийски ястия. Ако желаете да използвате смлени подправките и само да ги смесите, но за най-добър резултат използвайте инструкциите по-горе."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "семена от кориандър",
+        "qty": "8 с.л.",
+        "id": "http://www.1001recepti.com/s/201948-recepta"
+      },
+      {
+        "name": "кимион",
+        "qty": "4 с.л.",
+        "id": "http://www.1001recepti.com/s/189725-kimion"
+      },
+      {
+        "name": "черен пипер на зърна",
+        "qty": "2 ч.л.",
+        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+      },
+      {
+        "name": "кардамон",
+        "qty": "4 с.л.",
+        "id": "http://www.1001recepti.com/s/188056-kardamon"
+      },
+      {
+        "name": "карамфил",
+        "qty": "2 ч.л.",
+        "id": "http://www.1001recepti.com/s/188047-karamfil"
+      },
+      {
+        "name": "канела",
+        "qty": "2 пръчици",
+        "id": "http://www.1001recepti.com/s/187922-kanela"
+      }
+    ]
+  },
+  "2620": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Лесно сладко от киви",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/lesno-sladko-ot-kivi-1-[2620].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/lesno-sladko-ot-kivi-1-[2620].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/lesno-sladko-ot-kivi-1-[2620].jpg"
+      ],
+      "datePublished": "2013-07-15",
+      "cookTime": "PT0H45M",
+      "recipeYield": "20 servings",
+      "recipeCategory": "Други",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "255 calories",
+        "carbohydrateContent": "64 g",
+        "fatContent": "0 g",
+        "proteinContent": "0 g",
+        "saturatedFatContent": "0 g",
+        "unsaturatedFatContent": "0.241 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "2 кг киви",
+        "1 кг захар",
+        "6 пръчици карамфил"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Плодовете киви (2 кг) се обелват с белачка и се нарязват на кубчета. Слагат се в огнеупорен съд, заливат се със захарта (1 кг) и се поставят на котлона. Варят се, заедно с пръчиците карамфил (6 пръчици), като това трае до сгъстяване на сладкото. То е готово тогава, когато при капване на част от сладкото върху порцеланова чиния, след няколко секунди то не се разтича при наклоняване на чинията."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Накрая сладкото се поставя в буркани, докато е още горещо. Те се затварят херметически и се обръщат с капачките надолу.   "
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "киви",
+        "qty": "2 кг",
+        "id": "http://www.1001recepti.com/s/189663-kivi"
+      },
+      {
+        "name": "захар",
+        "qty": "1 кг",
+        "id": "http://www.1001recepti.com/s/186585-zahar"
+      },
+      {
+        "name": "карамфил",
+        "qty": "6 пръчици",
+        "id": "http://www.1001recepti.com/s/188047-karamfil"
+      }
+    ]
+  },
+  "2621": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Сладко от киви",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/sladko-ot-kivi-1-[2621].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/sladko-ot-kivi-1-[2621].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/sladko-ot-kivi-1-[2621].jpg"
+      ],
+      "datePublished": "2013-07-15",
+      "cookTime": "PT0H45M",
+      "recipeYield": "20 servings",
+      "recipeCategory": "Други",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "324 calories",
+        "carbohydrateContent": "83 g",
+        "fatContent": "0 g",
+        "proteinContent": "0 g",
+        "saturatedFatContent": "0 g",
+        "unsaturatedFatContent": "0.121953 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "1 кг киви",
+        "1 1/2 кг захар",
+        "1/2  лимон",
+        "1 с.л. царевично нишесте",
+        "1 ч.ч. вода"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Плодовете киви (1 кг) се обелват с белачка и се нарязват на кубчета. Слагат се в огнеупорен съд, заливат се със захарта (1 1/2 кг), лимоновия сок и водата (1 ч.ч.), и се поставят на котлона при слаб огън за половин час. "
+        },
+        {
+          "@type": "HowToStep",
+          "text": "След това се прибавя разтвореното в малко вода царевично нишесте (1 с.л.) и варенето продължава още няколко минути, като се бърка непрекъснато, за да може нишестето да се разтвори. "
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Накрая сладкото се оставя да изстине и се поставя в буркани, които се затварят херметически.   "
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "киви",
+        "qty": "1 кг",
+        "id": "http://www.1001recepti.com/s/189663-kivi"
+      },
+      {
+        "name": "захар",
+        "qty": "1 1/2 кг",
+        "id": "http://www.1001recepti.com/s/186585-zahar"
+      },
+      {
+        "name": "лимон",
+        "qty": "1/2",
+        "id": "http://www.1001recepti.com/s/192361-limoni"
+      },
+      {
+        "name": "царевично нишесте",
+        "qty": "1 с.л.",
+        "id": "http://www.1001recepti.com/s/194718-nisheste"
+      },
+      {
+        "name": "вода",
+        "qty": "1 ч.ч.",
+        "id": "http://www.1001recepti.com/s/183428-voda"
+      }
+    ]
+  },
+  "2622": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Мармалад от ягоди без вода",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/marmalad-ot-iagodi-bez-voda-1-[2622].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/marmalad-ot-iagodi-bez-voda-1-[2622].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/marmalad-ot-iagodi-bez-voda-1-[2622].jpg"
+      ],
+      "datePublished": "2013-07-19",
+      "cookTime": "PT0H45M",
+      "recipeYield": "30 servings",
+      "recipeCategory": "Други",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "278 calories",
+        "carbohydrateContent": "71 g",
+        "fatContent": "0 g",
+        "proteinContent": "0 g",
+        "saturatedFatContent": "0 g",
+        "unsaturatedFatContent": "0.124 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "2 кг ягоди",
+        "2 кг захар"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Ягодите се измиват, подсушават и поръсват със захарта. Оставят се за един ден в хладилника. На следващия ден се поставят тенджера и се варят само за 5 минути след момента на завиране. След като изстинат, отново се поставят в хладилника. На третия ден се варят 7 минути след момента на завиране. След това се поставят в буркани, като те се затварят без да се стерилизират."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "ягоди",
+        "qty": "2 кг",
+        "id": "http://www.1001recepti.com/s/213173-iagodi"
+      },
+      {
+        "name": "захар",
+        "qty": "2 кг",
+        "id": "http://www.1001recepti.com/s/186585-zahar"
+      }
+    ]
+  },
+  "2626": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Сладко от круши",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/sladko-ot-krushi-2-[2626].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/sladko-ot-krushi-2-[2626].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/sladko-ot-krushi-2-[2626].jpg"
+      ],
+      "datePublished": "2013-07-20",
+      "cookTime": "PT1H30M",
+      "recipeYield": "10 servings",
+      "recipeCategory": "Други",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "447 calories",
+        "carbohydrateContent": "115 g",
+        "fatContent": "0 g",
+        "proteinContent": "0 g",
+        "saturatedFatContent": "0 g",
+        "unsaturatedFatContent": "0.094 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "1 кг круши",
+        "1 кг захар",
+        "1 ч.л. лимонтузу"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Крушите се измиват, подсушават се, обелват се и се нарязват на парчеца, като семките им се отстраняват. Поставят се в тенджера и се заливат с вода, колкото да ги покрие. Варят се, докато омекнат."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "В друга тенджера се приготвя сироп от захарта и вода от варенето на крушите - при 1 кг захар се прибавя 1 ч.ч. вода. Щом сиропът започне да се сгъстява, се прибавят крушите и сладкото се вари на тих огън. Разбърква се често. Когато сладкото се сгъсти, се прибавя лимонтузуто и се разбърква старателно. Сладкото се сваля от котлона и се разпределя в буркани, които се затварят херметически. "
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "круши",
+        "qty": "1 кг",
+        "id": "http://www.1001recepti.com/s/191305-krushi"
+      },
+      {
+        "name": "захар",
+        "qty": "1 кг",
+        "id": "http://www.1001recepti.com/s/186585-zahar"
+      },
+      {
+        "name": "лимонтузу",
+        "qty": "1 ч.л.",
+        "id": "http://www.1001recepti.com/s/225120-limontuzu"
+      }
+    ]
+  },
+  "2627": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Сладко от кайсии",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/sladko-kaisii-[2627].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/sladko-kaisii-[2627].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/sladko-kaisii-[2627].jpg"
+      ],
+      "datePublished": "2013-07-19",
+      "cookTime": "PT1H0M",
+      "recipeYield": "10 servings",
+      "recipeCategory": "Други",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "436 calories",
+        "carbohydrateContent": "111 g",
+        "fatContent": "0 g",
+        "proteinContent": "1 g",
+        "saturatedFatContent": "0 g",
+        "unsaturatedFatContent": "0.077 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "1 кг кайсии",
+        "1 кг захар",
+        "1 ч.л. лимонена киселина",
+        "1 ч.ч. вода"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Кайсиите се обелват, разполовяват и костилките им се отстраняват. Оставят се да престоят 3-4 часа в утаена варена вода /на 5 л вода – 500 г негасена вар/. Изплакват се обилно със студена вода няколко пъти. Отцеждат се и се пускат в горещ сироп, приготвен от водата и захарта. Варят се 10 минути. "
+        },
+        {
+          "@type": "HowToStep",
+          "text": "На следващия ден отново се варят 10 минути, а на третия ден се варят само 5 минути. Добавя се лимонената киселина, варенето продължава още 2 минути и сладкото се отстранява от котлона. Разсипва се в буркани след още един ден, за да могат плодовете да се напоят със сироп. Подходящи аромати за това сладко са листата от индрише."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "кайсии",
+        "qty": "1 кг",
+        "id": "http://www.1001recepti.com/s/187633-kaisii"
+      },
+      {
+        "name": "захар",
+        "qty": "1 кг",
+        "id": "http://www.1001recepti.com/s/186585-zahar"
+      },
+      {
+        "name": "лимонена киселина",
+        "qty": "1 ч.л.",
+        "id": "http://www.1001recepti.com/s/225120-limontuzu"
+      },
+      {
+        "name": "вода",
+        "qty": "1 ч.ч.",
+        "id": "http://www.1001recepti.com/s/183428-voda"
+      }
+    ]
+  },
+  "2628": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Сладко от зрели смокини",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/sladko-ot-zreli-smokini-1-[2628].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/sladko-ot-zreli-smokini-1-[2628].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/sladko-ot-zreli-smokini-1-[2628].jpg"
+      ],
+      "datePublished": "2013-07-19",
+      "cookTime": "PT1H30M",
+      "recipeYield": "10 servings",
+      "recipeCategory": "Други",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "462 calories",
+        "carbohydrateContent": "119 g",
+        "fatContent": "0 g",
+        "proteinContent": "0 g",
+        "saturatedFatContent": "0 g",
+        "unsaturatedFatContent": "0.144 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "1 кг смокини",
+        "1 кг захар",
+        "1 ч.л. лимонена киселина",
+        "1 ч.ч. вода"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Смокините  се обелват, като се внимава да не се разкъсат. Поръсват се със захарта и се оставят да престоят половин час. След това се добавя водата и сладкото се слага на котлона. Вари се на силен огън, като периодично се потупва с опакото на лъжицата, за да не изкипи сладкото. От време на време с решетъчна лъжица се обира образувалата се пяна и се отстранява.  Вари се до сгъстяване и малко преди да се премести от огъня, се добавя лимонтузуто, предварително разтворено в малко вода. Разбърква се старателно и сладкото от смокини се разпределя горещо в сухи буркани, които не се затварят веднага. По желание бурканите се стерилизират за 5 минути. "
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "смокини",
+        "qty": "1 кг",
+        "id": "http://www.1001recepti.com/s/216464-smokinia"
+      },
+      {
+        "name": "захар",
+        "qty": "1 кг",
+        "id": "http://www.1001recepti.com/s/186585-zahar"
+      },
+      {
+        "name": "лимонена киселина",
+        "qty": "1 ч.л.",
+        "id": "http://www.1001recepti.com/s/225120-limontuzu"
+      },
+      {
+        "name": "вода",
+        "qty": "1 ч.ч.",
+        "id": "http://www.1001recepti.com/s/183428-voda"
+      }
+    ]
+  },
+  "2630": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Сладко от смокини",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/sladko-ot-smokini-2-[2630].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/sladko-ot-smokini-2-[2630].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/sladko-ot-smokini-2-[2630].jpg"
+      ],
+      "datePublished": "2013-07-19",
+      "cookTime": "PT1H30M",
+      "recipeYield": "10 servings",
+      "recipeCategory": "Други",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "462 calories",
+        "carbohydrateContent": "119 g",
+        "fatContent": "0 g",
+        "proteinContent": "0 g",
+        "saturatedFatContent": "0 g",
+        "unsaturatedFatContent": "0.144 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "1 кг смокини",
+        "1 кг захар",
+        "1 ч.л. лимонена киселина",
+        "1 ч.ч. вода"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Смокините  се обелват, като се внимава да не се разкъсат. Потапят се в утаена и прецедена варена вода (на 5 л вода – 500 г гасена вар). Оставят се да престоят половин час. Изваждат се и се обливат със студена вода. "
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Приготвя се захарен сироп от водата и захарта. Щом сиропът е готов, към него се прибавят смокините и сладкото се вари до сгъстяване. Няколко минути преди да е напълно готово сладкото, се прибавя лимонената киселина. След това сладкото се разпределя в буркани, които се затварят херметически."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "смокини",
+        "qty": "1 кг",
+        "id": "http://www.1001recepti.com/s/216464-smokinia"
+      },
+      {
+        "name": "захар",
+        "qty": "1 кг",
+        "id": "http://www.1001recepti.com/s/186585-zahar"
+      },
+      {
+        "name": "лимонена киселина",
+        "qty": "1 ч.л.",
+        "id": "http://www.1001recepti.com/s/225120-limontuzu"
+      },
+      {
+        "name": "вода",
+        "qty": "1 ч.ч.",
+        "id": "http://www.1001recepti.com/s/183428-voda"
+      }
+    ]
+  },
+  "2631": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Мармалад от кайсии",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/marmalad-ot-kaisii-2-[2631].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/marmalad-ot-kaisii-2-[2631].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/marmalad-ot-kaisii-2-[2631].jpg"
+      ],
+      "datePublished": "2013-07-19",
+      "cookTime": "PT1H0M",
+      "recipeYield": "20 servings",
+      "recipeCategory": "Други",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "155 calories",
+        "carbohydrateContent": "38 g",
+        "fatContent": "0 g",
+        "proteinContent": "0 g",
+        "saturatedFatContent": "0 g",
+        "unsaturatedFatContent": "0.05082 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "4 ч.ч. пюре от кайсии",
+        "3 ч.ч. захар",
+        "2 ч.л. есенция бадем",
+        "2 с.л. ром"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Почистените от костилките кайсии се намачкват и заливат с вряла вода в гевгир. Щом водата се отцеди, се добавя захарта и се бърка на котлона до пълното и разтваряне. Сместа се вари до нейното сгъстяване. Горещият мармалад се налива в сухи буркани, и щом на повърхността се образува коричка, се добавят есенцията бадем и конякът. Бурканите се затварят добре херметически и се съхраняват на сухо и хладно място. "
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "пюре от кайсии",
+        "qty": "4 ч.ч.",
+        "id": "http://www.1001recepti.com/s/187633-kaisii"
+      },
+      {
+        "name": "захар",
+        "qty": "3 ч.ч.",
+        "id": "http://www.1001recepti.com/s/186585-zahar"
+      },
+      {
+        "name": "есенция бадем",
+        "qty": "2 ч.л.",
+        "id": "http://www.1001recepti.com/s/201948-recepta"
+      },
+      {
+        "name": "ром",
+        "qty": "2 с.л.",
+        "id": "http://www.1001recepti.com/s/203139-rom"
+      }
+    ]
+  },
+  "2632": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Мармалад от кайсии с пектин",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/marmalad-ot-kaisii-s-pektin-1-[2632].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/marmalad-ot-kaisii-s-pektin-1-[2632].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/marmalad-ot-kaisii-s-pektin-1-[2632].jpg"
+      ],
+      "datePublished": "2013-07-19",
+      "cookTime": "PT1H0M",
+      "recipeYield": "20 servings",
+      "recipeCategory": "Други",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "460 calories",
+        "carbohydrateContent": "116 g",
+        "fatContent": "0 g",
+        "proteinContent": "2 g",
+        "saturatedFatContent": "0 g",
+        "unsaturatedFatContent": "0.1155 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "3 кг кайсии",
+        "2 кг захар",
+        "1/2 л. вода",
+        "20 г пектин",
+        "10 г лимонена киселина"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Кайсиите се разполовявта и се почистват от костилките. Подреждат се в тавичка и се заливат със захарта. Оставят се за една нощ да престоят. "
+        },
+        {
+          "@type": "HowToStep",
+          "text": "На следващия ден се варят на силен огън до сгъстяване  и получаване на мармалад. Пет минути след като заврат, се добавя пектинът, предварително разтворен в малко вода със захар. Малко преди да се премести от огъня, се добавя и лимонената киселина и се разбърква.  Горещият мармалад се налива в сухи буркани. Те се затварят добре херметически, обръщат се с капачката надолу и се съхраняват на сухо и хладно място. "
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "кайсии",
+        "qty": "3 кг",
+        "id": "http://www.1001recepti.com/s/187633-kaisii"
+      },
+      {
+        "name": "захар",
+        "qty": "2 кг",
+        "id": "http://www.1001recepti.com/s/186585-zahar"
+      },
+      {
+        "name": "вода",
+        "qty": "1/2 л.",
+        "id": "http://www.1001recepti.com/s/183428-voda"
+      },
+      {
+        "name": "пектин",
+        "qty": "20 г",
+        "id": "http://www.1001recepti.com/s/201948-recepta"
+      },
+      {
+        "name": "лимонена киселина",
+        "qty": "10 г",
+        "id": "http://www.1001recepti.com/s/225120-limontuzu"
+      }
+    ]
+  },
+  "2633": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Сладко от праскови",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/sladko-ot-praskovi-1-[2633].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/sladko-ot-praskovi-1-[2633].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/sladko-ot-praskovi-1-[2633].jpg"
+      ],
+      "datePublished": "2013-07-20",
+      "cookTime": "PT1H0M",
+      "recipeYield": "10 servings",
+      "recipeCategory": "Други",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "452 calories",
+        "carbohydrateContent": "116 g",
+        "fatContent": "0 g",
+        "proteinContent": "1 g",
+        "saturatedFatContent": "0 g",
+        "unsaturatedFatContent": "0.0675 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "1 1/2 кг праскови",
+        "1 кг захар"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Прасковите се обелват, костилките им се отстраняват и плодовете се нарязват на четвъртинки. Поставят се в дълбока тенджера и се поръсват с половината захар. Оставят се за 5-6 часа в хладилник."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "След това се изваждат и се поставят на котлона. Варят се в продължение на 10 минути от момента на завиране, след което се преместват от котлона. Поръсват се с останалата част от захарта и се оставят отново за 5-6 часа да престоят. "
+        },
+        {
+          "@type": "HowToStep",
+          "text": "След това се доваряват окончателно до сгъстяване на сиропа. Разпределят се в буркани за сладко, които се затварят херметически."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "праскови",
+        "qty": "1 1/2 кг",
+        "id": "http://www.1001recepti.com/s/200462-praskovi"
+      },
+      {
+        "name": "захар",
+        "qty": "1 кг",
+        "id": "http://www.1001recepti.com/s/186585-zahar"
+      }
+    ]
+  },
+  "2746": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Сладко от малини",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/sladko-ot-malini-2-[2746].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/sladko-ot-malini-2-[2746].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/sladko-ot-malini-2-[2746].jpg"
+      ],
+      "datePublished": "2014-02-12",
+      "cookTime": "PT1H30M",
+      "recipeYield": "16 servings",
+      "recipeCategory": "Други",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "273 calories",
+        "carbohydrateContent": "69 g",
+        "fatContent": "0 g",
+        "proteinContent": "0 g",
+        "saturatedFatContent": "0 g",
+        "unsaturatedFatContent": "0.195625 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "1 кг малини",
+        "1 кг захар",
+        "2 ч.ч. вода",
+        "1 ч.л. лимонена киселина"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Малините (1 кг) се слагат в тава и върху тях се изсипва захарта (1 кг). Остават се да престоят за една нощ в хладилник."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "На сутринта се добавя водата (2 ч.ч.) и се слагат на котлона да се варят на тих огън. Получава се пяна, която е много важно да бъде отстранявана постоянно. "
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Сладкото е готово, когато се вземе малко от сока на сладкото с лъжица и се се сложи в чинийка. Лъжицата трябва да образува черта през соса. ако след образуване на чертата, тя не се слее и остане, значи сладкото е достатъчно гъсто и е готово. "
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Няколко минути преди да се премести сладкото от котлона, се слага лимонената киселина (1 ч.л.) и се разбърква."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Сладкото се сипва горещо в сухи и затоплени буркани, като се напълва до горе, за да не остане въздух. Бурканите не необходимо да се обръщат надолу с капачките."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "малини",
+        "qty": "1 кг",
+        "id": "http://www.1001recepti.com/s/192856-malini"
+      },
+      {
+        "name": "захар",
+        "qty": "1 кг",
+        "id": "http://www.1001recepti.com/s/186585-zahar"
+      },
+      {
+        "name": "вода",
+        "qty": "2 ч.ч.",
+        "id": "http://www.1001recepti.com/s/183428-voda"
+      },
+      {
+        "name": "лимонена киселина",
+        "qty": "1 ч.л.",
+        "id": "http://www.1001recepti.com/s/225120-limontuzu"
+      }
+    ]
+  },
+  "2957": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Домашна лютеница с мед",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/domashna-lutenica-s-med-1-[2957].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/domashna-lutenica-s-med-1-[2957].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/domashna-lutenica-s-med-1-[2957].jpg"
+      ],
+      "datePublished": "2014-10-21",
+      "cookTime": "PT1H0M",
+      "recipeYield": "1 servings",
+      "recipeCategory": "Други",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "3233 calories",
+        "carbohydrateContent": "397 g",
+        "fatContent": "189 g",
+        "proteinContent": "46 g",
+        "saturatedFatContent": "19 g",
+        "unsaturatedFatContent": "159.0624 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "4 кг червени чушки",
+        "400 г доматено пюре",
+        "20 скилидки чесън",
+        "100 г мед",
+        "20 г сол",
+        "200 мл. олио"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Чушките (4 кг) се измиват и се почистват старателно от дръжките и семките. Изпичат се, докато люспата им започне да се отделя лесно, и се обелват."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Смилат се ситно в машинка за месо. "
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Скилидките чесън (20 скилидки) се обелват и нарязват на ситно. "
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Всички продукти се смесват в подходящ съд - смлените чушки (4 кг), ситно нарязаните скилидки чесън (20 скилидки), медът (100 г), солта (20 г) и доматеното пюре (400 г). Олиото (200 мл.) се загрява, за да не гранясва. Добавя се на тънка струйка при непрекъснато бъркане. "
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Лютеницата се сипва в буркани, те са затварят добре с капачки и се варят за 20 минути."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "червени чушки",
+        "qty": "4 кг",
+        "id": "http://www.1001recepti.com/s/212296-chushki"
+      },
+      {
+        "name": "доматено пюре",
+        "qty": "400 г",
+        "id": "http://www.1001recepti.com/s/185315-domateno-pure"
+      },
+      {
+        "name": "чесън",
+        "qty": "20 скилидки",
+        "id": "http://www.1001recepti.com/s/212113-chesun"
+      },
+      {
+        "name": "мед",
+        "qty": "100 г",
+        "id": "http://www.1001recepti.com/s/193286-med"
+      },
+      {
+        "name": "сол",
+        "qty": "20 г",
+        "id": "http://www.1001recepti.com/s/206867-sol"
+      },
+      {
+        "name": "олио",
+        "qty": "200 мл.",
+        "id": "http://www.1001recepti.com/s/195019-olio"
+      }
+    ]
+  },
+  "2965": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Стерилизирани кисели краставички",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/sterilizirani-kiseli-krastavichki-1-[2965].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/sterilizirani-kiseli-krastavichki-1-[2965].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/sterilizirani-kiseli-krastavichki-1-[2965].jpg"
+      ],
+      "datePublished": "2014-10-24",
+      "cookTime": "PT0H30M",
+      "recipeYield": "4 servings",
+      "recipeCategory": "Други",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "179 calories",
+        "carbohydrateContent": "38 g",
+        "fatContent": "1 g",
+        "proteinContent": "6 g",
+        "saturatedFatContent": "0 g",
+        "unsaturatedFatContent": "0.4693 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "3 1/4 кг краставички",
+        "4 с.л. сол",
+        "4 с.л. захар",
+        "200 мл. оцет",
+        "1 глава лук",
+        "20 зърна черен пипер",
+        "2 връзки копър",
+        "вода"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "На дъното на четири буркана се поставят солта (4 с.л.), захарта (4 с.л.), зърната черен пипер (20 зърна), копърът (2 връзки) и лукът (1 глава), нарязан на шайби. Краставичките (3 1/4 кг) се нареждат прави в бурканите, слага се оцетът (200 мл.) и се долива с вода до ръба на бурканите."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Краставичките се стерилизират за 5 минути, след което веднага се охлаждат."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Продуктите са за четири буркана с вместимост 800 мл."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "краставички",
+        "qty": "3 1/4 кг",
+        "id": "http://www.1001recepti.com/s/190690-krastavici"
+      },
+      {
+        "name": "сол",
+        "qty": "4 с.л.",
+        "id": "http://www.1001recepti.com/s/206867-sol"
+      },
+      {
+        "name": "захар",
+        "qty": "4 с.л.",
+        "id": "http://www.1001recepti.com/s/186585-zahar"
+      },
+      {
+        "name": "оцет",
+        "qty": "200 мл.",
+        "id": "http://www.1001recepti.com/s/195631-ocet"
+      },
+      {
+        "name": "лук",
+        "qty": "1 глава",
+        "id": "http://www.1001recepti.com/s/192500-luk"
+      },
+      {
+        "name": "черен пипер",
+        "qty": "20 зърна",
+        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+      },
+      {
+        "name": "копър",
+        "qty": "2 връзки",
+        "id": "http://www.1001recepti.com/s/190523-kopur"
+      },
+      {
+        "name": "вода",
+        "qty": "Parsing error",
+        "id": "http://www.1001recepti.com/s/183428-voda"
+      }
+    ]
+  },
+  "3045": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Домашен бахур - класическа рецепта",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/domashen-bahur-klasicheska-recepta-1-[3045].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/domashen-bahur-klasicheska-recepta-1-[3045].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/domashen-bahur-klasicheska-recepta-1-[3045].jpg"
+      ],
+      "datePublished": "2015-01-28",
+      "cookTime": "PT2H0M",
+      "recipeYield": "12 servings",
+      "recipeCategory": "Други",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "326 calories",
+        "carbohydrateContent": "14 g",
+        "fatContent": "21 g",
+        "proteinContent": "17 g",
+        "saturatedFatContent": "7 g",
+        "unsaturatedFatContent": "11.40395 g",
+        "cholesterolContent": "85 mg"
+      },
+      "recipeIngredient": [
+        "6  свински черва",
+        "1  бял свински дроб",
+        "1  черен свински дроб",
+        "1  свинско сърце",
+        "200 г ориз",
+        "2 ч.л. бахар",
+        "3 с.л. чубрица",
+        "1 с.л. черен пипер",
+        "3 с.л. сол",
+        "1 кг свинско месо"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "За да се приготви домашен бахур, най-напред се започва с измиването на червата. Прави се под течаща вода, но не прекалява със силата на струята, тъй като могат да се скъсат, а е важно да останат цели. Обръщат се и се измиват и отвътре. След това се измиват месото и субпродуктите. Нарязват се на ситни кубчета. Овкусяват се с черен пипер, сол бахар и чубрица и се смесват с ориза. "
+        },
+        {
+          "@type": "HowToStep",
+          "text": "С получената смес се пълнят червата, но не прекалено, за да не се спукат. Връзват се в двата края с подходящ конец."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "В дълбока тенджера се поставя подсолена вода и в нея се поставят бахурите. Оставят се да се варят, като силата на котлона се намалява. Готови са, ако при пробождане с вилица се пробождат лесно. Изваждат се и се оставят да изстинат. Съхраняват се на хладно място и се режат на колеца. "
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "свински черва",
+        "qty": "6",
+        "id": "http://www.1001recepti.com/s/204815-svinski-drob"
+      },
+      {
+        "name": "бял свински дроб",
+        "qty": "1",
+        "id": "http://www.1001recepti.com/s/204815-svinski-drob"
+      },
+      {
+        "name": "черен свински дроб",
+        "qty": "1",
+        "id": "http://www.1001recepti.com/s/204815-svinski-drob"
+      },
+      {
+        "name": "свинско сърце",
+        "qty": "1",
+        "id": "http://www.1001recepti.com/s/204986-svinski-surca"
+      },
+      {
+        "name": "ориз",
+        "qty": "200 г",
+        "id": "http://www.1001recepti.com/s/195166-oriz"
+      },
+      {
+        "name": "бахар",
+        "qty": "2 ч.л.",
+        "id": "http://www.1001recepti.com/s/181583-bahar"
+      },
+      {
+        "name": "чубрица",
+        "qty": "3 с.л.",
+        "id": "http://www.1001recepti.com/s/212278-chubrica"
+      },
+      {
+        "name": "черен пипер",
+        "qty": "1 с.л.",
+        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+      },
+      {
+        "name": "сол",
+        "qty": "3 с.л.",
+        "id": "http://www.1001recepti.com/s/206867-sol"
+      },
+      {
+        "name": "свинско месо",
+        "qty": "1 кг",
+        "id": "http://www.1001recepti.com/s/205140-svinsko-meso"
+      }
+    ]
+  },
+  "3127": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Сладко от зелени орехчета",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/sladko-ot-zeleni-orehcheta-1-[3127].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/sladko-ot-zeleni-orehcheta-1-[3127].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/sladko-ot-zeleni-orehcheta-1-[3127].jpg"
+      ],
+      "datePublished": "2016-12-07",
+      "cookTime": "PT2H0M",
+      "recipeYield": "12 servings",
+      "recipeCategory": "Други",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "356 calories",
+        "carbohydrateContent": "84 g",
+        "fatContent": "3 g",
+        "proteinContent": "0 g",
+        "saturatedFatContent": "0 g",
+        "unsaturatedFatContent": "2.3587 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "30  зелени орехчета",
+        "1 кг захар",
+        "1/2 л. вода",
+        "2 цветчета карамфил",
+        "1 пръчка канела",
+        "гасена вар",
+        "1 ч.л. лимонена киселина"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Кората на орехите се обелва и се пускат веднага в студена вода. Трябва да престоят в нея 7-8 дни, като всеки ден се подменя с нова и студена."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "С времето променят цвета си от светло на тъмно зелени. На полседния ден се измиват добре."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Всеки орех се продупчва по дължина с метален шиш."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Приготвя се варова вода, като се смесват на литър вода 2 сл гасена вар. Разбърква се и се прецежда."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "В получената смес се слагат орехите и престояват поне 5 часа. След това се измиват добре и се слагат в тенджера с вода. Щом водата заври се изхвърля и се подменя с нова. Процедурата се повтаря три пъти. "
+        },
+        {
+          "@type": "HowToStep",
+          "text": "В друга тенджера се смесват захар (1 кг), вода (1/2 л.), карамфил (2 цветчета) и канела (1 пръчка). Бърка се докато заври и захарта се разтвори. Добавят сварените орехи и варенето продължава на умерен огън. Продължава докато в орех може да се забие и извади игла без да го повдигне."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Сместа се оставя за едно денонощие да престои. След това орехите се прехвърлят в буркани, а сиропът се сгъстява до такава степен, че капка от него да остава върху чиния, запазвайки формата си. Непосредствено преди свалянето от огъня се добавя лимонената киселина и се разбърква, така че да се разтвори. Сиропът се налива в бурканите. Затварят се и се захлупват с капачката надолу."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "зелени орехчета",
+        "qty": "30",
+        "id": "http://www.1001recepti.com/s/195111-orehi"
+      },
+      {
+        "name": "захар",
+        "qty": "1 кг",
+        "id": "http://www.1001recepti.com/s/186585-zahar"
+      },
+      {
+        "name": "вода",
+        "qty": "1/2 л.",
+        "id": "http://www.1001recepti.com/s/183428-voda"
+      },
+      {
+        "name": "карамфил",
+        "qty": "2 цветчета",
+        "id": "http://www.1001recepti.com/s/188047-karamfil"
+      },
+      {
+        "name": "канела",
+        "qty": "1 пръчка",
+        "id": "http://www.1001recepti.com/s/187922-kanela"
+      },
+      {
+        "name": "гасена вар",
+        "qty": "Parsing error",
+        "id": "http://www.1001recepti.com/s/201948-recepta"
+      },
+      {
+        "name": "лимонена киселина",
+        "qty": "1 ч.л.",
+        "id": "http://www.1001recepti.com/s/225120-limontuzu"
+      }
+    ]
+  },
+  "3167": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Бланширани картофи във фритюрник",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/blanshirani-kartofi-vuv-friturnik-1-[3167].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/blanshirani-kartofi-vuv-friturnik-1-[3167].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/blanshirani-kartofi-vuv-friturnik-1-[3167].jpg"
+      ],
+      "datePublished": "2017-01-18",
+      "cookTime": "PT0H10M",
+      "recipeYield": "4 servings",
+      "recipeCategory": "Други",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "856 calories",
+        "carbohydrateContent": "43 g",
+        "fatContent": "75 g",
+        "proteinContent": "5 g",
+        "saturatedFatContent": "37 g",
+        "unsaturatedFatContent": "34.0825 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "1 кг картофи",
+        "300 г палмова мазнина"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Необходимо е да се използва мазнина, която е твърда на стайна температура. Поставя се във фритюрник и се загрява. Картофите се обелват и нарязват на пръчици. "
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Щом мазнината е загрята се поставят картофите и се пържат за 2-3 минути. Изваждат се и се отцеждат, след което се поставят в плик и се прибират за съхранение във фризера."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "картофи",
+        "qty": "1 кг",
+        "id": "http://www.1001recepti.com/s/188416-kartofi"
+      },
+      {
+        "name": "палмова мазнина",
+        "qty": "300 г",
+        "id": "http://www.1001recepti.com/s/225091-palmovo-maslo"
+      }
+    ]
+  },
+  "3168": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Бланширани картофи във вода за пържене",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/blanshirani-kartofi-vuv-voda-za-purjene-1-[3168].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/blanshirani-kartofi-vuv-voda-za-purjene-1-[3168].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/blanshirani-kartofi-vuv-voda-za-purjene-1-[3168].jpg"
+      ],
+      "datePublished": "2017-01-18",
+      "cookTime": "PT0H10M",
+      "recipeYield": "4 servings",
+      "recipeCategory": "Други",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "193 calories",
+        "carbohydrateContent": "43 g",
+        "fatContent": "0 g",
+        "proteinContent": "5 g",
+        "saturatedFatContent": "0 g",
+        "unsaturatedFatContent": "0.1075 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "1 кг картофи",
+        "1 1/2 л. вряща вода",
+        "1 1/2 л. студена вода"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Картофите се обелват и нарязват на пръчици с желаната дебелина."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Половината вода се кипва и в нея се пускат картофите. Варят се 2 минути, след което се изваждат, отцеждат и потапят в студена вода за 7-8 минути. "
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Отново се отцеждат и се разстилат на кърпа за да се подсушат и да не залепват. Поставят се в плик и се замръзяват, готови за пържене.  "
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "картофи",
+        "qty": "1 кг",
+        "id": "http://www.1001recepti.com/s/188416-kartofi"
+      },
+      {
+        "name": "вряща вода",
+        "qty": "1 1/2 л.",
+        "id": "http://www.1001recepti.com/s/201948-recepta"
+      },
+      {
+        "name": "студена вода",
+        "qty": "1 1/2 л.",
+        "id": "http://www.1001recepti.com/s/201948-recepta"
+      }
+    ]
+  },
+  "3178": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Домашно фъстъчено масло",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/domashno-fustucheno-maslo-1-[3178].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/domashno-fustucheno-maslo-1-[3178].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/domashno-fustucheno-maslo-1-[3178].jpg"
+      ],
+      "datePublished": "2017-03-15",
+      "cookTime": "PT0H30M",
+      "recipeYield": "16 servings",
+      "recipeCategory": "Други",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "154 calories",
+        "carbohydrateContent": "7 g",
+        "fatContent": "12 g",
+        "proteinContent": "6 g",
+        "saturatedFatContent": "1 g",
+        "unsaturatedFatContent": "9.88975 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "400 г фъстъци",
+        "200 мл. фъстъчено олио",
+        "1/2 с.л. сол",
+        "4 с.л. захар"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Фъстъците (400 г) се изпичат и обелват. Поставят се в кухненски робот и се смилат. На малки порции и при постоянно разбиване се добавя фъстъченото олио (200 мл.) докато се получи гладък крем. Накрая се добавят солта (1/2 с.л.) и захарта (4 с.л.) и се опитва. По желание може да се добави още сол или захар."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "фъстъци",
+        "qty": "400 г",
+        "id": "http://www.1001recepti.com/s/211141-fustuci"
+      },
+      {
+        "name": "фъстъчено олио",
+        "qty": "200 мл.",
+        "id": "http://www.1001recepti.com/s/201948-recepta"
+      },
+      {
+        "name": "сол",
+        "qty": "1/2 с.л.",
+        "id": "http://www.1001recepti.com/s/206867-sol"
+      },
+      {
+        "name": "захар",
+        "qty": "4 с.л.",
+        "id": "http://www.1001recepti.com/s/186585-zahar"
+      }
+    ]
+  },
+  "3253": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Лесна лютеница без патладжани",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/lesna-lutenica-bez-patladjani-1-[3253].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/lesna-lutenica-bez-patladjani-1-[3253].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/lesna-lutenica-bez-patladjani-1-[3253].jpg"
+      ],
+      "datePublished": "2017-10-02",
+      "cookTime": "PT2H0M",
+      "recipeYield": "16 servings",
+      "recipeCategory": "Други",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "242 calories",
+        "carbohydrateContent": "27 g",
+        "fatContent": "15 g",
+        "proteinContent": "4 g",
+        "saturatedFatContent": "1 g",
+        "unsaturatedFatContent": "12.1938125 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "5 кг червени чушки",
+        "2 1/2 кг домати",
+        "250 мл. олио",
+        "50 г сол"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "За направата на тази лесна лютеница, първо се попарват доматите (2 1/2 кг) и се обелват. След това чушките (5 кг) се почистват от семената и също се попарват, за 2-3 минути, докато омекнат. "
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Зеленчуците се прекарат през месомелачка и се смесват в дълбока тенджера. Прибавят се олиото (250 мл.) и солта (50 г) и се варят на слаб огън, като периодично се разбъркват. "
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Готви се докато лютеницата се сгъсти, до желаната консистенция. Щом сместа поизстине се прехвърля в бурканчета, които се затварят и се стерилизират за 20 минути."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "червени чушки",
+        "qty": "5 кг",
+        "id": "http://www.1001recepti.com/s/212296-chushki"
+      },
+      {
+        "name": "домати",
+        "qty": "2 1/2 кг",
+        "id": "http://www.1001recepti.com/s/185321-domati"
+      },
+      {
+        "name": "олио",
+        "qty": "250 мл.",
+        "id": "http://www.1001recepti.com/s/195019-olio"
+      },
+      {
+        "name": "сол",
+        "qty": "50 г",
+        "id": "http://www.1001recepti.com/s/206867-sol"
+      }
+    ]
+  },
+  "3262": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Бърза класическа домашна майонеза с яйца приготвена с пасатор",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/burza-klasicheska-domashna-maioneza-s-pasator-1-[3262].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/burza-klasicheska-domashna-maioneza-s-pasator-1-[3262].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/burza-klasicheska-domashna-maioneza-s-pasator-1-[3262].jpg"
+      ],
+      "datePublished": "2017-10-13",
+      "cookTime": "PT0H5M",
+      "recipeYield": "8 servings",
+      "recipeCategory": "Други",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "324 calories",
+        "carbohydrateContent": "0 g",
+        "fatContent": "35 g",
+        "proteinContent": "1 g",
+        "saturatedFatContent": "4 g",
+        "unsaturatedFatContent": "29.90194125 g",
+        "cholesterolContent": "82 mg"
+      },
+      "recipeIngredient": [
+        "3  жълтъка",
+        "300 мл. олио",
+        "1 с.л. лимонов сок",
+        "1 ч.л. сол"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Във висок съд за пасиране се слагат жълтъците (3 бр), солта (1 ч.л.), лимоновият сок (1 с.л.) и съвсем малко от олиото (300 мл.). С блендър сместа се пасира и постепенно, на тънка струйка се сипва останалото олио. В даден момент течната смес ще стане с консистенция на гъста майонеза. В този момент приготвянето може да спре или да се продължи да се добавя олио, за да стане с по-малка гъстота. На този етап може да се добавят и други съставки за по-интересен вкус - например горчица, босилек, мента, чесън или лук на прах."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "жълтъка",
+        "qty": "3",
+        "id": "http://www.1001recepti.com/s/362535-iaichen-jultuk"
+      },
+      {
+        "name": "олио",
+        "qty": "300 мл.",
+        "id": "http://www.1001recepti.com/s/195019-olio"
+      },
+      {
+        "name": "лимонов сок",
+        "qty": "1 с.л.",
+        "id": "http://www.1001recepti.com/s/192380-limonov-sok"
+      },
+      {
+        "name": "сол",
+        "qty": "1 ч.л.",
+        "id": "http://www.1001recepti.com/s/206867-sol"
+      }
+    ]
+  },
+  "3263": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Домашна млечна майонеза без яйца",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/domashna-mlechna-maioneza-bez-iaica-2-[3263].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/domashna-mlechna-maioneza-bez-iaica-2-[3263].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/domashna-mlechna-maioneza-bez-iaica-2-[3263].jpg"
+      ],
+      "datePublished": "2017-10-13",
+      "cookTime": "PT0H5M",
+      "recipeYield": "8 servings",
+      "recipeCategory": "Други",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "262 calories",
+        "carbohydrateContent": "1 g",
+        "fatContent": "28 g",
+        "proteinContent": "0 g",
+        "saturatedFatContent": "3 g",
+        "unsaturatedFatContent": "24.35561625 g",
+        "cholesterolContent": "3 mg"
+      },
+      "recipeIngredient": [
+        "150 г прясно мляко",
+        "250 мл. олио",
+        "1 с.л. лимонов сок",
+        "1 ч.л. горчица",
+        "1/2 ч.л. чесън на прах",
+        "сол",
+        "черен пипер"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Прясното мляко (150 г), горчицата (1 ч.л.), лимоновия сок (1 с.л.) и чесъна на прах (1/2 ч.л.) се слагат във висок съд за пасиране. Отгоре се сипва олиото (250 мл.), сол и черен пипер."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "С пасатор се разбива сместа. Първоначално се слага на дъното на съда и бавсно се изтегля нагоре."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Получава се светла и пухкава смес, малко по-рядка от обикновена майонеза."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "прясно мляко",
+        "qty": "150 г",
+        "id": "http://www.1001recepti.com/s/193842-mliako"
+      },
+      {
+        "name": "олио",
+        "qty": "250 мл.",
+        "id": "http://www.1001recepti.com/s/195019-olio"
+      },
+      {
+        "name": "лимонов сок",
+        "qty": "1 с.л.",
+        "id": "http://www.1001recepti.com/s/192380-limonov-sok"
+      },
+      {
+        "name": "горчица",
+        "qty": "1 ч.л.",
+        "id": "http://www.1001recepti.com/s/183871-gorchica"
+      },
+      {
+        "name": "чесън на прах",
+        "qty": "1/2 ч.л.",
+        "id": "http://www.1001recepti.com/s/212113-chesun"
+      },
+      {
+        "name": "сол",
+        "qty": "Parsing error",
+        "id": "http://www.1001recepti.com/s/206867-sol"
+      },
+      {
+        "name": "черен пипер",
+        "qty": "Parsing error",
+        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+      }
+    ]
+  },
+  "3264": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Домашна веган майонеза с бадемово мляко",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/3264-domashna-mlechna-maioneza-bez-iaica-1-[3263].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/3264-domashna-mlechna-maioneza-bez-iaica-1-[3263].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/3264-domashna-mlechna-maioneza-bez-iaica-1-[3263].jpg"
+      ],
+      "datePublished": "2017-10-13",
+      "cookTime": "PT0H5M",
+      "recipeYield": "8 servings",
+      "recipeCategory": "Други",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "261 calories",
+        "carbohydrateContent": "0 g",
+        "fatContent": "28 g",
+        "proteinContent": "0 g",
+        "saturatedFatContent": "3 g",
+        "unsaturatedFatContent": "24.3515 g",
+        "cholesterolContent": "3 mg"
+      },
+      "recipeIngredient": [
+        "150 г бадемово мляко",
+        "250 мл. олио",
+        "1 с.л. лимонов сок",
+        "сол",
+        "черен пипер"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Бадемовото мляко (150 г), лимоновия сок (1 с.л.) и олиото (250 мл.) се слагат във висок съд за пасиране. Добавя се сол и черен пипер на вкус."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "С пасатор се разбива сместа, като първоначално се уредът се слага на дъното на съда и бавсно се изтегля нагоре."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Получава се светла и пухкава смес, малко по-рядка от обикновена майонеза."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "бадемово мляко",
+        "qty": "150 г",
+        "id": "http://www.1001recepti.com/s/193842-mliako"
+      },
+      {
+        "name": "олио",
+        "qty": "250 мл.",
+        "id": "http://www.1001recepti.com/s/195019-olio"
+      },
+      {
+        "name": "лимонов сок",
+        "qty": "1 с.л.",
+        "id": "http://www.1001recepti.com/s/192380-limonov-sok"
+      },
+      {
+        "name": "сол",
+        "qty": "Parsing error",
+        "id": "http://www.1001recepti.com/s/206867-sol"
+      },
+      {
+        "name": "черен пипер",
+        "qty": "Parsing error",
+        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+      }
+    ]
+  },
+  "3302": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Пържени яйца на очи с бекон",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/purjeni-iaica-na-ochi-s-bekon-1-[3302].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/purjeni-iaica-na-ochi-s-bekon-1-[3302].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/purjeni-iaica-na-ochi-s-bekon-1-[3302].jpg"
+      ],
+      "datePublished": "2018-06-08",
+      "cookTime": "PT0H15M",
+      "recipeYield": "1 servings",
+      "recipeCategory": "Други",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "740 calories",
+        "carbohydrateContent": "1 g",
+        "fatContent": "72 g",
+        "proteinContent": "19 g",
+        "saturatedFatContent": "24 g",
+        "unsaturatedFatContent": "42.45432 g",
+        "cholesterolContent": "441 mg"
+      },
+      "recipeIngredient": [
+        "2  яйца",
+        "100 г бекон",
+        "1 с.л. зехтин"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Беконът (100 г) се нарязва на тънко (или се купува готово нарязан). Поставя се в сгорещен тиган и се запича без мазнина, докато стане златист и хрупкав. "
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Изважда се и се оставя да се отцеди на кухненска хартия, а на негово място се сипва малко зехтин и се запържват яйцата (2 бр) на очи. "
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Щом са готови се прехвърлят в чиния, посоляват се и се овкусяват с черен пипер и подправки по избор. До тях се слага и хрупкавият бекон. "
+        },
+        {
+          "@type": "HowToStep",
+          "text": "В останалата в тигана мазнина може леко да се запържат филийки."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "яйца",
+        "qty": "2",
+        "id": "http://www.1001recepti.com/s/213296-iaica"
+      },
+      {
+        "name": "бекон",
+        "qty": "100 г",
+        "id": "http://www.1001recepti.com/s/181657-bekon"
+      },
+      {
+        "name": "зехтин",
+        "qty": "1 с.л.",
+        "id": "http://www.1001recepti.com/s/186978-zehtin"
+      }
+    ]
+  },
+  "3342": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Оригинална рецепта за кетчуп",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/originalna-recepta-za-ketchup-1-[3342].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/originalna-recepta-za-ketchup-1-[3342].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/originalna-recepta-za-ketchup-1-[3342].jpg"
+      ],
+      "datePublished": "2019-02-08",
+      "cookTime": "PT4H0M",
+      "recipeYield": "16 servings",
+      "recipeCategory": "Други",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "170 calories",
+        "carbohydrateContent": "42 g",
+        "fatContent": "0 g",
+        "proteinContent": "2 g",
+        "saturatedFatContent": "0 g",
+        "unsaturatedFatContent": "0.1374475 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "5 л. доматен сок",
+        "400 г захар",
+        "100 мл. оцет",
+        "100 мл. сос Уорчестър",
+        "5 г лимонена киселина",
+        "20 г нишесте",
+        "1 ч.л. лют пипер",
+        "10 г кимион",
+        "10 г черен пипер",
+        "5 г бахар",
+        "4  дафинови листа"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Доматеният сок се прецежда няколко пъти, за да стане чист, без семки и люспи, след което се слага на котлон и се готви, докато изври част от него. Към врящият сок се прибавят солта и захарта. Изважда се половината от сока с черпак и се пресипва в отделен съд, докато изстине. Останалият сок в тенджерата се оставя да ври под капак на тих огън."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Чубрицата, черният пипер, кимиона, бахара и дафиновият лист се смилат на ситно. Сместа се слага в отделна тенджера с капак, добавя се оцета и сосът Уорчестър и се оставя на котлона, докато заври. В момента, в който почне да ври, се изключва и се слага настрани да престои за няколко часа, затворена. Изстиналата смес с подправките се прецежда през няколко слоя марли или тензух. Така прецедената смес от подправки и доматен сок се добавя, по – горе в текста, към останалият, врящ доматен сок. Всичко се оставя да поври още няколко минути."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Първият отделен с черпак настрани доматен сок, който задължително трябва да е изстинал, се разбърква хубаво с царевичното/пшениченото нишесте. Така получената смес се прибавя към прецедения от подправки и доматен сок, оставен, по - горе да ври. За да се получи желаната консистенция е необходимо сместа с нишестето да се добавя по малко, на етапи, към сместа с подправки."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Проверя се дали правилната консистенция е готова, като се слага в отделна чиния и се разлива – капка по капка. Капката трябва да се стича много бавно и след няколко минути да не се е стекла. Така проверена вече готовата смес се разлива в буркани и се вари за още десетина минути, за да се стерилизират. Изваждат се, захлупват се с капачките надолу и щом изстинат, кетчупът е готов."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "От получените количества се получават около 16 бурканчета от 350 мл."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "доматен сок",
+        "qty": "5 л.",
+        "id": "http://www.1001recepti.com/s/185251-domaten-sok"
+      },
+      {
+        "name": "захар",
+        "qty": "400 г",
+        "id": "http://www.1001recepti.com/s/186585-zahar"
+      },
+      {
+        "name": "оцет",
+        "qty": "100 мл.",
+        "id": "http://www.1001recepti.com/s/195631-ocet"
+      },
+      {
+        "name": "сос Уорчестър",
+        "qty": "100 мл.",
+        "id": "http://www.1001recepti.com/s/207250-sos-uorchestur"
+      },
+      {
+        "name": "лимонена киселина",
+        "qty": "5 г",
+        "id": "http://www.1001recepti.com/s/225120-limontuzu"
+      },
+      {
+        "name": "нишесте",
+        "qty": "20 г",
+        "id": "http://www.1001recepti.com/s/194718-nisheste"
+      },
+      {
+        "name": "лют пипер",
+        "qty": "1 ч.л.",
+        "id": "http://www.1001recepti.com/s/348929-lut-cherven-piper"
+      },
+      {
+        "name": "кимион",
+        "qty": "10 г",
+        "id": "http://www.1001recepti.com/s/189725-kimion"
+      },
+      {
+        "name": "черен пипер",
+        "qty": "10 г",
+        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+      },
+      {
+        "name": "бахар",
+        "qty": "5 г",
+        "id": "http://www.1001recepti.com/s/181583-bahar"
+      },
+      {
+        "name": "дафинови листа",
+        "qty": "4",
+        "id": "http://www.1001recepti.com/s/184678-dafinov-list"
+      }
+    ]
+  },
+  "3343": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Домашен маринован патладжан с чесън, оцет и магданоз в бурканчета за зимата (зимнина)",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/domashen-marinovan-patladjan-v-burkancheta-za-zimata-zimnina-1-[3343].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/domashen-marinovan-patladjan-v-burkancheta-za-zimata-zimnina-1-[3343].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/domashen-marinovan-patladjan-v-burkancheta-za-zimata-zimnina-1-[3343].jpg"
+      ],
+      "datePublished": "2019-02-08",
+      "cookTime": "PT1H30M",
+      "recipeYield": "16 servings",
+      "recipeCategory": "Други",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "386 calories",
+        "carbohydrateContent": "30 g",
+        "fatContent": "28 g",
+        "proteinContent": "3 g",
+        "saturatedFatContent": "2 g",
+        "unsaturatedFatContent": "23.5801525 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "4 кг патладжан",
+        "1/2 л. олио",
+        "800 мл. оцет",
+        "100 г сол",
+        "200 г захар",
+        "2 глави чесън",
+        "4 връзки магданоз",
+        "1 глава целина",
+        "1 с.л. бахар"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Патладжанът (4 кг) се нарязва на кубчета. Бланшира се на порции в леко подсолена вода, за няколко секунди. Изважда се и се отцежда."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Чесънът (2 глави) и магданозът (4 връзки) се нарязват. Патладжанът се слага в буркани, като се редува следната последователност – ред патладжан, ред чесън, магданоз и целина. Реденето продължава, докато се запълни буркана. "
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Накрая се изсипва марината, направена от смесването на оцет (800 мл.), захар (200 г), олио (1/2 л.) и бахар (1 с.л.)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Напълнените буркани се поставят в тенджера, сипва се вода и се включва котлонът. Когато заври, част от водата се сипва в тях, така че да се напълнят почти до ръба. Затварят се и се варят за няколко минути, така че да се стерилизират."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Горещите буркани се изваждат и обръщат с капачките надолу. Покриват се с кърпа, така че да останат топли. Щом изстинат са готови за складиране."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "патладжан",
+        "qty": "4 кг",
+        "id": "http://www.1001recepti.com/s/196808-patladjan"
+      },
+      {
+        "name": "олио",
+        "qty": "1/2 л.",
+        "id": "http://www.1001recepti.com/s/195019-olio"
+      },
+      {
+        "name": "оцет",
+        "qty": "800 мл.",
+        "id": "http://www.1001recepti.com/s/195631-ocet"
+      },
+      {
+        "name": "сол",
+        "qty": "100 г",
+        "id": "http://www.1001recepti.com/s/206867-sol"
+      },
+      {
+        "name": "захар",
+        "qty": "200 г",
+        "id": "http://www.1001recepti.com/s/186585-zahar"
+      },
+      {
+        "name": "чесън",
+        "qty": "2 глави",
+        "id": "http://www.1001recepti.com/s/212113-chesun"
+      },
+      {
+        "name": "магданоз",
+        "qty": "4 връзки",
+        "id": "http://www.1001recepti.com/s/192612-magdanoz"
+      },
+      {
+        "name": "целина",
+        "qty": "1 глава",
+        "id": "http://www.1001recepti.com/s/211664-celina"
+      },
+      {
+        "name": "бахар",
+        "qty": "1 с.л.",
+        "id": "http://www.1001recepti.com/s/181583-bahar"
+      }
+    ]
+  },
+  "3345": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Лесно домашно сладко (мармалад) от дюли",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/lesno-domashno-sladko-marmalad-ot-duli-1-[3345].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/lesno-domashno-sladko-marmalad-ot-duli-1-[3345].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/lesno-domashno-sladko-marmalad-ot-duli-1-[3345].jpg"
+      ],
+      "datePublished": "2019-02-08",
+      "cookTime": "PT1H30M",
+      "recipeYield": "16 servings",
+      "recipeCategory": "Други",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "313 calories",
+        "carbohydrateContent": "81 g",
+        "fatContent": "0 g",
+        "proteinContent": "0 g",
+        "saturatedFatContent": "0 g",
+        "unsaturatedFatContent": "0.0625 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "2 кг дюли",
+        "1 кг захар",
+        "10 г лимонозу",
+        "2 л. вода"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "В дълбока тенджера се слага вода (2 л.) и докато заври се подготвят дюлите (2 кг) - обелват се, почистват се и се нарязват на парчета. Щом водата кипне, нарязаните парчета се пускат в нея и се оставят да поврат около 10 минути. Изваждат се и се поставят в гевгир, за да се изцедят хубаво."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Когато дюлите са се отцедили напълно, се смилат с машинка за месо. Сместа се изсипва в тава и към нея се прибавя захарта (1 кг) и получената смес се разбърква. "
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Пече се в предварително загрята фурна, докато цялата течност се изпари и се получи гъста смес. Накрая се добавя лимонтозуто и се разлива в буркани, които се затварят и стерилизират за около пет минути."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "дюли",
+        "qty": "2 кг",
+        "id": "http://www.1001recepti.com/s/185737-duli"
+      },
+      {
+        "name": "захар",
+        "qty": "1 кг",
+        "id": "http://www.1001recepti.com/s/186585-zahar"
+      },
+      {
+        "name": "лимонозу",
+        "qty": "10 г",
+        "id": "http://www.1001recepti.com/s/201948-recepta"
+      },
+      {
+        "name": "вода",
+        "qty": "2 л.",
+        "id": "http://www.1001recepti.com/s/183428-voda"
+      }
+    ]
+  },
+  "3447": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Сладко от боровинки в бурканчета за зимата",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/sladko-ot-borovinki-v-burkancheta-za-zimata-1-[3447].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/sladko-ot-borovinki-v-burkancheta-za-zimata-1-[3447].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/sladko-ot-borovinki-v-burkancheta-za-zimata-1-[3447].jpg"
+      ],
+      "datePublished": "2020-05-28",
+      "cookTime": "PT1H30M",
+      "recipeYield": "8 servings",
+      "recipeCategory": "Други",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "1038 calories",
+        "carbohydrateContent": "267 g",
+        "fatContent": "0 g",
+        "proteinContent": "0 g",
+        "saturatedFatContent": "0 g",
+        "unsaturatedFatContent": "0.2075 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "1 кг боровинки",
+        "2 кг захар",
+        "1/2 л. вода",
+        "2 ч.л. лимонтозу"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Боровинките (1 кг) се измиват, намачкват се и се поръсват със захарта (2 кг). Оставят се така за една нощ."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "На следващия ден се прехвърлят в тенджера и се заливат с водата (1/2 л.), след което се варят на слаб огън. Готвенето продължава, докато сиропът се сгъсти. Капка от него, поставена върху студена чиния, трябва да запазва формата си и да не се разтича. Малко преди да се свали от котлона се добавя лимонтузуто, предварително разтворено в малко вода, за да не се захаросва сладкото."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Оставя се да поизстине и се прехвърля в сухи и затоплени буркани, след което гърлата им се покриват с целофан и се затварят."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "боровинки",
+        "qty": "1 кг",
+        "id": "http://www.1001recepti.com/s/182407-borovinki"
+      },
+      {
+        "name": "захар",
+        "qty": "2 кг",
+        "id": "http://www.1001recepti.com/s/186585-zahar"
+      },
+      {
+        "name": "вода",
+        "qty": "1/2 л.",
+        "id": "http://www.1001recepti.com/s/183428-voda"
+      },
+      {
+        "name": "лимонтозу",
+        "qty": "2 ч.л.",
+        "id": "http://www.1001recepti.com/s/201948-recepta"
+      }
+    ]
+  },
+  "3448": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Сладко от малини в бурканчета за зимата",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/sladko-ot-malini-v-burkancheta-za-zimata-2-[3448].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/sladko-ot-malini-v-burkancheta-za-zimata-2-[3448].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/sladko-ot-malini-v-burkancheta-za-zimata-2-[3448].jpg"
+      ],
+      "datePublished": "2020-05-28",
+      "cookTime": "PT1H30M",
+      "recipeYield": "8 servings",
+      "recipeCategory": "Други",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "1029 calories",
+        "carbohydrateContent": "264 g",
+        "fatContent": "0 g",
+        "proteinContent": "1 g",
+        "saturatedFatContent": "0 g",
+        "unsaturatedFatContent": "0.39125 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "1 кг малини",
+        "2 кг захар",
+        "1/2 л. вода",
+        "2 ч.л. лимонтозу"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Малинките (1 кг) се измиват, намачкват се и се поръсват със захарта (2 кг), след което се оставят така за една нощ."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Престоялите плодове се прехвърлят в тенджера и се заливат с водата (1/2 л.), след което се варят на слаб огън. Готвенето продължава, докато сиропът се сгъсти. Капка от него, поставена върху студена чиния, трябва да запазва формата си и да не се разтича. Малко преди да се свали от котлона се добавя лимонтузуто, предварително разтворено в малко вода, за да не се захаросва сладкото."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Оставя се да поизстине и се прехвърля в сухи и затоплени буркани, след което гърлата им се покриват с целофан и се затварят."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "малини",
+        "qty": "1 кг",
+        "id": "http://www.1001recepti.com/s/192856-malini"
+      },
+      {
+        "name": "захар",
+        "qty": "2 кг",
+        "id": "http://www.1001recepti.com/s/186585-zahar"
+      },
+      {
+        "name": "вода",
+        "qty": "1/2 л.",
+        "id": "http://www.1001recepti.com/s/183428-voda"
+      },
+      {
+        "name": "лимонтозу",
+        "qty": "2 ч.л.",
+        "id": "http://www.1001recepti.com/s/201948-recepta"
+      }
+    ]
+  },
+  "3449": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Сладко от боровинки в бурканчета за зимата",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/sladko-ot-borovinki-v-burkancheta-za-zimata-2-[3449].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/sladko-ot-borovinki-v-burkancheta-za-zimata-2-[3449].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/sladko-ot-borovinki-v-burkancheta-za-zimata-2-[3449].jpg"
+      ],
+      "datePublished": "2020-05-28",
+      "cookTime": "PT1H30M",
+      "recipeYield": "8 servings",
+      "recipeCategory": "Други",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "1005 calories",
+        "carbohydrateContent": "258 g",
+        "fatContent": "0 g",
+        "proteinContent": "0 g",
+        "saturatedFatContent": "0 g",
+        "unsaturatedFatContent": "0.2325 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "1 кг ягоди",
+        "2 кг захар",
+        "1/2 л. вода",
+        "2 ч.л. лимонтозу"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Ягодите (1 кг) се измиват и пасират. Прекарват се през ситна цедка, така че семките да се отделят. Получената смес се прецежда отново. Поръсват се със захарта (2 кг) и се оставят да престоят за една нощ."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Щом престоят се прехвърлят в тенджера и се заливат с водата (1/2 л.). Варят на слаб огън, като готвенето продължава, докато сиропът се сгъсти, така че капка от него, поставена върху студена чиния, да запазва формата си и да не се разтича. Малко преди да се свали от огъня, към сладкото се добавя лимонтузуто (2 ч.л.), предварително разтворено в малко вода. Това ще попречи на сладкото да се захароса."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Щом поизстине се прехвърля в сухи и затоплени буркани, гърлата им се покриват с целофан и се затварят."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "ягоди",
+        "qty": "1 кг",
+        "id": "http://www.1001recepti.com/s/213173-iagodi"
+      },
+      {
+        "name": "захар",
+        "qty": "2 кг",
+        "id": "http://www.1001recepti.com/s/186585-zahar"
+      },
+      {
+        "name": "вода",
+        "qty": "1/2 л.",
+        "id": "http://www.1001recepti.com/s/183428-voda"
+      },
+      {
+        "name": "лимонтозу",
+        "qty": "2 ч.л.",
+        "id": "http://www.1001recepti.com/s/201948-recepta"
+      }
+    ]
+  }
+}
