@@ -12,55 +12,42 @@ initialize();
 
 async function initialize() {
     const main = document.querySelector('main');
-    main.style.display = 'none';
     const navigation = document.querySelector('#categories');
 
     const { recipeIndex, ingredientsIndex } = await getData();
     const ingredients = Object.values(ingredientsIndex);
 
-    const staplesSection = staplesPage(ingredients);
-    const bannedSection = bannedPage(ingredients);
-    const availableSection = availablePage(ingredients);
-    const mandatorySection = mandatoryPage(ingredients);
-    const detailsSection = e('section');
-    main.appendChild(detailsSection);
+    const staplesSection = () => staplesPage(ingredients);
+    const bannedSection = () => bannedPage(ingredients);
+    const availableSection = () => availablePage(ingredients);
+    const mandatorySection = () => mandatoryPage(ingredients);
 
-    const sections = [staplesSection, bannedSection, availableSection, mandatorySection, detailsSection];
     for (let name in recipeIndex) {
         const category = recipeIndex[name];
-        const currentSection = await recipesPage(category, ingredientsIndex, showDetails);
-        sections.push(currentSection);
+        const currentSection = async () => await recipesPage(category, ingredientsIndex, showDetails);
         const btn = e('button', category.label);
         navigation.appendChild(btn);
 
-        setupSection(btn, currentSection, sections);
+        setupSection(btn, currentSection);
     }
-    sections.forEach(s => s.style.display = 'none');
-    availableSection.style.display = '';
 
-    setupSection('#btnStaples', staplesSection, sections);
-    setupSection('#btnBanned', bannedSection, sections);
-    setupSection('#btnAvailable', availableSection, sections);
-    setupSection('#btnMandatory', mandatorySection, sections);
+    setupSection('#btnStaples', staplesSection);
+    setupSection('#btnBanned', bannedSection);
+    setupSection('#btnAvailable', availableSection);
+    setupSection('#btnMandatory', mandatorySection);
 
-    main.style.display = '';
+    document.querySelector('#btnAvailable').click();
 
-
-    function setupSection(btnSelector, section, sections) {
+    function setupSection(btnSelector, section) {
         const btn = btnSelector instanceof Node ? btnSelector : document.querySelector(btnSelector);
-        btn.addEventListener('click', () => {
-            sections.forEach(s => s.style.display = 'none');
-            section.style.display = '';
+        btn.addEventListener('click', async () => {
+            main.innerHTML = '';
+            main.appendChild(await section());
         });
-        main.appendChild(section);
     }
 
     function showDetails(recipe) {
-        sections.forEach(s => s.style.display = 'none');
-
-        detailsSection.innerHTML = '';
-        detailsSection.appendChild(detailsPage(recipe));
-
-        detailsSection.style.display = '';
+        main.innerHTML = '';
+        main.appendChild(detailsPage(recipe));
     }
 }

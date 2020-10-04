@@ -29,7 +29,8 @@ export default async function recipesPage(category, ingredientsIndex, showDetail
             return recipe;
         }).sort((a, b) => (a.missing - b.missing) || (b.popularity - a.popularity));
 
-    const element = e('section', await Promise.all(filtered.slice(0, 100).map(r => recipeCard(r, showDetails))));
+    const element = e('section');
+    filtered.slice(0, 40).map(async r => element.appendChild(await recipeCard(r, showDetails)));
 
     return element;
 }
@@ -40,7 +41,6 @@ async function recipeCard(record, showDetails) {
     const element = e('article', [
         div(record.recipe.name, { className: 'cardLabel' }),
         div([
-            span(record.popularity),
             e('ul', record.ingredients.map(ingredientItem), { className: 'ingredientList' }),
             span(record.missingLabel, { className: 'cardCount' })
         ], { className: 'cardContent' })
