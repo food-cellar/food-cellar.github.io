@@ -5,7 +5,6 @@ import { isStaple, isBanned, isAvailable, hasMandatory } from './storage.js';
 export default async function recipesPage(category, ingredientsIndex, showDetails) {
     // TODO data should only be resolved when the page is activated
     const recipes = Object.values((await category.getData()));
-    console.log(recipes);
 
     const filtered = recipes
         .filter(r => hasMandatory(r.ingredients))
@@ -38,6 +37,7 @@ function recipeCard(record, showDetails) {
     const element = e('article', [
         div(record.recipe.name, { className: 'cardLabel' }),
         div([
+            span(record.recipe.popularity),
             e('ul', record.ingredients.map(ingredientItem), { className: 'ingredientList' }),
             span(record.recipe.missingLabel, { className: 'cardCount' })
         ], { className: 'cardContent' })
