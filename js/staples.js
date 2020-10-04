@@ -1,5 +1,6 @@
 import e, { checkbox, swap } from './dom.js';
 import filterTable from './filterTable.js';
+import ingredientList from './ingredientList.js';
 import { addStaple, removeStaple, isStaple, isBanned } from './storage.js';
 
 
@@ -11,45 +12,13 @@ export default function staplesPage(ingredients) {
             return isStaple(a.id) ? -1 : 1;
         }
     });
-    ingredients.forEach(i => {
-        const selected = checkbox((ev) => {
-            const value = ev.target.checked;
-            if (value) {
-                ev.target.parentNode.parentNode.style.backgroundColor = '#bbbbff';
-                addStaple(i.id);
-            } else {
-                ev.target.parentNode.parentNode.style.backgroundColor = '';
-                removeStaple(i.id);
-            }
-        }, { id: 's-' + i.id });
-        if (isStaple(i.id)) {
-            selected.checked = true;
-        }
 
-        i.actions = selected;
-        i.label = e('label', i.displayName, { htmlFor: 's-' + i.id });
-    });
-
-    const table = filterTable(ingredients, [
-        {
-            name: 'actions',
-            label: '',
-            filter: false
-        },
-        {
-            name: 'label',
-            label: 'Съставка',
-            alias: 'displayName'
-        },
-        {
-            name: 'category',
-            label: 'Категория'
-        }
-    ]);
+    const colorId = '#bbbbff';
+    const table = ingredientList('s-', ingredients, addStaple, removeStaple, isStaple, colorId);
 
     table.entries.forEach(e => {
         if (isStaple(e._record.id)) {
-            e.style.backgroundColor = '#bbbbff';
+            e.style.backgroundColor = colorId;
         } else if (isBanned(e._record.id)) {
             e.style.backgroundColor = '#ffeeee';
         }

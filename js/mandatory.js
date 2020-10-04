@@ -1,5 +1,4 @@
-import e, { checkbox } from './dom.js';
-import filterTable from './filterTable.js';
+import ingredientList from './ingredientList.js';
 import { addMandatory, removeMandatory, isMandatory, isStaple, isBanned } from './storage.js';
 
 
@@ -13,45 +12,13 @@ export default function mandatoryPage(ingredients) {
                 return isMandatory(a.id) ? -1 : 1;
             }
         });
-    ingredients.forEach(i => {
-        const selected = checkbox((ev) => {
-            const value = ev.target.checked;
-            if (value) {
-                ev.target.parentNode.parentNode.style.backgroundColor = '#99ff99';
-                addMandatory(i.id);
-            } else {
-                ev.target.parentNode.parentNode.style.backgroundColor = '';
-                removeMandatory(i.id);
-            }
-        }, { id: 'm-' + i.id });
-        if (isMandatory(i.id)) {
-            selected.checked = true;
-        }
 
-        i.actions = selected;
-        i.label = e('label', i.displayName, { htmlFor: 'm-' + i.id });
-    });
-
-    const table = filterTable(ingredients, [
-        {
-            name: 'actions',
-            label: '',
-            filter: false
-        },
-        {
-            name: 'label',
-            label: 'Съставка',
-            alias: 'displayName'
-        },
-        {
-            name: 'category',
-            label: 'Категория'
-        }
-    ]);
+    const colorId = '#99ff99';
+    const table = ingredientList('m-', ingredients, addMandatory, removeMandatory, isStaple, colorId);
 
     table.entries.forEach(e => {
         if (isMandatory(e._record.id)) {
-            e.style.backgroundColor = '#99ff99';
+            e.style.backgroundColor = colorId;
         }
     });
 

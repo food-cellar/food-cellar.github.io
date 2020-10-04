@@ -1,5 +1,6 @@
 import e, { checkbox, swap } from './dom.js';
 import filterTable from './filterTable.js';
+import ingredientList from './ingredientList.js';
 import { addBanned, removeBanned, isBanned, isStaple } from './storage.js';
 
 
@@ -11,45 +12,13 @@ export default function bannedPage(ingredients) {
             return isBanned(a.id) ? -1 : 1;
         }
     });
-    ingredients.forEach(i => {
-        const selected = checkbox((ev) => {
-            const value = ev.target.checked;
-            if (value) {
-                ev.target.parentNode.parentNode.style.backgroundColor = '#ffbbbb';
-                addBanned(i.id);
-            } else {
-                ev.target.parentNode.parentNode.style.backgroundColor = '';
-                removeBanned(i.id);
-            }
-        }, { id: 'b-' + i.id });
-        if (isBanned(i.id)) {
-            selected.checked = true;
-        }
 
-        i.actions = selected;
-        i.label = e('label', i.displayName, { htmlFor: 'b-' + i.id });
-    });
-
-    const table = filterTable(ingredients, [
-        {
-            name: 'actions',
-            label: '',
-            filter: false
-        },
-        {
-            name: 'label',
-            label: 'Съставка',
-            alias: 'displayName'
-        },
-        {
-            name: 'category',
-            label: 'Категория'
-        }
-    ]);
+    const colorId = '#ffbbbb';
+    const table = ingredientList('b-', ingredients, addBanned, removeBanned, isBanned, colorId);
 
     table.entries.forEach(e => {
         if (isBanned(e._record.id)) {
-            e.style.backgroundColor = '#ffbbbb';
+            e.style.backgroundColor = colorId;
         } else if (isStaple(e._record.id)) {
             e.style.backgroundColor = '#eeeeff';
         }
