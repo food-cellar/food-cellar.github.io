@@ -49,47 +49,47 @@
       {
         "name": "зелени чушки",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/212296-chushki"
+        "id": 18
       },
       {
         "name": "патладжан",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/196808-patladjan"
+        "id": 71
       },
       {
         "name": "домата",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/185321-domati"
+        "id": 15
       },
       {
         "name": "морков",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/193952-morkovi"
+        "id": 13
       },
       {
         "name": "лук",
         "qty": "1 голяма глава",
-        "id": "http://www.1001recepti.com/s/192500-luk"
+        "id": 3
       },
       {
         "name": "чесън",
         "qty": "3 скилидки",
-        "id": "http://www.1001recepti.com/s/212113-chesun"
+        "id": 6
       },
       {
         "name": "олио",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "магданоз",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/192612-magdanoz"
+        "id": 12
       }
     ]
   },
@@ -141,37 +141,37 @@
       {
         "name": "нахут",
         "qty": "1/2 опак.",
-        "id": "http://www.1001recepti.com/s/194568-nahut"
+        "id": 145
       },
       {
         "name": "зехтин",
         "qty": "80 мл.",
-        "id": "http://www.1001recepti.com/s/186978-zehtin"
+        "id": 10
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "лимонов сок",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/192380-limonov-sok"
+        "id": 17
       },
       {
         "name": "червен пипер",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/211980-cherven-piper"
+        "id": 20
       },
       {
         "name": "черен пипер",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+        "id": 2
       },
       {
         "name": "чесън",
         "qty": "3 скилидки",
-        "id": "http://www.1001recepti.com/s/212113-chesun"
+        "id": 6
       }
     ]
   },
@@ -218,32 +218,32 @@
       {
         "name": "грах",
         "qty": "600 г",
-        "id": "http://www.1001recepti.com/s/183947-grah"
+        "id": 68
       },
       {
         "name": "масло",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "яйца",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "прясно мляко",
         "qty": "1 ч.ч.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "копър",
         "qty": "1 връзка",
-        "id": "http://www.1001recepti.com/s/190523-kopur"
+        "id": 28
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -289,27 +289,27 @@
       {
         "name": "печурки",
         "qty": "300 г",
-        "id": "http://www.1001recepti.com/s/184366-gubi-pechurki"
+        "id": 62
       },
       {
         "name": "грис",
         "qty": "1 ч.ч.",
-        "id": "http://www.1001recepti.com/s/184066-gris"
+        "id": 140
       },
       {
         "name": "олио",
         "qty": "4 с.л.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "магданоз",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/192612-magdanoz"
+        "id": 12
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -358,42 +358,42 @@
       {
         "name": "ориз",
         "qty": "1 ч.ч.",
-        "id": "http://www.1001recepti.com/s/195166-oriz"
+        "id": 22
       },
       {
         "name": "тиквичка",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/209473-tikvichki"
+        "id": 39
       },
       {
         "name": "копър",
         "qty": "1/2 връзка",
-        "id": "http://www.1001recepti.com/s/190523-kopur"
+        "id": 28
       },
       {
         "name": "пресен лук",
         "qty": "1/2 връзка",
-        "id": "http://www.1001recepti.com/s/200572-presen-luk"
+        "id": 24
       },
       {
         "name": "олио",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "черен пипер",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+        "id": 2
       },
       {
         "name": "вода",
         "qty": "2 ч.ч.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -441,37 +441,37 @@
       {
         "name": "ориз",
         "qty": "1 ч.ч.",
-        "id": "http://www.1001recepti.com/s/195166-oriz"
+        "id": 22
       },
       {
         "name": "пресен лук",
         "qty": "1 връзка",
-        "id": "http://www.1001recepti.com/s/200572-presen-luk"
+        "id": 24
       },
       {
         "name": "домата",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/185321-domati"
+        "id": 15
       },
       {
         "name": "черен пипер",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+        "id": 2
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "олио",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "вода",
         "qty": "2 ч.ч.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -522,32 +522,32 @@
       {
         "name": "карфиол",
         "qty": "1/2 кг",
-        "id": "http://www.1001recepti.com/s/188912-karfiol"
+        "id": 91
       },
       {
         "name": "картофи",
         "qty": "1/2 кг",
-        "id": "http://www.1001recepti.com/s/188416-kartofi"
+        "id": 16
       },
       {
         "name": "сметана",
         "qty": "200 мл.",
-        "id": "http://www.1001recepti.com/s/206695-smetana"
+        "id": 19
       },
       {
         "name": "прясно мляко",
         "qty": "700 мл.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "черен пипер",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+        "id": 2
       }
     ]
   },
@@ -592,22 +592,22 @@
       {
         "name": "целина",
         "qty": "1 връзка",
-        "id": "http://www.1001recepti.com/s/211664-celina"
+        "id": 30
       },
       {
         "name": "брашно",
         "qty": "6 с.л.",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "черен пипер",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+        "id": 2
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -653,27 +653,27 @@
       {
         "name": "картофи",
         "qty": "1 кг",
-        "id": "http://www.1001recepti.com/s/188416-kartofi"
+        "id": 16
       },
       {
         "name": "зехтин",
         "qty": "5 с.л.",
-        "id": "http://www.1001recepti.com/s/186978-zehtin"
+        "id": 10
       },
       {
         "name": "червен пипер",
         "qty": "3 с.л.",
-        "id": "http://www.1001recepti.com/s/211980-cherven-piper"
+        "id": 20
       },
       {
         "name": "розмарин",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/203088-rozmarin"
+        "id": 77
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -728,52 +728,52 @@
       {
         "name": "резене",
         "qty": "2 глави",
-        "id": "http://www.1001recepti.com/s/201919-rezene"
+        "id": 299
       },
       {
         "name": "лук",
         "qty": "2 глави",
-        "id": "http://www.1001recepti.com/s/192500-luk"
+        "id": 3
       },
       {
         "name": "целина",
         "qty": "4 стръка",
-        "id": "http://www.1001recepti.com/s/211664-celina"
+        "id": 30
       },
       {
         "name": "чесън",
         "qty": "4 скилидки",
-        "id": "http://www.1001recepti.com/s/212113-chesun"
+        "id": 6
       },
       {
         "name": "зехтин",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/186978-zehtin"
+        "id": 10
       },
       {
         "name": "масло",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "сметана",
         "qty": "6 с.л.",
-        "id": "http://www.1001recepti.com/s/206695-smetana"
+        "id": 19
       },
       {
         "name": "мляко",
         "qty": "1 к.ч.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "бяло вино",
         "qty": "1 ч.ч.",
-        "id": "http://www.1001recepti.com/s/182996-bialo-vino"
+        "id": 41
       },
       {
         "name": "мастика",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/225143-perno"
+        "id": 337
       }
     ]
   },
@@ -820,32 +820,32 @@
       {
         "name": "целина",
         "qty": "1 връзка",
-        "id": "http://www.1001recepti.com/s/211664-celina"
+        "id": 30
       },
       {
         "name": "портокал",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/200171-portokali"
+        "id": 122
       },
       {
         "name": "орехи",
         "qty": "25 г",
-        "id": "http://www.1001recepti.com/s/195111-orehi"
+        "id": 31
       },
       {
         "name": "масло",
         "qty": "20 г",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "магданоз",
         "qty": "5 стръка",
-        "id": "http://www.1001recepti.com/s/192612-magdanoz"
+        "id": 12
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -891,27 +891,27 @@
       {
         "name": "тиква",
         "qty": "800 г",
-        "id": "http://www.1001recepti.com/s/209349-tikva"
+        "id": 116
       },
       {
         "name": "целина",
         "qty": "1/2 глава",
-        "id": "http://www.1001recepti.com/s/211664-celina"
+        "id": 30
       },
       {
         "name": "пармезан",
         "qty": "4 с.л.",
-        "id": "http://www.1001recepti.com/s/196417-parmezan"
+        "id": 59
       },
       {
         "name": "месен бульон",
         "qty": "1 кубче",
-        "id": "http://www.1001recepti.com/s/182655-bulioon"
+        "id": 26
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -964,42 +964,42 @@
       {
         "name": "цикория",
         "qty": "6 глави",
-        "id": "http://www.1001recepti.com/s/211701-cikoriia"
+        "id": 308
       },
       {
         "name": "масло",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "зехтин",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/186978-zehtin"
+        "id": 10
       },
       {
         "name": "портокалов сок",
         "qty": "1 ч.ч.",
-        "id": "http://www.1001recepti.com/s/200181-portokalov-sok"
+        "id": 177
       },
       {
         "name": "портокалов ликьор",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/225144-portokalov-likioor"
+        "id": 346
       },
       {
         "name": "кафява захар",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "мастика",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/225143-perno"
+        "id": 337
       }
     ]
   },
@@ -1047,37 +1047,37 @@
       {
         "name": "моркови",
         "qty": "1 кг",
-        "id": "http://www.1001recepti.com/s/193952-morkovi"
+        "id": 13
       },
       {
         "name": "червен лук",
         "qty": "2 глави",
-        "id": "http://www.1001recepti.com/s/192500-luk"
+        "id": 3
       },
       {
         "name": "магданоз",
         "qty": "1 връзка",
-        "id": "http://www.1001recepti.com/s/192612-magdanoz"
+        "id": 12
       },
       {
         "name": "масло",
         "qty": "125 г",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "кафява захар",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "черен пипер",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+        "id": 2
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -1125,37 +1125,37 @@
       {
         "name": "картофи",
         "qty": "800 г",
-        "id": "http://www.1001recepti.com/s/188416-kartofi"
+        "id": 16
       },
       {
         "name": "масло",
         "qty": "4 с.л.",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "сусам",
         "qty": "5 с.л.",
-        "id": "http://www.1001recepti.com/s/208273-susam"
+        "id": 113
       },
       {
         "name": "черен пипер",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+        "id": 2
       },
       {
         "name": "червен пипер",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/211980-cherven-piper"
+        "id": 20
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "магданоз",
         "qty": "4 стръка",
-        "id": "http://www.1001recepti.com/s/192612-magdanoz"
+        "id": 12
       }
     ]
   },
@@ -1205,27 +1205,27 @@
       {
         "name": "пресни картофи",
         "qty": "1 кг",
-        "id": "http://www.1001recepti.com/s/188416-kartofi"
+        "id": 16
       },
       {
         "name": "масло",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "чесън на прах",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/212113-chesun"
+        "id": 6
       },
       {
         "name": "сол",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "копър",
         "qty": "1/2 връзка",
-        "id": "http://www.1001recepti.com/s/190523-kopur"
+        "id": 28
       }
     ]
   },
@@ -1271,27 +1271,27 @@
       {
         "name": "картофи",
         "qty": "1 1/2 кг",
-        "id": "http://www.1001recepti.com/s/188416-kartofi"
+        "id": 16
       },
       {
         "name": "масло",
         "qty": "75 г",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "мляко",
         "qty": "1/4 ч.ч.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "черен пипер",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+        "id": 2
       }
     ]
   },
@@ -1340,22 +1340,22 @@
       {
         "name": "грах",
         "qty": "1/2 кг",
-        "id": "http://www.1001recepti.com/s/183947-grah"
+        "id": 68
       },
       {
         "name": "мента",
         "qty": "12 листа",
-        "id": "http://www.1001recepti.com/s/193446-menta"
+        "id": 90
       },
       {
         "name": "сметана",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/206695-smetana"
+        "id": 19
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -1410,32 +1410,32 @@
       {
         "name": "картофи",
         "qty": "1 кг",
-        "id": "http://www.1001recepti.com/s/188416-kartofi"
+        "id": 16
       },
       {
         "name": "листа от целина",
         "qty": "50 г",
-        "id": "http://www.1001recepti.com/s/211664-celina"
+        "id": 30
       },
       {
         "name": "чесън",
         "qty": "2 скилидки",
-        "id": "http://www.1001recepti.com/s/212113-chesun"
+        "id": 6
       },
       {
         "name": "зехтин",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/186978-zehtin"
+        "id": 10
       },
       {
         "name": "сол",
         "qty": "2 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "вода",
         "qty": "2 ч.ч.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -1500,62 +1500,62 @@
       {
         "name": "киноа",
         "qty": "1/2 ч.ч.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "боб от консерва",
         "qty": "200 г",
-        "id": "http://www.1001recepti.com/s/182086-bob"
+        "id": 63
       },
       {
         "name": "лук",
         "qty": "1 глава",
-        "id": "http://www.1001recepti.com/s/192500-luk"
+        "id": 3
       },
       {
         "name": "чесън",
         "qty": "1 скилидка",
-        "id": "http://www.1001recepti.com/s/212113-chesun"
+        "id": 6
       },
       {
         "name": "къри",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/191653-kuri"
+        "id": 143
       },
       {
         "name": "черен пипер",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+        "id": 2
       },
       {
         "name": "канела",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/187922-kanela"
+        "id": 46
       },
       {
         "name": "пилешки бульон",
         "qty": "1 кубче",
-        "id": "http://www.1001recepti.com/s/182655-bulioon"
+        "id": 26
       },
       {
         "name": "вода",
         "qty": "1 1/2 ч.ч.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "стафиди",
         "qty": "1/2 ч.ч.",
-        "id": "http://www.1001recepti.com/s/207748-stafidi"
+        "id": 69
       },
       {
         "name": "сол",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "зехтин",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/186978-zehtin"
+        "id": 10
       }
     ]
   },
@@ -1610,32 +1610,32 @@
       {
         "name": "пресни картофи",
         "qty": "1 кг",
-        "id": "http://www.1001recepti.com/s/188416-kartofi"
+        "id": 16
       },
       {
         "name": "масло",
         "qty": "30 г",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "розмарин",
         "qty": "2 стръка",
-        "id": "http://www.1001recepti.com/s/203088-rozmarin"
+        "id": 77
       },
       {
         "name": "червен пипер",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/211980-cherven-piper"
+        "id": 20
       },
       {
         "name": "черен пипер",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+        "id": 2
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -1688,22 +1688,22 @@
       {
         "name": "картофа",
         "qty": "4",
-        "id": "http://www.1001recepti.com/s/188416-kartofi"
+        "id": 16
       },
       {
         "name": "белтък",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/362534-iaicheni-beltuci"
+        "id": 157
       },
       {
         "name": "олио",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "сол",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -1752,22 +1752,22 @@
       {
         "name": "картофи",
         "qty": "800 г",
-        "id": "http://www.1001recepti.com/s/188416-kartofi"
+        "id": 16
       },
       {
         "name": "зехтин",
         "qty": "3 с.л.",
-        "id": "http://www.1001recepti.com/s/186978-zehtin"
+        "id": 10
       },
       {
         "name": "сол",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "магданоз",
         "qty": "1 връзка",
-        "id": "http://www.1001recepti.com/s/192612-magdanoz"
+        "id": 12
       }
     ]
   },
@@ -1821,27 +1821,27 @@
       {
         "name": "ориз",
         "qty": "1 1/2 ч.ч.",
-        "id": "http://www.1001recepti.com/s/195166-oriz"
+        "id": 22
       },
       {
         "name": "куркума",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/191532-kurkuma"
+        "id": 118
       },
       {
         "name": "сол",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "вода",
         "qty": "4 ч.ч.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "олио",
         "qty": "3 с.л.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       }
     ]
   },
@@ -1892,32 +1892,32 @@
       {
         "name": "брюкселско зеле",
         "qty": "1/2 кг",
-        "id": "http://www.1001recepti.com/s/182631-brukselsko-zele"
+        "id": 301
       },
       {
         "name": "масло",
         "qty": "50 г",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "лимонов сок",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/192380-limonov-sok"
+        "id": 17
       },
       {
         "name": "чесън",
         "qty": "1 скилидка",
-        "id": "http://www.1001recepti.com/s/212113-chesun"
+        "id": 6
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "пипер",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+        "id": 2
       }
     ]
   },
@@ -1969,17 +1969,17 @@
       {
         "name": "брюкселско зеле",
         "qty": "1/2 кг",
-        "id": "http://www.1001recepti.com/s/182631-brukselsko-zele"
+        "id": 301
       },
       {
         "name": "зехтин",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/186978-zehtin"
+        "id": 10
       },
       {
         "name": "лимонов сок",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/192380-limonov-sok"
+        "id": 17
       }
     ]
   },
@@ -2048,62 +2048,62 @@
       {
         "name": "киноа",
         "qty": "1 ч.ч.",
-        "id": "http://www.1001recepti.com/s/182646-bulgur"
+        "id": 128
       },
       {
         "name": "боб от консерва",
         "qty": "200 г",
-        "id": "http://www.1001recepti.com/s/182086-bob"
+        "id": 63
       },
       {
         "name": "лук",
         "qty": "1 глава",
-        "id": "http://www.1001recepti.com/s/192500-luk"
+        "id": 3
       },
       {
         "name": "чесън",
         "qty": "1 скилидка",
-        "id": "http://www.1001recepti.com/s/212113-chesun"
+        "id": 6
       },
       {
         "name": "къри",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/191653-kuri"
+        "id": 143
       },
       {
         "name": "черен пипер",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+        "id": 2
       },
       {
         "name": "канела",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/187922-kanela"
+        "id": 46
       },
       {
         "name": "пилешки бульон",
         "qty": "1 кубче",
-        "id": "http://www.1001recepti.com/s/182655-bulioon"
+        "id": 26
       },
       {
         "name": "вода",
         "qty": "1 1/2 ч.ч.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "стафиди",
         "qty": "1/2 ч.ч.",
-        "id": "http://www.1001recepti.com/s/207748-stafidi"
+        "id": 69
       },
       {
         "name": "зехтин",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/186978-zehtin"
+        "id": 10
       },
       {
         "name": "сол",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -2154,32 +2154,32 @@
       {
         "name": "картофи",
         "qty": "1/2 кг",
-        "id": "http://www.1001recepti.com/s/188416-kartofi"
+        "id": 16
       },
       {
         "name": "ябълки",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/213070-iabulki"
+        "id": 85
       },
       {
         "name": "течна сметана",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/206695-smetana"
+        "id": 19
       },
       {
         "name": "краве масло",
         "qty": "40 г",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "черен пипер",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+        "id": 2
       }
     ]
   },
@@ -2237,27 +2237,27 @@
       {
         "name": "картофи",
         "qty": "600 г",
-        "id": "http://www.1001recepti.com/s/188416-kartofi"
+        "id": 16
       },
       {
         "name": "масло",
         "qty": "50 г",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "червен пипер",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/211980-cherven-piper"
+        "id": 20
       },
       {
         "name": "мащерка",
         "qty": "4 стръка",
-        "id": "http://www.1001recepti.com/s/193265-mashterka"
+        "id": 75
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   }

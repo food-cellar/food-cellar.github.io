@@ -84,6 +84,7 @@ export async function getData() {
         })();
     }
     const ingredientsIndex = await (await fetch('data/ingredients.json')).json();
+    const categoryIndex = await (await fetch('data/ingredientCategories.json')).json();
 
-    return { recipeIndex, ingredientsIndex };
+    return { recipeIndex, ingredientsIndex, categoryIndex };
 }

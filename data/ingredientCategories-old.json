@@ -1,0 +1,294 @@
+{
+  "http://www.1001recepti.com/s/200098-podpravki": {
+    "id": 1,
+    "label": "Подправки"
+  },
+  "http://www.1001recepti.com/s/186929-zelenchuci": {
+    "id": 2,
+    "label": "Зеленчуци"
+  },
+  "http://www.1001recepti.com/s/304716-maznina": {
+    "id": 3,
+    "label": "Мазнина"
+  },
+  "http://www.1001recepti.com/s/213296-iaica": {
+    "id": 4,
+    "label": "Яйца"
+  },
+  "http://www.1001recepti.com/s/216345-zurneni": {
+    "id": 5,
+    "label": "Зърнени"
+  },
+  "http://www.1001recepti.com/s/193812-mlechni": {
+    "id": 6,
+    "label": "Млечни"
+  },
+  "http://www.1001recepti.com/s/206480-sladko": {
+    "id": 7,
+    "label": "Сладко"
+  },
+  "http://www.1001recepti.com/s/194536-napitki": {
+    "id": 8,
+    "label": "Напитки"
+  },
+  "http://www.1001recepti.com/s/192361-limoni": {
+    "id": 9,
+    "label": "Лимони"
+  },
+  "http://www.1001recepti.com/s/193842-mliako": {
+    "id": 10,
+    "label": "Мляко"
+  },
+  "N/A": {
+    "id": 11,
+    "label": "N/A"
+  },
+  "http://www.1001recepti.com/s/213233-iadki": {
+    "id": 12,
+    "label": "Ядки"
+  },
+  "http://www.1001recepti.com/s/186585-zahar": {
+    "id": 13,
+    "label": "Захар"
+  },
+  "http://www.1001recepti.com/s/185321-domati": {
+    "id": 14,
+    "label": "Домати"
+  },
+  "http://www.1001recepti.com/s/184313-gubi": {
+    "id": 15,
+    "label": "Гъби"
+  },
+  "http://www.1001recepti.com/s/223440-alkohol": {
+    "id": 16,
+    "label": "Алкохол"
+  },
+  "http://www.1001recepti.com/s/199994-plodove": {
+    "id": 17,
+    "label": "Плодове"
+  },
+  "http://www.1001recepti.com/s/184867-deserti": {
+    "id": 18,
+    "label": "Десерти"
+  },
+  "http://www.1001recepti.com/s/193495-meso": {
+    "id": 19,
+    "label": "Месо"
+  },
+  "http://www.1001recepti.com/s/207327-spageti": {
+    "id": 20,
+    "label": "Спагети"
+  },
+  "http://www.1001recepti.com/s/211322-hliab": {
+    "id": 21,
+    "label": "Хляб"
+  },
+  "http://www.1001recepti.com/s/205659-sirene": {
+    "id": 22,
+    "label": "Сирене"
+  },
+  "http://www.1001recepti.com/s/182317-bobeni": {
+    "id": 23,
+    "label": "Бобени"
+  },
+  "http://www.1001recepti.com/s/184114-grozde": {
+    "id": 24,
+    "label": "Грозде"
+  },
+  "http://www.1001recepti.com/s/187395-italianska-pasta": {
+    "id": 25,
+    "label": "Италианска паста"
+  },
+  "http://www.1001recepti.com/s/190254-kokteili": {
+    "id": 26,
+    "label": "Коктейли"
+  },
+  "http://www.1001recepti.com/s/197536-pile": {
+    "id": 27,
+    "label": "Пиле"
+  },
+  "http://www.1001recepti.com/s/186994-zimnina": {
+    "id": 28,
+    "label": "Зимнина"
+  },
+  "http://www.1001recepti.com/s/186638-zele": {
+    "id": 29,
+    "label": "Зеле"
+  },
+  "http://www.1001recepti.com/s/182466-brashno": {
+    "id": 30,
+    "label": "Брашно"
+  },
+  "http://www.1001recepti.com/s/182086-bob": {
+    "id": 31,
+    "label": "Боб"
+  },
+  "http://www.1001recepti.com/s/202689-riba": {
+    "id": 32,
+    "label": "Риба"
+  },
+  "http://www.1001recepti.com/s/193997-morski-darove": {
+    "id": 33,
+    "label": "Морски дарове"
+  },
+  "http://www.1001recepti.com/s/209232-testo": {
+    "id": 34,
+    "label": "Тесто"
+  },
+  "http://www.1001recepti.com/s/212010-cherveno-cveklo": {
+    "id": 35,
+    "label": "Червено цвекло"
+  },
+  "http://www.1001recepti.com/s/192577-luti-chushki": {
+    "id": 36,
+    "label": "Люти чушки"
+  },
+  "http://www.1001recepti.com/s/187570-kaima": {
+    "id": 37,
+    "label": "Кайма"
+  },
+  "http://www.1001recepti.com/s/195631-ocet": {
+    "id": 38,
+    "label": "Оцет"
+  },
+  "http://www.1001recepti.com/s/205553-semki": {
+    "id": 39,
+    "label": "Семки"
+  },
+  "http://www.1001recepti.com/s/187633-kaisii": {
+    "id": 40,
+    "label": "Кайсии"
+  },
+  "http://www.1001recepti.com/s/200171-portokali": {
+    "id": 41,
+    "label": "Портокали"
+  },
+  "http://www.1001recepti.com/s/189828-kiselo-mliako": {
+    "id": 42,
+    "label": "Кисело мляко"
+  },
+  "http://www.1001recepti.com/s/185315-domateno-pure": {
+    "id": 43,
+    "label": "Доматено пюре"
+  },
+  "http://www.1001recepti.com/s/205140-svinsko-meso": {
+    "id": 44,
+    "label": "Свинско месо"
+  },
+  "http://www.1001recepti.com/s/192341-likioor": {
+    "id": 45,
+    "label": "Ликьор"
+  },
+  "http://www.1001recepti.com/s/192050-laim": {
+    "id": 46,
+    "label": "Лайм"
+  },
+  "http://www.1001recepti.com/s/180780-ananas": {
+    "id": 47,
+    "label": "Ананас"
+  },
+  "http://www.1001recepti.com/s/201886-reburca": {
+    "id": 48,
+    "label": "Ребърца"
+  },
+  "http://www.1001recepti.com/s/207321-soia": {
+    "id": 49,
+    "label": "Соя"
+  },
+  "http://www.1001recepti.com/s/205611-sini-slivi": {
+    "id": 50,
+    "label": "Сини сливи"
+  },
+  "http://www.1001recepti.com/s/200814-pueshko-meso": {
+    "id": 51,
+    "label": "Пуешко месо"
+  },
+  "http://www.1001recepti.com/s/183166-vegetarianski": {
+    "id": 52,
+    "label": "Вегетариански"
+  },
+  "http://www.1001recepti.com/s/216464-smokinia": {
+    "id": 53,
+    "label": "Смокиня"
+  },
+  "http://www.1001recepti.com/s/188048-karantiia": {
+    "id": 54,
+    "label": "Карантия"
+  },
+  "http://www.1001recepti.com/s/188995-kafe": {
+    "id": 55,
+    "label": "Кафе"
+  },
+  "http://www.1001recepti.com/s/193240-maslo": {
+    "id": 56,
+    "label": "Масло"
+  },
+  "http://www.1001recepti.com/s/195166-oriz": {
+    "id": 57,
+    "label": "Ориз"
+  },
+  "http://www.1001recepti.com/s/183428-voda": {
+    "id": 58,
+    "label": "Вода"
+  },
+  "http://www.1001recepti.com/s/184040-greipfrut": {
+    "id": 59,
+    "label": "Грейпфрут"
+  },
+  "http://www.1001recepti.com/s/206846-sok": {
+    "id": 60,
+    "label": "Сок"
+  },
+  "http://www.1001recepti.com/s/209077-teleshko-meso": {
+    "id": 61,
+    "label": "Телешко месо"
+  },
+  "http://www.1001recepti.com/s/200493-prediastie": {
+    "id": 62,
+    "label": "Предястие"
+  },
+  "http://www.1001recepti.com/s/208371-susheni-plodove": {
+    "id": 63,
+    "label": "Сушени плодове"
+  },
+  "http://www.1001recepti.com/s/213070-iabulki": {
+    "id": 64,
+    "label": "Ябълки"
+  },
+  "http://www.1001recepti.com/s/196789-patica": {
+    "id": 65,
+    "label": "Патица"
+  },
+  "http://www.1001recepti.com/s/208221-supi": {
+    "id": 66,
+    "label": "Супи"
+  },
+  "http://www.1001recepti.com/s/183350-vino": {
+    "id": 67,
+    "label": "Вино"
+  },
+  "http://www.1001recepti.com/s/180579-agneshko-meso": {
+    "id": 68,
+    "label": "Агнешко месо"
+  },
+  "http://www.1001recepti.com/s/205881-skumriia": {
+    "id": 69,
+    "label": "Скумрия"
+  },
+  "http://www.1001recepti.com/s/200462-praskovi": {
+    "id": 70,
+    "label": "Праскови"
+  },
+  "http://www.1001recepti.com/s/204815-svinski-drob": {
+    "id": 71,
+    "label": "Свински дроб"
+  },
+  "http://www.1001recepti.com/s/182379-bon-file": {
+    "id": 72,
+    "label": "Бон филе"
+  },
+  "http://www.1001recepti.com/s/194480-nadenica": {
+    "id": 73,
+    "label": "Наденица"
+  }
+}

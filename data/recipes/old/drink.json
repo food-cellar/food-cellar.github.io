@@ -1,0 +1,2182 @@
+{
+  "56": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Сок от диня с малини и мента",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/sok-ot-dinia-s-malini-i-menta-1-[56].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/sok-ot-dinia-s-malini-i-menta-1-[56].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/sok-ot-dinia-s-malini-i-menta-1-[56].jpg"
+      ],
+      "datePublished": "2013-06-04",
+      "cookTime": "PT0H15M",
+      "recipeYield": "4 servings",
+      "recipeCategory": "Напитки",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "61 calories",
+        "carbohydrateContent": "14 g",
+        "fatContent": "0 g",
+        "proteinContent": "1 g",
+        "saturatedFatContent": "0 g",
+        "unsaturatedFatContent": "0.3194375 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "1/2 кг диня",
+        "5 листенца мента",
+        "175 г малини"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Меката част на динята (1/2 кг) се почиства от семките и нарязва на парчета."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Ментата (5 листенца) се нарязва на ситно и заедно с малините (175 г) и динените парчета се пуска в блендера или миксера."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Полученият микс се прецежда и налива във високи чаши. По желание всяка чаша може да се украси с листенце от мента."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "диня",
+        "qty": "1/2 кг",
+        "id": "http://www.1001recepti.com/s/185167-dinia"
+      },
+      {
+        "name": "мента",
+        "qty": "5 листенца",
+        "id": "http://www.1001recepti.com/s/193446-menta"
+      },
+      {
+        "name": "малини",
+        "qty": "175 г",
+        "id": "http://www.1001recepti.com/s/192856-malini"
+      }
+    ]
+  },
+  "621": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Айран с газирана вода",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/airan-2-[621].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/airan-2-[621].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/airan-2-[621].jpg"
+      ],
+      "datePublished": "2011-01-06",
+      "cookTime": "PT0H5M",
+      "recipeYield": "2 servings",
+      "recipeCategory": "Напитки",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "92 calories",
+        "carbohydrateContent": "6 g",
+        "fatContent": "4 g",
+        "proteinContent": "5 g",
+        "saturatedFatContent": "3 g",
+        "unsaturatedFatContent": "1.138 g",
+        "cholesterolContent": "20 mg"
+      },
+      "recipeIngredient": [
+        "300 г кисело мляко",
+        "300 мл. газирана вода",
+        "1 ч.л. сол",
+        "2 листенца мента",
+        "магданоз"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Киселото мляко (300 г) и солтa (1 ч.л.) се разбиват в миксера. Налива се газираната вода (300 мл.) и разбиването продължава до получаването на хомогенна смес. Напитката се украсява с листенца мента (2 листенца) и пресен магданоз."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "кисело мляко",
+        "qty": "300 г",
+        "id": "http://www.1001recepti.com/s/189828-kiselo-mliako"
+      },
+      {
+        "name": "газирана вода",
+        "qty": "300 мл.",
+        "id": "http://www.1001recepti.com/s/183567-gazirana-voda"
+      },
+      {
+        "name": "сол",
+        "qty": "1 ч.л.",
+        "id": "http://www.1001recepti.com/s/206867-sol"
+      },
+      {
+        "name": "мента",
+        "qty": "2 листенца",
+        "id": "http://www.1001recepti.com/s/193446-menta"
+      },
+      {
+        "name": "магданоз",
+        "qty": "Parsing error",
+        "id": "http://www.1001recepti.com/s/192612-magdanoz"
+      }
+    ]
+  },
+  "857": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Смуути от малини и сладолед",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/smuti-ot-malini-i-sladoled-1-[857].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/smuti-ot-malini-i-sladoled-1-[857].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/smuti-ot-malini-i-sladoled-1-[857].jpg"
+      ],
+      "datePublished": "2012-08-16",
+      "cookTime": "PT0H5M",
+      "recipeYield": "2 servings",
+      "recipeCategory": "Напитки",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "300 calories",
+        "carbohydrateContent": "37 g",
+        "fatContent": "14 g",
+        "proteinContent": "7 g",
+        "saturatedFatContent": "8 g",
+        "unsaturatedFatContent": "4.77061 g",
+        "cholesterolContent": "58 mg"
+      },
+      "recipeIngredient": [
+        "150 г малини",
+        "200 г ванилов сладолед",
+        "200 мл. прясно мляко"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Малините (150 г) се поставят в блендер, заедно с прясното мляко (200 мл.) и ваниловия сладолед (200 г), като се оставят десетина цели плодчета за декорация. Млякото, плодовете и сладоледът се пасират и се разпределят в чаши. Във всяка чаша се посипват свежите малини и смуутито се сервира веднага."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "малини",
+        "qty": "150 г",
+        "id": "http://www.1001recepti.com/s/192856-malini"
+      },
+      {
+        "name": "ванилов сладолед",
+        "qty": "200 г",
+        "id": "http://www.1001recepti.com/s/206573-sladoled"
+      },
+      {
+        "name": "прясно мляко",
+        "qty": "200 мл.",
+        "id": "http://www.1001recepti.com/s/193842-mliako"
+      }
+    ]
+  },
+  "872": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Смути от диня и ягоди",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/smuti-ot-dinia-i-iagodi-1-[872].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/smuti-ot-dinia-i-iagodi-1-[872].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/smuti-ot-dinia-i-iagodi-1-[872].jpg"
+      ],
+      "datePublished": "2012-06-24",
+      "cookTime": "PT0H10M",
+      "recipeYield": "4 servings",
+      "recipeCategory": "Напитки",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "85 calories",
+        "carbohydrateContent": "20 g",
+        "fatContent": "0 g",
+        "proteinContent": "1 g",
+        "saturatedFatContent": "0 g",
+        "unsaturatedFatContent": "0.29875 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "1/2 кг диня",
+        "250 г ягоди",
+        "4 с.л. лимонов сок",
+        "2 с.л. захар",
+        "200 г лед"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Ягодите (250 г) се пасират в блендер и се прецеждат през тънко сито, за да се отстранят семките. Връщат се в блендера, заедно с динята (1/2 кг), лимоновия сок (4 с.л.), захарта (2 с.л.) и леда (200 г). Пасира се до получаване на гладка смес. Консумира се непосредствено след това."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "диня",
+        "qty": "1/2 кг",
+        "id": "http://www.1001recepti.com/s/185167-dinia"
+      },
+      {
+        "name": "ягоди",
+        "qty": "250 г",
+        "id": "http://www.1001recepti.com/s/213173-iagodi"
+      },
+      {
+        "name": "лимонов сок",
+        "qty": "4 с.л.",
+        "id": "http://www.1001recepti.com/s/192380-limonov-sok"
+      },
+      {
+        "name": "захар",
+        "qty": "2 с.л.",
+        "id": "http://www.1001recepti.com/s/186585-zahar"
+      },
+      {
+        "name": "лед",
+        "qty": "200 г",
+        "id": "http://www.1001recepti.com/s/183428-voda"
+      }
+    ]
+  },
+  "914": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Смуути от портокал и пъпеш",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/smuti-ot-portokal-i-pupesh-1-[914].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/smuti-ot-portokal-i-pupesh-1-[914].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/smuti-ot-portokal-i-pupesh-1-[914].jpg"
+      ],
+      "datePublished": "2012-08-16",
+      "cookTime": "PT0H5M",
+      "recipeYield": "2 servings",
+      "recipeCategory": "Напитки",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "105 calories",
+        "carbohydrateContent": "26 g",
+        "fatContent": "0 g",
+        "proteinContent": "1 g",
+        "saturatedFatContent": "0 g",
+        "unsaturatedFatContent": "0.0815 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "1/4  пъпеш",
+        "2  портокала",
+        "8 кубчета лед"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Обеленият и почистен от семките пъпеш (1/4 бр) се поставя в блендер, заедно с кубчетата лед (8 кубчета) и обелените и нарязани на парченца портокали (2 бр). Всички продукти сме пасират и сместа се разпределя в чаши. Смуутито се сервира веднага. По желание се декорира с парченце диня."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "пъпеш",
+        "qty": "1/4",
+        "id": "http://www.1001recepti.com/s/201384-pupesh"
+      },
+      {
+        "name": "портокала",
+        "qty": "2",
+        "id": "http://www.1001recepti.com/s/200171-portokali"
+      },
+      {
+        "name": "лед",
+        "qty": "8 кубчета",
+        "id": "http://www.1001recepti.com/s/183428-voda"
+      }
+    ]
+  },
+  "925": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Безалкохолен коктейл с домати и люти чушки",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/kokteil-cherven-diavol-2-[925].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/kokteil-cherven-diavol-2-[925].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/kokteil-cherven-diavol-2-[925].jpg"
+      ],
+      "datePublished": "2012-08-16",
+      "cookTime": "PT0H5M",
+      "recipeYield": "2 servings",
+      "recipeCategory": "Напитки",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "77 calories",
+        "carbohydrateContent": "17 g",
+        "fatContent": "0 g",
+        "proteinContent": "3 g",
+        "saturatedFatContent": "0 g",
+        "unsaturatedFatContent": "0.417315 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "4  домата",
+        "1  червена чушка",
+        "1  люта чушка",
+        "сол",
+        "вода"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "В пасатор се пюрират доматите (4 бр), червената чушка (1 бр), малко вода и лютото чушле (1 бр). Ако желате може да сложите само част от него, за да не стане прекалено люто. Ако стане прекалено гъсто, се добавя още вода. Овкусява се с малко сол. Сервира се охладен. За най-добър резултат се използват розови домати."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "домата",
+        "qty": "4",
+        "id": "http://www.1001recepti.com/s/185321-domati"
+      },
+      {
+        "name": "червена чушка",
+        "qty": "1",
+        "id": "http://www.1001recepti.com/s/212296-chushki"
+      },
+      {
+        "name": "люта чушка",
+        "qty": "1",
+        "id": "http://www.1001recepti.com/s/192577-luti-chushki"
+      },
+      {
+        "name": "сол",
+        "qty": "Parsing error",
+        "id": "http://www.1001recepti.com/s/206867-sol"
+      },
+      {
+        "name": "вода",
+        "qty": "Parsing error",
+        "id": "http://www.1001recepti.com/s/183428-voda"
+      }
+    ]
+  },
+  "1053": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Шоколадов шейк",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/shokoladov-mlechen-sheik--1-[1053].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/shokoladov-mlechen-sheik--1-[1053].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/shokoladov-mlechen-sheik--1-[1053].jpg"
+      ],
+      "datePublished": "2011-10-18",
+      "cookTime": "PT0H10M",
+      "recipeYield": "1 servings",
+      "recipeCategory": "Напитки",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "133 calories",
+        "carbohydrateContent": "18 g",
+        "fatContent": "5 g",
+        "proteinContent": "3 g",
+        "saturatedFatContent": "3 g",
+        "unsaturatedFatContent": "1.19359 g",
+        "cholesterolContent": "20 mg"
+      },
+      "recipeIngredient": [
+        "100 мл. мляко",
+        "2 с.л. шоколадов сладолед",
+        "1 с.л. шоколадов топинг",
+        "сметана",
+        "1  коктейлна черешка"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Празната коктейлна чаша се украсява с шоколадов топинг (1 с.л.) от вътрешната страна като се капва по малко в горния край и се оставя да се разтече по стената на чашата, докато се образуват интересни шарки. Млякото (100 мл.) и сладоледът (2 с.л.) се разбиват в шейкър с лед и се изсипват в украсената чаша. Завършва се с малко сметана отгоре, върху която се поставя коктейлна черешка."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "мляко",
+        "qty": "100 мл.",
+        "id": "http://www.1001recepti.com/s/193842-mliako"
+      },
+      {
+        "name": "шоколадов сладолед",
+        "qty": "2 с.л.",
+        "id": "http://www.1001recepti.com/s/206573-sladoled"
+      },
+      {
+        "name": "шоколадов топинг",
+        "qty": "1 с.л.",
+        "id": "http://www.1001recepti.com/s/209777-toping"
+      },
+      {
+        "name": "сметана",
+        "qty": "Parsing error",
+        "id": "http://www.1001recepti.com/s/206695-smetana"
+      },
+      {
+        "name": "коктейлна черешка",
+        "qty": "1",
+        "id": "http://www.1001recepti.com/s/212045-chereshi"
+      }
+    ]
+  },
+  "1069": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Шейк от къпини",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/sheik-ot-kupini-1-[1069].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/sheik-ot-kupini-1-[1069].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/sheik-ot-kupini-1-[1069].jpg"
+      ],
+      "datePublished": "2011-06-03",
+      "cookTime": "PT0H5M",
+      "recipeYield": "1 servings",
+      "recipeCategory": "Напитки",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "150 calories",
+        "carbohydrateContent": "15 g",
+        "fatContent": "6 g",
+        "proteinContent": "7 g",
+        "saturatedFatContent": "4 g",
+        "unsaturatedFatContent": "1.36272 g",
+        "cholesterolContent": "28 mg"
+      },
+      "recipeIngredient": [
+        "50 г къпини",
+        "2 с.л. сладолед",
+        "200 мл. мляко"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Продуктите се слагат в пасатор или шейкър кана и се пасират. Изсипват се в голяма чаша и се украсяват с цели къпини."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "къпини",
+        "qty": "50 г",
+        "id": "http://www.1001recepti.com/s/191647-kupini"
+      },
+      {
+        "name": "сладолед",
+        "qty": "2 с.л.",
+        "id": "http://www.1001recepti.com/s/201948-recepta"
+      },
+      {
+        "name": "мляко",
+        "qty": "200 мл.",
+        "id": "http://www.1001recepti.com/s/193842-mliako"
+      }
+    ]
+  },
+  "1080": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Смуути от маруля",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/smuuti-ot-marulia-1-[1080].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/smuuti-ot-marulia-1-[1080].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/smuuti-ot-marulia-1-[1080].jpg"
+      ],
+      "datePublished": "2012-08-08",
+      "cookTime": "PT0H10M",
+      "recipeYield": "1 servings",
+      "recipeCategory": "Напитки",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "79 calories",
+        "carbohydrateContent": "4 g",
+        "fatContent": "6 g",
+        "proteinContent": "2 g",
+        "saturatedFatContent": "0 g",
+        "unsaturatedFatContent": "4.738 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "200 г маруля",
+        "1 с.л. зехтин",
+        "1 ч.л. сол"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Листата от свежата маруля (200 г) се измиват старателно и се отцеждат. Накъсват се на едри парчета и се поставят в блендер, заедно със солта и зехтина (1 с.л.), Полученото смуути се изсипва в чаша и се сервира веднага, декорирано с резен репичка и цял лист маруля.  "
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "маруля",
+        "qty": "200 г",
+        "id": "http://www.1001recepti.com/s/193152-marulia"
+      },
+      {
+        "name": "зехтин",
+        "qty": "1 с.л.",
+        "id": "http://www.1001recepti.com/s/186978-zehtin"
+      },
+      {
+        "name": "сол",
+        "qty": "1 ч.л.",
+        "id": "http://www.1001recepti.com/s/206867-sol"
+      }
+    ]
+  },
+  "1084": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Смуути от киви",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/smuuti-ot-kivi-1-[1084].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/smuuti-ot-kivi-1-[1084].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/smuuti-ot-kivi-1-[1084].jpg"
+      ],
+      "datePublished": "2012-08-08",
+      "cookTime": "PT0H10M",
+      "recipeYield": "1 servings",
+      "recipeCategory": "Напитки",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "316 calories",
+        "carbohydrateContent": "46 g",
+        "fatContent": "13 g",
+        "proteinContent": "6 g",
+        "saturatedFatContent": "7 g",
+        "unsaturatedFatContent": "3.80458 g",
+        "cholesterolContent": "51 mg"
+      },
+      "recipeIngredient": [
+        "2  киви",
+        "100 г ванилов сладолед",
+        "50 мл. мляко"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Плодовете киви (2 бр) се обелват и нарязват на четвъртинки. Поставят се в блендер, заедно с прясното мляко (50 мл.) и ваниловият сладолед (100 г) и се пасират. Полученото смути се изсипва в подходяща чаша и се сервира веднага, украсено с пресни плодове киви. "
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "киви",
+        "qty": "2",
+        "id": "http://www.1001recepti.com/s/189663-kivi"
+      },
+      {
+        "name": "ванилов сладолед",
+        "qty": "100 г",
+        "id": "http://www.1001recepti.com/s/206573-sladoled"
+      },
+      {
+        "name": "мляко",
+        "qty": "50 мл.",
+        "id": "http://www.1001recepti.com/s/193842-mliako"
+      }
+    ]
+  },
+  "1420": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Смути от манго",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/smuti-ot-mango-1-[1420].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/smuti-ot-mango-1-[1420].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/smuti-ot-mango-1-[1420].jpg"
+      ],
+      "datePublished": "2011-04-08",
+      "cookTime": "PT0H3M",
+      "recipeYield": "1 servings",
+      "recipeCategory": "Напитки",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "181 calories",
+        "carbohydrateContent": "47 g",
+        "fatContent": "0 g",
+        "proteinContent": "1 g",
+        "saturatedFatContent": "0 g",
+        "unsaturatedFatContent": "0.10557 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "1  манго",
+        "200 г лед",
+        "100 мл. вода",
+        "1 с.л. захар"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Мангото (1 бр) се обелва и нарязва на малки парченца. Продуктите сe слагат в блендер и се пасират за минута, минута и половина."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "манго",
+        "qty": "1",
+        "id": "http://www.1001recepti.com/s/192926-mango"
+      },
+      {
+        "name": "лед",
+        "qty": "200 г",
+        "id": "http://www.1001recepti.com/s/183428-voda"
+      },
+      {
+        "name": "вода",
+        "qty": "100 мл.",
+        "id": "http://www.1001recepti.com/s/183428-voda"
+      },
+      {
+        "name": "захар",
+        "qty": "1 с.л.",
+        "id": "http://www.1001recepti.com/s/186585-zahar"
+      }
+    ]
+  },
+  "1536": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Шейк с малини и касис",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/sheik-s-malini-i-kasis-3-[1536].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/sheik-s-malini-i-kasis-3-[1536].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/sheik-s-malini-i-kasis-3-[1536].jpg"
+      ],
+      "datePublished": "2011-07-17",
+      "cookTime": "PT0H5M",
+      "recipeYield": "2 servings",
+      "recipeCategory": "Напитки",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "175 calories",
+        "carbohydrateContent": "32 g",
+        "fatContent": "4 g",
+        "proteinContent": "5 g",
+        "saturatedFatContent": "2 g",
+        "unsaturatedFatContent": "1.56211 g",
+        "cholesterolContent": "14 mg"
+      },
+      "recipeIngredient": [
+        "200 мл. прясно мляко",
+        "200 г малини",
+        "100 г касис",
+        "1  праскова"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "В блендер се поставят прясното мляко (200 мл.), измитите и подсушени малини (200 г) и касис (100 г), и обелената и нарязана на четвъртинки праскова (1 бр). Всичко се пасира. По желание се пасира с няколко кубчета лед или се подслажда с малко захар или няколко капки течен подсладител."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "прясно мляко",
+        "qty": "200 мл.",
+        "id": "http://www.1001recepti.com/s/193842-mliako"
+      },
+      {
+        "name": "малини",
+        "qty": "200 г",
+        "id": "http://www.1001recepti.com/s/192856-malini"
+      },
+      {
+        "name": "касис",
+        "qty": "100 г",
+        "id": "http://www.1001recepti.com/s/188955-kasis"
+      },
+      {
+        "name": "праскова",
+        "qty": "1",
+        "id": "http://www.1001recepti.com/s/200462-praskovi"
+      }
+    ]
+  },
+  "1537": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Зеленчуково здравословно червено смути с кисело мляко, домати, краставици, чушка, сок от ябълки и моркови",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/zelenchukovo-smuti-s-domati-i-chushka-1-[1537].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/zelenchukovo-smuti-s-domati-i-chushka-1-[1537].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/zelenchukovo-smuti-s-domati-i-chushka-1-[1537].jpg"
+      ],
+      "datePublished": "2011-07-17",
+      "cookTime": "PT0H5M",
+      "recipeYield": "4 servings",
+      "recipeCategory": "Напитки",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "49 calories",
+        "carbohydrateContent": "10 g",
+        "fatContent": "0 g",
+        "proteinContent": "1 g",
+        "saturatedFatContent": "0 g",
+        "unsaturatedFatContent": "0.138045 g",
+        "cholesterolContent": "1 mg"
+      },
+      "recipeIngredient": [
+        "1/2  краставица",
+        "1  домат",
+        "1  червена чушка",
+        "3 с.л. кисело мляко",
+        "1  лимон",
+        "75 мл. сок от ябълка",
+        "100 мл. сок от моркови"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "В блендер се постaвят обелената и нарязана на едро краставица (1/2 бр), нарязаният на четвъртинки домат (1 бр), почистената от дръжката и семките червена чушка (1 бр), киселото мляко (3 с.л.), прясно изцеденият сок от лимона (1 бр), а също и пресните сокове от ябълки (75 мл.) и моркови (100 мл.). Всичко се пасира много добре. Поднася се веднага."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "краставица",
+        "qty": "1/2",
+        "id": "http://www.1001recepti.com/s/190690-krastavici"
+      },
+      {
+        "name": "домат",
+        "qty": "1",
+        "id": "http://www.1001recepti.com/s/185321-domati"
+      },
+      {
+        "name": "червена чушка",
+        "qty": "1",
+        "id": "http://www.1001recepti.com/s/212296-chushki"
+      },
+      {
+        "name": "кисело мляко",
+        "qty": "3 с.л.",
+        "id": "http://www.1001recepti.com/s/189828-kiselo-mliako"
+      },
+      {
+        "name": "лимон",
+        "qty": "1",
+        "id": "http://www.1001recepti.com/s/192361-limoni"
+      },
+      {
+        "name": "сок от ябълка",
+        "qty": "75 мл.",
+        "id": "http://www.1001recepti.com/s/225097-sok-ot-iabulka"
+      },
+      {
+        "name": "сок от моркови",
+        "qty": "100 мл.",
+        "id": "http://www.1001recepti.com/s/206855-sok-ot-morkovi"
+      }
+    ]
+  },
+  "1538": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Шейк от праскови",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/sheik-ot-praskovi-3-[1538].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/sheik-ot-praskovi-3-[1538].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/sheik-ot-praskovi-3-[1538].jpg"
+      ],
+      "datePublished": "2011-07-17",
+      "cookTime": "PT0H5M",
+      "recipeYield": "2 servings",
+      "recipeCategory": "Напитки",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "166 calories",
+        "carbohydrateContent": "31 g",
+        "fatContent": "3 g",
+        "proteinContent": "4 g",
+        "saturatedFatContent": "2 g",
+        "unsaturatedFatContent": "1.22711 g",
+        "cholesterolContent": "14 mg"
+      },
+      "recipeIngredient": [
+        "200 мл. прясно мляко",
+        "3  праскови",
+        "1 ч.л. захар"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Прасковите (3 бр) се обелват и костилките им се отстраняват. Поставят се в блендер, заедно с прясното мляко (200 мл.) и захарта (1 ч.л.). Всичко се пасира много добре и се поднася веднага. "
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "прясно мляко",
+        "qty": "200 мл.",
+        "id": "http://www.1001recepti.com/s/193842-mliako"
+      },
+      {
+        "name": "праскови",
+        "qty": "3",
+        "id": "http://www.1001recepti.com/s/200462-praskovi"
+      },
+      {
+        "name": "захар",
+        "qty": "1 ч.л.",
+        "id": "http://www.1001recepti.com/s/186585-zahar"
+      }
+    ]
+  },
+  "1591": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Сладко-кисел компот от череши",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/sladko-kisel-kompot-ot-chereshi-1-[1591].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/sladko-kisel-kompot-ot-chereshi-1-[1591].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/sladko-kisel-kompot-ot-chereshi-1-[1591].jpg"
+      ],
+      "datePublished": "2012-04-17",
+      "cookTime": "PT0H15M",
+      "recipeYield": "32 servings",
+      "recipeCategory": "Напитки",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "23 calories",
+        "carbohydrateContent": "5 g",
+        "fatContent": "0 g",
+        "proteinContent": "0 g",
+        "saturatedFatContent": "0 g",
+        "unsaturatedFatContent": "0.0903125 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "1 кг череши",
+        "8 л. вода",
+        "15  вишневи листа",
+        "захар или подсладител"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Черешите (1 кг) се измиват без да се отстраняват дръжките. Поставят се в бидон или друг голям съд, заедно с вишневите листа (15 бр). Заливат се с вода (8 л.) и се оставят за 6-7 дни на сянка в стаята, за да започнат да ферментират."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Познава се, че са готови по образуваната бяла пяна по повърхността.Необходимо е да я отстраните преди консумация, както и вишневите листа."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Подправете компота със захар или подсладител. Ако използвате подсладител, слагайте лъжица по лъжица и всеки път пробвайте дали удовлетворява вкуса ви."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Ако използвате захар, препоръчителното количество е 50-60 грама на литър, но отново не слагайте всичко наведнъж, а постепенно, опитвайки вкуса. "
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "череши",
+        "qty": "1 кг",
+        "id": "http://www.1001recepti.com/s/212045-chereshi"
+      },
+      {
+        "name": "вода",
+        "qty": "8 л.",
+        "id": "http://www.1001recepti.com/s/183428-voda"
+      },
+      {
+        "name": "вишневи листа",
+        "qty": "15",
+        "id": "http://www.1001recepti.com/s/201948-recepta"
+      },
+      {
+        "name": "захар или подсладител",
+        "qty": "Parsing error",
+        "id": "http://www.1001recepti.com/s/201948-recepta"
+      }
+    ]
+  },
+  "1598": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Смути от банани, ягоди и портокалов сок",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/smuti--1-[1598].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/smuti--1-[1598].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/smuti--1-[1598].jpg"
+      ],
+      "datePublished": "2012-07-14",
+      "cookTime": "PT0H5M",
+      "recipeYield": "1 servings",
+      "recipeCategory": "Напитки",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "224 calories",
+        "carbohydrateContent": "54 g",
+        "fatContent": "1 g",
+        "proteinContent": "3 g",
+        "saturatedFatContent": "0 g",
+        "unsaturatedFatContent": "0.32692 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "1  банан",
+        "75 г ягоди",
+        "200 мл. портокалов сок"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Бананът (1 бр) и ягодите (75 г) се замразяват за 1 нощ. На следващия ден се слагат в кухненски робот заедно с портокаловия сок (200 мл.) и се пасират. Сервира се във висока чаша с плуващи тънки резенчета ягоди."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "банан",
+        "qty": "1",
+        "id": "http://www.1001recepti.com/s/181202-banani"
+      },
+      {
+        "name": "ягоди",
+        "qty": "75 г",
+        "id": "http://www.1001recepti.com/s/213173-iagodi"
+      },
+      {
+        "name": "портокалов сок",
+        "qty": "200 мл.",
+        "id": "http://www.1001recepti.com/s/200181-portokalov-sok"
+      }
+    ]
+  },
+  "1667": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Коктейл Зелена Светлина (Green Light)",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/kokteil-zelena-svetlina--1-[1667].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/kokteil-zelena-svetlina--1-[1667].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/kokteil-zelena-svetlina--1-[1667].jpg"
+      ],
+      "datePublished": "2013-02-17",
+      "cookTime": "PT0H5M",
+      "recipeYield": "1 servings",
+      "recipeCategory": "Напитки",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "148 calories",
+        "carbohydrateContent": "35 g",
+        "fatContent": "1 g",
+        "proteinContent": "4 g",
+        "saturatedFatContent": "0 g",
+        "unsaturatedFatContent": "0.4111 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "100 г броколи",
+        "1  ябълка",
+        "100 г краставица"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Броколите (100 г), ябълката (1 бр) и краставицата (100 г) се изстискват със сокоизстисквачка. Полученият сок се разбърква и налива в чаша. Питието се украсява с резен краставица."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "броколи",
+        "qty": "100 г",
+        "id": "http://www.1001recepti.com/s/182507-brokoli"
+      },
+      {
+        "name": "ябълка",
+        "qty": "1",
+        "id": "http://www.1001recepti.com/s/213070-iabulki"
+      },
+      {
+        "name": "краставица",
+        "qty": "100 г",
+        "id": "http://www.1001recepti.com/s/190690-krastavici"
+      }
+    ]
+  },
+  "1689": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Бяло фрапе",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/bialo-frape-1-[1689].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/bialo-frape-1-[1689].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/bialo-frape-1-[1689].jpg"
+      ],
+      "datePublished": "2011-08-21",
+      "cookTime": "PT0H3M",
+      "recipeYield": "1 servings",
+      "recipeCategory": "Напитки",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "93 calories",
+        "carbohydrateContent": "7 g",
+        "fatContent": "5 g",
+        "proteinContent": "5 g",
+        "saturatedFatContent": "3 g",
+        "unsaturatedFatContent": "1.18852 g",
+        "cholesterolContent": "21 mg"
+      },
+      "recipeIngredient": [
+        "6 с.л. вода",
+        "1 ч.л. инстантно кафе",
+        "1/2 ч.л. течен подсладител",
+        "150 мл. прясно мляко",
+        "4 бучки лед"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Водата, инстантното кафе и течният подсладител се изсипват в стъклена чаша за фрапе. Разбиват се с миксер или със специален уред за фрапе до получаването на пяна. Добавят се прясното мляко и кубчетата лед. В бялото фрапе се поставя сламка и напитката се сервира веднага."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "вода",
+        "qty": "6 с.л.",
+        "id": "http://www.1001recepti.com/s/183428-voda"
+      },
+      {
+        "name": "инстантно кафе",
+        "qty": "1 ч.л.",
+        "id": "http://www.1001recepti.com/s/225117-instantno-kafe"
+      },
+      {
+        "name": "течен подсладител",
+        "qty": "1/2 ч.л.",
+        "id": "http://www.1001recepti.com/s/200105-podsladitel"
+      },
+      {
+        "name": "прясно мляко",
+        "qty": "150 мл.",
+        "id": "http://www.1001recepti.com/s/193842-mliako"
+      },
+      {
+        "name": "лед",
+        "qty": "4 бучки",
+        "id": "http://www.1001recepti.com/s/183428-voda"
+      }
+    ]
+  },
+  "1900": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Смути с авокадо, прясно мляко и мед",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/smuti-s-avokado-1-[1900].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/smuti-s-avokado-1-[1900].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/smuti-s-avokado-1-[1900].jpg"
+      ],
+      "datePublished": "2012-01-05",
+      "cookTime": "PT0H10M",
+      "recipeYield": "2 servings",
+      "recipeCategory": "Напитки",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "274 calories",
+        "carbohydrateContent": "19 g",
+        "fatContent": "20 g",
+        "proteinContent": "7 g",
+        "saturatedFatContent": "5 g",
+        "unsaturatedFatContent": "13.153255 g",
+        "cholesterolContent": "21 mg"
+      },
+      "recipeIngredient": [
+        "1  авокадо",
+        "300 мл. прясно мляко",
+        "2 с.л. мед"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Авокадото (1 бр) трябва да е добре узряло. След като махнете кората и семката, се пасира. Добавя се и млякото (300 мл.) и се подслажда с мед (2 с.л.). "
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Тази напитка е изключително вкусна и приятна, както за деца, така и за възрастни. Авокадото е чудесен източник на незаменимите омега мастни киселини и тази напитка е добър начин да си ги набавяте."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "авокадо",
+        "qty": "1",
+        "id": "http://www.1001recepti.com/s/180404-avokado"
+      },
+      {
+        "name": "прясно мляко",
+        "qty": "300 мл.",
+        "id": "http://www.1001recepti.com/s/193842-mliako"
+      },
+      {
+        "name": "мед",
+        "qty": "2 с.л.",
+        "id": "http://www.1001recepti.com/s/193286-med"
+      }
+    ]
+  },
+  "1911": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Ошав - топла напитка със сушени плодове за Бъдни Вечер и Коледа",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/snimka-yastie-[1911].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/snimka-yastie-[1911].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/snimka-yastie-[1911].jpg"
+      ],
+      "datePublished": "2012-11-05",
+      "cookTime": "PT0H30M",
+      "recipeYield": "12 servings",
+      "recipeCategory": "Напитки",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "160 calories",
+        "carbohydrateContent": "41 g",
+        "fatContent": "0 g",
+        "proteinContent": "0 g",
+        "saturatedFatContent": "0 g",
+        "unsaturatedFatContent": "0.14346240740741 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "250 г сушени сливи",
+        "250 г сушени ябълки",
+        "1 пръчка канела",
+        "100 г мед",
+        "100 г захар",
+        "1 ч.л. ванилия"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Сушените плодове се накисват във вода за една нощ. След това се отцеждат и изплакват. Поставят се в тенджера с вода, заедно с канелата, ванилията и захарта. Щом водата заври и плодовете омекнат, се добавя медът. Ошавът ври още малко, докато се оцвети от сока на плодовете и стане ароматен. Сервира се охладен и е задължителен гост на трапезата за Бъдни вечер."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "сушени сливи",
+        "qty": "250 г",
+        "id": "http://www.1001recepti.com/s/224929-susheni-slivi"
+      },
+      {
+        "name": "сушени ябълки",
+        "qty": "250 г",
+        "id": "http://www.1001recepti.com/s/222995-susheni-iabulki"
+      },
+      {
+        "name": "канела",
+        "qty": "1 пръчка",
+        "id": "http://www.1001recepti.com/s/187922-kanela"
+      },
+      {
+        "name": "мед",
+        "qty": "100 г",
+        "id": "http://www.1001recepti.com/s/193286-med"
+      },
+      {
+        "name": "захар",
+        "qty": "100 г",
+        "id": "http://www.1001recepti.com/s/186585-zahar"
+      },
+      {
+        "name": "ванилия",
+        "qty": "1 ч.л.",
+        "id": "http://www.1001recepti.com/s/183033-vaniliia"
+      }
+    ]
+  },
+  "1973": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Плодово смути с киви, портокал и ябълка",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/smuti-s-kivi-portokal-i-iabulka-1-[1973].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/smuti-s-kivi-portokal-i-iabulka-1-[1973].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/smuti-s-kivi-portokal-i-iabulka-1-[1973].jpg"
+      ],
+      "datePublished": "2012-06-05",
+      "cookTime": "PT0H5M",
+      "recipeYield": "4 servings",
+      "recipeCategory": "Напитки",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "147 calories",
+        "carbohydrateContent": "36 g",
+        "fatContent": "0 g",
+        "proteinContent": "2 g",
+        "saturatedFatContent": "0 g",
+        "unsaturatedFatContent": "0.4716875 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "10  киви",
+        "1  портокал",
+        "1  ябълка"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Кивито (10 бр) се обелва и се поставя в блендер, заедно с обелената и почистена от семената ябълка (1 бр). Всичко се пасира до получаването на хомогенна смес. Към нея се добавя пресният сок от изцеден портокал (1 бр) и всичко се разбърква. Смутито се поднася веднага."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "киви",
+        "qty": "10",
+        "id": "http://www.1001recepti.com/s/189663-kivi"
+      },
+      {
+        "name": "портокал",
+        "qty": "1",
+        "id": "http://www.1001recepti.com/s/200171-portokali"
+      },
+      {
+        "name": "ябълка",
+        "qty": "1",
+        "id": "http://www.1001recepti.com/s/213070-iabulki"
+      }
+    ]
+  },
+  "3015": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Зеленчуково зелено смути с броколи, лимон и черен пипер",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/zelenchukovo-smuti-s-brokoli-limon-i-cheren-piper-2-[3015].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/zelenchukovo-smuti-s-brokoli-limon-i-cheren-piper-2-[3015].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/zelenchukovo-smuti-s-brokoli-limon-i-cheren-piper-2-[3015].jpg"
+      ],
+      "datePublished": "2015-01-08",
+      "cookTime": "PT0H5M",
+      "recipeYield": "2 servings",
+      "recipeCategory": "Напитки",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "84 calories",
+        "carbohydrateContent": "13 g",
+        "fatContent": "2 g",
+        "proteinContent": "6 g",
+        "saturatedFatContent": "1 g",
+        "unsaturatedFatContent": "0.35357 g",
+        "cholesterolContent": "7 mg"
+      },
+      "recipeIngredient": [
+        "1/2 глава броколи",
+        "1  лимон",
+        "100 мл. прясно мляко",
+        "1 щип. черен пипер"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Мистър Брокол е известен като един от най-полезните зеленчуци изобщо. Освен че е пълен с витамини, е и силно антиканцерогенен. Това смути ще ви зареди с енергия и концентрация, особено в зимните месеци, когато често се чувстваме отпаднали. Приготвихме го със сокоизстисквачката <a href=http://www.tefal.bg/All+Products/Food+preparation/Juicers/Products/Infiny+Press+Revolution/Infiny+Press+Revolution.htm?utm_source=1001recepti&utm_medium=blogpost&utm_campaign=1001recepti_InfinyPress>Tefal Infiny Press Revolution</a>, с която всяко смути се прави с лекота за нула време.Това свежо смути се прави, като бланшираните за минута във вряла вода броколи се залеят с ледена вода, за да се запази яркият им зелен цвят, след което се пускат в уреда и сокът се смесва с малко лимонов сок на вкус, прясно мляко и черен пипер.Тази напитка ще ви зареди не само с енергично настроение, но и със сили да взимате максимума от живота."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "броколи",
+        "qty": "1/2 глава",
+        "id": "http://www.1001recepti.com/s/182507-brokoli"
+      },
+      {
+        "name": "лимон",
+        "qty": "1",
+        "id": "http://www.1001recepti.com/s/192361-limoni"
+      },
+      {
+        "name": "прясно мляко",
+        "qty": "100 мл.",
+        "id": "http://www.1001recepti.com/s/193842-mliako"
+      },
+      {
+        "name": "черен пипер",
+        "qty": "1 щип.",
+        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+      }
+    ]
+  },
+  "3124": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Домашен сироп от арония",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/domashen-sirop-on-aroniia-1-[3124].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/domashen-sirop-on-aroniia-1-[3124].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/domashen-sirop-on-aroniia-1-[3124].jpg"
+      ],
+      "datePublished": "2016-12-07",
+      "cookTime": "PT1H0M",
+      "recipeYield": "12 servings",
+      "recipeCategory": "Напитки",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "570 calories",
+        "carbohydrateContent": "146 g",
+        "fatContent": "0 g",
+        "proteinContent": "1 g",
+        "saturatedFatContent": "0 g",
+        "unsaturatedFatContent": "0.37 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "2 кг арония",
+        "1 1/2 кг захар"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Плодовете от арония се измиват и почистват. Пасират се или се минават през мелачка за месо.  Пюрето се смесва със захарта и се разбърква добре. Поставя се в стъклен съд и се оставя да престои два дни на хландо и тъмно място. След това се прецежда през тензух. Сипва се в бутилки и се стерилизира за 3-4 минути."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "арония",
+        "qty": "2 кг",
+        "id": "http://www.1001recepti.com/s/191647-kupini"
+      },
+      {
+        "name": "захар",
+        "qty": "1 1/2 кг",
+        "id": "http://www.1001recepti.com/s/186585-zahar"
+      }
+    ]
+  },
+  "3125": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Сироп от арония с лимони",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/sok-ot-aroniia-s-limoni-1-[3125].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/sok-ot-aroniia-s-limoni-1-[3125].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/sok-ot-aroniia-s-limoni-1-[3125].jpg"
+      ],
+      "datePublished": "2016-12-07",
+      "cookTime": "PT0H0M",
+      "recipeYield": "12 servings",
+      "recipeCategory": "Напитки",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "893 calories",
+        "carbohydrateContent": "229 g",
+        "fatContent": "0 g",
+        "proteinContent": "1 g",
+        "saturatedFatContent": "0 g",
+        "unsaturatedFatContent": "0.37 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "2 кг арония",
+        "1 кг лимони",
+        "2 1/2 кг захар",
+        "лимонтузу"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Аронията (2 кг) и лимоните (1 кг) се пасират в блендер. Прецеждат се през тензух и сокът се смесва със захарта (2 1/2 кг). На литър сок се слага по 1 гр лимонтузу."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Съхранява се без стерилизация."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "арония",
+        "qty": "2 кг",
+        "id": "http://www.1001recepti.com/s/191647-kupini"
+      },
+      {
+        "name": "лимони",
+        "qty": "1 кг",
+        "id": "http://www.1001recepti.com/s/201948-recepta"
+      },
+      {
+        "name": "захар",
+        "qty": "2 1/2 кг",
+        "id": "http://www.1001recepti.com/s/186585-zahar"
+      },
+      {
+        "name": "лимонтузу",
+        "qty": "Parsing error",
+        "id": "http://www.1001recepti.com/s/225120-limontuzu"
+      }
+    ]
+  },
+  "3126": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Сироп от бъзак",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/sirop-ot-buzak-1-[3126].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/sirop-ot-buzak-1-[3126].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/sirop-ot-buzak-1-[3126].jpg"
+      ],
+      "datePublished": "2016-12-07",
+      "cookTime": "PT1H0M",
+      "recipeYield": "12 servings",
+      "recipeCategory": "Напитки",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "1098 calories",
+        "carbohydrateContent": "281 g",
+        "fatContent": "0 g",
+        "proteinContent": "1 g",
+        "saturatedFatContent": "0 g",
+        "unsaturatedFatContent": "0.555 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "3 кг бъзак",
+        "3 кг захар"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "В дълбок буркан се нареждат плодовете от бъзак и захарта на слоеве от по 2 см. Завършва се с по-дебел слой захар - около 10 см, за да не се вкисне. Бурканът се затваря с тензух и се оставя да престоява на слънце в продължение на 15 дни. Последните дни се бърка с дървена лъжица за да се разтвори захарта."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "бъзак",
+        "qty": "3 кг",
+        "id": "http://www.1001recepti.com/s/191647-kupini"
+      },
+      {
+        "name": "захар",
+        "qty": "3 кг",
+        "id": "http://www.1001recepti.com/s/186585-zahar"
+      }
+    ]
+  },
+  "3129": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Ликьор от зелени орехчета с ракия",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/likioor-ot-zeleni-orehcheta-s-rakiia-1-[3129].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/likioor-ot-zeleni-orehcheta-s-rakiia-1-[3129].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/likioor-ot-zeleni-orehcheta-s-rakiia-1-[3129].jpg"
+      ],
+      "datePublished": "2016-12-08",
+      "cookTime": "PT2H0M",
+      "recipeYield": "12 servings",
+      "recipeCategory": "Напитки",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "583 calories",
+        "carbohydrateContent": "42 g",
+        "fatContent": "6 g",
+        "proteinContent": "1 g",
+        "saturatedFatContent": "0 g",
+        "unsaturatedFatContent": "4.7174 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "60  зелени орехчета",
+        "2 л. ракия",
+        "1/2 кг захар",
+        "200 мл. вода",
+        "3 зърна карамфил"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "В 5 литрово шише от минерална вода се слагат нарязаните орехи, ракията и сърната карамфил. Оставя се да престои на стайна температура около 1 месец, като тубата е плътно затворена. Сместа се прецежда."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Захарта се разтваря във водата на котлона за да се получи захарен сироп. Смесва се с прецедената ракия и отново се прецежда. Налива се в подходящи бутилки и се затварят. Съхраняват се на тъмно и хладно. След около месец ликьорът е готов."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "зелени орехчета",
+        "qty": "60",
+        "id": "http://www.1001recepti.com/s/195111-orehi"
+      },
+      {
+        "name": "ракия",
+        "qty": "2 л.",
+        "id": "http://www.1001recepti.com/s/223439-rakiia"
+      },
+      {
+        "name": "захар",
+        "qty": "1/2 кг",
+        "id": "http://www.1001recepti.com/s/186585-zahar"
+      },
+      {
+        "name": "вода",
+        "qty": "200 мл.",
+        "id": "http://www.1001recepti.com/s/183428-voda"
+      },
+      {
+        "name": "карамфил",
+        "qty": "3 зърна",
+        "id": "http://www.1001recepti.com/s/188047-karamfil"
+      }
+    ]
+  },
+  "3357": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Ябълкова лимонада с лимонов сок",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/iabulkova-limonada-s-limonov-sok-1-[3357].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/iabulkova-limonada-s-limonov-sok-1-[3357].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/iabulkova-limonada-s-limonov-sok-1-[3357].jpg"
+      ],
+      "datePublished": "2019-02-28",
+      "cookTime": "PT0H5M",
+      "recipeYield": "2 servings",
+      "recipeCategory": "Напитки",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "103 calories",
+        "carbohydrateContent": "26 g",
+        "fatContent": "0 g",
+        "proteinContent": "0 g",
+        "saturatedFatContent": "0 g",
+        "unsaturatedFatContent": "0.09555 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "1  ябълка",
+        "1 с.л. лимонов сок",
+        "2 с.л. захар",
+        "1/2 л. газирана вода"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Ябълката (1 бр) се обелва и пасира, заедно с лимоновия сок (1 с.л.), захарта (2 с.л.) и малко лед."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Сместа се прехвърля в кана, добавя се още малко лед и се долива с газирана вода (1/2 л.)."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "ябълка",
+        "qty": "1",
+        "id": "http://www.1001recepti.com/s/213070-iabulki"
+      },
+      {
+        "name": "лимонов сок",
+        "qty": "1 с.л.",
+        "id": "http://www.1001recepti.com/s/192380-limonov-sok"
+      },
+      {
+        "name": "захар",
+        "qty": "2 с.л.",
+        "id": "http://www.1001recepti.com/s/186585-zahar"
+      },
+      {
+        "name": "газирана вода",
+        "qty": "1/2 л.",
+        "id": "http://www.1001recepti.com/s/183567-gazirana-voda"
+      }
+    ]
+  },
+  "3368": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Смути от банан, ананас и джинджифил",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/smuti-ot-banan-ananas-i-djindjifil-1-[3368].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/smuti-ot-banan-ananas-i-djindjifil-1-[3368].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/smuti-ot-banan-ananas-i-djindjifil-1-[3368].jpg"
+      ],
+      "datePublished": "2019-03-21",
+      "cookTime": "PT0H5M",
+      "recipeYield": "1 servings",
+      "recipeCategory": "Напитки",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "225 calories",
+        "carbohydrateContent": "46 g",
+        "fatContent": "4 g",
+        "proteinContent": "5 g",
+        "saturatedFatContent": "2 g",
+        "unsaturatedFatContent": "1.35842 g",
+        "cholesterolContent": "13 mg"
+      },
+      "recipeIngredient": [
+        "1  банан",
+        "100 г ананас",
+        "10 г джинджифил",
+        "100 г кисело мляко",
+        "100 мл. вода"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Ананасът (100 г) се нарязва на кубчета, а джинджифилът (10 г) се настъргва. Всички продукти се смилат в блендер до гладкост. Слагат се няколко кубчета лед, ако напитката се предпочита студена."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "банан",
+        "qty": "1",
+        "id": "http://www.1001recepti.com/s/181202-banani"
+      },
+      {
+        "name": "ананас",
+        "qty": "100 г",
+        "id": "http://www.1001recepti.com/s/180780-ananas"
+      },
+      {
+        "name": "джинджифил",
+        "qty": "10 г",
+        "id": "http://www.1001recepti.com/s/185011-djindjifil"
+      },
+      {
+        "name": "кисело мляко",
+        "qty": "100 г",
+        "id": "http://www.1001recepti.com/s/189828-kiselo-mliako"
+      },
+      {
+        "name": "вода",
+        "qty": "100 мл.",
+        "id": "http://www.1001recepti.com/s/183428-voda"
+      }
+    ]
+  },
+  "3370": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Ягодово сорбе",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/iagodovo-sorbe-1-[3370].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/iagodovo-sorbe-1-[3370].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/iagodovo-sorbe-1-[3370].jpg"
+      ],
+      "datePublished": "2019-03-25",
+      "cookTime": "PT0H30M",
+      "recipeYield": "4 servings",
+      "recipeCategory": "Напитки",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "373 calories",
+        "carbohydrateContent": "95 g",
+        "fatContent": "0 g",
+        "proteinContent": "1 g",
+        "saturatedFatContent": "0 g",
+        "unsaturatedFatContent": "0.27291 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "1/2 кг ягоди",
+        "300 г захар",
+        "1  лимон",
+        "2  портокала",
+        "50 мл. сок от вишни",
+        "4 листа мента",
+        "250 мл. вода"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Захарта (300 г) се сипва в тенджера, залива се с водата (250 мл.) и се загрява до кипване. Сиропът се вари няколко минути и се оставя да се охлади на стайна температура. "
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Ягодите (1/2 кг) се почистват и се заливат със захарния сироп. Добавят се прясно изцедени портокалов и лимонов сок. Разбиват се до получаване на еднородна смес. Вишневият сок се налива при тях и сместа се сипва в подходящ съд, който се слага във фризера. "
+        },
+        {
+          "@type": "HowToStep",
+          "text": "За да се замрази равномерно, сорбето трябва няколко пъти да се разбърка или да се разбие с блендер. "
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Сервира се с помощта на лъжица за сладолед и се украсява с цели ягоди и листенца мента."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "ягоди",
+        "qty": "1/2 кг",
+        "id": "http://www.1001recepti.com/s/213173-iagodi"
+      },
+      {
+        "name": "захар",
+        "qty": "300 г",
+        "id": "http://www.1001recepti.com/s/186585-zahar"
+      },
+      {
+        "name": "лимон",
+        "qty": "1",
+        "id": "http://www.1001recepti.com/s/192361-limoni"
+      },
+      {
+        "name": "портокала",
+        "qty": "2",
+        "id": "http://www.1001recepti.com/s/200171-portokali"
+      },
+      {
+        "name": "сок от вишни",
+        "qty": "50 мл.",
+        "id": "http://www.1001recepti.com/s/-"
+      },
+      {
+        "name": "мента",
+        "qty": "4 листа",
+        "id": "http://www.1001recepti.com/s/193446-menta"
+      },
+      {
+        "name": "вода",
+        "qty": "250 мл.",
+        "id": "http://www.1001recepti.com/s/183428-voda"
+      }
+    ]
+  },
+  "3450": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Смути с авокадо, бадемово мляко, банан, ябълка и орехи",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/smuti-s-avokado-bademovo-mliako-banan-iabulka-i-orehi-2-[3450].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/smuti-s-avokado-bademovo-mliako-banan-iabulka-i-orehi-2-[3450].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/smuti-s-avokado-bademovo-mliako-banan-iabulka-i-orehi-2-[3450].jpg"
+      ],
+      "datePublished": "2020-06-01",
+      "cookTime": "PT0H10M",
+      "recipeYield": "2 servings",
+      "recipeCategory": "Напитки",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "468 calories",
+        "carbohydrateContent": "55 g",
+        "fatContent": "27 g",
+        "proteinContent": "8 g",
+        "saturatedFatContent": "5 g",
+        "unsaturatedFatContent": "19.187955 g",
+        "cholesterolContent": "14 mg"
+      },
+      "recipeIngredient": [
+        "1  авокадо",
+        "200 мл. бадемово мляко",
+        "2  банана",
+        "1  ябълка",
+        "25 г орехи"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Авокадото (1 бр) трябва да е добре узряло. След като махнете кората и семката, се пасира. Добавят се бадемовото млякото (200 мл.), нарязаните на едро банани (2 бр) и ябълка (1 бр), както и ореховите ядки. Отново се пасира до получаване на гладка смес."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Тази напитка е изключително вкусна, приятна и много полезна, както за деца, така и за възрастни."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "авокадо",
+        "qty": "1",
+        "id": "http://www.1001recepti.com/s/180404-avokado"
+      },
+      {
+        "name": "бадемово мляко",
+        "qty": "200 мл.",
+        "id": "http://www.1001recepti.com/s/193842-mliako"
+      },
+      {
+        "name": "банана",
+        "qty": "2",
+        "id": "http://www.1001recepti.com/s/181202-banani"
+      },
+      {
+        "name": "ябълка",
+        "qty": "1",
+        "id": "http://www.1001recepti.com/s/213070-iabulki"
+      },
+      {
+        "name": "орехи",
+        "qty": "25 г",
+        "id": "http://www.1001recepti.com/s/195111-orehi"
+      }
+    ]
+  },
+  "3453": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Зелено здравословно смути с авокадо, спанак, краставица и киви",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/zeleno-zdravoslovno-smuti-s-avokado-spanak-krastavica-i-kivi-1-[3453].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/zeleno-zdravoslovno-smuti-s-avokado-spanak-krastavica-i-kivi-1-[3453].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/zeleno-zdravoslovno-smuti-s-avokado-spanak-krastavica-i-kivi-1-[3453].jpg"
+      ],
+      "datePublished": "2020-06-01",
+      "cookTime": "PT0H10M",
+      "recipeYield": "2 servings",
+      "recipeCategory": "Напитки",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "249 calories",
+        "carbohydrateContent": "25 g",
+        "fatContent": "16 g",
+        "proteinContent": "7 g",
+        "saturatedFatContent": "2 g",
+        "unsaturatedFatContent": "11.38311 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "1  авокадо",
+        "1  краставица",
+        "1 ч.ч. спанак",
+        "2  кивита",
+        "300 мл. вода"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Авокадото (1 бр) се обелва, нарязва се и се поставя в блендер. "
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Краставицата (1 бр) се обелва, нарязва се на едри кубчета и се поставя при авокадото."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Кивито (2 бр) също се обелва и заедно с измития спанак (1 ч.ч.) също отива в блендера."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Добавя се вода (300 мл.), няколко кубчета лед и малко лимонов сок и всичко се пасира, до получаване на гладка консистенция."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "авокадо",
+        "qty": "1",
+        "id": "http://www.1001recepti.com/s/180404-avokado"
+      },
+      {
+        "name": "краставица",
+        "qty": "1",
+        "id": "http://www.1001recepti.com/s/190690-krastavici"
+      },
+      {
+        "name": "спанак",
+        "qty": "1 ч.ч.",
+        "id": "http://www.1001recepti.com/s/207509-spanak"
+      },
+      {
+        "name": "кивита",
+        "qty": "2",
+        "id": "http://www.1001recepti.com/s/189663-kivi"
+      },
+      {
+        "name": "вода",
+        "qty": "300 мл.",
+        "id": "http://www.1001recepti.com/s/183428-voda"
+      }
+    ]
+  },
+  "3471": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Плодово ледено смути от диня, ягоди и банан",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/plodovo-ledeno-smuti-ot-dinia-iagodi-i-banan-2-[3471].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/plodovo-ledeno-smuti-ot-dinia-iagodi-i-banan-2-[3471].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/plodovo-ledeno-smuti-ot-dinia-iagodi-i-banan-2-[3471].jpg"
+      ],
+      "datePublished": "2020-08-09",
+      "cookTime": "PT0H10M",
+      "recipeYield": "4 servings",
+      "recipeCategory": "Напитки",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "119 calories",
+        "carbohydrateContent": "29 g",
+        "fatContent": "0 g",
+        "proteinContent": "1 g",
+        "saturatedFatContent": "0 g",
+        "unsaturatedFatContent": "0.30476 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "1/2 кг диня",
+        "150 г ягоди",
+        "2  банана",
+        "4 с.л. лимонов сок",
+        "1 с.л. захар",
+        "200 г лед"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Ягодите (150 г) се пасират в блендер и се прецеждат през тънко сито, за да се отстранят семките. Връщат се в блендера, заедно с нарязаната на едри парчета диня (1/2 кг), обеленият и нарязан на кръгчета бана, лимоновият сок (4 с.л.), захарта (1 с.л.) и леда (200 г). Пасира се до получаване на гладка смес и смутито се консумира се непосредствено след това, докато е студено."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "диня",
+        "qty": "1/2 кг",
+        "id": "http://www.1001recepti.com/s/185167-dinia"
+      },
+      {
+        "name": "ягоди",
+        "qty": "150 г",
+        "id": "http://www.1001recepti.com/s/213173-iagodi"
+      },
+      {
+        "name": "банана",
+        "qty": "2",
+        "id": "http://www.1001recepti.com/s/181202-banani"
+      },
+      {
+        "name": "лимонов сок",
+        "qty": "4 с.л.",
+        "id": "http://www.1001recepti.com/s/192380-limonov-sok"
+      },
+      {
+        "name": "захар",
+        "qty": "1 с.л.",
+        "id": "http://www.1001recepti.com/s/186585-zahar"
+      },
+      {
+        "name": "лед",
+        "qty": "200 г",
+        "id": "http://www.1001recepti.com/s/183428-voda"
+      }
+    ]
+  },
+  "3472": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Плодово смути с киви, портокал и банан",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/plodovo-smuti-s-kivi-portokal-i-banan-2-[3472].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/plodovo-smuti-s-kivi-portokal-i-banan-2-[3472].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/plodovo-smuti-s-kivi-portokal-i-banan-2-[3472].jpg"
+      ],
+      "datePublished": "2020-08-09",
+      "cookTime": "PT0H5M",
+      "recipeYield": "4 servings",
+      "recipeCategory": "Напитки",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "148 calories",
+        "carbohydrateContent": "36 g",
+        "fatContent": "0 g",
+        "proteinContent": "2 g",
+        "saturatedFatContent": "0 g",
+        "unsaturatedFatContent": "0.4501675 g",
+        "cholesterolContent": "0 mg"
+      },
+      "recipeIngredient": [
+        "10  киви",
+        "1  портокал",
+        "1  банан"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Кивито (10 бр) се обелва и се поставя в блендер, заедно с обеленият и нарязан на кръгчета банан (1 бр). Всичко се пасира до получаването на хомогенна смес. "
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Към пасираната смес се добавя пресният сок от изцеден портокал (1 бр) и всичко се разбърква. Смутито се поднася веднага."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "киви",
+        "qty": "10",
+        "id": "http://www.1001recepti.com/s/189663-kivi"
+      },
+      {
+        "name": "портокал",
+        "qty": "1",
+        "id": "http://www.1001recepti.com/s/200171-portokali"
+      },
+      {
+        "name": "банан",
+        "qty": "1",
+        "id": "http://www.1001recepti.com/s/181202-banani"
+      }
+    ]
+  },
+  "3473": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Смути с червено цвекло, ябълка, кисело мляко и канела",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/smuti-s-cherveno-cveklo-iabulka-kiselo-mliako-i-kanela-1-[3473].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/smuti-s-cherveno-cveklo-iabulka-kiselo-mliako-i-kanela-1-[3473].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/smuti-s-cherveno-cveklo-iabulka-kiselo-mliako-i-kanela-1-[3473].jpg"
+      ],
+      "datePublished": "2020-08-09",
+      "cookTime": "PT0H10M",
+      "recipeYield": "4 servings",
+      "recipeCategory": "Напитки",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "156 calories",
+        "carbohydrateContent": "33 g",
+        "fatContent": "2 g",
+        "proteinContent": "2 g",
+        "saturatedFatContent": "1 g",
+        "unsaturatedFatContent": "0.263755 g",
+        "cholesterolContent": "8 mg"
+      },
+      "recipeIngredient": [
+        "1 глава червено цвекло",
+        "4  ябълка",
+        "250 г кисело мляко",
+        "1 ч.л. канела"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Червеното цвекло (1 глава) и ябълката (4 бр) се обелкват и нарязват. Поставят се в блендър. Към тях се добавя киселото мляко (250 г) и канелата (1 ч.л.). По желание се добавя и малко вода. Всичко се пасира, до получаване на хомогенно смути."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "червено цвекло",
+        "qty": "1 глава",
+        "id": "http://www.1001recepti.com/s/212010-cherveno-cveklo"
+      },
+      {
+        "name": "ябълка",
+        "qty": "4",
+        "id": "http://www.1001recepti.com/s/213070-iabulki"
+      },
+      {
+        "name": "кисело мляко",
+        "qty": "250 г",
+        "id": "http://www.1001recepti.com/s/189828-kiselo-mliako"
+      },
+      {
+        "name": "канела",
+        "qty": "1 ч.л.",
+        "id": "http://www.1001recepti.com/s/187922-kanela"
+      }
+    ]
+  },
+  "3474": {
+    "recipe": {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "name": "Смуути от замразени малини, сладолед и прясно мляко",
+      "image": [
+        "http://www.1001recepti.com/images/photos/recipes/size_4/smuuti-ot-zamrazeni-malini-sladoled-i-priasno-mliako-1-[3474].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_2/smuuti-ot-zamrazeni-malini-sladoled-i-priasno-mliako-1-[3474].jpg",
+        "http://www.1001recepti.com/images/photos/recipes/size_3/smuuti-ot-zamrazeni-malini-sladoled-i-priasno-mliako-1-[3474].jpg"
+      ],
+      "datePublished": "2020-08-09",
+      "cookTime": "PT0H5M",
+      "recipeYield": "2 servings",
+      "recipeCategory": "Напитки",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "263 calories",
+        "carbohydrateContent": "28 g",
+        "fatContent": "14 g",
+        "proteinContent": "6 g",
+        "saturatedFatContent": "8 g",
+        "unsaturatedFatContent": "4.53586 g",
+        "cholesterolContent": "58 mg"
+      },
+      "recipeIngredient": [
+        "150 г замразени малини",
+        "200 г ванилов сладолед",
+        "200 мл. прясно мляко"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Замразените малини (150 г) се поставят в блендер, заедно с прясното мляко (200 мл.) и ваниловия сладолед (200 г), като се оставят десетина цели плодчета за декорация. Всичко се пасира и готовото смути се сипва в коктейлни чаши и се украсява."
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "name": "замразени малини",
+        "qty": "150 г",
+        "id": "http://www.1001recepti.com/s/201948-recepta"
+      },
+      {
+        "name": "ванилов сладолед",
+        "qty": "200 г",
+        "id": "http://www.1001recepti.com/s/206573-sladoled"
+      },
+      {
+        "name": "прясно мляко",
+        "qty": "200 мл.",
+        "id": "http://www.1001recepti.com/s/193842-mliako"
+      }
+    ]
+  }
+}

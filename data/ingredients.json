@@ -1,3282 +1,2462 @@
 {
-  "http://www.1001recepti.com/s/206867-sol": {
-    "id": "http://www.1001recepti.com/s/206867-sol",
+  "1": {
     "name": "sol",
     "used": 2553,
     "displayName": "сол",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/212034-cheren-piper": {
-    "id": "http://www.1001recepti.com/s/212034-cheren-piper",
+  "2": {
     "name": "cheren-piper",
     "used": 1468,
     "displayName": "черен пипер",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/192500-luk": {
-    "id": "http://www.1001recepti.com/s/192500-luk",
+  "3": {
     "name": "luk",
     "used": 1193,
     "displayName": "лук",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/195019-olio": {
-    "id": "http://www.1001recepti.com/s/195019-olio",
+  "4": {
     "name": "olio",
     "used": 1110,
     "displayName": "олио",
-    "category": "Мазнина",
-    "categoryId": "http://www.1001recepti.com/s/304716-maznina"
+    "categoryId": 3
   },
-  "http://www.1001recepti.com/s/213296-iaica": {
-    "id": "http://www.1001recepti.com/s/213296-iaica",
+  "5": {
     "name": "iaica",
     "used": 1092,
     "displayName": "яйца",
-    "category": "Яйца",
-    "categoryId": "http://www.1001recepti.com/s/213296-iaica"
+    "categoryId": 4
   },
-  "http://www.1001recepti.com/s/212113-chesun": {
-    "id": "http://www.1001recepti.com/s/212113-chesun",
+  "6": {
     "name": "chesun",
     "used": 1039,
     "displayName": "чесън",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/182466-brashno": {
-    "id": "http://www.1001recepti.com/s/182466-brashno",
+  "7": {
     "name": "brashno",
     "used": 1034,
     "displayName": "брашно",
-    "category": "Зърнени",
-    "categoryId": "http://www.1001recepti.com/s/216345-zurneni"
+    "categoryId": 5
   },
-  "http://www.1001recepti.com/s/193240-maslo": {
-    "id": "http://www.1001recepti.com/s/193240-maslo",
+  "8": {
     "name": "maslo",
     "used": 878,
     "displayName": "масло",
-    "category": "Млечни",
-    "categoryId": "http://www.1001recepti.com/s/193812-mlechni"
+    "categoryId": 6
   },
-  "http://www.1001recepti.com/s/186585-zahar": {
-    "id": "http://www.1001recepti.com/s/186585-zahar",
+  "9": {
     "name": "zahar",
     "used": 854,
     "displayName": "захар",
-    "category": "Сладко",
-    "categoryId": "http://www.1001recepti.com/s/206480-sladko"
+    "categoryId": 7
   },
-  "http://www.1001recepti.com/s/186978-zehtin": {
-    "id": "http://www.1001recepti.com/s/186978-zehtin",
+  "10": {
     "name": "zehtin",
     "used": 853,
     "displayName": "зехтин",
-    "category": "Мазнина",
-    "categoryId": "http://www.1001recepti.com/s/304716-maznina"
+    "categoryId": 3
   },
-  "http://www.1001recepti.com/s/183428-voda": {
-    "id": "http://www.1001recepti.com/s/183428-voda",
+  "11": {
     "name": "voda",
     "used": 763,
     "displayName": "вода",
-    "category": "Напитки",
-    "categoryId": "http://www.1001recepti.com/s/194536-napitki"
+    "categoryId": 8
   },
-  "http://www.1001recepti.com/s/192612-magdanoz": {
-    "id": "http://www.1001recepti.com/s/192612-magdanoz",
+  "12": {
     "name": "magdanoz",
     "used": 726,
     "displayName": "магданоз",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/193952-morkovi": {
-    "id": "http://www.1001recepti.com/s/193952-morkovi",
+  "13": {
     "name": "morkovi",
     "used": 691,
     "displayName": "морков",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/193842-mliako": {
-    "id": "http://www.1001recepti.com/s/193842-mliako",
+  "14": {
     "name": "mliako",
     "used": 575,
     "displayName": "мляко",
-    "category": "Млечни",
-    "categoryId": "http://www.1001recepti.com/s/193812-mlechni"
+    "categoryId": 6
   },
-  "http://www.1001recepti.com/s/185321-domati": {
-    "id": "http://www.1001recepti.com/s/185321-domati",
+  "15": {
     "name": "domati",
     "used": 565,
     "displayName": "домат",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/188416-kartofi": {
-    "id": "http://www.1001recepti.com/s/188416-kartofi",
+  "16": {
     "name": "kartofi",
     "used": 487,
     "displayName": "картоф",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/192380-limonov-sok": {
-    "id": "http://www.1001recepti.com/s/192380-limonov-sok",
+  "17": {
     "name": "limonov-sok",
     "used": 470,
     "displayName": "лимонов сок",
-    "category": "Лимони",
-    "categoryId": "http://www.1001recepti.com/s/192361-limoni"
+    "categoryId": 9
   },
-  "http://www.1001recepti.com/s/212296-chushki": {
-    "id": "http://www.1001recepti.com/s/212296-chushki",
+  "18": {
     "name": "chushki",
     "used": 435,
     "displayName": "чушки",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/206695-smetana": {
-    "id": "http://www.1001recepti.com/s/206695-smetana",
+  "19": {
     "name": "smetana",
     "used": 411,
     "displayName": "сметана",
-    "category": "Млечни",
-    "categoryId": "http://www.1001recepti.com/s/193812-mlechni"
+    "categoryId": 6
   },
-  "http://www.1001recepti.com/s/211980-cherven-piper": {
-    "id": "http://www.1001recepti.com/s/211980-cherven-piper",
+  "20": {
     "name": "cherven-piper",
     "used": 370,
     "displayName": "червен пипер",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/189828-kiselo-mliako": {
-    "id": "http://www.1001recepti.com/s/189828-kiselo-mliako",
+  "21": {
     "name": "kiselo-mliako",
     "used": 357,
     "displayName": "кисело мляко",
-    "category": "Мляко",
-    "categoryId": "http://www.1001recepti.com/s/193842-mliako"
+    "categoryId": 10
   },
-  "http://www.1001recepti.com/s/195166-oriz": {
-    "id": "http://www.1001recepti.com/s/195166-oriz",
+  "22": {
     "name": "oriz",
     "used": 340,
     "displayName": "ориз",
-    "category": "Зърнени",
-    "categoryId": "http://www.1001recepti.com/s/216345-zurneni"
+    "categoryId": 5
   },
-  "http://www.1001recepti.com/s/183033-vaniliia": {
-    "id": "http://www.1001recepti.com/s/183033-vaniliia",
+  "23": {
     "name": "vaniliia",
     "used": 305,
     "displayName": "ванилия",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/200572-presen-luk": {
-    "id": "http://www.1001recepti.com/s/200572-presen-luk",
+  "24": {
     "name": "presen-luk",
     "used": 283,
     "displayName": "пресен лук",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/182424-bosilek": {
-    "id": "http://www.1001recepti.com/s/182424-bosilek",
+  "25": {
     "name": "bosilek",
     "used": 278,
     "displayName": "босилек",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/182655-bulioon": {
-    "id": "http://www.1001recepti.com/s/182655-bulioon",
+  "26": {
     "name": "bulioon",
     "used": 270,
     "displayName": "бульон",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/201948-recepta": {
-    "id": "http://www.1001recepti.com/s/201948-recepta",
+  "27": {
     "name": "recepta",
     "used": 262,
     "displayName": "рецепта",
-    "category": "N/A",
-    "categoryId": "N/A"
+    "categoryId": 11
   },
-  "http://www.1001recepti.com/s/190523-kopur": {
-    "id": "http://www.1001recepti.com/s/190523-kopur",
+  "28": {
     "name": "kopur",
     "used": 241,
     "displayName": "копър",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/225121-bakpulver": {
-    "id": "http://www.1001recepti.com/s/225121-bakpulver",
+  "29": {
     "name": "bakpulver",
     "used": 230,
     "displayName": "бакпулвер",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/211664-celina": {
-    "id": "http://www.1001recepti.com/s/211664-celina",
+  "30": {
     "name": "celina",
     "used": 225,
     "displayName": "целина",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/195111-orehi": {
-    "id": "http://www.1001recepti.com/s/195111-orehi",
+  "31": {
     "name": "orehi",
     "used": 219,
     "displayName": "орех",
-    "category": "Ядки",
-    "categoryId": "http://www.1001recepti.com/s/213233-iadki"
+    "categoryId": 12
   },
-  "http://www.1001recepti.com/s/205659-sirene": {
-    "id": "http://www.1001recepti.com/s/205659-sirene",
+  "32": {
     "name": "sirene",
     "used": 219,
     "displayName": "сирене",
-    "category": "Млечни",
-    "categoryId": "http://www.1001recepti.com/s/193812-mlechni"
+    "categoryId": 6
   },
-  "http://www.1001recepti.com/s/362535-iaichen-jultuk": {
-    "id": "http://www.1001recepti.com/s/362535-iaichen-jultuk",
+  "33": {
     "name": "iaichen-jultuk",
     "used": 200,
     "displayName": "жълтък",
-    "category": "Яйца",
-    "categoryId": "http://www.1001recepti.com/s/213296-iaica"
+    "categoryId": 4
   },
-  "http://www.1001recepti.com/s/225125-pudra-zahar": {
-    "id": "http://www.1001recepti.com/s/225125-pudra-zahar",
+  "34": {
     "name": "pudra-zahar",
     "used": 195,
     "displayName": "пудра захар",
-    "category": "Захар",
-    "categoryId": "http://www.1001recepti.com/s/186585-zahar"
+    "categoryId": 13
   },
-  "http://www.1001recepti.com/s/185315-domateno-pure": {
-    "id": "http://www.1001recepti.com/s/185315-domateno-pure",
+  "35": {
     "name": "domateno-pure",
     "used": 183,
     "displayName": "доматено пюре",
-    "category": "Домати",
-    "categoryId": "http://www.1001recepti.com/s/185321-domati"
+    "categoryId": 14
   },
-  "http://www.1001recepti.com/s/212278-chubrica": {
-    "id": "http://www.1001recepti.com/s/212278-chubrica",
+  "36": {
     "name": "chubrica",
     "used": 179,
     "displayName": "чубрица",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/184313-gubi": {
-    "id": "http://www.1001recepti.com/s/184313-gubi",
+  "37": {
     "name": "gubi",
     "used": 174,
     "displayName": "гъби",
-    "category": "Гъби",
-    "categoryId": "http://www.1001recepti.com/s/184313-gubi"
+    "categoryId": 15
   },
-  "http://www.1001recepti.com/s/193286-med": {
-    "id": "http://www.1001recepti.com/s/193286-med",
+  "38": {
     "name": "med",
     "used": 173,
     "displayName": "мед",
-    "category": "Сладко",
-    "categoryId": "http://www.1001recepti.com/s/206480-sladko"
+    "categoryId": 7
   },
-  "http://www.1001recepti.com/s/209473-tikvichki": {
-    "id": "http://www.1001recepti.com/s/209473-tikvichki",
+  "39": {
     "name": "tikvichki",
     "used": 173,
     "displayName": "тиквичка",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/207509-spanak": {
-    "id": "http://www.1001recepti.com/s/207509-spanak",
+  "40": {
     "name": "spanak",
     "used": 170,
     "displayName": "спанак",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/182996-bialo-vino": {
-    "id": "http://www.1001recepti.com/s/182996-bialo-vino",
+  "41": {
     "name": "bialo-vino",
     "used": 164,
     "displayName": "бяло вино",
-    "category": "Алкохол",
-    "categoryId": "http://www.1001recepti.com/s/223440-alkohol"
+    "categoryId": 16
   },
-  "http://www.1001recepti.com/s/189725-kimion": {
-    "id": "http://www.1001recepti.com/s/189725-kimion",
+  "42": {
     "name": "kimion",
     "used": 160,
     "displayName": "кимион",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/192361-limoni": {
-    "id": "http://www.1001recepti.com/s/192361-limoni",
+  "43": {
     "name": "limoni",
     "used": 160,
     "displayName": "лимон",
-    "category": "Плодове",
-    "categoryId": "http://www.1001recepti.com/s/199994-plodove"
+    "categoryId": 17
   },
-  "http://www.1001recepti.com/s/190690-krastavici": {
-    "id": "http://www.1001recepti.com/s/190690-krastavici",
+  "44": {
     "name": "krastavici",
     "used": 160,
     "displayName": "краставици",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/187777-kakao": {
-    "id": "http://www.1001recepti.com/s/187777-kakao",
+  "45": {
     "name": "kakao",
     "used": 157,
     "displayName": "какао",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/187922-kanela": {
-    "id": "http://www.1001recepti.com/s/187922-kanela",
+  "46": {
     "name": "kanela",
     "used": 153,
     "displayName": "канела",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/189045-kashkaval": {
-    "id": "http://www.1001recepti.com/s/189045-kashkaval",
+  "47": {
     "name": "kashkaval",
     "used": 149,
     "displayName": "кашкавал",
-    "category": "Млечни",
-    "categoryId": "http://www.1001recepti.com/s/193812-mlechni"
+    "categoryId": 6
   },
-  "http://www.1001recepti.com/s/212616-shokolad": {
-    "id": "http://www.1001recepti.com/s/212616-shokolad",
+  "48": {
     "name": "shokolad",
     "used": 144,
     "displayName": "шоколад",
-    "category": "Десерти",
-    "categoryId": "http://www.1001recepti.com/s/184867-deserti"
+    "categoryId": 18
   },
-  "http://www.1001recepti.com/s/199201-pileshko-meso": {
-    "id": "http://www.1001recepti.com/s/199201-pileshko-meso",
+  "49": {
     "name": "pileshko-meso",
     "used": 142,
     "displayName": "пилешко месо",
-    "category": "Месо",
-    "categoryId": "http://www.1001recepti.com/s/193495-meso"
+    "categoryId": 19
   },
-  "http://www.1001recepti.com/s/193230-maslini": {
-    "id": "http://www.1001recepti.com/s/193230-maslini",
+  "50": {
     "name": "maslini",
     "used": 142,
     "displayName": "маслини",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/200402-praz-luk": {
-    "id": "http://www.1001recepti.com/s/200402-praz-luk",
+  "51": {
     "name": "praz-luk",
     "used": 135,
     "displayName": "праз",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/193268-maia": {
-    "id": "http://www.1001recepti.com/s/193268-maia",
+  "52": {
     "name": "maia",
     "used": 134,
     "displayName": "мая",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/206818-soev-sos": {
-    "id": "http://www.1001recepti.com/s/206818-soev-sos",
+  "53": {
     "name": "soev-sos",
     "used": 129,
     "displayName": "соев сос",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/187570-kaima": {
-    "id": "http://www.1001recepti.com/s/187570-kaima",
+  "54": {
     "name": "kaima",
     "used": 127,
     "displayName": "кайма",
-    "category": "Месо",
-    "categoryId": "http://www.1001recepti.com/s/193495-meso"
+    "categoryId": 19
   },
-  "http://www.1001recepti.com/s/196534-pasta": {
-    "id": "http://www.1001recepti.com/s/196534-pasta",
+  "55": {
     "name": "pasta",
     "used": 126,
     "displayName": "италианска паста",
-    "category": "Спагети",
-    "categoryId": "http://www.1001recepti.com/s/207327-spageti"
+    "categoryId": 20
   },
-  "http://www.1001recepti.com/s/349459-soda-za-hliab": {
-    "id": "http://www.1001recepti.com/s/349459-soda-za-hliab",
+  "56": {
     "name": "soda-za-hliab",
     "used": 126,
     "displayName": "сода",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/182507-brokoli": {
-    "id": "http://www.1001recepti.com/s/182507-brokoli",
+  "57": {
     "name": "brokoli",
     "used": 124,
     "displayName": "броколи",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/183577-galeta": {
-    "id": "http://www.1001recepti.com/s/183577-galeta",
+  "58": {
     "name": "galeta",
     "used": 123,
     "displayName": "галета",
-    "category": "Хляб",
-    "categoryId": "http://www.1001recepti.com/s/211322-hliab"
+    "categoryId": 21
   },
-  "http://www.1001recepti.com/s/196417-parmezan": {
-    "id": "http://www.1001recepti.com/s/196417-parmezan",
+  "59": {
     "name": "parmezan",
     "used": 122,
     "displayName": "пармезан",
-    "category": "Сирене",
-    "categoryId": "http://www.1001recepti.com/s/205659-sirene"
+    "categoryId": 22
   },
-  "http://www.1001recepti.com/s/185026-djodjen": {
-    "id": "http://www.1001recepti.com/s/185026-djodjen",
+  "60": {
     "name": "djodjen",
     "used": 121,
     "displayName": "джоджен",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/195631-ocet": {
-    "id": "http://www.1001recepti.com/s/195631-ocet",
+  "61": {
     "name": "ocet",
     "used": 116,
     "displayName": "оцет",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/184366-gubi-pechurki": {
-    "id": "http://www.1001recepti.com/s/184366-gubi-pechurki",
+  "62": {
     "name": "gubi-pechurki",
     "used": 112,
     "displayName": "гъби печурки",
-    "category": "Гъби",
-    "categoryId": "http://www.1001recepti.com/s/184313-gubi"
+    "categoryId": 15
   },
-  "http://www.1001recepti.com/s/182086-bob": {
-    "id": "http://www.1001recepti.com/s/182086-bob",
+  "63": {
     "name": "bob",
     "used": 109,
     "displayName": "червен боб",
-    "category": "Бобени",
-    "categoryId": "http://www.1001recepti.com/s/182317-bobeni"
+    "categoryId": 23
   },
-  "http://www.1001recepti.com/s/183871-gorchica": {
-    "id": "http://www.1001recepti.com/s/183871-gorchica",
+  "64": {
     "name": "gorchica",
     "used": 107,
     "displayName": "горчица",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/202962-rigan": {
-    "id": "http://www.1001recepti.com/s/202962-rigan",
+  "65": {
     "name": "rigan",
     "used": 106,
     "displayName": "риган",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/211322-hliab": {
-    "id": "http://www.1001recepti.com/s/211322-hliab",
+  "66": {
     "name": "hliab",
     "used": 106,
     "displayName": "хляб",
-    "category": "Хляб",
-    "categoryId": "http://www.1001recepti.com/s/211322-hliab"
+    "categoryId": 21
   },
-  "http://www.1001recepti.com/s/205140-svinsko-meso": {
-    "id": "http://www.1001recepti.com/s/205140-svinsko-meso",
+  "67": {
     "name": "svinsko-meso",
     "used": 105,
     "displayName": "свинско месо",
-    "category": "Месо",
-    "categoryId": "http://www.1001recepti.com/s/193495-meso"
+    "categoryId": 19
   },
-  "http://www.1001recepti.com/s/183947-grah": {
-    "id": "http://www.1001recepti.com/s/183947-grah",
+  "68": {
     "name": "grah",
     "used": 105,
     "displayName": "грах",
-    "category": "Бобени",
-    "categoryId": "http://www.1001recepti.com/s/182317-bobeni"
+    "categoryId": 23
   },
-  "http://www.1001recepti.com/s/207748-stafidi": {
-    "id": "http://www.1001recepti.com/s/207748-stafidi",
+  "69": {
     "name": "stafidi",
     "used": 105,
     "displayName": "стафиди",
-    "category": "Грозде",
-    "categoryId": "http://www.1001recepti.com/s/184114-grozde"
+    "categoryId": 24
   },
-  "http://www.1001recepti.com/s/184678-dafinov-list": {
-    "id": "http://www.1001recepti.com/s/184678-dafinov-list",
+  "70": {
     "name": "dafinov-list",
     "used": 100,
     "displayName": "дафинов лист",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/196808-patladjan": {
-    "id": "http://www.1001recepti.com/s/196808-patladjan",
+  "71": {
     "name": "patladjan",
     "used": 99,
     "displayName": "патладжан",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/207327-spageti": {
-    "id": "http://www.1001recepti.com/s/207327-spageti",
+  "72": {
     "name": "spageti",
     "used": 97,
     "displayName": "спагети",
-    "category": "Италианска паста",
-    "categoryId": "http://www.1001recepti.com/s/187395-italianska-pasta"
+    "categoryId": 25
   },
-  "http://www.1001recepti.com/s/186320-zakvasena-smetana": {
-    "id": "http://www.1001recepti.com/s/186320-zakvasena-smetana",
+  "73": {
     "name": "zakvasena-smetana",
     "used": 96,
     "displayName": "заквасена сметана",
-    "category": "Млечни",
-    "categoryId": "http://www.1001recepti.com/s/193812-mlechni"
+    "categoryId": 6
   },
-  "http://www.1001recepti.com/s/203139-rom": {
-    "id": "http://www.1001recepti.com/s/203139-rom",
+  "74": {
     "name": "rom",
     "used": 96,
     "displayName": "ром",
-    "category": "Коктейли",
-    "categoryId": "http://www.1001recepti.com/s/190254-kokteili"
+    "categoryId": 26
   },
-  "http://www.1001recepti.com/s/193265-mashterka": {
-    "id": "http://www.1001recepti.com/s/193265-mashterka",
+  "75": {
     "name": "mashterka",
     "used": 96,
     "displayName": "мащерка",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/212873-shunka": {
-    "id": "http://www.1001recepti.com/s/212873-shunka",
+  "76": {
     "name": "shunka",
     "used": 94,
     "displayName": "шунка",
-    "category": "Месо",
-    "categoryId": "http://www.1001recepti.com/s/193495-meso"
+    "categoryId": 19
   },
-  "http://www.1001recepti.com/s/203088-rozmarin": {
-    "id": "http://www.1001recepti.com/s/203088-rozmarin",
+  "77": {
     "name": "rozmarin",
     "used": 93,
     "displayName": "розмарин",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/211525-carevica": {
-    "id": "http://www.1001recepti.com/s/211525-carevica",
+  "78": {
     "name": "carevica",
     "used": 90,
     "displayName": "царевица",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/198803-pileshki-gurdi": {
-    "id": "http://www.1001recepti.com/s/198803-pileshki-gurdi",
+  "79": {
     "name": "pileshki-gurdi",
     "used": 88,
     "displayName": "пилешки гърди",
-    "category": "Пиле",
-    "categoryId": "http://www.1001recepti.com/s/197536-pile"
+    "categoryId": 27
   },
-  "http://www.1001recepti.com/s/192670-maioneza": {
-    "id": "http://www.1001recepti.com/s/192670-maioneza",
+  "80": {
     "name": "maioneza",
     "used": 88,
     "displayName": "мойонеза",
-    "category": "Яйца",
-    "categoryId": "http://www.1001recepti.com/s/213296-iaica"
+    "categoryId": 4
   },
-  "http://www.1001recepti.com/s/180579-agneshko-meso": {
-    "id": "http://www.1001recepti.com/s/180579-agneshko-meso",
+  "81": {
     "name": "agneshko-meso",
     "used": 87,
     "displayName": "агнешка кайма",
-    "category": "Месо",
-    "categoryId": "http://www.1001recepti.com/s/193495-meso"
+    "categoryId": 19
   },
-  "http://www.1001recepti.com/s/181093-bademi": {
-    "id": "http://www.1001recepti.com/s/181093-bademi",
+  "82": {
     "name": "bademi",
     "used": 87,
     "displayName": "бадем",
-    "category": "Ядки",
-    "categoryId": "http://www.1001recepti.com/s/213233-iadki"
+    "categoryId": 12
   },
-  "http://www.1001recepti.com/s/180404-avokado": {
-    "id": "http://www.1001recepti.com/s/180404-avokado",
+  "83": {
     "name": "avokado",
     "used": 86,
     "displayName": "авокадо",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/185011-djindjifil": {
-    "id": "http://www.1001recepti.com/s/185011-djindjifil",
+  "84": {
     "name": "djindjifil",
     "used": 85,
     "displayName": "джинджифил",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/213070-iabulki": {
-    "id": "http://www.1001recepti.com/s/213070-iabulki",
+  "85": {
     "name": "iabulki",
     "used": 81,
     "displayName": "ябълка",
-    "category": "Плодове",
-    "categoryId": "http://www.1001recepti.com/s/199994-plodove"
+    "categoryId": 17
   },
-  "http://www.1001recepti.com/s/185252-domaten-sos": {
-    "id": "http://www.1001recepti.com/s/185252-domaten-sos",
+  "86": {
     "name": "domaten-sos",
     "used": 81,
     "displayName": "доматен сос",
-    "category": "Домати",
-    "categoryId": "http://www.1001recepti.com/s/185321-domati"
+    "categoryId": 14
   },
-  "http://www.1001recepti.com/s/186809-zelena-salata": {
-    "id": "http://www.1001recepti.com/s/186809-zelena-salata",
+  "87": {
     "name": "zelena-salata",
     "used": 79,
     "displayName": "зелена салата",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/181657-bekon": {
-    "id": "http://www.1001recepti.com/s/181657-bekon",
+  "88": {
     "name": "bekon",
     "used": 79,
     "displayName": "бекон",
-    "category": "Месо",
-    "categoryId": "http://www.1001recepti.com/s/193495-meso"
+    "categoryId": 19
   },
-  "http://www.1001recepti.com/s/193127-marmalad": {
-    "id": "http://www.1001recepti.com/s/193127-marmalad",
+  "89": {
     "name": "marmalad",
     "used": 73,
     "displayName": "мармалад",
-    "category": "Зимнина",
-    "categoryId": "http://www.1001recepti.com/s/186994-zimnina"
+    "categoryId": 28
   },
-  "http://www.1001recepti.com/s/193446-menta": {
-    "id": "http://www.1001recepti.com/s/193446-menta",
+  "90": {
     "name": "menta",
     "used": 72,
     "displayName": "мента",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/188912-karfiol": {
-    "id": "http://www.1001recepti.com/s/188912-karfiol",
+  "91": {
     "name": "karfiol",
     "used": 72,
     "displayName": "карфиол",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/187192-izvara": {
-    "id": "http://www.1001recepti.com/s/187192-izvara",
+  "92": {
     "name": "izvara",
     "used": 71,
     "displayName": "извара",
-    "category": "Млечни",
-    "categoryId": "http://www.1001recepti.com/s/193812-mlechni"
+    "categoryId": 6
   },
-  "http://www.1001recepti.com/s/194019-mocarela": {
-    "id": "http://www.1001recepti.com/s/194019-mocarela",
+  "93": {
     "name": "mocarela",
     "used": 71,
     "displayName": "моцарела",
-    "category": "Сирене",
-    "categoryId": "http://www.1001recepti.com/s/205659-sirene"
+    "categoryId": 22
   },
-  "http://www.1001recepti.com/s/200728-priasno-zele": {
-    "id": "http://www.1001recepti.com/s/200728-priasno-zele",
+  "94": {
     "name": "priasno-zele",
     "used": 70,
     "displayName": "зеле",
-    "category": "Зеле",
-    "categoryId": "http://www.1001recepti.com/s/186638-zele"
+    "categoryId": 29
   },
-  "http://www.1001recepti.com/s/181903-biskviti": {
-    "id": "http://www.1001recepti.com/s/181903-biskviti",
+  "95": {
     "name": "biskviti",
     "used": 68,
     "displayName": "бисквити",
-    "category": "Десерти",
-    "categoryId": "http://www.1001recepti.com/s/184867-deserti"
+    "categoryId": 18
   },
-  "http://www.1001recepti.com/s/194718-nisheste": {
-    "id": "http://www.1001recepti.com/s/194718-nisheste",
+  "96": {
     "name": "nisheste",
     "used": 68,
     "displayName": "нишесте",
-    "category": "Брашно",
-    "categoryId": "http://www.1001recepti.com/s/182466-brashno"
+    "categoryId": 30
   },
-  "http://www.1001recepti.com/s/190558-koriandur": {
-    "id": "http://www.1001recepti.com/s/190558-koriandur",
+  "97": {
     "name": "koriandur",
     "used": 66,
     "displayName": "кориандър",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/212004-cherveno-vino": {
-    "id": "http://www.1001recepti.com/s/212004-cherveno-vino",
+  "98": {
     "name": "cherveno-vino",
     "used": 66,
     "displayName": "червено вино",
-    "category": "Алкохол",
-    "categoryId": "http://www.1001recepti.com/s/223440-alkohol"
+    "categoryId": 16
   },
-  "http://www.1001recepti.com/s/186786-zelen-fasul": {
-    "id": "http://www.1001recepti.com/s/186786-zelen-fasul",
+  "99": {
     "name": "zelen-fasul",
     "used": 65,
     "displayName": "зелен боб",
-    "category": "Боб",
-    "categoryId": "http://www.1001recepti.com/s/182086-bob"
+    "categoryId": 31
   },
-  "http://www.1001recepti.com/s/190169-kokos": {
-    "id": "http://www.1001recepti.com/s/190169-kokos",
+  "100": {
     "name": "kokos",
     "used": 65,
     "displayName": "кокос",
-    "category": "Плодове",
-    "categoryId": "http://www.1001recepti.com/s/199994-plodove"
+    "categoryId": 17
   },
-  "http://www.1001recepti.com/s/203713-salata-aisberg": {
-    "id": "http://www.1001recepti.com/s/203713-salata-aisberg",
+  "101": {
     "name": "salata-aisberg",
     "used": 65,
     "displayName": "салата айсберг",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/182965-biala-riba": {
-    "id": "http://www.1001recepti.com/s/182965-biala-riba",
+  "102": {
     "name": "biala-riba",
     "used": 64,
     "displayName": "бяла риба",
-    "category": "Риба",
-    "categoryId": "http://www.1001recepti.com/s/202689-riba"
+    "categoryId": 32
   },
-  "http://www.1001recepti.com/s/191078-krema-sirene": {
-    "id": "http://www.1001recepti.com/s/191078-krema-sirene",
+  "103": {
     "name": "krema-sirene",
     "used": 64,
     "displayName": "сирене крема",
-    "category": "Млечни",
-    "categoryId": "http://www.1001recepti.com/s/193812-mlechni"
+    "categoryId": 6
   },
-  "http://www.1001recepti.com/s/205831-skaridi": {
-    "id": "http://www.1001recepti.com/s/205831-skaridi",
+  "104": {
     "name": "skaridi",
     "used": 63,
     "displayName": "скариди",
-    "category": "Морски дарове",
-    "categoryId": "http://www.1001recepti.com/s/193997-morski-darove"
+    "categoryId": 33
   },
-  "http://www.1001recepti.com/s/192577-luti-chushki": {
-    "id": "http://www.1001recepti.com/s/192577-luti-chushki",
+  "105": {
     "name": "luti-chushki",
     "used": 63,
     "displayName": "чили",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/192291-leshta": {
-    "id": "http://www.1001recepti.com/s/192291-leshta",
+  "106": {
     "name": "leshta",
     "used": 63,
     "displayName": "леща",
-    "category": "Бобени",
-    "categoryId": "http://www.1001recepti.com/s/182317-bobeni"
+    "categoryId": 23
   },
-  "http://www.1001recepti.com/s/225100-limonova-kora": {
-    "id": "http://www.1001recepti.com/s/225100-limonova-kora",
+  "107": {
     "name": "limonova-kora",
     "used": 61,
     "displayName": "лимонова кора",
-    "category": "Лимони",
-    "categoryId": "http://www.1001recepti.com/s/192361-limoni"
+    "categoryId": 9
   },
-  "http://www.1001recepti.com/s/205624-sinioo-sirene": {
-    "id": "http://www.1001recepti.com/s/205624-sinioo-sirene",
+  "108": {
     "name": "sinioo-sirene",
     "used": 61,
     "displayName": "синьо сирене",
-    "category": "Млечни",
-    "categoryId": "http://www.1001recepti.com/s/193812-mlechni"
+    "categoryId": 6
   },
-  "http://www.1001recepti.com/s/213173-iagodi": {
-    "id": "http://www.1001recepti.com/s/213173-iagodi",
+  "109": {
     "name": "iagodi",
     "used": 60,
     "displayName": "ягоди",
-    "category": "Плодове",
-    "categoryId": "http://www.1001recepti.com/s/199994-plodove"
+    "categoryId": 17
   },
-  "http://www.1001recepti.com/s/209077-teleshko-meso": {
-    "id": "http://www.1001recepti.com/s/209077-teleshko-meso",
+  "110": {
     "name": "teleshko-meso",
     "used": 59,
     "displayName": "телешко месо",
-    "category": "Месо",
-    "categoryId": "http://www.1001recepti.com/s/193495-meso"
+    "categoryId": 19
   },
-  "http://www.1001recepti.com/s/197536-pile": {
-    "id": "http://www.1001recepti.com/s/197536-pile",
+  "111": {
     "name": "pile",
     "used": 58,
     "displayName": "пиле",
-    "category": "Месо",
-    "categoryId": "http://www.1001recepti.com/s/193495-meso"
+    "categoryId": 19
   },
-  "http://www.1001recepti.com/s/209770-topeno-sirene": {
-    "id": "http://www.1001recepti.com/s/209770-topeno-sirene",
+  "112": {
     "name": "topeno-sirene",
     "used": 54,
     "displayName": "топено сирене",
-    "category": "Млечни",
-    "categoryId": "http://www.1001recepti.com/s/193812-mlechni"
+    "categoryId": 6
   },
-  "http://www.1001recepti.com/s/208273-susam": {
-    "id": "http://www.1001recepti.com/s/208273-susam",
+  "113": {
     "name": "susam",
     "used": 54,
     "displayName": "сусам",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/208640-sioomga": {
-    "id": "http://www.1001recepti.com/s/208640-sioomga",
+  "114": {
     "name": "sioomga",
     "used": 53,
     "displayName": "сьомга",
-    "category": "Риба",
-    "categoryId": "http://www.1001recepti.com/s/202689-riba"
+    "categoryId": 32
   },
-  "http://www.1001recepti.com/s/193166-maskarpone": {
-    "id": "http://www.1001recepti.com/s/193166-maskarpone",
+  "115": {
     "name": "maskarpone",
     "used": 53,
     "displayName": "маскарпоне",
-    "category": "Сирене",
-    "categoryId": "http://www.1001recepti.com/s/205659-sirene"
+    "categoryId": 22
   },
-  "http://www.1001recepti.com/s/209349-tikva": {
-    "id": "http://www.1001recepti.com/s/209349-tikva",
+  "116": {
     "name": "tikva",
     "used": 53,
     "displayName": "тиква",
-    "category": "Плодове",
-    "categoryId": "http://www.1001recepti.com/s/199994-plodove"
+    "categoryId": 17
   },
-  "http://www.1001recepti.com/s/182712-buter-testo": {
-    "id": "http://www.1001recepti.com/s/182712-buter-testo",
+  "117": {
     "name": "buter-testo",
     "used": 52,
     "displayName": "бутер тесто",
-    "category": "Тесто",
-    "categoryId": "http://www.1001recepti.com/s/209232-testo"
+    "categoryId": 34
   },
-  "http://www.1001recepti.com/s/191532-kurkuma": {
-    "id": "http://www.1001recepti.com/s/191532-kurkuma",
+  "118": {
     "name": "kurkuma",
     "used": 51,
     "displayName": "куркума",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/198712-pileshki-butcheta": {
-    "id": "http://www.1001recepti.com/s/198712-pileshki-butcheta",
+  "119": {
     "name": "pileshki-butcheta",
     "used": 50,
     "displayName": "пилешки бутчета",
-    "category": "Месо",
-    "categoryId": "http://www.1001recepti.com/s/193495-meso"
+    "categoryId": 19
   },
-  "http://www.1001recepti.com/s/187321-indiisko-orehche": {
-    "id": "http://www.1001recepti.com/s/187321-indiisko-orehche",
+  "120": {
     "name": "indiisko-orehche",
     "used": 48,
     "displayName": "индийско орехче",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/208367-susheni-domati": {
-    "id": "http://www.1001recepti.com/s/208367-susheni-domati",
+  "121": {
     "name": "susheni-domati",
     "used": 48,
     "displayName": "сушени домати",
-    "category": "Домати",
-    "categoryId": "http://www.1001recepti.com/s/185321-domati"
+    "categoryId": 14
   },
-  "http://www.1001recepti.com/s/200171-portokali": {
-    "id": "http://www.1001recepti.com/s/200171-portokali",
+  "122": {
     "name": "portokali",
     "used": 46,
     "displayName": "портокал",
-    "category": "Плодове",
-    "categoryId": "http://www.1001recepti.com/s/199994-plodove"
+    "categoryId": 17
   },
-  "http://www.1001recepti.com/s/181202-banani": {
-    "id": "http://www.1001recepti.com/s/181202-banani",
+  "123": {
     "name": "banani",
     "used": 45,
     "displayName": "банан",
-    "category": "Плодове",
-    "categoryId": "http://www.1001recepti.com/s/199994-plodove"
+    "categoryId": 17
   },
-  "http://www.1001recepti.com/s/185969-jelatin": {
-    "id": "http://www.1001recepti.com/s/185969-jelatin",
+  "124": {
     "name": "jelatin",
     "used": 44,
     "displayName": "желатин",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/189143-kedrovi-iadki": {
-    "id": "http://www.1001recepti.com/s/189143-kedrovi-iadki",
+  "125": {
     "name": "kedrovi-iadki",
     "used": 43,
     "displayName": "кедрови ядки",
-    "category": "Ядки",
-    "categoryId": "http://www.1001recepti.com/s/213233-iadki"
+    "categoryId": 12
   },
-  "http://www.1001recepti.com/s/212045-chereshi": {
-    "id": "http://www.1001recepti.com/s/212045-chereshi",
+  "126": {
     "name": "chereshi",
     "used": 42,
     "displayName": "череши",
-    "category": "Плодове",
-    "categoryId": "http://www.1001recepti.com/s/199994-plodove"
+    "categoryId": 17
   },
-  "http://www.1001recepti.com/s/202829-riba-ton": {
-    "id": "http://www.1001recepti.com/s/202829-riba-ton",
+  "127": {
     "name": "riba-ton",
     "used": 41,
     "displayName": "риба тон",
-    "category": "Риба",
-    "categoryId": "http://www.1001recepti.com/s/202689-riba"
+    "categoryId": 32
   },
-  "http://www.1001recepti.com/s/182646-bulgur": {
-    "id": "http://www.1001recepti.com/s/182646-bulgur",
+  "128": {
     "name": "bulgur",
     "used": 40,
     "displayName": "булгур",
-    "category": "Зърнени",
-    "categoryId": "http://www.1001recepti.com/s/216345-zurneni"
+    "categoryId": 5
   },
-  "http://www.1001recepti.com/s/192707-makaroni": {
-    "id": "http://www.1001recepti.com/s/192707-makaroni",
+  "129": {
     "name": "makaroni",
     "used": 40,
     "displayName": "макарони",
-    "category": "Спагети",
-    "categoryId": "http://www.1001recepti.com/s/207327-spageti"
+    "categoryId": 20
   },
-  "http://www.1001recepti.com/s/190496-kopriva": {
-    "id": "http://www.1001recepti.com/s/190496-kopriva",
+  "130": {
     "name": "kopriva",
     "used": 39,
     "displayName": "коприва",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/212010-cherveno-cveklo": {
-    "id": "http://www.1001recepti.com/s/212010-cherveno-cveklo",
+  "131": {
     "name": "cherveno-cveklo",
     "used": 38,
     "displayName": "цвекло",
-    "category": "Червено цвекло",
-    "categoryId": "http://www.1001recepti.com/s/212010-cherveno-cveklo"
+    "categoryId": 35
   },
-  "http://www.1001recepti.com/s/348929-lut-cherven-piper": {
-    "id": "http://www.1001recepti.com/s/348929-lut-cherven-piper",
+  "132": {
     "name": "lut-cherven-piper",
     "used": 37,
     "displayName": "лют пипер",
-    "category": "Люти чушки",
-    "categoryId": "http://www.1001recepti.com/s/192577-luti-chushki"
+    "categoryId": 36
   },
-  "http://www.1001recepti.com/s/182016-bishkoti": {
-    "id": "http://www.1001recepti.com/s/182016-bishkoti",
+  "133": {
     "name": "bishkoti",
     "used": 36,
     "displayName": "бишкоти",
-    "category": "Десерти",
-    "categoryId": "http://www.1001recepti.com/s/184867-deserti"
+    "categoryId": 18
   },
-  "http://www.1001recepti.com/s/208927-teleshka-kaima": {
-    "id": "http://www.1001recepti.com/s/208927-teleshka-kaima",
+  "134": {
     "name": "teleshka-kaima",
     "used": 36,
     "displayName": "телешка кайма",
-    "category": "Кайма",
-    "categoryId": "http://www.1001recepti.com/s/187570-kaima"
+    "categoryId": 37
   },
-  "http://www.1001recepti.com/s/194899-oveseni-iadki": {
-    "id": "http://www.1001recepti.com/s/194899-oveseni-iadki",
+  "135": {
     "name": "oveseni-iadki",
     "used": 35,
     "displayName": "овесени ядки",
-    "category": "Зърнени",
-    "categoryId": "http://www.1001recepti.com/s/216345-zurneni"
+    "categoryId": 5
   },
-  "http://www.1001recepti.com/s/192059-lapad": {
-    "id": "http://www.1001recepti.com/s/192059-lapad",
+  "136": {
     "name": "lapad",
     "used": 35,
     "displayName": "лапад",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/181759-bira": {
-    "id": "http://www.1001recepti.com/s/181759-bira",
+  "137": {
     "name": "bira",
     "used": 34,
     "displayName": "бира",
-    "category": "Алкохол",
-    "categoryId": "http://www.1001recepti.com/s/223440-alkohol"
+    "categoryId": 16
   },
-  "http://www.1001recepti.com/s/190554-kori-za-banica": {
-    "id": "http://www.1001recepti.com/s/190554-kori-za-banica",
+  "138": {
     "name": "kori-za-banica",
     "used": 34,
     "displayName": "готови кори",
-    "category": "Хляб",
-    "categoryId": "http://www.1001recepti.com/s/211322-hliab"
+    "categoryId": 21
   },
-  "http://www.1001recepti.com/s/191298-krutoni": {
-    "id": "http://www.1001recepti.com/s/191298-krutoni",
+  "139": {
     "name": "krutoni",
     "used": 33,
     "displayName": "крутони",
-    "category": "Хляб",
-    "categoryId": "http://www.1001recepti.com/s/211322-hliab"
+    "categoryId": 21
   },
-  "http://www.1001recepti.com/s/184066-gris": {
-    "id": "http://www.1001recepti.com/s/184066-gris",
+  "140": {
     "name": "gris",
     "used": 33,
     "displayName": "грис",
-    "category": "Зърнени",
-    "categoryId": "http://www.1001recepti.com/s/216345-zurneni"
+    "categoryId": 5
   },
-  "http://www.1001recepti.com/s/192856-malini": {
-    "id": "http://www.1001recepti.com/s/192856-malini",
+  "141": {
     "name": "malini",
     "used": 33,
     "displayName": "малини",
-    "category": "Плодове",
-    "categoryId": "http://www.1001recepti.com/s/199994-plodove"
+    "categoryId": 17
   },
-  "http://www.1001recepti.com/s/181174-balsamov-ocet": {
-    "id": "http://www.1001recepti.com/s/181174-balsamov-ocet",
+  "142": {
     "name": "balsamov-ocet",
     "used": 33,
     "displayName": "балсамов оцет",
-    "category": "Оцет",
-    "categoryId": "http://www.1001recepti.com/s/195631-ocet"
+    "categoryId": 38
   },
-  "http://www.1001recepti.com/s/191653-kuri": {
-    "id": "http://www.1001recepti.com/s/191653-kuri",
+  "143": {
     "name": "kuri",
     "used": 32,
     "displayName": "къри",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/188995-kafe": {
-    "id": "http://www.1001recepti.com/s/188995-kafe",
+  "144": {
     "name": "kafe",
     "used": 32,
     "displayName": "кафе",
-    "category": "Напитки",
-    "categoryId": "http://www.1001recepti.com/s/194536-napitki"
+    "categoryId": 8
   },
-  "http://www.1001recepti.com/s/194568-nahut": {
-    "id": "http://www.1001recepti.com/s/194568-nahut",
+  "145": {
     "name": "nahut",
     "used": 32,
     "displayName": "нахут",
-    "category": "Бобени",
-    "categoryId": "http://www.1001recepti.com/s/182317-bobeni"
+    "categoryId": 23
   },
-  "http://www.1001recepti.com/s/180780-ananas": {
-    "id": "http://www.1001recepti.com/s/180780-ananas",
+  "146": {
     "name": "ananas",
     "used": 31,
     "displayName": "ананас",
-    "category": "Плодове",
-    "categoryId": "http://www.1001recepti.com/s/199994-plodove"
+    "categoryId": 17
   },
-  "http://www.1001recepti.com/s/206677-slunchogledovi-semki": {
-    "id": "http://www.1001recepti.com/s/206677-slunchogledovi-semki",
+  "147": {
     "name": "slunchogledovi-semki",
     "used": 31,
     "displayName": "слънчогледови семки",
-    "category": "Семки",
-    "categoryId": "http://www.1001recepti.com/s/205553-semki"
+    "categoryId": 39
   },
-  "http://www.1001recepti.com/s/194480-nadenica": {
-    "id": "http://www.1001recepti.com/s/194480-nadenica",
+  "148": {
     "name": "nadenica",
     "used": 31,
     "displayName": "наденица",
-    "category": "Месо",
-    "categoryId": "http://www.1001recepti.com/s/193495-meso"
+    "categoryId": 19
   },
-  "http://www.1001recepti.com/s/208368-susheni-kaisii": {
-    "id": "http://www.1001recepti.com/s/208368-susheni-kaisii",
+  "149": {
     "name": "susheni-kaisii",
     "used": 30,
     "displayName": "сушени кайсии",
-    "category": "Кайсии",
-    "categoryId": "http://www.1001recepti.com/s/187633-kaisii"
+    "categoryId": 40
   },
-  "http://www.1001recepti.com/s/205743-sirene-feta": {
-    "id": "http://www.1001recepti.com/s/205743-sirene-feta",
+  "150": {
     "name": "sirene-feta",
     "used": 29,
     "displayName": "фета",
-    "category": "Млечни",
-    "categoryId": "http://www.1001recepti.com/s/193812-mlechni"
+    "categoryId": 6
   },
-  "http://www.1001recepti.com/s/211984-chervena-leshta": {
-    "id": "http://www.1001recepti.com/s/211984-chervena-leshta",
+  "151": {
     "name": "chervena-leshta",
     "used": 28,
     "displayName": "червена леща",
-    "category": "Бобени",
-    "categoryId": "http://www.1001recepti.com/s/182317-bobeni"
+    "categoryId": 23
   },
-  "http://www.1001recepti.com/s/209777-toping": {
-    "id": "http://www.1001recepti.com/s/209777-toping",
+  "152": {
     "name": "toping",
     "used": 28,
     "displayName": "топинг",
-    "category": "Десерти",
-    "categoryId": "http://www.1001recepti.com/s/184867-deserti"
+    "categoryId": 18
   },
-  "http://www.1001recepti.com/s/340549-sirene-chedur": {
-    "id": "http://www.1001recepti.com/s/340549-sirene-chedur",
+  "153": {
     "name": "sirene-chedur",
     "used": 28,
     "displayName": "чедър",
-    "category": "Сирене",
-    "categoryId": "http://www.1001recepti.com/s/205659-sirene"
+    "categoryId": 22
   },
-  "http://www.1001recepti.com/s/183462-vodka": {
-    "id": "http://www.1001recepti.com/s/183462-vodka",
+  "154": {
     "name": "vodka",
     "used": 28,
     "displayName": "водка",
-    "category": "Алкохол",
-    "categoryId": "http://www.1001recepti.com/s/223440-alkohol"
+    "categoryId": 16
   },
-  "http://www.1001recepti.com/s/203176-rukola": {
-    "id": "http://www.1001recepti.com/s/203176-rukola",
+  "155": {
     "name": "rukola",
     "used": 28,
     "displayName": "рукола",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/200462-praskovi": {
-    "id": "http://www.1001recepti.com/s/200462-praskovi",
+  "156": {
     "name": "praskovi",
     "used": 27,
     "displayName": "праскови",
-    "category": "Плодове",
-    "categoryId": "http://www.1001recepti.com/s/199994-plodove"
+    "categoryId": 17
   },
-  "http://www.1001recepti.com/s/362534-iaicheni-beltuci": {
-    "id": "http://www.1001recepti.com/s/362534-iaicheni-beltuci",
+  "157": {
     "name": "iaicheni-beltuci",
     "used": 27,
     "displayName": "белтък",
-    "category": "Яйца",
-    "categoryId": "http://www.1001recepti.com/s/213296-iaica"
+    "categoryId": 4
   },
-  "http://www.1001recepti.com/s/181583-bahar": {
-    "id": "http://www.1001recepti.com/s/181583-bahar",
+  "158": {
     "name": "bahar",
     "used": 27,
     "displayName": "бахар",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/200188-portokalovi-kori": {
-    "id": "http://www.1001recepti.com/s/200188-portokalovi-kori",
+  "159": {
     "name": "portokalovi-kori",
     "used": 27,
     "displayName": "порокалова кора",
-    "category": "Портокали",
-    "categoryId": "http://www.1001recepti.com/s/200171-portokali"
+    "categoryId": 41
   },
-  "http://www.1001recepti.com/s/191557-kuskus": {
-    "id": "http://www.1001recepti.com/s/191557-kuskus",
+  "160": {
     "name": "kuskus",
     "used": 27,
     "displayName": "кускус",
-    "category": "Зърнени",
-    "categoryId": "http://www.1001recepti.com/s/216345-zurneni"
+    "categoryId": 5
   },
-  "http://www.1001recepti.com/s/191171-krenvirshi": {
-    "id": "http://www.1001recepti.com/s/191171-krenvirshi",
+  "161": {
     "name": "krenvirshi",
     "used": 26,
     "displayName": "кренвирш",
-    "category": "Месо",
-    "categoryId": "http://www.1001recepti.com/s/193495-meso"
+    "categoryId": 19
   },
-  "http://www.1001recepti.com/s/187972-kapersi": {
-    "id": "http://www.1001recepti.com/s/187972-kapersi",
+  "162": {
     "name": "kapersi",
     "used": 25,
     "displayName": "каперси",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/211630-cedeno-kiselo-mliako": {
-    "id": "http://www.1001recepti.com/s/211630-cedeno-kiselo-mliako",
+  "163": {
     "name": "cedeno-kiselo-mliako",
     "used": 24,
     "displayName": "цедено кисело мляко",
-    "category": "Кисело мляко",
-    "categoryId": "http://www.1001recepti.com/s/189828-kiselo-mliako"
+    "categoryId": 42
   },
-  "http://www.1001recepti.com/s/191305-krushi": {
-    "id": "http://www.1001recepti.com/s/191305-krushi",
+  "164": {
     "name": "krushi",
     "used": 24,
     "displayName": "круши",
-    "category": "Плодове",
-    "categoryId": "http://www.1001recepti.com/s/199994-plodove"
+    "categoryId": 17
   },
-  "http://www.1001recepti.com/s/189757-kiselec": {
-    "id": "http://www.1001recepti.com/s/189757-kiselec",
+  "165": {
     "name": "kiselec",
     "used": 24,
     "displayName": "киселец",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/225115-koniak": {
-    "id": "http://www.1001recepti.com/s/225115-koniak",
+  "166": {
     "name": "koniak",
     "used": 23,
     "displayName": "коняк",
-    "category": "Алкохол",
-    "categoryId": "http://www.1001recepti.com/s/223440-alkohol"
+    "categoryId": 16
   },
-  "http://www.1001recepti.com/s/185089-divesil": {
-    "id": "http://www.1001recepti.com/s/185089-divesil",
+  "167": {
     "name": "divesil",
     "used": 23,
     "displayName": "дивесил",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/193605-midi": {
-    "id": "http://www.1001recepti.com/s/193605-midi",
+  "168": {
     "name": "midi",
     "used": 23,
     "displayName": "миди",
-    "category": "Морски дарове",
-    "categoryId": "http://www.1001recepti.com/s/193997-morski-darove"
+    "categoryId": 33
   },
-  "http://www.1001recepti.com/s/211558-carevichno-brashno": {
-    "id": "http://www.1001recepti.com/s/211558-carevichno-brashno",
+  "169": {
     "name": "carevichno-brashno",
     "used": 23,
     "displayName": "царевично брашно",
-    "category": "Брашно",
-    "categoryId": "http://www.1001recepti.com/s/182466-brashno"
+    "categoryId": 30
   },
-  "http://www.1001recepti.com/s/196953-pashturnak": {
-    "id": "http://www.1001recepti.com/s/196953-pashturnak",
+  "170": {
     "name": "pashturnak",
     "used": 22,
     "displayName": "пащърнак",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/182940-bial-piper": {
-    "id": "http://www.1001recepti.com/s/182940-bial-piper",
+  "171": {
     "name": "bial-piper",
     "used": 22,
     "displayName": "бял пипер",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/192341-likioor": {
-    "id": "http://www.1001recepti.com/s/192341-likioor",
+  "172": {
     "name": "likioor",
     "used": 22,
     "displayName": "калуа",
-    "category": "Алкохол",
-    "categoryId": "http://www.1001recepti.com/s/223440-alkohol"
+    "categoryId": 16
   },
-  "http://www.1001recepti.com/s/200105-podsladitel": {
-    "id": "http://www.1001recepti.com/s/200105-podsladitel",
+  "173": {
     "name": "podsladitel",
     "used": 22,
     "displayName": "подсладител",
-    "category": "Сладко",
-    "categoryId": "http://www.1001recepti.com/s/206480-sladko"
+    "categoryId": 7
   },
-  "http://www.1001recepti.com/s/190443-kondenzirano-mliako": {
-    "id": "http://www.1001recepti.com/s/190443-kondenzirano-mliako",
+  "174": {
     "name": "kondenzirano-mliako",
     "used": 22,
     "displayName": "кондензирано мляко",
-    "category": "Мляко",
-    "categoryId": "http://www.1001recepti.com/s/193842-mliako"
+    "categoryId": 10
   },
-  "http://www.1001recepti.com/s/199690-pitka": {
-    "id": "http://www.1001recepti.com/s/199690-pitka",
+  "175": {
     "name": "pitka",
     "used": 22,
     "displayName": "питка",
-    "category": "Хляб",
-    "categoryId": "http://www.1001recepti.com/s/211322-hliab"
+    "categoryId": 21
   },
-  "http://www.1001recepti.com/s/193152-marulia": {
-    "id": "http://www.1001recepti.com/s/193152-marulia",
+  "176": {
     "name": "marulia",
     "used": 21,
     "displayName": "маруля",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/200181-portokalov-sok": {
-    "id": "http://www.1001recepti.com/s/200181-portokalov-sok",
+  "177": {
     "name": "portokalov-sok",
     "used": 21,
     "displayName": "портокалов сок",
-    "category": "Портокали",
-    "categoryId": "http://www.1001recepti.com/s/200171-portokali"
+    "categoryId": 41
   },
-  "http://www.1001recepti.com/s/212423-sharan": {
-    "id": "http://www.1001recepti.com/s/212423-sharan",
+  "178": {
     "name": "sharan",
     "used": 21,
     "displayName": "шаран",
-    "category": "Риба",
-    "categoryId": "http://www.1001recepti.com/s/202689-riba"
+    "categoryId": 32
   },
-  "http://www.1001recepti.com/s/225152-sirene-emental": {
-    "id": "http://www.1001recepti.com/s/225152-sirene-emental",
+  "179": {
     "name": "sirene-emental",
     "used": 21,
     "displayName": "сирене ементал",
-    "category": "Сирене",
-    "categoryId": "http://www.1001recepti.com/s/205659-sirene"
+    "categoryId": 22
   },
-  "http://www.1001recepti.com/s/188047-karamfil": {
-    "id": "http://www.1001recepti.com/s/188047-karamfil",
+  "180": {
     "name": "karamfil",
     "used": 20,
     "displayName": "карамфил",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/191630-kulnove": {
-    "id": "http://www.1001recepti.com/s/191630-kulnove",
+  "181": {
     "name": "kulnove",
     "used": 20,
     "displayName": "кълнове",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/192839-makovo-seme": {
-    "id": "http://www.1001recepti.com/s/192839-makovo-seme",
+  "182": {
     "name": "makovo-seme",
     "used": 20,
     "displayName": "маково семе",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/185904-estragon": {
-    "id": "http://www.1001recepti.com/s/185904-estragon",
+  "183": {
     "name": "estragon",
     "used": 20,
     "displayName": "естрагон",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/182407-borovinki": {
-    "id": "http://www.1001recepti.com/s/182407-borovinki",
+  "184": {
     "name": "borovinki",
     "used": 19,
     "displayName": "боровинки",
-    "category": "Плодове",
-    "categoryId": "http://www.1001recepti.com/s/199994-plodove"
+    "categoryId": 17
   },
-  "http://www.1001recepti.com/s/187633-kaisii": {
-    "id": "http://www.1001recepti.com/s/187633-kaisii",
+  "185": {
     "name": "kaisii",
     "used": 19,
     "displayName": "кайсия",
-    "category": "Плодове",
-    "categoryId": "http://www.1001recepti.com/s/199994-plodove"
+    "categoryId": 17
   },
-  "http://www.1001recepti.com/s/189663-kivi": {
-    "id": "http://www.1001recepti.com/s/189663-kivi",
+  "186": {
     "name": "kivi",
     "used": 19,
     "displayName": "киви",
-    "category": "Плодове",
-    "categoryId": "http://www.1001recepti.com/s/199994-plodove"
+    "categoryId": 17
   },
-  "http://www.1001recepti.com/s/187865-kalmari": {
-    "id": "http://www.1001recepti.com/s/187865-kalmari",
+  "187": {
     "name": "kalmari",
     "used": 19,
     "displayName": "калмар",
-    "category": "Морски дарове",
-    "categoryId": "http://www.1001recepti.com/s/193997-morski-darove"
+    "categoryId": 33
   },
-  "http://www.1001recepti.com/s/205611-sini-slivi": {
-    "id": "http://www.1001recepti.com/s/205611-sini-slivi",
+  "188": {
     "name": "sini-slivi",
     "used": 19,
     "displayName": "сини сливи",
-    "category": "Плодове",
-    "categoryId": "http://www.1001recepti.com/s/199994-plodove"
+    "categoryId": 17
   },
-  "http://www.1001recepti.com/s/209436-tikveni-semki": {
-    "id": "http://www.1001recepti.com/s/209436-tikveni-semki",
+  "189": {
     "name": "tikveni-semki",
     "used": 19,
     "displayName": "тиквени семки",
-    "category": "Ядки",
-    "categoryId": "http://www.1001recepti.com/s/213233-iadki"
+    "categoryId": 12
   },
-  "http://www.1001recepti.com/s/219977-vermut": {
-    "id": "http://www.1001recepti.com/s/219977-vermut",
+  "190": {
     "name": "vermut",
     "used": 19,
     "displayName": "вермут",
-    "category": "Алкохол",
-    "categoryId": "http://www.1001recepti.com/s/223440-alkohol"
+    "categoryId": 16
   },
-  "http://www.1001recepti.com/s/198848-pileshki-drobcheta": {
-    "id": "http://www.1001recepti.com/s/198848-pileshki-drobcheta",
+  "191": {
     "name": "pileshki-drobcheta",
     "used": 19,
     "displayName": "пилешки дробчета",
-    "category": "Месо",
-    "categoryId": "http://www.1001recepti.com/s/193495-meso"
+    "categoryId": 19
   },
-  "http://www.1001recepti.com/s/185007-djin": {
-    "id": "http://www.1001recepti.com/s/185007-djin",
+  "192": {
     "name": "djin",
     "used": 19,
     "displayName": "джин",
-    "category": "Алкохол",
-    "categoryId": "http://www.1001recepti.com/s/223440-alkohol"
+    "categoryId": 16
   },
-  "http://www.1001recepti.com/s/189643-ketchup": {
-    "id": "http://www.1001recepti.com/s/189643-ketchup",
+  "193": {
     "name": "ketchup",
     "used": 18,
     "displayName": "кетчуп",
-    "category": "Доматено пюре",
-    "categoryId": "http://www.1001recepti.com/s/185315-domateno-pure"
+    "categoryId": 43
   },
-  "http://www.1001recepti.com/s/192282-leshnici": {
-    "id": "http://www.1001recepti.com/s/192282-leshnici",
+  "194": {
     "name": "leshnici",
     "used": 18,
     "displayName": "лешник",
-    "category": "Ядки",
-    "categoryId": "http://www.1001recepti.com/s/213233-iadki"
+    "categoryId": 12
   },
-  "http://www.1001recepti.com/s/200814-pueshko-meso": {
-    "id": "http://www.1001recepti.com/s/200814-pueshko-meso",
+  "195": {
     "name": "pueshko-meso",
     "used": 18,
     "displayName": "пуйка",
-    "category": "Месо",
-    "categoryId": "http://www.1001recepti.com/s/193495-meso"
+    "categoryId": 19
   },
-  "http://www.1001recepti.com/s/211141-fustuci": {
-    "id": "http://www.1001recepti.com/s/211141-fustuci",
+  "196": {
     "name": "fustuci",
     "used": 18,
     "displayName": "фъстък",
-    "category": "Ядки",
-    "categoryId": "http://www.1001recepti.com/s/213233-iadki"
+    "categoryId": 12
   },
-  "http://www.1001recepti.com/s/198902-pileshki-krilca": {
-    "id": "http://www.1001recepti.com/s/198902-pileshki-krilca",
+  "197": {
     "name": "pileshki-krilca",
     "used": 18,
     "displayName": "крила (пилешки, патешки и др)",
-    "category": "Месо",
-    "categoryId": "http://www.1001recepti.com/s/193495-meso"
+    "categoryId": 19
   },
-  "http://www.1001recepti.com/s/203313-rulca-ot-raci": {
-    "id": "http://www.1001recepti.com/s/203313-rulca-ot-raci",
+  "198": {
     "name": "rulca-ot-raci",
     "used": 18,
     "displayName": "рулца от раци",
-    "category": "Морски дарове",
-    "categoryId": "http://www.1001recepti.com/s/193997-morski-darove"
+    "categoryId": 33
   },
-  "http://www.1001recepti.com/s/183567-gazirana-voda": {
-    "id": "http://www.1001recepti.com/s/183567-gazirana-voda",
+  "199": {
     "name": "gazirana-voda",
     "used": 18,
     "displayName": "газирана вода",
-    "category": "Напитки",
-    "categoryId": "http://www.1001recepti.com/s/194536-napitki"
+    "categoryId": 8
   },
-  "http://www.1001recepti.com/s/189098-kashu": {
-    "id": "http://www.1001recepti.com/s/189098-kashu",
+  "200": {
     "name": "kashu",
     "used": 18,
     "displayName": "кашу",
-    "category": "Ядки",
-    "categoryId": "http://www.1001recepti.com/s/213233-iadki"
+    "categoryId": 12
   },
-  "http://www.1001recepti.com/s/185251-domaten-sok": {
-    "id": "http://www.1001recepti.com/s/185251-domaten-sok",
+  "201": {
     "name": "domaten-sok",
     "used": 18,
     "displayName": "доматен сок",
-    "category": "Домати",
-    "categoryId": "http://www.1001recepti.com/s/185321-domati"
+    "categoryId": 14
   },
-  "http://www.1001recepti.com/s/192969-margarin": {
-    "id": "http://www.1001recepti.com/s/192969-margarin",
+  "202": {
     "name": "margarin",
     "used": 17,
     "displayName": "маргарин",
-    "category": "Мазнина",
-    "categoryId": "http://www.1001recepti.com/s/304716-maznina"
+    "categoryId": 3
   },
-  "http://www.1001recepti.com/s/212457-shafran": {
-    "id": "http://www.1001recepti.com/s/212457-shafran",
+  "203": {
     "name": "shafran",
     "used": 17,
     "displayName": "шафран",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/192050-laim": {
-    "id": "http://www.1001recepti.com/s/192050-laim",
+  "204": {
     "name": "laim",
     "used": 17,
     "displayName": "лайм",
-    "category": "Плодове",
-    "categoryId": "http://www.1001recepti.com/s/199994-plodove"
+    "categoryId": 17
   },
-  "http://www.1001recepti.com/s/212227-chili-sos": {
-    "id": "http://www.1001recepti.com/s/212227-chili-sos",
+  "205": {
     "name": "chili-sos",
     "used": 17,
     "displayName": "чили сос",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/210665-uiski": {
-    "id": "http://www.1001recepti.com/s/210665-uiski",
+  "206": {
     "name": "uiski",
     "used": 16,
     "displayName": "уиски",
-    "category": "Алкохол",
-    "categoryId": "http://www.1001recepti.com/s/223440-alkohol"
+    "categoryId": 16
   },
-  "http://www.1001recepti.com/s/207250-sos-uorchestur": {
-    "id": "http://www.1001recepti.com/s/207250-sos-uorchestur",
+  "207": {
     "name": "sos-uorchestur",
     "used": 16,
     "displayName": "сос Уорчестър",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/200710-proshuto": {
-    "id": "http://www.1001recepti.com/s/200710-proshuto",
+  "208": {
     "name": "proshuto",
     "used": 16,
     "displayName": "прошуто",
-    "category": "Свинско месо",
-    "categoryId": "http://www.1001recepti.com/s/205140-svinsko-meso"
+    "categoryId": 44
   },
-  "http://www.1001recepti.com/s/225138-likioor-kuraso": {
-    "id": "http://www.1001recepti.com/s/225138-likioor-kuraso",
+  "209": {
     "name": "likioor-kuraso",
     "used": 16,
     "displayName": "ликьор Кюрасо",
-    "category": "Ликьор",
-    "categoryId": "http://www.1001recepti.com/s/192341-likioor"
+    "categoryId": 45
   },
-  "http://www.1001recepti.com/s/196789-patica": {
-    "id": "http://www.1001recepti.com/s/196789-patica",
+  "210": {
     "name": "patica",
     "used": 16,
     "displayName": "патица",
-    "category": "Месо",
-    "categoryId": "http://www.1001recepti.com/s/193495-meso"
+    "categoryId": 19
   },
-  "http://www.1001recepti.com/s/-": {
-    "id": "http://www.1001recepti.com/s/-",
+  "211": {
     "name": "",
     "used": 16,
     "displayName": "Parsing error",
-    "category": "N/A",
-    "categoryId": "N/A"
+    "categoryId": 11
   },
-  "http://www.1001recepti.com/s/225101-sok-ot-laim": {
-    "id": "http://www.1001recepti.com/s/225101-sok-ot-laim",
+  "212": {
     "name": "sok-ot-laim",
     "used": 15,
     "displayName": "сок от лайм",
-    "category": "Лайм",
-    "categoryId": "http://www.1001recepti.com/s/192050-laim"
+    "categoryId": 46
   },
-  "http://www.1001recepti.com/s/225106-sok-ot-ananas": {
-    "id": "http://www.1001recepti.com/s/225106-sok-ot-ananas",
+  "213": {
     "name": "sok-ot-ananas",
     "used": 15,
     "displayName": "сок от ананас",
-    "category": "Ананас",
-    "categoryId": "http://www.1001recepti.com/s/180780-ananas"
+    "categoryId": 47
   },
-  "http://www.1001recepti.com/s/211118-furmi": {
-    "id": "http://www.1001recepti.com/s/211118-furmi",
+  "214": {
     "name": "furmi",
     "used": 15,
     "displayName": "фурми",
-    "category": "Плодове",
-    "categoryId": "http://www.1001recepti.com/s/199994-plodove"
+    "categoryId": 17
   },
-  "http://www.1001recepti.com/s/200923-pushena-sioomga": {
-    "id": "http://www.1001recepti.com/s/200923-pushena-sioomga",
+  "215": {
     "name": "pushena-sioomga",
     "used": 15,
     "displayName": "пушена сьомга",
-    "category": "Риба",
-    "categoryId": "http://www.1001recepti.com/s/202689-riba"
+    "categoryId": 32
   },
-  "http://www.1001recepti.com/s/204943-svinski-rebra": {
-    "id": "http://www.1001recepti.com/s/204943-svinski-rebra",
+  "216": {
     "name": "svinski-rebra",
     "used": 15,
     "displayName": "свински ребърца",
-    "category": "Ребърца",
-    "categoryId": "http://www.1001recepti.com/s/201886-reburca"
+    "categoryId": 48
   },
-  "http://www.1001recepti.com/s/203386-rujeno-brashno": {
-    "id": "http://www.1001recepti.com/s/203386-rujeno-brashno",
+  "217": {
     "name": "rujeno-brashno",
     "used": 15,
     "displayName": "ръжено брашно",
-    "category": "Брашно",
-    "categoryId": "http://www.1001recepti.com/s/182466-brashno"
+    "categoryId": 30
   },
-  "http://www.1001recepti.com/s/201938-repichki": {
-    "id": "http://www.1001recepti.com/s/201938-repichki",
+  "218": {
     "name": "repichki",
     "used": 14,
     "displayName": "репички",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/208365-susheni-gubi": {
-    "id": "http://www.1001recepti.com/s/208365-susheni-gubi",
+  "219": {
     "name": "susheni-gubi",
     "used": 14,
     "displayName": "сушени гъби",
-    "category": "Гъби",
-    "categoryId": "http://www.1001recepti.com/s/184313-gubi"
+    "categoryId": 15
   },
-  "http://www.1001recepti.com/s/204730-svinska-mas": {
-    "id": "http://www.1001recepti.com/s/204730-svinska-mas",
+  "220": {
     "name": "svinska-mas",
     "used": 14,
     "displayName": "свинска мас",
-    "category": "Мазнина",
-    "categoryId": "http://www.1001recepti.com/s/304716-maznina"
+    "categoryId": 3
   },
-  "http://www.1001recepti.com/s/225140-orizov-ocet": {
-    "id": "http://www.1001recepti.com/s/225140-orizov-ocet",
+  "221": {
     "name": "orizov-ocet",
     "used": 14,
     "displayName": "оризов оцет",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/215290-grenadin": {
-    "id": "http://www.1001recepti.com/s/215290-grenadin",
+  "222": {
     "name": "grenadin",
     "used": 14,
     "displayName": "гренадин",
-    "category": "Напитки",
-    "categoryId": "http://www.1001recepti.com/s/194536-napitki"
+    "categoryId": 8
   },
-  "http://www.1001recepti.com/s/186261-zaek": {
-    "id": "http://www.1001recepti.com/s/186261-zaek",
+  "223": {
     "name": "zaek",
     "used": 14,
     "displayName": "заек",
-    "category": "Месо",
-    "categoryId": "http://www.1001recepti.com/s/193495-meso"
+    "categoryId": 19
   },
-  "http://www.1001recepti.com/s/207321-soia": {
-    "id": "http://www.1001recepti.com/s/207321-soia",
+  "224": {
     "name": "soia",
     "used": 13,
     "displayName": "соя",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/206830-soevi-kulnove": {
-    "id": "http://www.1001recepti.com/s/206830-soevi-kulnove",
+  "225": {
     "name": "soevi-kulnove",
     "used": 13,
     "displayName": "соеви кълнове",
-    "category": "Соя",
-    "categoryId": "http://www.1001recepti.com/s/207321-soia"
+    "categoryId": 49
   },
-  "http://www.1001recepti.com/s/206573-sladoled": {
-    "id": "http://www.1001recepti.com/s/206573-sladoled",
+  "226": {
     "name": "sladoled",
     "used": 13,
     "displayName": "сладолед",
-    "category": "Десерти",
-    "categoryId": "http://www.1001recepti.com/s/184867-deserti"
+    "categoryId": 18
   },
-  "http://www.1001recepti.com/s/190057-koze-sirene": {
-    "id": "http://www.1001recepti.com/s/190057-koze-sirene",
+  "227": {
     "name": "koze-sirene",
     "used": 12,
     "displayName": "козе сирене",
-    "category": "Сирене",
-    "categoryId": "http://www.1001recepti.com/s/205659-sirene"
+    "categoryId": 22
   },
-  "http://www.1001recepti.com/s/205665-sirene-bri": {
-    "id": "http://www.1001recepti.com/s/205665-sirene-bri",
+  "228": {
     "name": "sirene-bri",
     "used": 12,
     "displayName": "сирене Бри",
-    "category": "Млечни",
-    "categoryId": "http://www.1001recepti.com/s/193812-mlechni"
+    "categoryId": 6
   },
-  "http://www.1001recepti.com/s/224929-susheni-slivi": {
-    "id": "http://www.1001recepti.com/s/224929-susheni-slivi",
+  "229": {
     "name": "susheni-slivi",
     "used": 12,
     "displayName": "сушени сливи",
-    "category": "Сини сливи",
-    "categoryId": "http://www.1001recepti.com/s/205611-sini-slivi"
+    "categoryId": 50
   },
-  "http://www.1001recepti.com/s/185842-elda": {
-    "id": "http://www.1001recepti.com/s/185842-elda",
+  "230": {
     "name": "elda",
     "used": 12,
     "displayName": "елда",
-    "category": "Бобени",
-    "categoryId": "http://www.1001recepti.com/s/182317-bobeni"
+    "categoryId": 23
   },
-  "http://www.1001recepti.com/s/203033-rikota": {
-    "id": "http://www.1001recepti.com/s/203033-rikota",
+  "231": {
     "name": "rikota",
     "used": 12,
     "displayName": "рикота",
-    "category": "Млечни",
-    "categoryId": "http://www.1001recepti.com/s/193812-mlechni"
+    "categoryId": 6
   },
-  "http://www.1001recepti.com/s/225120-limontuzu": {
-    "id": "http://www.1001recepti.com/s/225120-limontuzu",
+  "232": {
     "name": "limontuzu",
     "used": 12,
     "displayName": "лимонтузу",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/189876-kitaisko-zele": {
-    "id": "http://www.1001recepti.com/s/189876-kitaisko-zele",
+  "233": {
     "name": "kitaisko-zele",
     "used": 11,
     "displayName": "китайско зеле",
-    "category": "Зеле",
-    "categoryId": "http://www.1001recepti.com/s/186638-zele"
+    "categoryId": 29
   },
-  "http://www.1001recepti.com/s/200771-puding": {
-    "id": "http://www.1001recepti.com/s/200771-puding",
+  "234": {
     "name": "puding",
     "used": 11,
     "displayName": "Пудинг",
-    "category": "Десерти",
-    "categoryId": "http://www.1001recepti.com/s/184867-deserti"
+    "categoryId": 18
   },
-  "http://www.1001recepti.com/s/200797-pueshki-but": {
-    "id": "http://www.1001recepti.com/s/200797-pueshki-but",
+  "235": {
     "name": "pueshki-but",
     "used": 11,
     "displayName": "пуешки бут",
-    "category": "Пуешко месо",
-    "categoryId": "http://www.1001recepti.com/s/200814-pueshko-meso"
+    "categoryId": 51
   },
-  "http://www.1001recepti.com/s/213111-iabulkov-ocet": {
-    "id": "http://www.1001recepti.com/s/213111-iabulkov-ocet",
+  "236": {
     "name": "iabulkov-ocet",
     "used": 11,
     "displayName": "ябълков оцет",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/201372-pulnozurnesto-brashno": {
-    "id": "http://www.1001recepti.com/s/201372-pulnozurnesto-brashno",
+  "237": {
     "name": "pulnozurnesto-brashno",
     "used": 11,
     "displayName": "пълнозърнесто брашно",
-    "category": "Брашно",
-    "categoryId": "http://www.1001recepti.com/s/182466-brashno"
+    "categoryId": 30
   },
-  "http://www.1001recepti.com/s/208378-susheni-chushki": {
-    "id": "http://www.1001recepti.com/s/208378-susheni-chushki",
+  "238": {
     "name": "susheni-chushki",
     "used": 10,
     "displayName": "сушени чушки",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/188056-kardamon": {
-    "id": "http://www.1001recepti.com/s/188056-kardamon",
+  "239": {
     "name": "kardamon",
     "used": 10,
     "displayName": "кардамон",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/192442-lozovi-lista": {
-    "id": "http://www.1001recepti.com/s/192442-lozovi-lista",
+  "240": {
     "name": "lozovi-lista",
     "used": 10,
     "displayName": "лозови листа",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/203401-riapa": {
-    "id": "http://www.1001recepti.com/s/203401-riapa",
+  "241": {
     "name": "riapa",
     "used": 10,
     "displayName": "ряпа",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/211462-hrian": {
-    "id": "http://www.1001recepti.com/s/211462-hrian",
+  "242": {
     "name": "hrian",
     "used": 10,
     "displayName": "хрян",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/185002-djanki": {
-    "id": "http://www.1001recepti.com/s/185002-djanki",
+  "243": {
     "name": "djanki",
     "used": 10,
     "displayName": "джанки",
-    "category": "Плодове",
-    "categoryId": "http://www.1001recepti.com/s/199994-plodove"
+    "categoryId": 17
   },
-  "http://www.1001recepti.com/s/216464-smokinia": {
-    "id": "http://www.1001recepti.com/s/216464-smokinia",
+  "244": {
     "name": "smokinia",
     "used": 10,
     "displayName": "смокини",
-    "category": "Плодове",
-    "categoryId": "http://www.1001recepti.com/s/199994-plodove"
+    "categoryId": 17
   },
-  "http://www.1001recepti.com/s/192133-leneno-seme": {
-    "id": "http://www.1001recepti.com/s/192133-leneno-seme",
+  "245": {
     "name": "leneno-seme",
     "used": 10,
     "displayName": "ленено семе",
-    "category": "Ядки",
-    "categoryId": "http://www.1001recepti.com/s/213233-iadki"
+    "categoryId": 12
   },
-  "http://www.1001recepti.com/s/186027-jito": {
-    "id": "http://www.1001recepti.com/s/186027-jito",
+  "246": {
     "name": "jito",
     "used": 10,
     "displayName": "жито",
-    "category": "Зърнени",
-    "categoryId": "http://www.1001recepti.com/s/216345-zurneni"
+    "categoryId": 5
   },
-  "http://www.1001recepti.com/s/211177-halva": {
-    "id": "http://www.1001recepti.com/s/211177-halva",
+  "247": {
     "name": "halva",
     "used": 10,
     "displayName": "халва",
-    "category": "Десерти",
-    "categoryId": "http://www.1001recepti.com/s/184867-deserti"
+    "categoryId": 18
   },
-  "http://www.1001recepti.com/s/182954-bial-shokolad": {
-    "id": "http://www.1001recepti.com/s/182954-bial-shokolad",
+  "248": {
     "name": "bial-shokolad",
     "used": 10,
     "displayName": "бял шоколад",
-    "category": "Десерти",
-    "categoryId": "http://www.1001recepti.com/s/184867-deserti"
+    "categoryId": 18
   },
-  "http://www.1001recepti.com/s/210997-franzela": {
-    "id": "http://www.1001recepti.com/s/210997-franzela",
+  "249": {
     "name": "franzela",
     "used": 10,
     "displayName": "франзела",
-    "category": "Хляб",
-    "categoryId": "http://www.1001recepti.com/s/211322-hliab"
+    "categoryId": 21
   },
-  "http://www.1001recepti.com/s/223439-rakiia": {
-    "id": "http://www.1001recepti.com/s/223439-rakiia",
+  "250": {
     "name": "rakiia",
     "used": 9,
     "displayName": "ракия",
-    "category": "Алкохол",
-    "categoryId": "http://www.1001recepti.com/s/223440-alkohol"
+    "categoryId": 16
   },
-  "http://www.1001recepti.com/s/185167-dinia": {
-    "id": "http://www.1001recepti.com/s/185167-dinia",
+  "251": {
     "name": "dinia",
     "used": 9,
     "displayName": "диня",
-    "category": "Плодове",
-    "categoryId": "http://www.1001recepti.com/s/199994-plodove"
+    "categoryId": 17
   },
-  "http://www.1001recepti.com/s/201384-pupesh": {
-    "id": "http://www.1001recepti.com/s/201384-pupesh",
+  "252": {
     "name": "pupesh",
     "used": 9,
     "displayName": "пъпеш",
-    "category": "Плодове",
-    "categoryId": "http://www.1001recepti.com/s/199994-plodove"
+    "categoryId": 17
   },
-  "http://www.1001recepti.com/s/180835-anshoa": {
-    "id": "http://www.1001recepti.com/s/180835-anshoa",
+  "253": {
     "name": "anshoa",
     "used": 9,
     "displayName": "аншоа",
-    "category": "Риба",
-    "categoryId": "http://www.1001recepti.com/s/202689-riba"
+    "categoryId": 32
   },
-  "http://www.1001recepti.com/s/191647-kupini": {
-    "id": "http://www.1001recepti.com/s/191647-kupini",
+  "254": {
     "name": "kupini",
     "used": 9,
     "displayName": "къпини",
-    "category": "Плодове",
-    "categoryId": "http://www.1001recepti.com/s/199994-plodove"
+    "categoryId": 17
   },
-  "http://www.1001recepti.com/s/181179-bamia": {
-    "id": "http://www.1001recepti.com/s/181179-bamia",
+  "255": {
     "name": "bamia",
     "used": 9,
     "displayName": "бамя",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/202889-riben-sos": {
-    "id": "http://www.1001recepti.com/s/202889-riben-sos",
+  "256": {
     "name": "riben-sos",
     "used": 9,
     "displayName": "рибен сос",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/210347-tofu": {
-    "id": "http://www.1001recepti.com/s/210347-tofu",
+  "257": {
     "name": "tofu",
     "used": 9,
     "displayName": "тофу",
-    "category": "Вегетариански",
-    "categoryId": "http://www.1001recepti.com/s/183166-vegetarianski"
+    "categoryId": 52
   },
-  "http://www.1001recepti.com/s/219872-susheni-smokini": {
-    "id": "http://www.1001recepti.com/s/219872-susheni-smokini",
+  "258": {
     "name": "susheni-smokini",
     "used": 9,
     "displayName": "сушени смокини",
-    "category": "Смокиня",
-    "categoryId": "http://www.1001recepti.com/s/216464-smokinia"
+    "categoryId": 53
   },
-  "http://www.1001recepti.com/s/198780-pileshki-vodenichki": {
-    "id": "http://www.1001recepti.com/s/198780-pileshki-vodenichki",
+  "259": {
     "name": "pileshki-vodenichki",
     "used": 9,
     "displayName": "пилешки воденици",
-    "category": "Пиле",
-    "categoryId": "http://www.1001recepti.com/s/197536-pile"
+    "categoryId": 27
   },
-  "http://www.1001recepti.com/s/180530-agneshki-but": {
-    "id": "http://www.1001recepti.com/s/180530-agneshki-but",
+  "260": {
     "name": "agneshki-but",
     "used": 9,
     "displayName": "агнешки бут",
-    "category": "Месо",
-    "categoryId": "http://www.1001recepti.com/s/193495-meso"
+    "categoryId": 19
   },
-  "http://www.1001recepti.com/s/192683-maiorana": {
-    "id": "http://www.1001recepti.com/s/192683-maiorana",
+  "261": {
     "name": "maiorana",
     "used": 9,
     "displayName": "майорана",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/209232-testo": {
-    "id": "http://www.1001recepti.com/s/209232-testo",
+  "262": {
     "name": "testo",
     "used": 9,
     "displayName": "тесто",
-    "category": "Брашно",
-    "categoryId": "http://www.1001recepti.com/s/182466-brashno"
+    "categoryId": 30
   },
-  "http://www.1001recepti.com/s/201625-pusturva": {
-    "id": "http://www.1001recepti.com/s/201625-pusturva",
+  "263": {
     "name": "pusturva",
     "used": 9,
     "displayName": "пъстърва",
-    "category": "Риба",
-    "categoryId": "http://www.1001recepti.com/s/202689-riba"
+    "categoryId": 32
   },
-  "http://www.1001recepti.com/s/193697-mirin": {
-    "id": "http://www.1001recepti.com/s/193697-mirin",
+  "264": {
     "name": "mirin",
     "used": 9,
     "displayName": "мирин",
-    "category": "Алкохол",
-    "categoryId": "http://www.1001recepti.com/s/223440-alkohol"
+    "categoryId": 16
   },
-  "http://www.1001recepti.com/s/225151-shampansko": {
-    "id": "http://www.1001recepti.com/s/225151-shampansko",
+  "265": {
     "name": "shampansko",
     "used": 9,
     "displayName": "шампанско",
-    "category": "Алкохол",
-    "categoryId": "http://www.1001recepti.com/s/223440-alkohol"
+    "categoryId": 16
   },
-  "http://www.1001recepti.com/s/204869-svinski-kracheta": {
-    "id": "http://www.1001recepti.com/s/204869-svinski-kracheta",
+  "266": {
     "name": "svinski-kracheta",
     "used": 9,
     "displayName": "свински крака",
-    "category": "Карантия",
-    "categoryId": "http://www.1001recepti.com/s/188048-karantiia"
+    "categoryId": 54
   },
-  "http://www.1001recepti.com/s/201365-pulnozurnest-hliab": {
-    "id": "http://www.1001recepti.com/s/201365-pulnozurnest-hliab",
+  "267": {
     "name": "pulnozurnest-hliab",
     "used": 9,
     "displayName": "пълнозърнест хляб",
-    "category": "Хляб",
-    "categoryId": "http://www.1001recepti.com/s/211322-hliab"
+    "categoryId": 21
   },
-  "http://www.1001recepti.com/s/208290-susamovo-brashno": {
-    "id": "http://www.1001recepti.com/s/208290-susamovo-brashno",
+  "268": {
     "name": "susamovo-brashno",
     "used": 8,
     "displayName": "сусамово брашно",
-    "category": "Брашно",
-    "categoryId": "http://www.1001recepti.com/s/182466-brashno"
+    "categoryId": 30
   },
-  "http://www.1001recepti.com/s/211266-heringa": {
-    "id": "http://www.1001recepti.com/s/211266-heringa",
+  "269": {
     "name": "heringa",
     "used": 8,
     "displayName": "херинга",
-    "category": "Риба",
-    "categoryId": "http://www.1001recepti.com/s/202689-riba"
+    "categoryId": 32
   },
-  "http://www.1001recepti.com/s/180969-asperji": {
-    "id": "http://www.1001recepti.com/s/180969-asperji",
+  "270": {
     "name": "asperji",
     "used": 8,
     "displayName": "аспержи",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/180748-amareto": {
-    "id": "http://www.1001recepti.com/s/180748-amareto",
+  "271": {
     "name": "amareto",
     "used": 8,
     "displayName": "амарето",
-    "category": "Алкохол",
-    "categoryId": "http://www.1001recepti.com/s/223440-alkohol"
+    "categoryId": 16
   },
-  "http://www.1001recepti.com/s/225117-instantno-kafe": {
-    "id": "http://www.1001recepti.com/s/225117-instantno-kafe",
+  "272": {
     "name": "instantno-kafe",
     "used": 7,
     "displayName": "инстантно кафе",
-    "category": "Кафе",
-    "categoryId": "http://www.1001recepti.com/s/188995-kafe"
+    "categoryId": 55
   },
-  "http://www.1001recepti.com/s/190571-kornfleiks": {
-    "id": "http://www.1001recepti.com/s/190571-kornfleiks",
+  "273": {
     "name": "kornfleiks",
     "used": 7,
     "displayName": "корнфлейкс",
-    "category": "Зърнени",
-    "categoryId": "http://www.1001recepti.com/s/216345-zurneni"
+    "categoryId": 5
   },
-  "http://www.1001recepti.com/s/204815-svinski-drob": {
-    "id": "http://www.1001recepti.com/s/204815-svinski-drob",
+  "274": {
     "name": "svinski-drob",
     "used": 7,
     "displayName": "свински дроб",
-    "category": "Свинско месо",
-    "categoryId": "http://www.1001recepti.com/s/205140-svinsko-meso"
+    "categoryId": 44
   },
-  "http://www.1001recepti.com/s/189637-kesteni": {
-    "id": "http://www.1001recepti.com/s/189637-kesteni",
+  "275": {
     "name": "kesteni",
     "used": 7,
     "displayName": "кестен",
-    "category": "Плодове",
-    "categoryId": "http://www.1001recepti.com/s/199994-plodove"
+    "categoryId": 17
   },
-  "http://www.1001recepti.com/s/194552-nar": {
-    "id": "http://www.1001recepti.com/s/194552-nar",
+  "276": {
     "name": "nar",
     "used": 7,
     "displayName": "нар",
-    "category": "Плодове",
-    "categoryId": "http://www.1001recepti.com/s/199994-plodove"
+    "categoryId": 17
   },
-  "http://www.1001recepti.com/s/183394-vishni": {
-    "id": "http://www.1001recepti.com/s/183394-vishni",
+  "277": {
     "name": "vishni",
     "used": 7,
     "displayName": "вишни",
-    "category": "Плодове",
-    "categoryId": "http://www.1001recepti.com/s/199994-plodove"
+    "categoryId": 17
   },
-  "http://www.1001recepti.com/s/211144-fustucheno-maslo": {
-    "id": "http://www.1001recepti.com/s/211144-fustucheno-maslo",
+  "278": {
     "name": "fustucheno-maslo",
     "used": 7,
     "displayName": "фъстъчено масло",
-    "category": "Масло",
-    "categoryId": "http://www.1001recepti.com/s/193240-maslo"
+    "categoryId": 56
   },
-  "http://www.1001recepti.com/s/195492-orizovi-spageti": {
-    "id": "http://www.1001recepti.com/s/195492-orizovi-spageti",
+  "279": {
     "name": "orizovi-spageti",
     "used": 7,
     "displayName": "оризови спагети",
-    "category": "Ориз",
-    "categoryId": "http://www.1001recepti.com/s/195166-oriz"
+    "categoryId": 57
   },
-  "http://www.1001recepti.com/s/211161-haiver": {
-    "id": "http://www.1001recepti.com/s/211161-haiver",
+  "280": {
     "name": "haiver",
     "used": 7,
     "displayName": "хайвер",
-    "category": "Морски дарове",
-    "categoryId": "http://www.1001recepti.com/s/193997-morski-darove"
+    "categoryId": 33
   },
-  "http://www.1001recepti.com/s/219536-led": {
-    "id": "http://www.1001recepti.com/s/219536-led",
+  "281": {
     "name": "led",
     "used": 7,
     "displayName": "лед",
-    "category": "Вода",
-    "categoryId": "http://www.1001recepti.com/s/183428-voda"
+    "categoryId": 58
   },
-  "http://www.1001recepti.com/s/225132-zaharen-sirop": {
-    "id": "http://www.1001recepti.com/s/225132-zaharen-sirop",
+  "282": {
     "name": "zaharen-sirop",
     "used": 7,
     "displayName": "захарен сироп",
-    "category": "Захар",
-    "categoryId": "http://www.1001recepti.com/s/186585-zahar"
+    "categoryId": 13
   },
-  "http://www.1001recepti.com/s/208891-tekila": {
-    "id": "http://www.1001recepti.com/s/208891-tekila",
+  "283": {
     "name": "tekila",
     "used": 7,
     "displayName": "текила",
-    "category": "Алкохол",
-    "categoryId": "http://www.1001recepti.com/s/223440-alkohol"
+    "categoryId": 16
   },
-  "http://www.1001recepti.com/s/205601-sinap": {
-    "id": "http://www.1001recepti.com/s/205601-sinap",
+  "284": {
     "name": "sinap",
     "used": 6,
     "displayName": "синап",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/225099-sok-ot-greipfrut": {
-    "id": "http://www.1001recepti.com/s/225099-sok-ot-greipfrut",
+  "285": {
     "name": "sok-ot-greipfrut",
     "used": 6,
     "displayName": "сок от грейпфрут",
-    "category": "Грейпфрут",
-    "categoryId": "http://www.1001recepti.com/s/184040-greipfrut"
+    "categoryId": 59
   },
-  "http://www.1001recepti.com/s/184040-greipfrut": {
-    "id": "http://www.1001recepti.com/s/184040-greipfrut",
+  "286": {
     "name": "greipfrut",
     "used": 6,
     "displayName": "грейпфрут",
-    "category": "Плодове",
-    "categoryId": "http://www.1001recepti.com/s/199994-plodove"
+    "categoryId": 17
   },
-  "http://www.1001recepti.com/s/205881-skumriia": {
-    "id": "http://www.1001recepti.com/s/205881-skumriia",
+  "287": {
     "name": "skumriia",
     "used": 6,
     "displayName": "скумрия",
-    "category": "Риба",
-    "categoryId": "http://www.1001recepti.com/s/202689-riba"
+    "categoryId": 32
   },
-  "http://www.1001recepti.com/s/212005-cherveno-zele": {
-    "id": "http://www.1001recepti.com/s/212005-cherveno-zele",
+  "288": {
     "name": "cherveno-zele",
     "used": 6,
     "displayName": "червено зеле",
-    "category": "Зеле",
-    "categoryId": "http://www.1001recepti.com/s/186638-zele"
+    "categoryId": 29
   },
-  "http://www.1001recepti.com/s/189766-kiseli-krastavichki": {
-    "id": "http://www.1001recepti.com/s/189766-kiseli-krastavichki",
+  "289": {
     "name": "kiseli-krastavichki",
     "used": 6,
     "displayName": "кисели краставички",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/197038-pesto": {
-    "id": "http://www.1001recepti.com/s/197038-pesto",
+  "290": {
     "name": "pesto",
     "used": 6,
     "displayName": "сос песто",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/188385-kartofeno-pure": {
-    "id": "http://www.1001recepti.com/s/188385-kartofeno-pure",
+  "291": {
     "name": "kartofeno-pure",
     "used": 6,
     "displayName": "картофено пюре",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/191274-krokan": {
-    "id": "http://www.1001recepti.com/s/191274-krokan",
+  "292": {
     "name": "krokan",
     "used": 6,
     "displayName": "крокан",
-    "category": "Ядки",
-    "categoryId": "http://www.1001recepti.com/s/213233-iadki"
+    "categoryId": 12
   },
-  "http://www.1001recepti.com/s/185737-duli": {
-    "id": "http://www.1001recepti.com/s/185737-duli",
+  "293": {
     "name": "duli",
     "used": 6,
     "displayName": "дюля",
-    "category": "Плодове",
-    "categoryId": "http://www.1001recepti.com/s/199994-plodove"
+    "categoryId": 17
   },
-  "http://www.1001recepti.com/s/195498-orizovo-brashno": {
-    "id": "http://www.1001recepti.com/s/195498-orizovo-brashno",
+  "294": {
     "name": "orizovo-brashno",
     "used": 6,
     "displayName": "оризово брашно",
-    "category": "Брашно",
-    "categoryId": "http://www.1001recepti.com/s/182466-brashno"
+    "categoryId": 30
   },
-  "http://www.1001recepti.com/s/208291-susamovo-maslo": {
-    "id": "http://www.1001recepti.com/s/208291-susamovo-maslo",
+  "295": {
     "name": "susamovo-maslo",
     "used": 6,
     "displayName": "сусамово масло",
-    "category": "Мазнина",
-    "categoryId": "http://www.1001recepti.com/s/304716-maznina"
+    "categoryId": 3
   },
-  "http://www.1001recepti.com/s/212416-sham-fustuk": {
-    "id": "http://www.1001recepti.com/s/212416-sham-fustuk",
+  "296": {
     "name": "sham-fustuk",
     "used": 6,
     "displayName": "шам фъстък",
-    "category": "Ядки",
-    "categoryId": "http://www.1001recepti.com/s/213233-iadki"
+    "categoryId": 12
   },
-  "http://www.1001recepti.com/s/215501-sok-ot-borovinki": {
-    "id": "http://www.1001recepti.com/s/215501-sok-ot-borovinki",
+  "297": {
     "name": "sok-ot-borovinki",
     "used": 6,
     "displayName": "сок от боровинки",
-    "category": "Сок",
-    "categoryId": "http://www.1001recepti.com/s/206846-sok"
+    "categoryId": 60
   },
-  "http://www.1001recepti.com/s/225097-sok-ot-iabulka": {
-    "id": "http://www.1001recepti.com/s/225097-sok-ot-iabulka",
+  "298": {
     "name": "sok-ot-iabulka",
     "used": 6,
     "displayName": "сок от ябълка",
-    "category": "Сок",
-    "categoryId": "http://www.1001recepti.com/s/206846-sok"
+    "categoryId": 60
   },
-  "http://www.1001recepti.com/s/201919-rezene": {
-    "id": "http://www.1001recepti.com/s/201919-rezene",
+  "299": {
     "name": "rezene",
     "used": 6,
     "displayName": "фенел",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/211676-celuvki": {
-    "id": "http://www.1001recepti.com/s/211676-celuvki",
+  "300": {
     "name": "celuvki",
     "used": 5,
     "displayName": "Домашни целувки",
-    "category": "N/A",
-    "categoryId": "N/A"
+    "categoryId": 11
   },
-  "http://www.1001recepti.com/s/182631-brukselsko-zele": {
-    "id": "http://www.1001recepti.com/s/182631-brukselsko-zele",
+  "301": {
     "name": "brukselsko-zele",
     "used": 5,
     "displayName": "брюкселско зеле",
-    "category": "Зеле",
-    "categoryId": "http://www.1001recepti.com/s/186638-zele"
+    "categoryId": 29
   },
-  "http://www.1001recepti.com/s/209007-teleshki-stek": {
-    "id": "http://www.1001recepti.com/s/209007-teleshki-stek",
+  "302": {
     "name": "teleshki-stek",
     "used": 5,
     "displayName": "телешки стек",
-    "category": "Телешко месо",
-    "categoryId": "http://www.1001recepti.com/s/209077-teleshko-meso"
+    "categoryId": 61
   },
-  "http://www.1001recepti.com/s/204846-svinski-kareta": {
-    "id": "http://www.1001recepti.com/s/204846-svinski-kareta",
+  "303": {
     "name": "svinski-kareta",
     "used": 5,
     "displayName": "свински котлети",
-    "category": "Месо",
-    "categoryId": "http://www.1001recepti.com/s/193495-meso"
+    "categoryId": 19
   },
-  "http://www.1001recepti.com/s/195012-oktopod": {
-    "id": "http://www.1001recepti.com/s/195012-oktopod",
+  "304": {
     "name": "oktopod",
     "used": 5,
     "displayName": "октопод",
-    "category": "Морски дарове",
-    "categoryId": "http://www.1001recepti.com/s/193997-morski-darove"
+    "categoryId": 33
   },
-  "http://www.1001recepti.com/s/364548-likioor-pupesh": {
-    "id": "http://www.1001recepti.com/s/364548-likioor-pupesh",
+  "305": {
     "name": "likioor-pupesh",
     "used": 5,
     "displayName": "ликьор пъпеш",
-    "category": "Ликьор",
-    "categoryId": "http://www.1001recepti.com/s/192341-likioor"
+    "categoryId": 45
   },
-  "http://www.1001recepti.com/s/199009-pileshki-surca": {
-    "id": "http://www.1001recepti.com/s/199009-pileshki-surca",
+  "306": {
     "name": "pileshki-surca",
     "used": 5,
     "displayName": "пилешки сърца",
-    "category": "Пиле",
-    "categoryId": "http://www.1001recepti.com/s/197536-pile"
+    "categoryId": 27
   },
-  "http://www.1001recepti.com/s/180713-akula": {
-    "id": "http://www.1001recepti.com/s/180713-akula",
+  "307": {
     "name": "akula",
     "used": 5,
     "displayName": "акула",
-    "category": "Риба",
-    "categoryId": "http://www.1001recepti.com/s/202689-riba"
+    "categoryId": 32
   },
-  "http://www.1001recepti.com/s/211701-cikoriia": {
-    "id": "http://www.1001recepti.com/s/211701-cikoriia",
+  "308": {
     "name": "cikoriia",
     "used": 5,
     "displayName": "цикория",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/190433-kompot-ot-praskovi": {
-    "id": "http://www.1001recepti.com/s/190433-kompot-ot-praskovi",
+  "309": {
     "name": "kompot-ot-praskovi",
     "used": 5,
     "displayName": "Компот от праскови",
-    "category": "N/A",
-    "categoryId": "N/A"
+    "categoryId": 11
   },
-  "http://www.1001recepti.com/s/200698-proso": {
-    "id": "http://www.1001recepti.com/s/200698-proso",
+  "310": {
     "name": "proso",
     "used": 5,
     "displayName": "просо",
-    "category": "Зърнени",
-    "categoryId": "http://www.1001recepti.com/s/216345-zurneni"
+    "categoryId": 5
   },
-  "http://www.1001recepti.com/s/206607-sladuk-kartof": {
-    "id": "http://www.1001recepti.com/s/206607-sladuk-kartof",
+  "311": {
     "name": "sladuk-kartof",
     "used": 5,
     "displayName": "сладък картоф",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/189012-kachamak": {
-    "id": "http://www.1001recepti.com/s/189012-kachamak",
+  "312": {
     "name": "kachamak",
     "used": 4,
     "displayName": "качамак",
-    "category": "Зърнени",
-    "categoryId": "http://www.1001recepti.com/s/216345-zurneni"
+    "categoryId": 5
   },
-  "http://www.1001recepti.com/s/182048-blat-za-torta": {
-    "id": "http://www.1001recepti.com/s/182048-blat-za-torta",
+  "313": {
     "name": "blat-za-torta",
     "used": 4,
     "displayName": "торта",
-    "category": "Десерти",
-    "categoryId": "http://www.1001recepti.com/s/184867-deserti"
+    "categoryId": 18
   },
-  "http://www.1001recepti.com/s/205426-svinsko-file": {
-    "id": "http://www.1001recepti.com/s/205426-svinsko-file",
+  "314": {
     "name": "svinsko-file",
     "used": 4,
     "displayName": "свинско филе",
-    "category": "Свинско месо",
-    "categoryId": "http://www.1001recepti.com/s/205140-svinsko-meso"
+    "categoryId": 44
   },
-  "http://www.1001recepti.com/s/204452-salviia": {
-    "id": "http://www.1001recepti.com/s/204452-salviia",
+  "315": {
     "name": "salviia",
     "used": 4,
     "displayName": "салвия",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/180510-agneshka-pleshka": {
-    "id": "http://www.1001recepti.com/s/180510-agneshka-pleshka",
+  "316": {
     "name": "agneshka-pleshka",
     "used": 4,
     "displayName": "агнешка плешка",
-    "category": "Месо",
-    "categoryId": "http://www.1001recepti.com/s/193495-meso"
+    "categoryId": 19
   },
-  "http://www.1001recepti.com/s/346740-sirene-gauda": {
-    "id": "http://www.1001recepti.com/s/346740-sirene-gauda",
+  "317": {
     "name": "sirene-gauda",
     "used": 4,
     "displayName": "гауда",
-    "category": "Сирене",
-    "categoryId": "http://www.1001recepti.com/s/205659-sirene"
+    "categoryId": 22
   },
-  "http://www.1001recepti.com/s/199703-pitka-za-duner": {
-    "id": "http://www.1001recepti.com/s/199703-pitka-za-duner",
+  "318": {
     "name": "pitka-za-duner",
     "used": 4,
     "displayName": "питки за дюнер",
-    "category": "Хляб",
-    "categoryId": "http://www.1001recepti.com/s/211322-hliab"
+    "categoryId": 21
   },
-  "http://www.1001recepti.com/s/181655-beilis": {
-    "id": "http://www.1001recepti.com/s/181655-beilis",
+  "319": {
     "name": "beilis",
     "used": 4,
     "displayName": "бейлис",
-    "category": "Алкохол",
-    "categoryId": "http://www.1001recepti.com/s/223440-alkohol"
+    "categoryId": 16
   },
-  "http://www.1001recepti.com/s/217755-likioor-ot-praskovi": {
-    "id": "http://www.1001recepti.com/s/217755-likioor-ot-praskovi",
+  "320": {
     "name": "likioor-ot-praskovi",
     "used": 4,
     "displayName": "ликьор от праскови",
-    "category": "Ликьор",
-    "categoryId": "http://www.1001recepti.com/s/192341-likioor"
+    "categoryId": 45
   },
-  "http://www.1001recepti.com/s/225129-brendi": {
-    "id": "http://www.1001recepti.com/s/225129-brendi",
+  "321": {
     "name": "brendi",
     "used": 4,
     "displayName": "бренди",
-    "category": "Алкохол",
-    "categoryId": "http://www.1001recepti.com/s/223440-alkohol"
+    "categoryId": 16
   },
-  "http://www.1001recepti.com/s/196669-pastet": {
-    "id": "http://www.1001recepti.com/s/196669-pastet",
+  "322": {
     "name": "pastet",
     "used": 4,
     "displayName": "пастет",
-    "category": "Предястие",
-    "categoryId": "http://www.1001recepti.com/s/200493-prediastie"
+    "categoryId": 62
   },
-  "http://www.1001recepti.com/s/210387-treska": {
-    "id": "http://www.1001recepti.com/s/210387-treska",
+  "323": {
     "name": "treska",
     "used": 3,
     "displayName": "риба треска",
-    "category": "Риба",
-    "categoryId": "http://www.1001recepti.com/s/202689-riba"
+    "categoryId": 32
   },
-  "http://www.1001recepti.com/s/184114-grozde": {
-    "id": "http://www.1001recepti.com/s/184114-grozde",
+  "324": {
     "name": "grozde",
     "used": 3,
     "displayName": "грозде",
-    "category": "Плодове",
-    "categoryId": "http://www.1001recepti.com/s/199994-plodove"
+    "categoryId": 17
   },
-  "http://www.1001recepti.com/s/187558-kaienski-piper": {
-    "id": "http://www.1001recepti.com/s/187558-kaienski-piper",
+  "325": {
     "name": "kaienski-piper",
     "used": 3,
     "displayName": "кайенски пипер",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/184466-gushi-drob": {
-    "id": "http://www.1001recepti.com/s/184466-gushi-drob",
+  "326": {
     "name": "gushi-drob",
     "used": 3,
     "displayName": "гъши дроб",
-    "category": "Месо",
-    "categoryId": "http://www.1001recepti.com/s/193495-meso"
+    "categoryId": 19
   },
-  "http://www.1001recepti.com/s/221920-zelenchukov-miks": {
-    "id": "http://www.1001recepti.com/s/221920-zelenchukov-miks",
+  "327": {
     "name": "zelenchukov-miks",
     "used": 3,
     "displayName": "зеленчуков микс",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/200098-podpravki": {
-    "id": "http://www.1001recepti.com/s/200098-podpravki",
+  "328": {
     "name": "podpravki",
     "used": 3,
     "displayName": "подправки",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/225092-susamovo-olio": {
-    "id": "http://www.1001recepti.com/s/225092-susamovo-olio",
+  "329": {
     "name": "susamovo-olio",
     "used": 3,
     "displayName": "сусамово олио",
-    "category": "Мазнина",
-    "categoryId": "http://www.1001recepti.com/s/304716-maznina"
+    "categoryId": 3
   },
-  "http://www.1001recepti.com/s/208380-susheni-iagodi": {
-    "id": "http://www.1001recepti.com/s/208380-susheni-iagodi",
+  "330": {
     "name": "susheni-iagodi",
     "used": 3,
     "displayName": "сушени ягоди",
-    "category": "Сушени плодове",
-    "categoryId": "http://www.1001recepti.com/s/208371-susheni-plodove"
+    "categoryId": 63
   },
-  "http://www.1001recepti.com/s/186569-zargan": {
-    "id": "http://www.1001recepti.com/s/186569-zargan",
+  "331": {
     "name": "zargan",
     "used": 3,
     "displayName": "зарган",
-    "category": "Риба",
-    "categoryId": "http://www.1001recepti.com/s/202689-riba"
+    "categoryId": 32
   },
-  "http://www.1001recepti.com/s/225112-limonena-treva": {
-    "id": "http://www.1001recepti.com/s/225112-limonena-treva",
+  "332": {
     "name": "limonena-treva",
     "used": 3,
     "displayName": "лимонена трева",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/195903-palachinki": {
-    "id": "http://www.1001recepti.com/s/195903-palachinki",
+  "333": {
     "name": "palachinki",
     "used": 3,
     "displayName": "палачинки",
-    "category": "Десерти",
-    "categoryId": "http://www.1001recepti.com/s/184867-deserti"
+    "categoryId": 18
   },
-  "http://www.1001recepti.com/s/192342-likioor-kafe": {
-    "id": "http://www.1001recepti.com/s/192342-likioor-kafe",
+  "334": {
     "name": "likioor-kafe",
     "used": 3,
     "displayName": "ликьор кафе",
-    "category": "N/A",
-    "categoryId": "N/A"
+    "categoryId": 11
   },
-  "http://www.1001recepti.com/s/189722-kim": {
-    "id": "http://www.1001recepti.com/s/189722-kim",
+  "335": {
     "name": "kim",
     "used": 3,
     "displayName": "ким",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/192926-mango": {
-    "id": "http://www.1001recepti.com/s/192926-mango",
+  "336": {
     "name": "mango",
     "used": 3,
     "displayName": "манго",
-    "category": "Плодове",
-    "categoryId": "http://www.1001recepti.com/s/199994-plodove"
+    "categoryId": 17
   },
-  "http://www.1001recepti.com/s/225143-perno": {
-    "id": "http://www.1001recepti.com/s/225143-perno",
+  "337": {
     "name": "perno",
     "used": 3,
     "displayName": "перно",
-    "category": "Алкохол",
-    "categoryId": "http://www.1001recepti.com/s/223440-alkohol"
+    "categoryId": 16
   },
-  "http://www.1001recepti.com/s/222995-susheni-iabulki": {
-    "id": "http://www.1001recepti.com/s/222995-susheni-iabulki",
+  "338": {
     "name": "susheni-iabulki",
     "used": 3,
     "displayName": "сушени ябълки",
-    "category": "Ябълки",
-    "categoryId": "http://www.1001recepti.com/s/213070-iabulki"
+    "categoryId": 64
   },
-  "http://www.1001recepti.com/s/216462-melasa": {
-    "id": "http://www.1001recepti.com/s/216462-melasa",
+  "339": {
     "name": "melasa",
     "used": 3,
     "displayName": "меласа",
-    "category": "Десерти",
-    "categoryId": "http://www.1001recepti.com/s/184867-deserti"
+    "categoryId": 18
   },
-  "http://www.1001recepti.com/s/180792-anason": {
-    "id": "http://www.1001recepti.com/s/180792-anason",
+  "340": {
     "name": "anason",
     "used": 3,
     "displayName": "анасон",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/205442-svinsko-shkembe": {
-    "id": "http://www.1001recepti.com/s/205442-svinsko-shkembe",
+  "341": {
     "name": "svinsko-shkembe",
     "used": 3,
     "displayName": "свинско шкембе",
-    "category": "Карантия",
-    "categoryId": "http://www.1001recepti.com/s/188048-karantiia"
+    "categoryId": 54
   },
-  "http://www.1001recepti.com/s/204616-safrid": {
-    "id": "http://www.1001recepti.com/s/204616-safrid",
+  "342": {
     "name": "safrid",
     "used": 2,
     "displayName": "сафрид",
-    "category": "Риба",
-    "categoryId": "http://www.1001recepti.com/s/202689-riba"
+    "categoryId": 32
   },
-  "http://www.1001recepti.com/s/180721-alabash": {
-    "id": "http://www.1001recepti.com/s/180721-alabash",
+  "343": {
     "name": "alabash",
     "used": 2,
     "displayName": "алабаш",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/206846-sok": {
-    "id": "http://www.1001recepti.com/s/206846-sok",
+  "344": {
     "name": "sok",
     "used": 2,
     "displayName": "сок",
-    "category": "Плодове",
-    "categoryId": "http://www.1001recepti.com/s/199994-plodove"
+    "categoryId": 17
   },
-  "http://www.1001recepti.com/s/225093-pileshka-maznina": {
-    "id": "http://www.1001recepti.com/s/225093-pileshka-maznina",
+  "345": {
     "name": "pileshka-maznina",
     "used": 2,
     "displayName": "пилешка мазнина",
-    "category": "Мазнина",
-    "categoryId": "http://www.1001recepti.com/s/304716-maznina"
+    "categoryId": 3
   },
-  "http://www.1001recepti.com/s/225144-portokalov-likioor": {
-    "id": "http://www.1001recepti.com/s/225144-portokalov-likioor",
+  "346": {
     "name": "portokalov-likioor",
     "used": 2,
     "displayName": "портокалов ликьор",
-    "category": "Ликьор",
-    "categoryId": "http://www.1001recepti.com/s/192341-likioor"
+    "categoryId": 45
   },
-  "http://www.1001recepti.com/s/191256-kroasani": {
-    "id": "http://www.1001recepti.com/s/191256-kroasani",
+  "347": {
     "name": "kroasani",
     "used": 2,
     "displayName": "кроасан",
-    "category": "Десерти",
-    "categoryId": "http://www.1001recepti.com/s/184867-deserti"
+    "categoryId": 18
   },
-  "http://www.1001recepti.com/s/196766-pateshki-drobcheta": {
-    "id": "http://www.1001recepti.com/s/196766-pateshki-drobcheta",
+  "348": {
     "name": "pateshki-drobcheta",
     "used": 2,
     "displayName": "патешки дроб",
-    "category": "Патица",
-    "categoryId": "http://www.1001recepti.com/s/196789-patica"
+    "categoryId": 65
   },
-  "http://www.1001recepti.com/s/215716-ovche-sirene": {
-    "id": "http://www.1001recepti.com/s/215716-ovche-sirene",
+  "349": {
     "name": "ovche-sirene",
     "used": 2,
     "displayName": "овче сирене",
-    "category": "Сирене",
-    "categoryId": "http://www.1001recepti.com/s/205659-sirene"
+    "categoryId": 22
   },
-  "http://www.1001recepti.com/s/225149-susheni-chereshi": {
-    "id": "http://www.1001recepti.com/s/225149-susheni-chereshi",
+  "350": {
     "name": "susheni-chereshi",
     "used": 2,
     "displayName": "сушени череши",
-    "category": "Сушени плодове",
-    "categoryId": "http://www.1001recepti.com/s/208371-susheni-plodove"
+    "categoryId": 63
   },
-  "http://www.1001recepti.com/s/225133-kaisievi-iadki": {
-    "id": "http://www.1001recepti.com/s/225133-kaisievi-iadki",
+  "351": {
     "name": "kaisievi-iadki",
     "used": 2,
     "displayName": "кайсиеви ядки",
-    "category": "Ядки",
-    "categoryId": "http://www.1001recepti.com/s/213233-iadki"
+    "categoryId": 12
   },
-  "http://www.1001recepti.com/s/225154-div-luk": {
-    "id": "http://www.1001recepti.com/s/225154-div-luk",
+  "352": {
     "name": "div-luk",
     "used": 2,
     "displayName": "див лук",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/225130-glukoza": {
-    "id": "http://www.1001recepti.com/s/225130-glukoza",
+  "353": {
     "name": "glukoza",
     "used": 2,
     "displayName": "глюкоза",
-    "category": "Захар",
-    "categoryId": "http://www.1001recepti.com/s/186585-zahar"
+    "categoryId": 13
   },
-  "http://www.1001recepti.com/s/193702-miso": {
-    "id": "http://www.1001recepti.com/s/193702-miso",
+  "354": {
     "name": "miso",
     "used": 2,
     "displayName": "мисо",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/225091-palmovo-maslo": {
-    "id": "http://www.1001recepti.com/s/225091-palmovo-maslo",
+  "355": {
     "name": "palmovo-maslo",
     "used": 2,
     "displayName": "палмово масло",
-    "category": "Мазнина",
-    "categoryId": "http://www.1001recepti.com/s/304716-maznina"
+    "categoryId": 3
   },
-  "http://www.1001recepti.com/s/216122-klenov-sirop": {
-    "id": "http://www.1001recepti.com/s/216122-klenov-sirop",
+  "356": {
     "name": "klenov-sirop",
     "used": 2,
     "displayName": "кленов сироп",
-    "category": "Сладко",
-    "categoryId": "http://www.1001recepti.com/s/206480-sladko"
+    "categoryId": 7
   },
-  "http://www.1001recepti.com/s/213430-iaichen-likioor": {
-    "id": "http://www.1001recepti.com/s/213430-iaichen-likioor",
+  "357": {
     "name": "iaichen-likioor",
     "used": 2,
     "displayName": "яйчен ликьор",
-    "category": "Ликьор",
-    "categoryId": "http://www.1001recepti.com/s/192341-likioor"
+    "categoryId": 45
   },
-  "http://www.1001recepti.com/s/225116-koka-kola": {
-    "id": "http://www.1001recepti.com/s/225116-koka-kola",
+  "358": {
     "name": "koka-kola",
     "used": 2,
     "displayName": "кока кола",
-    "category": "Напитки",
-    "categoryId": "http://www.1001recepti.com/s/194536-napitki"
+    "categoryId": 8
   },
-  "http://www.1001recepti.com/s/249286-likioor-menta": {
-    "id": "http://www.1001recepti.com/s/249286-likioor-menta",
+  "359": {
     "name": "likioor-menta",
     "used": 2,
     "displayName": "ликьор мента",
-    "category": "Ликьор",
-    "categoryId": "http://www.1001recepti.com/s/192341-likioor"
+    "categoryId": 45
   },
-  "http://www.1001recepti.com/s/225147-sirene-mimolet": {
-    "id": "http://www.1001recepti.com/s/225147-sirene-mimolet",
+  "360": {
     "name": "sirene-mimolet",
     "used": 2,
     "displayName": "сирене мимолет",
-    "category": "Сирене",
-    "categoryId": "http://www.1001recepti.com/s/205659-sirene"
+    "categoryId": 22
   },
-  "http://www.1001recepti.com/s/185804-ekleri": {
-    "id": "http://www.1001recepti.com/s/185804-ekleri",
+  "361": {
     "name": "ekleri",
     "used": 2,
     "displayName": "еклер",
-    "category": "Десерти",
-    "categoryId": "http://www.1001recepti.com/s/184867-deserti"
+    "categoryId": 18
   },
-  "http://www.1001recepti.com/s/241831-pshenichen-zarodish": {
-    "id": "http://www.1001recepti.com/s/241831-pshenichen-zarodish",
+  "362": {
     "name": "pshenichen-zarodish",
     "used": 2,
     "displayName": "жито",
-    "category": "Зърнени",
-    "categoryId": "http://www.1001recepti.com/s/216345-zurneni"
+    "categoryId": 5
   },
-  "http://www.1001recepti.com/s/209028-teleshko-bon-file": {
-    "id": "http://www.1001recepti.com/s/209028-teleshko-bon-file",
+  "363": {
     "name": "teleshko-bon-file",
     "used": 2,
     "displayName": "телешко бонфиле",
-    "category": "Месо",
-    "categoryId": "http://www.1001recepti.com/s/193495-meso"
+    "categoryId": 19
   },
-  "http://www.1001recepti.com/s/364825-pateshka-maznina": {
-    "id": "http://www.1001recepti.com/s/364825-pateshka-maznina",
+  "364": {
     "name": "pateshka-maznina",
     "used": 2,
     "displayName": "патешка мазнина",
-    "category": "Мазнина",
-    "categoryId": "http://www.1001recepti.com/s/304716-maznina"
+    "categoryId": 3
   },
-  "http://www.1001recepti.com/s/207239-sos-tabasko": {
-    "id": "http://www.1001recepti.com/s/207239-sos-tabasko",
+  "365": {
     "name": "sos-tabasko",
     "used": 2,
     "displayName": "сос табаско",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/204545-sardini": {
-    "id": "http://www.1001recepti.com/s/204545-sardini",
+  "366": {
     "name": "sardini",
     "used": 1,
     "displayName": "сардини",
-    "category": "Риба",
-    "categoryId": "http://www.1001recepti.com/s/202689-riba"
+    "categoryId": 32
   },
-  "http://www.1001recepti.com/s/205850-skat": {
-    "id": "http://www.1001recepti.com/s/205850-skat",
+  "367": {
     "name": "skat",
     "used": 1,
     "displayName": "скат",
-    "category": "Риба",
-    "categoryId": "http://www.1001recepti.com/s/202689-riba"
+    "categoryId": 32
   },
-  "http://www.1001recepti.com/s/212932-shtuka": {
-    "id": "http://www.1001recepti.com/s/212932-shtuka",
+  "368": {
     "name": "shtuka",
     "used": 1,
     "displayName": "щука",
-    "category": "Риба",
-    "categoryId": "http://www.1001recepti.com/s/202689-riba"
+    "categoryId": 32
   },
-  "http://www.1001recepti.com/s/304716-maznina": {
-    "id": "http://www.1001recepti.com/s/304716-maznina",
+  "369": {
     "name": "maznina",
     "used": 1,
     "displayName": "Мазнина",
-    "category": "Мазнина",
-    "categoryId": "http://www.1001recepti.com/s/304716-maznina"
+    "categoryId": 3
   },
-  "http://www.1001recepti.com/s/207262-sosove": {
-    "id": "http://www.1001recepti.com/s/207262-sosove",
+  "370": {
     "name": "sosove",
     "used": 1,
     "displayName": "сос и сосове",
-    "category": "Подправки",
-    "categoryId": "http://www.1001recepti.com/s/200098-podpravki"
+    "categoryId": 1
   },
-  "http://www.1001recepti.com/s/191652-kurvavica": {
-    "id": "http://www.1001recepti.com/s/191652-kurvavica",
+  "371": {
     "name": "kurvavica",
     "used": 1,
     "displayName": "кървавица",
-    "category": "Месо",
-    "categoryId": "http://www.1001recepti.com/s/193495-meso"
+    "categoryId": 19
   },
-  "http://www.1001recepti.com/s/189780-kiselo-zele": {
-    "id": "http://www.1001recepti.com/s/189780-kiselo-zele",
+  "372": {
     "name": "kiselo-zele",
     "used": 1,
     "displayName": "кисело зеле",
-    "category": "Зеле",
-    "categoryId": "http://www.1001recepti.com/s/186638-zele"
+    "categoryId": 29
   },
-  "http://www.1001recepti.com/s/185296-domatena-supa": {
-    "id": "http://www.1001recepti.com/s/185296-domatena-supa",
+  "373": {
     "name": "domatena-supa",
     "used": 1,
     "displayName": "доматена супа",
-    "category": "Супи",
-    "categoryId": "http://www.1001recepti.com/s/208221-supi"
+    "categoryId": 66
   },
-  "http://www.1001recepti.com/s/183827-govejdo-meso": {
-    "id": "http://www.1001recepti.com/s/183827-govejdo-meso",
+  "374": {
     "name": "govejdo-meso",
     "used": 1,
     "displayName": "говеждо месо",
-    "category": "Месо",
-    "categoryId": "http://www.1001recepti.com/s/193495-meso"
+    "categoryId": 19
   },
-  "http://www.1001recepti.com/s/187997-karagiooz": {
-    "id": "http://www.1001recepti.com/s/187997-karagiooz",
+  "375": {
     "name": "karagiooz",
     "used": 1,
     "displayName": "карагьоз",
-    "category": "Риба",
-    "categoryId": "http://www.1001recepti.com/s/202689-riba"
+    "categoryId": 32
   },
-  "http://www.1001recepti.com/s/212033-cheren-oriz": {
-    "id": "http://www.1001recepti.com/s/212033-cheren-oriz",
+  "376": {
     "name": "cheren-oriz",
     "used": 1,
     "displayName": "черен ориз",
-    "category": "Ориз",
-    "categoryId": "http://www.1001recepti.com/s/195166-oriz"
+    "categoryId": 57
   },
-  "http://www.1001recepti.com/s/205776-sirop": {
-    "id": "http://www.1001recepti.com/s/205776-sirop",
+  "377": {
     "name": "sirop",
     "used": 1,
     "displayName": "сироп",
-    "category": "N/A",
-    "categoryId": "N/A"
+    "categoryId": 11
   },
-  "http://www.1001recepti.com/s/183922-gofreti": {
-    "id": "http://www.1001recepti.com/s/183922-gofreti",
+  "378": {
     "name": "gofreti",
     "used": 1,
     "displayName": "Гофрети без захар (с подсладител)",
-    "category": "N/A",
-    "categoryId": "N/A"
+    "categoryId": 11
   },
-  "http://www.1001recepti.com/s/186638-zele": {
-    "id": "http://www.1001recepti.com/s/186638-zele",
+  "379": {
     "name": "zele",
     "used": 1,
     "displayName": "зеле",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/225085-shveicarsko-sirene": {
-    "id": "http://www.1001recepti.com/s/225085-shveicarsko-sirene",
+  "380": {
     "name": "shveicarsko-sirene",
     "used": 1,
     "displayName": "швейцарско сирене",
-    "category": "N/A",
-    "categoryId": "N/A"
+    "categoryId": 11
   },
-  "http://www.1001recepti.com/s/240685-nori": {
-    "id": "http://www.1001recepti.com/s/240685-nori",
+  "381": {
     "name": "nori",
     "used": 1,
     "displayName": "нори",
-    "category": "N/A",
-    "categoryId": "N/A"
+    "categoryId": 11
   },
-  "http://www.1001recepti.com/s/225141-orizovo-vino": {
-    "id": "http://www.1001recepti.com/s/225141-orizovo-vino",
+  "382": {
     "name": "orizovo-vino",
     "used": 1,
     "displayName": "оризово вино",
-    "category": "Вино",
-    "categoryId": "http://www.1001recepti.com/s/183350-vino"
+    "categoryId": 67
   },
-  "http://www.1001recepti.com/s/203659-sake": {
-    "id": "http://www.1001recepti.com/s/203659-sake",
+  "383": {
     "name": "sake",
     "used": 1,
     "displayName": "саке",
-    "category": "Алкохол",
-    "categoryId": "http://www.1001recepti.com/s/223440-alkohol"
+    "categoryId": 16
   },
-  "http://www.1001recepti.com/s/196050-pangasius": {
-    "id": "http://www.1001recepti.com/s/196050-pangasius",
+  "384": {
     "name": "pangasius",
     "used": 1,
     "displayName": "пангасиус",
-    "category": "Риба",
-    "categoryId": "http://www.1001recepti.com/s/202689-riba"
+    "categoryId": 32
   },
-  "http://www.1001recepti.com/s/187859-kalkan": {
-    "id": "http://www.1001recepti.com/s/187859-kalkan",
+  "385": {
     "name": "kalkan",
     "used": 1,
     "displayName": "калкан",
-    "category": "Риба",
-    "categoryId": "http://www.1001recepti.com/s/202689-riba"
+    "categoryId": 32
   },
-  "http://www.1001recepti.com/s/225155-sprait": {
-    "id": "http://www.1001recepti.com/s/225155-sprait",
+  "386": {
     "name": "sprait",
     "used": 1,
     "displayName": "спрайт",
-    "category": "Напитки",
-    "categoryId": "http://www.1001recepti.com/s/194536-napitki"
+    "categoryId": 8
   },
-  "http://www.1001recepti.com/s/189004-kafiav-oriz": {
-    "id": "http://www.1001recepti.com/s/189004-kafiav-oriz",
+  "387": {
     "name": "kafiav-oriz",
     "used": 1,
     "displayName": "кафяв ориз",
-    "category": "Зърнени",
-    "categoryId": "http://www.1001recepti.com/s/216345-zurneni"
+    "categoryId": 5
   },
-  "http://www.1001recepti.com/s/180546-agneshki-kotleti": {
-    "id": "http://www.1001recepti.com/s/180546-agneshki-kotleti",
+  "388": {
     "name": "agneshki-kotleti",
     "used": 1,
     "displayName": "агнешки котлети",
-    "category": "Агнешко месо",
-    "categoryId": "http://www.1001recepti.com/s/180579-agneshko-meso"
+    "categoryId": 68
   },
-  "http://www.1001recepti.com/s/196782-pateshko-meso": {
-    "id": "http://www.1001recepti.com/s/196782-pateshko-meso",
+  "389": {
     "name": "pateshko-meso",
     "used": 1,
     "displayName": "патешко месо",
-    "category": "Месо",
-    "categoryId": "http://www.1001recepti.com/s/193495-meso"
+    "categoryId": 19
   },
-  "http://www.1001recepti.com/s/181177-bambuk": {
-    "id": "http://www.1001recepti.com/s/181177-bambuk",
+  "390": {
     "name": "bambuk",
     "used": 1,
     "displayName": "бамбук",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/201850-raci": {
-    "id": "http://www.1001recepti.com/s/201850-raci",
+  "391": {
     "name": "raci",
     "used": 1,
     "displayName": "рак",
-    "category": "Морски дарове",
-    "categoryId": "http://www.1001recepti.com/s/193997-morski-darove"
+    "categoryId": 33
   },
-  "http://www.1001recepti.com/s/188955-kasis": {
-    "id": "http://www.1001recepti.com/s/188955-kasis",
+  "392": {
     "name": "kasis",
     "used": 1,
     "displayName": "касис",
-    "category": "Плодове",
-    "categoryId": "http://www.1001recepti.com/s/199994-plodove"
+    "categoryId": 17
   },
-  "http://www.1001recepti.com/s/206855-sok-ot-morkovi": {
-    "id": "http://www.1001recepti.com/s/206855-sok-ot-morkovi",
+  "393": {
     "name": "sok-ot-morkovi",
     "used": 1,
     "displayName": "сок от моркови",
-    "category": "Сок",
-    "categoryId": "http://www.1001recepti.com/s/206846-sok"
+    "categoryId": 60
   },
-  "http://www.1001recepti.com/s/200921-pushena-skumriia": {
-    "id": "http://www.1001recepti.com/s/200921-pushena-skumriia",
+  "394": {
     "name": "pushena-skumriia",
     "used": 1,
     "displayName": "пушена скумрия",
-    "category": "Скумрия",
-    "categoryId": "http://www.1001recepti.com/s/205881-skumriia"
+    "categoryId": 69
   },
-  "http://www.1001recepti.com/s/192351-limonada": {
-    "id": "http://www.1001recepti.com/s/192351-limonada",
+  "395": {
     "name": "limonada",
     "used": 1,
     "displayName": "лимонада",
-    "category": "Напитки",
-    "categoryId": "http://www.1001recepti.com/s/194536-napitki"
+    "categoryId": 8
   },
-  "http://www.1001recepti.com/s/221333-sok-ot-praskovi": {
-    "id": "http://www.1001recepti.com/s/221333-sok-ot-praskovi",
+  "396": {
     "name": "sok-ot-praskovi",
     "used": 1,
     "displayName": "сок от праскови",
-    "category": "Праскови",
-    "categoryId": "http://www.1001recepti.com/s/200462-praskovi"
+    "categoryId": 70
   },
-  "http://www.1001recepti.com/s/312193-sok-ot-mandarini": {
-    "id": "http://www.1001recepti.com/s/312193-sok-ot-mandarini",
+  "397": {
     "name": "sok-ot-mandarini",
     "used": 1,
     "displayName": "сок от мандарини",
-    "category": "N/A",
-    "categoryId": "N/A"
+    "categoryId": 11
   },
-  "http://www.1001recepti.com/s/241366-amarula": {
-    "id": "http://www.1001recepti.com/s/241366-amarula",
+  "398": {
     "name": "amarula",
     "used": 1,
     "displayName": "амарула",
-    "category": "N/A",
-    "categoryId": "N/A"
+    "categoryId": 11
   },
-  "http://www.1001recepti.com/s/364547-pshenicheni-trici": {
-    "id": "http://www.1001recepti.com/s/364547-pshenicheni-trici",
+  "399": {
     "name": "pshenicheni-trici",
     "used": 1,
     "displayName": "жито",
-    "category": "Зърнени",
-    "categoryId": "http://www.1001recepti.com/s/216345-zurneni"
+    "categoryId": 5
   },
-  "http://www.1001recepti.com/s/364826-susheni-praskovi": {
-    "id": "http://www.1001recepti.com/s/364826-susheni-praskovi",
+  "400": {
     "name": "susheni-praskovi",
     "used": 1,
     "displayName": "сушени праскови",
-    "category": "N/A",
-    "categoryId": "N/A"
+    "categoryId": 11
   },
-  "http://www.1001recepti.com/s/200824-pueshko-file": {
-    "id": "http://www.1001recepti.com/s/200824-pueshko-file",
+  "401": {
     "name": "pueshko-file",
     "used": 1,
     "displayName": "пуйка",
-    "category": "Месо",
-    "categoryId": "http://www.1001recepti.com/s/193495-meso"
+    "categoryId": 19
   },
-  "http://www.1001recepti.com/s/204986-svinski-surca": {
-    "id": "http://www.1001recepti.com/s/204986-svinski-surca",
+  "402": {
     "name": "svinski-surca",
     "used": 1,
     "displayName": "Домашен бахур - класическа рецепта",
-    "category": "N/A",
-    "categoryId": "N/A"
+    "categoryId": 11
   },
-  "http://www.1001recepti.com/s/240982-riba-mech": {
-    "id": "http://www.1001recepti.com/s/240982-riba-mech",
+  "403": {
     "name": "riba-mech",
     "used": 1,
     "displayName": "риба меч",
-    "category": "Риба",
-    "categoryId": "http://www.1001recepti.com/s/202689-riba"
+    "categoryId": 32
   },
-  "http://www.1001recepti.com/s/201444-purjeni-kartofi": {
-    "id": "http://www.1001recepti.com/s/201444-purjeni-kartofi",
+  "404": {
     "name": "purjeni-kartofi",
     "used": 1,
     "displayName": "Пържени картофи със сирене",
-    "category": "N/A",
-    "categoryId": "N/A"
+    "categoryId": 11
   },
-  "http://www.1001recepti.com/s/211960-chai": {
-    "id": "http://www.1001recepti.com/s/211960-chai",
+  "405": {
     "name": "chai",
     "used": 1,
     "displayName": "чай",
-    "category": "Напитки",
-    "categoryId": "http://www.1001recepti.com/s/194536-napitki"
+    "categoryId": 8
   },
-  "http://www.1001recepti.com/s/181112-bakla": {
-    "id": "http://www.1001recepti.com/s/181112-bakla",
+  "406": {
     "name": "bakla",
     "used": 1,
     "displayName": "бакла",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   },
-  "http://www.1001recepti.com/s/208964-teleshki-drob": {
-    "id": "http://www.1001recepti.com/s/208964-teleshki-drob",
+  "407": {
     "name": "teleshki-drob",
     "used": 1,
     "displayName": "телешки черен дроб",
-    "category": "Свински дроб",
-    "categoryId": "http://www.1001recepti.com/s/204815-svinski-drob"
+    "categoryId": 71
   },
-  "http://www.1001recepti.com/s/205048-svinsko-bon-file": {
-    "id": "http://www.1001recepti.com/s/205048-svinsko-bon-file",
+  "408": {
     "name": "svinsko-bon-file",
     "used": 1,
     "displayName": "свинско бонфиле",
-    "category": "Бон филе",
-    "categoryId": "http://www.1001recepti.com/s/182379-bon-file"
+    "categoryId": 72
   },
-  "http://www.1001recepti.com/s/212275-chorizo": {
-    "id": "http://www.1001recepti.com/s/212275-chorizo",
+  "409": {
     "name": "chorizo",
     "used": 1,
     "displayName": "чоризо",
-    "category": "Наденица",
-    "categoryId": "http://www.1001recepti.com/s/194480-nadenica"
+    "categoryId": 73
   },
-  "http://www.1001recepti.com/s/244963-kreson": {
-    "id": "http://www.1001recepti.com/s/244963-kreson",
+  "410": {
     "name": "kreson",
     "used": 1,
     "displayName": "кресон",
-    "category": "Зеленчуци",
-    "categoryId": "http://www.1001recepti.com/s/186929-zelenchuci"
+    "categoryId": 2
   }
 }

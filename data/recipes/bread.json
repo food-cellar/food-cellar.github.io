@@ -51,17 +51,17 @@
       {
         "name": "брашно",
         "qty": "400 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "олио",
         "qty": "10 с.л.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -106,22 +106,22 @@
       {
         "name": "бутер тесто",
         "qty": "1/2 кг",
-        "id": "http://www.1001recepti.com/s/182712-buter-testo"
+        "id": 117
       },
       {
         "name": "кренвирша",
         "qty": "4",
-        "id": "http://www.1001recepti.com/s/191171-krenvirshi"
+        "id": 161
       },
       {
         "name": "кимион",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/189725-kimion"
+        "id": 42
       },
       {
         "name": "яйце",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       }
     ]
   },
@@ -170,42 +170,42 @@
       {
         "name": "бутер тесто",
         "qty": "1/2 кг",
-        "id": "http://www.1001recepti.com/s/182712-buter-testo"
+        "id": 117
       },
       {
         "name": "гъби",
         "qty": "200 г",
-        "id": "http://www.1001recepti.com/s/184313-gubi"
+        "id": 37
       },
       {
         "name": "топено сирене",
         "qty": "50 г",
-        "id": "http://www.1001recepti.com/s/209770-topeno-sirene"
+        "id": 112
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "черен пипер",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+        "id": 2
       },
       {
         "name": "магданоз",
         "qty": "1/2 връзка",
-        "id": "http://www.1001recepti.com/s/192612-magdanoz"
+        "id": 12
       },
       {
         "name": "мащерка",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/193265-mashterka"
+        "id": 75
       },
       {
         "name": "яйце",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       }
     ]
   },
@@ -255,47 +255,47 @@
       {
         "name": "качамак",
         "qty": "250 г",
-        "id": "http://www.1001recepti.com/s/189012-kachamak"
+        "id": 312
       },
       {
         "name": "яйца",
         "qty": "4",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "сирене",
         "qty": "1 ч.ч.",
-        "id": "http://www.1001recepti.com/s/205659-sirene"
+        "id": 32
       },
       {
         "name": "сушени домати",
         "qty": "50 г",
-        "id": "http://www.1001recepti.com/s/208367-susheni-domati"
+        "id": 121
       },
       {
         "name": "прясно мляко",
         "qty": "1 ч.ч.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "олио",
         "qty": "1/3 ч.ч.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "пресен лук",
         "qty": "3 стръка",
-        "id": "http://www.1001recepti.com/s/200572-presen-luk"
+        "id": 24
       },
       {
         "name": "сусам",
         "qty": "50 г",
-        "id": "http://www.1001recepti.com/s/208273-susam"
+        "id": 113
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -346,52 +346,52 @@
       {
         "name": "брашно",
         "qty": "2 кг",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "яйца",
         "qty": "4",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "мая",
         "qty": "60 г",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "мляко",
         "qty": "1/2 л.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "ванилия",
         "qty": "1 опак.",
-        "id": "http://www.1001recepti.com/s/183033-vaniliia"
+        "id": 23
       },
       {
         "name": "топла вода",
         "qty": "1/2 л.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "сол",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "захар",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "масло",
         "qty": "1 опак.",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "сирене",
         "qty": "300 г",
-        "id": "http://www.1001recepti.com/s/205659-sirene"
+        "id": 32
       }
     ]
   },
@@ -446,72 +446,72 @@
       {
         "name": "брашно",
         "qty": "300 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "масло",
         "qty": "50 г",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "свинско филе",
         "qty": "700 г",
-        "id": "http://www.1001recepti.com/s/205426-svinsko-file"
+        "id": 314
       },
       {
         "name": "сушени домата",
         "qty": "50 г",
-        "id": "http://www.1001recepti.com/s/208367-susheni-domati"
+        "id": 121
       },
       {
         "name": "чесън",
         "qty": "1 скилидка",
-        "id": "http://www.1001recepti.com/s/212113-chesun"
+        "id": 6
       },
       {
         "name": "розмарин",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/203088-rozmarin"
+        "id": 77
       },
       {
         "name": "копър",
         "qty": "1 връзка",
-        "id": "http://www.1001recepti.com/s/190523-kopur"
+        "id": 28
       },
       {
         "name": "замразен зелен грах",
         "qty": "400 г",
-        "id": "http://www.1001recepti.com/s/183947-grah"
+        "id": 68
       },
       {
         "name": "шунка",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/212873-shunka"
+        "id": 76
       },
       {
         "name": "зехтин",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/186978-zehtin"
+        "id": 10
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "черен пипер",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+        "id": 2
       },
       {
         "name": "топла вода",
         "qty": "100 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "вода",
         "qty": "1/2 л.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -563,57 +563,57 @@
       {
         "name": "брашно",
         "qty": "1 кг",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "яйца",
         "qty": "3",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "захар",
         "qty": "5 с.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "олио",
         "qty": "150 мл.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "мляко",
         "qty": "2 1/2 ч.ч.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "суха мая",
         "qty": "1 опак.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "свинска мас",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/204730-svinska-mas"
+        "id": 220
       },
       {
         "name": "сирене",
         "qty": "1/2 кг",
-        "id": "http://www.1001recepti.com/s/205659-sirene"
+        "id": 32
       },
       {
         "name": "яйца",
         "qty": "3",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "сода",
         "qty": "1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/349459-soda-za-hliab"
+        "id": 56
       },
       {
         "name": "кисело мляко",
         "qty": "2 ч.л.",
-        "id": "http://www.1001recepti.com/s/189828-kiselo-mliako"
+        "id": 21
       }
     ]
   },
@@ -664,52 +664,52 @@
       {
         "name": "яйца",
         "qty": "4",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "брашно",
         "qty": "1/2 кг",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "мая",
         "qty": "3 г",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "мляко",
         "qty": "1/2 л.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "сол",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "захар",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "сирене",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/205659-sirene"
+        "id": 32
       },
       {
         "name": "кашкавал",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/189045-kashkaval"
+        "id": 47
       },
       {
         "name": "джоджен",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/185026-djodjen"
+        "id": 60
       },
       {
         "name": "масло",
         "qty": "20 г",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       }
     ]
   },
@@ -759,47 +759,47 @@
       {
         "name": "ябълки",
         "qty": "6",
-        "id": "http://www.1001recepti.com/s/213070-iabulki"
+        "id": 85
       },
       {
         "name": "орехи",
         "qty": "3 с.л.",
-        "id": "http://www.1001recepti.com/s/195111-orehi"
+        "id": 31
       },
       {
         "name": "захар",
         "qty": "1/2 ч.ч.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "брашно",
         "qty": "2 ч.ч.",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "масло",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "пудра захар",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "яйца",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "ванилия",
         "qty": "1 опак.",
-        "id": "http://www.1001recepti.com/s/183033-vaniliia"
+        "id": 23
       },
       {
         "name": "сода",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/349459-soda-za-hliab"
+        "id": 56
       }
     ]
   },
@@ -850,52 +850,52 @@
       {
         "name": "брашно",
         "qty": "25 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "мая",
         "qty": "25 г",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "захар",
         "qty": "10 г",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "вода",
         "qty": "80 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "брашно",
         "qty": "700 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "канела",
         "qty": "4 с.л.",
-        "id": "http://www.1001recepti.com/s/187922-kanela"
+        "id": 46
       },
       {
         "name": "сол",
         "qty": "10 г",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "вода",
         "qty": "335 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "смокини",
         "qty": "200 г",
-        "id": "http://www.1001recepti.com/s/216464-smokinia"
+        "id": 244
       },
       {
         "name": "маково семе",
         "qty": "20 г",
-        "id": "http://www.1001recepti.com/s/192839-makovo-seme"
+        "id": 182
       }
     ]
   },
@@ -944,42 +944,42 @@
       {
         "name": "фини кори",
         "qty": "1 опак.",
-        "id": "http://www.1001recepti.com/s/190554-kori-za-banica"
+        "id": 138
       },
       {
         "name": "яйца",
         "qty": "6",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "кисело мляко",
         "qty": "1/2 кг",
-        "id": "http://www.1001recepti.com/s/189828-kiselo-mliako"
+        "id": 21
       },
       {
         "name": "олио",
         "qty": "1/4 ч.ч.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "масло",
         "qty": "25 г",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "брашно",
         "qty": "4 с.л.",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "сода",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/349459-soda-za-hliab"
+        "id": 56
       },
       {
         "name": "краве сирене",
         "qty": "400 г",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       }
     ]
   },
@@ -1031,57 +1031,57 @@
       {
         "name": "брашно",
         "qty": "1 кг",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "мая",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "олио",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "пресен лук",
         "qty": "1 връзка",
-        "id": "http://www.1001recepti.com/s/200572-presen-luk"
+        "id": 24
       },
       {
         "name": "кисело мляко",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/189828-kiselo-mliako"
+        "id": 21
       },
       {
         "name": "ориз",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/195166-oriz"
+        "id": 22
       },
       {
         "name": "лапад",
         "qty": "1/2 кг",
-        "id": "http://www.1001recepti.com/s/192059-lapad"
+        "id": 136
       },
       {
         "name": "магданоз",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/192612-magdanoz"
+        "id": 12
       },
       {
         "name": "копър",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/190523-kopur"
+        "id": 28
       },
       {
         "name": "вода",
         "qty": "1 ч.ч.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -1146,22 +1146,22 @@
       {
         "name": "брашно",
         "qty": "250 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "мая",
         "qty": "10 г",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "вода",
         "qty": "100 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "олио за пържене",
         "qty": "200 мл.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       }
     ]
   },
@@ -1213,57 +1213,57 @@
       {
         "name": "брашно",
         "qty": "1/2 кг",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "мая",
         "qty": "15 г",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "прясно мляко",
         "qty": "150 мл.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "яйце",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "масло",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "сол",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "зеле",
         "qty": "400 г",
-        "id": "http://www.1001recepti.com/s/200728-priasno-zele"
+        "id": 94
       },
       {
         "name": "лук",
         "qty": "50 г",
-        "id": "http://www.1001recepti.com/s/192500-luk"
+        "id": 3
       },
       {
         "name": "кайма",
         "qty": "200 г",
-        "id": "http://www.1001recepti.com/s/187570-kaima"
+        "id": 54
       },
       {
         "name": "черен пипер",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+        "id": 2
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -1315,57 +1315,57 @@
       {
         "name": "замразен спанак",
         "qty": "1/2 опак.",
-        "id": "http://www.1001recepti.com/s/207509-spanak"
+        "id": 40
       },
       {
         "name": "яйца",
         "qty": "6",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "извара",
         "qty": "250 г",
-        "id": "http://www.1001recepti.com/s/187192-izvara"
+        "id": 92
       },
       {
         "name": "кисело мляко",
         "qty": "1 ч.ч.",
-        "id": "http://www.1001recepti.com/s/189828-kiselo-mliako"
+        "id": 21
       },
       {
         "name": "сода за хляб",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/349459-soda-za-hliab"
+        "id": 56
       },
       {
         "name": "брашно",
         "qty": "2 ч.ч.",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "олио",
         "qty": "6 с.л.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "орехи",
         "qty": "1/2 ч.ч.",
-        "id": "http://www.1001recepti.com/s/195111-orehi"
+        "id": 31
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "черен пипер",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+        "id": 2
       },
       {
         "name": "чесън на прах",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/212113-chesun"
+        "id": 6
       }
     ]
   },
@@ -1415,47 +1415,47 @@
       {
         "name": "бяла риба",
         "qty": "800 г",
-        "id": "http://www.1001recepti.com/s/182965-biala-riba"
+        "id": 102
       },
       {
         "name": "галета",
         "qty": "120 г",
-        "id": "http://www.1001recepti.com/s/183577-galeta"
+        "id": 58
       },
       {
         "name": "масло",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "лук",
         "qty": "1 глава",
-        "id": "http://www.1001recepti.com/s/192500-luk"
+        "id": 3
       },
       {
         "name": "магданоз",
         "qty": "1 връзка",
-        "id": "http://www.1001recepti.com/s/192612-magdanoz"
+        "id": 12
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "черен пипер",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+        "id": 2
       },
       {
         "name": "лимона",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/192361-limoni"
+        "id": 43
       },
       {
         "name": "бакпулвер",
         "qty": "10 г",
-        "id": "http://www.1001recepti.com/s/225121-bakpulver"
+        "id": 29
       }
     ]
   },
@@ -1507,57 +1507,57 @@
       {
         "name": "фини кори",
         "qty": "1 опак.",
-        "id": "http://www.1001recepti.com/s/190554-kori-za-banica"
+        "id": 138
       },
       {
         "name": "тиквички",
         "qty": "200 г",
-        "id": "http://www.1001recepti.com/s/209473-tikvichki"
+        "id": 39
       },
       {
         "name": "моркови",
         "qty": "200 г",
-        "id": "http://www.1001recepti.com/s/193952-morkovi"
+        "id": 13
       },
       {
         "name": "олио",
         "qty": "4 с.л.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "лук",
         "qty": "1 глава",
-        "id": "http://www.1001recepti.com/s/192500-luk"
+        "id": 3
       },
       {
         "name": "чесън",
         "qty": "4 скилидки",
-        "id": "http://www.1001recepti.com/s/212113-chesun"
+        "id": 6
       },
       {
         "name": "магданоз",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/192612-magdanoz"
+        "id": 12
       },
       {
         "name": "копър",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/190523-kopur"
+        "id": 28
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "черен пипер",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+        "id": 2
       },
       {
         "name": "яйце",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       }
     ]
   },
@@ -1601,17 +1601,17 @@
       {
         "name": "козуначено тесто",
         "qty": "200 г",
-        "id": "http://www.1001recepti.com/s/209232-testo"
+        "id": 262
       },
       {
         "name": "жълтък",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/362535-iaichen-jultuk"
+        "id": 33
       },
       {
         "name": "бадема",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/181093-bademi"
+        "id": 82
       }
     ]
   },
@@ -1674,72 +1674,72 @@
       {
         "name": "суха мая",
         "qty": "4 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "захар",
         "qty": "250 г",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "вода",
         "qty": "200 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "брашно",
         "qty": "600 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "сол",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "канела",
         "qty": "1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/187922-kanela"
+        "id": 46
       },
       {
         "name": "семена от копър",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/190523-kopur"
+        "id": 28
       },
       {
         "name": "яйца",
         "qty": "4",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "жълтъка",
         "qty": "8",
-        "id": "http://www.1001recepti.com/s/362535-iaichen-jultuk"
+        "id": 33
       },
       {
         "name": "бяло вино",
         "qty": "100 мл.",
-        "id": "http://www.1001recepti.com/s/182996-bialo-vino"
+        "id": 41
       },
       {
         "name": "кората на 1 лимон",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/225100-limonova-kora"
+        "id": 107
       },
       {
         "name": "рикота",
         "qty": "75 г",
-        "id": "http://www.1001recepti.com/s/203033-rikota"
+        "id": 231
       },
       {
         "name": "масло",
         "qty": "250 г",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "белтък",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/362534-iaicheni-beltuci"
+        "id": 157
       }
     ]
   },
@@ -1793,47 +1793,47 @@
       {
         "name": "брашно",
         "qty": "1 кг",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "сол",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "мая",
         "qty": "50 г",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "захар",
         "qty": "250 г",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "масло",
         "qty": "80 г",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "олио",
         "qty": "80 мл.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "яйца",
         "qty": "5",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "прясно мляко",
         "qty": "250 мл.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "ванилия",
         "qty": "1 опак.",
-        "id": "http://www.1001recepti.com/s/183033-vaniliia"
+        "id": 23
       }
     ]
   },
@@ -1879,27 +1879,27 @@
       {
         "name": "царевично брашно",
         "qty": "1/2 кг",
-        "id": "http://www.1001recepti.com/s/211558-carevichno-brashno"
+        "id": 169
       },
       {
         "name": "яйца",
         "qty": "4",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "вода",
         "qty": "150 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "сода",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/349459-soda-za-hliab"
+        "id": 56
       }
     ]
   },
@@ -1953,67 +1953,67 @@
       {
         "name": "яйца",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "царевично брашно",
         "qty": "1 ч.ч.",
-        "id": "http://www.1001recepti.com/s/211558-carevichno-brashno"
+        "id": 169
       },
       {
         "name": "пшенично брашно",
         "qty": "1 ч.ч.",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "кисело мляко",
         "qty": "1 ч.ч.",
-        "id": "http://www.1001recepti.com/s/189828-kiselo-mliako"
+        "id": 21
       },
       {
         "name": "сода",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/349459-soda-za-hliab"
+        "id": 56
       },
       {
         "name": "олио",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "червена чушка",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/212296-chushki"
+        "id": 18
       },
       {
         "name": "тиквичка",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/209473-tikvichki"
+        "id": 39
       },
       {
         "name": "извара",
         "qty": "1 ч.ч.",
-        "id": "http://www.1001recepti.com/s/187192-izvara"
+        "id": 92
       },
       {
         "name": "захар",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "лимонов сок",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/192380-limonov-sok"
+        "id": 17
       },
       {
         "name": "ким",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/189722-kim"
+        "id": 335
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -2062,42 +2062,42 @@
       {
         "name": "типово брашно",
         "qty": "800 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "прясно мляко",
         "qty": "2 ч.ч.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "олио",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "захар",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "мая",
         "qty": "30 г",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "тиквени семки",
         "qty": "50 г",
-        "id": "http://www.1001recepti.com/s/209436-tikveni-semki"
+        "id": 189
       },
       {
         "name": "слънчогледови семки",
         "qty": "50 г",
-        "id": "http://www.1001recepti.com/s/206677-slunchogledovi-semki"
+        "id": 147
       }
     ]
   },
@@ -2148,32 +2148,32 @@
       {
         "name": "брашно",
         "qty": "1/2 кг",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "кисело мляко",
         "qty": "250 г",
-        "id": "http://www.1001recepti.com/s/189828-kiselo-mliako"
+        "id": 21
       },
       {
         "name": "кашкавал",
         "qty": "400 г",
-        "id": "http://www.1001recepti.com/s/189045-kashkaval"
+        "id": 47
       },
       {
         "name": "яйца",
         "qty": "3",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "мая",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -2226,62 +2226,62 @@
       {
         "name": "царевично брашно",
         "qty": "3 ч.ч.",
-        "id": "http://www.1001recepti.com/s/211558-carevichno-brashno"
+        "id": 169
       },
       {
         "name": "пшенично брашно",
         "qty": "1 ч.ч.",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "бакпулвер",
         "qty": "4 ч.л.",
-        "id": "http://www.1001recepti.com/s/225121-bakpulver"
+        "id": 29
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "захар",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "прясно мляко",
         "qty": "2 ч.ч.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "олио",
         "qty": "ч.ч.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "яйца",
         "qty": "3",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "зелен лук",
         "qty": "1 ч.ч.",
-        "id": "http://www.1001recepti.com/s/200572-presen-luk"
+        "id": 24
       },
       {
         "name": "люти чушки",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/192577-luti-chushki"
+        "id": 105
       },
       {
         "name": "чедър",
         "qty": "1 ч.ч.",
-        "id": "http://www.1001recepti.com/s/340549-sirene-chedur"
+        "id": 153
       },
       {
         "name": "царевица",
         "qty": "1 ч.ч.",
-        "id": "http://www.1001recepti.com/s/211525-carevica"
+        "id": 78
       }
     ]
   },
@@ -2332,52 +2332,52 @@
       {
         "name": "яйца",
         "qty": "4",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "кисело мляко",
         "qty": "1 ч.ч.",
-        "id": "http://www.1001recepti.com/s/189828-kiselo-mliako"
+        "id": 21
       },
       {
         "name": "сода",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/349459-soda-za-hliab"
+        "id": 56
       },
       {
         "name": "лимонов сок",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/192380-limonov-sok"
+        "id": 17
       },
       {
         "name": "брашно",
         "qty": "2 ч.ч.",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "шунка",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/212873-shunka"
+        "id": 76
       },
       {
         "name": "кисели краставички",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/190690-krastavici"
+        "id": 44
       },
       {
         "name": "сирене",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/205659-sirene"
+        "id": 32
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "черен пипер",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+        "id": 2
       }
     ]
   },
@@ -2423,27 +2423,27 @@
       {
         "name": "брашно",
         "qty": "1 кг",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "сол",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "сода",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/349459-soda-za-hliab"
+        "id": 56
       },
       {
         "name": "захар",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "вода",
         "qty": "300 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -2488,22 +2488,22 @@
       {
         "name": "брашно",
         "qty": "3 ч.ч.",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "вода",
         "qty": "2 ч.ч.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "сода за хляб",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/349459-soda-za-hliab"
+        "id": 56
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -2560,42 +2560,42 @@
       {
         "name": "пшенично брашно",
         "qty": "575 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "захар",
         "qty": "70 г",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "сол",
         "qty": "2 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "масло",
         "qty": "200 г",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "яйца",
         "qty": "5",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "мляко",
         "qty": "80 мл.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "суха мая",
         "qty": "1 1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "стафиди",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/207748-stafidi"
+        "id": 69
       }
     ]
   },
@@ -2645,27 +2645,27 @@
       {
         "name": "кори за баница",
         "qty": "1/2 кг",
-        "id": "http://www.1001recepti.com/s/190554-kori-za-banica"
+        "id": 138
       },
       {
         "name": "сирене",
         "qty": "350 г",
-        "id": "http://www.1001recepti.com/s/205659-sirene"
+        "id": 32
       },
       {
         "name": "олио",
         "qty": "100 мл.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "яйца",
         "qty": "4",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "газирана вода",
         "qty": "250 мл.",
-        "id": "http://www.1001recepti.com/s/183567-gazirana-voda"
+        "id": 199
       }
     ]
   },
@@ -2715,47 +2715,47 @@
       {
         "name": "яйца",
         "qty": "4",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "кисело мляко",
         "qty": "1 ч.ч.",
-        "id": "http://www.1001recepti.com/s/189828-kiselo-mliako"
+        "id": 21
       },
       {
         "name": "брашно",
         "qty": "3 ч.ч.",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "бакпулвер",
         "qty": "1 опак.",
-        "id": "http://www.1001recepti.com/s/225121-bakpulver"
+        "id": 29
       },
       {
         "name": "риба тон",
         "qty": "1 консерва",
-        "id": "http://www.1001recepti.com/s/202829-riba-ton"
+        "id": 127
       },
       {
         "name": "кисели краставички",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/190690-krastavici"
+        "id": 44
       },
       {
         "name": "босилек",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/182424-bosilek"
+        "id": 25
       },
       {
         "name": "черен пипер",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+        "id": 2
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -2803,37 +2803,37 @@
       {
         "name": "кори за баница",
         "qty": "1/2 кг",
-        "id": "http://www.1001recepti.com/s/190554-kori-za-banica"
+        "id": 138
       },
       {
         "name": "яйца",
         "qty": "4",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "сирене",
         "qty": "300 г",
-        "id": "http://www.1001recepti.com/s/205659-sirene"
+        "id": 32
       },
       {
         "name": "праз лук",
         "qty": "3 стръка",
-        "id": "http://www.1001recepti.com/s/200402-praz-luk"
+        "id": 51
       },
       {
         "name": "олио",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "чубрица",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/212278-chubrica"
+        "id": 36
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -2880,32 +2880,32 @@
       {
         "name": "бутер тесто",
         "qty": "300 г",
-        "id": "http://www.1001recepti.com/s/182712-buter-testo"
+        "id": 117
       },
       {
         "name": "патладжан",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/196808-patladjan"
+        "id": 71
       },
       {
         "name": "моцарела",
         "qty": "50 г",
-        "id": "http://www.1001recepti.com/s/194019-mocarela"
+        "id": 93
       },
       {
         "name": "риган",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/202962-rigan"
+        "id": 65
       },
       {
         "name": "жълтък",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/362535-iaichen-jultuk"
+        "id": 33
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -2952,32 +2952,32 @@
       {
         "name": "брашно",
         "qty": "400 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "масло",
         "qty": "200 г",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "яйце",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "сода",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/349459-soda-za-hliab"
+        "id": 56
       },
       {
         "name": "червени чушки",
         "qty": "200 г",
-        "id": "http://www.1001recepti.com/s/212296-chushki"
+        "id": 18
       },
       {
         "name": "сол",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -3025,37 +3025,37 @@
       {
         "name": "брашно",
         "qty": "450 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "масло",
         "qty": "200 г",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "пресен лук",
         "qty": "150 г",
-        "id": "http://www.1001recepti.com/s/200572-presen-luk"
+        "id": 24
       },
       {
         "name": "сусам",
         "qty": "4 с.л.",
-        "id": "http://www.1001recepti.com/s/208273-susam"
+        "id": 113
       },
       {
         "name": "яйце",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "сода",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/349459-soda-za-hliab"
+        "id": 56
       },
       {
         "name": "сол",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -3103,37 +3103,37 @@
       {
         "name": "брашно",
         "qty": "400 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "масло",
         "qty": "125 г",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "яйце",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "гъби",
         "qty": "150 г",
-        "id": "http://www.1001recepti.com/s/184313-gubi"
+        "id": 37
       },
       {
         "name": "чубрица",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/212278-chubrica"
+        "id": 36
       },
       {
         "name": "сода",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/349459-soda-za-hliab"
+        "id": 56
       },
       {
         "name": "сол",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -3180,32 +3180,32 @@
       {
         "name": "брашно",
         "qty": "400 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "масло",
         "qty": "200 г",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "спанак",
         "qty": "200 г",
-        "id": "http://www.1001recepti.com/s/207509-spanak"
+        "id": 40
       },
       {
         "name": "яйце",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "сода",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/349459-soda-za-hliab"
+        "id": 56
       },
       {
         "name": "сол",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -3256,52 +3256,52 @@
       {
         "name": "брашно",
         "qty": "1 кг",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "яйца",
         "qty": "3",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "прясно мляко",
         "qty": "300 мл.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "кисело мляко",
         "qty": "5 с.л.",
-        "id": "http://www.1001recepti.com/s/189828-kiselo-mliako"
+        "id": 21
       },
       {
         "name": "мая",
         "qty": "1/2 опак.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "захар",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "сол",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "сусам",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/208273-susam"
+        "id": 113
       },
       {
         "name": "маково семе",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/192839-makovo-seme"
+        "id": 182
       },
       {
         "name": "жълтък",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/362535-iaichen-jultuk"
+        "id": 33
       }
     ]
   },
@@ -3353,57 +3353,57 @@
       {
         "name": "бяло брашно",
         "qty": "2 ч.ч.",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "царевично брашно",
         "qty": "1 ч.ч.",
-        "id": "http://www.1001recepti.com/s/211558-carevichno-brashno"
+        "id": 169
       },
       {
         "name": "кисело мляко",
         "qty": "2 ч.ч.",
-        "id": "http://www.1001recepti.com/s/189828-kiselo-mliako"
+        "id": 21
       },
       {
         "name": "сол",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "захар",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "сода",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/349459-soda-za-hliab"
+        "id": 56
       },
       {
         "name": "ленено семе",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/192133-leneno-seme"
+        "id": 245
       },
       {
         "name": "сусам",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/208273-susam"
+        "id": 113
       },
       {
         "name": "маково семе",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/192839-makovo-seme"
+        "id": 182
       },
       {
         "name": "сирене",
         "qty": "250 г",
-        "id": "http://www.1001recepti.com/s/205659-sirene"
+        "id": 32
       },
       {
         "name": "олио",
         "qty": "1/2 к.ч.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       }
     ]
   },
@@ -3454,32 +3454,32 @@
       {
         "name": "брашно",
         "qty": "400 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "кисело мляко",
         "qty": "400 г",
-        "id": "http://www.1001recepti.com/s/189828-kiselo-mliako"
+        "id": 21
       },
       {
         "name": "сода",
         "qty": "1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/349459-soda-za-hliab"
+        "id": 56
       },
       {
         "name": "сол",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "бакпулвер",
         "qty": "1 опак.",
-        "id": "http://www.1001recepti.com/s/225121-bakpulver"
+        "id": 29
       },
       {
         "name": "олио",
         "qty": "1 к.ч.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       }
     ]
   },
@@ -3531,57 +3531,57 @@
       {
         "name": "брашно",
         "qty": "600 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "сол",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "мая",
         "qty": "5 г",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "вода",
         "qty": "100 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "сода",
         "qty": "1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/349459-soda-za-hliab"
+        "id": 56
       },
       {
         "name": "вода",
         "qty": "300 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "канела",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/187922-kanela"
+        "id": 46
       },
       {
         "name": "захар",
         "qty": "250 г",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "олио",
         "qty": "150 мл.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "тиква",
         "qty": "400 г",
-        "id": "http://www.1001recepti.com/s/209349-tikva"
+        "id": 116
       },
       {
         "name": "галета",
         "qty": "1 к.ч.",
-        "id": "http://www.1001recepti.com/s/183577-galeta"
+        "id": 58
       }
     ]
   },
@@ -3630,42 +3630,42 @@
       {
         "name": "брашно",
         "qty": "600",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "сол",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "мая",
         "qty": "5 г",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "вода",
         "qty": "100 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "сода",
         "qty": "1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/349459-soda-za-hliab"
+        "id": 56
       },
       {
         "name": "вода",
         "qty": "300 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "сирене",
         "qty": "400 г",
-        "id": "http://www.1001recepti.com/s/205659-sirene"
+        "id": 32
       },
       {
         "name": "олио",
         "qty": "150 мл.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       }
     ]
   },
@@ -3755,67 +3755,67 @@
       {
         "name": "бяло брашно",
         "qty": "1/2 кг",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "яйца",
         "qty": "4",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "жълтъка",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/362535-iaichen-jultuk"
+        "id": 33
       },
       {
         "name": "прясно мляко",
         "qty": "120 мл.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "вода",
         "qty": "80 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "суха мая",
         "qty": "15 г",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "масло",
         "qty": "150 г",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "захар",
         "qty": "130 г",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "сушени плодове",
         "qty": "300 г",
-        "id": "http://www.1001recepti.com/s/208368-susheni-kaisii"
+        "id": 149
       },
       {
         "name": "кора от лимон",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/225100-limonova-kora"
+        "id": 107
       },
       {
         "name": "ванилия",
         "qty": "2 опак.",
-        "id": "http://www.1001recepti.com/s/183033-vaniliia"
+        "id": 23
       },
       {
         "name": "сол",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "жълтък",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/362535-iaichen-jultuk"
+        "id": 33
       }
     ]
   },
@@ -3870,32 +3870,32 @@
       {
         "name": "брашно",
         "qty": "1 кг",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "вода",
         "qty": "1/2 л.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "сол",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "сода",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/349459-soda-za-hliab"
+        "id": 56
       },
       {
         "name": "оцет",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/195631-ocet"
+        "id": 61
       },
       {
         "name": "олио",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       }
     ]
   },
@@ -3941,27 +3941,27 @@
       {
         "name": "брашно",
         "qty": "1 кг",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "мая",
         "qty": "20 г",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "сол",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "сусам",
         "qty": "4 с.л.",
-        "id": "http://www.1001recepti.com/s/208273-susam"
+        "id": 113
       },
       {
         "name": "вода",
         "qty": "2 ч.ч.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -4017,37 +4017,37 @@
       {
         "name": "пълнозърнесто брашно",
         "qty": "350 г",
-        "id": "http://www.1001recepti.com/s/201372-pulnozurnesto-brashno"
+        "id": 237
       },
       {
         "name": "типово брашно",
         "qty": "350 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "суха мая",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "вода",
         "qty": "1/2 л.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "сол",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "тиквени семки",
         "qty": "20 г",
-        "id": "http://www.1001recepti.com/s/209436-tikveni-semki"
+        "id": 189
       },
       {
         "name": "ленено семе",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/192133-leneno-seme"
+        "id": 245
       }
     ]
   },
@@ -4099,37 +4099,37 @@
       {
         "name": "бяло брашно",
         "qty": "550 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "пълнозърнесто брашно",
         "qty": "140 г",
-        "id": "http://www.1001recepti.com/s/201372-pulnozurnesto-brashno"
+        "id": 237
       },
       {
         "name": "вода",
         "qty": "400 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "сол",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "захар",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "суха мая",
         "qty": "2 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "орехи",
         "qty": "150 г",
-        "id": "http://www.1001recepti.com/s/195111-orehi"
+        "id": 31
       }
     ]
   },
@@ -4180,32 +4180,32 @@
       {
         "name": "бяло брашно",
         "qty": "420 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "пшеничени трици",
         "qty": "200 г",
-        "id": "http://www.1001recepti.com/s/364547-pshenicheni-trici"
+        "id": 399
       },
       {
         "name": "суха мая",
         "qty": "2 1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "сол",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "вода",
         "qty": "460 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "олио",
         "qty": "1/2 с.л.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       }
     ]
   },
@@ -4259,47 +4259,47 @@
       {
         "name": "брашно",
         "qty": "1 кг",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "вода",
         "qty": "150 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "сол",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "захар",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "мая",
         "qty": "1/2 опак.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "олио",
         "qty": "3 с.л.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "олио",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "вода",
         "qty": "400 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "жълтъка",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/362535-iaichen-jultuk"
+        "id": 33
       }
     ]
   },
@@ -4350,52 +4350,52 @@
       {
         "name": "брашно",
         "qty": "1 кг",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "мая",
         "qty": "1/2 опак.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "вода",
         "qty": "150 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "сол",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "захар",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "олио",
         "qty": "3 с.л.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "олио",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "вода",
         "qty": "400 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "жълтъка",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/362535-iaichen-jultuk"
+        "id": 33
       },
       {
         "name": "сусам",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/208273-susam"
+        "id": 113
       }
     ]
   },
@@ -4451,37 +4451,37 @@
       {
         "name": "брашно",
         "qty": "1 кг",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "вода",
         "qty": "150 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "мая",
         "qty": "1/2 опак.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "сол",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "захар",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "олио",
         "qty": "3 с.л.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "вода",
         "qty": "400 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -4537,37 +4537,37 @@
       {
         "name": "бяло брашно",
         "qty": "640 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "суха мая",
         "qty": "1 1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "сол",
         "qty": "2 1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "захар",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "олио",
         "qty": "3 с.л.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "вода",
         "qty": "340 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "черни маслини",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/193230-maslini"
+        "id": 50
       }
     ]
   },
@@ -4617,27 +4617,27 @@
       {
         "name": "бяло брашно",
         "qty": "200 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "ръжено брашно",
         "qty": "1/2 кг",
-        "id": "http://www.1001recepti.com/s/203386-rujeno-brashno"
+        "id": 217
       },
       {
         "name": "суха мая",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "сол",
         "qty": "2 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "вода",
         "qty": "600 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -4698,62 +4698,62 @@
       {
         "name": "пшенично брашно",
         "qty": "200 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "пълнозърнесто брашно",
         "qty": "230 г",
-        "id": "http://www.1001recepti.com/s/201372-pulnozurnesto-brashno"
+        "id": 237
       },
       {
         "name": "ръжено брашно",
         "qty": "230 г",
-        "id": "http://www.1001recepti.com/s/203386-rujeno-brashno"
+        "id": 217
       },
       {
         "name": "суха мая",
         "qty": "2 1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "сол",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "мед",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/193286-med"
+        "id": 38
       },
       {
         "name": "зехтин",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/186978-zehtin"
+        "id": 10
       },
       {
         "name": "вода",
         "qty": "480 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "ленено семе",
         "qty": "30 г",
-        "id": "http://www.1001recepti.com/s/192133-leneno-seme"
+        "id": 245
       },
       {
         "name": "слънчогледови семки",
         "qty": "30 г",
-        "id": "http://www.1001recepti.com/s/206677-slunchogledovi-semki"
+        "id": 147
       },
       {
         "name": "орехи",
         "qty": "30 г",
-        "id": "http://www.1001recepti.com/s/195111-orehi"
+        "id": 31
       },
       {
         "name": "маково семе",
         "qty": "20 г",
-        "id": "http://www.1001recepti.com/s/192839-makovo-seme"
+        "id": 182
       }
     ]
   },
@@ -4805,37 +4805,37 @@
       {
         "name": "бяло брашно",
         "qty": "600 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "суха мая",
         "qty": "1 1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "сол",
         "qty": "2 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "захар",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "сухо мляко",
         "qty": "2 1/2 с.л.",
-        "id": "http://www.1001recepti.com/s/206695-smetana"
+        "id": 19
       },
       {
         "name": "олио",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "вода",
         "qty": "325 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -4893,47 +4893,47 @@
       {
         "name": "пълнозърнесто брашно",
         "qty": "450 г",
-        "id": "http://www.1001recepti.com/s/201372-pulnozurnesto-brashno"
+        "id": 237
       },
       {
         "name": "пшенично брашно",
         "qty": "250 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "суха мая",
         "qty": "1 1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "сол",
         "qty": "2 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "захар",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "олио",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "прясно мляко",
         "qty": "200 мл.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "вода",
         "qty": "190 г",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "сушени чушки",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/208378-susheni-chushki"
+        "id": 238
       }
     ]
   },
@@ -5015,67 +5015,67 @@
       {
         "name": "пшенично брашно",
         "qty": "155 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "ръжено брашно",
         "qty": "210 г",
-        "id": "http://www.1001recepti.com/s/203386-rujeno-brashno"
+        "id": 217
       },
       {
         "name": "пълнозърнесто брашно",
         "qty": "110 г",
-        "id": "http://www.1001recepti.com/s/201372-pulnozurnesto-brashno"
+        "id": 237
       },
       {
         "name": "пшеничен зародиш",
         "qty": "20 г",
-        "id": "http://www.1001recepti.com/s/241831-pshenichen-zarodish"
+        "id": 362
       },
       {
         "name": "суха мая",
         "qty": "3 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "вода",
         "qty": "210 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "кисело мляко",
         "qty": "125 г",
-        "id": "http://www.1001recepti.com/s/189828-kiselo-mliako"
+        "id": 21
       },
       {
         "name": "соево олио",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "захар",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "сол",
         "qty": "2 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "сухо мляко",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/206695-smetana"
+        "id": 19
       },
       {
         "name": "ленено семе",
         "qty": "55 г",
-        "id": "http://www.1001recepti.com/s/192133-leneno-seme"
+        "id": 245
       },
       {
         "name": "слънчогледови семки",
         "qty": "40 г",
-        "id": "http://www.1001recepti.com/s/206677-slunchogledovi-semki"
+        "id": 147
       }
     ]
   },
@@ -5125,27 +5125,27 @@
       {
         "name": "пшенично брашно",
         "qty": "650 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "ръжено брашно",
         "qty": "50 г",
-        "id": "http://www.1001recepti.com/s/203386-rujeno-brashno"
+        "id": 217
       },
       {
         "name": "вода",
         "qty": "450 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "суха мая",
         "qty": "3/4 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "сол",
         "qty": "2 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -5212,32 +5212,32 @@
       {
         "name": "пшенично брашно",
         "qty": "380 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "ръжено брашно",
         "qty": "70 г",
-        "id": "http://www.1001recepti.com/s/203386-rujeno-brashno"
+        "id": 217
       },
       {
         "name": "суха мая",
         "qty": "1 1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "вода",
         "qty": "340 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "сол",
         "qty": "1 1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "захар",
         "qty": "1 1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       }
     ]
   },
@@ -5304,32 +5304,32 @@
       {
         "name": "пшенично брашно",
         "qty": "210 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "ръжено брашно",
         "qty": "40 г",
-        "id": "http://www.1001recepti.com/s/203386-rujeno-brashno"
+        "id": 217
       },
       {
         "name": "суха мая",
         "qty": "3/4 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "вода",
         "qty": "190 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "сол",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "захар",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       }
     ]
   },
@@ -5395,47 +5395,47 @@
       {
         "name": "брашно",
         "qty": "1 кг",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "вода",
         "qty": "150 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "сол",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "захар",
         "qty": "150 г",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "мая",
         "qty": "1/2 опак.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "олио",
         "qty": "3 с.л.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "олио",
         "qty": "150 мл.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "вода",
         "qty": "400 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "жълтъка",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/362535-iaichen-jultuk"
+        "id": 33
       }
     ]
   },
@@ -5502,52 +5502,52 @@
       {
         "name": "брашно",
         "qty": "1 кг",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "вода",
         "qty": "150 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "сол",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "захар",
         "qty": "150 г",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "мая",
         "qty": "1/2 опак.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "олио",
         "qty": "3 с.л.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "олио",
         "qty": "150 мл.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "вода",
         "qty": "400 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "жълтъка",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/362535-iaichen-jultuk"
+        "id": 33
       },
       {
         "name": "сусам",
         "qty": "4 с.л.",
-        "id": "http://www.1001recepti.com/s/208273-susam"
+        "id": 113
       }
     ]
   },
@@ -5610,52 +5610,52 @@
       {
         "name": "гъби",
         "qty": "150 г",
-        "id": "http://www.1001recepti.com/s/184313-gubi"
+        "id": 37
       },
       {
         "name": "праз",
         "qty": "1 стрък",
-        "id": "http://www.1001recepti.com/s/200402-praz-luk"
+        "id": 51
       },
       {
         "name": "лук",
         "qty": "1 глава",
-        "id": "http://www.1001recepti.com/s/192500-luk"
+        "id": 3
       },
       {
         "name": "олио",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "брашно",
         "qty": "1 1/2 ч.ч.",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "яйце",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "прясно мляко",
         "qty": "1/2 ч.ч.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "бакпулвер",
         "qty": "1/2 опак.",
-        "id": "http://www.1001recepti.com/s/225121-bakpulver"
+        "id": 29
       },
       {
         "name": "сол",
         "qty": "1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "олио",
         "qty": "1/4 ч.ч.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       }
     ]
   },
@@ -5722,52 +5722,52 @@
       {
         "name": "брашно",
         "qty": "1/2 кг",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "сол",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "оцет",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/195631-ocet"
+        "id": 61
       },
       {
         "name": "олио",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "вода",
         "qty": "250 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "кисело зеле",
         "qty": "600 г",
-        "id": "http://www.1001recepti.com/s/200728-priasno-zele"
+        "id": 94
       },
       {
         "name": "свинско месо",
         "qty": "1 кг",
-        "id": "http://www.1001recepti.com/s/205140-svinsko-meso"
+        "id": 67
       },
       {
         "name": "вода",
         "qty": "100 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "олио",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "черен пипер",
         "qty": "1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+        "id": 2
       }
     ]
   },
@@ -5832,22 +5832,22 @@
       {
         "name": "пшенично брашно",
         "qty": "1/2 кг",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "суха мая",
         "qty": "3/4 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "сол",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "вода",
         "qty": "320 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -5914,32 +5914,32 @@
       {
         "name": "пшенично брашно",
         "qty": "600 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "ръжено брашно",
         "qty": "50 г",
-        "id": "http://www.1001recepti.com/s/203386-rujeno-brashno"
+        "id": 217
       },
       {
         "name": "вода",
         "qty": "420 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "суха мая",
         "qty": "3/4 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "сол",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "сусам",
         "qty": "3 с.л.",
-        "id": "http://www.1001recepti.com/s/208273-susam"
+        "id": 113
       }
     ]
   },
@@ -6004,22 +6004,22 @@
       {
         "name": "пшенично брашно",
         "qty": "1/2 кг",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "суха мая",
         "qty": "3/4 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "сол",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "вода",
         "qty": "320 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -6079,57 +6079,57 @@
       {
         "name": "типово брашно",
         "qty": "300 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "ръжено брашно",
         "qty": "190 г",
-        "id": "http://www.1001recepti.com/s/203386-rujeno-brashno"
+        "id": 217
       },
       {
         "name": "пшеничен зародиш",
         "qty": "4 с.л.",
-        "id": "http://www.1001recepti.com/s/241831-pshenichen-zarodish"
+        "id": 362
       },
       {
         "name": "целина",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/211664-celina"
+        "id": 30
       },
       {
         "name": "джинджифил",
         "qty": "2 ч.л.",
-        "id": "http://www.1001recepti.com/s/185011-djindjifil"
+        "id": 84
       },
       {
         "name": "мляко",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "вода",
         "qty": "150 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "суха мая",
         "qty": "2 1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "мед",
         "qty": "3 с.л.",
-        "id": "http://www.1001recepti.com/s/193286-med"
+        "id": 38
       },
       {
         "name": "сол",
         "qty": "1 1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "олио",
         "qty": "3 с.л.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       }
     ]
   },
@@ -6180,32 +6180,32 @@
       {
         "name": "типово брашно",
         "qty": "400 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "грис",
         "qty": "150 г",
-        "id": "http://www.1001recepti.com/s/184066-gris"
+        "id": 140
       },
       {
         "name": "суха мая",
         "qty": "2 1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "захар",
         "qty": "1 1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "сол",
         "qty": "1 1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "вода",
         "qty": "250 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -6266,42 +6266,42 @@
       {
         "name": "брашно",
         "qty": "400 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "бира",
         "qty": "350 мл.",
-        "id": "http://www.1001recepti.com/s/181759-bira"
+        "id": 137
       },
       {
         "name": "маслини",
         "qty": "200 г",
-        "id": "http://www.1001recepti.com/s/193230-maslini"
+        "id": 50
       },
       {
         "name": "магданоз",
         "qty": "1 връзка",
-        "id": "http://www.1001recepti.com/s/192612-magdanoz"
+        "id": 12
       },
       {
         "name": "масло",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "захар",
         "qty": "3 ч.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "сол",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "бакпулвер",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/225121-bakpulver"
+        "id": 29
       }
     ]
   },
@@ -6360,52 +6360,52 @@
       {
         "name": "ръжено брашно",
         "qty": "350 г",
-        "id": "http://www.1001recepti.com/s/203386-rujeno-brashno"
+        "id": 217
       },
       {
         "name": "бяло брашно",
         "qty": "150 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "суха мая",
         "qty": "2 1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "вода",
         "qty": "250 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "сол",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "захар",
         "qty": "1 1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "зехтин",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/186978-zehtin"
+        "id": 10
       },
       {
         "name": "сирене",
         "qty": "75 г",
-        "id": "http://www.1001recepti.com/s/205659-sirene"
+        "id": 32
       },
       {
         "name": "зелени маслини",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/193230-maslini"
+        "id": 50
       },
       {
         "name": "сушени домати",
         "qty": "3 с.л.",
-        "id": "http://www.1001recepti.com/s/208367-susheni-domati"
+        "id": 121
       }
     ]
   },
@@ -6455,27 +6455,27 @@
       {
         "name": "бяло брашно",
         "qty": "450 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "суха мая",
         "qty": "1 1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "сол",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "зехтин",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/186978-zehtin"
+        "id": 10
       },
       {
         "name": "вода",
         "qty": "225 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -6527,37 +6527,37 @@
       {
         "name": "бяло брашно",
         "qty": "410 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "пълнозърнесто брашно",
         "qty": "160 г",
-        "id": "http://www.1001recepti.com/s/201372-pulnozurnesto-brashno"
+        "id": 237
       },
       {
         "name": "меласа",
         "qty": "4 с.л.",
-        "id": "http://www.1001recepti.com/s/216462-melasa"
+        "id": 339
       },
       {
         "name": "лимонов сок",
         "qty": "1 1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/192380-limonov-sok"
+        "id": 17
       },
       {
         "name": "сол",
         "qty": "2 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "масло",
         "qty": "35 г",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "суха мая",
         "qty": "1 1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       }
     ]
   },
@@ -6613,57 +6613,57 @@
       {
         "name": "бяло брашно",
         "qty": "400 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "ръжено брашно",
         "qty": "200 г",
-        "id": "http://www.1001recepti.com/s/203386-rujeno-brashno"
+        "id": 217
       },
       {
         "name": "суха мая",
         "qty": "3 1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "вода",
         "qty": "100 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "прясно мляко",
         "qty": "185 мл.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "олио",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "меласа",
         "qty": "3 с.л.",
-        "id": "http://www.1001recepti.com/s/216462-melasa"
+        "id": 339
       },
       {
         "name": "индийско орехче",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/187321-indiisko-orehche"
+        "id": 120
       },
       {
         "name": "сол",
         "qty": "2 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "кора от портокал",
         "qty": "2 ч.л.",
-        "id": "http://www.1001recepti.com/s/200188-portokalovi-kori"
+        "id": 159
       },
       {
         "name": "моркови",
         "qty": "130 г",
-        "id": "http://www.1001recepti.com/s/193952-morkovi"
+        "id": 13
       }
     ]
   },
@@ -6714,52 +6714,52 @@
       {
         "name": "брашно",
         "qty": "1 кг",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "вода",
         "qty": "150 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "сол",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "захар",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "мая",
         "qty": "1/2 опак.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "олио",
         "qty": "3 с.л.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "олио",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "вода",
         "qty": "400 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "жълтъка",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/362535-iaichen-jultuk"
+        "id": 33
       },
       {
         "name": "сусам",
         "qty": "3 с.л.",
-        "id": "http://www.1001recepti.com/s/208273-susam"
+        "id": 113
       }
     ]
   },
@@ -6820,42 +6820,42 @@
       {
         "name": "брашно",
         "qty": "400 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "бира",
         "qty": "350 мл.",
-        "id": "http://www.1001recepti.com/s/181759-bira"
+        "id": 137
       },
       {
         "name": "сушени домати",
         "qty": "150 г",
-        "id": "http://www.1001recepti.com/s/208367-susheni-domati"
+        "id": 121
       },
       {
         "name": "масло",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "захар",
         "qty": "3 ч.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "сол",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "бакпулвер",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/225121-bakpulver"
+        "id": 29
       },
       {
         "name": "сушен риган",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/202962-rigan"
+        "id": 65
       }
     ]
   },
@@ -6917,47 +6917,47 @@
       {
         "name": "брашно",
         "qty": "400 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "бира",
         "qty": "350 мл.",
-        "id": "http://www.1001recepti.com/s/181759-bira"
+        "id": 137
       },
       {
         "name": "масло",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "сушени домати",
         "qty": "150 г",
-        "id": "http://www.1001recepti.com/s/208367-susheni-domati"
+        "id": 121
       },
       {
         "name": "фъстъци",
         "qty": "50 г",
-        "id": "http://www.1001recepti.com/s/211141-fustuci"
+        "id": 196
       },
       {
         "name": "куркума",
         "qty": "1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/191532-kurkuma"
+        "id": 118
       },
       {
         "name": "захар",
         "qty": "3 ч.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "сол",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "бакпулвер",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/225121-bakpulver"
+        "id": 29
       }
     ]
   },
@@ -7014,42 +7014,42 @@
       {
         "name": "типово брашно",
         "qty": "430 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "картофено пюре на прах",
         "qty": "125 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "прясно мляко",
         "qty": "55 мл.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "вода",
         "qty": "230 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "олио",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "мед",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/193286-med"
+        "id": 38
       },
       {
         "name": "сол",
         "qty": "2 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "суха мая",
         "qty": "2 1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       }
     ]
   },
@@ -7131,47 +7131,47 @@
       {
         "name": "брашно",
         "qty": "800 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "вода",
         "qty": "400 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "мая",
         "qty": "30 г",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "захар",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "сол",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "зехтин",
         "qty": "125 мл.",
-        "id": "http://www.1001recepti.com/s/186978-zehtin"
+        "id": 10
       },
       {
         "name": "сушени домати",
         "qty": "150 г",
-        "id": "http://www.1001recepti.com/s/208367-susheni-domati"
+        "id": 121
       },
       {
         "name": "босилек",
         "qty": "1 връзка",
-        "id": "http://www.1001recepti.com/s/182424-bosilek"
+        "id": 25
       },
       {
         "name": "чери домати",
         "qty": "200 г",
-        "id": "http://www.1001recepti.com/s/185321-domati"
+        "id": 15
       }
     ]
   },
@@ -7244,42 +7244,42 @@
       {
         "name": "бяло брашно",
         "qty": "475 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "захар",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "сол",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "суха мая",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "зехтин",
         "qty": "3 с.л.",
-        "id": "http://www.1001recepti.com/s/186978-zehtin"
+        "id": 10
       },
       {
         "name": "вода",
         "qty": "275 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "пресен розмарин",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/203088-rozmarin"
+        "id": 77
       },
       {
         "name": "морска сол",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -7352,42 +7352,42 @@
       {
         "name": "бяло брашно",
         "qty": "475 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "захар",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "сол",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "суха мая",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "зехтин",
         "qty": "3 с.л.",
-        "id": "http://www.1001recepti.com/s/186978-zehtin"
+        "id": 10
       },
       {
         "name": "вода",
         "qty": "275 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "домат",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/185321-domati"
+        "id": 15
       },
       {
         "name": "риган",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/202962-rigan"
+        "id": 65
       }
     ]
   },
@@ -7467,57 +7467,57 @@
       {
         "name": "бяло брашно",
         "qty": "125 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "захар",
         "qty": "1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "суха мая",
         "qty": "1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "вода",
         "qty": "150 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "сухо мляко",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/206695-smetana"
+        "id": 19
       },
       {
         "name": "зехтин",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/186978-zehtin"
+        "id": 10
       },
       {
         "name": "бяло брашно",
         "qty": "375 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "сол",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "захар",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "суха мая",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "вода",
         "qty": "250 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -7579,47 +7579,47 @@
       {
         "name": "вода",
         "qty": "200 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "бяло брашно",
         "qty": "250 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "грис",
         "qty": "75 г",
-        "id": "http://www.1001recepti.com/s/184066-gris"
+        "id": 140
       },
       {
         "name": "анасон",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/180792-anason"
+        "id": 340
       },
       {
         "name": "сол",
         "qty": "1 1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "захар",
         "qty": "1 1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "суха мая",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "зехтин",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/186978-zehtin"
+        "id": 10
       },
       {
         "name": "сусам",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/208273-susam"
+        "id": 113
       }
     ]
   },
@@ -7688,42 +7688,42 @@
       {
         "name": "вода",
         "qty": "240 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "зехтин",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/186978-zehtin"
+        "id": 10
       },
       {
         "name": "бяло брашно",
         "qty": "450 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "сол",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "захар",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "суха мая",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "жълтък",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/362535-iaichen-jultuk"
+        "id": 33
       },
       {
         "name": "вода",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -7802,52 +7802,52 @@
       {
         "name": "бяло брашно",
         "qty": "325 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "ръжено брашно",
         "qty": "75 г",
-        "id": "http://www.1001recepti.com/s/203386-rujeno-brashno"
+        "id": 217
       },
       {
         "name": "захар",
         "qty": "2 ч.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "сол",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "суха мая",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "вода",
         "qty": "275 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "сол",
         "qty": "3 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "захар",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "вода",
         "qty": "3 с.л.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "морска сол",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -7907,37 +7907,37 @@
       {
         "name": "бяло брашно",
         "qty": "450 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "грис",
         "qty": "200 г",
-        "id": "http://www.1001recepti.com/s/184066-gris"
+        "id": 140
       },
       {
         "name": "суха мая",
         "qty": "2 1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "захар",
         "qty": "1 1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "сол",
         "qty": "1 1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "вода",
         "qty": "250 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "олио",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       }
     ]
   },
@@ -7994,42 +7994,42 @@
       {
         "name": "бяло брашно",
         "qty": "360 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "ръжено брашно",
         "qty": "90 г",
-        "id": "http://www.1001recepti.com/s/203386-rujeno-brashno"
+        "id": 217
       },
       {
         "name": "вода",
         "qty": "290 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "сол",
         "qty": "1 1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "захар",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "суха мая",
         "qty": "1 1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "сушени сливи",
         "qty": "80 г",
-        "id": "http://www.1001recepti.com/s/224929-susheni-slivi"
+        "id": 229
       },
       {
         "name": "орехи",
         "qty": "80 г",
-        "id": "http://www.1001recepti.com/s/195111-orehi"
+        "id": 31
       }
     ]
   },
@@ -8089,37 +8089,37 @@
       {
         "name": "бяло брашно",
         "qty": "380 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "ръжено брашно",
         "qty": "70 г",
-        "id": "http://www.1001recepti.com/s/203386-rujeno-brashno"
+        "id": 217
       },
       {
         "name": "вода",
         "qty": "315 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "сол",
         "qty": "1 1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "мед",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/193286-med"
+        "id": 38
       },
       {
         "name": "суха мая",
         "qty": "1 1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "овесени ядки",
         "qty": "45 г",
-        "id": "http://www.1001recepti.com/s/194899-oveseni-iadki"
+        "id": 135
       }
     ]
   },
@@ -8194,52 +8194,52 @@
       {
         "name": "бяло брашно",
         "qty": "430 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "мляко",
         "qty": "60 мл.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "яйца",
         "qty": "3",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "масло",
         "qty": "80 г",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "сол",
         "qty": "1 1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "захар",
         "qty": "50 г",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "суха мая",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "стафиди",
         "qty": "50 г",
-        "id": "http://www.1001recepti.com/s/207748-stafidi"
+        "id": 69
       },
       {
         "name": "сушени кайсии",
         "qty": "50 г",
-        "id": "http://www.1001recepti.com/s/208368-susheni-kaisii"
+        "id": 149
       },
       {
         "name": "захар",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       }
     ]
   },
@@ -8306,52 +8306,52 @@
       {
         "name": "бяло брашно",
         "qty": "430 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "мляко",
         "qty": "60 мл.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "яйца",
         "qty": "3",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "масло",
         "qty": "80 г",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "сол",
         "qty": "1 1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "захар",
         "qty": "50 г",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "суха мая",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "стафиди",
         "qty": "50 г",
-        "id": "http://www.1001recepti.com/s/207748-stafidi"
+        "id": 69
       },
       {
         "name": "сушена папая",
         "qty": "50 г",
-        "id": "http://www.1001recepti.com/s/364826-susheni-praskovi"
+        "id": 400
       },
       {
         "name": "филирани бадеми",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/181093-bademi"
+        "id": 82
       }
     ]
   },
@@ -8401,27 +8401,27 @@
       {
         "name": "пшенично брашно",
         "qty": "330 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "пълнозърнесто брашно",
         "qty": "200 г",
-        "id": "http://www.1001recepti.com/s/201372-pulnozurnesto-brashno"
+        "id": 237
       },
       {
         "name": "вода",
         "qty": "340 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "суха мая",
         "qty": "1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "сол",
         "qty": "1 1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -8482,62 +8482,62 @@
       {
         "name": "вода",
         "qty": "430 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "олио",
         "qty": "3 с.л.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "меласа",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/216462-melasa"
+        "id": 339
       },
       {
         "name": "ръжено брашно",
         "qty": "200 г",
-        "id": "http://www.1001recepti.com/s/203386-rujeno-brashno"
+        "id": 217
       },
       {
         "name": "бяло брашно",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "пълнозърнесто брашно",
         "qty": "300 г",
-        "id": "http://www.1001recepti.com/s/201372-pulnozurnesto-brashno"
+        "id": 237
       },
       {
         "name": "овесени ядки",
         "qty": "4 с.л.",
-        "id": "http://www.1001recepti.com/s/194899-oveseni-iadki"
+        "id": 135
       },
       {
         "name": "какао",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/187777-kakao"
+        "id": 45
       },
       {
         "name": "разтворимо кафе",
         "qty": "3 с.л.",
-        "id": "http://www.1001recepti.com/s/225117-instantno-kafe"
+        "id": 272
       },
       {
         "name": "кимион",
         "qty": "2 ч.л.",
-        "id": "http://www.1001recepti.com/s/189725-kimion"
+        "id": 42
       },
       {
         "name": "сол",
         "qty": "2 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "мая",
         "qty": "2 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       }
     ]
   },
@@ -8610,42 +8610,42 @@
       {
         "name": "бяло брашно",
         "qty": "350 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "пълнозърнесто брашно",
         "qty": "115 г",
-        "id": "http://www.1001recepti.com/s/201372-pulnozurnesto-brashno"
+        "id": 237
       },
       {
         "name": "вода",
         "qty": "250 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "кисело мляко",
         "qty": "3 с.л.",
-        "id": "http://www.1001recepti.com/s/189828-kiselo-mliako"
+        "id": 21
       },
       {
         "name": "сол",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "суха мая",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "прясно мляко",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "просо",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/200698-proso"
+        "id": 310
       }
     ]
   },
@@ -8697,37 +8697,37 @@
       {
         "name": "бяло брашно",
         "qty": "1/2 кг",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "мляко на прах",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/206695-smetana"
+        "id": 19
       },
       {
         "name": "захар",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "сол",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "суха мая",
         "qty": "2 1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "олио",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "вода",
         "qty": "300",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -8781,47 +8781,47 @@
       {
         "name": "бяло брашно",
         "qty": "515 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "грис",
         "qty": "145 г",
-        "id": "http://www.1001recepti.com/s/184066-gris"
+        "id": 140
       },
       {
         "name": "мляко на прах",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/206695-smetana"
+        "id": 19
       },
       {
         "name": "захар",
         "qty": "1 1/2 с.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "сол",
         "qty": "1 1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "суха мая",
         "qty": "3 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "олио",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "вода",
         "qty": "400",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "слънчогледово семе",
         "qty": "3 с.л.",
-        "id": "http://www.1001recepti.com/s/206677-slunchogledovi-semki"
+        "id": 147
       }
     ]
   },
@@ -8894,42 +8894,42 @@
       {
         "name": "бяло брашно",
         "qty": "475 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "захар",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "сол",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "суха мая",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "зехтин",
         "qty": "3 с.л.",
-        "id": "http://www.1001recepti.com/s/186978-zehtin"
+        "id": 10
       },
       {
         "name": "вода",
         "qty": "275 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "зелени маслини",
         "qty": "3 с.л.",
-        "id": "http://www.1001recepti.com/s/193230-maslini"
+        "id": 50
       },
       {
         "name": "морска сол",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -8984,32 +8984,32 @@
       {
         "name": "пшенично брашно",
         "qty": "330 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "пълнозърнесто брашно",
         "qty": "200 г",
-        "id": "http://www.1001recepti.com/s/201372-pulnozurnesto-brashno"
+        "id": 237
       },
       {
         "name": "вода",
         "qty": "340 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "суха мая",
         "qty": "1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "сол",
         "qty": "1 1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "слънчогледово семе",
         "qty": "3 с.л.",
-        "id": "http://www.1001recepti.com/s/206677-slunchogledovi-semki"
+        "id": 147
       }
     ]
   },
@@ -9060,52 +9060,52 @@
       {
         "name": "яйца",
         "qty": "4",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "кисело мляко",
         "qty": "1 ч.ч.",
-        "id": "http://www.1001recepti.com/s/189828-kiselo-mliako"
+        "id": 21
       },
       {
         "name": "сода",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/349459-soda-za-hliab"
+        "id": 56
       },
       {
         "name": "лимонов сок",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/192380-limonov-sok"
+        "id": 17
       },
       {
         "name": "брашно",
         "qty": "2 ч.ч.",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "шунка",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/212873-shunka"
+        "id": 76
       },
       {
         "name": "яйца",
         "qty": "4",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "сирене",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/205659-sirene"
+        "id": 32
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "черен пипер",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+        "id": 2
       }
     ]
   },
@@ -9165,37 +9165,37 @@
       {
         "name": "бяло брашно",
         "qty": "430 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "суха мая",
         "qty": "2 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "захар",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "масло",
         "qty": "80 г",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "сол",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "яйца",
         "qty": "3",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "мляко",
         "qty": "60 мл.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       }
     ]
   },
@@ -9252,82 +9252,82 @@
       {
         "name": "брашно",
         "qty": "600 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "сол",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "мая",
         "qty": "5 г",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "вода",
         "qty": "100 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "сода",
         "qty": "1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/349459-soda-za-hliab"
+        "id": 56
       },
       {
         "name": "вода",
         "qty": "300 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "кайма",
         "qty": "1 кг",
-        "id": "http://www.1001recepti.com/s/187570-kaima"
+        "id": 54
       },
       {
         "name": "праз",
         "qty": "3 стръка",
-        "id": "http://www.1001recepti.com/s/200402-praz-luk"
+        "id": 51
       },
       {
         "name": "зелен лук",
         "qty": "1 връзка",
-        "id": "http://www.1001recepti.com/s/200572-presen-luk"
+        "id": 24
       },
       {
         "name": "магданоз",
         "qty": "1 връзка",
-        "id": "http://www.1001recepti.com/s/192612-magdanoz"
+        "id": 12
       },
       {
         "name": "чесън",
         "qty": "1 глава",
-        "id": "http://www.1001recepti.com/s/212113-chesun"
+        "id": 6
       },
       {
         "name": "кимион",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/189725-kimion"
+        "id": 42
       },
       {
         "name": "черен пипер",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+        "id": 2
       },
       {
         "name": "чубрица",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/212278-chubrica"
+        "id": 36
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "олио",
         "qty": "3 с.л.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       }
     ]
   },
@@ -9387,57 +9387,57 @@
       {
         "name": "кори за баница",
         "qty": "800 г",
-        "id": "http://www.1001recepti.com/s/190554-kori-za-banica"
+        "id": 138
       },
       {
         "name": "кайма",
         "qty": "600 г",
-        "id": "http://www.1001recepti.com/s/187570-kaima"
+        "id": 54
       },
       {
         "name": "праз",
         "qty": "2 стръка",
-        "id": "http://www.1001recepti.com/s/200402-praz-luk"
+        "id": 51
       },
       {
         "name": "зелен лук",
         "qty": "2 стръка",
-        "id": "http://www.1001recepti.com/s/200572-presen-luk"
+        "id": 24
       },
       {
         "name": "магданоз",
         "qty": "1/2 връзка",
-        "id": "http://www.1001recepti.com/s/192612-magdanoz"
+        "id": 12
       },
       {
         "name": "чесън",
         "qty": "6 скилидки",
-        "id": "http://www.1001recepti.com/s/212113-chesun"
+        "id": 6
       },
       {
         "name": "кимион",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/189725-kimion"
+        "id": 42
       },
       {
         "name": "черен пипер",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+        "id": 2
       },
       {
         "name": "чубрица",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/212278-chubrica"
+        "id": 36
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "олио",
         "qty": "3 с.л.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       }
     ]
   },
@@ -9499,47 +9499,47 @@
       {
         "name": "брашно",
         "qty": "600 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "сол",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "мая",
         "qty": "5 г",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "вода",
         "qty": "100 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "сода",
         "qty": "1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/349459-soda-za-hliab"
+        "id": 56
       },
       {
         "name": "вода",
         "qty": "300 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "сирене",
         "qty": "300 мл.",
-        "id": "http://www.1001recepti.com/s/205659-sirene"
+        "id": 32
       },
       {
         "name": "яйца",
         "qty": "6",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "олио",
         "qty": "100 мл.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       }
     ]
   },
@@ -9594,32 +9594,32 @@
       {
         "name": "брашно",
         "qty": "1/2 кг",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "кисело мляко",
         "qty": "400 г",
-        "id": "http://www.1001recepti.com/s/189828-kiselo-mliako"
+        "id": 21
       },
       {
         "name": "сода",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/349459-soda-za-hliab"
+        "id": 56
       },
       {
         "name": "захар",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "сол",
         "qty": "1/2 с.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "олио",
         "qty": "200 мл.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       }
     ]
   },
@@ -9682,52 +9682,52 @@
       {
         "name": "брашно",
         "qty": "600 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "сол",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "вода",
         "qty": "100 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "мая",
         "qty": "5 г",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "вода",
         "qty": "300 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "сода",
         "qty": "1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/349459-soda-za-hliab"
+        "id": 56
       },
       {
         "name": "яйца",
         "qty": "3",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "шунка",
         "qty": "200 г",
-        "id": "http://www.1001recepti.com/s/212873-shunka"
+        "id": 76
       },
       {
         "name": "праз",
         "qty": "2 стръка",
-        "id": "http://www.1001recepti.com/s/200402-praz-luk"
+        "id": 51
       },
       {
         "name": "олио",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       }
     ]
   },
@@ -9806,92 +9806,92 @@
       {
         "name": "брашно",
         "qty": "1 кг",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "мая",
         "qty": "25 г",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "яйца",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "прясно мляко",
         "qty": "1/2 л.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "вода",
         "qty": "1/2 л.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "олио",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "масло",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "сол",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "захар",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "яйца",
         "qty": "3",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "спанак",
         "qty": "1/2 кг",
-        "id": "http://www.1001recepti.com/s/207509-spanak"
+        "id": 40
       },
       {
         "name": "коприва",
         "qty": "1/2 кг",
-        "id": "http://www.1001recepti.com/s/190496-kopriva"
+        "id": 130
       },
       {
         "name": "кисело мляко",
         "qty": "400 г",
-        "id": "http://www.1001recepti.com/s/189828-kiselo-mliako"
+        "id": 21
       },
       {
         "name": "сирене",
         "qty": "400 г",
-        "id": "http://www.1001recepti.com/s/205659-sirene"
+        "id": 32
       },
       {
         "name": "лук",
         "qty": "3 глави",
-        "id": "http://www.1001recepti.com/s/192500-luk"
+        "id": 3
       },
       {
         "name": "чесън",
         "qty": "8 скилидки",
-        "id": "http://www.1001recepti.com/s/212113-chesun"
+        "id": 6
       },
       {
         "name": "олио",
         "qty": "4 с.л.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -9957,47 +9957,47 @@
       {
         "name": "брашно",
         "qty": "1/2 кг",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "яйца",
         "qty": "3",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "захар",
         "qty": "1 ч.ч.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "масло",
         "qty": "125 г",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "прясно мляко",
         "qty": "250 г",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "мая",
         "qty": "15 г",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "ванилия",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/183033-vaniliia"
+        "id": 23
       },
       {
         "name": "стафиди",
         "qty": "50 г",
-        "id": "http://www.1001recepti.com/s/207748-stafidi"
+        "id": 69
       },
       {
         "name": "лимонова кора",
         "qty": "3 с.л.",
-        "id": "http://www.1001recepti.com/s/225100-limonova-kora"
+        "id": 107
       }
     ]
   },
@@ -10056,32 +10056,32 @@
       {
         "name": "брашно",
         "qty": "3 ч.ч.",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "вода",
         "qty": "1 ч.ч.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "сода",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/349459-soda-za-hliab"
+        "id": 56
       },
       {
         "name": "сол",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "оцет",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/195631-ocet"
+        "id": 61
       },
       {
         "name": "олио",
         "qty": "5 с.л.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       }
     ]
   },
@@ -10150,62 +10150,62 @@
       {
         "name": "брашно",
         "qty": "650 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "мая",
         "qty": "1/2 опак.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "прясно мляко",
         "qty": "175 мл.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "захар",
         "qty": "200 г",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "яйца",
         "qty": "3",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "стафиди",
         "qty": "50 г",
-        "id": "http://www.1001recepti.com/s/207748-stafidi"
+        "id": 69
       },
       {
         "name": "масло",
         "qty": "40 г",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "свинска мас",
         "qty": "60 г",
-        "id": "http://www.1001recepti.com/s/204730-svinska-mas"
+        "id": 220
       },
       {
         "name": "ванилия",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/183033-vaniliia"
+        "id": 23
       },
       {
         "name": "сол",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "белтък",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/362534-iaicheni-beltuci"
+        "id": 157
       },
       {
         "name": "сусам",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/208273-susam"
+        "id": 113
       }
     ]
   },
@@ -10275,47 +10275,47 @@
       {
         "name": "брашно",
         "qty": "475 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "захар",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "сол",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "суха мая",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "зехтин",
         "qty": "3 с.л.",
-        "id": "http://www.1001recepti.com/s/186978-zehtin"
+        "id": 10
       },
       {
         "name": "вода",
         "qty": "275 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "моцарела",
         "qty": "150 г",
-        "id": "http://www.1001recepti.com/s/194019-mocarela"
+        "id": 93
       },
       {
         "name": "доматено пюре",
         "qty": "4 с.л.",
-        "id": "http://www.1001recepti.com/s/185315-domateno-pure"
+        "id": 35
       },
       {
         "name": "розмарин",
         "qty": "2 стръка",
-        "id": "http://www.1001recepti.com/s/203088-rozmarin"
+        "id": 77
       }
     ]
   },
@@ -10365,27 +10365,27 @@
       {
         "name": "бутер тесто",
         "qty": "400 г",
-        "id": "http://www.1001recepti.com/s/182712-buter-testo"
+        "id": 117
       },
       {
         "name": "кашкавал",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/189045-kashkaval"
+        "id": 47
       },
       {
         "name": "сол",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "жълтъка",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/362535-iaichen-jultuk"
+        "id": 33
       },
       {
         "name": "вода",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -10436,32 +10436,32 @@
       {
         "name": "готови кори",
         "qty": "600 г",
-        "id": "http://www.1001recepti.com/s/190554-kori-za-banica"
+        "id": 138
       },
       {
         "name": "сирене",
         "qty": "400 г",
-        "id": "http://www.1001recepti.com/s/205659-sirene"
+        "id": 32
       },
       {
         "name": "яйца",
         "qty": "4",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "газирана вода",
         "qty": "300 мл.",
-        "id": "http://www.1001recepti.com/s/183567-gazirana-voda"
+        "id": 199
       },
       {
         "name": "олио",
         "qty": "100 мл.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "розмарин",
         "qty": "2 стръка",
-        "id": "http://www.1001recepti.com/s/203088-rozmarin"
+        "id": 77
       }
     ]
   },
@@ -10530,42 +10530,42 @@
       {
         "name": "брашно",
         "qty": "475 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "захар",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "сол",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "суха мая",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "зехтин",
         "qty": "3 с.л.",
-        "id": "http://www.1001recepti.com/s/186978-zehtin"
+        "id": 10
       },
       {
         "name": "вода",
         "qty": "275 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "доматено пюре",
         "qty": "3 с.л.",
-        "id": "http://www.1001recepti.com/s/185315-domateno-pure"
+        "id": 35
       },
       {
         "name": "кашкавал",
         "qty": "150 г",
-        "id": "http://www.1001recepti.com/s/189045-kashkaval"
+        "id": 47
       }
     ]
   },
@@ -10620,32 +10620,32 @@
       {
         "name": "брашно",
         "qty": "1/2 кг",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "яйца",
         "qty": "3",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "кашкавал",
         "qty": "1/2 кг",
-        "id": "http://www.1001recepti.com/s/189045-kashkaval"
+        "id": 47
       },
       {
         "name": "кисело мляко",
         "qty": "250 г",
-        "id": "http://www.1001recepti.com/s/189828-kiselo-mliako"
+        "id": 21
       },
       {
         "name": "суха мая",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "сол",
         "qty": "1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -10698,42 +10698,42 @@
       {
         "name": "бяло брашно",
         "qty": "3 ч.ч.",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "кисело мляко",
         "qty": "2 ч.ч.",
-        "id": "http://www.1001recepti.com/s/189828-kiselo-mliako"
+        "id": 21
       },
       {
         "name": "сирене",
         "qty": "1 ч.ч.",
-        "id": "http://www.1001recepti.com/s/205659-sirene"
+        "id": 32
       },
       {
         "name": "масло",
         "qty": "1/2 ч.ч.",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "сол",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "захар",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "сода",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/349459-soda-za-hliab"
+        "id": 56
       },
       {
         "name": "морска сол",
         "qty": "1/2 с.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -10798,42 +10798,42 @@
       {
         "name": "пшенично брашно",
         "qty": "210 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "ръжено брашно",
         "qty": "40 г",
-        "id": "http://www.1001recepti.com/s/203386-rujeno-brashno"
+        "id": 217
       },
       {
         "name": "суха мая",
         "qty": "1/4 ч.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "вода",
         "qty": "190 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "захар",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "сол",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "кимион",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/189725-kimion"
+        "id": 42
       },
       {
         "name": "масло",
         "qty": "4 с.л.",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       }
     ]
   },
@@ -10897,37 +10897,37 @@
       {
         "name": "брашно",
         "qty": "1/2 кг",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "масло",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "мая",
         "qty": "1/4 опак.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "сол",
         "qty": "1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "вода",
         "qty": "200",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "захар",
         "qty": "1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "жълтък",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/362535-iaichen-jultuk"
+        "id": 33
       }
     ]
   },
@@ -11013,47 +11013,47 @@
       {
         "name": "брашно",
         "qty": "1 кг",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "мая",
         "qty": "1/2 опак.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "вода",
         "qty": "150 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "сол",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "захар",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "олио",
         "qty": "3 с.л.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "олио",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "вода",
         "qty": "400 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "жълтъка",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/362535-iaichen-jultuk"
+        "id": 33
       }
     ]
   },
@@ -11112,32 +11112,32 @@
       {
         "name": "брашно",
         "qty": "400 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "кисело мляко",
         "qty": "400 г",
-        "id": "http://www.1001recepti.com/s/189828-kiselo-mliako"
+        "id": 21
       },
       {
         "name": "олио",
         "qty": "100 мл.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "бакпулвер",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/225121-bakpulver"
+        "id": 29
       },
       {
         "name": "сода",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/349459-soda-za-hliab"
+        "id": 56
       },
       {
         "name": "сол",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -11203,47 +11203,47 @@
       {
         "name": "брашно",
         "qty": "1 кг",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "мая",
         "qty": "10 г",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "яйца",
         "qty": "3",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "прясно мляко",
         "qty": "400 мл.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "захар",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "олио",
         "qty": "150 мл.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "свинска мас",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/204730-svinska-mas"
+        "id": 220
       },
       {
         "name": "сирене",
         "qty": "400 г",
-        "id": "http://www.1001recepti.com/s/205659-sirene"
+        "id": 32
       },
       {
         "name": "яйца",
         "qty": "3",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       }
     ]
   },
@@ -11309,27 +11309,27 @@
       {
         "name": "хляб",
         "qty": "12 филии",
-        "id": "http://www.1001recepti.com/s/211322-hliab"
+        "id": 66
       },
       {
         "name": "прясно мляко",
         "qty": "250 мл.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "яйца",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "канела",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/187922-kanela"
+        "id": 46
       },
       {
         "name": "олио",
         "qty": "100 мл.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       }
     ]
   },
@@ -11403,47 +11403,47 @@
       {
         "name": "брашно",
         "qty": "1 кг",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "мая",
         "qty": "10 г",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "вода",
         "qty": "150 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "сол",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "захар",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "олио",
         "qty": "100 мл.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "вода",
         "qty": "400 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "бадеми",
         "qty": "30 г",
-        "id": "http://www.1001recepti.com/s/181093-bademi"
+        "id": 82
       },
       {
         "name": "жълтъка",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/362535-iaichen-jultuk"
+        "id": 33
       }
     ]
   },
@@ -11518,52 +11518,52 @@
       {
         "name": "брашно",
         "qty": "1 кг",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "мая",
         "qty": "1/2 опак.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "вода",
         "qty": "150 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "сол",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "захар",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "олио",
         "qty": "3 с.л.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "олио",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "вода",
         "qty": "400 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "жълтъка",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/362535-iaichen-jultuk"
+        "id": 33
       },
       {
         "name": "ленено семе",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/192133-leneno-seme"
+        "id": 245
       }
     ]
   },
@@ -11615,37 +11615,37 @@
       {
         "name": "кори за баница",
         "qty": "300 г",
-        "id": "http://www.1001recepti.com/s/190554-kori-za-banica"
+        "id": 138
       },
       {
         "name": "сирене",
         "qty": "200 г",
-        "id": "http://www.1001recepti.com/s/205659-sirene"
+        "id": 32
       },
       {
         "name": "топено сирене",
         "qty": "150 г",
-        "id": "http://www.1001recepti.com/s/209770-topeno-sirene"
+        "id": 112
       },
       {
         "name": "кашкавал",
         "qty": "50 г",
-        "id": "http://www.1001recepti.com/s/189045-kashkaval"
+        "id": 47
       },
       {
         "name": "яйца",
         "qty": "4",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "газирана вода",
         "qty": "250 мл.",
-        "id": "http://www.1001recepti.com/s/183567-gazirana-voda"
+        "id": 199
       },
       {
         "name": "олио",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       }
     ]
   },
@@ -11708,52 +11708,52 @@
       {
         "name": "кори за баница",
         "qty": "800 г",
-        "id": "http://www.1001recepti.com/s/190554-kori-za-banica"
+        "id": 138
       },
       {
         "name": "кайма",
         "qty": "600 г",
-        "id": "http://www.1001recepti.com/s/187570-kaima"
+        "id": 54
       },
       {
         "name": "праз",
         "qty": "2 стръка",
-        "id": "http://www.1001recepti.com/s/200402-praz-luk"
+        "id": 51
       },
       {
         "name": "морков",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/193952-morkovi"
+        "id": 13
       },
       {
         "name": "чесън",
         "qty": "6 скилидки",
-        "id": "http://www.1001recepti.com/s/212113-chesun"
+        "id": 6
       },
       {
         "name": "кимион",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/189725-kimion"
+        "id": 42
       },
       {
         "name": "черен пипер",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+        "id": 2
       },
       {
         "name": "чубрица",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/212278-chubrica"
+        "id": 36
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "олио",
         "qty": "3 с.л.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       }
     ]
   },
@@ -11807,27 +11807,27 @@
       {
         "name": "брашно",
         "qty": "4 ч.ч.",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "захар",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "суха мая",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "вода",
         "qty": "2 1/2 ч.ч.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "сол",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -11886,32 +11886,32 @@
       {
         "name": "брашно",
         "qty": "7 ч.ч.",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "прясно мляко",
         "qty": "200 мл.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "заквасена сметана",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/186320-zakvasena-smetana"
+        "id": 73
       },
       {
         "name": "яйца",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "топла вода",
         "qty": "2 ч.ч.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "сол",
         "qty": "2 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -11965,27 +11965,27 @@
       {
         "name": "брашно",
         "qty": "600 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "прясна мая",
         "qty": "20 г",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "зехтин",
         "qty": "3 с.л.",
-        "id": "http://www.1001recepti.com/s/186978-zehtin"
+        "id": 10
       },
       {
         "name": "захар",
         "qty": "20 г",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "топла вода",
         "qty": "300 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -12047,47 +12047,47 @@
       {
         "name": "брашно",
         "qty": "600 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "сол",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "вода",
         "qty": "100 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "мая",
         "qty": "40 г",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "сода",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/349459-soda-za-hliab"
+        "id": 56
       },
       {
         "name": "прясно мляко",
         "qty": "300 мл.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "сирене",
         "qty": "300 г",
-        "id": "http://www.1001recepti.com/s/205659-sirene"
+        "id": 32
       },
       {
         "name": "яйца",
         "qty": "6",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "олио",
         "qty": "100 мл.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       }
     ]
   },
@@ -12137,27 +12137,27 @@
       {
         "name": "бутер тесто",
         "qty": "400 г",
-        "id": "http://www.1001recepti.com/s/182712-buter-testo"
+        "id": 117
       },
       {
         "name": "сирене",
         "qty": "150 г",
-        "id": "http://www.1001recepti.com/s/205659-sirene"
+        "id": 32
       },
       {
         "name": "сол",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "жълтъка",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/362535-iaichen-jultuk"
+        "id": 33
       },
       {
         "name": "вода",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -12215,47 +12215,47 @@
       {
         "name": "брашно",
         "qty": "400 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "кисело мляко",
         "qty": "200 г",
-        "id": "http://www.1001recepti.com/s/189828-kiselo-mliako"
+        "id": 21
       },
       {
         "name": "яйца",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "масло",
         "qty": "50 г",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "сирене",
         "qty": "150 г",
-        "id": "http://www.1001recepti.com/s/205659-sirene"
+        "id": 32
       },
       {
         "name": "жълтък",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/362535-iaichen-jultuk"
+        "id": 33
       },
       {
         "name": "сусам",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/208273-susam"
+        "id": 113
       },
       {
         "name": "сол",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "суха мая",
         "qty": "15 г",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       }
     ]
   },
@@ -12320,62 +12320,62 @@
       {
         "name": "брашно",
         "qty": "1/2 кг",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "прясно мляко",
         "qty": "200 мл.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "яйце",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "олио",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "масло",
         "qty": "50 г",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "мая",
         "qty": "20 г",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "кашкавал",
         "qty": "80 г",
-        "id": "http://www.1001recepti.com/s/189045-kashkaval"
+        "id": 47
       },
       {
         "name": "шунка",
         "qty": "50 г",
-        "id": "http://www.1001recepti.com/s/212873-shunka"
+        "id": 76
       },
       {
         "name": "сирене",
         "qty": "50 г",
-        "id": "http://www.1001recepti.com/s/205659-sirene"
+        "id": 32
       },
       {
         "name": "жълтък",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/362535-iaichen-jultuk"
+        "id": 33
       },
       {
         "name": "захар",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "сол",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -12428,42 +12428,42 @@
       {
         "name": "бутер тесто",
         "qty": "1 кг",
-        "id": "http://www.1001recepti.com/s/182712-buter-testo"
+        "id": 117
       },
       {
         "name": "кайма",
         "qty": "200 г",
-        "id": "http://www.1001recepti.com/s/187570-kaima"
+        "id": 54
       },
       {
         "name": "пушен кашкавал",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/189045-kashkaval"
+        "id": 47
       },
       {
         "name": "лук",
         "qty": "1/2 глава",
-        "id": "http://www.1001recepti.com/s/192500-luk"
+        "id": 3
       },
       {
         "name": "доматено пюре",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/185315-domateno-pure"
+        "id": 35
       },
       {
         "name": "черен пипер",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+        "id": 2
       },
       {
         "name": "чубрица",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/212278-chubrica"
+        "id": 36
       },
       {
         "name": "олио",
         "qty": "4 с.л.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       }
     ]
   },
@@ -12517,27 +12517,27 @@
       {
         "name": "бутер тесто",
         "qty": "400 г",
-        "id": "http://www.1001recepti.com/s/182712-buter-testo"
+        "id": 117
       },
       {
         "name": "сирене",
         "qty": "150 г",
-        "id": "http://www.1001recepti.com/s/205659-sirene"
+        "id": 32
       },
       {
         "name": "масло",
         "qty": "50 г",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "риган",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/202962-rigan"
+        "id": 65
       },
       {
         "name": "жълтък",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/362535-iaichen-jultuk"
+        "id": 33
       }
     ]
   },
@@ -12602,42 +12602,42 @@
       {
         "name": "брашно",
         "qty": "600 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "кисело мляко",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/189828-kiselo-mliako"
+        "id": 21
       },
       {
         "name": "свинска мас",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/204730-svinska-mas"
+        "id": 220
       },
       {
         "name": "бакпулвер",
         "qty": "10 г",
-        "id": "http://www.1001recepti.com/s/225121-bakpulver"
+        "id": 29
       },
       {
         "name": "яйца",
         "qty": "3",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "жълтък",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/362535-iaichen-jultuk"
+        "id": 33
       },
       {
         "name": "сирене",
         "qty": "50 г",
-        "id": "http://www.1001recepti.com/s/205659-sirene"
+        "id": 32
       },
       {
         "name": "извара",
         "qty": "50 г",
-        "id": "http://www.1001recepti.com/s/187192-izvara"
+        "id": 92
       }
     ]
   },
@@ -12696,32 +12696,32 @@
       {
         "name": "брашно",
         "qty": "600 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "вода",
         "qty": "250 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "олио",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "захар",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "сол",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "суха мая",
         "qty": "10 г",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       }
     ]
   },
@@ -12789,37 +12789,37 @@
       {
         "name": "спанак",
         "qty": "1/2 кг",
-        "id": "http://www.1001recepti.com/s/207509-spanak"
+        "id": 40
       },
       {
         "name": "яйца",
         "qty": "3",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "брашно",
         "qty": "200 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "олио",
         "qty": "4 с.л.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "бакпулвер",
         "qty": "1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/225121-bakpulver"
+        "id": 29
       },
       {
         "name": "черен пипер",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+        "id": 2
       },
       {
         "name": "сол",
         "qty": "1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -12880,22 +12880,22 @@
       {
         "name": "хляб",
         "qty": "8 филии",
-        "id": "http://www.1001recepti.com/s/211322-hliab"
+        "id": 66
       },
       {
         "name": "прясно мляко",
         "qty": "250 мл.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "яйца",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "олио",
         "qty": "100 мл.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       }
     ]
   },
@@ -12967,77 +12967,77 @@
       {
         "name": "брашно",
         "qty": "250 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "масло",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "жълтък",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/362535-iaichen-jultuk"
+        "id": 33
       },
       {
         "name": "сол",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "вода",
         "qty": "4 с.л.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "тиквички",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/209473-tikvichki"
+        "id": 39
       },
       {
         "name": "царевица",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/211525-carevica"
+        "id": 78
       },
       {
         "name": "зелени чушки",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/212296-chushki"
+        "id": 18
       },
       {
         "name": "сирене крема",
         "qty": "200 г",
-        "id": "http://www.1001recepti.com/s/191078-krema-sirene"
+        "id": 103
       },
       {
         "name": "яйца",
         "qty": "3",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "течна сметана",
         "qty": "200 мл.",
-        "id": "http://www.1001recepti.com/s/206695-smetana"
+        "id": 19
       },
       {
         "name": "черен пипер",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+        "id": 2
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "жълтък",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/362535-iaichen-jultuk"
+        "id": 33
       },
       {
         "name": "сусам",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/208273-susam"
+        "id": 113
       }
     ]
   },
@@ -13096,32 +13096,32 @@
       {
         "name": "бутер тесто",
         "qty": "800 г",
-        "id": "http://www.1001recepti.com/s/182712-buter-testo"
+        "id": 117
       },
       {
         "name": "патладжан",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/196808-patladjan"
+        "id": 71
       },
       {
         "name": "сирене",
         "qty": "150 г",
-        "id": "http://www.1001recepti.com/s/205659-sirene"
+        "id": 32
       },
       {
         "name": "жълтъка",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/362535-iaichen-jultuk"
+        "id": 33
       },
       {
         "name": "сусам",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/208273-susam"
+        "id": 113
       },
       {
         "name": "вода",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -13175,47 +13175,47 @@
       {
         "name": "брашно",
         "qty": "600 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "вода",
         "qty": "100 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "прясно мляко",
         "qty": "150 мл.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "олио",
         "qty": "70 мл.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "захар",
         "qty": "150 г",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "мая",
         "qty": "20 г",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "мед",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/193286-med"
+        "id": 38
       },
       {
         "name": "сусам",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/208273-susam"
+        "id": 113
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -13282,52 +13282,52 @@
       {
         "name": "брашно",
         "qty": "400 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "кисело мляко",
         "qty": "400 г",
-        "id": "http://www.1001recepti.com/s/189828-kiselo-mliako"
+        "id": 21
       },
       {
         "name": "яйца",
         "qty": "4",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "олио",
         "qty": "100 мл.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "шунка",
         "qty": "150 г",
-        "id": "http://www.1001recepti.com/s/212873-shunka"
+        "id": 76
       },
       {
         "name": "сирене",
         "qty": "150 г",
-        "id": "http://www.1001recepti.com/s/205659-sirene"
+        "id": 32
       },
       {
         "name": "бакпулвер",
         "qty": "10 г",
-        "id": "http://www.1001recepti.com/s/225121-bakpulver"
+        "id": 29
       },
       {
         "name": "червена чушка",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/212296-chushki"
+        "id": 18
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "черен пипер",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+        "id": 2
       }
     ]
   },
@@ -13386,52 +13386,52 @@
       {
         "name": "яйца",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "кисело мляко",
         "qty": "1 ч.ч.",
-        "id": "http://www.1001recepti.com/s/189828-kiselo-mliako"
+        "id": 21
       },
       {
         "name": "мая",
         "qty": "5 г",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "захар",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "оцет",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/195631-ocet"
+        "id": 61
       },
       {
         "name": "брашно",
         "qty": "2 ч.ч.",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "олио",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "топинг",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/209777-toping"
+        "id": 152
       },
       {
         "name": "портокалови кори",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/200188-portokalovi-kori"
+        "id": 159
       }
     ]
   },
@@ -13482,32 +13482,32 @@
       {
         "name": "брашно",
         "qty": "1 кг",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "сода",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/349459-soda-za-hliab"
+        "id": 56
       },
       {
         "name": "вода",
         "qty": "1/2 л.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "оцет",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/195631-ocet"
+        "id": 61
       },
       {
         "name": "олио",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "сол",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -13590,92 +13590,92 @@
       {
         "name": "брашно",
         "qty": "1 кг",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "прясно мляко",
         "qty": "1/2 л.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "масло",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "жива мая",
         "qty": "25 г",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "вода",
         "qty": "1/2 л.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "сол",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "яйца",
         "qty": "3",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "олио",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "захар",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "яйца",
         "qty": "3",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "кисело мляко",
         "qty": "400 г",
-        "id": "http://www.1001recepti.com/s/189828-kiselo-mliako"
+        "id": 21
       },
       {
         "name": "чесън",
         "qty": "8 скилидки",
-        "id": "http://www.1001recepti.com/s/212113-chesun"
+        "id": 6
       },
       {
         "name": "спанак",
         "qty": "1/2 кг",
-        "id": "http://www.1001recepti.com/s/207509-spanak"
+        "id": 40
       },
       {
         "name": "сирене",
         "qty": "400 г",
-        "id": "http://www.1001recepti.com/s/205659-sirene"
+        "id": 32
       },
       {
         "name": "коприва",
         "qty": "1/2 кг",
-        "id": "http://www.1001recepti.com/s/190496-kopriva"
+        "id": 130
       },
       {
         "name": "лук",
         "qty": "3 глави",
-        "id": "http://www.1001recepti.com/s/192500-luk"
+        "id": 3
       },
       {
         "name": "олио",
         "qty": "4 с.л.",
-        "id": "http://www.1001recepti.com/s/195019-olio"
+        "id": 4
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -13734,52 +13734,52 @@
       {
         "name": "брашно",
         "qty": "800 г",
-        "id": "http://www.1001recepti.com/s/182466-brashno"
+        "id": 7
       },
       {
         "name": "захар",
         "qty": "330 г",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "прясно мляко",
         "qty": "150 мл.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "масло",
         "qty": "125 г",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "мая",
         "qty": "30 г",
-        "id": "http://www.1001recepti.com/s/193268-maia"
+        "id": 52
       },
       {
         "name": "стафиди",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/207748-stafidi"
+        "id": 69
       },
       {
         "name": "яйца",
         "qty": "3",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "локум",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "жълтъка",
         "qty": "5",
-        "id": "http://www.1001recepti.com/s/362535-iaichen-jultuk"
+        "id": 33
       },
       {
         "name": "филирани бадеми",
         "qty": "30 г",
-        "id": "http://www.1001recepti.com/s/181093-bademi"
+        "id": 82
       }
     ]
   },
@@ -13832,22 +13832,22 @@
       {
         "name": "брашно от нахут",
         "qty": "2 ч.ч.",
-        "id": "http://www.1001recepti.com/s/-"
+        "id": 211
       },
       {
         "name": "вода",
         "qty": "2 ч.ч.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "зехтин",
         "qty": "4 с.л.",
-        "id": "http://www.1001recepti.com/s/186978-zehtin"
+        "id": 10
       },
       {
         "name": "сол",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   }

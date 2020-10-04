@@ -15,8 +15,9 @@ async function initialize() {
     main.style.display = 'none';
     const navigation = document.querySelector('#categories');
 
-    const { recipeIndex, ingredientsIndex } = await getData();
-    const ingredients = Object.values(ingredientsIndex);
+    const { recipeIndex, ingredientsIndex, categoryIndex } = await getData();
+    const ingredients = Object.entries(ingredientsIndex).map(([k, v]) => Object.assign(v, { id: k, category: categoryIndex[v.categoryId].label }));
+    console.log(ingredients);
 
     const staplesSection = staplesPage(ingredients);
     const bannedSection = bannedPage(ingredients);

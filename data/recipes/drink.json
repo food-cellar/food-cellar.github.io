@@ -47,17 +47,17 @@
       {
         "name": "диня",
         "qty": "1/2 кг",
-        "id": "http://www.1001recepti.com/s/185167-dinia"
+        "id": 251
       },
       {
         "name": "мента",
         "qty": "5 листенца",
-        "id": "http://www.1001recepti.com/s/193446-menta"
+        "id": 90
       },
       {
         "name": "малини",
         "qty": "175 г",
-        "id": "http://www.1001recepti.com/s/192856-malini"
+        "id": 141
       }
     ]
   },
@@ -103,27 +103,27 @@
       {
         "name": "кисело мляко",
         "qty": "300 г",
-        "id": "http://www.1001recepti.com/s/189828-kiselo-mliako"
+        "id": 21
       },
       {
         "name": "газирана вода",
         "qty": "300 мл.",
-        "id": "http://www.1001recepti.com/s/183567-gazirana-voda"
+        "id": 199
       },
       {
         "name": "сол",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "мента",
         "qty": "2 листенца",
-        "id": "http://www.1001recepti.com/s/193446-menta"
+        "id": 90
       },
       {
         "name": "магданоз",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/192612-magdanoz"
+        "id": 12
       }
     ]
   },
@@ -167,17 +167,17 @@
       {
         "name": "малини",
         "qty": "150 г",
-        "id": "http://www.1001recepti.com/s/192856-malini"
+        "id": 141
       },
       {
         "name": "ванилов сладолед",
         "qty": "200 г",
-        "id": "http://www.1001recepti.com/s/206573-sladoled"
+        "id": 226
       },
       {
         "name": "прясно мляко",
         "qty": "200 мл.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       }
     ]
   },
@@ -223,27 +223,27 @@
       {
         "name": "диня",
         "qty": "1/2 кг",
-        "id": "http://www.1001recepti.com/s/185167-dinia"
+        "id": 251
       },
       {
         "name": "ягоди",
         "qty": "250 г",
-        "id": "http://www.1001recepti.com/s/213173-iagodi"
+        "id": 109
       },
       {
         "name": "лимонов сок",
         "qty": "4 с.л.",
-        "id": "http://www.1001recepti.com/s/192380-limonov-sok"
+        "id": 17
       },
       {
         "name": "захар",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "лед",
         "qty": "200 г",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -287,17 +287,17 @@
       {
         "name": "пъпеш",
         "qty": "1/4",
-        "id": "http://www.1001recepti.com/s/201384-pupesh"
+        "id": 252
       },
       {
         "name": "портокала",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/200171-portokali"
+        "id": 122
       },
       {
         "name": "лед",
         "qty": "8 кубчета",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -343,27 +343,27 @@
       {
         "name": "домата",
         "qty": "4",
-        "id": "http://www.1001recepti.com/s/185321-domati"
+        "id": 15
       },
       {
         "name": "червена чушка",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/212296-chushki"
+        "id": 18
       },
       {
         "name": "люта чушка",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/192577-luti-chushki"
+        "id": 105
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "вода",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -409,27 +409,27 @@
       {
         "name": "мляко",
         "qty": "100 мл.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "шоколадов сладолед",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/206573-sladoled"
+        "id": 226
       },
       {
         "name": "шоколадов топинг",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/209777-toping"
+        "id": 152
       },
       {
         "name": "сметана",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206695-smetana"
+        "id": 19
       },
       {
         "name": "коктейлна черешка",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/212045-chereshi"
+        "id": 126
       }
     ]
   },
@@ -473,17 +473,17 @@
       {
         "name": "къпини",
         "qty": "50 г",
-        "id": "http://www.1001recepti.com/s/191647-kupini"
+        "id": 254
       },
       {
         "name": "сладолед",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "мляко",
         "qty": "200 мл.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       }
     ]
   },
@@ -527,17 +527,17 @@
       {
         "name": "маруля",
         "qty": "200 г",
-        "id": "http://www.1001recepti.com/s/193152-marulia"
+        "id": 176
       },
       {
         "name": "зехтин",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/186978-zehtin"
+        "id": 10
       },
       {
         "name": "сол",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -581,17 +581,17 @@
       {
         "name": "киви",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/189663-kivi"
+        "id": 186
       },
       {
         "name": "ванилов сладолед",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/206573-sladoled"
+        "id": 226
       },
       {
         "name": "мляко",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       }
     ]
   },
@@ -636,22 +636,22 @@
       {
         "name": "манго",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/192926-mango"
+        "id": 336
       },
       {
         "name": "лед",
         "qty": "200 г",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "вода",
         "qty": "100 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "захар",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       }
     ]
   },
@@ -696,22 +696,22 @@
       {
         "name": "прясно мляко",
         "qty": "200 мл.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "малини",
         "qty": "200 г",
-        "id": "http://www.1001recepti.com/s/192856-malini"
+        "id": 141
       },
       {
         "name": "касис",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/188955-kasis"
+        "id": 392
       },
       {
         "name": "праскова",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/200462-praskovi"
+        "id": 156
       }
     ]
   },
@@ -759,37 +759,37 @@
       {
         "name": "краставица",
         "qty": "1/2",
-        "id": "http://www.1001recepti.com/s/190690-krastavici"
+        "id": 44
       },
       {
         "name": "домат",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/185321-domati"
+        "id": 15
       },
       {
         "name": "червена чушка",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/212296-chushki"
+        "id": 18
       },
       {
         "name": "кисело мляко",
         "qty": "3 с.л.",
-        "id": "http://www.1001recepti.com/s/189828-kiselo-mliako"
+        "id": 21
       },
       {
         "name": "лимон",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/192361-limoni"
+        "id": 43
       },
       {
         "name": "сок от ябълка",
         "qty": "75 мл.",
-        "id": "http://www.1001recepti.com/s/225097-sok-ot-iabulka"
+        "id": 298
       },
       {
         "name": "сок от моркови",
         "qty": "100 мл.",
-        "id": "http://www.1001recepti.com/s/206855-sok-ot-morkovi"
+        "id": 393
       }
     ]
   },
@@ -833,17 +833,17 @@
       {
         "name": "прясно мляко",
         "qty": "200 мл.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "праскови",
         "qty": "3",
-        "id": "http://www.1001recepti.com/s/200462-praskovi"
+        "id": 156
       },
       {
         "name": "захар",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       }
     ]
   },
@@ -900,22 +900,22 @@
       {
         "name": "череши",
         "qty": "1 кг",
-        "id": "http://www.1001recepti.com/s/212045-chereshi"
+        "id": 126
       },
       {
         "name": "вода",
         "qty": "8 л.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "вишневи листа",
         "qty": "15",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "захар или подсладител",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       }
     ]
   },
@@ -959,17 +959,17 @@
       {
         "name": "банан",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/181202-banani"
+        "id": 123
       },
       {
         "name": "ягоди",
         "qty": "75 г",
-        "id": "http://www.1001recepti.com/s/213173-iagodi"
+        "id": 109
       },
       {
         "name": "портокалов сок",
         "qty": "200 мл.",
-        "id": "http://www.1001recepti.com/s/200181-portokalov-sok"
+        "id": 177
       }
     ]
   },
@@ -1013,17 +1013,17 @@
       {
         "name": "броколи",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/182507-brokoli"
+        "id": 57
       },
       {
         "name": "ябълка",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/213070-iabulki"
+        "id": 85
       },
       {
         "name": "краставица",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/190690-krastavici"
+        "id": 44
       }
     ]
   },
@@ -1069,27 +1069,27 @@
       {
         "name": "вода",
         "qty": "6 с.л.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "инстантно кафе",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/225117-instantno-kafe"
+        "id": 272
       },
       {
         "name": "течен подсладител",
         "qty": "1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/200105-podsladitel"
+        "id": 173
       },
       {
         "name": "прясно мляко",
         "qty": "150 мл.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "лед",
         "qty": "4 бучки",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -1137,17 +1137,17 @@
       {
         "name": "авокадо",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/180404-avokado"
+        "id": 83
       },
       {
         "name": "прясно мляко",
         "qty": "300 мл.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "мед",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/193286-med"
+        "id": 38
       }
     ]
   },
@@ -1194,32 +1194,32 @@
       {
         "name": "сушени сливи",
         "qty": "250 г",
-        "id": "http://www.1001recepti.com/s/224929-susheni-slivi"
+        "id": 229
       },
       {
         "name": "сушени ябълки",
         "qty": "250 г",
-        "id": "http://www.1001recepti.com/s/222995-susheni-iabulki"
+        "id": 338
       },
       {
         "name": "канела",
         "qty": "1 пръчка",
-        "id": "http://www.1001recepti.com/s/187922-kanela"
+        "id": 46
       },
       {
         "name": "мед",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/193286-med"
+        "id": 38
       },
       {
         "name": "захар",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "ванилия",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/183033-vaniliia"
+        "id": 23
       }
     ]
   },
@@ -1263,17 +1263,17 @@
       {
         "name": "киви",
         "qty": "10",
-        "id": "http://www.1001recepti.com/s/189663-kivi"
+        "id": 186
       },
       {
         "name": "портокал",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/200171-portokali"
+        "id": 122
       },
       {
         "name": "ябълка",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/213070-iabulki"
+        "id": 85
       }
     ]
   },
@@ -1318,22 +1318,22 @@
       {
         "name": "броколи",
         "qty": "1/2 глава",
-        "id": "http://www.1001recepti.com/s/182507-brokoli"
+        "id": 57
       },
       {
         "name": "лимон",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/192361-limoni"
+        "id": 43
       },
       {
         "name": "прясно мляко",
         "qty": "100 мл.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "черен пипер",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+        "id": 2
       }
     ]
   },
@@ -1376,12 +1376,12 @@
       {
         "name": "арония",
         "qty": "2 кг",
-        "id": "http://www.1001recepti.com/s/191647-kupini"
+        "id": 254
       },
       {
         "name": "захар",
         "qty": "1 1/2 кг",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       }
     ]
   },
@@ -1430,22 +1430,22 @@
       {
         "name": "арония",
         "qty": "2 кг",
-        "id": "http://www.1001recepti.com/s/191647-kupini"
+        "id": 254
       },
       {
         "name": "лимони",
         "qty": "1 кг",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "захар",
         "qty": "2 1/2 кг",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "лимонтузу",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/225120-limontuzu"
+        "id": 232
       }
     ]
   },
@@ -1488,12 +1488,12 @@
       {
         "name": "бъзак",
         "qty": "3 кг",
-        "id": "http://www.1001recepti.com/s/191647-kupini"
+        "id": 254
       },
       {
         "name": "захар",
         "qty": "3 кг",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       }
     ]
   },
@@ -1543,27 +1543,27 @@
       {
         "name": "зелени орехчета",
         "qty": "60",
-        "id": "http://www.1001recepti.com/s/195111-orehi"
+        "id": 31
       },
       {
         "name": "ракия",
         "qty": "2 л.",
-        "id": "http://www.1001recepti.com/s/223439-rakiia"
+        "id": 250
       },
       {
         "name": "захар",
         "qty": "1/2 кг",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "вода",
         "qty": "200 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "карамфил",
         "qty": "3 зърна",
-        "id": "http://www.1001recepti.com/s/188047-karamfil"
+        "id": 180
       }
     ]
   },
@@ -1612,22 +1612,22 @@
       {
         "name": "ябълка",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/213070-iabulki"
+        "id": 85
       },
       {
         "name": "лимонов сок",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/192380-limonov-sok"
+        "id": 17
       },
       {
         "name": "захар",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "газирана вода",
         "qty": "1/2 л.",
-        "id": "http://www.1001recepti.com/s/183567-gazirana-voda"
+        "id": 199
       }
     ]
   },
@@ -1673,27 +1673,27 @@
       {
         "name": "банан",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/181202-banani"
+        "id": 123
       },
       {
         "name": "ананас",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/180780-ananas"
+        "id": 146
       },
       {
         "name": "джинджифил",
         "qty": "10 г",
-        "id": "http://www.1001recepti.com/s/185011-djindjifil"
+        "id": 84
       },
       {
         "name": "кисело мляко",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/189828-kiselo-mliako"
+        "id": 21
       },
       {
         "name": "вода",
         "qty": "100 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -1753,37 +1753,37 @@
       {
         "name": "ягоди",
         "qty": "1/2 кг",
-        "id": "http://www.1001recepti.com/s/213173-iagodi"
+        "id": 109
       },
       {
         "name": "захар",
         "qty": "300 г",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "лимон",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/192361-limoni"
+        "id": 43
       },
       {
         "name": "портокала",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/200171-portokali"
+        "id": 122
       },
       {
         "name": "сок от вишни",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/-"
+        "id": 211
       },
       {
         "name": "мента",
         "qty": "4 листа",
-        "id": "http://www.1001recepti.com/s/193446-menta"
+        "id": 90
       },
       {
         "name": "вода",
         "qty": "250 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -1833,27 +1833,27 @@
       {
         "name": "авокадо",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/180404-avokado"
+        "id": 83
       },
       {
         "name": "бадемово мляко",
         "qty": "200 мл.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "банана",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/181202-banani"
+        "id": 123
       },
       {
         "name": "ябълка",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/213070-iabulki"
+        "id": 85
       },
       {
         "name": "орехи",
         "qty": "25 г",
-        "id": "http://www.1001recepti.com/s/195111-orehi"
+        "id": 31
       }
     ]
   },
@@ -1911,27 +1911,27 @@
       {
         "name": "авокадо",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/180404-avokado"
+        "id": 83
       },
       {
         "name": "краставица",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/190690-krastavici"
+        "id": 44
       },
       {
         "name": "спанак",
         "qty": "1 ч.ч.",
-        "id": "http://www.1001recepti.com/s/207509-spanak"
+        "id": 40
       },
       {
         "name": "кивита",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/189663-kivi"
+        "id": 186
       },
       {
         "name": "вода",
         "qty": "300 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -1978,32 +1978,32 @@
       {
         "name": "диня",
         "qty": "1/2 кг",
-        "id": "http://www.1001recepti.com/s/185167-dinia"
+        "id": 251
       },
       {
         "name": "ягоди",
         "qty": "150 г",
-        "id": "http://www.1001recepti.com/s/213173-iagodi"
+        "id": 109
       },
       {
         "name": "банана",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/181202-banani"
+        "id": 123
       },
       {
         "name": "лимонов сок",
         "qty": "4 с.л.",
-        "id": "http://www.1001recepti.com/s/192380-limonov-sok"
+        "id": 17
       },
       {
         "name": "захар",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "лед",
         "qty": "200 г",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -2051,17 +2051,17 @@
       {
         "name": "киви",
         "qty": "10",
-        "id": "http://www.1001recepti.com/s/189663-kivi"
+        "id": 186
       },
       {
         "name": "портокал",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/200171-portokali"
+        "id": 122
       },
       {
         "name": "банан",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/181202-banani"
+        "id": 123
       }
     ]
   },
@@ -2106,22 +2106,22 @@
       {
         "name": "червено цвекло",
         "qty": "1 глава",
-        "id": "http://www.1001recepti.com/s/212010-cherveno-cveklo"
+        "id": 131
       },
       {
         "name": "ябълка",
         "qty": "4",
-        "id": "http://www.1001recepti.com/s/213070-iabulki"
+        "id": 85
       },
       {
         "name": "кисело мляко",
         "qty": "250 г",
-        "id": "http://www.1001recepti.com/s/189828-kiselo-mliako"
+        "id": 21
       },
       {
         "name": "канела",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/187922-kanela"
+        "id": 46
       }
     ]
   },
@@ -2165,17 +2165,17 @@
       {
         "name": "замразени малини",
         "qty": "150 г",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "ванилов сладолед",
         "qty": "200 г",
-        "id": "http://www.1001recepti.com/s/206573-sladoled"
+        "id": 226
       },
       {
         "name": "прясно мляко",
         "qty": "200 мл.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       }
     ]
   }

@@ -44,42 +44,42 @@
       {
         "name": "кръгли питки",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/199690-pitka"
+        "id": 175
       },
       {
         "name": "пилешки бон филета",
         "qty": "4",
-        "id": "http://www.1001recepti.com/s/198803-pileshki-gurdi"
+        "id": 79
       },
       {
         "name": "лук",
         "qty": "1/2 глава",
-        "id": "http://www.1001recepti.com/s/192500-luk"
+        "id": 3
       },
       {
         "name": "зехтин",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/186978-zehtin"
+        "id": 10
       },
       {
         "name": "соев сос",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/206818-soev-sos"
+        "id": 53
       },
       {
         "name": "домат",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/185321-domati"
+        "id": 15
       },
       {
         "name": "айсберг",
         "qty": "4 листа",
-        "id": "http://www.1001recepti.com/s/203713-salata-aisberg"
+        "id": 101
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -126,32 +126,32 @@
       {
         "name": "франзела",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/210997-franzela"
+        "id": 249
       },
       {
         "name": "риба тон",
         "qty": "1 консерва",
-        "id": "http://www.1001recepti.com/s/202829-riba-ton"
+        "id": 127
       },
       {
         "name": "царевица",
         "qty": "1/2 консерва",
-        "id": "http://www.1001recepti.com/s/211525-carevica"
+        "id": 78
       },
       {
         "name": "айсберг",
         "qty": "4 листа",
-        "id": "http://www.1001recepti.com/s/203713-salata-aisberg"
+        "id": 101
       },
       {
         "name": "майонеза",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/192670-maioneza"
+        "id": 80
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -201,47 +201,47 @@
       {
         "name": "кръгли питки",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/199690-pitka"
+        "id": 175
       },
       {
         "name": "яйца",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "зехтин",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/186978-zehtin"
+        "id": 10
       },
       {
         "name": "боб",
         "qty": "4 с.л.",
-        "id": "http://www.1001recepti.com/s/182086-bob"
+        "id": 63
       },
       {
         "name": "бекон",
         "qty": "4 резена",
-        "id": "http://www.1001recepti.com/s/181657-bekon"
+        "id": 88
       },
       {
         "name": "айсберг",
         "qty": "2 листа",
-        "id": "http://www.1001recepti.com/s/203713-salata-aisberg"
+        "id": 101
       },
       {
         "name": "червен пипер",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/211980-cherven-piper"
+        "id": 20
       },
       {
         "name": "черен пипер",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+        "id": 2
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -290,42 +290,42 @@
       {
         "name": "франзела",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/210997-franzela"
+        "id": 249
       },
       {
         "name": "пушена сьомга",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/200923-pushena-sioomga"
+        "id": 215
       },
       {
         "name": "авокадо",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/180404-avokado"
+        "id": 83
       },
       {
         "name": "краставица",
         "qty": "1/2",
-        "id": "http://www.1001recepti.com/s/190690-krastavici"
+        "id": 44
       },
       {
         "name": "айсберг",
         "qty": "4 листа",
-        "id": "http://www.1001recepti.com/s/203713-salata-aisberg"
+        "id": 101
       },
       {
         "name": "лимонов сок",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/192380-limonov-sok"
+        "id": 17
       },
       {
         "name": "зехтин",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/186978-zehtin"
+        "id": 10
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -376,32 +376,32 @@
       {
         "name": "франзела",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/210997-franzela"
+        "id": 249
       },
       {
         "name": "пилешки бон филета",
         "qty": "4",
-        "id": "http://www.1001recepti.com/s/198803-pileshki-gurdi"
+        "id": 79
       },
       {
         "name": "краставица",
         "qty": "1/2",
-        "id": "http://www.1001recepti.com/s/190690-krastavici"
+        "id": 44
       },
       {
         "name": "домат",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/185321-domati"
+        "id": 15
       },
       {
         "name": "айсберг",
         "qty": "4 листа",
-        "id": "http://www.1001recepti.com/s/203713-salata-aisberg"
+        "id": 101
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -447,27 +447,27 @@
       {
         "name": "хляб",
         "qty": "4 филии",
-        "id": "http://www.1001recepti.com/s/211322-hliab"
+        "id": 66
       },
       {
         "name": "червена чушка",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/212296-chushki"
+        "id": 18
       },
       {
         "name": "сирене",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/205659-sirene"
+        "id": 32
       },
       {
         "name": "яйце",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "шунка",
         "qty": "50 г",
-        "id": "http://www.1001recepti.com/s/212873-shunka"
+        "id": 76
       }
     ]
   },
@@ -513,27 +513,27 @@
       {
         "name": "питки хляб",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/199690-pitka"
+        "id": 175
       },
       {
         "name": "пушена сьомга",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/200923-pushena-sioomga"
+        "id": 215
       },
       {
         "name": "айсберг",
         "qty": "2 листа",
-        "id": "http://www.1001recepti.com/s/203713-salata-aisberg"
+        "id": 101
       },
       {
         "name": "радичио",
         "qty": "2 листа",
-        "id": "http://www.1001recepti.com/s/211701-cikoriia"
+        "id": 308
       },
       {
         "name": "сирене Крема",
         "qty": "125 г",
-        "id": "http://www.1001recepti.com/s/191078-krema-sirene"
+        "id": 103
       }
     ]
   },
@@ -580,32 +580,32 @@
       {
         "name": "хляб чабата",
         "qty": "200 г",
-        "id": "http://www.1001recepti.com/s/211322-hliab"
+        "id": 66
       },
       {
         "name": "домата",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/185321-domati"
+        "id": 15
       },
       {
         "name": "моцарела",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/194019-mocarela"
+        "id": 93
       },
       {
         "name": "босилек",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/182424-bosilek"
+        "id": 25
       },
       {
         "name": "черен пипер",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+        "id": 2
       },
       {
         "name": "сол",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -653,37 +653,37 @@
       {
         "name": "питки",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/199690-pitka"
+        "id": 175
       },
       {
         "name": "риба тон",
         "qty": "150 г",
-        "id": "http://www.1001recepti.com/s/202829-riba-ton"
+        "id": 127
       },
       {
         "name": "краставица",
         "qty": "1/2",
-        "id": "http://www.1001recepti.com/s/190690-krastavici"
+        "id": 44
       },
       {
         "name": "каперси",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/187972-kapersi"
+        "id": 162
       },
       {
         "name": "сирене Крема",
         "qty": "125 г",
-        "id": "http://www.1001recepti.com/s/191078-krema-sirene"
+        "id": 103
       },
       {
         "name": "майонеза",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/192670-maioneza"
+        "id": 80
       },
       {
         "name": "зелена салата",
         "qty": "2 листа",
-        "id": "http://www.1001recepti.com/s/186809-zelena-salata"
+        "id": 87
       }
     ]
   },
@@ -734,52 +734,52 @@
       {
         "name": "бегети",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/211322-hliab"
+        "id": 66
       },
       {
         "name": "лук",
         "qty": "1 глава",
-        "id": "http://www.1001recepti.com/s/192500-luk"
+        "id": 3
       },
       {
         "name": "вурстчета",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/194480-nadenica"
+        "id": 148
       },
       {
         "name": "краставица",
         "qty": "1/2",
-        "id": "http://www.1001recepti.com/s/190690-krastavici"
+        "id": 44
       },
       {
         "name": "домат",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/185321-domati"
+        "id": 15
       },
       {
         "name": "зелена салата",
         "qty": "2 листа",
-        "id": "http://www.1001recepti.com/s/186809-zelena-salata"
+        "id": 87
       },
       {
         "name": "червен пипер",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/211980-cherven-piper"
+        "id": 20
       },
       {
         "name": "черен пипер",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+        "id": 2
       },
       {
         "name": "кимион",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/189725-kimion"
+        "id": 42
       },
       {
         "name": "масло",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       }
     ]
   },
@@ -826,32 +826,32 @@
       {
         "name": "питки",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/199690-pitka"
+        "id": 175
       },
       {
         "name": "филе Елена",
         "qty": "50 г",
-        "id": "http://www.1001recepti.com/s/200710-proshuto"
+        "id": 208
       },
       {
         "name": "домат",
         "qty": "2 резена",
-        "id": "http://www.1001recepti.com/s/185321-domati"
+        "id": 15
       },
       {
         "name": "зелена салата",
         "qty": "2 листа",
-        "id": "http://www.1001recepti.com/s/186809-zelena-salata"
+        "id": 87
       },
       {
         "name": "сирене Чедър",
         "qty": "40 г",
-        "id": "http://www.1001recepti.com/s/340549-sirene-chedur"
+        "id": 153
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -903,37 +903,37 @@
       {
         "name": "питка",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/199690-pitka"
+        "id": 175
       },
       {
         "name": "сирене Крема",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/191078-krema-sirene"
+        "id": 103
       },
       {
         "name": "пуешко филе",
         "qty": "2 резена",
-        "id": "http://www.1001recepti.com/s/212873-shunka"
+        "id": 76
       },
       {
         "name": "салата лоло росо",
         "qty": "2 лист",
-        "id": "http://www.1001recepti.com/s/186809-zelena-salata"
+        "id": 87
       },
       {
         "name": "сирене ементал",
         "qty": "2 резена",
-        "id": "http://www.1001recepti.com/s/225152-sirene-emental"
+        "id": 179
       },
       {
         "name": "чери домата",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/185321-domati"
+        "id": 15
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -980,32 +980,32 @@
       {
         "name": "хляб",
         "qty": "2 филии",
-        "id": "http://www.1001recepti.com/s/211322-hliab"
+        "id": 66
       },
       {
         "name": "кайма",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/187570-kaima"
+        "id": 54
       },
       {
         "name": "кашкавал",
         "qty": "50 г",
-        "id": "http://www.1001recepti.com/s/189045-kashkaval"
+        "id": 47
       },
       {
         "name": "черен пипер",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+        "id": 2
       },
       {
         "name": "кимион",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/189725-kimion"
+        "id": 42
       },
       {
         "name": "сол",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -1049,17 +1049,17 @@
       {
         "name": "хляб",
         "qty": "2 филии",
-        "id": "http://www.1001recepti.com/s/211322-hliab"
+        "id": 66
       },
       {
         "name": "сирене",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/205659-sirene"
+        "id": 32
       },
       {
         "name": "яйца",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       }
     ]
   },
@@ -1105,27 +1105,27 @@
       {
         "name": "пълнозърнест хляб",
         "qty": "3 филии",
-        "id": "http://www.1001recepti.com/s/201365-pulnozurnest-hliab"
+        "id": 267
       },
       {
         "name": "зехтин",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/186978-zehtin"
+        "id": 10
       },
       {
         "name": "домат",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/185321-domati"
+        "id": 15
       },
       {
         "name": "хамон",
         "qty": "30 г",
-        "id": "http://www.1001recepti.com/s/200710-proshuto"
+        "id": 208
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -1170,22 +1170,22 @@
       {
         "name": "пълнозърнеста питка",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/199690-pitka"
+        "id": 175
       },
       {
         "name": "сирене Крема",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/191078-krema-sirene"
+        "id": 103
       },
       {
         "name": "пушена сьомга",
         "qty": "50 г",
-        "id": "http://www.1001recepti.com/s/200923-pushena-sioomga"
+        "id": 215
       },
       {
         "name": "айсберг",
         "qty": "1 лист",
-        "id": "http://www.1001recepti.com/s/203713-salata-aisberg"
+        "id": 101
       }
     ]
   },
@@ -1230,22 +1230,22 @@
       {
         "name": "питка с маслини",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/199690-pitka"
+        "id": 175
       },
       {
         "name": "сирене Крема",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/191078-krema-sirene"
+        "id": 103
       },
       {
         "name": "айсберг",
         "qty": "2 листа",
-        "id": "http://www.1001recepti.com/s/203713-salata-aisberg"
+        "id": 101
       },
       {
         "name": "филе от свински бут",
         "qty": "50 г",
-        "id": "http://www.1001recepti.com/s/205426-svinsko-file"
+        "id": 314
       }
     ]
   },
@@ -1290,22 +1290,22 @@
       {
         "name": "питка с маслини",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/199690-pitka"
+        "id": 175
       },
       {
         "name": "сирене ементал",
         "qty": "2 резена",
-        "id": "http://www.1001recepti.com/s/225152-sirene-emental"
+        "id": 179
       },
       {
         "name": "телешки колбас",
         "qty": "2 резена",
-        "id": "http://www.1001recepti.com/s/212873-shunka"
+        "id": 76
       },
       {
         "name": "розов домат",
         "qty": "2 резена",
-        "id": "http://www.1001recepti.com/s/185321-domati"
+        "id": 15
       }
     ]
   },
@@ -1350,22 +1350,22 @@
       {
         "name": "питка с ядки",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/199690-pitka"
+        "id": 175
       },
       {
         "name": "скариди",
         "qty": "6",
-        "id": "http://www.1001recepti.com/s/205831-skaridi"
+        "id": 104
       },
       {
         "name": "сирене Крема",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/191078-krema-sirene"
+        "id": 103
       },
       {
         "name": "айсберг",
         "qty": "1 лист",
-        "id": "http://www.1001recepti.com/s/203713-salata-aisberg"
+        "id": 101
       }
     ]
   },
@@ -1410,22 +1410,22 @@
       {
         "name": "питка със семена",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/199690-pitka"
+        "id": 175
       },
       {
         "name": "гъши пастет",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/196669-pastet"
+        "id": 322
       },
       {
         "name": "краставица",
         "qty": "1/4",
-        "id": "http://www.1001recepti.com/s/190690-krastavici"
+        "id": 44
       },
       {
         "name": "айсберг",
         "qty": "1 лист",
-        "id": "http://www.1001recepti.com/s/203713-salata-aisberg"
+        "id": 101
       }
     ]
   },
@@ -1471,27 +1471,27 @@
       {
         "name": "чабата с маслини",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/199690-pitka"
+        "id": 175
       },
       {
         "name": "луканка",
         "qty": "6 резена",
-        "id": "http://www.1001recepti.com/s/205140-svinsko-meso"
+        "id": 67
       },
       {
         "name": "домат",
         "qty": "3 резена",
-        "id": "http://www.1001recepti.com/s/185321-domati"
+        "id": 15
       },
       {
         "name": "краставица",
         "qty": "1/4",
-        "id": "http://www.1001recepti.com/s/190690-krastavici"
+        "id": 44
       },
       {
         "name": "ементал",
         "qty": "2 резена",
-        "id": "http://www.1001recepti.com/s/225152-sirene-emental"
+        "id": 179
       }
     ]
   },
@@ -1537,27 +1537,27 @@
       {
         "name": "пълнозърнеста питка",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/199690-pitka"
+        "id": 175
       },
       {
         "name": "топено сирене",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/209770-topeno-sirene"
+        "id": 112
       },
       {
         "name": "ементал",
         "qty": "1 резен",
-        "id": "http://www.1001recepti.com/s/225152-sirene-emental"
+        "id": 179
       },
       {
         "name": "чедър",
         "qty": "1 резен",
-        "id": "http://www.1001recepti.com/s/340549-sirene-chedur"
+        "id": 153
       },
       {
         "name": "краставица",
         "qty": "2 резена",
-        "id": "http://www.1001recepti.com/s/190690-krastavici"
+        "id": 44
       }
     ]
   },
@@ -1605,37 +1605,37 @@
       {
         "name": "питка",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/199690-pitka"
+        "id": 175
       },
       {
         "name": "бекон",
         "qty": "1 резен",
-        "id": "http://www.1001recepti.com/s/181657-bekon"
+        "id": 88
       },
       {
         "name": "домат",
         "qty": "2 резена",
-        "id": "http://www.1001recepti.com/s/185321-domati"
+        "id": 15
       },
       {
         "name": "краставица",
         "qty": "6 резена",
-        "id": "http://www.1001recepti.com/s/190690-krastavici"
+        "id": 44
       },
       {
         "name": "айсберг",
         "qty": "1 листо",
-        "id": "http://www.1001recepti.com/s/203713-salata-aisberg"
+        "id": 101
       },
       {
         "name": "царевица",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/211525-carevica"
+        "id": 78
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -1680,22 +1680,22 @@
       {
         "name": "чабата",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/199690-pitka"
+        "id": 175
       },
       {
         "name": "пастет от риба тон",
         "qty": "4 с.л.",
-        "id": "http://www.1001recepti.com/s/202829-riba-ton"
+        "id": 127
       },
       {
         "name": "айсберг",
         "qty": "1 лист",
-        "id": "http://www.1001recepti.com/s/203713-salata-aisberg"
+        "id": 101
       },
       {
         "name": "царевица",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/211525-carevica"
+        "id": 78
       }
     ]
   },
@@ -1743,37 +1743,37 @@
       {
         "name": "черен хляб",
         "qty": "4 филии",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "босилек",
         "qty": "1 връзка",
-        "id": "http://www.1001recepti.com/s/182424-bosilek"
+        "id": 25
       },
       {
         "name": "чесън",
         "qty": "2 скилидки",
-        "id": "http://www.1001recepti.com/s/212113-chesun"
+        "id": 6
       },
       {
         "name": "зехтин",
         "qty": "8 с.л.",
-        "id": "http://www.1001recepti.com/s/186978-zehtin"
+        "id": 10
       },
       {
         "name": "кедрови ядки",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/189143-kedrovi-iadki"
+        "id": 125
       },
       {
         "name": "моцарела",
         "qty": "125 г",
-        "id": "http://www.1001recepti.com/s/194019-mocarela"
+        "id": 93
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -1818,22 +1818,22 @@
       {
         "name": "пълнозърнеста питка",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/199690-pitka"
+        "id": 175
       },
       {
         "name": "ементал",
         "qty": "20 г",
-        "id": "http://www.1001recepti.com/s/225152-sirene-emental"
+        "id": 179
       },
       {
         "name": "кисела краставичка",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/190690-krastavici"
+        "id": 44
       },
       {
         "name": "пуешко филе",
         "qty": "20 г",
-        "id": "http://www.1001recepti.com/s/212873-shunka"
+        "id": 76
       }
     ]
   },
@@ -1879,27 +1879,27 @@
       {
         "name": "чабата",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/199690-pitka"
+        "id": 175
       },
       {
         "name": "масло",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "луканка",
         "qty": "30 г",
-        "id": "http://www.1001recepti.com/s/205140-svinsko-meso"
+        "id": 67
       },
       {
         "name": "домат",
         "qty": "1/2",
-        "id": "http://www.1001recepti.com/s/185321-domati"
+        "id": 15
       },
       {
         "name": "краставица",
         "qty": "1/4",
-        "id": "http://www.1001recepti.com/s/190690-krastavici"
+        "id": 44
       }
     ]
   },
@@ -1946,32 +1946,32 @@
       {
         "name": "питка",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/199690-pitka"
+        "id": 175
       },
       {
         "name": "кайма",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/187570-kaima"
+        "id": 54
       },
       {
         "name": "краставица",
         "qty": "4 резена",
-        "id": "http://www.1001recepti.com/s/190690-krastavici"
+        "id": 44
       },
       {
         "name": "домат",
         "qty": "1 резен",
-        "id": "http://www.1001recepti.com/s/185321-domati"
+        "id": 15
       },
       {
         "name": "ементал",
         "qty": "1 резен",
-        "id": "http://www.1001recepti.com/s/225152-sirene-emental"
+        "id": 179
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -2019,37 +2019,37 @@
       {
         "name": "хляб",
         "qty": "2 филии",
-        "id": "http://www.1001recepti.com/s/211322-hliab"
+        "id": 66
       },
       {
         "name": "хайвер",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/211161-haiver"
+        "id": 280
       },
       {
         "name": "каперси",
         "qty": "4",
-        "id": "http://www.1001recepti.com/s/187972-kapersi"
+        "id": 162
       },
       {
         "name": "червена чушка",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/212296-chushki"
+        "id": 18
       },
       {
         "name": "зелена чушка",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/212296-chushki"
+        "id": 18
       },
       {
         "name": "краставица",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/190690-krastavici"
+        "id": 44
       },
       {
         "name": "копър",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/190523-kopur"
+        "id": 28
       }
     ]
   },
@@ -2095,27 +2095,27 @@
       {
         "name": "хляб",
         "qty": "4 филии",
-        "id": "http://www.1001recepti.com/s/211322-hliab"
+        "id": 66
       },
       {
         "name": "яйца",
         "qty": "4",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "бекон",
         "qty": "200 г",
-        "id": "http://www.1001recepti.com/s/181657-bekon"
+        "id": 88
       },
       {
         "name": "масло",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -2164,42 +2164,42 @@
       {
         "name": "хляб",
         "qty": "4 филии",
-        "id": "http://www.1001recepti.com/s/211322-hliab"
+        "id": 66
       },
       {
         "name": "маргарин",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/192969-margarin"
+        "id": 202
       },
       {
         "name": "колбас",
         "qty": "4 резена",
-        "id": "http://www.1001recepti.com/s/212873-shunka"
+        "id": 76
       },
       {
         "name": "морков",
         "qty": "8 резена",
-        "id": "http://www.1001recepti.com/s/193952-morkovi"
+        "id": 13
       },
       {
         "name": "маслина",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/193230-maslini"
+        "id": 50
       },
       {
         "name": "червена чушка",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/212296-chushki"
+        "id": 18
       },
       {
         "name": "каперси",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/187972-kapersi"
+        "id": 162
       },
       {
         "name": "копър",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/190523-kopur"
+        "id": 28
       }
     ]
   },
@@ -2246,32 +2246,32 @@
       {
         "name": "питки",
         "qty": "4 пълнозърнести",
-        "id": "http://www.1001recepti.com/s/199690-pitka"
+        "id": 175
       },
       {
         "name": "домат",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/185321-domati"
+        "id": 15
       },
       {
         "name": "зелена салата",
         "qty": "4 листа",
-        "id": "http://www.1001recepti.com/s/186809-zelena-salata"
+        "id": 87
       },
       {
         "name": "яйца",
         "qty": "4",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "бекон",
         "qty": "200 г",
-        "id": "http://www.1001recepti.com/s/181657-bekon"
+        "id": 88
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -2318,32 +2318,32 @@
       {
         "name": "пълнозърнест хляб",
         "qty": "6 филии",
-        "id": "http://www.1001recepti.com/s/201365-pulnozurnest-hliab"
+        "id": 267
       },
       {
         "name": "авокадо",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/180404-avokado"
+        "id": 83
       },
       {
         "name": "зехтин",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/186978-zehtin"
+        "id": 10
       },
       {
         "name": "лимонов сок",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/192380-limonov-sok"
+        "id": 17
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "хамон",
         "qty": "60 г",
-        "id": "http://www.1001recepti.com/s/200710-proshuto"
+        "id": 208
       }
     ]
   },
@@ -2388,22 +2388,22 @@
       {
         "name": "черен хляб",
         "qty": "4 филии",
-        "id": "http://www.1001recepti.com/s/201365-pulnozurnest-hliab"
+        "id": 267
       },
       {
         "name": "пуешко филе",
         "qty": "200 г",
-        "id": "http://www.1001recepti.com/s/212873-shunka"
+        "id": 76
       },
       {
         "name": "горчица",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/183871-gorchica"
+        "id": 64
       },
       {
         "name": "моцарела",
         "qty": "80 г",
-        "id": "http://www.1001recepti.com/s/194019-mocarela"
+        "id": 93
       }
     ]
   },
@@ -2457,27 +2457,27 @@
       {
         "name": "пълнозърнест хляб",
         "qty": "8 филии",
-        "id": "http://www.1001recepti.com/s/201365-pulnozurnest-hliab"
+        "id": 267
       },
       {
         "name": "броколи",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/182507-brokoli"
+        "id": 57
       },
       {
         "name": "гъби",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/184313-gubi"
+        "id": 37
       },
       {
         "name": "шунка",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/212873-shunka"
+        "id": 76
       },
       {
         "name": "чедър",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/340549-sirene-chedur"
+        "id": 153
       }
     ]
   },
@@ -2523,27 +2523,27 @@
       {
         "name": "пълнозърнеста питка",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/199690-pitka"
+        "id": 175
       },
       {
         "name": "масло",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "луканка",
         "qty": "20 г",
-        "id": "http://www.1001recepti.com/s/205140-svinsko-meso"
+        "id": 67
       },
       {
         "name": "кашкавал",
         "qty": "20 г",
-        "id": "http://www.1001recepti.com/s/189045-kashkaval"
+        "id": 47
       },
       {
         "name": "айсберг",
         "qty": "2 листа",
-        "id": "http://www.1001recepti.com/s/203713-salata-aisberg"
+        "id": 101
       }
     ]
   },
@@ -2588,22 +2588,22 @@
       {
         "name": "хляб",
         "qty": "4 филии",
-        "id": "http://www.1001recepti.com/s/211322-hliab"
+        "id": 66
       },
       {
         "name": "праз",
         "qty": "1 стрък",
-        "id": "http://www.1001recepti.com/s/200402-praz-luk"
+        "id": 51
       },
       {
         "name": "яйца",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "сирене",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/205659-sirene"
+        "id": 32
       }
     ]
   },
@@ -2648,22 +2648,22 @@
       {
         "name": "хляб",
         "qty": "4 филии",
-        "id": "http://www.1001recepti.com/s/211322-hliab"
+        "id": 66
       },
       {
         "name": "зелени чушки",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/212296-chushki"
+        "id": 18
       },
       {
         "name": "яйца",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "сирене",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/205659-sirene"
+        "id": 32
       }
     ]
   },
@@ -2710,32 +2710,32 @@
       {
         "name": "хляб",
         "qty": "8 филии",
-        "id": "http://www.1001recepti.com/s/211322-hliab"
+        "id": 66
       },
       {
         "name": "маслини",
         "qty": "50 г",
-        "id": "http://www.1001recepti.com/s/193230-maslini"
+        "id": 50
       },
       {
         "name": "орехи",
         "qty": "50 г",
-        "id": "http://www.1001recepti.com/s/195111-orehi"
+        "id": 31
       },
       {
         "name": "зехтин",
         "qty": "4 с.л.",
-        "id": "http://www.1001recepti.com/s/186978-zehtin"
+        "id": 10
       },
       {
         "name": "мед",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/193286-med"
+        "id": 38
       },
       {
         "name": "хамон",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/200710-proshuto"
+        "id": 208
       }
     ]
   },
@@ -2781,27 +2781,27 @@
       {
         "name": "хляб",
         "qty": "4 филии",
-        "id": "http://www.1001recepti.com/s/211322-hliab"
+        "id": 66
       },
       {
         "name": "луканка",
         "qty": "50 г",
-        "id": "http://www.1001recepti.com/s/205140-svinsko-meso"
+        "id": 67
       },
       {
         "name": "кашкавал",
         "qty": "50 г",
-        "id": "http://www.1001recepti.com/s/189045-kashkaval"
+        "id": 47
       },
       {
         "name": "масло",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "шарена сол",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -2849,37 +2849,37 @@
       {
         "name": "хляб",
         "qty": "6 филии",
-        "id": "http://www.1001recepti.com/s/211322-hliab"
+        "id": 66
       },
       {
         "name": "зелена салата",
         "qty": "2 листа",
-        "id": "http://www.1001recepti.com/s/186809-zelena-salata"
+        "id": 87
       },
       {
         "name": "шунка",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/212873-shunka"
+        "id": 76
       },
       {
         "name": "яйце",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "домат",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/185321-domati"
+        "id": 15
       },
       {
         "name": "масло",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   },
@@ -2938,52 +2938,52 @@
       {
         "name": "тортили",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/199703-pitka-za-duner"
+        "id": 318
       },
       {
         "name": "домата",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/185321-domati"
+        "id": 15
       },
       {
         "name": "кайма",
         "qty": "300 г",
-        "id": "http://www.1001recepti.com/s/187570-kaima"
+        "id": 54
       },
       {
         "name": "лук",
         "qty": "1 глава",
-        "id": "http://www.1001recepti.com/s/192500-luk"
+        "id": 3
       },
       {
         "name": "чесън",
         "qty": "4 скилидки",
-        "id": "http://www.1001recepti.com/s/212113-chesun"
+        "id": 6
       },
       {
         "name": "айсберг",
         "qty": "4 листа",
-        "id": "http://www.1001recepti.com/s/203713-salata-aisberg"
+        "id": 101
       },
       {
         "name": "зехтин",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/186978-zehtin"
+        "id": 10
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "кимион",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/189725-kimion"
+        "id": 42
       },
       {
         "name": "черен пипер",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+        "id": 2
       }
     ]
   },
@@ -3039,37 +3039,37 @@
       {
         "name": "хляб Бонус",
         "qty": "2 филии",
-        "id": "http://www.1001recepti.com/s/211322-hliab"
+        "id": 66
       },
       {
         "name": "колбас",
         "qty": "2 резена",
-        "id": "http://www.1001recepti.com/s/212873-shunka"
+        "id": 76
       },
       {
         "name": "царевица",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/211525-carevica"
+        "id": 78
       },
       {
         "name": "чери домат",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/185321-domati"
+        "id": 15
       },
       {
         "name": "кашкавал",
         "qty": "2 резена",
-        "id": "http://www.1001recepti.com/s/189045-kashkaval"
+        "id": 47
       },
       {
         "name": "маслина",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/193230-maslini"
+        "id": 50
       },
       {
         "name": "краставица",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/190690-krastavici"
+        "id": 44
       }
     ]
   },
@@ -3124,32 +3124,32 @@
       {
         "name": "хляб Бонус",
         "qty": "2 филии",
-        "id": "http://www.1001recepti.com/s/211322-hliab"
+        "id": 66
       },
       {
         "name": "пушена сьомга",
         "qty": "30 г",
-        "id": "http://www.1001recepti.com/s/200923-pushena-sioomga"
+        "id": 215
       },
       {
         "name": "маслина",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/193230-maslini"
+        "id": 50
       },
       {
         "name": "солета",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "червен лук",
         "qty": "1 резен",
-        "id": "http://www.1001recepti.com/s/192500-luk"
+        "id": 3
       },
       {
         "name": "пресен лук",
         "qty": "2 стръка",
-        "id": "http://www.1001recepti.com/s/200572-presen-luk"
+        "id": 24
       }
     ]
   },
@@ -3203,27 +3203,27 @@
       {
         "name": "хляб Бонус",
         "qty": "1 филия",
-        "id": "http://www.1001recepti.com/s/211322-hliab"
+        "id": 66
       },
       {
         "name": "колбас Закуска",
         "qty": "1 резен",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "чери домат",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/185321-domati"
+        "id": 15
       },
       {
         "name": "маслини",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/193230-maslini"
+        "id": 50
       },
       {
         "name": "пресен лук",
         "qty": "1 стрък",
-        "id": "http://www.1001recepti.com/s/200572-presen-luk"
+        "id": 24
       }
     ]
   },
@@ -3274,32 +3274,32 @@
       {
         "name": "хляб",
         "qty": "2 филии",
-        "id": "http://www.1001recepti.com/s/211322-hliab"
+        "id": 66
       },
       {
         "name": "масло",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "домат",
         "qty": "2 резена",
-        "id": "http://www.1001recepti.com/s/185321-domati"
+        "id": 15
       },
       {
         "name": "кренвирш",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/191171-krenvirshi"
+        "id": 161
       },
       {
         "name": "черен пипер",
         "qty": "4 зърна",
-        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+        "id": 2
       },
       {
         "name": "магданоз",
         "qty": "1 стрък",
-        "id": "http://www.1001recepti.com/s/192612-magdanoz"
+        "id": 12
       }
     ]
   },
@@ -3364,42 +3364,42 @@
       {
         "name": "хляб",
         "qty": "1 филия",
-        "id": "http://www.1001recepti.com/s/211322-hliab"
+        "id": 66
       },
       {
         "name": "масло",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "домат",
         "qty": "1 резен",
-        "id": "http://www.1001recepti.com/s/185321-domati"
+        "id": 15
       },
       {
         "name": "краставица",
         "qty": "2 резена",
-        "id": "http://www.1001recepti.com/s/190690-krastavici"
+        "id": 44
       },
       {
         "name": "морков",
         "qty": "2 резена",
-        "id": "http://www.1001recepti.com/s/193952-morkovi"
+        "id": 13
       },
       {
         "name": "кренвирш",
         "qty": "1/2",
-        "id": "http://www.1001recepti.com/s/191171-krenvirshi"
+        "id": 161
       },
       {
         "name": "чушка",
         "qty": "1 резен",
-        "id": "http://www.1001recepti.com/s/212296-chushki"
+        "id": 18
       },
       {
         "name": "магданоз",
         "qty": "1 стрък",
-        "id": "http://www.1001recepti.com/s/192612-magdanoz"
+        "id": 12
       }
     ]
   },
@@ -3455,37 +3455,37 @@
       {
         "name": "хляб",
         "qty": "1 филия",
-        "id": "http://www.1001recepti.com/s/211322-hliab"
+        "id": 66
       },
       {
         "name": "масло",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/193240-maslo"
+        "id": 8
       },
       {
         "name": "кренвирш",
         "qty": "1/2",
-        "id": "http://www.1001recepti.com/s/191171-krenvirshi"
+        "id": 161
       },
       {
         "name": "краставица",
         "qty": "1 резен",
-        "id": "http://www.1001recepti.com/s/190690-krastavici"
+        "id": 44
       },
       {
         "name": "морков",
         "qty": "1 резен",
-        "id": "http://www.1001recepti.com/s/193952-morkovi"
+        "id": 13
       },
       {
         "name": "червена чушка",
         "qty": "1 резен",
-        "id": "http://www.1001recepti.com/s/212296-chushki"
+        "id": 18
       },
       {
         "name": "черен пипер",
         "qty": "1 зърно",
-        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+        "id": 2
       }
     ]
   },
@@ -3540,32 +3540,32 @@
       {
         "name": "хляб",
         "qty": "2 филии",
-        "id": "http://www.1001recepti.com/s/211322-hliab"
+        "id": 66
       },
       {
         "name": "шунка",
         "qty": "2 резена",
-        "id": "http://www.1001recepti.com/s/212873-shunka"
+        "id": 76
       },
       {
         "name": "краставица",
         "qty": "4 резена",
-        "id": "http://www.1001recepti.com/s/190690-krastavici"
+        "id": 44
       },
       {
         "name": "червена чушка",
         "qty": "2 резена",
-        "id": "http://www.1001recepti.com/s/212296-chushki"
+        "id": 18
       },
       {
         "name": "морков",
         "qty": "4 колелца",
-        "id": "http://www.1001recepti.com/s/193952-morkovi"
+        "id": 13
       },
       {
         "name": "магданоз",
         "qty": "4 стръка",
-        "id": "http://www.1001recepti.com/s/192612-magdanoz"
+        "id": 12
       }
     ]
   },
@@ -3620,32 +3620,32 @@
       {
         "name": "хляб",
         "qty": "1 филия",
-        "id": "http://www.1001recepti.com/s/211322-hliab"
+        "id": 66
       },
       {
         "name": "шунка",
         "qty": "1 резен",
-        "id": "http://www.1001recepti.com/s/212873-shunka"
+        "id": 76
       },
       {
         "name": "яйце",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "магданоз",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/192612-magdanoz"
+        "id": 12
       },
       {
         "name": "червена чушка",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/212296-chushki"
+        "id": 18
       },
       {
         "name": "морков",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/193952-morkovi"
+        "id": 13
       }
     ]
   },
@@ -3694,22 +3694,22 @@
       {
         "name": "хляб",
         "qty": "1 филия",
-        "id": "http://www.1001recepti.com/s/211322-hliab"
+        "id": 66
       },
       {
         "name": "доматено пюре",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/185315-domateno-pure"
+        "id": 35
       },
       {
         "name": "кашкавал",
         "qty": "10 г",
-        "id": "http://www.1001recepti.com/s/189045-kashkaval"
+        "id": 47
       },
       {
         "name": "маслина",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/193230-maslini"
+        "id": 50
       }
     ]
   },
@@ -3758,22 +3758,22 @@
       {
         "name": "хляб",
         "qty": "2 филии",
-        "id": "http://www.1001recepti.com/s/211322-hliab"
+        "id": 66
       },
       {
         "name": "кетчуп",
         "qty": "3 с.л.",
-        "id": "http://www.1001recepti.com/s/189643-ketchup"
+        "id": 193
       },
       {
         "name": "кашкавал",
         "qty": "30 г",
-        "id": "http://www.1001recepti.com/s/189045-kashkaval"
+        "id": 47
       },
       {
         "name": "маслина",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/193230-maslini"
+        "id": 50
       }
     ]
   },
@@ -3839,67 +3839,67 @@
       {
         "name": "арабски питки",
         "qty": "4",
-        "id": "http://www.1001recepti.com/s/199703-pitka-za-duner"
+        "id": 318
       },
       {
         "name": "агнешко месо",
         "qty": "250 г",
-        "id": "http://www.1001recepti.com/s/180579-agneshko-meso"
+        "id": 81
       },
       {
         "name": "лук",
         "qty": "1 глава",
-        "id": "http://www.1001recepti.com/s/192500-luk"
+        "id": 3
       },
       {
         "name": "чесън",
         "qty": "2 скилидки",
-        "id": "http://www.1001recepti.com/s/212113-chesun"
+        "id": 6
       },
       {
         "name": "оцет",
         "qty": "100 мл.",
-        "id": "http://www.1001recepti.com/s/195631-ocet"
+        "id": 61
       },
       {
         "name": "зеле",
         "qty": "80 г",
-        "id": "http://www.1001recepti.com/s/200728-priasno-zele"
+        "id": 94
       },
       {
         "name": "домат",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/185321-domati"
+        "id": 15
       },
       {
         "name": "пържени картофи",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/201444-purjeni-kartofi"
+        "id": 404
       },
       {
         "name": "майонеза",
         "qty": "4 с.л.",
-        "id": "http://www.1001recepti.com/s/192670-maioneza"
+        "id": 80
       },
       {
         "name": "горчица",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/183871-gorchica"
+        "id": 64
       },
       {
         "name": "лимонов сок",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/192380-limonov-sok"
+        "id": 17
       },
       {
         "name": "кисело мляко",
         "qty": "3 с.л.",
-        "id": "http://www.1001recepti.com/s/189828-kiselo-mliako"
+        "id": 21
       },
       {
         "name": "захар",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       }
     ]
   },
@@ -3955,37 +3955,37 @@
       {
         "name": "арабски питки",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/199703-pitka-za-duner"
+        "id": 318
       },
       {
         "name": "яйца",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "жълта чушка",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/212296-chushki"
+        "id": 18
       },
       {
         "name": "червена чушка",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/212296-chushki"
+        "id": 18
       },
       {
         "name": "колбас",
         "qty": "200 г",
-        "id": "http://www.1001recepti.com/s/212873-shunka"
+        "id": 76
       },
       {
         "name": "зелена салата",
         "qty": "2 листа",
-        "id": "http://www.1001recepti.com/s/186809-zelena-salata"
+        "id": 87
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       }
     ]
   }

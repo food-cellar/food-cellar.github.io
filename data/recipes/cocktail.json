@@ -39,17 +39,17 @@
       {
         "name": "крем какао",
         "qty": "10 мл.",
-        "id": "http://www.1001recepti.com/s/200771-puding"
+        "id": 234
       },
       {
         "name": "черешов ликьор",
         "qty": "10 мл.",
-        "id": "http://www.1001recepti.com/s/192341-likioor"
+        "id": 172
       },
       {
         "name": "сметана",
         "qty": "10 мл.",
-        "id": "http://www.1001recepti.com/s/206695-smetana"
+        "id": 19
       }
     ]
   },
@@ -98,22 +98,22 @@
       {
         "name": "карамболи",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "захар",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "сода",
         "qty": "200 мл.",
-        "id": "http://www.1001recepti.com/s/349459-soda-za-hliab"
+        "id": 56
       },
       {
         "name": "лед",
         "qty": "6 кубчета",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -161,37 +161,37 @@
       {
         "name": "вода",
         "qty": "6 с.л.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "инстантно кафе",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/225117-instantno-kafe"
+        "id": 272
       },
       {
         "name": "шоколадов ликьор",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "какао",
         "qty": "1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/187777-kakao"
+        "id": 45
       },
       {
         "name": "прясно мляко",
         "qty": "150 мл.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "течен подсладител",
         "qty": "1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/200105-podsladitel"
+        "id": 173
       },
       {
         "name": "лед",
         "qty": "4 кубчета",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -238,12 +238,12 @@
       {
         "name": "тъмен ром",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/203139-rom"
+        "id": 74
       },
       {
         "name": "ликьор шоколад",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/192342-likioor-kafe"
+        "id": 334
       }
     ]
   },
@@ -287,17 +287,17 @@
       {
         "name": "джин",
         "qty": "75 мл.",
-        "id": "http://www.1001recepti.com/s/185007-djin"
+        "id": 192
       },
       {
         "name": "вермут",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/219977-vermut"
+        "id": 190
       },
       {
         "name": "мента",
         "qty": "10 мл.",
-        "id": "http://www.1001recepti.com/s/193446-menta"
+        "id": 90
       }
     ]
   },
@@ -342,22 +342,22 @@
       {
         "name": "ягоди",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/213173-iagodi"
+        "id": 109
       },
       {
         "name": "къпини",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/191647-kupini"
+        "id": 254
       },
       {
         "name": "прясно мляко",
         "qty": "200 мл.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "ванилов сладолед",
         "qty": "200 г",
-        "id": "http://www.1001recepti.com/s/206573-sladoled"
+        "id": 226
       }
     ]
   },
@@ -402,22 +402,22 @@
       {
         "name": "ром",
         "qty": "10 мл.",
-        "id": "http://www.1001recepti.com/s/203139-rom"
+        "id": 74
       },
       {
         "name": "ликьор банан",
         "qty": "10 мл.",
-        "id": "http://www.1001recepti.com/s/364548-likioor-pupesh"
+        "id": 305
       },
       {
         "name": "битер",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "шампанско",
         "qty": "100 мл.",
-        "id": "http://www.1001recepti.com/s/225151-shampansko"
+        "id": 265
       }
     ]
   },
@@ -467,27 +467,27 @@
       {
         "name": "моркова",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/193952-morkovi"
+        "id": 13
       },
       {
         "name": "чили чушка",
         "qty": "1/2",
-        "id": "http://www.1001recepti.com/s/192577-luti-chushki"
+        "id": 105
       },
       {
         "name": "ананас",
         "qty": "1/2",
-        "id": "http://www.1001recepti.com/s/180780-ananas"
+        "id": 146
       },
       {
         "name": "лайм",
         "qty": "1/2",
-        "id": "http://www.1001recepti.com/s/192050-laim"
+        "id": 204
       },
       {
         "name": "кориандър",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/190558-koriandur"
+        "id": 97
       }
     ]
   },
@@ -532,22 +532,22 @@
       {
         "name": "портокала",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/200171-portokali"
+        "id": 122
       },
       {
         "name": "кайсии",
         "qty": "200 г",
-        "id": "http://www.1001recepti.com/s/187633-kaisii"
+        "id": 185
       },
       {
         "name": "лед",
         "qty": "8 кубчета",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "вода",
         "qty": "1/2 к.ч.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -592,22 +592,22 @@
       {
         "name": "водка",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/183462-vodka"
+        "id": 154
       },
       {
         "name": "сок от боровинки",
         "qty": "120 мл.",
-        "id": "http://www.1001recepti.com/s/215501-sok-ot-borovinki"
+        "id": 297
       },
       {
         "name": "сок от грейпфрут",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/225099-sok-ot-greipfrut"
+        "id": 285
       },
       {
         "name": "мента",
         "qty": "1 стрък",
-        "id": "http://www.1001recepti.com/s/193446-menta"
+        "id": 90
       }
     ]
   },
@@ -650,12 +650,12 @@
       {
         "name": "ликьор пъпеш",
         "qty": "15 мл.",
-        "id": "http://www.1001recepti.com/s/192341-likioor"
+        "id": 172
       },
       {
         "name": "ром малибу",
         "qty": "15 мл.",
-        "id": "http://www.1001recepti.com/s/203139-rom"
+        "id": 74
       }
     ]
   },
@@ -698,12 +698,12 @@
       {
         "name": "гренадин",
         "qty": "15 мл.",
-        "id": "http://www.1001recepti.com/s/215290-grenadin"
+        "id": 222
       },
       {
         "name": "златиста текила",
         "qty": "20 мл.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       }
     ]
   },
@@ -748,22 +748,22 @@
       {
         "name": "ликьор какао",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/192341-likioor"
+        "id": 172
       },
       {
         "name": "ванилов ликьор",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/192341-likioor"
+        "id": 172
       },
       {
         "name": "бейлис",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/181655-beilis"
+        "id": 319
       },
       {
         "name": "мляко",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       }
     ]
   },
@@ -808,22 +808,22 @@
       {
         "name": "манго",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/192926-mango"
+        "id": 336
       },
       {
         "name": "сок от боровинки",
         "qty": "200 мл.",
-        "id": "http://www.1001recepti.com/s/215501-sok-ot-borovinki"
+        "id": 297
       },
       {
         "name": "кисело мляко с праскови",
         "qty": "150 мл.",
-        "id": "http://www.1001recepti.com/s/189828-kiselo-mliako"
+        "id": 21
       },
       {
         "name": "червени боровинки",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/182407-borovinki"
+        "id": 184
       }
     ]
   },
@@ -868,22 +868,22 @@
       {
         "name": "водка",
         "qty": "25",
-        "id": "http://www.1001recepti.com/s/183462-vodka"
+        "id": 154
       },
       {
         "name": "ликьор Crème De Menthe",
         "qty": "15",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "сода",
         "qty": "100",
-        "id": "http://www.1001recepti.com/s/349459-soda-za-hliab"
+        "id": 56
       },
       {
         "name": "ябълков сок",
         "qty": "25",
-        "id": "http://www.1001recepti.com/s/225097-sok-ot-iabulka"
+        "id": 298
       }
     ]
   },
@@ -927,17 +927,17 @@
       {
         "name": "водка с аромат на малина",
         "qty": "750 мл.",
-        "id": "http://www.1001recepti.com/s/183462-vodka"
+        "id": 154
       },
       {
         "name": "боровинков сок",
         "qty": "1 1/2 л.",
-        "id": "http://www.1001recepti.com/s/215501-sok-ot-borovinki"
+        "id": 297
       },
       {
         "name": "спрайт",
         "qty": "1/2 л.",
-        "id": "http://www.1001recepti.com/s/225155-sprait"
+        "id": 386
       }
     ]
   },
@@ -983,27 +983,27 @@
       {
         "name": "водка",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/183462-vodka"
+        "id": 154
       },
       {
         "name": "ликьор от праскови",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/217755-likioor-ot-praskovi"
+        "id": 320
       },
       {
         "name": "синьо кюрасо",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/225138-likioor-kuraso"
+        "id": 209
       },
       {
         "name": "сок от ананас",
         "qty": "75",
-        "id": "http://www.1001recepti.com/s/225106-sok-ot-ananas"
+        "id": 213
       },
       {
         "name": "лед",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -1054,32 +1054,32 @@
       {
         "name": "шампанско",
         "qty": "90 мл.",
-        "id": "http://www.1001recepti.com/s/225151-shampansko"
+        "id": 265
       },
       {
         "name": "сок от грейпфрут",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/225099-sok-ot-greipfrut"
+        "id": 285
       },
       {
         "name": "сок от ананас",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/225106-sok-ot-ananas"
+        "id": 213
       },
       {
         "name": "гренадин",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/215290-grenadin"
+        "id": 222
       },
       {
         "name": "коктейлна черешка",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/212045-chereshi"
+        "id": 126
       },
       {
         "name": "мента",
         "qty": "1 листенце",
-        "id": "http://www.1001recepti.com/s/193446-menta"
+        "id": 90
       }
     ]
   },
@@ -1125,27 +1125,27 @@
       {
         "name": "уиски",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/210665-uiski"
+        "id": 206
       },
       {
         "name": "мастика",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/225143-perno"
+        "id": 337
       },
       {
         "name": "лимонов сок",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/192380-limonov-sok"
+        "id": 17
       },
       {
         "name": "белтък",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/362534-iaicheni-beltuci"
+        "id": 157
       },
       {
         "name": "захар",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       }
     ]
   },
@@ -1188,12 +1188,12 @@
       {
         "name": "калуа",
         "qty": "15 мл.",
-        "id": "http://www.1001recepti.com/s/192341-likioor"
+        "id": 172
       },
       {
         "name": "ликьор от пъпеш",
         "qty": "15 мл.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       }
     ]
   },
@@ -1239,27 +1239,27 @@
       {
         "name": "ром",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/203139-rom"
+        "id": 74
       },
       {
         "name": "мента",
         "qty": "12 листа",
-        "id": "http://www.1001recepti.com/s/193446-menta"
+        "id": 90
       },
       {
         "name": "пудра захар",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/225125-pudra-zahar"
+        "id": 34
       },
       {
         "name": "лайм",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/192050-laim"
+        "id": 204
       },
       {
         "name": "сода",
         "qty": "100 мл.",
-        "id": "http://www.1001recepti.com/s/349459-soda-za-hliab"
+        "id": 56
       }
     ]
   },
@@ -1305,27 +1305,27 @@
       {
         "name": "текила",
         "qty": "75 мл.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "трипъл сек",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "лимонов сок",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/192380-limonov-sok"
+        "id": 17
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "лайм",
         "qty": "1 резен",
-        "id": "http://www.1001recepti.com/s/192050-laim"
+        "id": 204
       }
     ]
   },
@@ -1379,27 +1379,27 @@
       {
         "name": "бял ром",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/203139-rom"
+        "id": 74
       },
       {
         "name": "кокосова сметана",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/190169-kokos"
+        "id": 100
       },
       {
         "name": "сок от ананас",
         "qty": "90 мл.",
-        "id": "http://www.1001recepti.com/s/225106-sok-ot-ananas"
+        "id": 213
       },
       {
         "name": "натрошен лед",
         "qty": "5 с.л.",
-        "id": "http://www.1001recepti.com/s/219536-led"
+        "id": 281
       },
       {
         "name": "ананас",
         "qty": "1 резенче",
-        "id": "http://www.1001recepti.com/s/180780-ananas"
+        "id": 146
       }
     ]
   },
@@ -1444,22 +1444,22 @@
       {
         "name": "бял ром",
         "qty": "75 мл.",
-        "id": "http://www.1001recepti.com/s/203139-rom"
+        "id": 74
       },
       {
         "name": "лайм",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/192050-laim"
+        "id": 204
       },
       {
         "name": "захар",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "натрошен лед",
         "qty": "5 с.л.",
-        "id": "http://www.1001recepti.com/s/219536-led"
+        "id": 281
       }
     ]
   },
@@ -1505,27 +1505,27 @@
       {
         "name": "ром Captain Morgan",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/203139-rom"
+        "id": 74
       },
       {
         "name": "тъмен ром",
         "qty": "15 мл.",
-        "id": "http://www.1001recepti.com/s/203139-rom"
+        "id": 74
       },
       {
         "name": "портокалов сок",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/200181-portokalov-sok"
+        "id": 177
       },
       {
         "name": "сок от ананас",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/225106-sok-ot-ananas"
+        "id": 213
       },
       {
         "name": "сладко кисел микс",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/225132-zaharen-sirop"
+        "id": 282
       }
     ]
   },
@@ -1572,32 +1572,32 @@
       {
         "name": "ягоди",
         "qty": "6",
-        "id": "http://www.1001recepti.com/s/213173-iagodi"
+        "id": 109
       },
       {
         "name": "бял ром",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/203139-rom"
+        "id": 74
       },
       {
         "name": "лимонов сок",
         "qty": "20 мл.",
-        "id": "http://www.1001recepti.com/s/192380-limonov-sok"
+        "id": 17
       },
       {
         "name": "пудра захар",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "ягодов ликьор",
         "qty": "15 мл.",
-        "id": "http://www.1001recepti.com/s/192341-likioor"
+        "id": 172
       },
       {
         "name": "лед",
         "qty": "10 кубчета",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -1646,42 +1646,42 @@
       {
         "name": "бял ром",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/203139-rom"
+        "id": 74
       },
       {
         "name": "тъмен ром",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/203139-rom"
+        "id": 74
       },
       {
         "name": "трипъл сек",
         "qty": "15 мл.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "захарен сироп",
         "qty": "5 мл.",
-        "id": "http://www.1001recepti.com/s/225132-zaharen-sirop"
+        "id": 282
       },
       {
         "name": "гренадин",
         "qty": "15 мл.",
-        "id": "http://www.1001recepti.com/s/215290-grenadin"
+        "id": 222
       },
       {
         "name": "лимонов сок",
         "qty": "10 мл.",
-        "id": "http://www.1001recepti.com/s/192380-limonov-sok"
+        "id": 17
       },
       {
         "name": "мента",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/193446-menta"
+        "id": 90
       },
       {
         "name": "лед",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -1727,27 +1727,27 @@
       {
         "name": "водка",
         "qty": "40 мл.",
-        "id": "http://www.1001recepti.com/s/183462-vodka"
+        "id": 154
       },
       {
         "name": "коантро",
         "qty": "15 мл.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "лимонов сок",
         "qty": "15 мл.",
-        "id": "http://www.1001recepti.com/s/192380-limonov-sok"
+        "id": 17
       },
       {
         "name": "сок от боровинки",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/215501-sok-ot-borovinki"
+        "id": 297
       },
       {
         "name": "лимонова кора",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/225100-limonova-kora"
+        "id": 107
       }
     ]
   },
@@ -1794,32 +1794,32 @@
       {
         "name": "джин",
         "qty": "100 мл.",
-        "id": "http://www.1001recepti.com/s/185007-djin"
+        "id": 192
       },
       {
         "name": "лимонов сок",
         "qty": "15 мл.",
-        "id": "http://www.1001recepti.com/s/192380-limonov-sok"
+        "id": 17
       },
       {
         "name": "портокалов сок",
         "qty": "15 мл.",
-        "id": "http://www.1001recepti.com/s/200181-portokalov-sok"
+        "id": 177
       },
       {
         "name": "сок от грейпфрут",
         "qty": "15 мл.",
-        "id": "http://www.1001recepti.com/s/225099-sok-ot-greipfrut"
+        "id": 285
       },
       {
         "name": "гренадин",
         "qty": "10 мл.",
-        "id": "http://www.1001recepti.com/s/215290-grenadin"
+        "id": 222
       },
       {
         "name": "портокалови кори",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/200188-portokalovi-kori"
+        "id": 159
       }
     ]
   },
@@ -1866,32 +1866,32 @@
       {
         "name": "бял ром",
         "qty": "75 мл.",
-        "id": "http://www.1001recepti.com/s/203139-rom"
+        "id": 74
       },
       {
         "name": "портокалов сок",
         "qty": "75 мл.",
-        "id": "http://www.1001recepti.com/s/200181-portokalov-sok"
+        "id": 177
       },
       {
         "name": "гренадин",
         "qty": "5 мл.",
-        "id": "http://www.1001recepti.com/s/215290-grenadin"
+        "id": 222
       },
       {
         "name": "ликьор Мараскино",
         "qty": "10 мл.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "коктейлна черешка",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/212045-chereshi"
+        "id": 126
       },
       {
         "name": "портокал",
         "qty": "1 резенче",
-        "id": "http://www.1001recepti.com/s/200171-portokali"
+        "id": 122
       }
     ]
   },
@@ -1936,22 +1936,22 @@
       {
         "name": "уиски",
         "qty": "100 мл.",
-        "id": "http://www.1001recepti.com/s/210665-uiski"
+        "id": 206
       },
       {
         "name": "вода",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "пудра захар",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/225125-pudra-zahar"
+        "id": 34
       },
       {
         "name": "мента",
         "qty": "4 листенца",
-        "id": "http://www.1001recepti.com/s/193446-menta"
+        "id": 90
       }
     ]
   },
@@ -2007,37 +2007,37 @@
       {
         "name": "бял ром",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/203139-rom"
+        "id": 74
       },
       {
         "name": "сок от ананас",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/225106-sok-ot-ananas"
+        "id": 213
       },
       {
         "name": "синьо кюрасо",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/225138-likioor-kuraso"
+        "id": 209
       },
       {
         "name": "кокосова сметана",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/190169-kokos"
+        "id": 100
       },
       {
         "name": "лед",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "коктейлна черешка",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/212045-chereshi"
+        "id": 126
       },
       {
         "name": "ананас",
         "qty": "1 шайба",
-        "id": "http://www.1001recepti.com/s/180780-ananas"
+        "id": 146
       }
     ]
   },
@@ -2085,37 +2085,37 @@
       {
         "name": "водка",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/183462-vodka"
+        "id": 154
       },
       {
         "name": "ликьор от праскови",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/217755-likioor-ot-praskovi"
+        "id": 320
       },
       {
         "name": "сок от портокал",
         "qty": "75 мл.",
-        "id": "http://www.1001recepti.com/s/200181-portokalov-sok"
+        "id": 177
       },
       {
         "name": "сок от боровинки",
         "qty": "75 мл.",
-        "id": "http://www.1001recepti.com/s/215501-sok-ot-borovinki"
+        "id": 297
       },
       {
         "name": "лед",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "портокал",
         "qty": "1 резен",
-        "id": "http://www.1001recepti.com/s/200171-portokali"
+        "id": 122
       },
       {
         "name": "коктейлна черешка",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/212045-chereshi"
+        "id": 126
       }
     ]
   },
@@ -2159,17 +2159,17 @@
       {
         "name": "джин",
         "qty": "75 мл.",
-        "id": "http://www.1001recepti.com/s/185007-djin"
+        "id": 192
       },
       {
         "name": "вермут",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/219977-vermut"
+        "id": 190
       },
       {
         "name": "коктейлни маслини",
         "qty": "3",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       }
     ]
   },
@@ -2212,12 +2212,12 @@
       {
         "name": "калуа",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/192341-likioor"
+        "id": 172
       },
       {
         "name": "уиски",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/210665-uiski"
+        "id": 206
       }
     ]
   },
@@ -2260,12 +2260,12 @@
       {
         "name": "kahlua",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/192342-likioor-kafe"
+        "id": 334
       },
       {
         "name": "сметана",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/206695-smetana"
+        "id": 19
       }
     ]
   },
@@ -2315,27 +2315,27 @@
       {
         "name": "бърбън",
         "qty": "45 мл.",
-        "id": "http://www.1001recepti.com/s/210665-uiski"
+        "id": 206
       },
       {
         "name": "лимонов сок",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/192380-limonov-sok"
+        "id": 17
       },
       {
         "name": "захарен сироп",
         "qty": "15 мл.",
-        "id": "http://www.1001recepti.com/s/225132-zaharen-sirop"
+        "id": 282
       },
       {
         "name": "коктейлна черешка",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/212045-chereshi"
+        "id": 126
       },
       {
         "name": "лимонова кора",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/225100-limonova-kora"
+        "id": 107
       }
     ]
   },
@@ -2389,27 +2389,27 @@
       {
         "name": "вермут",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/219977-vermut"
+        "id": 190
       },
       {
         "name": "уиски",
         "qty": "75 мл.",
-        "id": "http://www.1001recepti.com/s/210665-uiski"
+        "id": 206
       },
       {
         "name": "Angostura bitters",
         "qty": "5 мл.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "портокал",
         "qty": "1 резенче",
-        "id": "http://www.1001recepti.com/s/200171-portokali"
+        "id": 122
       },
       {
         "name": "коктейлни черешки",
         "qty": "5",
-        "id": "http://www.1001recepti.com/s/212045-chereshi"
+        "id": 126
       }
     ]
   },
@@ -2454,22 +2454,22 @@
       {
         "name": "джин",
         "qty": "100 мл.",
-        "id": "http://www.1001recepti.com/s/185007-djin"
+        "id": 192
       },
       {
         "name": "кампари",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "лимонов сок",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/192380-limonov-sok"
+        "id": 17
       },
       {
         "name": "малини",
         "qty": "20 г",
-        "id": "http://www.1001recepti.com/s/192856-malini"
+        "id": 141
       }
     ]
   },
@@ -2514,22 +2514,22 @@
       {
         "name": "кафе",
         "qty": "75 мл.",
-        "id": "http://www.1001recepti.com/s/188995-kafe"
+        "id": 144
       },
       {
         "name": "уиски",
         "qty": "15 мл.",
-        "id": "http://www.1001recepti.com/s/210665-uiski"
+        "id": 206
       },
       {
         "name": "сметана",
         "qty": "10 мл.",
-        "id": "http://www.1001recepti.com/s/206695-smetana"
+        "id": 19
       },
       {
         "name": "канела",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/187922-kanela"
+        "id": 46
       }
     ]
   },
@@ -2576,32 +2576,32 @@
       {
         "name": "джин",
         "qty": "75 мл.",
-        "id": "http://www.1001recepti.com/s/185007-djin"
+        "id": 192
       },
       {
         "name": "коантро",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "сок от ананас",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/225106-sok-ot-ananas"
+        "id": 213
       },
       {
         "name": "гренадин",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/215290-grenadin"
+        "id": 222
       },
       {
         "name": "ананас",
         "qty": "1 шайба",
-        "id": "http://www.1001recepti.com/s/180780-ananas"
+        "id": 146
       },
       {
         "name": "лед",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -2645,17 +2645,17 @@
       {
         "name": "джин",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/185007-djin"
+        "id": 192
       },
       {
         "name": "вермут",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/219977-vermut"
+        "id": 190
       },
       {
         "name": "сок от ябълка",
         "qty": "75 мл.",
-        "id": "http://www.1001recepti.com/s/225097-sok-ot-iabulka"
+        "id": 298
       }
     ]
   },
@@ -2701,27 +2701,27 @@
       {
         "name": "черешово бренди",
         "qty": "20 мл.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "creme de cacao",
         "qty": "10 мл.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "уиски",
         "qty": "35 мл.",
-        "id": "http://www.1001recepti.com/s/210665-uiski"
+        "id": 206
       },
       {
         "name": "сок от череши",
         "qty": "100 мл.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "лед",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -2768,32 +2768,32 @@
       {
         "name": "черешово бренди",
         "qty": "15 мл.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "гренадин",
         "qty": "15 мл.",
-        "id": "http://www.1001recepti.com/s/215290-grenadin"
+        "id": 222
       },
       {
         "name": "джин",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/185007-djin"
+        "id": 192
       },
       {
         "name": "сладко кисел микс",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/225132-zaharen-sirop"
+        "id": 282
       },
       {
         "name": "газирана вода",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/183567-gazirana-voda"
+        "id": 199
       },
       {
         "name": "коктейлна черешка",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/212045-chereshi"
+        "id": 126
       }
     ]
   },
@@ -2839,27 +2839,27 @@
       {
         "name": "водка",
         "qty": "100 мл.",
-        "id": "http://www.1001recepti.com/s/183462-vodka"
+        "id": 154
       },
       {
         "name": "лимонов сок",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/192380-limonov-sok"
+        "id": 17
       },
       {
         "name": "пудра захар",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/225125-pudra-zahar"
+        "id": 34
       },
       {
         "name": "мента",
         "qty": "2 листенца",
-        "id": "http://www.1001recepti.com/s/193446-menta"
+        "id": 90
       },
       {
         "name": "лед",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -2904,22 +2904,22 @@
       {
         "name": "вермут",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/219977-vermut"
+        "id": 190
       },
       {
         "name": "кампари",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "газирана вода",
         "qty": "15 мл.",
-        "id": "http://www.1001recepti.com/s/183567-gazirana-voda"
+        "id": 199
       },
       {
         "name": "портокал",
         "qty": "1 резенче",
-        "id": "http://www.1001recepti.com/s/200171-portokali"
+        "id": 122
       }
     ]
   },
@@ -2965,27 +2965,27 @@
       {
         "name": "текила",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/208891-tekila"
+        "id": 283
       },
       {
         "name": "портокалов сок",
         "qty": "100 мл.",
-        "id": "http://www.1001recepti.com/s/200181-portokalov-sok"
+        "id": 177
       },
       {
         "name": "гренадин",
         "qty": "10 мл.",
-        "id": "http://www.1001recepti.com/s/215290-grenadin"
+        "id": 222
       },
       {
         "name": "лед",
         "qty": "10 кубчета",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "коктейлни черешки",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/212045-chereshi"
+        "id": 126
       }
     ]
   },
@@ -3036,32 +3036,32 @@
       {
         "name": "тъмен ром",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/203139-rom"
+        "id": 74
       },
       {
         "name": "бял ром",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/203139-rom"
+        "id": 74
       },
       {
         "name": "кайсиево бренди",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "сок от ананас",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/225106-sok-ot-ananas"
+        "id": 213
       },
       {
         "name": "лимонов сок",
         "qty": "10 мл.",
-        "id": "http://www.1001recepti.com/s/192380-limonov-sok"
+        "id": 17
       },
       {
         "name": "портокалов сок",
         "qty": "10 мл.",
-        "id": "http://www.1001recepti.com/s/200181-portokalov-sok"
+        "id": 177
       }
     ]
   },
@@ -3114,22 +3114,22 @@
       {
         "name": "бял ром",
         "qty": "45 мл.",
-        "id": "http://www.1001recepti.com/s/203139-rom"
+        "id": 74
       },
       {
         "name": "лимонов сок",
         "qty": "20 мл.",
-        "id": "http://www.1001recepti.com/s/192380-limonov-sok"
+        "id": 17
       },
       {
         "name": "пудра захар",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/225125-pudra-zahar"
+        "id": 34
       },
       {
         "name": "лимон",
         "qty": "1 резенче",
-        "id": "http://www.1001recepti.com/s/192361-limoni"
+        "id": 43
       }
     ]
   },
@@ -3181,17 +3181,17 @@
       {
         "name": "шампанско",
         "qty": "100 мл.",
-        "id": "http://www.1001recepti.com/s/225151-shampansko"
+        "id": 265
       },
       {
         "name": "праскова",
         "qty": "1/2",
-        "id": "http://www.1001recepti.com/s/200462-praskovi"
+        "id": 156
       },
       {
         "name": "коктейлна черешка",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/212045-chereshi"
+        "id": 126
       }
     ]
   },
@@ -3235,17 +3235,17 @@
       {
         "name": "ментов ликьор",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "какаов ликьор",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "сметана",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/206695-smetana"
+        "id": 19
       }
     ]
   },
@@ -3293,37 +3293,37 @@
       {
         "name": "ягодов ликьор",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/192341-likioor"
+        "id": 172
       },
       {
         "name": "текила",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/208891-tekila"
+        "id": 283
       },
       {
         "name": "triple sec",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "лимонов сок",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/192380-limonov-sok"
+        "id": 17
       },
       {
         "name": "ягоди",
         "qty": "50 г",
-        "id": "http://www.1001recepti.com/s/213173-iagodi"
+        "id": 109
       },
       {
         "name": "пудра захар",
         "qty": "5 г",
-        "id": "http://www.1001recepti.com/s/225125-pudra-zahar"
+        "id": 34
       },
       {
         "name": "лед",
         "qty": "6 кубчета",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -3369,27 +3369,27 @@
       {
         "name": "ликьор какао",
         "qty": "15 мл.",
-        "id": "http://www.1001recepti.com/s/192341-likioor"
+        "id": 172
       },
       {
         "name": "амарето",
         "qty": "15 мл.",
-        "id": "http://www.1001recepti.com/s/180748-amareto"
+        "id": 271
       },
       {
         "name": "трипъл сек",
         "qty": "15 мл.",
-        "id": "http://www.1001recepti.com/s/225138-likioor-kuraso"
+        "id": 209
       },
       {
         "name": "водка",
         "qty": "15 мл.",
-        "id": "http://www.1001recepti.com/s/183462-vodka"
+        "id": 154
       },
       {
         "name": "течна сметана",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/206695-smetana"
+        "id": 19
       }
     ]
   },
@@ -3438,22 +3438,22 @@
       {
         "name": "джин",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/185007-djin"
+        "id": 192
       },
       {
         "name": "вермут росо",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/219977-vermut"
+        "id": 190
       },
       {
         "name": "сух вермут",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/219977-vermut"
+        "id": 190
       },
       {
         "name": "портокалов сок",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/200181-portokalov-sok"
+        "id": 177
       }
     ]
   },
@@ -3501,17 +3501,17 @@
       {
         "name": "водка",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/183462-vodka"
+        "id": 154
       },
       {
         "name": "вермут",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/219977-vermut"
+        "id": 190
       },
       {
         "name": "маслина",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/193230-maslini"
+        "id": 50
       }
     ]
   },
@@ -3558,32 +3558,32 @@
       {
         "name": "вермут",
         "qty": "15 мл.",
-        "id": "http://www.1001recepti.com/s/219977-vermut"
+        "id": 190
       },
       {
         "name": "уиски",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/210665-uiski"
+        "id": 206
       },
       {
         "name": "портокал",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/200171-portokali"
+        "id": 122
       },
       {
         "name": "гренадин",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/215290-grenadin"
+        "id": 222
       },
       {
         "name": "коктейлна черешка",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/212045-chereshi"
+        "id": 126
       },
       {
         "name": "лимон",
         "qty": "1 резенче",
-        "id": "http://www.1001recepti.com/s/192361-limoni"
+        "id": 43
       }
     ]
   },
@@ -3628,22 +3628,22 @@
       {
         "name": "уиски",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/210665-uiski"
+        "id": 206
       },
       {
         "name": "вермут",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/219977-vermut"
+        "id": 190
       },
       {
         "name": "битер",
         "qty": "15 мл.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "коктейлна черешка",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/212045-chereshi"
+        "id": 126
       }
     ]
   },
@@ -3687,17 +3687,17 @@
       {
         "name": "джин",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/185007-djin"
+        "id": 192
       },
       {
         "name": "вермут",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/219977-vermut"
+        "id": 190
       },
       {
         "name": "коктейлни лукчета",
         "qty": "3",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       }
     ]
   },
@@ -3742,22 +3742,22 @@
       {
         "name": "ром",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/203139-rom"
+        "id": 74
       },
       {
         "name": "triple sec",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "вермут",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/219977-vermut"
+        "id": 190
       },
       {
         "name": "гренадин",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/215290-grenadin"
+        "id": 222
       }
     ]
   },
@@ -3804,32 +3804,32 @@
       {
         "name": "джин",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/185007-djin"
+        "id": 192
       },
       {
         "name": "вермут",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/219977-vermut"
+        "id": 190
       },
       {
         "name": "сух вермут",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/219977-vermut"
+        "id": 190
       },
       {
         "name": "портокалов сок",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/200181-portokalov-sok"
+        "id": 177
       },
       {
         "name": "трипъл сек",
         "qty": "15 мл.",
-        "id": "http://www.1001recepti.com/s/225138-likioor-kuraso"
+        "id": 209
       },
       {
         "name": "битер",
         "qty": "10 мл.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       }
     ]
   },
@@ -3872,12 +3872,12 @@
       {
         "name": "бейлис",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/181655-beilis"
+        "id": 319
       },
       {
         "name": "амарето",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/180748-amareto"
+        "id": 271
       }
     ]
   },
@@ -3924,32 +3924,32 @@
       {
         "name": "бял ром",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/203139-rom"
+        "id": 74
       },
       {
         "name": "чери бренди",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/225129-brendi"
+        "id": 321
       },
       {
         "name": "мента",
         "qty": "15 мл.",
-        "id": "http://www.1001recepti.com/s/193446-menta"
+        "id": 90
       },
       {
         "name": "сок от ананас",
         "qty": "100 мл.",
-        "id": "http://www.1001recepti.com/s/225106-sok-ot-ananas"
+        "id": 213
       },
       {
         "name": "сок от портокал",
         "qty": "75 мл.",
-        "id": "http://www.1001recepti.com/s/200181-portokalov-sok"
+        "id": 177
       },
       {
         "name": "лед",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -3997,17 +3997,17 @@
       {
         "name": "бял ром",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/203139-rom"
+        "id": 74
       },
       {
         "name": "сок от лайм",
         "qty": "15 мл.",
-        "id": "http://www.1001recepti.com/s/225101-sok-ot-laim"
+        "id": 212
       },
       {
         "name": "кока кола",
         "qty": "150 мл.",
-        "id": "http://www.1001recepti.com/s/225116-koka-kola"
+        "id": 358
       }
     ]
   },
@@ -4052,22 +4052,22 @@
       {
         "name": "лайм",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/192050-laim"
+        "id": 204
       },
       {
         "name": "водка",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/183462-vodka"
+        "id": 154
       },
       {
         "name": "кампари",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "пудра захар",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/225125-pudra-zahar"
+        "id": 34
       }
     ]
   },
@@ -4110,12 +4110,12 @@
       {
         "name": "джин",
         "qty": "75 мл.",
-        "id": "http://www.1001recepti.com/s/185007-djin"
+        "id": 192
       },
       {
         "name": "сок от лайм",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/225101-sok-ot-laim"
+        "id": 212
       }
     ]
   },
@@ -4161,27 +4161,27 @@
       {
         "name": "джин",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/185007-djin"
+        "id": 192
       },
       {
         "name": "лимонов сок",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/192380-limonov-sok"
+        "id": 17
       },
       {
         "name": "пудра захар",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/225125-pudra-zahar"
+        "id": 34
       },
       {
         "name": "газирана вода",
         "qty": "100 мл.",
-        "id": "http://www.1001recepti.com/s/183567-gazirana-voda"
+        "id": 199
       },
       {
         "name": "лед",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -4225,17 +4225,17 @@
       {
         "name": "джин",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/185007-djin"
+        "id": 192
       },
       {
         "name": "лайм",
         "qty": "1/2",
-        "id": "http://www.1001recepti.com/s/192050-laim"
+        "id": 204
       },
       {
         "name": "газирана вода",
         "qty": "150 мл.",
-        "id": "http://www.1001recepti.com/s/183567-gazirana-voda"
+        "id": 199
       }
     ]
   },
@@ -4279,17 +4279,17 @@
       {
         "name": "сок от касис",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/225099-sok-ot-greipfrut"
+        "id": 285
       },
       {
         "name": "шампанско",
         "qty": "120 мл.",
-        "id": "http://www.1001recepti.com/s/225151-shampansko"
+        "id": 265
       },
       {
         "name": "лимонова кора",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/225100-limonova-kora"
+        "id": 107
       }
     ]
   },
@@ -4333,17 +4333,17 @@
       {
         "name": "водка",
         "qty": "40 мл.",
-        "id": "http://www.1001recepti.com/s/183462-vodka"
+        "id": 154
       },
       {
         "name": "трипъл сек",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/225138-likioor-kuraso"
+        "id": 209
       },
       {
         "name": "сок от лайм",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/225101-sok-ot-laim"
+        "id": 212
       }
     ]
   },
@@ -4393,47 +4393,47 @@
       {
         "name": "водка",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/183462-vodka"
+        "id": 154
       },
       {
         "name": "текила",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/208891-tekila"
+        "id": 283
       },
       {
         "name": "ром",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/203139-rom"
+        "id": 74
       },
       {
         "name": "джин",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/185007-djin"
+        "id": 192
       },
       {
         "name": "трипъл сек",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/225138-likioor-kuraso"
+        "id": 209
       },
       {
         "name": "сладко-кисел микс",
         "qty": "45 мл.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "кока кола",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/225116-koka-kola"
+        "id": 358
       },
       {
         "name": "лимон",
         "qty": "1 резен",
-        "id": "http://www.1001recepti.com/s/192361-limoni"
+        "id": 43
       },
       {
         "name": "коктейлни черешки",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/212045-chereshi"
+        "id": 126
       }
     ]
   },
@@ -4479,27 +4479,27 @@
       {
         "name": "джин",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/185007-djin"
+        "id": 192
       },
       {
         "name": "сок от лимон",
         "qty": "20 мл.",
-        "id": "http://www.1001recepti.com/s/192380-limonov-sok"
+        "id": 17
       },
       {
         "name": "захарен сироп",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/225132-zaharen-sirop"
+        "id": 282
       },
       {
         "name": "сода",
         "qty": "125 мл.",
-        "id": "http://www.1001recepti.com/s/349459-soda-za-hliab"
+        "id": 56
       },
       {
         "name": "лимон",
         "qty": "3 резена",
-        "id": "http://www.1001recepti.com/s/192361-limoni"
+        "id": 43
       }
     ]
   },
@@ -4544,22 +4544,22 @@
       {
         "name": "водка",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/183462-vodka"
+        "id": 154
       },
       {
         "name": "ликьор мента",
         "qty": "20 мл.",
-        "id": "http://www.1001recepti.com/s/249286-likioor-menta"
+        "id": 359
       },
       {
         "name": "лимонов сок",
         "qty": "15 мл.",
-        "id": "http://www.1001recepti.com/s/192380-limonov-sok"
+        "id": 17
       },
       {
         "name": "шампанско",
         "qty": "120 мл.",
-        "id": "http://www.1001recepti.com/s/225151-shampansko"
+        "id": 265
       }
     ]
   },
@@ -4609,27 +4609,27 @@
       {
         "name": "водка",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/183462-vodka"
+        "id": 154
       },
       {
         "name": "ликьор от диня",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/364548-likioor-pupesh"
+        "id": 305
       },
       {
         "name": "сладко-кисел микс",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "лед",
         "qty": "5 кубчета",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "диня",
         "qty": "1 резен",
-        "id": "http://www.1001recepti.com/s/185167-dinia"
+        "id": 251
       }
     ]
   },
@@ -4675,27 +4675,27 @@
       {
         "name": "бял ром Бакарди",
         "qty": "60 мл.",
-        "id": "http://www.1001recepti.com/s/203139-rom"
+        "id": 74
       },
       {
         "name": "трипъл сек",
         "qty": "15 мл.",
-        "id": "http://www.1001recepti.com/s/225138-likioor-kuraso"
+        "id": 209
       },
       {
         "name": "сок от касис",
         "qty": "100 мл.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "портокал",
         "qty": "1 резен",
-        "id": "http://www.1001recepti.com/s/200171-portokali"
+        "id": 122
       },
       {
         "name": "коктейлна черешка",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/212045-chereshi"
+        "id": 126
       }
     ]
   },
@@ -4743,37 +4743,37 @@
       {
         "name": "водка",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/183462-vodka"
+        "id": 154
       },
       {
         "name": "кайсиево бренди",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "бананов ликьор",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "сок от лайм",
         "qty": "3 с.л.",
-        "id": "http://www.1001recepti.com/s/225101-sok-ot-laim"
+        "id": 212
       },
       {
         "name": "сода",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/349459-soda-za-hliab"
+        "id": 56
       },
       {
         "name": "банан",
         "qty": "1/3",
-        "id": "http://www.1001recepti.com/s/181202-banani"
+        "id": 123
       },
       {
         "name": "метна",
         "qty": "листа",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       }
     ]
   },
@@ -4819,27 +4819,27 @@
       {
         "name": "бейлис",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/181655-beilis"
+        "id": 319
       },
       {
         "name": "бананов ликьор",
         "qty": "15 мл.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "бял ром",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/203139-rom"
+        "id": 74
       },
       {
         "name": "мляко",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "лед",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -4883,17 +4883,17 @@
       {
         "name": "синьо кюрасо",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/225138-likioor-kuraso"
+        "id": 209
       },
       {
         "name": "шампанско",
         "qty": "125 мл.",
-        "id": "http://www.1001recepti.com/s/225151-shampansko"
+        "id": 265
       },
       {
         "name": "портокал",
         "qty": "1/4 резен",
-        "id": "http://www.1001recepti.com/s/200171-portokali"
+        "id": 122
       }
     ]
   },
@@ -4943,27 +4943,27 @@
       {
         "name": "водка",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/183462-vodka"
+        "id": 154
       },
       {
         "name": "синьо кюрасо",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/225138-likioor-kuraso"
+        "id": 209
       },
       {
         "name": "лимонада",
         "qty": "100 мл.",
-        "id": "http://www.1001recepti.com/s/192351-limonada"
+        "id": 395
       },
       {
         "name": "лед",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "лимон",
         "qty": "1 резен",
-        "id": "http://www.1001recepti.com/s/192361-limoni"
+        "id": 43
       }
     ]
   },
@@ -5009,27 +5009,27 @@
       {
         "name": "текила",
         "qty": "75 мл.",
-        "id": "http://www.1001recepti.com/s/208891-tekila"
+        "id": 283
       },
       {
         "name": "синьо кюрасо",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/225138-likioor-kuraso"
+        "id": 209
       },
       {
         "name": "лимонов сок",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/192380-limonov-sok"
+        "id": 17
       },
       {
         "name": "сол",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "лимон",
         "qty": "1 резен",
-        "id": "http://www.1001recepti.com/s/192361-limoni"
+        "id": 43
       }
     ]
   },
@@ -5072,12 +5072,12 @@
       {
         "name": "синьо кюрасо",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/225138-likioor-kuraso"
+        "id": 209
       },
       {
         "name": "текила",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/208891-tekila"
+        "id": 283
       }
     ]
   },
@@ -5124,32 +5124,32 @@
       {
         "name": "ликьор какао",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/192341-likioor"
+        "id": 172
       },
       {
         "name": "бренди",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "сметана",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/206695-smetana"
+        "id": 19
       },
       {
         "name": "лед",
         "qty": "8 кубчета",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "какао",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/187777-kakao"
+        "id": 45
       },
       {
         "name": "индийско орехче",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/187321-indiisko-orehche"
+        "id": 120
       }
     ]
   },
@@ -5194,22 +5194,22 @@
       {
         "name": "бренди",
         "qty": "75 мл.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "сметана",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/206695-smetana"
+        "id": 19
       },
       {
         "name": "мед",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/193286-med"
+        "id": 38
       },
       {
         "name": "лед",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -5255,27 +5255,27 @@
       {
         "name": "уиски",
         "qty": "75 мл.",
-        "id": "http://www.1001recepti.com/s/210665-uiski"
+        "id": 206
       },
       {
         "name": "коантро",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "битер",
         "qty": "3 капки",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "мента",
         "qty": "листа",
-        "id": "http://www.1001recepti.com/s/193446-menta"
+        "id": 90
       },
       {
         "name": "лед",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -5321,27 +5321,27 @@
       {
         "name": "водка",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/183462-vodka"
+        "id": 154
       },
       {
         "name": "сок от боровинки",
         "qty": "150 мл.",
-        "id": "http://www.1001recepti.com/s/215501-sok-ot-borovinki"
+        "id": 297
       },
       {
         "name": "лимонов сок",
         "qty": "15 мл.",
-        "id": "http://www.1001recepti.com/s/192380-limonov-sok"
+        "id": 17
       },
       {
         "name": "лед",
         "qty": "8 кубчета",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "лайм",
         "qty": "1 резен",
-        "id": "http://www.1001recepti.com/s/192050-laim"
+        "id": 204
       }
     ]
   },
@@ -5388,32 +5388,32 @@
       {
         "name": "ром",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/203139-rom"
+        "id": 74
       },
       {
         "name": "ликьор пъпеш",
         "qty": "20 мл.",
-        "id": "http://www.1001recepti.com/s/192341-likioor"
+        "id": 172
       },
       {
         "name": "сок от лайм",
         "qty": "15 мл.",
-        "id": "http://www.1001recepti.com/s/225101-sok-ot-laim"
+        "id": 212
       },
       {
         "name": "кокосова сметана",
         "qty": "15 мл.",
-        "id": "http://www.1001recepti.com/s/190169-kokos"
+        "id": 100
       },
       {
         "name": "сок от ананас",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/225106-sok-ot-ananas"
+        "id": 213
       },
       {
         "name": "коктейлна черешка",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/212045-chereshi"
+        "id": 126
       }
     ]
   },
@@ -5459,27 +5459,27 @@
       {
         "name": "бял ром",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/203139-rom"
+        "id": 74
       },
       {
         "name": "амарето",
         "qty": "60 мл.",
-        "id": "http://www.1001recepti.com/s/180748-amareto"
+        "id": 271
       },
       {
         "name": "ликьор какао",
         "qty": "60 мл.",
-        "id": "http://www.1001recepti.com/s/192341-likioor"
+        "id": 172
       },
       {
         "name": "течна сметана",
         "qty": "60 мл.",
-        "id": "http://www.1001recepti.com/s/206695-smetana"
+        "id": 19
       },
       {
         "name": "какао",
         "qty": "1/2",
-        "id": "http://www.1001recepti.com/s/187777-kakao"
+        "id": 45
       }
     ]
   },
@@ -5526,32 +5526,32 @@
       {
         "name": "текила",
         "qty": "60 мл.",
-        "id": "http://www.1001recepti.com/s/208891-tekila"
+        "id": 283
       },
       {
         "name": "сок от грейпфрут",
         "qty": "60 мл.",
-        "id": "http://www.1001recepti.com/s/225099-sok-ot-greipfrut"
+        "id": 285
       },
       {
         "name": "гренадин",
         "qty": "15 мл.",
-        "id": "http://www.1001recepti.com/s/215290-grenadin"
+        "id": 222
       },
       {
         "name": "трипъл сек",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/225138-likioor-kuraso"
+        "id": 209
       },
       {
         "name": "грейпфрут",
         "qty": "1 резен",
-        "id": "http://www.1001recepti.com/s/184040-greipfrut"
+        "id": 286
       },
       {
         "name": "коктейлна черешка",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/212045-chereshi"
+        "id": 126
       }
     ]
   },
@@ -5596,22 +5596,22 @@
       {
         "name": "джин",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/185007-djin"
+        "id": 192
       },
       {
         "name": "мента",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/193446-menta"
+        "id": 90
       },
       {
         "name": "спрайт",
         "qty": "100 мл.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "лед",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -5656,22 +5656,22 @@
       {
         "name": "джин",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/185007-djin"
+        "id": 192
       },
       {
         "name": "ликьор зелен пъпеш",
         "qty": "15 мл.",
-        "id": "http://www.1001recepti.com/s/364548-likioor-pupesh"
+        "id": 305
       },
       {
         "name": "натрошен лед",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/219536-led"
+        "id": 281
       },
       {
         "name": "коктейлни череши",
         "qty": "3",
-        "id": "http://www.1001recepti.com/s/212045-chereshi"
+        "id": 126
       }
     ]
   },
@@ -5716,22 +5716,22 @@
       {
         "name": "яйца",
         "qty": "3",
-        "id": "http://www.1001recepti.com/s/213296-iaica"
+        "id": 5
       },
       {
         "name": "захар",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "сметана",
         "qty": "250 мл.",
-        "id": "http://www.1001recepti.com/s/206695-smetana"
+        "id": 19
       },
       {
         "name": "мляко",
         "qty": "250 мл.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       }
     ]
   },
@@ -5776,22 +5776,22 @@
       {
         "name": "водка",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/183462-vodka"
+        "id": 154
       },
       {
         "name": "ликьор мента",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/249286-likioor-menta"
+        "id": 359
       },
       {
         "name": "натрошен лед",
         "qty": "2 с.л.",
-        "id": "http://www.1001recepti.com/s/219536-led"
+        "id": 281
       },
       {
         "name": "коктейлни череши",
         "qty": "2",
-        "id": "http://www.1001recepti.com/s/212045-chereshi"
+        "id": 126
       }
     ]
   },
@@ -5840,22 +5840,22 @@
       {
         "name": "джин",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/185007-djin"
+        "id": 192
       },
       {
         "name": "лимонов сок",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/192380-limonov-sok"
+        "id": 17
       },
       {
         "name": "шампанско",
         "qty": "150 мл.",
-        "id": "http://www.1001recepti.com/s/225151-shampansko"
+        "id": 265
       },
       {
         "name": "пудра захар",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/225125-pudra-zahar"
+        "id": 34
       }
     ]
   },
@@ -5901,27 +5901,27 @@
       {
         "name": "бял ром Бакарди",
         "qty": "60 мл.",
-        "id": "http://www.1001recepti.com/s/203139-rom"
+        "id": 74
       },
       {
         "name": "сок от ананас",
         "qty": "120 мл.",
-        "id": "http://www.1001recepti.com/s/225106-sok-ot-ananas"
+        "id": 213
       },
       {
         "name": "лед",
         "qty": "5 кубчета",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "ананас",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/180780-ananas"
+        "id": 146
       },
       {
         "name": "коктейлна черешка",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/212045-chereshi"
+        "id": 126
       }
     ]
   },
@@ -5966,22 +5966,22 @@
       {
         "name": "коняк",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/225115-koniak"
+        "id": 166
       },
       {
         "name": "черешово бренди",
         "qty": "15 мл.",
-        "id": "http://www.1001recepti.com/s/225129-brendi"
+        "id": 321
       },
       {
         "name": "лимонов сок",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/192380-limonov-sok"
+        "id": 17
       },
       {
         "name": "шампанско",
         "qty": "100 мл.",
-        "id": "http://www.1001recepti.com/s/225151-shampansko"
+        "id": 265
       }
     ]
   },
@@ -6025,17 +6025,17 @@
       {
         "name": "водка",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/183462-vodka"
+        "id": 154
       },
       {
         "name": "ликьор от малини",
         "qty": "60 мл.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "сок от лайм",
         "qty": "15 мл.",
-        "id": "http://www.1001recepti.com/s/225101-sok-ot-laim"
+        "id": 212
       }
     ]
   },
@@ -6081,27 +6081,27 @@
       {
         "name": "джин",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/185007-djin"
+        "id": 192
       },
       {
         "name": "сладък вермут",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "кампари",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "портокал",
         "qty": "2 резенчета",
-        "id": "http://www.1001recepti.com/s/200171-portokali"
+        "id": 122
       },
       {
         "name": "лед",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -6149,37 +6149,37 @@
       {
         "name": "кайсиево бренди",
         "qty": "60 мл.",
-        "id": "http://www.1001recepti.com/s/225129-brendi"
+        "id": 321
       },
       {
         "name": "сок от лайм",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/225101-sok-ot-laim"
+        "id": 212
       },
       {
         "name": "битер",
         "qty": "1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "захарен сироп",
         "qty": "15 мл.",
-        "id": "http://www.1001recepti.com/s/225132-zaharen-sirop"
+        "id": 282
       },
       {
         "name": "гренадин",
         "qty": "10 мл.",
-        "id": "http://www.1001recepti.com/s/215290-grenadin"
+        "id": 222
       },
       {
         "name": "сода",
         "qty": "150 мл.",
-        "id": "http://www.1001recepti.com/s/349459-soda-za-hliab"
+        "id": 56
       },
       {
         "name": "лайм",
         "qty": "1/2",
-        "id": "http://www.1001recepti.com/s/192050-laim"
+        "id": 204
       }
     ]
   },
@@ -6227,37 +6227,37 @@
       {
         "name": "бял ром",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/203139-rom"
+        "id": 74
       },
       {
         "name": "ром Малибу",
         "qty": "20 мл.",
-        "id": "http://www.1001recepti.com/s/203139-rom"
+        "id": 74
       },
       {
         "name": "сок от манго",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "сок от праскова",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/221333-sok-ot-praskovi"
+        "id": 396
       },
       {
         "name": "сок от лайм",
         "qty": "10 мл.",
-        "id": "http://www.1001recepti.com/s/225101-sok-ot-laim"
+        "id": 212
       },
       {
         "name": "натрошен лед",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/219536-led"
+        "id": 281
       },
       {
         "name": "лайм",
         "qty": "1 резен",
-        "id": "http://www.1001recepti.com/s/192050-laim"
+        "id": 204
       }
     ]
   },
@@ -6303,27 +6303,27 @@
       {
         "name": "уиски",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/210665-uiski"
+        "id": 206
       },
       {
         "name": "ликьор банан",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "ликьор какао",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/192341-likioor"
+        "id": 172
       },
       {
         "name": "течна сметана",
         "qty": "60 мл.",
-        "id": "http://www.1001recepti.com/s/206695-smetana"
+        "id": 19
       },
       {
         "name": "канела",
         "qty": "1/2 ч.л.",
-        "id": "http://www.1001recepti.com/s/187922-kanela"
+        "id": 46
       }
     ]
   },
@@ -6367,17 +6367,17 @@
       {
         "name": "уиски",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/210665-uiski"
+        "id": 206
       },
       {
         "name": "лимонов сок",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/192380-limonov-sok"
+        "id": 17
       },
       {
         "name": "лед",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -6424,32 +6424,32 @@
       {
         "name": "вермут",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/219977-vermut"
+        "id": 190
       },
       {
         "name": "уиски",
         "qty": "75 мл.",
-        "id": "http://www.1001recepti.com/s/210665-uiski"
+        "id": 206
       },
       {
         "name": "битер",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "коктейлна черешка",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/212045-chereshi"
+        "id": 126
       },
       {
         "name": "портокал",
         "qty": "1 резен",
-        "id": "http://www.1001recepti.com/s/200171-portokali"
+        "id": 122
       },
       {
         "name": "натрошен лед",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/219536-led"
+        "id": 281
       }
     ]
   },
@@ -6493,17 +6493,17 @@
       {
         "name": "златист ром",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/203139-rom"
+        "id": 74
       },
       {
         "name": "крем де какао",
         "qty": "15 мл.",
-        "id": "http://www.1001recepti.com/s/181655-beilis"
+        "id": 319
       },
       {
         "name": "лайм",
         "qty": "1/2",
-        "id": "http://www.1001recepti.com/s/192050-laim"
+        "id": 204
       }
     ]
   },
@@ -6551,37 +6551,37 @@
       {
         "name": "текила",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/208891-tekila"
+        "id": 283
       },
       {
         "name": "трипъл сек",
         "qty": "15 мл.",
-        "id": "http://www.1001recepti.com/s/225138-likioor-kuraso"
+        "id": 209
       },
       {
         "name": "сок от лайм",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/225101-sok-ot-laim"
+        "id": 212
       },
       {
         "name": "ликьор от пъпеш Мидори",
         "qty": "15 мл.",
-        "id": "http://www.1001recepti.com/s/364548-likioor-pupesh"
+        "id": 305
       },
       {
         "name": "сол",
         "qty": "1 щип.",
-        "id": "http://www.1001recepti.com/s/206867-sol"
+        "id": 1
       },
       {
         "name": "коктейлна черешка",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/212045-chereshi"
+        "id": 126
       },
       {
         "name": "лайм",
         "qty": "резен",
-        "id": "http://www.1001recepti.com/s/192050-laim"
+        "id": 204
       }
     ]
   },
@@ -6625,17 +6625,17 @@
       {
         "name": "ликьор пъпеш Мидори",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/364548-likioor-pupesh"
+        "id": 305
       },
       {
         "name": "ром Малибу",
         "qty": "30 мл.",
-        "id": "http://www.1001recepti.com/s/203139-rom"
+        "id": 74
       },
       {
         "name": "сок от ананас",
         "qty": "60 мл.",
-        "id": "http://www.1001recepti.com/s/225106-sok-ot-ananas"
+        "id": 213
       }
     ]
   },
@@ -6679,17 +6679,17 @@
       {
         "name": "шампанско",
         "qty": "150 мл.",
-        "id": "http://www.1001recepti.com/s/225151-shampansko"
+        "id": 265
       },
       {
         "name": "синьо кюрасо",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/225138-likioor-kuraso"
+        "id": 209
       },
       {
         "name": "лимон",
         "qty": "1 резен",
-        "id": "http://www.1001recepti.com/s/192361-limoni"
+        "id": 43
       }
     ]
   },
@@ -6736,32 +6736,32 @@
       {
         "name": "уиски",
         "qty": "60 мл.",
-        "id": "http://www.1001recepti.com/s/210665-uiski"
+        "id": 206
       },
       {
         "name": "сок от лайм",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/225101-sok-ot-laim"
+        "id": 212
       },
       {
         "name": "захарен сироп",
         "qty": "15 мл.",
-        "id": "http://www.1001recepti.com/s/225132-zaharen-sirop"
+        "id": 282
       },
       {
         "name": "гренадин",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/215290-grenadin"
+        "id": 222
       },
       {
         "name": "кори от портокал",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "коктейлна черешка",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/212045-chereshi"
+        "id": 126
       }
     ]
   },
@@ -6807,27 +6807,27 @@
       {
         "name": "синьо кюрасо",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/225138-likioor-kuraso"
+        "id": 209
       },
       {
         "name": "ликьор от праскови",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/217755-likioor-ot-praskovi"
+        "id": 320
       },
       {
         "name": "лимонов сок",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/192380-limonov-sok"
+        "id": 17
       },
       {
         "name": "битер лимон",
         "qty": "25 мл.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "лед",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   },
@@ -6872,22 +6872,22 @@
       {
         "name": "водка",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/183462-vodka"
+        "id": 154
       },
       {
         "name": "ликьор от праскови",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/217755-likioor-ot-praskovi"
+        "id": 320
       },
       {
         "name": "сок от мандарина",
         "qty": "100 мл.",
-        "id": "http://www.1001recepti.com/s/312193-sok-ot-mandarini"
+        "id": 397
       },
       {
         "name": "гренадин",
         "qty": "1 с.л.",
-        "id": "http://www.1001recepti.com/s/215290-grenadin"
+        "id": 222
       }
     ]
   },
@@ -6931,17 +6931,17 @@
       {
         "name": "бренди",
         "qty": "75 мл.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "трипъл сек",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/225138-likioor-kuraso"
+        "id": 209
       },
       {
         "name": "лимонов сок",
         "qty": "50 мл.",
-        "id": "http://www.1001recepti.com/s/192380-limonov-sok"
+        "id": 17
       }
     ]
   },
@@ -6992,32 +6992,32 @@
       {
         "name": "водка",
         "qty": "20 мл.",
-        "id": "http://www.1001recepti.com/s/183462-vodka"
+        "id": 154
       },
       {
         "name": "ликьор амарето",
         "qty": "20 мл.",
-        "id": "http://www.1001recepti.com/s/180748-amareto"
+        "id": 271
       },
       {
         "name": "ликьор калуа",
         "qty": "20 мл.",
-        "id": "http://www.1001recepti.com/s/192341-likioor"
+        "id": 172
       },
       {
         "name": "ликьор амарула",
         "qty": "20 мл.",
-        "id": "http://www.1001recepti.com/s/241366-amarula"
+        "id": 398
       },
       {
         "name": "прясно мляко",
         "qty": "20 мл.",
-        "id": "http://www.1001recepti.com/s/193842-mliako"
+        "id": 14
       },
       {
         "name": "течна сметана",
         "qty": "20 мл.",
-        "id": "http://www.1001recepti.com/s/206695-smetana"
+        "id": 19
       }
     ]
   },
@@ -7067,27 +7067,27 @@
       {
         "name": "ром",
         "qty": "60 мл.",
-        "id": "http://www.1001recepti.com/s/203139-rom"
+        "id": 74
       },
       {
         "name": "ананас",
         "qty": "1/4",
-        "id": "http://www.1001recepti.com/s/180780-ananas"
+        "id": 146
       },
       {
         "name": "натрошен лед",
         "qty": "4 с.л.",
-        "id": "http://www.1001recepti.com/s/219536-led"
+        "id": 281
       },
       {
         "name": "ананас",
         "qty": "1 резен",
-        "id": "http://www.1001recepti.com/s/180780-ananas"
+        "id": 146
       },
       {
         "name": "коктейлна черешка",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/212045-chereshi"
+        "id": 126
       }
     ]
   },
@@ -7140,42 +7140,42 @@
       {
         "name": "червено вино",
         "qty": "750 мл.",
-        "id": "http://www.1001recepti.com/s/212004-cherveno-vino"
+        "id": 98
       },
       {
         "name": "захар",
         "qty": "100 г",
-        "id": "http://www.1001recepti.com/s/186585-zahar"
+        "id": 9
       },
       {
         "name": "канела",
         "qty": "5 г",
-        "id": "http://www.1001recepti.com/s/187922-kanela"
+        "id": 46
       },
       {
         "name": "карамфил",
         "qty": "10 г",
-        "id": "http://www.1001recepti.com/s/188047-karamfil"
+        "id": 180
       },
       {
         "name": "черен пипер",
         "qty": "1 ч.л.",
-        "id": "http://www.1001recepti.com/s/212034-cheren-piper"
+        "id": 2
       },
       {
         "name": "коняк",
         "qty": "100 мл.",
-        "id": "http://www.1001recepti.com/s/225115-koniak"
+        "id": 166
       },
       {
         "name": "вода",
         "qty": "60 мл.",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       },
       {
         "name": "лимон",
         "qty": "Parsing error",
-        "id": "http://www.1001recepti.com/s/192361-limoni"
+        "id": 43
       }
     ]
   },
@@ -7219,17 +7219,17 @@
       {
         "name": "кампари битер",
         "qty": "75 мл.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "швепс битер лимон",
         "qty": "75 мл.",
-        "id": "http://www.1001recepti.com/s/201948-recepta"
+        "id": 27
       },
       {
         "name": "коктейлна черешка",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/212045-chereshi"
+        "id": 126
       }
     ]
   },
@@ -7296,32 +7296,32 @@
       {
         "name": "ягоди",
         "qty": "1/2 кг",
-        "id": "http://www.1001recepti.com/s/213173-iagodi"
+        "id": 109
       },
       {
         "name": "лимон",
         "qty": "1",
-        "id": "http://www.1001recepti.com/s/192361-limoni"
+        "id": 43
       },
       {
         "name": "бял ром",
         "qty": "200 мл.",
-        "id": "http://www.1001recepti.com/s/203139-rom"
+        "id": 74
       },
       {
         "name": "ягодов ликьор",
         "qty": "100 мл.",
-        "id": "http://www.1001recepti.com/s/192341-likioor"
+        "id": 172
       },
       {
         "name": "пудра захар",
         "qty": "4 с.л.",
-        "id": "http://www.1001recepti.com/s/225125-pudra-zahar"
+        "id": 34
       },
       {
         "name": "лед",
         "qty": "15 бучки",
-        "id": "http://www.1001recepti.com/s/183428-voda"
+        "id": 11
       }
     ]
   }
