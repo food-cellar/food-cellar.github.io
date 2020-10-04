@@ -1,0 +1,19 @@
+{
+  "name": "food-cellar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/food-cellar/food-cellar.github.io.git"
+  },
+  "author": "VK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/food-cellar/food-cellar.github.io/issues"
+  },
+  "homepage": "https://github.com/food-cellar/food-cellar.github.io#readme"
+}

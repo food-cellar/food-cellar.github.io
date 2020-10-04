@@ -1,0 +1,75 @@
+body {
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+fieldset {
+    display: inline-block;
+}
+
+table label {
+    display: inline-block;
+    width: 100%;
+}
+
+tr, th, td {
+    margin: 0;
+    padding: 0;
+}
+
+table input[type="text"] {
+    width: 100%;
+}
+
+article {
+    width: 300px;
+    display: inline-block;
+    border: 2px solid #c5c5c5;
+    margin: 8px;
+    height: 100%;
+    cursor: pointer;
+}
+
+article:hover {
+    border: 2px solid #66ccdd;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 8px 0 0 0;
+}
+
+.cardLabel {
+    padding: 8px;
+    height: 75px;
+    overflow: hidden;
+    background-color: #dddddd;
+    font-size: 1.1em;
+    position: relative;
+}
+
+.cardContent {
+    position: relative;
+}
+
+.cardCount {
+    position: absolute;
+    right: 16px;
+    bottom: 8px;
+    display: inline-block;
+    padding: 4px;
+    background-color: #666666;
+    color: white;
+    border-radius: 8px;
+}
+
+.ingredientList {
+    padding: 8px;
+    height: 150px;
+    overflow-y: auto;
+}
+
+.missing {
+    background-color: #ffeecc;
+}
