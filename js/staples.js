@@ -1,8 +1,11 @@
+import e from './dom.js';
 import ingredientList from './ingredientList.js';
 import { addStaple, removeStaple, isStaple, isBanned } from './storage.js';
 
 
 export default function staplesPage(ingredients) {
+    const element = e('section', e('h2', 'Универсални съставки'));
+    
     const colorId = '#bbbbff';
     const table = ingredientList('s-', ingredients, addStaple, removeStaple, isStaple, colorId);
 
@@ -14,5 +17,7 @@ export default function staplesPage(ingredients) {
         }
     });
 
-    return table;
+    element.appendChild(table);
+
+    return element;
 }

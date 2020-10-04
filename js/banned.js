@@ -1,8 +1,11 @@
+import e from './dom.js';
 import ingredientList from './ingredientList.js';
 import { addBanned, removeBanned, isBanned, isStaple } from './storage.js';
 
 
 export default function bannedPage(ingredients) {
+    const element = e('section', e('h2', 'Изключени съставки'));
+
     const colorId = '#ffbbbb';
     const table = ingredientList('b-', ingredients, addBanned, removeBanned, isBanned, colorId);
 
@@ -14,5 +17,7 @@ export default function bannedPage(ingredients) {
         }
     });
 
-    return table;
+    element.appendChild(table);
+
+    return element;
 }

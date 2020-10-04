@@ -1,8 +1,11 @@
+import e from './dom.js';
 import ingredientList from './ingredientList.js';
 import { addMandatory, removeMandatory, isMandatory, isStaple, isBanned } from './storage.js';
 
 
 export default function mandatoryPage(ingredients) {
+    const element = e('section', e('h2', 'Задължителни съставки'));
+    
     ingredients = ingredients.filter(i => (isStaple(i.id) || isBanned(i.id)) == false);
 
     const colorId = '#99ff99';
@@ -14,5 +17,7 @@ export default function mandatoryPage(ingredients) {
         }
     });
 
-    return table;
+    element.appendChild(table);
+
+    return element;
 }

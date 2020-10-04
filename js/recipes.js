@@ -29,7 +29,7 @@ export default async function recipesPage(category, ingredientsIndex, showDetail
             return recipe;
         }).sort((a, b) => (a.missing - b.missing) || (b.popularity - a.popularity));
 
-    const element = e('section');
+    const element = e('section', e('h2', category.label));
     filtered.slice(0, 40).map(async r => element.appendChild(await recipeCard(r, showDetails)));
 
     return element;
