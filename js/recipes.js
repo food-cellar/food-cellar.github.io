@@ -44,7 +44,7 @@ function recipeCard(record, showDetails) {
     return element;
 
     function ingredientItem(ingredient) {
-        const element = e('li', `${ingredient.qty} ${ingredient.name}`);
+        const element = e('li', e('abbr', `${ingredient.qty} ${ingredient.name}`, { title: ingredient.id }));
         if (record.recipe.missingList.includes(ingredient.id)) {
             element.classList.add('missing');
         }
