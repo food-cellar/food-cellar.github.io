@@ -6,7 +6,6 @@ function setupStorage(name) {
     } else {
         data = JSON.parse(data);
     }
-    console.log(data);
     if (data.length > 0 && data[0].toString().includes('http')) {
         localStorage.setItem(name, JSON.stringify([]));
         data = [];
