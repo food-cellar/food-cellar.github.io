@@ -77,6 +77,10 @@ export async function getData() {
                 getData: async () => {
                     if (content === null) {
                         content = await (await fetch(category.src)).json();
+                        
+                        //** debug */
+                        //content = Object.entries(content).reduce((p, [k, v]) => ({ k: v }), {});
+                        //** end debug */
                     }
                     return content;
                 }

@@ -8,17 +8,17 @@ function setupStorage(name) {
     }
 
     function add(id) {
-        data.push(id);
+        data.push(Number(id));
         localStorage.setItem(name, JSON.stringify(data));
     }
 
     function remove(id) {
-        data = data.filter(i => i != id);
+        data = data.filter(i => i != Number(id));
         localStorage.setItem(name, JSON.stringify(data));
     }
 
     function is(id) {
-        return data.includes(id);
+        return data.includes(Number(id));
     }
 
     return {
@@ -43,6 +43,6 @@ export function hasMandatory(ingredients) {
     if (mandatory.length == 0) {
         return true;
     } else {
-        return mandatory.reduce((p, c) => p && ingredients.map(i => i.id).includes(c), true);
+        return mandatory.reduce((p, c) => p && ingredients.map(i => Number(i.id)).includes(c), true);
     }
 }

@@ -5,6 +5,7 @@ import { isStaple, isBanned, isAvailable, hasMandatory } from './storage.js';
 export default async function recipesPage(category, ingredientsIndex, showDetails) {
     // TODO data should only be resolved when the page is activated
     const recipes = Object.values((await category.getData()));
+    console.log(recipes);
 
     const filtered = recipes
         .filter(r => hasMandatory(r.ingredients))
