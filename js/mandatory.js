@@ -9,7 +9,7 @@ export default function mandatoryPage(ingredients) {
     ingredients = ingredients.filter(i => (isStaple(i.id) || isBanned(i.id)) == false);
 
     const colorId = '#99ff99';
-    const table = ingredientList('m-', ingredients, addMandatory, removeMandatory, isStaple, colorId);
+    const table = ingredientList('m-', ingredients, addMandatory, removeMandatory, isMandatory, colorId);
 
     table.entries.forEach(e => {
         if (isMandatory(e._record.id)) {
