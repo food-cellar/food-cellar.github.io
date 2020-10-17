@@ -52,7 +52,9 @@ async function recipeCard(record, showDetails) {
     return element;
 
     function ingredientItem(ingredient) {
-        const element = e('li', e('abbr', `${ingredient.qty} ${ingredient.name}`, { title: ingredient.id }));
+        //Ingredient ID as abbreviation is for debugging lists
+        //const element = e('li', e('abbr', `${ingredient.qty} ${ingredient.name}`, { title: ingredient.id }));
+        const element = e('li', e('span', `${ingredient.qty} ${ingredient.name}`));
         if (record.missingList.includes(ingredient.id)) {
             element.classList.add('missing');
         }
