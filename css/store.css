@@ -21,7 +21,9 @@ table input[type="text"] {
     width: 100%;
 }
 
-article {
+.cardArticle {
+    color: black;
+    text-decoration: none;
     width: 300px;
     display: inline-block;
     border: 2px solid #c5c5c5;
@@ -30,7 +32,7 @@ article {
     cursor: pointer;
 }
 
-article:hover {
+.cardArticle:hover {
     border: 2px solid #66ccdd;
 }
 

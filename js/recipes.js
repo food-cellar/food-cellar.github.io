@@ -37,16 +37,17 @@ export default async function recipesPage(category, ingredientsIndex, showDetail
 
 async function recipeCard(record, showDetails) {
     record = Object.assign(record, await getRecipe(record.id));
+    const href = `?id=${record.id}`;
 
-    const element = e('article', [
+    const element = e('a', [
         div(record.recipe.name, { className: 'cardLabel' }),
         div([
             e('ul', record.ingredients.map(ingredientItem), { className: 'ingredientList' }),
             span(record.missingLabel, { className: 'cardCount' })
         ], { className: 'cardContent' })
-    ]);
+    ], { href, className: 'cardArticle' });
 
-    element.addEventListener('click', () => showDetails(record.recipe));
+    element.addEventListener('click', (ev) => showDetails(record.recipe, href, ev));
 
     return element;
 

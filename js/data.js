@@ -73,6 +73,7 @@ export async function getData() {
         (() => {
             let content = null;
             recipeIndex[category.name] = {
+                name: category.name,
                 label: category.label,
                 getData: async () => {
                     if (content === null) {

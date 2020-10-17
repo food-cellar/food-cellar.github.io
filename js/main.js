@@ -1,5 +1,5 @@
 import e from './dom.js';
-import { getData } from './data.js';
+import { getData, getRecipe } from './data.js';
 import staplesPage from './staples.js';
 import bannedPage from './banned.js';
 import availablePage from './available.js';
@@ -36,17 +36,32 @@ async function initialize() {
     setupSection('#btnAvailable', availableSection);
     setupSection('#btnMandatory', mandatorySection);
 
-    document.querySelector('#btnAvailable').click();
+    const query = window.location.search.split('?')[1];
+    if (query !== undefined && query.includes('id=')) {
+        const tokens = query.split('&').map(t => t.split('=')).reduce((p, c) => Object.assign({}, p, { [c[0]]: c[1] }), {});
+        const recipeId = tokens.id;
+        const recipe = await getRecipe(recipeId);
+        showDetails(recipe.recipe, `?id=${recipeId}`, { preventDefault: () => { } });
+    } else {
+        document.querySelector('#btnAvailable').click();
+    }
 
     function setupSection(btnSelector, section) {
         const btn = btnSelector instanceof Node ? btnSelector : document.querySelector(btnSelector);
         btn.addEventListener('click', async () => {
+            const title = document.title;
+            window.history.pushState({}, title, '/');
+
             main.innerHTML = '';
             main.appendChild(await section());
         });
     }
 
-    function showDetails(recipe) {
+    function showDetails(recipe, href, ev) {
+        ev.preventDefault();
+        const title = document.title;
+        window.history.pushState({}, title, href);
+
         main.innerHTML = '';
         main.appendChild(detailsPage(recipe));
     }
