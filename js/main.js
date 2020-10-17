@@ -49,8 +49,8 @@ async function initialize() {
     function setupSection(btnSelector, section) {
         const btn = btnSelector instanceof Node ? btnSelector : document.querySelector(btnSelector);
         btn.addEventListener('click', async () => {
-            const title = document.title;
-            window.history.pushState({}, title, '/');
+            document.title = 'Food Cellar';
+            window.history.pushState({}, document.title, '/');
 
             main.innerHTML = '';
             main.appendChild(await section());
@@ -59,8 +59,8 @@ async function initialize() {
 
     function showDetails(recipe, href, ev) {
         ev.preventDefault();
-        const title = document.title;
-        window.history.pushState({}, title, href);
+        document.title = recipe.name;
+        window.history.pushState({}, document.title, href);
 
         main.innerHTML = '';
         main.appendChild(detailsPage(recipe));
