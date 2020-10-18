@@ -1,5 +1,5 @@
 import e from './dom.js';
-import { getData, getRecipe } from './data.js';
+import { getIndex, getRecipe } from './data.js';
 import staplesPage from './staples.js';
 import bannedPage from './banned.js';
 import availablePage from './available.js';
@@ -14,7 +14,7 @@ async function initialize() {
     const main = document.querySelector('main');
     const navigation = document.querySelector('#categories');
 
-    const { recipeIndex, ingredientsIndex } = await getData();
+    const { recipeIndex, ingredientsIndex } = await getIndex();
     const ingredients = Object.values(ingredientsIndex);
 
     const staplesSection = () => staplesPage(ingredients);
