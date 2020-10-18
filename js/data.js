@@ -34,3 +34,10 @@ export async function getRecipe(id) {
     const recipe = await (await fetch(host + `data/recipes/${id}`)).json();
     return recipe;
 }
+
+export async function getRecommended(body) {
+    return await (await fetch(host + 'data/browse', {
+        method: 'POST',
+        body: JSON.stringify(body)
+    })).json();
+}

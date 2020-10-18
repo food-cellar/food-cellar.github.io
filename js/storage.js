@@ -33,15 +33,15 @@ function setupStorage(name) {
     };
 }
 
-const { add: addStaple, remove: removeStaple, is: isStaple } = setupStorage('staples');
-const { add: addBanned, remove: removeBanned, is: isBanned } = setupStorage('banned');
-const { add: addAvailable, remove: removeAvailable, is: isAvailable } = setupStorage('available');
+const { add: addStaple, remove: removeStaple, is: isStaple, _data: staple } = setupStorage('staples');
+const { add: addBanned, remove: removeBanned, is: isBanned, _data: banned } = setupStorage('banned');
+const { add: addAvailable, remove: removeAvailable, is: isAvailable, _data: available } = setupStorage('available');
 const { add: addMandatory, remove: removeMandatory, is: isMandatory, _data: mandatory } = setupStorage('mandatory');
 
-export { addStaple, removeStaple, isStaple };
-export { addBanned, removeBanned, isBanned };
-export { addAvailable, removeAvailable, isAvailable };
-export { addMandatory, removeMandatory, isMandatory };
+export { addStaple, removeStaple, isStaple, staple };
+export { addBanned, removeBanned, isBanned, banned };
+export { addAvailable, removeAvailable, isAvailable, available };
+export { addMandatory, removeMandatory, isMandatory, mandatory };
 
 export function hasMandatory(ingredientIds) {
     if (mandatory.length == 0) {
