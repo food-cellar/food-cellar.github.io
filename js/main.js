@@ -24,7 +24,7 @@ async function initialize() {
 
     for (let name in recipeIndex) {
         const category = recipeIndex[name];
-        const currentSection = async () => await recipesPage(category, ingredientsIndex, showDetails);
+        const currentSection = async () => await recipesPage(category, showDetails);
         const btn = e('button', category.label);
         navigation.appendChild(btn);
 

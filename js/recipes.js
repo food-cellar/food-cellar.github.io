@@ -3,7 +3,7 @@ import e, { div, span } from './dom.js';
 import { mandatory, banned, available, staple } from './storage.js';
 
 
-export default async function recipesPage(category, ingredientsIndex, showDetails) {
+export default async function recipesPage(category, showDetails) {
     const body = {
         categoryName: category.name,
         mandatory,
@@ -14,12 +14,12 @@ export default async function recipesPage(category, ingredientsIndex, showDetail
     const filtered = await getRecommended(body);
 
     const element = e('section', e('h2', category.label));
-    filtered.slice(0, 40).map(async r => element.appendChild(await recipeCard(r, showDetails)));
+    filtered.map(r => element.appendChild(recipeCard(r, showDetails)));
 
     return element;
 }
 
-async function recipeCard(record, showDetails) {
+function recipeCard(record, showDetails) {
     const href = `?id=${record.id}`;
 
     const element = e('a', [
