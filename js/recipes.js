@@ -12,7 +12,7 @@ export default async function recipesPage(category, showDetails) {
         staple,
         page: 1
     };
-    
+
     const element = e('section', e('h2', category.label));
     nextPage();
     return element;
@@ -22,11 +22,13 @@ export default async function recipesPage(category, showDetails) {
 
         filtered.map(r => element.appendChild(recipeCard(r, showDetails)));
         if (filtered.length == 20) {
-            const btnMore = button('Покажи още', () => {
-                btnMore.remove();
+            const btnMore = button('Покажи още', async () => {
+                btnMore.disabled = true;
+                btnMore.textContent = 'Зареждане ...';
                 body.page++;
-                nextPage();
-            });
+                await nextPage();
+                btnMore.remove();
+            }, { className: 'showMore' });
             element.appendChild(btnMore);
         }
     }

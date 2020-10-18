@@ -3,6 +3,20 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
+button {
+    font-size: 18px;
+    padding: 2pt 6pt;
+    margin: 1pt;
+}
+
+.showMore {
+    display: block;
+    width: 300px;
+    font-size: 24px;
+    padding: 2pt 6pt;
+    margin: 8px;
+}
+
 fieldset {
     display: inline-block;
 }
@@ -74,4 +88,25 @@ ul {
 
 .missing {
     background-color: #ffeecc;
+}
+
+@media screen and (max-width: 600px) {
+    .cardArticle {
+        width: 94%;
+        margin-left: 3%;
+        margin-right: 3%;
+    }
+
+    .ingredientList {
+        padding: 8px;
+        height: auto;
+        overflow-y: hidden;
+    }
+
+    .showMore {
+        width: 94%;
+        margin-left: 3%;
+        margin-right: 3%;
+        margin-bottom: 64px;
+    }
 }
