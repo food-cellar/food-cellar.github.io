@@ -1,5 +1,5 @@
 import { getRecommended } from './data.js';
-import e, { div, span } from './dom.js';
+import e, { div, span, button } from './dom.js';
 import { mandatory, banned, available, staple } from './storage.js';
 
 
@@ -10,13 +10,26 @@ export default async function recipesPage(category, showDetails) {
         banned,
         available,
         staple,
+        page: 1
     };
-    const filtered = await getRecommended(body);
-
+    
     const element = e('section', e('h2', category.label));
-    filtered.map(r => element.appendChild(recipeCard(r, showDetails)));
-
+    nextPage();
     return element;
+
+    async function nextPage() {
+        const filtered = await getRecommended(body);
+
+        filtered.map(r => element.appendChild(recipeCard(r, showDetails)));
+        if (filtered.length == 20) {
+            const btnMore = button('Покажи още', () => {
+                btnMore.remove();
+                body.page++;
+                nextPage();
+            });
+            element.appendChild(btnMore);
+        }
+    }
 }
 
 function recipeCard(record, showDetails) {
