@@ -1,4 +1,4 @@
-import e, { checkbox } from './dom.js';
+import e, { checkbox } from '../dom.js';
 import filterTable from './filterTable.js';
 
 

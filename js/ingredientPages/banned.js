@@ -1,6 +1,6 @@
-import e from './dom.js';
-import ingredientList from './ingredientList.js';
-import { addBanned, removeBanned, isBanned, isStaple } from './storage.js';
+import e from '../dom.js';
+import ingredientList from '../common/ingredientList.js';
+import { addBanned, removeBanned, isBanned, isStaple } from '../storage.js';
 
 
 export default function bannedPage(ingredients) {

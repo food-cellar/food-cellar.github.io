@@ -1,6 +1,6 @@
-import { getRecommended } from './data.js';
-import e, { div, span, button } from './dom.js';
-import { mandatory, banned, available, staple } from './storage.js';
+import { getRecommended } from '../data.js';
+import e, { div, span, button } from '../dom.js';
+import { mandatory, banned, available, staple } from '../storage.js';
 
 
 export default async function recipesPage(category, showDetails) {

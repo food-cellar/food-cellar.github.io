@@ -1,4 +1,5 @@
-const host = 'https://food-cellar.herokuapp.com/';
+//const host = 'https://food-cellar.herokuapp.com/';
+const host = 'http://localhost:5000/';
 
 
 export async function getIndex() {

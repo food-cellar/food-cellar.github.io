@@ -1,4 +1,4 @@
-import e, { tr, td, input, div } from './dom.js';
+import e, { tr, td, input, div } from '../dom.js';
 
 
 /**

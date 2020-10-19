@@ -1,4 +1,4 @@
-import e, { div } from './dom.js';
+import e, { div } from '../dom.js';
 
 
 export default function recipeDetails(recipe) {

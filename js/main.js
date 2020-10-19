@@ -1,11 +1,11 @@
 import e from './dom.js';
 import { getIndex, getRecipe } from './data.js';
-import staplesPage from './staples.js';
-import bannedPage from './banned.js';
-import availablePage from './available.js';
-import mandatoryPage from './mandatory.js';
-import recipesPage from './recipes.js';
-import detailsPage from './details.js';
+import staplesPage from './ingredientPages/staples.js';
+import bannedPage from './ingredientPages/banned.js';
+import availablePage from './ingredientPages/available.js';
+import mandatoryPage from './ingredientPages/mandatory.js';
+import recipesPage from './recipePages/recipes.js';
+import detailsPage from './recipePages/details.js';
 
 
 initialize();

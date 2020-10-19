@@ -1,6 +1,6 @@
-import e from './dom.js';
-import ingredientList from './ingredientList.js';
-import { addAvailable, removeAvailable, isAvailable, isStaple, isBanned } from './storage.js';
+import e from '../dom.js';
+import ingredientList from '../common/ingredientList.js';
+import { addAvailable, removeAvailable, isAvailable, isStaple, isBanned } from '../storage.js';
 
 
 export default function availablePage(ingredients) {
