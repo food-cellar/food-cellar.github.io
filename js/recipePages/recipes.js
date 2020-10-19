@@ -9,7 +9,7 @@ export default function recipesPage(category, showDetails) {
         mandatory,
         banned,
         available,
-        staple: [2,4,9,11,12,20,23,25,28,29,36,42,60,61,65,70,75,77,66,10,1],
+        staple,
         page: 1
     };
 
