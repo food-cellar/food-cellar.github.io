@@ -1,3 +1,91 @@
-.active {
-    background-color: aqua;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#content {
+    background-color: #33cc33;
+}
+
+.nav-tab {
+    text-align: center;
+    display: inline-block;
+    background-color: #33cc33;
+    color: white;
+    text-decoration: none;
+    padding: 0.25em 0.5em;
+    border: 3px solid #33cc33;
+    border-bottom: none;
+}
+
+.nav-tab.active {
+    background-color: white;
+    border-bottom: none;
+    color: black;
+}
+
+.nav-tab:hover {
+    background-color: #99ff99;
+    color: black;
+}
+
+.nav-tab.main {
+    width: 50%;
+}
+
+main {
+    border: 3px solid #33cc33;
+    border-top: none;
+    background-color: white;
+    padding: 8px 3%;
+}
+
+nav {
+    border-top: 3px solid white;
+}
+
+.drawer {
+    display: inline-block;
+}
+
+.drawer .nav-tab {
+    display: block;
+    text-align: left;
+}
+
+.drawer-button::before {
+    content: "☰";
+}
+
+p {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+@media screen and (min-width: 600px) {
+    #content {
+        max-width: 980px;
+        margin: auto;
+    }
+
+    main {
+        display: inline-block;
+        margin: auto;
+        padding: 8px;
+    }
+
+    .nav-tab.main {
+        width: 10em;
+    }
+
+    .drawer .nav-tab {
+        display: inline-block;
+        text-align: center;
+    }
 }

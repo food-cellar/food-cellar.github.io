@@ -1,17 +1,19 @@
 export class Router {
-    constructor() {
+    constructor(context) {
+        this.context = context;
         this.routes = [];
         this.links = [];
+        this.params = {};
 
         window.addEventListener('popstate', this.handle.bind(this));
     }
 
-    async handle() {
+    async handle(init = false) {
         const url = window.location.pathname;
 
         let handled = false;
         for (let route of this.routes) {
-            const isHandled = await route(url);
+            const isHandled = await route(url, init);
             if (isHandled) {
                 handled = true;
             }
@@ -31,10 +33,11 @@ export class Router {
      * @param {(params) => Promise} handler Route handler
      */
     registerRoute(pattern, handler) {
-        this.routes.push(async url => {
-            let params = extractMatch(url, pattern);
+        this.routes.push(async (url, init) => {
+            let params = extractMatch(url, pattern, init);
             if (params !== null) {
-                await handler(params);
+                this.params = params;
+                await handler(this);
                 return true;
             } else {
                 return false;
@@ -71,13 +74,13 @@ export class Router {
 }
 
 
-export function extractMatch(url, pattern) {
+export function extractMatch(url, pattern, init) {
     const tokens = url.split('/').filter(t => t.length > 0);
     const patternTokens = pattern.split('/').filter(t => t.length > 0);
 
-    if (tokens.length == patternTokens.length) {
+    if (init || (tokens.length == patternTokens.length)) {
         let result = {};
-        for (let i = 0; i < tokens.length; i++) {
+        for (let i = 0; i < patternTokens.length; i++) {
             if (patternTokens[i][0] === '{') {
                 const name = patternTokens[i].slice(1, -1);
                 result[name] = tokens[i];

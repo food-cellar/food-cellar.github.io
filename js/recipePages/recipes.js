@@ -3,7 +3,7 @@ import e, { div, span, button } from '../dom.js';
 import { mandatory, banned, available, staple } from '../storage.js';
 
 
-export default async function recipesPage(category, showDetails) {
+export default function recipesPage(category, showDetails) {
     const body = {
         categoryName: category.name,
         mandatory,
@@ -35,7 +35,7 @@ export default async function recipesPage(category, showDetails) {
 }
 
 function recipeCard(record, showDetails) {
-    const href = `?id=${record.id}`;
+    const href = `/recipe/${record.id}`;
 
     const element = e('a', [
         div(record.recipe.name, { className: 'cardLabel' }),
