@@ -63,7 +63,6 @@ nav {
     z-index: 3;
     left: 0;
     top: 100%;
-    
     display: none;
     position: absolute;
 }
@@ -123,5 +122,12 @@ nav {
     .drawer .nav-tab {
         display: inline-block;
         text-align: center;
+    }
+    .drawer {
+        display: block;
+        position: static;
+    }
+    .select {
+        display: none;
     }
 }
