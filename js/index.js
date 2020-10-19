@@ -1,22 +1,25 @@
 import { getIndex, getRecipe } from './data.js';
+import staplesPage from './ingredientPages/staples.js';
 import availablePage from './ingredientPages/available.js';
 import bannedPage from './ingredientPages/banned.js';
 import recipesPage from './recipePages/recipes.js';
 import detailsPage from './recipePages/details.js';
 
 import { Router } from './routing.js';
-import e, { div, a, swap } from './dom.js';
+import e, { div, a, swap, loading } from './dom.js';
 
 
 window.addEventListener('load', mainPage);
 
 async function mainPage() {
+    renderPage(loading);
     const context = await getIndex();
     context.ingredients = Object.values(context.ingredientsIndex);
-
+    
     const router = new Router(context);
-
+    
     createMainNav(router);
+    renderPage(() => a('/ingredients/available', 'Избери налични съставки', { id: 'getStarted' }));
 
     router.get('/recipe/{id}', detailsRoute);
     router.get('/ingredients', ingredientsPage);
@@ -41,6 +44,7 @@ function ingredientsPage(router) {
     ], { id: 'nav-sub' });
 
     const ingredients = router.context.ingredients;
+    router.get('/ingredients/staples', () => renderPage(() => staplesPage(ingredients)));
     router.get('/ingredients/available', () => renderPage(() => availablePage(ingredients)));
     router.get('/ingredients/banned', () => renderPage(() => bannedPage(ingredients)));
 
@@ -50,8 +54,14 @@ function ingredientsPage(router) {
 function categoriesPage(router) {
     const menu = document.querySelector('#nav-sub');
 
+    const select = a('javascript:void(0)', 'Категория', { className: 'select' });
+    select.addEventListener('click', ev => {
+        ev.preventDefault();
+        toggleDrawer();
+    });
+
     const drawer = div([], { className: 'drawer' });
-    const newNav = e('nav', drawer, { id: 'nav-sub' });
+    const newNav = e('nav', [select, drawer], { id: 'nav-sub' });
 
     for (let name in router.context.recipeIndex) {
         const category = router.context.recipeIndex[name];
@@ -66,6 +76,32 @@ function categoriesPage(router) {
         const category = router.context.recipeIndex[router.params.category];
         const page = () => recipesPage(category, showDetails);
         renderPage(page);
+    }
+
+    function toggleDrawer() {
+        if (select.classList.contains('selected')) {
+            close();
+        } else {
+            open();
+        }
+
+        function open() {
+            select.classList.add('selected');
+            drawer.style.display = 'inline-block';
+
+            setTimeout(() => document.addEventListener('click', clickHandler), 0);
+        }
+
+        function close() {
+            select.classList.remove('selected');
+            drawer.style.display = 'none';
+
+            document.removeEventListener('click', clickHandler);
+        }
+
+        function clickHandler(ev) {
+            close();
+        }
     }
 }
 

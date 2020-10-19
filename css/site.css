@@ -7,6 +7,7 @@
 body {
     font-size: 18px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #D3D3D3;
 }
 
 #content {
@@ -50,8 +51,21 @@ nav {
     border-top: 3px solid white;
 }
 
+.menu-button::before {
+    content: "☰";
+}
+
+#nav-sub {
+    position: relative;
+}
+
 .drawer {
-    display: inline-block;
+    z-index: 3;
+    left: 0;
+    top: 100%;
+    
+    display: none;
+    position: absolute;
 }
 
 .drawer .nav-tab {
@@ -59,13 +73,36 @@ nav {
     text-align: left;
 }
 
-.drawer-button::before {
-    content: "☰";
+.select {
+    display: block;
+    position: relative;
+    background-color: #33cc33;
+    color: white;
+    text-decoration: none;
+    padding: 0.25em 0.5em;
+    padding-left: 1.5em;
+    border: 3px solid #33cc33;
+    border-bottom: none;
 }
 
-p {
-    margin-top: 1em;
-    margin-bottom: 1em;
+.select.selected {
+    background-color: #009933;
+}
+
+.select:before {
+    position: absolute;
+    content: "";
+    top: 14px;
+    left: 10px;
+    width: 0;
+    height: 0;
+    border: 6px solid transparent;
+    border-color: #fff transparent transparent transparent;
+}
+
+.select.selected:before {
+    border-color: transparent transparent #fff transparent;
+    top: 7px;
 }
 
 @media screen and (min-width: 600px) {
@@ -73,17 +110,16 @@ p {
         max-width: 980px;
         margin: auto;
     }
-
     main {
-        display: inline-block;
         margin: auto;
         padding: 8px;
     }
-
+    .nav-tab {
+        padding: 0.25em 1em;
+    }
     .nav-tab.main {
         width: 10em;
     }
-
     .drawer .nav-tab {
         display: inline-block;
         text-align: center;

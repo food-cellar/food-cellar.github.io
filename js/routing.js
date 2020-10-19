@@ -81,7 +81,7 @@ export function extractMatch(url, pattern, init) {
     if (init || (tokens.length == patternTokens.length)) {
         let result = {};
         for (let i = 0; i < patternTokens.length; i++) {
-            if (patternTokens[i][0] === '{') {
+            if (patternTokens[i][0] === '{' && tokens[i] !== undefined) {
                 const name = patternTokens[i].slice(1, -1);
                 result[name] = tokens[i];
             } else if (tokens[i] != patternTokens[i]) {
