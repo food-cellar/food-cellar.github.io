@@ -3,13 +3,14 @@ import filterTable from './filterTable.js';
 
 
 export default function ingredientList(name, ingredients, add, remove, is, colorId) {
-    ingredients.sort((a, b) => {
+    ingredients = ingredients.slice().sort((a, b) => {
         if (is(a.id) == is(b.id)) {
             return b.used - a.used;
         } else {
             return is(a.id) ? -1 : 1;
         }
-    }).forEach(i => {
+    }).map(i => {
+        const current = Object.assign({}, i);
         const selected = checkbox((ev) => {
             const value = ev.target.checked;
             if (value) {
@@ -24,8 +25,10 @@ export default function ingredientList(name, ingredients, add, remove, is, color
             selected.checked = true;
         }
 
-        i.actions = selected;
-        i.label = e('label', i.displayName, { htmlFor: name + i.id });
+        current.actions = selected;
+        current.label = e('label', i.displayName, { htmlFor: name + i.id });
+
+        return current;
     });
 
     const table = filterTable(ingredients, [

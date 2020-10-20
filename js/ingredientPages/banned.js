@@ -3,7 +3,9 @@ import ingredientList from '../common/ingredientList.js';
 import { addBanned, removeBanned, isBanned, isStaple } from '../storage.js';
 
 
-export default function bannedPage(ingredients) {
+export default function bannedPage(router) {
+    const ingredients = router.context.ingredients;
+
     const element = e('section', e('h2', 'Изключени съставки'));
 
     const colorId = '#ffbbbb';
@@ -19,5 +21,5 @@ export default function bannedPage(ingredients) {
 
     element.appendChild(table);
 
-    return element;
+    router.render(element);
 }

@@ -1,9 +1,12 @@
 import { getRecommended } from '../data.js';
-import e, { div, span, button, loading } from '../dom.js';
+import e, { a, div, span, button, loading } from '../dom.js';
 import { mandatory, banned, available, staple } from '../storage.js';
 
 
-export default function recipesPage(category, showDetails) {
+export default function recipesPage(router) {
+    const categoryName = router.params.category;
+    const category = router.context.recipeIndex[categoryName];
+
     const body = {
         categoryName: category.name,
         mandatory,
@@ -16,13 +19,14 @@ export default function recipesPage(category, showDetails) {
     const loader = loading();
     const element = e('section', [e('h2', category.label), loader]);
     nextPage();
-    return element;
+
+    router.render(element);
 
     async function nextPage() {
         const filtered = await getRecommended(body);
         loader.remove();
 
-        filtered.map(r => element.appendChild(recipeCard(r, showDetails)));
+        filtered.map(r => element.appendChild(recipeCard(r, router)));
         if (filtered.length == 20) {
             const btnMore = button('Покажи още', async () => {
                 btnMore.remove();
@@ -36,20 +40,18 @@ export default function recipesPage(category, showDetails) {
     }
 }
 
-function recipeCard(record, showDetails) {
+function recipeCard(record, router) {
     const href = `/recipe/${record.id}`;
 
-    const element = e('a', [
+    const element = a(href, [
         div(record.recipe.name, { className: 'cardLabel label' }),
         div([
             e('ul', record.ingredients.map(ingredientItem), { className: 'ingredientList' }),
             span(record.missingLabel, { className: 'cardCount' })
         ], { className: 'cardContent' })
-    ], { href, className: 'cardArticle' });
+    ], { className: 'cardArticle' });
 
-    element.addEventListener('click', (ev) => showDetails(record.recipe, href, ev));
-
-    return element;
+    return router.link(element);
 
     function ingredientItem(ingredient) {
         //Ingredient ID as abbreviation is for debugging lists

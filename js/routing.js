@@ -61,7 +61,7 @@ export class Router {
     link(element, navClassName) {
         element.addEventListener('click', (ev) => {
             ev.preventDefault();
-            window.history.pushState({}, document.title, ev.target.href);
+            window.history.pushState({}, document.title, element.href);
             this.handle();
         });
 

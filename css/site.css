@@ -84,7 +84,6 @@ nav {
     display: block;
     text-align: left;
     border: none;
-    min-width: 50vw;
 }
 
 .select {
@@ -118,8 +117,9 @@ nav {
     .screen {
         display: none;
     }
-    .drawer > * {
+    .drawer>* {
         background-color: #3d5c3d;
+        min-width: 50vw;
     }
 }
 

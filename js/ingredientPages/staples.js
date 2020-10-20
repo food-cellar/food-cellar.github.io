@@ -3,7 +3,9 @@ import ingredientList from '../common/ingredientList.js';
 import { addStaple, removeStaple, isStaple, isBanned } from '../storage.js';
 
 
-export default function staplesPage(ingredients) {
+export default function staplesPage(router) {
+    const ingredients = router.context.ingredients;
+    
     const element = e('section', e('h2', 'Универсални съставки'));
     
     const colorId = '#bbbbff';
@@ -19,5 +21,5 @@ export default function staplesPage(ingredients) {
 
     element.appendChild(table);
 
-    return element;
+    router.render(element);
 }
