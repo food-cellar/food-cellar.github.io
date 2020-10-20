@@ -30,7 +30,7 @@ export default function recipesPage(category, showDetails) {
                 body.page++;
                 await nextPage();
                 loader.remove();
-            }, { className: 'showMore label' });
+            }, { className: 'showMore alt' });
             element.appendChild(btnMore);
         }
     }

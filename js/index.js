@@ -35,7 +35,7 @@ async function mainPage() {
     const router = new Router(context);
 
     const nav = createMainNav(router);
-    renderPage(() => router.link(a('/ingredients/available', 'Избери налични съставки', { id: 'getStarted', className: 'label' })));
+    renderPage(() => router.link(a('/ingredients/available', 'Избери налични съставки', { id: 'getStarted', className: 'alt' })));
 
     router.get('/recipe/{id}', detailsRoute);
 

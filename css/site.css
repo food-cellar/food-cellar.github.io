@@ -20,6 +20,11 @@ body {
     color: white;
 }
 
+.alt {
+    background-color: #7a5252;
+    color: white;
+}
+
 .border-main {
     border-color: #527a52;
     border-style: solid;
