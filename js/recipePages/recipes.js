@@ -30,7 +30,7 @@ export default function recipesPage(category, showDetails) {
                 body.page++;
                 await nextPage();
                 loader.remove();
-            }, { className: 'showMore' });
+            }, { className: 'showMore label' });
             element.appendChild(btnMore);
         }
     }
@@ -40,7 +40,7 @@ function recipeCard(record, showDetails) {
     const href = `/recipe/${record.id}`;
 
     const element = e('a', [
-        div(record.recipe.name, { className: 'cardLabel' }),
+        div(record.recipe.name, { className: 'cardLabel label' }),
         div([
             e('ul', record.ingredients.map(ingredientItem), { className: 'ingredientList' }),
             span(record.missingLabel, { className: 'cardCount' })

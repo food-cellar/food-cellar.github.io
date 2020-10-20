@@ -1,5 +1,6 @@
 import { Router } from './routing.js';
 import e, { div, a, swap, loading } from './dom.js';
+import './common/scrollBubble.js';
 
 import { getIndex, getRecipe, settings } from './data.js';
 import staplesPage from './ingredientPages/staples.js';
@@ -17,20 +18,24 @@ async function mainPage() {
 
     /* BEGIN Environment detection */
     try {
-        const env = await (await fetch('/LOCAL')).text();
-        settings.host = env;
+        const envRequest = await fetch('/LOCAL');
+        if (envRequest.status != 404) {
+            settings.host = await envRequest.text();
+        } else {
+            // Environemnt is production
+        }
     } catch (err) {
         // Environemnt is production
     }
     /* END Environment detection */
-
+    
     const context = await getIndex();
     context.ingredients = Object.values(context.ingredientsIndex);
-    
+
     const router = new Router(context);
-    
+
     createMainNav(router);
-    renderPage(() => a('/ingredients/available', 'Избери налични съставки', { id: 'getStarted' }));
+    renderPage(() => a('/ingredients/available', 'Избери налични съставки', { id: 'getStarted', className: 'label' }));
 
     router.get('/recipe/{id}', detailsRoute);
     router.get('/ingredients', ingredientsPage);
@@ -41,8 +46,8 @@ async function mainPage() {
 function createMainNav(router) {
     const menu = document.querySelector('#nav-main');
 
-    menu.appendChild(router.link(a('/ingredients', 'Съставки', { className: 'nav-tab main' }), 'active'));
-    menu.appendChild(router.link(a('/recipes', 'Рецепти', { className: 'nav-tab main' }), 'active'));
+    menu.appendChild(router.link(a('/ingredients', 'Съставки', { className: 'nav-tab main label border-main' }), 'active'));
+    menu.appendChild(router.link(a('/recipes', 'Рецепти', { className: 'nav-tab main label border-main' }), 'active'));
 }
 
 
@@ -50,8 +55,8 @@ function ingredientsPage(router) {
     const menu = document.querySelector('#nav-sub');
 
     const newNav = e('nav', [
-        router.link(a('/ingredients/available', 'Налични', { className: 'nav-tab' }), 'active'),
-        router.link(a('/ingredients/banned', 'Изключени', { className: 'nav-tab' }), 'active')
+        router.link(a('/ingredients/available', 'Налични', { className: 'nav-tab label border-main' }), 'active'),
+        router.link(a('/ingredients/banned', 'Изключени', { className: 'nav-tab label border-main' }), 'active')
     ], { id: 'nav-sub' });
 
     const ingredients = router.context.ingredients;
@@ -65,7 +70,7 @@ function ingredientsPage(router) {
 function categoriesPage(router) {
     const menu = document.querySelector('#nav-sub');
 
-    const select = a('javascript:void(0)', 'Категория', { className: 'select' });
+    const select = a('javascript:void(0)', 'Категория', { className: 'select label border-main' });
     select.addEventListener('click', ev => {
         ev.preventDefault();
         toggleDrawer();
@@ -76,7 +81,7 @@ function categoriesPage(router) {
 
     for (let name in router.context.recipeIndex) {
         const category = router.context.recipeIndex[name];
-        const navLink = router.link(a(`/recipes/${category.name}`, category.label, { className: 'nav-tab' }), 'active');
+        const navLink = router.link(a(`/recipes/${category.name}`, category.label, { className: 'nav-tab label border-main' }), 'active');
         drawer.appendChild(navLink);
     }
     router.get('/recipes/{category}', prerender);

@@ -3,7 +3,6 @@
     display: block;
     width: 60%;
     margin: 64px auto;
-    background-color: #33cc33;
     color: white;
     text-decoration: none;
     padding: 0.5em 1em;
@@ -14,6 +13,39 @@
     color: black;
 }
 
+#scrollUp {
+    background-color:#7a5252;
+    color: white;
+    z-index: 4;
+    position: fixed;
+    bottom: -64px;
+    right: 16px;
+    display: inline-block;
+    width: 64px;
+    height: 64px;
+    border-radius: 32px;
+    text-decoration: none;
+}
+
+#scrollUp::before {
+    content: '';
+    display: inline-block;
+    position: absolute;
+    left: 21px;
+    top: 24px;
+    width: 16px;
+    height: 16px;
+    border-top: 8px solid white;
+    border-right: 8px solid white;
+    transform: rotate(-45deg);
+}
+
+/* ################## */
+
+/* Loading animations */
+
+/* ################## */
+
 .sk-cube-grid {
     width: 40px;
     height: 40px;
@@ -23,7 +55,6 @@
 .sk-cube-grid .sk-cube {
     width: 33%;
     height: 33%;
-    background-color: black;
     float: left;
     -webkit-animation: sk-cubeGridScaleDelay 1.3s infinite ease-in-out;
     animation: sk-cubeGridScaleDelay 1.3s infinite ease-in-out;
@@ -75,14 +106,10 @@
 }
 
 @-webkit-keyframes sk-cubeGridScaleDelay {
-
-    0%,
-    70%,
-    100% {
+    0%, 70%, 100% {
         -webkit-transform: scale3D(1, 1, 1);
         transform: scale3D(1, 1, 1);
     }
-
     35% {
         -webkit-transform: scale3D(0, 0, 1);
         transform: scale3D(0, 0, 1);
@@ -90,14 +117,10 @@
 }
 
 @keyframes sk-cubeGridScaleDelay {
-
-    0%,
-    70%,
-    100% {
+    0%, 70%, 100% {
         -webkit-transform: scale3D(1, 1, 1);
         transform: scale3D(1, 1, 1);
     }
-
     35% {
         -webkit-transform: scale3D(0, 0, 1);
         transform: scale3D(0, 0, 1);

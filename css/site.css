@@ -8,20 +8,29 @@ body {
     font-size: 18px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #D3D3D3;
+    position: relative;
 }
 
 #content {
-    background-color: #33cc33;
+    background-color: #527a52;
+}
+
+.label {
+    background-color: #527a52;
+    color: white;
+}
+
+.border-main {
+    border-color: #527a52;
+    border-style: solid;
+    border-width: 3px;
 }
 
 .nav-tab {
     text-align: center;
     display: inline-block;
-    background-color: #33cc33;
-    color: white;
     text-decoration: none;
     padding: 0.25em 0.5em;
-    border: 3px solid #33cc33;
     border-bottom: none;
 }
 
@@ -41,7 +50,6 @@ body {
 }
 
 main {
-    border: 3px solid #33cc33;
     border-top: none;
     background-color: white;
     padding: 8px 3%;
@@ -70,22 +78,21 @@ nav {
 .drawer .nav-tab {
     display: block;
     text-align: left;
+    border: none;
 }
 
 .select {
     display: block;
     position: relative;
-    background-color: #33cc33;
     color: white;
     text-decoration: none;
     padding: 0.25em 0.5em;
     padding-left: 1.5em;
-    border: 3px solid #33cc33;
     border-bottom: none;
 }
 
 .select.selected {
-    background-color: #009933;
+    background-color: #3d5c3d;
 }
 
 .select:before {

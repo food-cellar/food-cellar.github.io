@@ -107,15 +107,15 @@ export function checkbox(onChange, attributes) {
 
 export function loading() {
     const node = e('div', [
-        e('div', null, { classList: 'sk-cube sk-cube1' }),
-        e('div', null, { classList: 'sk-cube sk-cube2' }),
-        e('div', null, { classList: 'sk-cube sk-cube3' }),
-        e('div', null, { classList: 'sk-cube sk-cube4' }),
-        e('div', null, { classList: 'sk-cube sk-cube5' }),
-        e('div', null, { classList: 'sk-cube sk-cube6' }),
-        e('div', null, { classList: 'sk-cube sk-cube7' }),
-        e('div', null, { classList: 'sk-cube sk-cube8' }),
-        e('div', null, { classList: 'sk-cube sk-cube9' }),
+        e('div', null, { classList: 'sk-cube sk-cube1 label' }),
+        e('div', null, { classList: 'sk-cube sk-cube2 label' }),
+        e('div', null, { classList: 'sk-cube sk-cube3 label' }),
+        e('div', null, { classList: 'sk-cube sk-cube4 label' }),
+        e('div', null, { classList: 'sk-cube sk-cube5 label' }),
+        e('div', null, { classList: 'sk-cube sk-cube6 label' }),
+        e('div', null, { classList: 'sk-cube sk-cube7 label' }),
+        e('div', null, { classList: 'sk-cube sk-cube8 label' }),
+        e('div', null, { classList: 'sk-cube sk-cube9 label' }),
     ], { classList: 'sk-cube-grid' });
 
     return node;
