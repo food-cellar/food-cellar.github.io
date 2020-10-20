@@ -56,13 +56,31 @@ export class Router {
     /**
      * Attach anchor event listeners
      * @param {HTMLAnchorElement} element Anchor node
-     * @param {(params) => Promise} handler Route handler
+     * @param {string?} navClassName If provided, class to apply to active nav links
      */
     link(element, navClassName) {
         element.addEventListener('click', (ev) => {
             ev.preventDefault();
             window.history.pushState({}, document.title, ev.target.href);
             this.handle();
+        });
+
+        if (navClassName !== undefined) {
+            this.links.push({ element, className: navClassName });
+        }
+
+        return element;
+    }
+
+    /**
+     * Configure non-navigating anchor
+     * @param {HTMLAnchorElement} element Anchor node
+     * @param {(ev: Event) => {}} handler Event handler
+     */
+    button(element, handler, navClassName) {
+        element.addEventListener('click', (ev) => {
+            ev.preventDefault();
+            handler(ev);
         });
 
         if (navClassName !== undefined) {

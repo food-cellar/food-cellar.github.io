@@ -34,59 +34,74 @@ async function mainPage() {
 
     const router = new Router(context);
 
-    createMainNav(router);
-    renderPage(() => a('/ingredients/available', 'Избери налични съставки', { id: 'getStarted', className: 'label' }));
+    const nav = createMainNav(router);
+    renderPage(() => router.link(a('/ingredients/available', 'Избери налични съставки', { id: 'getStarted', className: 'label' })));
 
     router.get('/recipe/{id}', detailsRoute);
-    router.get('/ingredients', ingredientsPage);
-    router.get('/recipes', categoriesPage);
+
+    router.get('/ingredients', nav.showIngredientsNav);
+    router.get('/ingredients/staples', () => renderPage(() => staplesPage(context.ingredients)));
+    router.get('/ingredients/available', () => renderPage(() => availablePage(context.ingredients)));
+    router.get('/ingredients/banned', () => renderPage(() => bannedPage(context.ingredients)));
+
+    router.get('/recipes', nav.showRecipesNav);
     router.handle(true);
 }
 
 function createMainNav(router) {
-    const menu = document.querySelector('#nav-main');
+    const main = document.querySelector('#nav-main');
+    let sub = document.querySelector('#nav-sub');
 
-    menu.appendChild(router.link(a('/ingredients', 'Съставки', { className: 'nav-tab main label border-main' }), 'active'));
-    menu.appendChild(router.link(a('/recipes', 'Рецепти', { className: 'nav-tab main label border-main' }), 'active'));
+    const select = a('javascript:void(0)', 'Рецепти', { className: 'nav-tab main label border-main select' });
+    
+    main.appendChild(router.link(a('/ingredients', 'Съставки', { className: 'nav-tab main label border-main' }), 'active'));
+    main.appendChild(router.link(a('/recipes', 'Рецепти', { className: 'nav-tab main label border-main screen' }), 'active'));
+    main.appendChild(select);
+
+    const ingrNav = createIngrNav(router);
+    const catNav = createCategoryNav(router, select);
+
+    select.addEventListener('click', ev => {
+        ev.preventDefault();
+        showRecipesNav();
+        catNav._toggle();
+    });
+
+    return {
+        showIngredientsNav,
+        showRecipesNav
+    };
+
+    function showIngredientsNav() {
+        swap(sub, ingrNav);
+        sub = ingrNav;
+    }
+
+    function showRecipesNav() {
+        swap(sub, catNav);
+        sub = catNav;
+    }
 }
 
-
-function ingredientsPage(router) {
-    const menu = document.querySelector('#nav-sub');
-
-    const newNav = e('nav', [
+function createIngrNav(router) {
+    return e('nav', [
         router.link(a('/ingredients/available', 'Налични', { className: 'nav-tab label border-main' }), 'active'),
         router.link(a('/ingredients/banned', 'Изключени', { className: 'nav-tab label border-main' }), 'active')
     ], { id: 'nav-sub' });
-
-    const ingredients = router.context.ingredients;
-    router.get('/ingredients/staples', () => renderPage(() => staplesPage(ingredients)));
-    router.get('/ingredients/available', () => renderPage(() => availablePage(ingredients)));
-    router.get('/ingredients/banned', () => renderPage(() => bannedPage(ingredients)));
-
-    swap(menu, newNav);
 }
 
-function categoriesPage(router) {
-    const menu = document.querySelector('#nav-sub');
-
-    const select = a('javascript:void(0)', 'Категория', { className: 'select label border-main' });
-    select.addEventListener('click', ev => {
-        ev.preventDefault();
-        toggleDrawer();
-    });
-
-    const drawer = div([], { className: 'drawer' });
-    const newNav = e('nav', [select, drawer], { id: 'nav-sub' });
+function createCategoryNav(router, select) {
+    const newNav = e('nav', [], { id: 'nav-sub', className: 'drawer' });
 
     for (let name in router.context.recipeIndex) {
         const category = router.context.recipeIndex[name];
         const navLink = router.link(a(`/recipes/${category.name}`, category.label, { className: 'nav-tab label border-main' }), 'active');
-        drawer.appendChild(navLink);
+        newNav.appendChild(navLink);
     }
     router.get('/recipes/{category}', prerender);
 
-    swap(menu, newNav);
+    newNav._toggle = toggleDrawer;
+    return newNav;
 
     async function prerender(router) {
         const category = router.context.recipeIndex[router.params.category];
@@ -103,14 +118,14 @@ function categoriesPage(router) {
 
         function open() {
             select.classList.add('selected');
-            drawer.style.display = 'inline-block';
+            newNav.style.display = 'inline-block';
 
             setTimeout(() => document.addEventListener('click', clickHandler), 0);
         }
 
         function close() {
             select.classList.remove('selected');
-            drawer.style.display = 'none';
+            newNav.style.display = 'none';
 
             document.removeEventListener('click', clickHandler);
         }

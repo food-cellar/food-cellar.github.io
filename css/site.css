@@ -49,6 +49,10 @@ body {
     width: 50%;
 }
 
+header {
+    position: relative;
+}
+
 main {
     border-top: none;
     background-color: white;
@@ -63,13 +67,9 @@ nav {
     content: "☰";
 }
 
-#nav-sub {
-    position: relative;
-}
-
 .drawer {
     z-index: 3;
-    left: 0;
+    right: 0;
     top: 100%;
     display: none;
     position: absolute;
@@ -79,15 +79,13 @@ nav {
     display: block;
     text-align: left;
     border: none;
+    min-width: 50vw;
 }
 
 .select {
-    display: block;
     position: relative;
     color: white;
     text-decoration: none;
-    padding: 0.25em 0.5em;
-    padding-left: 1.5em;
     border-bottom: none;
 }
 
@@ -95,20 +93,29 @@ nav {
     background-color: #3d5c3d;
 }
 
-.select:before {
+.select:after {
     position: absolute;
     content: "";
     top: 14px;
-    left: 10px;
+    right: 10px;
     width: 0;
     height: 0;
     border: 6px solid transparent;
     border-color: #fff transparent transparent transparent;
 }
 
-.select.selected:before {
+.select.selected:after {
     border-color: transparent transparent #fff transparent;
     top: 7px;
+}
+
+@media screen and (max-width: 600px) {
+    .screen {
+        display: none;
+    }
+    .drawer > * {
+        background-color: #3d5c3d;
+    }
 }
 
 @media screen and (min-width: 600px) {
