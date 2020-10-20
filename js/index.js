@@ -1,18 +1,29 @@
-import { getIndex, getRecipe } from './data.js';
+import { Router } from './routing.js';
+import e, { div, a, swap, loading } from './dom.js';
+
+import { getIndex, getRecipe, settings } from './data.js';
 import staplesPage from './ingredientPages/staples.js';
 import availablePage from './ingredientPages/available.js';
 import bannedPage from './ingredientPages/banned.js';
 import recipesPage from './recipePages/recipes.js';
 import detailsPage from './recipePages/details.js';
 
-import { Router } from './routing.js';
-import e, { div, a, swap, loading } from './dom.js';
 
 
 window.addEventListener('load', mainPage);
 
 async function mainPage() {
     renderPage(loading);
+
+    /* BEGIN Environment detection */
+    try {
+        const env = await (await fetch('/LOCAL')).text();
+        settings.host = env;
+    } catch (err) {
+        // Environemnt is production
+    }
+    /* END Environment detection */
+
     const context = await getIndex();
     context.ingredients = Object.values(context.ingredientsIndex);
     
