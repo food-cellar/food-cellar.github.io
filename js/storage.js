@@ -1,17 +1,18 @@
 localStorage.setItem('staples', JSON.stringify([2,4,9,11,12,20,23,25,28,29,36,42,60,61,65,70,75,77,66,10,1]));
 
 function setupStorage(name) {
-    let data = localStorage.getItem(name);
-    if (data === null) {
+    let source = localStorage.getItem(name);
+    if (source === null) {
         localStorage.setItem(name, JSON.stringify([]));
-        data = [];
+        source = [];
     } else {
-        data = JSON.parse(data);
+        source = JSON.parse(source);
     }
-    if (data.length > 0 && data[0].toString().includes('http')) {
+    if (source.length > 0 && source[0].toString().includes('http')) {
         localStorage.setItem(name, JSON.stringify([]));
-        data = [];
+        source = [];
     }
+    const data = source;
 
     function add(id) {
         data.push(Number(id));
@@ -19,8 +20,13 @@ function setupStorage(name) {
     }
 
     function remove(id) {
-        data = data.filter(i => i != Number(id));
-        localStorage.setItem(name, JSON.stringify(data));
+        for (let i = 0; i< data.length; i++) {
+            if (data[i] == Number(id)) {
+                data.splice(i, 1);
+                localStorage.setItem(name, JSON.stringify(data));
+                return;
+            }
+        }
     }
 
     function is(id) {
