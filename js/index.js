@@ -45,6 +45,7 @@ async function mainPage() {
     router.get('/ingredients', nav.showIngredientsNav);
     router.get('/ingredients/staples', staplesPage);
     router.get('/ingredients/available', availablePage);
+    router.get('/ingredients/available', nav.showIngredientsNav);
     router.get('/ingredients/banned', bannedPage);
     router.get('/ingredients/mandatory', mandatoryPage);
 
