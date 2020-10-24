@@ -1,6 +1,6 @@
 import { getRecommended } from '../data.js';
 import e, { a, div, span, button, loading } from '../dom.js';
-import { mandatory, banned, available, staple } from '../storage.js';
+import { mandatory, banned, available, staple, clearMandatory } from '../storage.js';
 
 
 export default function recipesPage(router) {
@@ -18,6 +18,22 @@ export default function recipesPage(router) {
 
     const loader = loading();
     const element = e('section', [e('h2', category.label), loader]);
+    if (mandatory.length > 0) {
+        const names = mandatory.map(id => router.context.ingredientsIndex[id].displayName);
+        const message = e('p', 'Само рецепти с ');
+        for (let i = 0; i < names.length; i++) {
+            message.appendChild(e('strong', names[i]));
+            if (i < names.length - 1) {
+                message.append(', ');
+            }
+        }
+        message.appendChild(button('Премахни филтър', () => {
+            clearMandatory();
+            recipesPage(router);
+        }, { className: 'alt tagBtn' }));
+
+        element.appendChild(message);
+    }
     nextPage();
 
     router.render(element);

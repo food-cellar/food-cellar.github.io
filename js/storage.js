@@ -1,4 +1,4 @@
-localStorage.setItem('staples', JSON.stringify([2,4,9,11,12,20,23,25,28,29,36,42,60,61,65,70,75,77,66,10,1]));
+localStorage.setItem('staples', JSON.stringify([2, 4, 9, 11, 12, 20, 23, 25, 28, 29, 36, 42, 60, 61, 65, 70, 75, 77, 66, 10, 1]));
 
 function setupStorage(name) {
     let source = localStorage.getItem(name);
@@ -20,7 +20,7 @@ function setupStorage(name) {
     }
 
     function remove(id) {
-        for (let i = 0; i< data.length; i++) {
+        for (let i = 0; i < data.length; i++) {
             if (data[i] == Number(id)) {
                 data.splice(i, 1);
                 localStorage.setItem(name, JSON.stringify(data));
@@ -33,23 +33,29 @@ function setupStorage(name) {
         return data.includes(Number(id));
     }
 
+    function clear() {
+        data.length = 0;
+        localStorage.setItem(name, JSON.stringify(data));
+    }
+
     return {
         _data: data,
         add,
         remove,
-        is
+        is,
+        clear
     };
 }
 
 const { add: addStaple, remove: removeStaple, is: isStaple, _data: staple } = setupStorage('staples');
 const { add: addBanned, remove: removeBanned, is: isBanned, _data: banned } = setupStorage('banned');
 const { add: addAvailable, remove: removeAvailable, is: isAvailable, _data: available } = setupStorage('available');
-const { add: addMandatory, remove: removeMandatory, is: isMandatory, _data: mandatory } = setupStorage('mandatory');
+const { add: addMandatory, remove: removeMandatory, is: isMandatory, clear: clearMandatory, _data: mandatory } = setupStorage('mandatory');
 
 export { addStaple, removeStaple, isStaple, staple };
 export { addBanned, removeBanned, isBanned, banned };
 export { addAvailable, removeAvailable, isAvailable, available };
-export { addMandatory, removeMandatory, isMandatory, mandatory };
+export { addMandatory, removeMandatory, isMandatory, clearMandatory, mandatory };
 
 export function hasMandatory(ingredientIds) {
     if (mandatory.length == 0) {
