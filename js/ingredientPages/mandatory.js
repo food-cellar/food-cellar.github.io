@@ -3,13 +3,15 @@ import ingredientList from '../common/ingredientList.js';
 import { addMandatory, removeMandatory, isMandatory, isStaple, isBanned } from '../storage.js';
 
 
-export default function mandatoryPage(ingredients) {
+export default function mandatoryPage(router) {
+    const ingredients = router.context.ingredients;
+    
     const element = e('section', e('h2', 'Задължителни съставки'));
     
-    ingredients = ingredients.filter(i => (isStaple(i.id) || isBanned(i.id)) == false);
+    const filtered = ingredients.filter(i => (isStaple(i.id) || isBanned(i.id)) == false);
 
     const colorId = '#99ff99';
-    const table = ingredientList('m-', ingredients, addMandatory, removeMandatory, isMandatory, colorId);
+    const table = ingredientList('m-', filtered, addMandatory, removeMandatory, isMandatory, colorId);
 
     table.entries.forEach(e => {
         if (isMandatory(e._record.id)) {
@@ -19,5 +21,5 @@ export default function mandatoryPage(ingredients) {
 
     element.appendChild(table);
 
-    return element;
+    router.render(element);
 }

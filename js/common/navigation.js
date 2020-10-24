@@ -39,7 +39,8 @@ export function createMainNav(router) {
 function createIngrNav(router) {
     return e('nav', [
         router.link(a('/ingredients/available', 'Налични', { className: 'nav-tab label border-main' }), 'active'),
-        router.link(a('/ingredients/banned', 'Изключени', { className: 'nav-tab label border-main' }), 'active')
+        router.link(a('/ingredients/banned', 'Изключени', { className: 'nav-tab label border-main' }), 'active'),
+        router.link(a('/ingredients/mandatory', 'Задължителни', { className: 'nav-tab label border-main' }), 'active')
     ], { id: 'nav-sub' });
 }
 

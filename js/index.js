@@ -7,6 +7,7 @@ import { createMainNav } from './common/navigation.js';
 import staplesPage from './ingredientPages/staples.js';
 import availablePage from './ingredientPages/available.js';
 import bannedPage from './ingredientPages/banned.js';
+import mandatoryPage from './ingredientPages/mandatory.js';
 import recipesPage from './recipePages/recipes.js';
 import detailsPage from './recipePages/details.js';
 
@@ -45,6 +46,7 @@ async function mainPage() {
     router.get('/ingredients/staples', staplesPage);
     router.get('/ingredients/available', availablePage);
     router.get('/ingredients/banned', bannedPage);
+    router.get('/ingredients/mandatory', mandatoryPage);
 
     router.get('/recipes', nav.showRecipesNav);
     router.get('/recipes/{category}', recipesPage);
